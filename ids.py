@@ -2,6 +2,7 @@ import numpy as np
 import requests
 import os
 import re
+import nltk
 
 np.random.seed(10)
 url = "https://en.wikipedia.org/w/api.php"
@@ -934,5 +935,19 @@ def clean_documents(folder):
                     fw.write(nl)
 
 
+def tokenize(text):
+    return nltk.word_tokenize(text)
+
+
+test_path = "/home/edoardo/nlp_wikipedia/documents/medicine_cleaned/10013_c.txt"
 # produce_documents(m_ids, "non_medicine")
-clean_documents("non_medicine")
+# clean_documents("non_medicine")
+# nltk.download("punkt")
+
+tokens = []
+with open(test_path, "r") as f:
+    lines = f.readlines()
+    for l in lines:
+        tokens.append(tokenize(l))
+
+print(tokens)
