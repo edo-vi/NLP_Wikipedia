@@ -1,0 +1,134 @@
+{{Short description|Antidiabetic medication}}
+{{Use American English|date=December 2022}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox drug
+| drug_name         = 
+| INN               = 
+| type              = <!-- empty -->
+| image             = Bexagliflozin structure.svg
+| width             = 325
+| alt               = 
+| caption           =
+
+<!-- Clinical data -->
+| pronounce         = 
+| tradename         = Brenzavvy, Bexacat
+| Drugs.com         = {{drugs.com|cons|bexagliflozin}}
+| MedlinePlus       = 
+| licence_CA        = <!-- Health Canada may use generic or brand name (generic name preferred) -->
+| licence_EU        = <!-- EMA uses INN (or special INN_EMA) -->
+| DailyMedID        = Bexagliflozin
+| licence_US        = <!-- FDA may use generic or brand name (generic name preferred) -->
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_AU_comment = 
+| pregnancy_category = 
+| routes_of_administration = [[By mouth]]
+| class             = 
+| ATCvet            = 
+| ATC_prefix        = None
+| ATC_suffix        = 
+| ATC_supplemental  = 
+
+<!-- Legal status -->
+| legal_AU          = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_AU_comment  = 
+| legal_BR          = <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F -->
+| legal_BR_comment  = 
+| legal_CA          = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_CA_comment  = 
+| legal_DE          = <!-- Anlage I, II, III or Unscheduled -->
+| legal_DE_comment  = 
+| legal_NZ          = <!-- Class A, B, C -->
+| legal_NZ_comment  = 
+| legal_UK          = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_UK_comment  = 
+| legal_US          = Rx-only
+| legal_US_comment  = <ref name="Bexacat FDA label">{{cite web | title=Bexacat- bexagliflozin tablets tablet | website=DailyMed | date=16 January 2023 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f918583d-0337-40da-8da1-1e1320b8d027 | access-date=21 January 2023}}</ref><ref name="FDA Bexagliflozin" /><ref name="Brenzavvy FDA label">https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/214373s000lbl.pdf</ref>
+| legal_EU          = 
+| legal_EU_comment  = 
+| legal_UN          = <!-- N I, II, III, IV / P I, II, III, IV -->
+| legal_UN_comment  = 
+| legal_status      = <!-- For countries not listed above -->
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       = 
+| onset             = 
+| elimination_half-life = 
+| duration_of_action = 
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 1118567-05-7
+| CAS_supplemental  = 
+| PubChem           = 25195624
+| IUPHAR_ligand     = 
+| DrugBank          = DB12236
+| ChemSpiderID      = 26609013
+| UNII              = EY00JF42FV
+| KEGG              = D10865
+| ChEBI             = 
+| ChEMBL            = 1808388
+| NIAID_ChemDB      = 
+| PDB_ligand        = 
+| synonyms          =
+
+<!-- Chemical and physical data -->
+| IUPAC_name        = (2''S'',3''R'',4''R'',5''S'',6''R'')-2-[4-Chloro-3-{{!((}}4-(2-cyclopropyloxyethoxy)phenyl]methyl]phenyl]-6-(hydroxymethyl)oxane-3,4,5-triol
+| C=24 | H=29 | Cl=1 | O=7
+| SMILES            = C1CC1OCCOC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl
+| StdInChI          = 1S/C24H29ClO7/c25-19-8-3-15(24-23(29)22(28)21(27)20(13-26)32-24)12-16(19)11-14-1-4-17(5-2-14)30-9-10-31-18-6-7-18/h1-5,8,12,18,20-24,26-29H,6-7,9-11,13H2/t20-,21-,22+,23-,24+/m1/s1
+| StdInChI_comment  = 
+| StdInChIKey       = BTCRKOKVYTVOLU-SJSRKZJXSA-N
+| density           = 
+| density_notes     = 
+| melting_point     = 
+| melting_high      = 
+| melting_notes     = 
+| boiling_point     = 
+| boiling_notes     = 
+| solubility        = 
+| sol_units         = 
+| specific_rotation = 
+}}
+
+'''Bexagliflozin''', sold under the brand name '''Brenzavvy''', is an [[antidiabetic medication]] used to improve glycemic control in adults with [[type 2 diabetes]] as an adjunct to diet and exercise.<ref name="Novel Drug Approvals for 2023">{{cite web | title=Novel Drug Approvals for 2023 | website=U.S. [[Food and Drug Administration]] (FDA) | date=20 January 2023 | url=https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2023 | access-date=21 January 2023}} {{PD-notice}}</ref> It is a [[SGLT2 inhibitor|sodium-glucose cotransporter 2 (SGLT2) inhibitor]] that is taken [[by mouth]].<ref name="Bexacat FDA label" /><ref name="FDA Bexagliflozin" />
+
+== Medical uses ==
+Bexagliflozin is [[indicated]] to improve glycemic control in adults with type 2 diabetes as an adjunct to diet and exercise.<ref name="Novel Drug Approvals for 2023" />
+
+== Research ==
+A 96-week phase 2 clinical study of adults with type 2 diabetes showed that bexagliflozin monotherapy provided a durable, clinically meaningful improvement of glycemic control, with a substantial reduction in weight and blood pressure, but no increase in the rate of significant adverse events.<ref name="Halvorsen">{{ cite journal | vauthors = Halvorsen YD, Lock JP, Frias JP, Tinahones FJ, Dahl D, Conery AL, Freeman MW | display-authors = 6 | title = A 96‐week, double‐blind, randomized controlled trial comparing bexagliflozin to glimepiride as an adjunct to metformin for the treatment of type 2 diabetes in adults | journal = Diabetes, Obesity and Metabolism | date = September 2022 | volume = 25 | issue = 1 | pages = 293–301 | doi = 10.1111/dom.14875 | pmid = 36178197 | s2cid = 252623503 | doi-access = free }}</ref><ref name="Halvorsen et al.">{{cite journal | vauthors = Halvorsen YC, Walford GA, Massaro J, Aftring RP, Freeman MW | title = A 96-week, multinational, randomized, double-blind, parallel-group, clinical trial evaluating the safety and effectiveness of bexagliflozin as a monotherapy for adults with type 2 diabetes | journal = Diabetes, Obesity and Metabolism | volume = 21 | issue = 11 | pages = 2496–2504 | date = November 2019 | pmid = 31297965 | doi = 10.1111/dom.13833| s2cid = 195892291 }}</ref> In a clinical study of patients with type 2 diabetes and stage 3a/3b chronic kidney disease, bexagliflozin was well tolerated and shown to reduce hemoglobin A1c levels, body weight, systolic blood pressure and albuminuria.<ref name="Allegretti et al.">{{ cite journal | vauthors = Allegretti AS, Zhang W, Zhou W, Thurber TK, Rigby SP, Bowman-Stroud C, Trescoli C, Serusclat P, Freeman MW, Halvorsen YC | display-authors = 6 | title = Safety and effectiveness of bexagliflozin in patients with type 2 diabetes mellitus and stage 3a/3b CKD | journal = American Journal of Kidney Diseases | volume = 74 | issue = 3 | pages = 328–337 | date = September 2019 | doi = 10.1053/j.ajkd.2019.03.417 | pmid = 31101403 | pmc = 10077840 | s2cid = 157066958 }}</ref>
+
+== Veterinary uses ==
+The data from two six-month field studies and an extended use field study demonstrated that bexagliflozin was over 80% effective in improving glycemic control in cats with diabetes mellitus.<ref name="FDA Bexagliflozin" />
+
+Bexagliflozin, sold under the brand name Bexacat, is an antidiabetic medication used to improve glycemic control in cats with diabetes.<ref name="FDA Bexagliflozin" /> Bexacat is the first [[SGLT2 inhibitor|sodium-glucose cotransporter 2 (SGLT2) inhibitor]] new animal drug approved by the US [[Food and Drug Administration]] (FDA) in any animal species.<ref name="FDA Bexagliflozin">{{cite web | title=FDA Approves First Oral Treatment for Cats with Diabetes Mellitus | publisher=U.S. [[Food and Drug Administration]] (FDA) | date=8 December 2022 | url=https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-oral-treatment-cats-diabetes-mellitus | access-date=11 December 2022}} {{PD-notice}}</ref> It was approved for medical use in the United States in December 2022.<ref name="FDA Bexagliflozin" /><ref name="Elanco PR">{{cite press release | title=Elanco Announces FDA Approval of Bexacat (bexagliflozin tablets) – the First-of-its-Kind Oral Feline Diabetes Treatment Option | publisher=Elanco | date=9 December 2022 | url=https://www.elanco.com/en-us/news/elanco-announces-fda-approval-of-bexacat | access-date=11 December 2022}}</ref> Bexacat is sponsored by Increvet Inc., based in Boston, Massachusetts.<ref name="FDA Bexagliflozin" /> Elanco licensed development and commercialization rights for bexagliflozin from Bexcafe, an affiliate of Increvet.<ref name="Elanco PR" />
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* {{cite journal | vauthors = Benedict SL, Mahony OM, McKee TS, Bergman PJ | title = Evaluation of bexagliflozin in cats with poorly regulated diabetes mellitus | journal = Canadian Journal of Veterinary Research | volume = 86 | issue = 1 | pages = 52–58 | date = January 2022 | pmid = 34975223 | pmc = 8697324 | doi = }}
+* {{cite journal | vauthors = Zhang W, Li X, Ding H, Lu Y, Stilwell GE, Halvorsen YD, Welihinda A | display-authors = 6 | title = Metabolism and disposition of the SGLT2 inhibitor bexagliflozin in rats, monkeys and humans | journal = Xenobiotica | volume = 50 | issue = 5 | pages = 559–569 | date = May 2020 | pmid = 31432741 | doi = 10.1080/00498254.2019.1654634 | s2cid = 201115043 | doi-access = free }}
+
+== External links ==
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/name/bexagliflozin | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Bexagliflozin }}
+
+{{Oral hypoglycemics and insulin analogs}}
+{{Sodium-glucose transporter modulators}}
+
+[[Category:Anti-diabetic drugs]]
+[[Category:Cat medications]]
+[[Category:SGLT2 inhibitors]]
+[[Category:Chloroarenes]]
+[[Category:Cyclopropyl compounds]]
+[[Category:Ethers]]
+[[Category:Phenol ethers]]
+[[Category:Glucosides]]
+
+
+{{Pharma-stub}}
+{{vet-stub}}

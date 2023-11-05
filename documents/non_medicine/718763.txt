@@ -1,0 +1,140 @@
+{{Short description|Study of narrative structures}}
+{{for|the "ludology vs. narratology" debates of cultural meaning in video games|Game studies#"Ludology" vs "narratology"}}
+
+'''Narratology''' is the study of narrative and [[narrative structure]] and the ways that these affect human perception.<ref>[https://www.cla.purdue.edu/english/theory/narratology/modules/introduction.html General Introduction to Narratology], College of Liberal Arts, [[Purdue University]]</ref> It is an anglicisation of French ''narratologie'', coined by [[Tzvetan Todorov]] (''Grammaire du Décaméron'', 1969).<ref>[[Gerald Prince]], "Narratology," ''Johns Hopkins Guide to Literary Theory and Criticism'', ed. Michael Groden and Martin Kreiswirth (Baltimore: Johns Hopkins UP, 1994) 524.</ref> Its theoretical lineage is traceable to [[Aristotle]] (''[[Poetics (Aristotle)|Poetics]]'') but modern narratology is agreed to have begun with the [[Russian formalism|Russian formalists]], particularly [[Vladimir Propp]] (''Morphology of the Folktale'', 1928), and [[Mikhail Bakhtin]]'s theories of [[heteroglossia]], [[dialogism]], and the [[chronotope]] first presented in ''[[The Dialogic Imagination]]'' (1975). 
+
+Cognitive narratology is a more recent development that allows for a broader understanding of narrative. Rather than focus on the structure of the story, cognitive narratology asks "how humans make sense of stories" and "how humans use stories as sense-making instruments".<ref>{{Cite book |last=Herman |first=David |url=https://www.worldcat.org/oclc/52806071 |title=Narrative theory and the cognitive sciences |date=2003 |publisher=CSLI Publications |isbn=1-57586-467-3 |location=Stanford, Calif. |pages=12 |oclc=52806071}}</ref>
+
+== Defining narrative ==
+{{See also|Narrative|Plot (narrative)}}
+Structuralist narratologists like Rimmon-Kenan define narrative fiction as "the narration of a succession of fictional events".<ref>{{Cite book |last=Rimmon-Kenan |first=Shlomith |title=Narrative Fiction: Contemporary Poetics |publisher=Routledge |year=1983 |location=London |pages=2}}</ref> 
+
+Cognitive narratologists focus on how people experience something as narrative rather than on the structure of the text itself. The six-word story "[[For sale: baby shoes, never worn]]", is often given as an example that would not qualify as a narrative in the strictly structural approach, but that evokes a sense of narrative. 
+
+[[Marie-Laure Ryan]] distinguishes between "a narrative" as an object that can be clearly defined and the quality of [[narrativity]], which means "being able to inspire a narrative response”.<ref>{{Cite book |last=Ryan |first=Marie-Laure |url=http://www.marilaur.info/narr.htm |title=Routledge encyclopedia of narrative theory |date=2005 |publisher=Routledge |isbn=0-415-28259-4 |editor-last=Herman |editor-first=David |location=London |chapter=Narrative |oclc=56367329 |editor-last2=Jahn |editor-first2=Manfred |editor-last3=Ryan |editor-first3=Marie-Laure}}</ref> This allows her to understand [[Video game|video games]] as possessing narrativity without necessarily being conventional narratives. [[Astrid Ensslin]] builds upon this, explaining that "games have the potential to evoke multiple, individualized narrative scripts through world-building, causal event design, character development and other elements that players interact with the intention to solve problems and make progress".<ref>{{Cite book |last=Ensslin |first=Astrid |url=https://www.taylorfrancis.com/books/edit/10.4324/9781003100157/routledge-companion-narrative-theory-paul-dawson-maria-m%C3%A4kel%C3%A4 |title=The Routledge Companion to Narrative Theory |publisher=Routledge |year=2022 |editor-last=Dawson |editor-first=Paul |chapter=Video Games as Complex Narratives and Embodied Metalepsis |doi=10.4324/9781003100157 |isbn=9781003100157 |s2cid=249112029 |editor-last2=Mäkelä |editor-first2=Maria}}</ref>
+
+==History==
+The origins of narratology lend to it a strong association with the [[Structuralism|structuralist]] quest for a formal system of useful description applicable to any narrative content, by analogy with the [[Formal grammar|grammars]] used as a basis for [[parsing]] [[sentence (linguistics)|sentences]] in some forms of [[linguistics]]. This procedure does not however typify all work described as narratological today; [[Percy Lubbock]]'s work in [[Point of view (literature)|point of view]] (''The Craft of Fiction'', 1921) offers a case in point.<ref>{{Cite web |title=The Project Gutenberg eBook of The Craft of Fiction, by Percy Lubbock |url=https://www.gutenberg.org/files/18961/18961-h/18961-h.htm |access-date=2020-05-22 |website=www.gutenberg.org}}</ref>
+
+In 1966 a special issue of the journal ''Communications'' proved highly influential, becoming considered a program for research into the field and even a [[manifesto]].<ref name="Herman2005p574" /><ref name="Bamberg1998p40" /> It included articles by [[Roland Barthes]], Claude Brémond, [[Gérard Genette]], [[Algirdas Julien Greimas]], [[Tzvetan Todorov]] and others, which in turn often referred to the works of [[Vladimir Propp]]<ref name="Herman2005p574">Herman, David and Jahn, Manfred and Ryan, Marie-Laure (2005) [https://books.google.com/books?id=wWNnBndF9uEC&pg=PA574 ''Routledge encyclopedia of narrative theory''], pp.574–5</ref><ref name="Bamberg1998p40">Bamberg, Michael G. W. (1998) [https://books.google.com/books?id=HozLdEhiN-8C&pg=PA40 ''Oral Versions of Personal Experience: Three Decades of Narrative Analysis. A Special Issue of the Journal of Narrative and Life History''], p.40{{Dead link|date=February 2017}}</ref> (1895–1970).
+
+[[Jonathan Culler]] (2001) describes narratology as comprising many strands 
+
+<blockquote>
+implicitly united in the recognition that narrative theory requires a distinction between "story," a sequence of actions or events conceived as independent of their manifestation in discourse, and "discourse," the discursive presentation or narration of events.'<ref>Jonathan Culler, ''The Pursuit of Signs: Semiotics, Literature, Deconstruction'', Routledge Classics ed. (London: Routledge, 2001) 189.</ref>
+</blockquote>
+
+The [[Russian Formalists]] first proposed such a distinction, employing the couplet [[fabula and syuzhet]]. A subsequent succession of alternate pairings has preserved the essential binomial impulse, e.g. ''histoire''/''discours'', ''histoire''/''récit'', ''story''/''plot''. The Structuralist assumption that one can investigate fabula and syuzhet separately gave birth to two quite different traditions: thematic (Propp, Bremond, Greimas, Dundes, et al.) and modal (Genette, Prince, et al.) narratology.<ref>Ruth Ronen, "Paradigm Shift in Plot Models: An Outline of the History of Narratology", ''Poetics Today'', 11(4):817–842 (Winter 1990).</ref> The former is mainly limited to a semiotic formalization of the sequences of the actions told, while the latter examines the manner of their telling, stressing voice, point of view, the transformation of the chronological order, rhythm, and frequency. Many authors (Sternberg, 1993,<ref>[[Meir Sternberg]], ''Expositional Modes and Temporal Ordering in Fiction'', (Bloomington: Indiana UP, 1993.)</ref> [[Paul Ricoeur|Ricoeur]], 1984, and [[Raphaël Baroni|Baroni]], 2007)<ref>[[Raphaël Baroni]], ''La Tension narrative. Suspense, curiosité et surprise'', (Paris: Seuil, 2007).</ref> have insisted that thematic and modal narratology should not be looked at separately, especially when dealing with the function and interest of narrative sequence and plot.
+
+==Applications==
+Designating work as narratological is to some extent dependent more on the academic discipline in which it takes place than any theoretical position advanced. The approach is applicable to any narrative, and in its classic studies, vis-a-vis Propp, non-literary narratives were commonly taken up. Still, the term "narratology" is most typically applied to [[literary theory]] and [[literary criticism]], as well as [[film theory]] and (to a lesser extent) [[film criticism]]. Atypical applications of narratological methodologies would include [[sociolinguistics|sociolinguistic]] studies of oral storytelling ([[William Labov]]) and in [[conversation analysis]] or [[discourse analysis]] that deal with narratives arising in the course of spontaneous verbal interaction. It also includes the study of videogames, [[graphic novels]], the [[infinite canvas]], and narrative sculptures linked to [[topology]] and [[graph theory]].<ref>Félix Lambert, 2015, "[https://www.academia.edu/11744670/Narrative_sculptures_graph_theory_topology_and_new_perspectives_in_narratology Narrative sculptures: graph theory, topology and new perspectives in narratology]."</ref>
+However, constituent analysis of a type where [[narreme]]s are considered to be the basic units of narrative structure could fall within the areas of [[linguistics]], [[semiotics]], or [[literary theory]].<ref>Henri Wittmann, "[http://www.nou-la.org/ling/1975a-theonarreme.pdf Théorie des narrèmes et algorithmes narratifs]," ''Poetics'' 4.1 (1975): 19–28.</ref>
+== Narratology in new media ==
+Digital-media theorist and professor [[Janet Murray]] theorized a shift in storytelling and narrative structure in the twentieth century as a result of scientific advancement in her 1998 book [[Hamlet on the Holodeck |"Hamlet on the Holodeck : The Future of Narrative in Cyberspace Future of Narrative in Cyberspace'."]] Murray argues that narrative structures such as the [[multi-narrative]] more accurately reflected "post-Einstein physics" and the new perceptions of time, process, and change, than the traditional linear narrative. The unique properties of computers are better-suited for expressing these "limitless, intersecting" stories or "cyberdramas."<ref>{{Cite book |last=Murray |first=Janet Horowitz |url=https://archive.org/details/hamletonholodeck00murr_0 |title=Hamlet on the holodeck |date=1997 |publisher=Free Press |others=Internet Archive|isbn=9780684827230 }}</ref> These cyberdramas differ from traditional forms of storytelling in that they invite the reader into the narrative experience through interactivity i.e. [[hypertext fiction]] and Web soap ''The Spot.'' Murray also controversially declared that [[Game_studies#%22Ludology%22_vs_%22Narratology%22|video games]] – particularly [[role-playing games]] and life-simulators like ''[[The Sims]]'', contain narrative structures or invite the users to create them. She supported this idea in her article "Game Story to Cyberdrama" in which she argued that stories and games share two important structures: contest and puzzles.<ref>{{Cite web |last=Murray |first=Janet |date=May 1, 2004 |title=From Game-Story to Cyberdrama |url=https://electronicbookreview.com/essay/from-game-story-to-cyberdrama/ |access-date=2019-12-08 |website=Electronic Book Review |language=en-US}}</ref> 
+
+=== Electronic literature and cybertext ===
+Development and exclusive consumption of digital devices and interactivity are key characteristics of [[electronic literature]]. This has resulted in varying narrative structures of these interactive media. [[Nonlinear narrative]]s serve as the base of many [[interactive fiction]]s. Sometimes used interchangeably with hypertext fiction, the reader or player plays a significant role in the creation of a unique narrative developed by the choices they make within the story-world. [[Stuart Moulthrop]]'s ''[[Victory Garden (novel)|Victory Garden]]'' is one of the first and most studied examples of hypertext fiction, featuring 1,000 lexias and 2,800 hyperlinks.<ref>{{Cite web |last=Ensslin |first=Astrid |date=May 2, 2010 |title=Victory Garden |url=http://directory.eliterature.org/individual-work/313 |access-date=2019-12-08 |website=Electronic Literature Directory}}</ref>
+
+In his book ''Cybertext: Perspectives on Ergodic Literature,'' [[Espen Aarseth]] conceived the concept of [[cybertext]], a subcategory of [[ergodic literature]], to explain how the medium and mechanical organization of the text affects the reader's experience:
+<blockquote>
+...when you read from a cybertext, you are constantly reminded of inaccessible strategies and paths not taken, voices not heard. Each decision will make some parts of the text more, and others less, accessible, and you may never know the exact results of your choices; that is, exactly what you missed.<ref name=":0">{{Cite book |last=Aarseth |first=Espen |title=Cybertext : perspectives on ergodic literature |date=1997 |publisher=Johns Hopkins University Press |isbn=0-8018-5578-0 |location=Baltimore, Md. |pages=3 |oclc=36246052}}</ref>
+</blockquote>
+
+The narrative structure or game-worlds of these cybertexts are compared to a [[labyrinth]] that invites the player, a term Aarseth deems more appropriate than the reader, to play, explore and discover paths within these texts. Two kinds of labyrinths that are referenced by Aarseth are the unicursal labyrinth which holds one single, winding path that leads to a hidden center, and the multicursal labyrinth, synonymous with a maze, which is branching and complex with the path and direction chosen by the player. These concepts help to distinguish between ergodic (unicursal) and nonergodic literature (multicursal). Some works such as [[Vladimir Nabokov]]'s ''[[Pale Fire]]'' have proven to potentially be both depending on the path the reader takes.{{sfn|Aarseth|1997|pp=5–8}}
+
+==Theorists of Narratology==
+Art critic and philosopher, [[Arthur Danto]], refers to the narrative as describing two separate events.<ref>Danto, A. C. (1973). Analytical Philosophy of Action. United Kingdom: Cambridge University Press.</ref>
+Narrative is also linked to language. The way a story can be manipulated by a character, or in the display of medium contributes to how a story is seen by the world.<ref name="auto1">{{cite journal |last1=Rimmon-Kenan |first1=Shlomith |title=How the Model Neglects the Medium: Linguistics, Language, and the Crisis of Narratology |journal=The Journal of Narrative Technique |date=1989 |volume=19 |issue=1 |pages=157–166 |jstor=30225242 }}</ref> 
+Narratology, as defined by Shlomith Rimmon-Kenan, is a branch of narrative theory. The concept of narratology was developed mainly in France during the sixties and seventies.<ref name="auto1"/> 
+Theorists have argued for a long time about the form and context of narratology. American psychologist Robert Sternburg argued that narratology is "structuralism at variance with the idea of structure”. This basis goes with the French-American belief that narratology is a logical perversion, meaning that it followed a course that at the time did not seem logical.<ref>{{cite journal |last1=Darby |first1=David |title=Form and Context: An Essay in the History of Narratology |journal=Poetics Today |date=2001 |volume=22 |issue=4 |pages=829–852 |doi=10.1215/03335372-22-4-829 |s2cid=10576774 |id={{Project MUSE|27881}} }}</ref>
+Another theorist [[Peter Brooks (writer)|Peter Brooks]] sees narrative as being designed and having intent which is what shapes the structure of a story.<ref name="auto">Felluga, Dino. "Modules on Brooks: On Plotting." Introductory Guide to Critical Theory. Date of last update, which you can find on the home page. Purdue U. Date you accessed the site. <http://www.purdue.edu/guidetotheory/narratology/modules/brooksplot.html>.
+</ref>
+Narrative theorist [[Roland Barthes]] argues that all narratives have similar structures and in every sentence, there are multiple meanings.<ref name="auto"/>
+Barthes sees literature as "writerly text" which does not need a typical plot that has a beginning, middle, and end. Instead, written work "has multiple entrances and exits."<ref name="auto"/>
+Theorist Greimas agrees with other theorists by acknowledging that there is a structure in narrative and set out to find the deep structure of narrativity. However, in his findings, Greimas says that narratology can be used to describe phenomena outside of the written word and linguistics as a whole. He establishes a connection between the physical form of something and the language used to describe that something which breaks the structural code that many other theorists base their research on.<ref name="auto"/>
+
+==See also==
+* [[Digital storytelling]]
+* [[Dramatica (software)|Dramatica Theory of Story Structure (software)]]
+* [[Focalisation]]
+* [[Narrative]]
+* [[Narrative criticism]]
+* [[Narrative structure]]
+* [[Narreme]] as the basic unit of structural narratology
+* [[Post-structuralism]]
+* [[Storytelling]]
+* [[Suspense]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* Abbott, H. Porter. ''The Cambridge Introduction to Narrative.'' Cambridge UP, 2008. 
+* Bal, Mieke. ''Narratology: Introduction to the Theory of Narrative.'' 4th edition [orig. 1985]. U of Toronto Press, 2017.
+* Bal, Mieke, ed. ''Narrative Theory: Critical Concepts in Literary and Cultural Studies.'' 4 vols. London: Routledge, 2004.  
+* Barthes, Roland; W. Kayser; W.C. Booth; Ph. Hamon. ''Poétique du récit.'' Editions du Seuil: Paris, 1977.
+* Bordwell, David. ''Narration in the Fiction Film.'' Madison: U of Wisconsin Press, 1985.
+* Bortolussi, Marisa & Peter Dixon. ''Psychonarratology: Foundations for the Empirical Study of Literary Response.'' Cambridge: Cambridge UP, 2003.
+* Bremond, Claude. ''Logique du récit.'' Paris: Seuil, 1973.   
+* Dawson, Paul; Maria Mäkelä, eds. ''The Routledge Companion to Narrative Theory.'' London: Routledge, 2022.
+* De Fina, Anna; Alexandra Georgakopoulou, eds. ''The Handbook of Narrative Analysis.'' Wiley-Balckwell, 2015. 
+* Emmott, Catherine. ''Narrative Comprehension: A Discourse Perspective.'' Oxford: Oxford UP, 1997. 
+* Fludernik, Monika. ''Towards a ‘Natural’ Narratology.'' London/New York: Routledge, 1996.
+* Fludernik, Monika. ''Introduction to Narratology.'' London/New York: Routledge, 2009.
+* Genette, Gérard ([1972]). ''Narrative Discourse: An Essay in Method.'' Ithaca: Cornell UP, 1980.
+* Grishakova, Marina; Marie-Laure Ryan, eds. ''Intermediality and Storytelling.'' Berlin: De Gruyter, 2010. 
+* Grishakova, Marina; Maria Poulaki, eds. ''Narrative Complexity: Cognition, Embodiment, Evolution.'' Lincoln: U of Nebraska Press, 2019.
+* Herman, David, ed. ''Narratologies. New Perspectives on Narrative Analysis.'' OSU Press, 1999.  
+* Herman, David. ''Story Logic: Problems and Possibilities of Narrative''. University of Nebraska Press, 2004. 
+* Herman, David. ''Basic Elements of Narrative.'' Wiley-Blackwell, 2009. 
+* Herman, David. ''Storytelling and the Sciences of Mind''. MIT Press, 2017. 
+* Herman, David. ''Narratology Beyond the Human: Storytelling and Animal Life.'' Oxford UP, 2018. 
+* Herman, David; Manfred Jahn; Marie-Laure Ryan, eds. ''Routledge Encyclopedia of Narrative Theory.'' 2005.
+* Hühn, Peter; John Pier; Wolf Schmid, and Jörg Schönert, eds. Handbook of Narratology. Berlin: De Gruyter, 2009. 
+*Kearns, Michael. ''Rhetorical Narratology.'' Lincoln: Nebraska UP, 1999. 
+* Meister, Jan Christoph. ''Computing Action. A Narratological Approach.'' Berlin: De Gruyter, 2003. 
+* Page, Ruth. ''Stories and Social Media: Identities and Interaction.'' London: Routledge, 2012. 
+* Page, Ruth. ''Narratives Online: Shared Stories in Social Media.'' Cambridge UP, 2018.  
+* Phelan, James, and Peter J. Rabinowitz. ''A Companion to Narrative Theory.'' Malden: Blackwell, 2005.
+* Phelan, James, and Peter J. Rabinowitz. ''Understanding Narrative.'' Columbus: OSU Press, 1994.
+* Phelan, James, David Herman, and Brian McHale, eds. ''Teaching Narrative Theory.'' New York: MLA Publications, 2010.
+* Phelan, James. ''Experiencing Fiction: Judgments, Progressions, and the Rhetorical Theory of Narrative.'' Columbus: OSU Press, 2007.
+* Phelan, James. ''Living To Tell About It: A Rhetoric and Ethics of Character Narration.'' Ithaca: Cornell UP, 2005.
+* Phelan, James. ''Narrative as Rhetoric: Technique, Audiences, Ethics, Ideology.'' Columbus: OSU Press, 1996.
+* Phelan, James. ''Reading People, Reading Plots: Character, Progression, and the Interpretation of Narrative.'' Chicago: University of Chicago Press, 1989.
+* Prince, Gerald. ''A Grammar of Stories.'' Berlin: Mouton, 1973.
+* Prince, Gerald. ''Narratology: The Form and Functioning of Narrative.'' Berlin: Mouton, 1982. 
+* Prince, Gerald. ''A Dictionary of Narratology.'' Lincoln: U of Nebraska Press, 1987.
+* Rimmon-Kenan, Shlomith. ''Narrative Fiction: Contemporary Poetics.'' London: Routledge, 1989. 
+* Ryan, Marie-Laure, ed. ''Narrative across Media: The Languages of Storytelling.'' Lincoln: U of Nebraska P, 2004.   
+* Ryan, Marie-Laure. ''Avatars of Story.'' University of Minnesota Press, series Electronic Mediations, 2006.
+* Ryan, Marie-Laure. ''Possible Worlds, Artificial Intelligence and Narrative Theory.'' Bloomington: Indiana UP, 1991.
+* Ryan, Marie-Laure; Alice Bell, eds. ''Possible Worlds Theory and Contemporary Narratology.'' U of Nebraska Press, 2019.
+* Shklovsky, Viktor. ''Theory of Prose.'' [Russian 1925]. Dalkey Archive Press, 1991. 
+* Schmid, Wolf. ''Elemente der Narratologie.'' Berlin: de Gruyter, 2005.
+* Stanzel, Franz K. ([1979]). ''A Theory of Narrative.'' Cambridge: Cambridge UP, 1984.  
+* Thomas, Bronwen. ''Narrative: The Basics.'' London: Routledge, 2015.
+* Toolan, Michael. ''Narrative: A Critical Linguistic Introduction.'' London: Routledge, 2001. 
+* Warhol, Robin; Susan S. Lanser, eds. ''Narrative Theory Unbound: Queer and Feminist Interventions.'' Columbus: OSU Press, 2015.
+
+==External links==
+{{wikiquote}}
+{{Spoken Wikipedia|date=2023-08-15|Narratology.ogg}}
+* [http://www.chass.utoronto.ca/epc/srb/srb/music.html "Musical Narratology"] by William Echard, review of ''A Theory of Musical Semiotics'' by [[Eero Tarasti]], foreword by [[Thomas A. Sebeok]].
+* [https://perso.limsi.fr/jbb/fanif.html Five Analyses of the Narrative "I First Got Paid"]
+* [https://web.archive.org/web/20080906110954/http://www.unizar.es/departamentos/filologia_inglesa/garciala/bibliography.html Narrative theory bibliography] (A Bibliography of Literary Theory, Criticism and Philology)
+* [http://www.uni-koeln.de/~ame02/pppn.htm Narratology: A Guide to the Theory of Narrative] by Manfred Jahn
+* [http://www.ericdigests.org/pre-921/story.htm Narratology: The Study of Story Structure]
+* [https://web.archive.org/web/20041102004913/http://www.timboucher.com/journal/2004/10/what-is-story-system.html Story-Systems]
+* [http://www.lhn.uni-hamburg.de/ The Living Handbook of Narratology]
+* [http://www.pum.umontreal.ca/revues/surfaces/vol4/mcdonald.html The Narrative Act: Wittgenstein and Narratology] by Henry McDonald
+
+{{Narrative modes}}
+{{Appropriation in the Arts}}
+{{Literary composition}}
+
+{{Authority control}}
+[[Category:Narratology]]
+[[Category:Literature]]
+[[Category:Television]]
+[[Category:Film]]

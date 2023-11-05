@@ -1,0 +1,45 @@
+{{Short description|Species of fly}}
+{{Speciesbox
+| image = Waerbeas rectom moulet.JPG
+| genus = Gasterophilus
+| species = haemorrhoidalis
+| authority = ([[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]])
+| synonyms = ''Oestrus haemorrhoidalis'' <small>[[Carl Linnaeus|Linnaeus]] [[Systema Naturae|1758]]</small> 
+}}
+[[File:Forboutaedje anusse moultea waerbeas.JPG|thumb|In rectum of a mule with anal prolapse]]
+
+'''''Gasterophilus haemorrhoidalis''''' (also called '''nose botfly''' or '''lip botfly''') is a [[species]] of the [[genus]] ''[[Gasterophilus]]'' that lays eggs on the lips and around the mouth of [[horse]]s, [[mule]]s and [[donkey]]s. Their hatching is simulated by moisture from licking or feeding of hosts. 
+
+First instar development: Penetrate epidermis of the lips of hosts and migrate into mouth.
+
+Second instar: move to stomach and duodenum(first section of small intestine)
+
+Third instar: larvae become detached after some time and then pass to the rectum and re-attach themselves.
+
+
+Appearance: Postsutural scutum with ground color uniformly brown or black legs yellowish brown, with femora distinctly darkened; abdomen ground color dark brown or black, with reddish-yellow or orangish setae posteriorly  male with surstylus abruptly tapered distally, surstylar setae short, reaching at most halfway to the sagittal plane 
+
+
+Egg Description: Pedicel long and slender, with width/length ratio around 1/6 in lateral view, accounting for 2/5 of the total egg length. 
+
+In [[Equidae]], third-stage larvae attach to the stomach, but also to the rectum, sometimes in great numbers.<ref>Johannes Kaufmann, Parasitic Infections of Domestic Animals, Birkhäuser Verlag, Basel, Boston, Berlin, 1996, {{ISBN|3-7643-5115-2}}.</ref> Heavy infestation can cause anal [[prolapse]] in foals and mules.
+
+They do not [[parasitise]] humans.
+
+== References ==
+{{Reflist}}2. Li XY, Pape T, Zhang D. Taxonomic review of ''Gasterophilus'' (Oestridae, Gasterophilinae) of the world, with updated nomenclature, keys, biological notes, and distributions. Zookeys. 2019 Nov 21;891:119-156. doi: 10.3897/zookeys.891.38560. PMID: 31802974; PMCID: PMC6882926.{{Commons category|Gasterophilus haemorrhoidalis}}
+
+==External links==
+*[https://web.archive.org/web/20110508140249/http://www.enr.gov.nt.ca/_live/pages/wpPages/Nose_bot.aspx GNWT - Environment and Natural Resources 'Nose Bot' page]
+
+{{Taxonbar|from=Q5526689}}
+
+[[Category:Oestridae]]
+[[Category:Parasitic flies]]
+[[Category:Insects described in 1758]]
+[[Category:Taxa named by Carl Linnaeus]]
+
+
+{{Oestroidea-stub}}
+{{Veterinary-med-stub}}
+{{parasitic insect-stub}}

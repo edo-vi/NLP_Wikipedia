@@ -1,0 +1,20 @@
+'''Chicken-blood therapy''' was a form of pseudo-medical therapy popular in [[China]] during the [[Cultural Revolution]]. It was practised mainly by village doctors in the 1960s. It has been banned for official use by the government since July 1965.<ref>{{cite journal |last1=Zhang |first1=Y. H. |last2=Xiong |first2=W. M. |title=[The medical research of "chicken blood therapy"] |journal=Zhonghua Yi Shi Za Zhi (Beijing, China: 1980) |date=28 July 2020 |volume=50 |issue=4 |pages=214–224 |doi=10.3760/cma.j.cn112155-20200416-00046 |pmid=32911919 |s2cid=221621179 |url=https://pubmed.ncbi.nlm.nih.gov/32911919/ |issn=0255-7053}}</ref>
+
+==Therapy==
+The therapy consisted of weekly injections of dozens to a hundred millilitres fresh blood extracted from chicken, preferably young cocks, either [[Intravenous therapy|intravenously]] or directly into the muscle of the patient. The therapy was said to have been able to cure [[high blood pressure]], [[paralysis]], [[athlete's foot]], [[Hemorrhoid|hemorrhoids]], [[persistent cough]], and the [[common cold]]. The theory was believed to be effective not only as a treatment, but also as a preventative measure.<ref name=":0">{{Cite book |last1=Sullivan |first1=Lawrence R. |url=https://books.google.com/books?id=DGCGBwAAQBAJ |title=Historical dictionary of science and technology in modern China |last2=Liu-Sullivan |first2=Nancy Y. |date=2014 |publisher=[[Rowman & Littlefield Publishers]] |isbn=978-0-8108-7855-6 |location=Lanham |pages=170 |language=en |oclc=905544113}}</ref>
+
+It was said that the therapy enabled the entry of certain proteins into the body to elicit an immune response, but this claim was quickly determined to be a gross exaggeration. Other problems with the therapy immediately became apparent, such as infection and even death from poor chicken blood quality and a lack of purity control.<ref name=":0" />
+
+==Government attitude==
+After learning of chicken-blood therapy, the [[Government of China]] initially banned the therapy; Premier [[Zhou Enlai]] reportedly said that “The Central Ministry of Health’s handling of chicken blood therapy is a violation of [[Mao Zedong Thought]].”<ref name="danwei">{{cite web|author=Martinson, Joel|date=March 2011|title=Injecting Chicken Blood|url=http://www.chinaheritagequarterly.org/articles.php?searchterm=025_blood.inc&issue=025|publisher=Danwei Media|accessdate=2013-05-05}}</ref> However, in 1967, the ban was lifted as part of the [[Cultural Revolution]]. [[Red Guards (China)|Red Guards]] from [[Beijing]] and [[Shanghai]] jointly began encouraging the use of chicken-blood therapy as a legitimate cure.
+
+==References==
+{{reflist}}
+
+[[Category:Alternative medical treatments]]
+[[Category:Chickens]]
+[[Category:Chinese medical academics]]
+
+
+{{alt-med-stub}}
+{{China-stub}}

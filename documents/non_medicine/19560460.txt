@@ -1,0 +1,83 @@
+{{Inline citations|date=May 2023}}
+
+The '''healthcare error proliferation model''' is an adaptation of James Reason’s [[Swiss Cheese Model]] designed to illustrate the [[complexity]] inherent in the contemporary [[healthcare]] delivery system and the attribution of human error within these [[systems]].  The healthcare error proliferation model<ref>{{cite book|author = Palmieri, P. A., DeLucia, P. R., Ott, T. E., Peterson, L. T., & Green, A.|year = 2008|chapter = The anatomy and physiology of error in averse healthcare events|editor1=E. Ford |editor2=G. Savage |title = Advances in Health Care Management|volume = 7|pages = 33&ndash;68|publisher=Emerald Publishing Group| doi = 10.1016/S1474-8231(08)07003-1|isbn = 978-1-84663-954-8}}</ref> explains the etiology of error and the sequence of events typically leading to adverse outcomes.  This model emphasizes the role organizational and external cultures contribute to error identification, prevention, mitigation, and defense construction.
+
+== Introduction ==
+Healthcare systems are ''complex'' in that they are diverse in both structure (e.g. nursing units, pharmacies, emergency departments, operating rooms) and professional mix (e.g. nurses, physicians, pharmacists, administrators, therapists) and made up of multiple interconnected elements with ''adaptive'' tendencies in that they have the capacity to change and learn from experience. The term ''complex adaptive systems'' (CAS) was coined at the interdisciplinary [[Santa Fe Institute]] (SFI), by [[John Henry Holland|John H. Holland]], and [[Murray Gell-Mann]].  Subsequently, scholars such as Ruth A. Anderson, Rubin McDaniels, and [[Paul Cilliers]] have extended CAS theory and research to the social sciences such as education and healthcare.
+
+== Model overview ==
+The healthcare error proliferation model (HEPM) adapts the Swiss Cheese Model<ref name=Reason1990>{{cite book|author= Reason, J. T. | title=Human Error | year =1990|publisher=Cambridge University Press|isbn=0-521-31419-4}}</ref> to the complexity of healthcare delivery systems and integrated organizations.  The Swiss Cheese Model, likens the complex adaptive system to multiple hole infested slices of Swiss cheese positioned side-by-side.<ref name=Reason1990 /><ref>{{cite journal | author= Reason, J. T. | title=Human error: models and management | year =2000|journal=British Medical Journal | pmid= 10720363 | pmc= 1117770 | doi=10.1136/bmj.320.7237.768 | volume= 320 | issue= 7237 | pages= 768–70}}</ref>  The cheese slices are dubbed defensive layers to describe their role and function as the system location outfitted with features capable of intercepting and deflecting hazards. The layers represent discrete locations or organizational levels potentially populated with errors permitting error progression. The four layers include: 1) organizational leadership, 2) risky supervision, 3) situations for unsafe practices, and 4) unsafe performance.
+
+The HEPM portrays hospitals as having multiple operational defensive layers outfitted with essential elements necessary to maintain key defensive barricades (Cook & O'Connor, 2005; Reason, 2000). By examining the defensive layers attributes, prospective locales of failure, the etiology of accidents might be revealed (Leape et al., 1995). Experts have discussed the importance of examining these layers within the context of the complex adaptive healthcare system (Kohn et al., 2000; Wiegmann & Shappell, 2003) and considering the psychological safety of clinicians.  Hence, this model expands Reason’s seminal work.
+
+The model incorporates the complex adaptive healthcare system as a key characteristic.  Complex adaptive systems characteristically demonstrate self-organization as diverse agents interact spontaneously in nonlinear relationships<ref>{{cite journal | author = Anderson, R. A., Issel, M. L., & McDaniel, R. R. | year = 2003 | title = Nursing Homes as Complex Adaptive Systems: Relationship between Management Practice and Resident Outcomes | journal = Nursing Research | volume = 52 | issue = 1 | pages = 12–21 | pmid = 12552171 | pmc = 1993902 | doi=10.1097/00006199-200301000-00003}}</ref><ref>{{cite book | author = Cilliers, P. | year = 1998 | title = Complexity and post modernism: Understanding complex systems | publisher = New York: Routledgel. | isbn = 978-0-415-15286-0}}</ref>  where professionals act as information processors (Cilliers, 1998; McDaniel & Driebe, 2001) and co-evolve with the environment (Casti, 1997). Healthcare professionals function in the system as diverse actors within the complex environment utilizing different methods to process information (Coleman, 1999) and solve systemic problems within and across organizational layers (McDaniel & Driebe, 2001).
+
+=== Definitions ===
+A complex adaptive healthcare system (CAHS) is a care delivery enterprise with diverse clinical and administrative agents acting spontaneously, interacting in nonlinear networks where agents and patients are information processors, and actively co-evolve with their environment with the purposed to produce safe and reliable [[patient-centered outcomes]].<ref>{{cite book | author = Palmieri, P. A., DeLucia, P. R., Ott, T. E., Peterson, L. T., & Green, A. | year = 2008 | title = The anatomy and physiology of error in averse healthcare events | chapter = The anatomy and physiology of error in adverse health care events | volume = 7 | pages = 33–68 | doi = 10.1016/S1474-8231(08)07003-1 | series = Advances in Health Care Management | isbn = 978-1-84663-954-8}}</ref>
+
+==See also==
+{{div col|colwidth=25em}}
+* [[Adverse effect (medicine)]]
+* [[Adverse event]]
+* [[Evidence-based medicine]]
+* [[Hospital accreditation]]
+* [[Iatrogenesis]]
+* [[Iatrogenic disorder]]
+* [[International healthcare accreditation]]
+* [[Latent human error]]
+* [[Medical error]]
+* [[Nursing care]]
+* [[Patient safety organization]]
+* [[Peter Pronovost]]
+* [[Root cause analysis]]
+* [[Serious adverse event]]
+* [[Swiss Cheese model]] of accident causation in human systems
+{{div col end}}
+
+== Citations ==
+{{Reflist|2}}
+
+== References ==
+===Articles===
+{{refbegin|35em}}
+* Anderson, R. A., Issel, M. L., & McDaniel, R. R. (2003). Nursing homes as complex adaptive systems: Relationship between management practice and resident outcomes. Nursing Research, 52(1): 12-21.
+* Berta, W. B. & Baker, R. (2004). Factors that impact the transfer and retention of best practices for reducing error in hospitals. Health Care Management Review, 29(2): 90-97.
+* Chiles, J. R. (2002). Inviting disaster: Lessons from the edge of technology. New York: HarperCollins Publishers.
+* Coleman, H. J. (1999). What enables self-organizing behavior in business. Emergence, 1(1): 33-48.
+* Cook, R. I., Render, M., & Woods, D. D. (2000). Gaps in the continuity of care and progress on patient safety. British Medical Journal, 320(7237): 791-794.
+* Leape, L. L., Bates, D. W., Cullen, D. J., Cooper, J., Demonaco, H. J., Gallivan, T., R., H., Ives, J., Laird, N., Laffel, G., Nemeskal, R., Peterson, L. A., Porter, K., Servi, D., Shea, B. F., Small, S. D., Sweitzer, B. J., Thompson, B. T., & van der Vliet, M. (1995). Systems analysis of adverse drug events. ADE prevention study group. Journal of the American Medical Association, 274(1): 35-43.
+* Leape, L. L. & Berwick, D. M. (2005). Five years after "To err is human": What have we learned?  Journal of the American Medical Association, 293(19): 2384-2390.
+* Leduc, P. A., Rash, C. E., & Manning, M. S. (2005). Human factors in UAV accidents, Special Operations Technology, Online edition ed., Vol. 3.
+* Leonard, M. L., Frankel, A., & Simmonds, T. (2004). Achieving safe and reliable healthcare: Strategies and solutions. Chicago: Health Administration Press.
+* Rasmussen, J. (1990). The role of error in organizing behavior. Ergonomics, 33: 1185-1199.
+* Rasmussen, J. (1999). The concept of human error: Is it useful for the design of safe systems in health care? In C. Vincent & B. deMoll (Eds.), Risk and safety in medicine: 31-47.  London: Elsevier.
+* Reason, J. T. & Mycielska, K. (1982). Absent-minded? The psychology of mental lapses and everyday errors. Englewood Cliffs, NJ: Prentice-Hall Inc.
+* Reason, J. T. (1990). Human error. New York: Cambridge University Press.
+* Reason, J. T. (1997). Managing the risks of organizational accidents. Aldershot: Ashgate Publishing.
+* Reason, J. T. (1998). Managing the risks of organizational accidents. Aldershot, England: Ashgate.
+* Reason, J. T. (2000). Human error: Models and management. British Medical Journal, 320, 768-770.
+* Reason, J. T., Carthey, J., & de Leval, M. R. (2001). Diagnosing vulnerable system syndrome: An essential prerequisite to effective risk management. Quality in Health Care, 10(S2): 21-25.
+* Reason, J. T. & Hobbs, A. (2003). Managing maintenance error: A practical guide. Aldershot, England: Ashgate.
+* Roberts, K. (1990). Some characteristics of one type of high reliability organization. Organization Science, 1(2): 160-176.
+* Roberts, K. H. (2002). High reliability systems. Report on the institute of medicine committee on data standards for patient safety on September 23, 2003.
+{{refend}}
+
+===Books===
+{{refbegin}}
+Cilliers, P. (1998) Complexity and post modernism: Understanding complex systems. New York: Routledge.  ({{ISBN|978-0415152860}})
+{{refend}}
+
+== Other literature ==
+===Complexity theory===
+{{refbegin|30em}}
+* Holland, J. H. (1992). Adaptation in natural and artificial systems.  Cambridge, MA: MIT Press.  ({{ISBN|978-0262581110}})
+* Holland, J. H. (1995).  Hidden order: How adaptation builds complexity.  Reading, MA: Helix Books.  ({{ISBN|978-0201442304}})
+* Holland, J. H. (1998).  Emergence: From chaos to order.  Reading, MA: Addison-Wesley.  ({{ISBN|978-0738201429}})
+* Waldrop, M. M.  (1990).  Complexity: The emerging science at the edge of order and chaos.  New York: Simon & Schuster   ({{ISBN|978-0671767891}})
+{{refend}}
+
+[[Category:Error]]
+[[Category:Medical error]]
+[[Category:Medical terminology]]
+[[Category:Medical ethics]]
+[[Category:Evidence-based medicine]]

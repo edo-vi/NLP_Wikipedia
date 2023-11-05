@@ -1,0 +1,413 @@
+{{short description|Sports controversy that took place in the US}}
+{{use mdy dates|date=October 2019}}
+{{Infobox court case
+|name               = Jane Blalock v. Ladies Professional Golf Association
+|court              = [[United States District Court for the Northern District of Georgia]]
+|image              = 
+|imagesize          = 
+|imagelink          = 
+|imagealt           = 
+|caption            = 
+|full name          = Barbara Jane Blalock, Plaintiff, v. Ladies Professional Golf Association et al., Defendants.
+|date decided       = 1975<!-- {{start date|yyyy|mm|dd|df=}} -->
+|citations          = [http://www.leagle.com/decision/19731619359FSupp1260_11411/BLALOCK%20v.%20LADIES%20PROFESSIONAL%20GOLF%20ASSOCIATION 359 F.Supp. 1260]<ref name="blalcokvlpga">[http://www.leagle.com/decision/19731619359FSupp1260_11411/BLALOCK%20v.%20LADIES%20PROFESSIONAL%20GOLF%20ASSOCIATION 359 F.Supp. 1260]</ref>
+|ECLI               = 
+|transcripts        = 
+|judges             = U.S. District Court Judge [[Charles Allen Moye Jr.|Charles A. Moye Jr.]]
+|number of judges   = 
+|decision by        = Charles A. Moye Jr.
+|concurring         = 
+|dissenting         = 
+|concur/dissent     = 
+|prior actions      = 
+|appealed from      = 
+|appealed to        = 
+|subsequent actions = 
+|related actions    = 
+|opinions           = 
+|keywords           = <!-- {{hlist | }} -->
+|italic title       = 
+}}
+
+'''''Jane Blalock v. Ladies Professional Golf Association''''' was an ongoing lawsuit that took place between 1972 and 1975, following a professional [[golf]] incident in 1972. A month after winning the [[Dinah Shore Colgate Winner's Circle]] in 1972, American golfer [[Jane Blalock]] was allegedly observed replacing her marker incorrectly at the [[Bluegrass Invitational]] during the [[1972 LPGA Tour]].<ref name="droughtcorneliius"/> Blalock was fined and suspended by the [[LPGA Tour]] executive board. The suspension led to a fair degree of press coverage, with Blalock filing an antitrust countersuit in [[United States District Court for the Northern District of Georgia]] shortly afterwards.<ref name="notenoughpunish"/>
+
+In June 1973, federal judge [[Charles Allen Moye Jr.|Charles A. Moye Jr.]] ruled that "LGPA players cannot police their own members," and that Blalock's suspension "was ill-founded."<ref name="antitrust"/>  A court awarded Blalock damages the following year.<ref name="damagesfurthertipled"/> The LPGA subsequently announced plans to appeal.<ref name="favordamages"/> The ongoing lawsuit led to the LPGA searching for its first [[commissioner]], and after Ray Volpe was appointed to the role in July 1975,<ref name="lpgavolpe"/> a month later the LPGA dropped its appeal and settled all claims on the Blalock case.<ref name="courtrustinfavor"/>
+
+==Background==
+[[Jane Blalock]] was born in [[Portsmouth, New Hampshire]] on September 19, 1945.<ref name="all-timereocrdmade"/> She began golfing at age 13, and won the New Hampshire Amateur five straight times beginning in 1965, plus the New England Amateur in 1968. Blalock attended [[Rollins College]] in [[Florida]], graduating in 1967 with a degree in [[history]]. Prior to her playing the LPGA Tour, Blalock worked as a high school history teacher.<ref name="googlewinner"/>
+
+The first time Blalock played on the LPGA Tour was as an amateur at the 1964 [[Lady Carling Eastern Open]]. She finished T33.
+
+Still an amateur, Blalock finished 5th at the 1969 [[Burdine's Invitational]].<ref name="all-timereocrdmade"/>
+
+Blalock turned pro later in 1969 and went on to earn [[LPGA Tour Rookie of the Year]] honors.<ref name="hofficialboublalock">
+{{cite news
+| title       =About
+| url         =http://www.janeblalocklpga.com/
+| publisher   =JaneBlalockLPGA.com
+| access-date  = 2016-03-17
+}}</ref><ref name="krookie">
+{{cite news
+ |title=Louise Suggs Rolex Rookie of the Year winners 
+ |url=http://www.lpga.com/content_1.aspx?pid=2501&mid=2 
+ |publisher=LPGA 
+ |access-date=2016-04-21 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20110629123417/http://www.lpga.com/content_1.aspx?mid=2&pid=2501 
+ |archive-date=June 29, 2011 
+ |df= 
+}}</ref> In 1970, Blalock notched her first professional victory at the [[Potamkin Cadillac Classic|Lady Carling Open]].<ref name="jcaptures"/> On April 16, 1972, Blalock won the inaugural version of the [[Dinah Shore Colgate Winner's Circle]],<ref name="receiveswin"/> an event which would later be considered a [[women's major golf championships|women's major golf championship]]. One month later she won the [[Suzuki Golf Internationale]], beating [[Kathy Whitworth]].<ref name="takessuzuku"/>
+
+==History of the conflict==
+===Disqualification (1972)===
+{{See also|1972 LPGA Tour}}
+After reaching the status of "top money winner on this year's [LPGA] tour," Blalock was competing in the [[Bluegrass Invitational]] in [[Louisville, Kentucky]] by mid May 1972. After the second round the LPGA executive board called Blalock in to tell her she was disqualified from the tournament, contending that she signed an incorrect scorecard and also levying a $500 fine.<ref name="ddmiitedguit"/> Although Blalock's scorecards had been signed and attested by fellow competitors, Tourney director Gene Mcauliff stated that Blalock "did not mark her ball properly on the 17th green and then failed to take a two-stroke penalty as required for that infraction."<ref name="droughtcorneliius"/>
+
+All five members of the executive committee, Linda Craft, [[Sharon Miller]], [[Judy Rankin]], Cynthia Sullivan, and Penny Zavichas, were themselves active players.<ref name="didntmakeit"/> After Blalock's initial interaction with the committee at the Bluegrass Invitational, 27 LPGA players signed an [[affidavit]] demanding "that more severe action be taken against Jane Blalock,"<ref name="refuseback"/> specifically arguing that probation, a fine, and disqualification from the Bluegrass tournament were not enough punishment.<ref name="notenoughpunish"/>
+
+===Hearings and suspension (1972)===
+{|class="toccolours" style="float: right; margin-left: 2em; margin-right: 0em; font-size: 90%; background:offwhite; color:black; width:45em; max-width: 40%;" cellspacing="5"
+|style="text-align: left;"|"[The LPGA committee] told Blalock she had been observed incorrectly marking her ball on several occasions. Blalock had never before been accused of violating the rules. Despite denying the charges, she was disqualified from the tournament. Before her next event, on the advice of a friend, Blalock apologized, saying, 'If all these things you say are true, I guess I've dug my own grave and I'll just have to live with it.' LPGA president [Cynthia Sullivan] interpreted Blalock's comments as an admission of guilt. When that view was reported to the players, 29 of them signed a petition calling for the LPGA to suspend Blalock for the rest of the '72 season, which it did a few days later."
+|-
+|style="text-align: left;"|— Jaime Diaz for ''[[Sports Illustrated]]'' (2011)<ref name="didntmakeit">
+{{cite news
+| title       =Fame or Shame? LPGA must decide on Blalock
+| first       =Jamie
+| last        = Diaz
+| url         =https://www.si.com/vault/2001/01/29/296183/notebook
+| newspaper   =[[Sports Illustrated]]
+| date        =January 29, 2011
+| access-date  = 2016-03-17
+}}</ref>
+|}
+On May 20, 1972<ref name="antitrust"/> the LPGA executive board suspended Blalock for one year "for actions inconsistent with the code of ethics of the organization."<ref name="suspensionbl"/> The suspension came shortly after the announcement that Blalock wouldn't be allowed to compete in the [[Potamkin Cadillac Classic|Lady Carling Open]]. The tour also put a hold on her money earnings from the tour, at the time around $50,000.<ref name="concentrahard"/>
+
+In defending their reasons for the suspension, the board stated in a press release that "the action was taken after Miss Blalock met with the executive committee on three occasions in the last 10 days. She admitted actions on the golf course which are contrary to the rules of the game."<ref name="suspensionbl"/> According to ''Sports Illustrated,'' the board also claimed that Blalock had "been under suspicion for over a year, that there [had] been repeated violations, that witnesses in the gallery at Louisville had observed her replacing the ball to the side of her marker on the green<ref name="courtrustinfavor72"/> and that Janie tearfully admitted to her guilt. Miss Blalock was denying everything."<ref name="ddmiitedguit"/> LPGA executive director Bud Erickson also stated that he had requested Blalock to feign a back injury in an effort to avoid bad publicity, but she refused.<ref name="refuseback"/>
+
+===Initial antitrust lawsuit (1972)===
+On June 1, 1972, Blalock filed a $5 million [[United States antitrust law|antitrust]] lawsuit against the LPGA's suspension<ref name="suitresolved"/> on advice of her attorneys,<ref name="suspensionbl"/> with the intent of "[leaving] it to the court whether she had been suspended wrongly."<ref name="ddmiitedguit"/> Blalock's lawyers moved for her be allowed to continue playing while the suit was resolved.<ref name="suitresolved"/> As part of their argument, Blalock's lawyers denied she had ever admitted guilt to the LPGA,<ref name="notenoughpunish"/> stating that the described admissions had been a misinterpretation of her words.<ref name="didntmakeit"/> Furthermore, based on the sequence of events, attorney Eugene Partain "alleged that the suspension and petitions were likely the result of other players attempting to remove a significant competitor, and that the act of suspending Blalock from playing in any significant tournaments was a violation of federal antitrust laws by the LPGA."<ref name="notenoughpunish"/>
+
+Around June 19, Blalock met with the LGPA in [[U.S. District Court]] in [[Atlanta]] over the lawsuit.<ref name="ddmiitedguit"/> Later that month U.S. District Court Judge [[Charles Allen Moye Jr.|Charles A. Moye Jr.]] granted the motion for Blalock to continue competing in the LPGA Tour until the lawsuit was resolved,<ref name="motiongranted"/> in effect creating a temporary [[restraining order]] against the suspension. Moye also ruled that any tour money Blalock earned during the case would be placed in a court trust. The LPGA reacted to Moye's rulings by announcing they would file an appeal suit.<ref name="courtrustinfavor72"/>
+
+===Colleagues' initial reactions (1972)===
+News of the suspension and alleged rules violation drew significant press coverage, as well as mixed reactions from Blalock's colleagues. Though he said he had never seen her move a ball against the rules himself, her former instructor [[Bob Toski]] stated that "She has a compulsion to win. I think she needs psychiatric help" and "the other players tell me this has been going on for a while." In contrast, Blalock's [[caddie]] from the Suzuki tournament contacted her with an offer to testify in her support.<ref name="ddmiitedguit"/> Men's professional golfer [[Dave Hill (golfer)|Dave Hill]], who himself filed an antitrust suit in 1971 against the [[PGA Tour]],<ref name="davehilef"/> sent Blalock a note of encouragement. In his golf memoir ''Teed Off'', published in 1977, Hill wrote that he didn't know how Blalock continued to play well under the pressure she was enduring. The fact that Blalock did play well made Hill think she was innocent unless she was a victim of some illness.<ref name="illnessshe"/>
+
+Golfer [[Sandra Palmer (golfer)|Sandra Palmer]] had also publicly defended Blalock as of July 8, 1972, after she and Blalock tied for lead at the [[George Washington Golf Classic]]. Stated Palmer to the press, "I've never seen her do anything [illegal], nor do I think probably that very many of the players have. I think supposedly that out of all these players who accused, only one or two have played with her." Palmer explained she didn't understand why bystanders hadn't reported the alleged infractions when they occurred, also pointing out that other players had always signed Blalock's scorecards without reporting any incidents. Stated Palmer, "if you see an infraction of the rules... you don't wait until three years later to report something. Once you've signed that card, you're as guilty as the person who committed the violation."<ref name="vilationcard"/>
+
+===Probation of Sandra Palmer (1972)===
+The ''[[Sarasota Journal]]'' reported on June 28, 1972, that [[Sandra Palmer (golfer)|Sandra Palmer]] had been "warned" by the LPGA over her statements of support for Blalock, with the LPGA explaining to Palmer that "you're entitled to your own opinion, but when it hurts our members, we feel you owe the organization an apology."<ref name="statmentsdrama"/> [[Bud Erickson]], executive director of the LPGA, later clarified that Palmer was also ordered "not to make any further statements of support for Miss Blalock."<ref name="nosupportstatement"/> The warning occurred as the tour arrived at the [[Potamkin Cadillac Classic|Lady Pepsi Golf Tournament]], where Blalock had previously won two championships.<ref name="statmentsdrama"/> On August 2, 1972, Palmer was put on one year's probation by the LPGA executive committee for voicing her support of Blalock.<ref name="nosupportstatement"/> Blalock went on to win two more times in 1972, at the [[Dallas Civitan Open]]<ref>[https://news.google.com/newspapers?nid=1917&dat=19720911&id=2XchAAAAIBAJ&sjid=pIkFAAAAIBAJ&pg=4553,2391280&hl=en Jane Blalock wins Dallas golf playoff]</ref> and the [[Lady Errol Classic]].<ref name="ladyreerolclassic"/>
+
+===Rulings and settlements (1973–75)===
+{{See also|1975 LPGA Tour#LPGA Tour settles Jane Blalock lawsuit}}
+After filing the original antitrust suit, Blalock amended the suit to include only damages from not being able to compete in the Lady Carling Tournament in 1972 for $4,500.<ref name="favordamages"/>
+{|class="toccolours" style="float: right; margin-left: 2em; margin-right: 0em; font-size: 90%; background:offwhite; color:black; width:30em; max-width: 40%;" cellspacing="5"
+|style="text-align: left;"|"In [the early 1970s] the [[LPGA]] was run by the players themselves. There was no office for the organization and no nonplaying director of the LPGA. Blalock, who denied she ever cheated and said she was the victim of older, jealous players as she began to make a mark on the tour, sued in [[United States federal courts|Federal Court]] in [[Atlanta]] to retain her playing rights and won. The court declared that players had no right to deprive a fellow competitor from an equal chance at the prize money they all were trying to earn."
+|-
+|style="text-align: left;"|— Gordon White for ''[[The New York Times]]'' (1987)<ref name="retirementnyt"/>
+|}
+In June 1973, Judge Charles Moye Jr. ruled that "LGPA players cannot police their own members." The ruling declared that Blalock's suspension "was ill-founded," with all remaining litigation to be focused on damages.<ref name="antitrust"/> In September 1973, ''[[The Telegraph (Nashua)|The Telegraph]]'' reported that as a result of the court ruling in Blalock's favor, the LPGA and their new president [[Carol Mann]] were looking to appoint a [[commissioner]] to "[enable] the association to penalize, suspend and fine members who violate rules and regulations."<ref name="commissionera"/>
+
+In August 1974, a court awarded Blalock the full $4,500 she had asked for in damages,<ref name="damagesfurthertipled"/> with the LPGA again announcing plans to appeal.<ref name="favordamages"/> Afterwards, in March 1975, Judge Charles Moye again ruled in Blalock's favor, awarding her $13,500 in damages and ordering the LPGA to pay her legal fees of $95,303. The LPGA again announced it would appeal the ruling in its entirety.<ref name="damagesfurthertipled"/> Ray Volpe was appointed the first LPGA Commissioner on July 8, 1975,<ref name="lpgavolpe"/> and a month later the LPGA announced it had dropped its appeal and settled "all claims and counter claims growing from a dispute between it and golfer Jane Blalock."<ref name="courtrustinfavor"/>
+
+==Aftermath==
+Blalock refused to condemn her critics, including her former mentor Bob Toski, after her lawsuit was settled. She said to a reporter in 1978 "I should not judge others as they have judged me. Life is too short and there is too much sadness. So I can't clutter my mind with all that other stuff. It makes it hard to concentrate."<ref name="concentrahard"/> Toski left the [[Senior PGA Tour]] in 1986 after he became involved in a controversy over how he was marking his ball.<ref>[https://news.google.com/newspapers?id=H7VhAAAAIBAJ&sjid=sc4FAAAAIBAJ&pg=1779,6138908&dq=bob+toski+seniors+tour&hl=en Toski withdraws from Senior Tour]</ref> Toski returned in April 1986<ref>[https://news.google.com/newspapers?id=FPcjAAAAIBAJ&sjid=bdsFAAAAIBAJ&pg=3915,2451335&dq=toski+golf&hl=en 28 Teams To Compete In Legends of Golf]</ref> and played several more years on the Tour.<ref>{{cite web |url=https://www.pgatour.com/players/player.02208.bob-toski.html |title=Bob Toski – Results – Career |publisher=PGA Tour |access-date=January 10, 2018}}</ref>
+
+Blalock continued playing on the LPGA Tour through 1987. When she was through playing, Blalock had 27 Tour wins to her credit.<ref>{{cite book |title=2008 LPGA Media Guide|publisher=[[LPGA Tour]] |year=1977 |pages=52 and 363}}</ref> She was the first female golfer to earn over $100,000 in four consecutive years<ref name="retirementnyt"/> and the seventh overall to reach the one million dollar mark in career earnings.<ref name="earningsmillion"/> Between 1969 and 1980, Blalock made the cut in 299 consecutive tournaments, an all-time LPGA Tour record.<ref name="all-timereocrdmade"/>
+
+In 1976, Blalock testified for the LPGA Tour in a suit against a sponsor trying to start a Women's [[Masters Tournament]].<ref name="againstsponsor"/> Blalock wrote a column  for the ''[[Miami Herald]]'' in 1981 complaining about the association's overuse of sex appeal in promoting the tour.<ref name="sexappealnotneeded"/>
+
+With 27 LPGA Tour wins, Blalock almost qualified for the [[World Golf Hall of Fame]] under the standards in use as of 2011. However, she never won a major championship in her career nor was she ever LPGA Player of the Year or winner of the LPGA Vare Trophy.<ref name="worldgolffame"/> Blalock would have to be voted in by the Veterans Committee.<ref name="didntmakeit"/>  As of 2018, all eligible [[List of golfers with most LPGA Tour wins|golfers with 20 or more wins on the LPGA Tour]] are in the World Golf Hall of Fame except Blalock. Several golfers who primarily played the LPGA Tour, [[Hollis Stacy]] who was inducted in 2012,<ref name="hollisstacy2012">[http://espn.go.com/golf/story/_/id/7247989/hollis-stacy-selected-world-golf-hall-fame Hollis Stacy selected for Hall of Fame]</ref> [[Judy Rankin]] and [[Donna Caponi]] have fewer career wins than Blalock but have been selected by the Veterans Committee. Blalock said in 2001 "It's almost a relief that I don't qualify. What if every year my name came up and every year I didn't make it? I'd be thinking, 'is what happened the reason?'"<ref name="didntmakeit"/>
+
+In July 2014, she was voted into the [[Legends Tour|Legends Hall of Fame]].<ref name="qlpgahome"/>
+
+==See also==
+
+*[[Golf in the United States]]
+*[[List of sporting scandals]]
+
+==References==
+{{Reflist|refs=
+<ref name="qlpgahome">
+{{cite news
+| title       =Lopez, Blalock To Be Inducted Into Legends Hall of Fame
+| url         =http://www.lpga.com/news/legends-lopez-blalock-hall-of-fame-nod
+| publisher   =LPGA
+| date        =July 31, 2014
+| access-date  = 2016-03-30
+}}</ref>
+<ref name="googlewinner">
+{{cite news
+| title       =Jane Blalock Golf Winner
+| url         =https://news.google.com/newspapers?id=_CY_AAAAIBAJ&pg=5415,3253322&dq=jane+blalock+history+teacher&hl=en
+| newspaper   =[[Lodi News-Sentinel]]
+| date        = August 10, 1970
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="retirementnyt">
+{{cite news
+| title       =Golf; Blalock looks forward to retirement in 1988
+| first       =Gordon
+| last        =White
+| url         =https://www.nytimes.com/1987/04/05/sports/golf-blalock-looks-forward-to-retirement-in-1988.html?pagewanted=2&src=pm
+| newspaper   =[[The New York Times]]
+| date        =April 5, 1987
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="courtrustinfavor">
+{{cite news
+| title       =Blalock vs. LPGA settled
+| url         =https://news.google.com/newspapers?id=eeQLAAAAIBAJ&pg=6198,879404&dq=jane+blalock+wins+lawsuit&hl=en
+| newspaper   =[[The Evening Independent]]
+| date        =August 5, 1975
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="lpgavolpe">
+{{cite news
+| title       =Volpe appointed LPGA Commissioner
+| url         =https://news.google.com/newspapers?id=zDhkAAAAIBAJ&pg=6289,1298834&dq=carol+mann+ray+volpe+lpga&hl=en
+| newspaper   =[[Times-Union (Warsaw)|Times-Union]]
+| date        =July 9, 1975
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="damagesfurthertipled">
+{{cite news
+| title       =Jane Blalock a winner in court
+| url         =https://news.google.com/newspapers?id=ot4qAAAAIBAJ&pg=6027,6543996&dq=jane+blalock+moye+legal+fees&hl=en
+| newspaper   =[[Beaver County Times]]
+| date        =March 27, 1975
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="jcaptures">
+{{cite news
+| title       =Jane Blalock captures Lady Carling golf
+| url         =https://news.google.com/newspapers?nid=2512&dat=19700810&id=NvhHAAAAIBAJ&pg=3579,4874792&hl=en
+| newspaper   =[[The Morning Record]]
+| date        =August 10, 1970
+| access-date  = 2016-04-21
+}}</ref>
+<ref name="favordamages">
+{{cite news
+| title       =Court rules for golfer
+| url         =https://news.google.com/newspapers?id=gJ5YAAAAIBAJ&pg=4021,4282087&dq=jane+blalock+4500&hl=en
+| newspaper   =[[Spokane Daily Chronicle]]
+| date        =August 28, 1974
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="worldgolffame">
+{{cite news
+ |title=World Golf Hall of Fame - Criteria 
+ |url=http://www.worldgolfhalloffame.org/induction/induction_criteria.php 
+ |publisher=[[World Golf Hall of Fame]] 
+ |access-date=2016-03-17 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130521173056/http://www.worldgolfhalloffame.org/induction/induction_criteria.php 
+ |archive-date=2013-05-21 
+ |df= 
+}}</ref>
+<ref name="commissionera">
+{{cite news
+| title       =LPGA seeks Commissioner
+| url         =https://news.google.com/newspapers?id=X58rAAAAIBAJ&pg=2826,583193&dq=carol+mann+president+lpga+1973&hl=en
+| newspaper   =[[The Telegraph (Nashua)|The Telegraph]]
+| date        =September 5, 1973
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="illnessshe">{{cite book |title=Teed Off |last1=Hill |first1=Dave |last2=Seitz |first2=Nick |publisher=[[Prentice-Hall]] |year=1977 |page=39 }}</ref>
+<ref name="davehilef">
+{{cite news
+| title       =Dave Hill files $1 million damage suit
+| url         =https://news.google.com/newspapers?id=d00fAAAAIBAJ&pg=886,8396710&dq=dave+hill+colonial+fined&hl=en
+| newspaper   =[[Daytona Beach Morning Journal]]
+| date        =May 29, 1971
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="vilationcard">
+{{cite news
+| title       =Sandra Palmer sides with Jane Blalock in latter's battle with LPGA Officials
+| first       = Ralph
+| last        =Bernstein
+| url         =https://news.google.com/newspapers?id=ZnhbAAAAIBAJ&pg=7073,552472&dq=sandra+palmer+suspend+jane+blalock&hl=en
+| newspaper   =[[Gettysburg Times]]
+| date        =July 8, 1972
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="nosupportstatement">
+{{cite news
+| title       =Sandra Palmer put on probation
+| url         =https://news.google.com/newspapers?nid=1755&dat=19720803&id=-vsjAAAAIBAJ&pg=2660,736964&hl=en
+| newspaper   =[[Sarasota Herald-Tribune]]
+| date        =August 3, 1972
+| access-date  = 2016-03-24
+}}</ref>
+``<ref name="statmentsdrama">
+{{cite news
+| title       =Sandra Palmer warned
+| url         =https://news.google.com/newspapers?id=FYA0AAAAIBAJ&pg=6875,4486871&dq=jane+blalock+lawsuit&hl=en
+| newspaper   =[[Sarasota Journal]]
+| date        =June 28, 1972
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="ladyreerolclassic">
+{{cite news
+| title       =Jane Blalock wins Lady Errol
+| url         =https://news.google.com/newspapers?id=7PdJAAAAIBAJ&pg=4371,1918429&dq=jane+blalock+lady+errol&hl=en
+| newspaper   =
+| access-date  = 2016-03-24
+}}{{dead link|date=March 2016}}</ref>
+<ref name="motiongranted">
+{{cite news
+| title       =Court order for Blalock
+| url         =https://news.google.com/newspapers?id=iDhgAAAAIBAJ&pg=2141,657023&dq=jane+blalock+order&hl=en
+| newspaper   =[[The Phoenix (newspaper)|The Phoenix]]
+| agency   =[[Associated Press]]
+| date        =June 3, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="suitresolved">
+{{cite news
+| title       =Blalock files LPGA lawsuit
+| url         =https://news.google.com/newspapers?id=GyMqAAAAIBAJ&pg=5602,182018&dq=jane+blalock+lawsuit&hl=en
+| newspaper   =[[Park City Daily News]]
+| agency   =[[Associated Press]]
+| date        =June 1, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="courtrustinfavor72">
+{{cite news
+| title       =LPGA Lashes Out - Ruling in favor of Jane Blalock
+| url         =https://news.google.com/newspapers?id=tZkrAAAAIBAJ&pg=6071,4207858&dq=jane+blalock+erickson+suspended+rankin&hl=en
+| newspaper   =[[The Telegraph (Nashua)|The Telegraph]]
+| date        =June 29, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="againstsponsor">
+{{cite news
+| title       =Veteran Blalock still watchdog of LPGA
+| url         =https://news.google.com/newspapers?id=p3dkAAAAIBAJ&pg=998,2795470&dq=jane+blalock+retires&hl=en
+| newspaper   =[[The Calgary Herald]]
+| date        = June 26, 1985
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="concentrahard">
+{{cite news
+| title       =Blalock; Scars of the past healed and forgotten
+| first       =Greg
+| last        =Hanson
+| url         =https://news.google.com/newspapers?id=gVlQAAAAIBAJ&pg=4258,1059687&dq=bob+toski+jane+blalock&hl=en
+| newspaper   =[[The Evening Independent]]
+| date        =February 20, 1978
+| access-date  = 2016-03-17
+}}</ref>
+
+<ref name="sexappealnotneeded">
+{{cite news
+| title       =Sex appeal in Golf! Jane Blalock says it isn't needed now
+| url         =https://news.google.com/newspapers?id=Gb1JAAAAIBAJ&pg=2969,5957545&dq=jan+stephenson+photos+mystique+of+winchester&hl=en
+| newspaper   =The Madison Courier
+| agency =[[The Associated Press]]
+| date        =February 10, 1981
+| access-date  = 2016-03-17
+}}</ref>
+
+<ref name="antitrust">
+{{cite news
+| title       =Court rules in favor of Blalock
+| url         =https://news.google.com/newspapers?id=-_JOAAAAIBAJ&pg=7325,4193524&dq=jane+blalock+antitrust&hl=en
+| newspaper   =[[Toledo Blade]]
+| date        =June 22, 1973
+| access-date  = 2016-03-17
+}}</ref>
+
+<ref name="suspensionbl">
+{{cite news
+| title       =Jane Blalock suspended from LPGA
+| url         =https://news.google.com/newspapers?id=aWctAAAAIBAJ&pg=4185,574193&dq=suspended+jane+blalock+baltimore&hl=en
+| newspaper   =[[Schenectady Gazette]]
+| date        =June 2, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="notenoughpunish">
+{{cite news
+| title       =LPGA affidavits accuse Jane Blalock of cheating
+| url         =https://news.google.com/newspapers?id=lIAsAAAAIBAJ&pg=2657,2927239&dq=lpga+affidavits+accuse+blalock+of+cheating&hl=en
+| newspaper   =[[Spartanburg Herald-Journal|Herald-Journal]]
+| date        =June 15, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="refuseback">
+{{cite news
+| title       =LPGA needs flamboyancy
+| url         =https://news.google.com/newspapers?id=Eq0cAAAAIBAJ&pg=7442,5075088&dq=jane+blalock+back+suspended+erickson&hl=en
+| newspaper   =[[Sarasota Herald-Tribune]]
+| publisher   =[[The Washington Post]]
+| date        =May 13, 1973
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="ddmiitedguit">
+{{cite magazine
+| title       =Keeping A Close Eye On The Ball
+| first       =Barry
+| last        =McDermott
+| url         =https://www.si.com/vault/1972/06/19/613598/keeping-a-close-eye-on-the-ball
+| magazine    =[[Sports Illustrated]]
+| date        =June 19, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="earningsmillion">
+{{cite news
+| title       =Blalock reaches milestone
+| url         =https://news.google.com/newspapers?id=nfVdAAAAIBAJ&pg=4833,2359281&dq=blalock+reaches+milestone&hl=en
+| newspaper   =[[Observer-Reporter]]
+| date        =July 18, 1983
+| access-date  = 2016-03-24
+}}</ref>
+<ref name="droughtcorneliius">
+{{cite news
+| title       =Drought over for Kathy Cornelius
+| first       =Bob
+| last        =Weston
+| url         =https://news.google.com/newspapers?id=NGwyAAAAIBAJ&pg=3140,1754888&dq=bluegrass+disqualified+jane+blalock&hl=en
+| newspaper   =[[Beaver County Times]]
+| date        =May 22, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="receiveswin">
+{{cite news
+| title       =Miss Blalock wins, Receives $20,000
+| url         =https://news.google.com/newspapers?id=DUwaAAAAIBAJ&pg=3279,4730198&dq=jane+blalock+colgate&hl=en
+| newspaper   =[[The Milwaukee Journal]]
+| date        =April 16, 1972
+| access-date  = 2016-03-17
+}}</ref>
+<ref name="all-timereocrdmade">{{cite news
+ |title        = Jane Blalock
+ |first        = Brent
+ |last         = Kelley
+ |url          = http://golf.about.com/od/golferswomen/p/janeblalock.htm
+ |publisher    = [[About.com]]
+ |date         = July 4, 2015
+ |access-date   = 2016-03-17
+ |archive-date = May 16, 2008
+ |archive-url  = https://web.archive.org/web/20080516185403/http://golf.about.com/od/golferswomen/p/janeblalock.htm
+ |url-status   = dead
+}}</ref>
+<ref name="takessuzuku">
+{{cite news
+| title       =Blalock takes Suzuki
+| url         =https://news.google.com/newspapers?id=PQMvAAAAIBAJ&pg=3337,2173660&dq=suzuki+golf+jane+blalock&hl=en
+| newspaper   =[[The Sumter Daily Item]]
+| date        =May 15, 1972
+| access-date  = 2016-03-17
+}}</ref>
+}}
+
+==External links==
+*[http://players.thelegendstour.com/details.php?PID=6 Jane Blalock] at [[LPGA|The Legends Tour]]
+
+[[Category:LPGA Tour]]
+[[Category:Sports controversies]]
+[[Category:Cheating in sports]]
+[[Category:1972 in golf]]
+[[Category:1973 in golf]]
+[[Category:1974 in golf]]
+[[Category:1975 in golf]]

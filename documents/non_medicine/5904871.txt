@@ -1,0 +1,32 @@
+{{Short description|Geological unit of time; one thousand years}}
+{{Lowercase}}
+The abbreviation '''kyr''' means "thousand years".
+
+kyr was formerly common in some [[English language]] works, especially in [[geology]] and [[astronomy]], for the [[physical unit|unit]] of 1,000 years or [[millennium]]. The "k" is the [[SI prefix|unit prefix]] for [[kilo-]] or thousand with the suffix "yr" simply an abbreviation for "year".
+
+Occasionally, the "k" is shown in [[upper case]], as in "100 Kyr"; this is an incorrect usage.  "kyr" itself is often considered incorrect, with some preferring to use "ky".
+
+[[ISO 80000-3]] recommends usage of ka (for [[kiloannum]]), which avoids the implicit English bias of "year" by using a [[Latin]] root.
+
+==See also==
+* [[Annum]]
+* [[Myr]]
+* [[Billion years|Byr]]
+
+==External links==
+*[https://www.sedgeochem.uni-bremen.de/kiloyears.html A exhaustive table of 70+ ways of expressing "thousand years (ago)" in scientific papers (2023) with links to papers and appraisals]
+*[http://www.unc.edu/~rowlett/units/dictA.html How Many? A Dictionary of Units of Measurement, A] Dead link 
+*[https://www.ibiblio.org/units/dictK.html How Many? A Dictionary of Units of Measurement, K]
+*[http://www.unc.edu/~rowlett/units/dictY.html How Many? A Dictionary of Units of Measurement, Y] Dead link 
+*[https://encyclopedia.pub/entry/history/show/78637 Encyclopedia.pub user-generated collection, kyr]
+
+
+{{Portal bar|Geology|Mathematics|Astronomy|Stars|Outer space|Science}}
+
+[[Category:Units of time]]
+[[Category:Geology]]
+[[Category:Units of measurement in astronomy]]
+
+
+{{standard-stub}}
+{{time-stub}}

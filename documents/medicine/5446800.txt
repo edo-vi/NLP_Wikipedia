@@ -1,0 +1,22 @@
+{{Use dmy dates|date=April 2022}}
+The '''State Veterinary Service''' ('''SVS''') was, from 1938 to 2007, an [[executive agency]] of the [[Department for Environment, Food and Rural Affairs]] (Defra), a [[Departments of the Government of the United Kingdom|department of the Government of the United Kingdom]]. It was the government's delivery agent, responsible for [[animal health]] and [[animal welfare|welfare]] in [[England]], [[Scotland]] and [[Wales]].
+
+The State Veterinary Department was set up in 1865 in response to an outbreak of [[rinderpest]] in London.<ref>{{cite journal|last1=Woods|first1=Abigail|title=A historical synopsis of farm animal disease and public policy in twentieth century Britain.|journal=Philosophical Transactions of the Royal Society of London B|date=12 July 2011|volume=366|issue=1573|pages=1943–54|doi=10.1098/rstb.2010.0388|pmid=21624915|pmc=3130385}}</ref> The State Veterinary Service was established in 1938, and was overseen by the [[Chief Veterinary Officer (United Kingdom)|Chief Veterinary Officer]].<ref>{{cite journal|last1=Enticott|first1=G|last2=Donaldson|first2=A|last3=Lowe|first3=P|last4=Power|first4=M|last5=Proctor|first5=A|last6=Wilkinson|first6=K|title=The changing role of veterinary expertise in the food chain.|journal=Philosophical Transactions of the Royal Society of London B|date=12 July 2011|volume=366|issue=1573|pages=1955–65|doi=10.1098/rstb.2010.0408|pmid=21624916|pmc=3130392}}</ref> On 1 April 2007 State Veterinary Service joined with [[Egg Marketing Inspectorate]], [[Dairy Hygiene Inspectorate]] and [[Wildlife Licensing and Registration Service]] to create a new enlarged agency called [[Animal Health]].<ref>{{cite news|title=State Veterinary Service to become Animal Health|url=https://www.vetclick.com/news/state-veterinary-service-to-become-animal-health-p295.php|accessdate=2018-01-09|work=www.vetclick.com|date=27 March 2007}}</ref>
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+[[Category:Agricultural organisations based in the United Kingdom]]
+[[Category:Defunct executive agencies of the United Kingdom government]]
+[[Category:Department for Environment, Food and Rural Affairs]]
+[[Category:Health in Worcestershire]]
+[[Category:Organisations based in Worcestershire]]
+[[Category:Science and technology in Worcestershire]]
+[[Category:Veterinary medicine in the United Kingdom]]
+[[Category:Veterinary organizations]]
+
+
+{{UK-org-stub}}
+{{veterinary-med-stub}}

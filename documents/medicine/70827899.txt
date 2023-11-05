@@ -1,0 +1,19 @@
+{{Orphan|date=November 2022}}
+
+'''Corkscrew claw syndrome''' is the combination of corkscrew deformities in heifers of the medial claws of both the rear and front feet<ref>{{cite journal |last1=Cook |first1=N. B. |last2=Strebe |first2=A. |last3=Karlen |first3=K. |journal=American Association of Bovine Practitioners Conference Proceedings |title=Prevalence and risk factors for corkscrew claw syndrome in dairy cattle |date=12 September 2019 |pages=362 |doi=10.21423/aabppro20197249 |s2cid=244837096 |doi-access= }}</ref> that causes permanent damage to the [[pedal bone]].<ref>{{cite news |last1=Cook |first1=Nigel |last2=Strebe |first2=Adam |last3=Karlen |first3=Kyle |title=An ugly heifer hoof issue has emerged |url=https://hoards.com/article-25504-an-ugly-heifer-hoof-issue-has-emerged.html |work=Hoard's Dairyman |date=10 May 2019 }}</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite news |last1=Cook |first1=Nigel B. |title=The next evolution of lameness challenges: Reverse corkscrew claw |url=https://www.progressivedairycanada.com/topics/herd-health/the-next-evolution-of-lameness-challenges-reverse-corkscrew-claw |work=Progressive Dairy |date=1 February 2020 }}
+* {{cite news |last1=Cook |first1=Nigel |title=Creating the best environment for heifers |url=https://www.dairystar.com/Content/News/Daily-News/Article/Creating-the-best-environment-for-heifers/1/256/18249 |work=Dairy Star |date=12 February 2022 }}
+* {{cite news |last1=Krymowski |first1=Jaclyn |title=Hoof Health Starts with the Heifer |url=https://www.americandairymen.com/articles/hoof-health-starts-heifer |work=American Dairymen |date=19 May 2020 }}
+* {{cite journal |last1=Wynands |first1=E. M. |last2=Caixeta |first2=L. S. |last3=Cramer |first3=G. |title=Using a target trial approach to evaluate the role of hyperketonemia in sole ulcer and white line hoof lesion development |journal=Journal of Dairy Science |date=19 May 2022 |volume=105 |issue=7 |pages=6164–6174 |doi=10.3168/jds.2021-21694 |pmid=35599034 |doi-access=free }}
+* {{cite thesis |last1=Wynands |first1=Erin |title=Integrating epidemiology and stakeholder perspectives toward the improvement of dairy cattle lameness |date=August 2021 |id={{ProQuest|2591307840}} |hdl=11299/224937 |hdl-access=free }}
+
+[[Category:Cattle]]
+[[Category:Bovine podiatry]]
+
+
+{{veterinary-med-stub}}

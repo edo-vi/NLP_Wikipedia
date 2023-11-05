@@ -1,0 +1,17 @@
+{{Orphan|date=June 2016}}
+{{medref|date=February 2014}}
+
+'''Neoplasene''' is an [[herbal medicine|herbal]] [[veterinary drug|veterinary medicine]] derived from certain [[Chemical substance|chemicals]], such as [[sanguinarine]], extracted from the [[Perennial plant|perennial]] [[herb]] [[Sanguinaria|''Sanguinaria canadensis'']] (the bloodroot plant).<ref>{{cite journal|url=http://clincancerres.aacrjournals.org/content/6/4/1524.full |title=Differential Antiproliferative and Apoptotic Response of Sanguinarine for Cancer Cells versus Normal Cells|journal= Clinical Cancer Research|first=Nihal |last=Ahmad|date= Apr 2006|volume=19|issue=21|pages=1524–8|publisher=AACR|pmid=10778985|display-authors=etal}}</ref><ref>{{cite web|url= http://www.holvet.net/neoplasene.html|title= Cancer Treatment with Dr Michele Yasson}}</ref><ref>{{cite web|url=http://www.vhcdoc.com/resources/neoplasene.html|title=Neoplasene|publisher=Veterinary Holistic Care}}</ref> It is used to treat cancer in [[Pet|pet animals]], especially dogs.<ref>{{cite web|url=http://www.leonbergerhealth.com/Neoplasene%20and%20Cancer.htm|title=Neoplasene As A Treatment For Cancer In Dogs|publisher=Leonbergerhealth.com}}</ref><ref>{{cite web|url=http://www.buckmountainbotanicals.net/treatments/neoplasene.html|title=Neoplasene Compounds|publisher=Buck Mountain Botanicals}}</ref>{{medrs|date=February 2014}}<ref>{{cite web|title=Neoplasene: A New Weapon in the War Against Cancer|url=http://thehealthyplanet.com/2011/10/neoplasene-a-new-weapon-in-the-war-against-cancer/|first=Teresa|last= Garden|publisher=The Healthy Planet}}</ref><ref>{{cite web|url=http://www.altpetdoc.com/pdf/neoplasene-treatment.pdf|title=New Hope For Cancer In Your Pets|first=Rose|last=DiLeva|url-status=dead|archiveurl=https://web.archive.org/web/20131113123922/http://www.altpetdoc.com/pdf/neoplasene-treatment.pdf|archivedate=2013-11-13}}</ref>{{medrs|date=February 2014}}<ref>{{cite web|title=Dog Cancer Treatment with Neoplasene|url=http://www.vetinfo.com/dog-cancer-treatment-neoplasene.html|publisher=Vetinfo}}</ref>  Its effectiveness is unproven and there are serious adverse effects.<ref>{{cite journal | journal = J Am Vet Med Assoc | year = 2011 | volume = 239 | issue = 3 | pages = 374–9| doi = 10.2460/javma.239.3.374 | pmid=    21801052 | title = Consequences of intratumoral injection of a herbal preparation containing blood root (Sanguinaria canadensis) extract in two dogs |vauthors=Childress MO, Burgess RC, Holland CH, Gelb HR | doi-access = free }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://thehealthyplanet.com/2011/10/neoplasene-a-new-weapon-in-the-war-against-cancer/ Neoplasene: A New Weapon in the War Against Cancer]
+*[http://www.myholisticpetvet.com/tag/neoplasene-therapy/ Cancer Treatment for Pets – A Holistic Approach for Dogs and Cats]
+*[http://www.leonbergerhealth.com/Neoplasene%20and%20Cancer.htm Neoplasene As A Treatment For Cancer In Dogs]
+
+[[Category:Veterinary drugs]]
+
+
+{{Veterinary-med-stub}}

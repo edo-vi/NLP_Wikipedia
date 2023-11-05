@@ -1,0 +1,13 @@
+The '''International Sanitary Convention for Aerial Navigation (1944)''' was an [[International Sanitary Conferences|international sanitary convention]], one of the international co-operation land-marks in the history of [[public health]], signed in Washington on 15 December 1944, and came into force on 15 January 1945.<ref name="Stock1946">{{Cite journal|last=Stock|first=P. G.|date=24 May 1946|title=Progress and Problems in Port Health Administration|url= |journal=Proceedings of the Royal Society of Medicine|language=en|volume=39|issue=10|pages=660–672|doi=10.1177/003591574603901015|pmid=19993379|pmc=2181927|doi-access=free}}</ref><ref>{{Cite journal|url= |doi = 10.1177/003591574503800701|title = The International Sanitary Convention of 1944|year = 1945|last1 = Stock|first1 = P. G.|journal = Proceedings of the Royal Society of Medicine|volume = 38|issue = 7|pages = 309–316|pmid = 19993068|pmc = 2181964}}</ref><ref>{{Cite book |date=1945 |title=International Sanitary Convention of 1944, Modifying Convention of June 21, 1926: Message from the President of the United States Transmitting a Certified Copy of the International Sanitary Convention of 1944, Modifying the International Sanitary Convention of June 21, 1926, which was Signed for the United States of America at Washington on January 5, 1945 |url=https://books.google.com/books?id=07A65AFNUlcC&pg=PA23 |location=Washington, D.C. |publisher=U.S. Government Printing Office |page=23 |access-date=4 December 2020}}</ref><ref name=Howard-Jones>{{cite book|author=Norman Howard-Jones|title=The scientific background of the International Sanitary Conferences, 1851-1938|url=http://whqlibdoc.who.int/publications/1975/14549_eng.pdf|year=1974|publisher=World Health Organization}}</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:1944 in aviation]]
+[[Category:Aviation agreements]]
+[[Category:Aviation law]]
+[[Category:International travel documents]]
+[[Category:Medical records]]
+[[Category:Vaccination]]
+
+{{aviation-stub}}

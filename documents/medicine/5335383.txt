@@ -1,0 +1,34 @@
+{{Advert|date=May 2013}}
+[[File:Whippet zad rybnik kamien pl.jpg|thumb|alt=The hind legs and hips of a short-haired black dog|The hips and hind legs of a [[Whippet]]]]
+The '''Orthopedic Foundation for Animals''' ('''OFA''') is a [[nonprofit organization]] based in [[Columbia, Missouri]], that aims to research and prevent orthopedic and [[Genetic disorder|hereditary diseases]] in companion animals.
+
+<blockquote>
+As a private not-for-profit foundation, the OFA has funded nearly $3 million in research aimed at reducing the incidence and prevalence of inherited companion animal disease. The OFA funds projects through the AKC Canine Health Foundation, the [[Morris Animal Foundation]] and occasionally through direct grants. The OFA has achieved Ruby Donor status with MAF, and Millennium Founder status with the AKC CHF. OFA supported research is not limited to orthopedic disease, and has included cancers, heart disease, and thyroid disease as examples. Some research has been breed specific, some for all breeds, some for multiple species, and has been done at many of our leading universities and research institutions. With the recent completion of the mapping of the canine genome, the OFA is focusing more of its research dollars towards research at the molecular level.<ref name="ofares">{{cite web|title=OFA funded research|url=http://www.ofa.org/research.html|publisher=Orthopedic Foundation for Animals|access-date=3 August 2016}}</ref>
+</blockquote>
+
+The OFA was founded by John M. Olin in 1966,<ref name="Corley 2000">{{cite book|last1=Corley|first1=EA|editor1-last=Morgan|editor1-first=JP|editor2-last=Wind|editor2-first=A|editor3-last=Davidson|editor3-first=AP|title=Hereditary bone and joint diseases in the dog: osteochondroses, hip dysplasia, elbow dysplasia|date=2000|publisher=Schlütersche|location=Hannover|isbn=9783877065488|chapter=Orthopedic Foundation for Animals, Inc.}}</ref> after several of his dogs became affected by [[Hip dysplasia (canine)|hip dysplasia]]. Originally studying hip dysplasia alone, the OFA has expanded its efforts and now studies and has health databases on a wide range of diseases including [[elbow dysplasia]], [[Luxating patella|patellar luxation]], [[Legg–Calvé–Perthes disease|Legg-Calve-Perthes]], [[thyroid]], cardiac, [[Hearing loss|congenital deafness]], [[sebaceous adenitis]], and shoulder O.C.D. The methodology of the evaluation is considered a subjective method.  There are other methodologies in practice that include a Distraction Index for Penn Hip evaluations, an objective scoring method practiced by the British Veterinary Association, and an evaluative grade based on point by point criterion in the [[Fédération Cynologique Internationale|Federation Cynologique International]] system.
+
+The OFA offers DNA certification for [[canine degenerative myelopathy]], [[neuronal ceroid lipofuscinosis]] for [[American Bulldogs]], [[Fanconi syndrome]] for [[Basenji]]s and [[neonatal encephalopathy]] with seizures for [[Standard Poodle]]s through an exclusive agreement with the [[University of Missouri]].
+
+== Online database searches ==
+The OFA has the largest fully searchable online canine health database in the world, with over 1,000,000 records. Each dog (or cat) who has ever had an OFA certification issued can be searched by name, part of name, or registration number. Results automatically include all OFA certifications for that dog, plus sire, dam, siblings, half-siblings, and offspring.
+
+==See also==
+*[[PennHIP]]
+*[[American Kennel Club]]
+
+==Further reading==
+* Greg Keller, ''The use of health databases and selective breeding: A guide for dog and cat breeders and owners'' 5th edition 2006 OFA accessed at [http://www.offa.org/monograph2006web.pdf] July 26, 2006
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.ofa.org}}
+
+[[Category:Animal charities based in the United States]]
+[[Category:Non-profit organizations based in Columbia, Missouri]]
+[[Category:Charities based in Missouri]]
+
+
+{{Veterinary-med-stub}}

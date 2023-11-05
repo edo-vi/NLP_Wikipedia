@@ -1,0 +1,33 @@
+{{Short description|Dietary theory}}
+The '''Swank Diet''' is a [[dieting|diet]] that is [[saturated fat|low in saturated fat]], which was proposed in 1949 by Roy Laver Swank, MD, PhD (1909–2008), academic [[neurologist]] at the [[University of Oregon]], for the [[treatment of multiple sclerosis]].<ref name=cochrane/>
+
+The claims made for the diet are unsubstantiated.<ref name=cochrane/><ref name=bda/>
+
+==The diet==
+According to the Swank diet web site, the diet consists of:
+
+#[[Saturated fat]] should not exceed 15 grams per day
+#[[Unsaturated fat]] (oils) should be kept to 20-50 grams per day
+#No [[red meat]] for the first year; after that, a maximum of {{convert|3|oz|g|abbr=on}} of red meat per week
+#[[Dairy]] products must contain 1% or less [[butterfat]]
+#No [[processed foods]] containing [[saturated fat]]
+#A good source of [[omega-3]] ([[oily fish]], [[Flaxseed]], [[cod liver oil]], cod liver oil tablets, etc.) along with a multi-vitamin and mineral supplement are recommended daily
+#[[Wheat]], [[gluten]] or [[dairy]] product quantities are not restricted<ref>{{cite web|url=http://www.swankmsdiet.org/the-diet|title=The Diet|website=swankmsdiet.org|publisher=Swank MS Foundation|access-date=15 September 2016}}{{sps|date=July 2017}}</ref>
+
+Swank claimed that the diet could "slow progression of the disease as well as benefit overall health".<ref>{{cite web|url=http://www.swankmsdiet.org/|title=Swank MS Foundation: For Your Health, For Your Future|website=swankmsdiet.org|publisher=Swank MS Foundation|access-date=15 September 2016}}{{sps|date=July 2017}}</ref>
+
+==Effectiveness==
+There is no good [[evidence-based medicine|medical evidence]] supporting the use of the Swank or any alternative diet for the treatment of MS.<ref name=bda>{{cite web |publisher=British Dietetic Association |title=Policy Statement&mdash;Use of Alternative Diets and Supplementation in the Management of Multiple Sclerosis |access-date=10 December 2015 |year=2015 |page=2 |url=https://www.bda.uk.com/improvinghealth/healthprofessionals/ms_management}}</ref><ref name="cochrane">{{cite journal|vauthors=Parks NE, Jackson-Tarlton CS, Vacchi L, Merdad R, Johnston BC|date=19 May 2020|title=Dietary interventions for multiple sclerosis-related outcomes|journal=Cochrane Database Syst Rev|volume=2020|issue=5|pages=CD004192|doi=10.1002/14651858.CD004192.pub4|pmid=32428983|quote=... at present, there is insufficient evidence to determine whether supplementation with antioxidants or other dietary interventions have any impact on MS-related outcomes.|pmc=7388136}}</ref> The [[British Dietetic Association]] does not recommend the Swank diet, or any other alternative diet, for people with multiple sclerosis.<ref name=bda/>
+
+== References==
+{{Reflist}}
+
+{{Fad diets}}
+
+[[Category:Alternative medical treatments]]
+[[Category:Diets]]
+[[Category:Fad diets]]
+[[Category:Multiple sclerosis]]
+
+
+{{alt-med-stub}}

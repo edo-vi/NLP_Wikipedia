@@ -1,0 +1,42 @@
+{{Short description|Cantonese herbal tea}}
+{{for|the band|24Herbs}}
+{{for|the drink branded as "23 flavors"|Dr. Pepper}}
+'''24 flavors''' ({{zh|t=廿四味 or 廿四老味茶|j=jaa6 sei3 mei6|p=niàn}}) is a [[Guangdong|Cantonese]] [[herbal tea]], drunk for [[Chinese herbology|medicinal purposes]]. Its name refers to the fact that it is a combination of many different ingredients (around 24, although it may feature as few as 10 or as many as 28 or more). The recipe is not fixed, and thus may vary according to the producer.
+
+The tea is somewhat [[Taste#Bitterness|bitter]] in taste and may be consumed by a person who has too much 'yeet hey' or 'hot air'.<ref name=chinese>{{ cite web|author=|accessdate=2016-02-24| title=Chinese medicine|url=http://www.batgung.com/chinese-medicine-doctor-hong-kong}}</ref>
+
+==Typical ingredients (will vary by producer)==<!--Need to translate more from Chinese Wikipedia article-->
+*[[Mulberry]] leaf (桑叶)<ref name=24herb>{{cite web |last=Goon|first=Krista|accessdate=2016-02-24|date=2011-08-31|title=The Soup Queen|url=http://soupqueen.blogspot.com/2011/08/24-herb-tea-bitter-foul-tasting-but-oh.html}}</ref>
+*[[Chrysanthemum]] flower (菊花)<ref name=24herb></ref>
+*[[Japanese Honeysuckle]] flower (金银花)<ref name=24herb></ref>
+*[[Bamboo]] leaf (竹叶)<ref name=24herb></ref>
+*[[Peppermint]] (薄荷)<ref name=24herb></ref>
+*''[[Imperata cylindrica]]'' (茅根)<ref name=24herb></ref>
+*[[Siraitia grosvenorii|Luohan guo]] (罗汉果)<ref name=24herb></ref>
+*''[[Agastache rugosa]]'' (藿香)<ref name=24herb></ref>
+*''[[Perilla frutescens]]'' (紫苏)
+*''Elsholtzia'' (香薷)<!--not sure of the exact species--><ref name=24herb></ref>
+*Fermented [[soybean]] (淡豆鼓)<ref name=24herb></ref>
+*''[[Cleistocalyx operculatus]]'' flower (水翁花)<ref name=24herb></ref>
+*''[[Microcos paniculata]]'' leaf (布渣叶)<ref name=24herb></ref>
+*''[[Holly|Ilex]] rotunda'' (救必应)<ref name=24herb></ref>
+
+==See also==
+*[[Chinese herbology]]
+
+==References==
+<!-- ----------------------------------------------------------
+ See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a
+ discussion of different citation methods and how to generate
+ footnotes using the <ref>, </ref> and <reference /> tags
+----------------------------------------------------------- -->
+{{reflist}}
+{{Teas}}
+
+[[Category:Traditional Chinese medicine]]
+[[Category:Herbal tea]]
+[[Category:Chinese tea]]
+
+{{china-stub}}
+{{tea-stub}}
+{{alt-med-stub}}

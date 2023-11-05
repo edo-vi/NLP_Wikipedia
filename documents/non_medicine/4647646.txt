@@ -1,0 +1,36 @@
+{{Short description|Sea-floor erosion caused by strong tidal currents}}
+'''Tidal scour''' is "sea-floor [[erosion]] caused by strong [[tidal currents]] resulting in the removal of inshore sediments and formation of deep holes and channels".<ref>{{Cite book|title = McGraw Hill dictionary of scientific and technical terms|last = Parker|first = Sybil|publisher = McGraw-Hill|year = 1994|isbn = 978-0-07-113584-9|location = New York}}</ref> Examples of this hydrological process can be found globally.<ref name=":0">{{Cite thesis|last = Dean|first = Edwin Wendell|date = 2003|title = Tidal Scour in Elkhorn Slough, California: A Bathymetric Analysis|type=BS capstone project|publisher = California State University, Monterey Bay|url = http://seafloor.otterlabs.org/publications/SFML_Capstones/Dean_capstone03.pdf|accessdate = 15 December 2019|via = Seafloor Mapping Lab, CSU Monterey Bay}}</ref>{{better source needed|date=April 2023}}<ref name=":1">{{Cite journal|url = https://www.researchgate.net/publication/223927351|title = The Opening of Cook Strait: Interglacial tidal scour and aligning basins at a subduction to transform plate edge|last1 = Lewis|first1 = Keith|date = 1994|journal = Marine Geology|volume = 116|issue = 3–4|pages = 293–312|doi = 10.1016/0025-3227(94)90047-7|access-date = 15 December 2019|last2 = Carter|first2 = Lionel|last3 = Davey|first3 = Fred|bibcode = 1994MGeol.116..293L}}</ref><ref name=":2">{{Cite journal|title = Anatomy of the tidal scour system at Minas Passage, Bay of Fundy, Canada|last1 = Shaw|first1 = John|date = 2012|journal = Marine Geology|volume = 323-325|pages = 123–134|doi = 10.1016/j.margeo.2012.07.007|last2 = Todd|first2 = Brian|last3 = Li|first3 = Michael|last4 = Wu|first4 = Yongsheng|bibcode = 2012MGeol.323..123S}}</ref>  Two locations in the [[United States]] where tidal scour is the predominant shaping force is the [[San Francisco Bay]] and the [[Elkhorn Slough]].<ref name=":0" />{{better source needed|date=April 2023}}<ref name=":3">{{Cite thesis|last = Malzonen|first = Christopher Mario|date = 1999|title = Tidal scour and its relation to erosion and sediment transport in Elkhorn Slough|type=MS thesis|publisher=San Jose State University|url = http://scholarworks.sjsu.edu/etd_theses/1826/|accessdate = 15 December 2019|doi = 10.31979/etd.zz9e-ww37|doi-access = free}}</ref><ref name=":4">Silberstein 1989 M, Campbell E. 1989. Elkhorn Slough. Monterey, CA: Monterey Bay Aquarium. 64 p.</ref> Tidal force can also contribute to bridge scour.<ref name=":0" />{{better source needed|date=April 2023}}
+
+== Historical Perspective and Relevance ==
+Research on tidal scour is largely centered at Elkhorn Slough in California.<ref name=":0" />{{better source needed|date=April 2023}} The slough was directly exposed to tidal flux beginning in 1947 with the creation of the [[Moss Landing, California|Moss Landing]] Harbor.<ref name=":0" />{{better source needed|date=April 2023}}<ref name=":3" /> Multiple studies have been done on the slough since tidal exposure to catalog the morphological change and determine how long it will take for the system to reach equilibrium.<ref name=":0" />{{better source needed|date=April 2023}}<ref name=":3" />
+[[File:Moss Landing California aerial view.jpg|thumb|Elkhorn Slough is the focus of many tidal scour studies. Tidal scour became prevalent with the creation of the Moss Landing Harbor seen toward the bottom of the image.]]
+
+== Formation ==
+Tidal scours are formed in tide-dominated [[River delta|deltas]] and [[Estuary|estuaries]] with the changing of the tide. As the tide changes from low to high or high to low, water is transported through the channel taking sediment with it. With increasing erosion, there is increasing tidal volume creating a self-perpetuating system.<ref name=":0" />{{better source needed|date=April 2023}} Tidal scour is most apparent when a [[Barrier island|barrier]] is breached due to natural or [[Anthropogenic effects|anthropogenic]] forcing.<ref name=":0" />{{better source needed|date=April 2023}}<ref name=":1" />
+
+== Anatomy ==
+
+=== Bathymetry ===
+Tidal scour can be determined by looking at the change in [[bathymetry]] over time. Bathymetry of tidal channels is determined using [[Sonar|multi-beam sonar]] or [[Lidar|LiDAR]]. By comparing [[Cross-sectional study|cross-sections]] of channel bathymetry over several years and at various distances in the tidal channel, the amount of tidal scour can be quantified.<ref name=":0" />{{better source needed|date=April 2023}}<ref name=":2" /><ref>{{Cite journal|title = Character, distribution, and ecological significance of storm wave-induced scour in Rhode Island Sound, USA|last1 = McMullen|first1 = Katherine|date = 2015|journal = Geo-Marine Letters|volume = 35|issue = 2|pages = 135–144|doi = 10.1007/s00367-014-0392-0|last2 = Poppe|first2 = Lawrence|last3 = Parker|first3 = Castle|bibcode = 2015GML....35..135M|hdl = 1912/7246|s2cid = 53695218|hdl-access = free}}</ref>
+
+=== Grain Size Distribution ===
+Sediment grab samples show that in areas demonstrating tidal scour, there is an increase in [[grain size]] from surrounding areas.<ref name=":3" />
+
+== Ecological Significance ==
+With direct influence from the Ocean, slough [[Geomorphology|morphology]] can change significantly making it difficult for native species to persist.<ref name=":0" />{{better source needed|date=April 2023}} This can be seen in:
+*Increased transport of [[agricultural runoff]], such as DDT-laden sediment, introduced by increased tidal scour.<ref>{{Cite web|url = http://www.elkhornslough.org/sloughlife/birds/caspian_tern.htm|title = Caspian terns: the world's biggest tern nests at Elkhorn Slough!|date = 2001|accessdate = 15 December 2019|website = Elkhorn Slough National Estuarine Research Reserve (ESNERR)|archive-date = 26 August 2018|archive-url = https://web.archive.org/web/20180826124413/http://www.elkhornslough.org/sloughlife/birds/caspian_tern.htm|url-status = dead}} (''dead link'')</ref>
+*The erosion of marshes and [[eelgrass]] beds.<ref name=":0" />{{better source needed|date=April 2023}}
+*The loss of [[Benthos|benthic organisms]] as the channels deepen more than organisms can persist.<ref name=":4" />
+
+== See also ==
+*{{annotated link|Bridge scour}}
+*{{annotated link|River delta}}
+*{{annotated link|Estuary}}
+*{{annotated link|Sediment transport}}
+
+==References==
+{{Reflist}}
+
+[[Category:Geological processes]]
+[[Category:Geology]]
+[[Category:Geomorphology]]

@@ -1,0 +1,102 @@
+{{short description|Italian long-distance runner}}
+{{Use dmy dates|date=August 2015}}
+{{Infobox sportsperson
+|name=
+|nickname=
+|image=Dorando portret.jpg
+| image_size     =
+|caption=Pietri holding the gilded silver cup from [[Queen Alexandra]] in 1908
+| birth_date  = {{birth date|1885|10|16|df=yes}}
+| birth_place = [[Correggio, Italy]]
+| death_date  = {{death date and age|1942|2|7|1885|10|16|df=yes}}
+| death_place = [[Sanremo]], Italy
+| height = 1.59 m
+| weight = 60 kg
+|sport= [[Sport of athletics|Athletics]]
+|event= [[Long-distance running]]
+|club=La Patria Carpi 
+|pb= 
+*1500 m: 4:11.0  (1905)
+*5000 m: 16:08.1 (1905)
+*10000 m: 32:18.0 (1910)
+*{{nowrap|Marathon: 2:38:49 (1910)<ref name=r1>[https://www.sports-reference.com/olympics/athletes/pi/dorando-pietri-1.html Dorando Pietri] {{webarchive|url=https://web.archive.org/web/20150925173622/http://www.sports-reference.com/olympics/athletes/pi/dorando-pietri-1.html |date=25 September 2015 }}. sports-reference.com</ref><ref name=r4>[http://trackfield.brinkster.net/Profile.asp?ID=5261&Gender=M Dorando Pietri]. trackfield.brinkster.net</ref> }}
+|alma_mater=
+| show-medals    = yes
+| medaltemplates = 
+}}
+
+'''Dorando Pietri''' ({{IPA-it|doˈrando ˈpjɛːtri}}; often wrongly spelt '''Petri'''; 16 October 1885  – 7 February 1942) was an Italian long-distance runner.  He finished first in the [[Athletics at the 1908 Summer Olympics – Men's marathon|marathon at the 1908 Summer Olympics in London]] but was subsequently disqualified.<ref>{{cite web|url=http://www.runplaces.com/marathon-videos/dorando-pietris-famous-1908-london-olympic-marathon-finish/ |title=Dorando Pietri’s famous 1908 London Olympic marathon finish |access-date=14 April 2012 |url-status=dead |archive-url=https://web.archive.org/web/20111101074525/http://www.runplaces.com/marathon-videos/dorando-pietris-famous-1908-london-olympic-marathon-finish/ |archive-date=1 November 2011 }}</ref><ref>{{cite web|url=https://www.olympedia.org/athletes/72093 |title=Dorando Pietri |work=Olympedia |access-date=8 March 2021}}</ref>
+
+==Biography==
+===Early years===
+Pietri was born in Mandrio, a ''[[frazione]]'' of [[Correggio, Italy|Correggio]], but spent his youth in [[Carpi (Modena)|Carpi]] ([[Emilia-Romagna]] region). Here he worked as a shop-boy at a confectionery shop. He was 1.59&nbsp;m (5&nbsp;ft., 2½ in.) tall.
+
+In September 1904 the most famous Italian runner of the time, [[Pericle Pagliani]], took part in a race in Carpi. According to tradition, Pietri was attracted by the event and, still wearing his work clothes, ran to the finish ahead of Pagliani. A few days later Pietri débuted in a distance race, finishing second in the 3,000 m of [[Bologna]].
+
+The following year he achieved his first international success, winning the 30&nbsp;km in [[Paris]]. On 2 April 1906 Pietri won the qualifying marathon for the [[1906 Summer Olympics|Olympic Games]] to be held in [[Athens]] that same year. In the Olympic race he retired due to intestinal illness when he was leading by 5 minutes.
+
+In 1907 he won the Italian championships. He was by then the undisputed leader of Italian long distance races from [[5000 metres]] to marathon distance.
+
+===1908 Olympics===
+[[File:Dorando Pietri 1908.jpg|thumb|left|250px|The arrival of Dorando Pietri at the finish of the 1908 Olympics marathon, assisted by Dr. [[Michael Joseph Bulger]] (right)]]
+Dorando Pietri trained hard for the [[1908 Summer Olympics|1908 Olympics]] in [[London]]. In a race in [[Carpi, Emilia-Romagna|Carpi]] he ran {{convert|40|km|0|abbr=on}} in 2 hours and 38 minutes, an extraordinary result for the times. The marathon, which was to take place on 24 July 1908, started with 56 competitors, including Pietri and fellow Italian Umberto Blasi. It began at 2:33pm. The weather was particularly hot by British summer standards. The London course measured {{convert|42.2|km|0|abbr=on}}; the distance later became the official marathon length from 1921.<ref>{{cite news|url=https://www.theguardian.com/sport/2012/feb/29/50-stunning-olympic-moments|title=50 stunning Olympic moments No16: Dorando Pietri's marathon, 1908|publisher=guardian.co.uk|access-date=14 April 2012|location=London|first=Simon|last=Burnton|date=29 February 2012}}</ref>
+
+Pietri began his race at a rather slow pace, but in the second half of the course began a powerful surge moving him into second position by the {{convert|32|km|0|abbr=on}} mark, 4 minutes behind [[South Africa]]n [[Charles Hefferon]]. When he knew that Hefferon was in crisis, Pietri further increased his pace, overtaking him at the {{convert|39|km|0|abbr=on}} mark.
+
+The effort took its toll and with only {{convert|2|km|spell=in}} to go, Pietri began to feel the effects of extreme fatigue and [[dehydration]]. When he entered the stadium, he took the wrong path and when umpires redirected him, he fell down for the first time. He got up with their help, in front of 75,000 spectators.
+
+He fell four more times, and each time the umpires helped him up. In the end, though totally exhausted, he managed to finish the race in first place. Of his total time of 2h 54min 46s, ten minutes were needed for that last {{convert|350|m|yd}}. Second was American [[Johnny Hayes]], with a time of 2h 55min 18s. The American team immediately lodged a complaint against the help Pietri received from the umpires. The complaint was accepted and Pietri was disqualified and removed from the final standings of the race.
+
+===International celebrity===
+As a compensation for the missing medal, [[Queen Alexandra]] gave him a gilded silver cup.<ref name=r1/> [[Arthur Conan Doyle]] had been commissioned by the ''[[Daily Mail]]''<ref>{{cite journal|author=Lovesey, Peter |url=http://www.la84foundation.org/SportsLibrary/JOH/JOHv10n1/JOHv10n1h.pdf |title=Conan Doyle and the Olympics|journal=Journal of Olympic History |volume= 10 &year=2001|pages=6–9}}</ref> to write a special report about the race. He was very impressed by the effort of the Italian at the stadium, which he commented with the words:<ref name=DOYLE>{{cite web|url=https://www.arthur-conan-doyle.com/index.php/Dorando_Pietri|title=Dorando Pietri at The Arthur Conan Doyle Encyclopedia|publisher=arthur-conan-doyle.com|access-date=24 March 2018}}</ref>
+
+{{quote|"The Italian's great performance can never be effaced from our record of sport, be the decision of the judges what it may."}}
+
+[[File:Maraton juegos centenario.jpg|thumb|right|250px|Pietri (second from right) with his competitors of the Argentine marathon of 1910, which he won]]
+Conan Doyle proposed the Daily Mail to start a subscription to raise money and help Pietri to open a bakery in his native town. The fund reached the considerable sum of 300 pounds ({{Inflation|UK|300|1908|fmt=eq|cursign=£}}), to which the same Conan Doyle contributed the initial 5 pounds ({{Inflation|UK|5|1908|fmt=eq|cursign=£}}).<ref name=DOYLE/>
+
+Pietri suddenly became an international celebrity. Composer [[Irving Berlin]] dedicated a song to him entitled "Dorando"<ref name=r1/> and Pietri received requests to participate in exhibition races in the United States. On 25 November 1908, in [[Madison Square Garden (1890)|Madison Square Garden]], [[New York City|New York]] a race between Hayes and Pietri was organized. Pietri won the race as well as a second similar race on 15 March 1909. Pietri won 17 of the 22 races on his tour of America.<ref>{{cite web|url=http://www.tag24.it/201856-dorando-pietri/|title=Dorando Pietri "famoso per non aver vinto", premiato dalla Regina Alessandra d’Inghilterra|publisher=tag24.it|language=it|quote=Nelle altre 22 gare alle quali l’italiano di Mandrio di Correggio partecipò vinse ben 17 volte: le distanze mutavano alle 10 miglia alla Maratona.|access-date=24 March 2018}}</ref>
+
+He returned to Italy in May 1909 and continued racing professionally in his native country and abroad for two more years. He ran his final marathon in [[Buenos Aires]], on 24 May 1910, where he achieved his personal best of 2h 38min 48:2s.<ref>{{cite web|url=http://www.casadorando.it/Storia.php|title=ca' Dorando|publisher=casadorando.it|language=it|quote=La sua ultima maratona è quella di Buenos Aires, corsa il 24 maggio 1910, dove Pietri chiude con il suo primato personale, 2h 38'48"2.|access-date=24 March 2018}}</ref>
+
+Pietri's last race in Italy was a {{convert|15|km|0|abbr=on}} race held in [[Parma]] on 3 September 1911, which he won. He also won his very last race, this time in [[Gothenburg]] ([[Sweden]]), in October of the same year. He was 26 at the time. In three years as a professional runner he earned 200,000 [[Italian lira|lire]] in prize money alone, an enormous sum for the time.<ref>{{cite web|url=http://www.casadorando.it/Storia.php|title=ca' Dorando|publisher=casadorando.it|language=it|quote=La gara d'addio in Italia si svolge il 3 settembre 1911 a Parma: una 15 chilometri, vinta agevolmente.|access-date=24 March 2018}}</ref>
+
+He invested his earnings in a hotel he opened in collaboration with his brother. He was not as successful an entrepreneur as he was athlete, and the hotel went bankrupt. He moved to [[Sanremo]], where he directed a car workshop. Pietri lived in Sanremo until his death, of a heart attack, at the age of 56.<ref>{{cite web|url=http://www.casadorando.it/Storia.php|title=ca' Dorando|publisher=casadorando.it|language=it|quote=Dopo il fallimento dell'hotel si trasferisce a Sanremo dove apre un'autorimessa. Muore all'età di 56 anni, il giorno 7 febbraio 1942, a causa di un attacco cardiaco.|access-date=24 March 2018}}</ref>
+
+==In popular culture==
+''[[Il sogno del maratoneta]]'' is an Italian book and TV movie about Pietri's run.
+
+==See also==
+* [[Legends of Italian sport - Walk of Fame]]
+*[[Athletics at the 1908 Summer Olympics – Men's marathon]]
+*[[Marathon world record progression  ]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+*[https://web.archive.org/web/20080913175016/http://www.olympic.org/uk/athletes/profiles/bio_uk.asp?PAR_I_ID=56207 Biography at CIO site]
+*[http://languageinstinct.blogspot.com/2010/03/story-of-marathon.html ''The Story of the Marathon'']
+*{{YouTube|r6xU6DiRKCg|Controversial Finish to the 1908 Olympic Marathon}}
+*[http://mentalfloss.com/article/31449/scenes-1908-london-olympic-marathon Scenes From the 1908 London Olympic Marathon]
+*[https://www.arthur-conan-doyle.com/index.php/Dorando_Pietri Dorando Pietri] at The Arthur Conan Doyle Encyclopedia
+
+{{Italian Athletics Champions in men's 5000 m}}
+{{Italian Athletics Champions in men's half marathon}}
+{{Footer Italy athletics team at the 1908 Summer Olympics}}
+{{Walk of Fame of Italian sport}}
+{{authority control}}
+
+
+{{DEFAULTSORT:Pietri, Dorando}}
+[[Category:1885 births]]
+[[Category:1942 deaths]]
+[[Category:People from Correggio, Emilia-Romagna]]
+[[Category:Italian male long-distance runners]]
+[[Category:Italian male marathon runners]]
+[[Category:Olympic athletes for Italy]]
+[[Category:Athletes (track and field) at the 1908 Summer Olympics]]
+[[Category:Sports controversies]]
+[[Category:Controversies in Italy]]
+[[Category:Sportspeople from the Province of Reggio Emilia]]

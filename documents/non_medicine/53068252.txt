@@ -1,0 +1,65 @@
+{{Infobox beverage
+| name         = ''Ssanghwa-tang''
+| image        = {{Photomontage
+| photo1a      = Ssanghwacha.jpg
+| photo2a      = Ssanghwacha with an egg yolk.jpg
+| size         = 220
+| position     = centre
+| spacing      = 0
+| color        = transparent
+| border       = 0
+}}
+| caption      = ''Ssanghwa-tang'' with an egg yolk
+| type         = [[Traditional Korean tea]]
+| abv          = 
+| proof        = 
+| manufacturer = 
+| distributor  = 
+| origin       = [[China]]
+| introduced   = 
+| discontinued = 
+| colour       = Deep brown
+| flavour      = Slightly bitter
+| ingredients  = [[Paeonia obovata|White woodland peony]] root, [[Rehmannia glutinosa|Rehmannia]] root, [[Astragalus propinquus|Mongolian milkvetch]] root, [[Angelica gigas|Korean angelica]] root, [[lovage]] root, [[Cinnamomum cassia|Chinese cinnamon]] bark, [[Glycyrrhiza uralensis|Chinese liquorice]]
+| variants     = 
+| related      = 
+| website      =
+| region       =
+}}
+{{Italics title}}
+{{Short description|Traditional Korean medical tea}}
+{{Infobox Korean name
+| title      = Korean name
+| hangul     = {{lang|ko|쌍화탕}}
+| hanja      = {{lang|ko-Hant|雙和湯}} 
+| rr         = ssanghwa-tang
+| mr         = ssanghwa-t'ang
+| koreanipa  = {{IPA-ko|s͈aŋ.ɦwa.tʰaŋ|}}
+| othername1 = 
+| hangul1    = {{lang|ko|쌍화차}}
+| hanja1     = {{lang|ko-Hant|雙和茶}} 
+| rr1        = ssanghwa-cha
+| mr1        = ssanghwa-ch'a
+| koreanipa1 = {{IPA-ko|s͈aŋ.ɦwa.tɕʰa|}}
+}}
+'''''Ssanghwa-tang''''' ({{Korean|hangul=쌍화탕|hanja=雙和湯|labels=no|links=no}}) or '''''ssanghwa-cha''''' ({{Korean|hangul=쌍화차|hanja=雙和茶|labels=no|links=no}}) is a [[traditional Korean tea]] with deep brown colour and a slightly bitter taste. Along with sipjeondaebotang, it is one of the most popular types of medical tea in Korea.<ref>{{Cite news|url=http://english.chosun.com/site/data/html_dir/2015/02/21/2015022100140.html|title=The Health Benefits of Traditional Korean Tea|date=21 February 2015|newspaper=[[The Chosun Ilbo]]|access-date=2 February 2017}}</ref>
+
+It is made by boiling down a number of [[Traditional Chinese medicine|medical herbs]] such as dried roots of [[Paeonia obovata|white woodland peony]] ({{Korean|hangul=백작약|hanja=白芍藥|rr=baekjagyak|labels=no|links=no}}), steamed and dried roots of [[Rehmannia glutinosa|rehmannia]] ({{Korean|hangul=숙지황|hanja=熟地黃|rr=sukjihwang|labels=no|links=no}}), dried roots of [[Astragalus propinquus|Mongolian milkvetch]] ({{Korean|hangul=황기|hanja=黃芪|rr=hwanggi|labels=no|links=no}}), dried roots of [[Angelica gigas|Korean angelica]] ({{Korean|hangul=당귀|hanja=當歸|rr=danggwi|labels=no|links=no}}), dried roots of [[lovage]] ({{Korean|hangul=천궁|hanja=川芎|rr=cheongung|labels=no|links=no}}), [[Cinnamomum cassia|Chinese cinnamon]] barks ({{Korean|hangul=계피|hanja=桂皮|rr=gyepi|labels=no|links=no}}), and [[Glycyrrhiza uralensis|Chinese liquorice]] ({{Korean|hangul=감초|hanja=甘草|rr=gamcho|labels=no|links=no}}). However, many people today buy the tea pre-made.<ref name=":0">{{Cite web|url=http://english.visitkorea.or.kr/enu/FO/FO_EN_6_3_3_2.jsp|title=The World of Korean Tea – Medicinal Tea|website=[[Korea Tourism Organization]]|access-date=2 February 2017}}</ref>
+
+== Efficacy and administration methods ==
+Ssanghwangtang is a herbal bath which was enjoyed in the morning and evening during the Joseon Dynasty. Precautions for use should be consulted with a doctor, pharmacist, etc. before taking it, such as patients with hypertension, heart failure or kidney disorder, edema patients, and patients receiving medical treatment.<ref>{{Cite news|url=http://m.mhj21.com/111469|title=Considering your health, Ssanghwa-tang|date=2018-01-11|work=문화·산업·경제강국을 향한 [문화저널21]|access-date=2018-04-17}}</ref>
+
+== See also ==
+*[[Traditional Korean tea]]
+*[[Traditional Korean medicine]]
+
+== References ==
+{{reflist}}
+
+[[Category:Korean tea]]
+[[Category:Traditional Korean medicine]]
+[[Category:Herbal tea]]
+
+{{drink-stub}}
+{{Korea-cuisine-stub}}
+{{alt-med-stub}}

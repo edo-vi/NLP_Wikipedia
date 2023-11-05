@@ -1,0 +1,40 @@
+{{Short description|Staring directly at the Sun}}
+[[Image:Sungazing.jpg|thumb|alt=A man with his back to the camera stares directly at a twilight sun.|A man sungazing]]
+{{Alternative medicine sidebar}}
+'''Sungazing''' is the unsafe <!-- long-term POV push that this is a safe practice... sources here in the article state that it is not. --> practice of looking directly at the [[Sun]].  It is sometimes done as part of a spiritual or religious practice, most often near dawn or dusk.<ref name="marinfilm">{{cite news|url=http://www.marinij.com/lifestyles/ci_13457606|title=Mill Valley man's film on people who stare at the sun among featured at festival|last=Liberatore|first=Paul|date=2009-09-30|publisher=[[Marin Independent Journal]]|accessdate=2009-10-17|archive-url=https://web.archive.org/web/20091005211203/http://www.marinij.com/lifestyles/ci_13457606|archive-date=2009-10-05|url-status=dead}}</ref> The human eye is very sensitive, and exposure to direct [[sunlight]] can lead to [[solar retinopathy]], [[pterygium (conjunctiva)|pterygium]],<ref name=Solomon2006>{{cite journal|doi= 10.1136/bjo.2006.091413|pmc=1860212|title= Pterygium|year= 2006|last1= Solomon|first1= A S|journal= British Journal of Ophthalmology|volume= 90|issue= 6|pages= 665–6|pmid= 16714259 }}</ref> [[cataract]]s,<ref name=Neale2003>{{cite journal|pmid=14569187 |doi=10.1097/01.ede.0000086881.84657.98|title=Sun Exposure as a Risk Factor for Nuclear Cataract|year=2003|last1=Neale|first1=Rachel E.|last2=Purdie|first2=Jennifer L.|last3=Hirst|first3=Lawrence W.|last4=Green|first4=Adèle C.|journal=Epidemiology|volume=14|issue=6|pages=707–12|s2cid=40041207 |doi-access=free}}</ref> and often blindness.<ref name="Stokkermans">{{cite journal |vauthors=Stokkermans TJ, Dunbar MT |date=Oct 1998 | title = Solar retinopathy in a hospital-based primary care clinic | journal = J Am Optom Assoc | volume = 69 | issue = 10| pages = 625–36 | pmid = 9805443 }}</ref><ref name="Norren">{{cite journal | author=D van Norren | url=http://physiologyonline.physiology.org/cgi/content/abstract/6/5/232 | title=Photochemical Damage to the Eye | journal=News Physiol Sci | date= October 1, 1991 | issue=6 | pages=232–234 | id= 1548-9213/91 | volume=6 }}</ref><ref name="Chen">{{cite journal |vauthors=Chen JC, Lee LR | url=http://www.optometrists.asn.au/gui/files/ceo876390.pdf | title=Solar retinopathy and associated optical coherence tomography findings | journal=Clin Exp Optom |date=November 2004 | volume=87 | issue=6 | pages=390–3 | pmid= 15575813 | doi=10.1111/j.1444-0938.2004.tb03100.x | doi-access=free }}</ref> Studies have shown that even when viewing a [[solar eclipse]] the eye can still be exposed to harmful levels of [[Ultraviolet#Eye|ultraviolet]] radiation.<ref>{{cite journal |vauthors=Krasniz I, Beiran I, Miller B | title = Retinal lesion due to excessive exposure to sunlight | journal = Harefuah | date = 1999-11-01 | volume = 137 | issue = 9 | pages = 378–80, 431, 430 | pmid = 11419039 }}</ref>
+
+==Movements==
+Referred to as ''sunning'' by [[William Horatio Bates]] as one of a series of exercises included in his [[Bates method#Sunning|Bates method]], it became a popular form of [[alternative medicine|alternative therapy]] in the early 20th century.<ref name=Chou2004>{{cite journal | journal = Review of Optometry | url = http://www.revoptom.com/content/d/therapeutics/c/17353/ | title = Exposing the Secrets of Fringe Eye Care | first = Brian | last = Chou | volume = 141 | issue = 9 | date = 15 September 2004 }}</ref> His methods were widely debated at the time but ultimately discredited for lack of scientific rigor. The ''[[British Medical Journal]]'' reported in 1967 that "Bates (1920) advocated prolonged sun-gazing as the treatment of [[myopia]], with disastrous results".<ref>{{cite journal
+|doi=10.1136/bmj.3.5559.212
+|title=Solar retinopathy
+|year=1967
+|last1=Ridgway
+|first1=A. E.
+|journal=BMJ
+|volume=3
+|issue=5559
+|pages=212–4
+|pmid=6028468
+|pmc=1842517}}</ref>
+
+==See also==
+* [[Inedia]] (breatharianism)
+* [[Joseph Plateau]]
+* [[Scientific skepticism]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [http://mintaka.sdsu.edu/GF/vision/Galileo.html San Diego State University Dept. of Astronomy information on solar observation safety]
+
+{{Naturopathy}}
+
+[[Category:Natural environment based therapies]]
+[[Category:Alternative medicine]]
+[[Category:Sun]]
+[[Category:Eye injury]]
+[[Category:Eye diseases]]
+[[Category:Naturopathy]]
+
+{{alt-med-stub}}

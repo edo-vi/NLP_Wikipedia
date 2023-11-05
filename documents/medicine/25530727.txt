@@ -1,0 +1,208 @@
+{{Short description|none}}
+{{multiple issues|
+{{update|date=December 2020}}
+{{Disputed|date=December 2020|see discussion at [[WT:MED]]}}
+{{More footnotes needed|date=February 2011}}
+}}
+{{Dynamic list}}
+This is a list of [[excipient]]s per vaccine, as published by the United States [[Centers for Disease Control and Prevention|Centers for Disease Control]]. Vaccine ingredients and production in other nations are substantially the same. Also listed are substances used in the manufacturing process.<ref name="cdcVacIngreds" >{{cite web|url=https://www.cdc.gov/vaccines/pubs/pinkbook/downloads/appendices/B/excipient-table-2.pdf|title=Vaccine Excipient & Media Summary}}</ref>
+
+{| class="wikitable"
+!Vaccine
+!Excipients
+|-
+|[[Adenovirus vaccine]]
+|This list refers to the type 4 and type 7 adenovirus vaccine tablets licensed in the US: [[Acetone]], [[Ethanol|alcohol]], [[lactose|anhydrous lactose]], [[castor oil]], [[cellulose acetate phthalate]], [[dextrose]], [[D-fructose]], [[D-mannose]], FD&C Yellow #6 aluminum lake dye, [[fetal bovine serum]], [[human serum albumin]], [[magnesium stearate]], micro crystalline cellulose, plasdone C, Polacrilin potassium, [[potassium phosphate]], [[sodium bicarbonate]], [[sucrose]]
+|-
+|[[Anthrax vaccine]] ([[BioThrax]])
+|[[Aluminum hydroxide]], [[amino acids]], [[benzethonium chloride]], [[formaldehyde]], inorganic [[salts]] and [[sugars]], [[vitamins]]
+|-
+|BCG ([[Bacillus Calmette-Guérin]]) ([[Tice BCG]])
+|[[Asparagine]], [[citric acid]], [[lactose]], [[glycerin]], [[iron ammonium citrate]], [[magnesium sulfate]], [[potassium phosphate]]
+|-
+|[[COVID-19 vaccine]]s, mRNA-based ([[Pfizer-BioNTech COVID-19 Vaccine ]]) ([[Moderna COVID-19 Vaccine]]) 
+|Lipids, salts, sucrose, plus in the Moderna COVID-19 Vaccine: [[tromethamine]], acids and acid stabilizers<ref>{{cite web |url=https://www.hackensackmeridianhealth.org/HealthU/2021/01/11/a-simple-breakdown-of-the-ingredients-in-the-covid-vaccines/| author=Juan C. Ravell |title=A Simple Breakdown of the Ingredients in the COVID Vaccines| publisher=Hackensack Meridian Health| date=January 11, 2021 |accessdate=February 3, 2021}}</ref><ref>[https://www.fda.gov/media/144638/download Moderna Covid-19 Vaccine Factsheet]</ref>
+|-
+|[[DTaP]] ([[Daptacel]])
+|[[Aluminum phosphate]], [[formaldehyde]], [[Glutaraldehyde]], [[2-phenoxyethanol]]
+|-
+|[[DTaP]] ([[Infanrix]])
+|[[Aluminum hydroxide]], [[bovine]] extract, [[formaldehyde]], glutaraldhyde, [[polysorbate 80]]
+|-
+|[[DTaP]] ([[Tripedia]])
+|[[Aluminum potassium sulfate]], [[ammonium sulfate]], [[bovine]] extract, [[formaldehyde]], [[gelatin]], [[peptone]], [[polysorbate 80]], [[sodium phosphate]], [[thimerosal]]<ref name=note1>Note: Thimerosal content less than 0.3&nbsp;µg.</ref>
+|-
+|[[DTaP-Hib]] ([[TriHIBit]])
+|[[Aluminum potassium sulfate]], [[ammonium sulfate]], [[bovine]] extract, [[formaldehyde]] or [[formalin]], [[gelatin]], [[polysorbate 80]], [[sucrose]], [[thimerosal]]<ref name=note1 />
+|-
+|[[DTaP-IPV]] ([[Kinrix]])
+|[[Aluminum hydroxide]], calf [[Serum (blood)|serum]], [[formaldehyde]], [[glutaraldehyde]], lactalbumin hydrolysate, [[neomycin sulfate]], [[polymyxin B]], [[polysorbate 80]]
+|-
+|[[DTaP-HepB-IPV]] ([[Pediarix]])
+|[[Aluminum hydroxide]], [[aluminum phosphate]], calf [[Serum (blood)|serum]], lactalbumin hydrolysate, [[formaldehyde]], glutaraldhyde, [[neomycin sulfate]], [[polymyxin B]], [[polysorbate 80]], yeast protein
+|-
+|[[DTaP-IPV-Hib]] ([[Pentacel]])
+|[[Aluminum phosphate]], [[bovine]] [[Serum (blood)|serum]] [[albumin]], [[formaldehyde]], glutaraldehyde, [[MRC-5]] cellular protein, [[neomycin]], [[polymyxin B sulfate]], [[polysorbate 80]], [[2-phenoxyethanol]]
+|-
+|[[DT vaccine]] ([[diphtheria vaccine]] plus [[tetanus vaccine]]) ([[Sanofi]])
+|[[Aluminum potassium sulfate]], bovine extract, [[formaldehyde]], [[thimerosal]]
+|-
+|[[DT vaccine]] (Massachusetts)
+|[[Aluminum hydroxide]], [[formaldehyde]] or [[formalin]]
+|-
+|[[Hib vaccine]] ([[ActHIB]])
+|[[Ammonium sulfate]], [[formaldehyde]], [[sucrose]]<ref>{{cite web | title=ActHIB | website=U.S. [[Food and Drug Administration]] (FDA) | date=24 May 2019 | url=https://www.fda.gov/vaccines-blood-biologics/vaccines/acthib | access-date=6 May 2020}}</ref>
+|-
+|[[Hib vaccine]] ([[PedvaxHib]])
+|Aluminum hydroxyphosphate sulfate<ref>{{cite web | title=Haemophilus B Conjugate Vaccine | website=U.S. [[Food and Drug Administration]] (FDA) | date=22 July 2017 | url=https://www.fda.gov/vaccines-blood-biologics/vaccines/haemophilus-b-conjugate-vaccine-meningococcal-protein-conjugate | access-date=6 May 2020}}</ref>
+|-
+|[[Hib vaccine]] ([[Hiberix]])
+|[[Formaldehyde]], [[lactose]]<ref>{{cite web | title=Hiberix | website=U.S. [[Food and Drug Administration]] (FDA) | date=30 April 2018 | url=https://www.fda.gov/vaccines-blood-biologics/vaccines/hiberix | access-date=6 May 2020}}</ref>
+|-
+|[[Hib-HepB]] ([[Comvax]])
+|[[Amorphous]] aluminum hydroxyphosphate sulfate, [[amino acids]], [[dextrose]], [[formaldehyde]], [[hemin chloride]], mineral [[salts]], [[nicotinamide adenine dinucleotide]], [[potassium aluminum sulfate]], [[sodium borate]], [[soy]] [[peptone]], [[yeast]] protein
+|-
+|[[Hepatitis A vaccine]] ([[Havrix]])
+|[[Aluminum hydroxide]], [[amino acid]] supplement, [[formalin]], [[MRC-5]] cellular protein, [[neomycin sulfate]], [[phosphate]] buffers, [[polysorbate 20]]
+|-
+|[[Hepatitis A vaccine]] ([[Vaqta]])
+|Amorphous aluminum hydroxyphosphate sulfate, bovine [[albumin]] or [[Serum (blood)|serum]], [[formaldehyde]], [[MRC-5]] cellular protein, [[sodium borate]]
+|-
+|[[Hepatitis B vaccine]] ([[Engerix-B]])
+|[[Aluminum hydroxide]], [[phosphate]] buffers, [[yeast]] protein
+|-
+|[[Hepatitis B vaccine]] ([[Recombivax HB]])
+|Amorphous aluminum hydroxyphosphate sulfate, [[amino acids]], [[dextrose]], [[formaldehyde]], mineral salts, [[potassium aluminum sulfate]], soy peptone, yeast protein
+|-
+|[[Twinrix|HepA-HepB vaccine]] ([[Twinrix]])
+|Aluminum hydroxide, aluminum phosphate, amino acids, formalin, [[MRC-5]] cells, neomycin sulfate, phosphate buffers, polysorbate 20, yeast protein
+|-
+|[[HPV vaccines|Human papillomavirus (HPV)]] ([[Cervarix]])
+|[[Aluminum hydroxide]], [[amino acids]], [[lipids]], mineral [[salts]], [[sodium dihydrogen phosphate]] dehydrate, type 16 viral protein L1, type 18 viral protein L1, [[vitamins]]
+|- 
+|[[HPV vaccines|Human papillomavirus (HPV)]] ([[Gardasil]])
+|[[Amino acids]], amorphous aluminum hydroxyphosphate sulfate, [[carbohydrates]], [[L-histidine]], mineral salts, [[polysorbate 80]], [[sodium borate]], [[vitamins]], yeast protein
+|-
+|[[Influenza vaccine]] ([[Afluria]])
+|[[Beta-propiolactone]], [[calcium chloride]], dibasic [[sodium phosphate]], egg protein, [[monobasic potassium phosphate]], monobasic [[sodium phosphate]], [[neomycin sulfate]], [[polymyxin B]], [[potassium chloride]], sodium taurodeoxychoalate, [[thimerosal]] (multi-dose vials only)
+|-
+|[[Influenza vaccine]] ([[Agriflu]])
+|Egg proteins, [[formaldehyde]], [[polysorbate 80]], [[cetyltrimethylammonium bromide]], [[neomycin sulfate]], [[kanamycin]]
+|-
+|[[Influenza vaccine]] ([[Fluad]])
+|Squalene, [[polysorbate 80]], sorbitan trioleate, sodium citrate dehydrate, citric acid monohydrate, [[neomycin]], [[kanamycin]], [[barium]], egg proteins, CTAB(cetyltrimethylammonium bromide), [[formaldehyde]]
+|-
+|[[Influenza vaccine]] ([[Fluarix]])
+|[[Formaldehyde]], octoxynol-10 (Triton X-100), α-tocopheryl hydrogen succinate, [[polysorbate 80]] (Tween 80), [[hydrocortisone]], [[gentamicin sulfate]], [[ovalbumin]], [[sodium deoxycholate]], [[sucrose]], [[phosphate]] buffer
+|-
+|[[Influenza vaccine]] ([[Flublok]])
+|Monobasic [[sodium phosphate]], dibasic [[sodium phosphate]], [[polysorbate 20]], [[baculovirus]] and host cell proteins, baculovirus and cellular DNA, [[Triton X-100]], [[lipids]], [[vitamins]], [[amino acids]], mineral [[salts]]
+|-
+|[[Influenza vaccine]] ([[Flucelvax]])
+|Madin Darby Canine Kidney (MDCK) cell protein, MDCK cell DNA, [[polysorbate 80]], cetyltrimethlyammonium bromide, [[β-propiolactone]], [[phosphate]] buffer
+|-
+|[[Influenza vaccine]] ([[Flulaval]])
+|[[Formaldehyde]], á-tocopheryl hydrogen succinate, [[polysorbate 80]], [[sodium deoxycholate]], [[thimerosal]], [[ovalbumin]]
+|-
+|[[Influenza vaccine]] ([[Fluvirin]])
+|[[Beta-propiolactone]], egg protein, [[neomycin]], nonylphenol ethoxylate, [[polymyxin]], [[thimerosal]] (multi-dose containers), [[thimerosal]]<ref name=note1 /> (single-dose syringes)
+|-
+|[[Influenza vaccine]] ([[Fluzone]])
+|Egg protein, [[formaldehyde]], [[gelatin]] (standard formulation only), octylphenol ethoxylate (Triton X-100), [[sodium phosphate]], [[thimerosal]] (multi-dose containers only)
+|-
+|[[Influenza vaccine]] ([[Live attenuated influenza vaccine|FluMist]])
+|[[Arginine]], dibasic [[potassium phosphate]], egg protein, [[ethylenediaminetetraacetic acid]], [[gentamicin sulfate]], [[hydrolyzed]] [[porcine]] [[gelatin]], monobasic [[potassium phosphate]], [[monosodium glutamate]], [[sucrose]]
+|-
+|[[Japanese encephalitis vaccine]] ([[JE-Vax]])
+|[[Formaldehyde]] or [[formalin]], [[gelatin]], mouse [[Serum (blood)|serum]] protein, [[polysorbate 80]], [[thimerosal]]
+|-
+|Japanese encephalitis vaccine ([[Ixiaro]])
+|[[Aluminum hydroxide]], [[bovine serum albumin]], [[formaldehyde]], [[protamine sulfate]], [[sodium metabisulphite]]
+|-
+|[[Meningococcal vaccine]] ([[Menactra]])
+|[[Formaldehyde]] (Each 0.5&nbsp;mL dose may contain residual amounts of [[formaldehyde]] of less than 2.66&nbsp;µg (0.000532%), by calculation), [[phosphate]] buffers<ref>Menactra package insert. Sanofi Pasteur. 26 August 2014 v0.12.</ref>
+|-
+|Meningococcal vaccine ([[Menomune]])
+|[[Lactose]], [[thimerosal]] (multi-dose vial only)
+|-
+|Meningococcal vaccine ([[Menveo]])
+|[[Amino acids]], [[formaldehyde]], [[yeast]] extract
+|-
+|[[MMR vaccine]] ([[MMR-II]])
+|[[Amino acids]], fetal bovine [[Serum (blood)|serum]], [[glutamate]], [[hydrolyzed]] [[gelatin]], [[neomycin]], recombinant [[human serum albumin]], [[sodium phosphate]], [[sorbitol]], [[sucrose]], [[vitamins]]
+|-
+|[[MMRV vaccine]] ([[ProQuad]])
+|Bovine calf [[Serum (blood)|serum]], dibasic [[potassium phosphate]], dibasic [[sodium phosphate]], [[human albumin]], [[human serum albumin]], [[hydrolyzed]] [[gelatin]], monobasic [[potassium phosphate]], [[monosodium glutamate|monosodium L-glutamate]], MRC-5 cellular protein, [[neomycin]], [[sodium bicarbonate]], [[sorbitol]], [[sucrose]], [[potassium chloride]]
+|-
+|[[Pneumococcal vaccine]] ([[Pneumococcal polysaccharide vaccine|Pneumovax]])
+|[[Phenol]]
+|-
+|Pneumococcal vaccine ([[Pneumococcal conjugate vaccine|Prevnar]])
+|[[Aluminum phosphate]], [[ammonium sulfate]], [[casamino acid]], [[polysorbate 80]], [[succinate]] buffer, [[yeast]]
+|-
+|[[Polio vaccine]] (IPV – [[Ipol]])
+|Calf serum protein, [[formaldehyde]], [[neomycin]], [[2-phenoxyethanol]], [[polymyxin B]], [[streptomycin]]
+|-
+|[[Polio]] vaccine (IPV – [[Poliovax]])
+|[[sodium chloride]]
+|-
+|[[Rabies vaccine]] ([[Imovax]])
+|[[Albumin]], MRC-5 cells, [[neomycin sulfate]], [[phenol]]
+|-
+|Rabies vaccine ([[RabAvert]], Greedo)
+|[[Amphotericin B]], [[beta-propiolactone]], [[chicken protein]], [[chlortetracycline]], [[human serum albumin]], [[neomycin]], [[ovalbumin]], [[polygeline]] (processed bovine 14 [[gelatin]]), [[potassium glutamate]]
+|-
+|[[Rotavirus vaccine]] ([[RotaTeq]])
+|[[fetal bovine serum]], [[sodium citrate]], [[sodium phosphate monobasic monohydrate]], [[sodium hydroxide]], [[sucrose]], [[polysorbate 80]]
+|-
+|Rotavirus vaccine ([[Rotarix]])
+|[[Amino acids]], [[calcium carbonate]], [[dextran]], [[sorbitol]], [[sucrose]], [[vitamins]], [[xanthan]]
+|-
+|Td vaccine ([[Decavac]])
+|[[Aluminum potassium sulfate]], bovine muscle tissue, [[formaldehyde]], [[peptone]], [[thimerosal]]<ref name=note1 />
+|-
+|Td vaccine (Massachusetts)
+|[[Aluminum phosphate]], [[ammonium phosphate]], [[bovine extracts]], [[formaldehyde]], [[thimerosal]] (some multi-dose vials)
+|-
+|Tdap vaccine ([[DPT vaccine|Adacel]])
+|[[Aluminum phosphate]], [[ammonium sulfate]], [[formaldehyde]], [[glutaraldehyde]], [[2-phenoxyethanol]]
+|-
+|Tdap vaccine ([[Boostrix]])
+|[[Aluminum hydroxide]], [[bovine]] extract, [[formaldehyde]], [[glutaraldehyde]], [[polysorbate 80]]
+|-
+|[[Typhoid vaccine]] (inactivated – [[Typhim VI]])
+|[[Disodium phosphate]], [[monosodium phosphate]], [[phenol]], [[polydimethylsiloxane]], [[hexadecyltrimethylammonium bromide]]
+|-
+|Typhoid vaccine (oral – [[Ty21a]]/[[Vivotif]])
+|[[Amino acids]], [[ascorbic acid]], [[casein]], [[dextrose]], [[galactose]], [[lactose]], [[sucrose]], [[yeast]] extract
+|-
+|[[Vaccinia]] ([[ACAM2000]])
+|[[Glycerin]], [[human serum albumin]], [[mannitol]], [[neomycin]], [[phenol]], [[polymyxin B]]
+|-
+|[[Varicella vaccine]] ([[Varivax]])
+|[[Dibasic sodium phosphate]], [[ethylenediamine tetra acetic acid]][ sodium (EDTA), [[fetal bovine serum]], [[gelatin]], [[glutamate]], [[monobasic potassium phosphate]], [[monobasic sodium phosphate]], [[monosodium L-glutamate]], [[MRC-5]] DNA and cellular protein, [[neomycin]], [[phosphate]], [[potassium chloride]], [[sucrose]]
+|-
+|[[Yellow fever vaccine]] ([[YF-Vax]])
+|Egg protein, [[gelatin]], sorbitol
+|-
+|Zoster vaccine ([[Zostavax]])
+|Bovine calf serum, [[dibasic sodium phosphate]], hydrolyzed [[porcine]] [[gelatin]], [[monosodium L-glutamate]], [[MRC-5]] DNA and cellular protein, [[monobasic potassium phosphate]], [[neomycin]], [[potassium chloride]], [[sucrose]]
+|}
+
+==See also==
+* [[Excipient]]
+* [[Vaccine#Types|Vaccine types]]
+* [[Vaccination schedule]]
+* [[Immunologic adjuvant|Adjuvant]]
+* [[Preservative]]
+* [[Cell culture]]
+* [[Growth medium]]
+
+==References==
+The initial list is based on information from the [[Centers for Disease Control and Prevention]] (CDC) and the [[Food and Drug Administration]] (FDA) and thus limited to US-approved vaccines.
+
+{{reflist}}
+{{Vaccines}}
+
+[[Category:Vaccination|Excipients]]
+[[Category:Vaccines|Excipients]]

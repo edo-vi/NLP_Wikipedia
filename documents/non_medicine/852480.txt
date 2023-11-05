@@ -1,0 +1,103 @@
+{{short description|Dutch track and field athlete (1926–2007)}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox sportsperson
+| name           = Foekje Dillema
+| image          = Foekje Dillema.jpg
+| caption        = Foekje Dillema in 1949 
+| birth_date     = {{birth date|df=yes|1926|9|26}}
+| birth_place    = [[Burum, Netherlands|Burum]], [[Netherlands]]
+| death_date     = {{death date and age|df=yes|2007|12|5|1926|9|26}}
+| death_place    = [[Kollum]], Netherlands
+| sport          = [[Track and field]]
+| event          = [[100 metres|100&nbsp;m]], [[200 metres|200&nbsp;m]]
+| turnedpro      = 13 June 1948
+| turnedpro_type = Debuted
+| retired        = 13 July 1950
+}}
+'''Foekje Dillema''' ({{IPA-nl|ˈfukjə ˈdɪləmaː|lang}}; 18 September 1926{{dash}}5 December 2007) was a Dutch [[track and field]] athlete. She competed in [[Sprint (running)|sprinting]] where she was a rival of [[Fanny Blankers-Koen]]. When she refused a [[Sex verification in sports|sex verification]] test, she was banned from competition by the [[World Athletics|International Association of Athletics Federations]] in 1950. After her death, it was determined that she was an [[intersex]] person.
+
+==Early life==
+Foekje Dillema was born on 18 September 1926 in [[Burum, Friesland]] in the Netherlands.<ref name="tlc2021">Micha Peters & Jurryt van de Vooren, "[https://the-low-countries.com/article/foekje-dillema-and-the-biggest-scandal-in-dutch-sporting-history The Scandalous Suspension of Foekje Dillema]", ''The Low Countries'', 19 July 2021. Retrieved 30 September 2023.</ref>
+
+She started running at the age of twelve.<ref name="tlc2021"/>
+
+==Career==
+===1948===
+On 13 June 1948, Dillema debuted in [[Marsum]], where the 21-year-old ran the 100 metres in 13&nbsp;s.<ref>"[https://resolver.kb.nl/resolve?urn=ddd:010610349:mpeg21:a0035 Sport Athletiek Aantrekkelijke athletiek-wedstrijden te Marssum]" (in Dutch), ''[[Leeuwarder Courant]]'', 14 June 1948. Retrieved 30 September 2023.</ref>
+
+About a month later, she competed in the [[Dutch Athletics Championships|Dutch Championships]] in [[Eindhoven]], where she ran 12.5&nbsp;s in the 100&nbsp;metres, resulting in 4th place in the heats, and 26.2&nbsp;s in the 200&nbsp;metres, resulting in 4th place in the final.<ref>"[https://resolver.kb.nl/resolve?urn=ddd:010610373:mpeg21:a0087 Athletiek Jan Lammers Nederlands kampioen 200 meter]" (in Dutch), ''[[Leeuwarder Courant]]'', 12 July 1948. Retrieved 30 September 2023.</ref><ref>"[https://resolver.kb.nl/resolve?urn=ddd:010762048:mpeg21:a0095 Friese prestaties bij de nat. kampioenschappen]" (in Dutch), ''Nieuwsblad van Friesland'', 12 July 1948. Retrieved 30 September 2023.</ref>
+
+===1949===
+In 1949, Dillema did not compete in the Dutch Championships due to an injury of her thigh.<ref>"[https://resolver.kb.nl/resolve?urn=ddd:010536636:mpeg21:a0042 Athletiek Foekje Dillema in de nationale athletiekploeg]" (in Dutch), ''De Heerenveensche Koerier'', 11 July 1949. Retrieved 30 September 2023.</ref>
+
+Dillema was named "athlete of the match" in 1949 after winning the [[100 metres]] and [[200 metres]] race during a tournament in [[London]]. She was an important rival for another Dutch athlete [[Fanny Blankers-Koen]], who won four [[gold medal]]s during the [[1948 Summer Olympics]] and who was voted "Female Athlete of the Century" by the [[International Association of Athletics Federations]] (IAAF) in 1999.
+
+===1950===
+[[File:Start Foekje Dillema op 200 meter, Bestanddeelnr 904-0263.jpg|thumb|Dillema (second from the right) at the start of the 200 metres in Amsterdam on 18 June 1950.]]
+
+[[File:Atletiek in Groningen. Foekje Dillema, Bestanddeelnr 904-0733.jpg|thumb|Dillema during a sprint in Groningen on 12 July 1950.]]
+
+In 1950, Dillema was banned from competition for life by the IAAF. Dillema had refused to go to a mandatory sex test for the European championships in Brussels in August 1950. Dillema was the first subject of a mandatory [[Gender verification in sports|gender verification]]. The IAAF introduced mandatory sex verification in 1950 and continued this practice until 1992. Dillema's national record of 24.1 seconds for the 200 metres was erased.<ref>{{cite web | url= https://www.telegraph.co.uk/sponsored/sport/6414523/Athletics-Caster-Semenya-the-latest-female-athlete-suspected-of-being-biological-male.html?mobile=basic | archive-url= https://web.archive.org/web/20180204191019/http://www.telegraph.co.uk/sponsored/sport/6414523/Athletics-Caster-Semenya-the-latest-female-athlete-suspected-of-being-biological-male.html?mobile=basic | url-status= dead | archive-date= 4 February 2018 | publisher= [[The Daily Telegraph]] | date= 25 October 2009 | first= Nigel | last= Farndale | access-date= 13 December 2009 | title= Athletics: Caster Semenya the latest female athlete suspected of being biological male}}</ref>
+
+On 13 July 1950, Dillema was stopped on her way to an international meeting in [[France]] by the Dutch athletics authorities and expelled for life from competition.<ref name="dohle2008">Dohle, M. (2008) Het verwoeste leven van Foekje Dillema: de grootste tragedie uit de Nederlandse sportgeschiedenis, Arbeiderspers, {{ISBN|978-90-295-6687-2}}</ref>
+
+==After the ban==
+After Dillema was banned competition, she returned home to [[Friesland]] and did not leave her house for at least one year. She lived a quiet life in her home town afterwards and always refused to speak on the subject.<ref name="dohle2008"/>
+
+She died on 5 December 2007 in [[Kollum]], Netherlands.
+
+==Posthumous testing==
+Dillema, having the typical female [[phenotype]], was [[designated female at birth]], raised as a girl and lived her life as a woman. After her death a forensic test on body cells obtained from her clothing showed signs of a [[Y-chromosome]] in her [[DNA]]. She may have been a [[mosaic (genetics)|genetic mosaic]], having cells with either 46,XX (female) or 46,XY (male) chromosomes, in approximately a one-to-one ratio, in her skin. The forensic report speculated that Dillema developed from a zygote with an [[Klinefelter's syndrome|XXY genotype]] that promptly divided into a half XX, half XY embryo through [[nondisjunction]]. Dillema was probably a [[46XX/46XY]] woman.<ref>{{Cite journal|last1=Ballantyne|first1=Kaye N.|last2=Kayser|first2=Manfred|last3=Grootegoed|first3=J. Anton|date=2012-06-01|title=Sex and gender issues in competitive sports: investigation of a historical case leads to a new viewpoint|journal=British Journal of Sports Medicine|language=en|volume=46|issue=8|pages=614–617|doi=10.1136/bjsm.2010.082552|issn=0306-3674|pmid=21540190|pmc=3375582 |doi-access=free}}</ref> This is also known as ovotesticular [[disorder of sex development]] (DSD) or [[true hermaphroditism]].<ref>Andere Tijden Sport – Het mysterie Foekje Dillema. NOS Dutch broadcast 2008</ref>
+
+Her biographer Max Dohle concludes that Dillema, having a Y-chromosome, would never have been allowed to race in the last 45 years. The [[Barr body]] test (1966) as well as the test based on [[Polymerase chain reaction|PCR]] (1992) scan for a Y-chromosome or an SRY-gene on the Y-chromosome. All female athletes with a Y-chromosome were expelled from competition from 1966 until 2011.<ref name="KatrinaKarkazis">{{Cite journal 
+| last1 = Karkazis | first1 = K. | author-link1 = Katrina Karkazis
+| last2 = Jordan-Young | first2 = R. | author-link2 = Rebecca Jordan-Young
+| last3 = Davis | first3 = G. | author-link3 = Georgiann Davis 
+| last4 = Camporesi | first4 = S. 
+| title = Out of Bounds? A Critique of the New Policies on Hyperandrogenism in Elite Female Athletes 
+| doi = 10.1080/15265161.2012.680533 
+| journal = The American Journal of Bioethics 
+| volume = 12 
+| issue = 7 
+| pages = 3–16 
+| year = 2012 
+| pmid = 22694023 
+| pmc = 5152729
+}}</ref>
+
+Dohle concludes that Dillema was an [[intersex]] individual who had ovotesticular DSD. She had an operation on her glands in 1952. During the operation, testes or ovotestes were removed. The SRY-gene on the Y is the testis determining factor, so Dillema may have had infertile testes or ovotestes palpable in her groin. These ovotestes produce more testosterone than ovaries. Higher testosterone levels were considered unfair towards the competition, despite being an entirely natural feature of Dillema's physiology.
+
+==Rehabilitation==
+[[File:Eerbetoon aan Foekje Dillema.jpg|thumb|Sculpture in honor of Dillema by Ids Willemsma from 2014.]]
+
+Shortly after Dillema's death, the director of the [[Royal Dutch Athletics Federation]] apologized to her family for the manner of her suspension and her personal best in the 200 metres was reinstated.<ref name="tlc2021"/>
+
+In 2014, Ids Willemsma made a sculpture commemorating Dillema, currently installed in Leeuwarden.
+
+In Amsterdam, a street was named after her.
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20160303171441/http://www.cultuurwijs.nl/nwc.internationaalinstituutvoorsocialegeschiedenis/cultuurwijs.nl/i000006.html Het kneuterige Nederland van Ben van Meerendonk]
+* [https://web.archive.org/web/20160422082250/http://www.foekjedillema.nl/ Foekje Dillema tribute]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dillema, Foekje}}
+[[Category:1926 births]]
+[[Category:2007 deaths]]
+[[Category:20th-century Dutch LGBT people]]
+[[Category:Dutch female sprinters]]
+[[Category:Dutch LGBT sportspeople]]
+[[Category:Intersex sportspeople]]
+[[Category:Intersex women]]
+[[Category:LGBT track and field athletes]]
+[[Category:People from Kollumerland]]
+[[Category:Sex verification in sports]]
+[[Category:Sports controversies]]
+[[Category:Sports scandals in the Netherlands]]
+[[Category:Sportspeople banned for life]]
+[[Category:Sportspeople from Friesland]]

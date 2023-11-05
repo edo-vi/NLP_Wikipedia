@@ -1,0 +1,25 @@
+{{other uses|comparator (disambiguation)}}
+
+A '''comparator system''', or simply '''comparator''', in the fields of [[biophysics]], [[biology]], and [[neurology]] is a particular organisation of [[neuron]]s.<ref>{{cite journal 
+  |title= Hippocampus as comparator: Role of the two input and two output systems of the hippocampus in selection and registration of information
+  |last1= Vinogradova
+  |first1= O.S.
+  |date= October 2001
+  |doi=10.1002/hipo.1073
+  |pmid = 11732710|volume=11
+  |issue=5
+  |pages=578–598
+  |journal=Hippocampus
+|citeseerx = 10.1.1.462.6437|s2cid= 13962793
+ }}</ref> Comparators, as their name suggests, compare several inputs of internal or external information, and are important to the field of neural learning. In biological systems, comparators help an organism adapt to changes in its surroundings.<ref>{{cite journal|last1=Ludueña|first1=GA|last2=Gros|first2=C|title=A self-organized neural comparator|date=April 2013|journal=Neural Computation|doi=10.1162/NECO_a_00424|volume=25|issue=4|pages=1006–1028|pmid=23339611|arxiv=1210.6230|s2cid=6863192 }}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Biophysics]]
+[[Category:Biology]]
+[[Category:Neurology]]
+
+
+{{neuro-stub}}
+{{biophysics-stub}}

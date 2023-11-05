@@ -1,0 +1,19 @@
+An '''ore shoot''' is a mass of [[ore]] deposited in a vein. The ore shoot consists of the most valuable part of the ore deposit. An ore shoot is the area of concentration containing primary ore along the veins present in the rocks.<ref name=":0">{{Cite web|url=https://www.azomining.com/Article.aspx?ArticleID=1283|title=Oreshoot - Mining Fundamentals|date=2014-03-26|website=AZoMining.com|language=en|access-date=2020-03-14}}</ref>
+
+== Veins ==
+Along an ore shoot, there is a rich gathering of different minerals in a [[Vein (geology)|vein]]. The veins resemble a pipe or a chimney in structure. Veins are displaced mainly vertically oriented but also horizontal with large veins extending approximately {{cvt|100|ft|m|order=flip}} horizontally and {{cvt|500|ft|m|order=flip}} vertically.<ref name=":02">{{Cite web|url=https://www.azomining.com/Article.aspx?ArticleID=1283|title=Oreshoot - Mining Fundamentals|date=2014-03-26|website=AZoMining.com|language=en|access-date=2020-03-14}}</ref> The metal contents in ore shoots are distributed in areas that vary in deposit sizes. 
+
+== Sizes and structure ==
+The circumference of deposit sizes can range from a few meters, to many kilometres. A structure may consist of multiple ore shoots with some veins or [[lode]]s being as thick as {{Cvt|5-20|ft|m|order=flip}}, and extending to thousands of feet horizontally and vertically.<ref name=":02" />
+
+== Locations ==
+There are complex stratigraphic historical parameters required in understanding how ore shoots are formed. Rocks go through numerous [[Ductility|ductile]] and [[Brittleness|brittle]] deformation events before they become [[Mineralization (geology)|mineralized]]. The different locations of ore shoots in Australia are determined by investigating the internal architecture of the rock pile. The longest shoots occur on the flanks of the [[basalt]] flows with the largest lateral extent. The geometry and internal structure of the basalt flows is important for predicting the likelihood and extent of the ore shoots.<ref>{{Cite journal|last=Squire|first=Richard J.|last2=Robinson|first2=Jamie A.|last3=Rawling|first3=Timothy J.|last4=Wilson|first4=Christopher J. L.|date=2008-08-01|title=Controls on Ore Shoot Locations and Geometries at the Stawell Gold Mine, Southeastern Australia: Contributions of the Volcanosedimentary, Alteration, and Structural Architecture|url=https://pubs.geoscienceworld.org/economicgeology/article-abstract/103/5/1029/128005/Controls-on-Ore-Shoot-Locations-and-Geometries-at|journal=Economic Geology|language=en|volume=103|issue=5|pages=1029–1041|doi=10.2113/gsecongeo.103.5.1029|issn=0361-0128}}</ref>
+
+==References ==
+{{reflist}}
+
+{{DEFAULTSORT:Ore Shoot}}
+[[Category:Ore deposits]]
+
+[[Category:Mining terminology]]
+[[Category:Geology]]

@@ -1,0 +1,26 @@
+'''PC-SPES''' is an [[alternative medicine]] supplement made from multiple herbs and marketed as a treatment for [[prostate cancer]].
+
+There is no good evidence it is of any benefit as a cancer treatment.
+
+== Similar supplements ==
+Other similar supplements are named '''PC-CARE''', '''PC-PLUS''' and '''PC-HOPE'''. Like PC-SPES they have no good evidence of medical benefit.<ref name=cruk>{{ cite web |title=PC-SPES, PC-HOPE, PC-CARE and PC-PLUS |url=https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/pc-spes-pc-hope |publisher=[[Cancer Research UK]] |date=4 July 2022}}</ref>
+
+== History ==
+PC-SPES was devised and patented by Sophie Chen in the 1990s.<ref name=qw>{{cite web |website=[[QuackWatch]] |vauthors=Barrett S |date=23 March 2018 |url=https://quackwatch.org/cancer/reports/pc-spes/history/ |title=The Rise and Fall of PC-SPES and Its Marketers}}</ref> The formulation was patented and the drug manufactured and sitributed by a Californian company, BotanicLab.<ref name=pdq>{{cite web |publisher=PDQ Integrative, Alternative, and Complementary Therapies Editorial Board |date=22 November 2004 |url=https://www.ncbi.nlm.nih.gov/books/NBK65914 |type=PDQ Cancer Information Summaries |title=PC-SPES}}</ref>
+
+[[Clinical trial]]s of PC-SPES appeared to show it had some effect on human hormones, but it was discovered the PC-SPES had been adulterated with [[estrogenic]] chemicals, which were likely the cause of these effects.<ref name=pdq/>
+
+== See also ==
+* [[List of unproven and disproven cancer treatments]]
+
+== References ==
+{{reflist}}
+
+[[Category:Alternative cancer treatments]]
+[[Category:Alternative medicine]]
+[[Category:Dietary supplements]]
+[[Category:Health fraud products]]
+[[Category:Patent medicines]]
+
+
+{{alt-med-stub}}

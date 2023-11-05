@@ -1,0 +1,76 @@
+{{Use dmy dates|date=September 2019}}
+{{EngvarB|date=September 2019}}
+{{Infobox university
+| name = Centre for Evidence-Based Medicine (University of Oxford)
+| parent = [[University of Oxford]]
+| established = 1995
+| type = [[Public university|Public]]
+| director = [[Carl Heneghan]]
+| city = [[Oxford]]
+| country = England
+| faculty = 25
+| students = 5 full-time DPhils, 28 part-time DPhils and 75 MSc students
+| website = {{Official URL}}
+| image = 
+}}
+The '''Centre for Evidence-Based Medicine''' ('''CEBM'''), based in the Nuffield Department of Primary Care Health Sciences at the [[University of Oxford]], is an academic-led centre dedicated to the practice, teaching, and dissemination of high quality [[evidence-based medicine]] to improve healthcare in everyday clinical practice. CEBM was founded by [[David Sackett]] in 1995. It was subsequently directed by [[Brian Haynes (physician)|Brian Haynes]] and [[Paul Glasziou]]. Since 2010 it has been led by Professor [[Carl Heneghan]], a clinical epidemiologist and general practitioner.<ref>{{Cite web|title=Professor Carl Heneghan|url=https://www.ox.ac.uk/news-and-events/find-an-expert/professor-carl-heneghan|access-date=2020-08-14|website=University of Oxford}}</ref>
+
+There are currently over 25 active staff and honorary members of the CEBM. The staff include clinicians, statisticians, epidemiologists, information specialists, quantitative and qualitative researchers.
+
+== Teaching and degrees ==
+CEBM is the academic lead for Oxford University's Graduate School in Evidence-Based Healthcare, together with the university's [[Department of Continuing Education]]. The Graduate School includes a MSc in Evidence-Based Health Care<ref>{{cite web |url=http://www.ox.ac.uk/admissions/graduate/courses/msc-evidence-based-health-care |title= MSc in Evidence-Based Health Care |accessdate=23 July 2015 }}</ref> and a [[DPhil]] in Evidence-Based Health Care,<ref>{{cite web |url=https://www.conted.ox.ac.uk/courses/details.php?id=70 |title=DPhil in Evidence-Based Health Care |accessdate=23 July 2015 }}</ref> along with a range of short courses, including a course on the History and Philosophy of Evidence-Based Healthcare which was developed by [[Jeremy Howick]] and [[Iain Chalmers]].<ref>{{cite book| author = Jeremy Howick| title = The Philosophy of Evidence-based Medicine| url = https://books.google.com/books?id=O8djbHBva5IC&pg=PA15| date = 2011-02-23| publisher = John Wiley & Sons| isbn = 978-1-4443-4266-6}}</ref>
+
+== EBM Live conference ==
+Every year, CEBM organises ''EBM Live'', (previously Evidence Live)<ref>{{cite web |url=http://evidencelive.org/ |title= Evidence Live Global Forum |accessdate=24 July 2015 }}</ref> a multi-day conference focussing on developments in the area of [[evidence-based medicine]]. The conference is organised in collaboration with the [[British Medical Journal]]. Themes for the conference include Improving the Quality of Research; disentangling the Problems of Too Much and Too Little Medicine; transforming the Communication of Evidence for Better Health; training the Next Generation of Leaders and translating Evidence into Better-Quality Health Services.
+
+== Notable projects ==
+
+=== Levels of evidence ===
+CEBM has developed a widely adopted<ref>{{cite web |url=https://scholar.google.co.uk/scholar?q=%22levels+of+evidence%22+oxford&btnG=&hl=en&as_sdt=0%2C5 |title=Levels of Evidence / Google Scholar |accessdate=24 July 2015 }}</ref> systematic hierarchy of the quality of medical research evidence, named the [[levels of evidence]]. [[Systematic reviews]] of [[Randomized controlled trials|randomised clinical trials]] (encompassing [[homogeneity]]) are seen as the highest possible level of evidence, as full assessment and aggregated synthesis of underlying evidence is possible.
+
+=== Tamiflu ===
+In collaboration with the [[British Medical Journal]], [[Carl Heneghan]] and team found no evidence that Tamiflu helped to reduce complications of influenza.<ref>{{cite journal |last1=Butler |first1=Declan |title=Tamiflu report comes under fire |journal=Nature |volume=508 |issue=7497 |year=2014 |pages=439–40 |doi=10.1038/508439a|pmid=24759392 |bibcode=2014Natur.508..439B |doi-access=free }}</ref><ref>{{cite journal |vauthors=Heneghan CJ, Onakpoya I, Thompson M, Spencer EA, Jones M, Jefferson T |title=Zanamivir for influenza in adults and children: systematic review of clinical study reports and summary of regulatory comments |journal=BMJ |volume=348 |pages=g2547 |year=2014 |pmid=24811412 |pmc=3981976 |doi=10.1136/bmj.g2547 }}</ref> This has become a controversial topic, as the United Kingdom government spend £473&nbsp;million ({{As of|2014||lc=y}}) on the purchase of [[Tamiflu]], despite the systematic review<ref>{{cite journal |vauthors=Jefferson T, Jones MA, Doshi P, Del Mar CB, Hama R, Thompson MJ, Spencer EA, Onakpoya I, Mahtani KR, Nunan D, Howick J, Heneghan CJ |title=Neuraminidase inhibitors for preventing and treating influenza in healthy adults and children |journal=The Cochrane Database of Systematic Reviews |volume=4 |issue=4 |pages=CD008965 |year=2014 |pmid=24718923 |pmc=6464969 |doi=10.1002/14651858.CD008965.pub4 }}</ref> claiming to find no evidence for the effectiveness of it.<ref>{{cite news |url=https://www.bbc.co.uk/news/health-26954482 |title=Tamiflu: Millions wasted on flu drug, claims major report |publisher=BBC |date=10 April 2014 |accessdate=23 July 2015 }}</ref>
+
+=== Sports products ===
+A systematic review conducted in 2012 discovered very little effect of carbohydrate drinks on sport performance of the general population.<ref>{{cite news |url=https://www.bbc.co.uk/news/health-18863293 |title='Lack of evidence' that popular sports products work |publisher=BBC |date=19 July 2012 |accessdate=23 July 2015 }}</ref><ref>{{cite journal |vauthors=Heneghan C, Perera R, Nunan D, Mahtani K, Gill P |title=Forty years of sports performance research and little insight gained |journal=BMJ |volume=345 |pages=e4797 |year=2012 |pmid=22810388 |doi=10.1136/bmj.e4797 |s2cid=39018130 }}</ref> This work formed part of a joint investigation with [[BBC Panorama]] and the ''[[British Medical Journal]]''.<ref>{{Cite news | url=https://www.bbc.co.uk/news/health-18863293 | title='Lack of evidence' that popular sports products work | work=BBC News | date=19 July 2012 }}</ref> A linked article published in the BMJ reported a "striking lack of evidence" to back up claims for popular sports brands.<ref name="PMID 22815461">{{cite journal |vauthors=Heneghan C, Howick J, O'Neill B, Gill PJ, Lasserson DS, Cohen D, Davis R, Ward A, Smith A, Jones G, Thompson M |title=The evidence underpinning sports performance products: a systematic assessment |journal=BMJ Open |volume=2 |issue=4 |pages= e001702|year=2012 |pmid=22815461 |pmc=3401829 |doi=10.1136/bmjopen-2012-001702 }}</ref> A further analysis of a broad range of sports products showed that the evidence for many sports products is poor quality and insufficient to inform the public about the benefits and harms of the products.<ref name="PMID 22815461"/>
+
+=== Self care ===
+[[Systematic review]] and individual patient data meta analysis research<ref>{{cite journal |vauthors=Heneghan C, Ward A, Perera R, Bankhead C, Fuller A, Stevens R, Bradford K, Tyndel S, Alonso-Coello P, Ansell J, Beyth R, Bernardo A, Christensen TD, Cromheecke ME, Edson RG, Fitzmaurice D, Gadisseur AP, Garcia-Alamino JM, Gardiner C, Hasenkam JM, Jacobson A, Kaatz S, Kamali F, Khan TI, Knight E, Körtke H, Levi M, Matchar D, Menéndez-Jándula B, Rakovac I, Schaefer C, Siebenhofer A, Souto JC, Sunderji R, Gin K, Shalansky K, Völler H, Wagner O, Zittermann A |title=Self-monitoring of oral anticoagulation: systematic review and meta-analysis of individual patient data |journal=[[The Lancet]] |volume=379 |issue=9813 |pages=322–34 |year=2012 |pmid=22137798 |doi=10.1016/S0140-6736(11)61294-4 |s2cid=15763945 |url=http://discovery.ucl.ac.uk/1468252/1/Gardiner_28.%20Heneghan%20Lancet%202011.pdf }}</ref> in the centre has shown that, even with little training, people on oral anticoagulation ([[Warfarin]]) can successfully self-monitor, and even self-manage their disease in the community.<ref>{{cite journal |vauthors=Ward A, Tompson A, Fitzmaurice D, Sutton S, Perera R, Heneghan C |title=Cohort study of Anticoagulation Self-Monitoring (CASM): a prospective study of its effectiveness in the community |journal=[[The British Journal of General Practice]] |volume=65 |issue=636 |pages=e428–37 |year=2015 |pmid=26077267 |pmc=4484943 |doi=10.3399/bjgp15X685633 }}</ref> Patients capable of self-monitoring and self-adjusting therapy have fewer [[thromboembolic]] events and lower mortality than those who self-monitor alone.<ref>{{Cite journal|last1=Heneghan|first1=Carl J.|last2=Garcia-Alamino|first2=Josep M.|last3=Spencer|first3=Elizabeth A.|last4=Ward|first4=Alison M.|last5=Perera|first5=Rafael|last6=Bankhead|first6=Clare|last7=Alonso-Coello|first7=Pablo|last8=Fitzmaurice|first8=David|last9=Mahtani|first9=Kamal R.|date=5 July 2016|title=Self-monitoring and self-management of oral anticoagulation|journal=[[The Cochrane Database of Systematic Reviews]]|volume=7|issue=4|pages=CD003839|doi=10.1002/14651858.CD003839.pub3|issn=1469-493X|pmid=27378324|pmc=8078378|url=https://ora.ox.ac.uk/objects/uuid:2d40f889-275e-471a-99b5-567a2f45f80c/download_file?safe_filename=Heneghan_et_al-2016-.pdf&file_format=application%2Fpdf&type_of_work=Journal+article}}</ref> In 2014, Carl Heneghan along with Alison Ward became directors of a [[World Health Organization Collaborating Centre]] for Self-Care in [[Non-communicable disease]].<ref>{{cite web | url=http://apps.who.int/whocc/Detail.aspx?cc_ref=UNK-256&cc_city=oxford& | title=WHOCC – WHO Collaborating Centres: WHO Collaborating Centre for Self-Care | publisher=[[WHO]] | date=28 March 2014 | accessdate=13 August 2017}}</ref>
+
+=== AllTrials ===
+The centre is one of the co-founders of the [[AllTrials]] campaign, which has been influential in ensuring that the results of all clinical trials are registered and reported in full.
+
+=== Diagnostic technologies and reasoning ===
+
+The centre has a strong diagnostic theme which includes assessing novel diagnostic technologies relevant to improving the diagnosis of disease in primary care and also to improving diagnostic reasoning. In 2015, the centre produced a report for the [[Department of Health (United Kingdom)|Department of Health]] on [[antimicrobial resistance]] diagnostics, which highlighted the considerable number of new diagnostic technologies in development to underpin rational prescribing of [[antibiotic]]s.<ref>{{cite web |first1=Annette |last1=Pluddemann |first2=Igho |last2=Onakpoya |first3=Sian |last3=Harrison |first4=Bethany |last4=Shinkins |first5=Bethany |last5=Shinkins |first6=Alice |last6=Tompson |first7=Ruth |last7=Davis |first8=Christopher P. |last8=Price |first9=Carl |last9=Heneghan |date=June 2015 |title=Position Paper on Anti-Microbial Resistance Diagnostics |publisher=Centre for Evidence-Based Medicine |url=http://www.cebm.net/position-paper-on-anti-microbial-resistance-diagnostics/ }}</ref>
+
+=== COMPare project ===
+
+In 2015 the COMPare project was launched, addressing outcome switching in clinical trials. The project systematically checks every trial published in the top five medical journals, to see if they have misreported their findings, comparing each clinical trial report against its registry entry. The project has found that some trials report their outcomes perfectly, but for many others outcomes specified in the registry entry were never reported. The updates to the trials are updated live on the COMPare website.  The project highlights how researchers are duped by the common practice in clinical trial reporting of "outcome switching".<ref>{{Cite web | url=https://www.vox.com/2015/12/29/10654056/ben-goldacre-compare-trials | title=How researchers dupe the public with a sneaky practice called "outcome switching" | date=29 December 2015 }}</ref>
+
+=== Adverse events ===
+
+In March 2016, research at the centre systematically identified 353 medicinal products withdrawn worldwide because of adverse drug reactions, assessed the level of evidence used for making the withdrawal decisions, and found that only 40 drugs were withdrawn worldwide.<ref>Worldwide withdrawal of medicinal products because of adverse drug reactions: a systematic review and analysis.Onakpoya IJ, Heneghan CJ, Aronson JK. Crit Rev Toxicol. 2016 Mar 3:1–13</ref> Withdrawal was significantly less likely in Africa than in other continents.<ref>{{cite journal | doi = 10.1186/s12916-016-0553-2 | volume=14 | title=Post-marketing withdrawal of 462 medicinal products because of adverse drug reactions: a systematic review of the world literature | year=2016 | journal=BMC Medicine | last1 = Onakpoya | first1 = Igho J. | last2 = Heneghan | first2 = Carl J. | last3 = Aronson | first3 = Jeffrey K.| page=10 | pmid=26843061 | pmc=4740994 | doi-access = free }}</ref> Furthermore, in 47% of the 95 drugs for which death was documented as a reason for withdrawal, more than two years elapsed between the first report of a death and withdrawal of the drug.<ref>{{cite journal | doi = 10.1186/s12916-014-0262-7 | volume=13 | title=Delays in the post-marketing withdrawal of drugs to which deaths have been attributed: a systematic investigation and analysis | year=2015 | journal=BMC Medicine | last1 = Onakpoya | first1 = Igho J | last2 = Heneghan | first2 = Carl J | last3 = Aronson | first3 = Jeffrey K| page=26 | pmid=25651859 | pmc=4318389 | doi-access = free }}</ref>
+
+== Notable associates ==
+Notable associates of the centre include:<ref>{{Cite web | url=https://www.cebm.ox.ac.uk/about-us/team?tab=cebm-senior-associates/ | title=Who we are — Centre for Evidence-Based Medicine (CEBM), University of Oxford }}</ref>
+
+* Professor [[Ben Goldacre]]
+* Sir [[Iain Chalmers]]
+* Margaret McCartney
+* [[Muir Gray]]
+* Professor Rod Jackson [[University of Auckland]]
+
+== References ==
+{{reflist}}
+
+{{University of Oxford}}
+{{coord missing|Oxfordshire}}
+
+[[Category:1995 establishments in England]]
+[[Category:Educational institutions established in 1995]]
+[[Category:Research institutes of the University of Oxford]]
+[[Category:Departments of the University of Oxford|Evidence-Based Medicine]]
+[[Category:Medical and health organisations based in England]]
+[[Category:English medical research]]
+[[Category:Evidence-based medicine]]

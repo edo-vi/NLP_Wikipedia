@@ -1,0 +1,67 @@
+{{Short description|International collaboration to review complementary medicine}}
+{{more citations needed|date=January 2016}}
+{{Infobox organization
+|name         = Natural Standard
+|image        = Natural Standard (emblem).jpg
+|image_border = 
+|size         = 144px
+|caption      = 
+|map          =
+|msize        = 
+|mcaption     = 
+|abbreviation = 
+|motto        = ''The Authority on Integrative Medicine''
+|formation    = {{Start date|2000}}
+|extinction   = 
+|type         = Research collaboration
+|status       = 
+|purpose      = Evidence-based [[health care]] information
+|headquarters = [[Somerville, MA]]
+|location     = 
+|region_served = Worldwide
+|membership   = 
+|language     = English, Spanish
+|leader_title = Co-founders
+|leader_name  = [[Catherine Ulbricht]], Ethan Basch
+|main_organ   = 
+|parent_organization = 
+|affiliations = 
+|num_staff    = Over 500 worldwide contributors
+|num_volunteers = 
+|budget       = 
+|website      = [https://naturalmedicines.therapeuticresearch.com/ naturalmedicines.therapeuticresearch.com]
+|remarks      =
+}}
+'''Natural Standard''' is an international research collaboration that [[systematic review|systematically reviews]] scientific evidence on [[complementary and alternative medicine]].<ref>{{cite web|url=http://www.naturalstandard.com |title=The Authority on Integrative Medicine |publisher=Natural Standard |date= |accessdate=2013-02-19}}</ref> Together with the faculty of [[Harvard Medical School]], Natural Standard provides consumer information on complementary and alternative medicine for Harvard Health Publications<ref>[http://www.harvardhealthcontent.com/alternative-medicine/index.php Harvard Health Publications: Complementary/Alternative Medicine.] {{webarchive |url=https://web.archive.org/web/20090820194532/http://www.harvardhealthcontent.com/alternative-medicine/index.php |date=August 20, 2009 }}</ref> and [[Susan G. Komen for the Cure]].<ref>{{cite web|url=http://ww5.komen.org/ContentNoTertiarySimpleLeft.aspx?id=15910 |title=Susan G. Komen for the Cure: Complementary Therapies Resources |publisher=Ww5.komen.org |date= |accessdate=2013-02-19}}</ref> Natural Standard also provides information on [[herbal medicine]] and [[dietary supplement]]s to [[MedlinePlus]],<ref>{{cite web|url=https://www.nlm.nih.gov/medlineplus/druginformation.html |title=MedlinePlus: Herbs and Supplements |publisher=Nlm.nih.gov |date= |accessdate=2013-02-19}}</ref> which is produced and maintained by the U.S. [[National Library of Medicine]] (NLM) and the [[National Institutes of Health]] (NIH).
+
+== History ==
+Natural Standard Research Collaboration was founded in 2000 to serve as a clearing house for information on [[evidence-based medicine]] covering numerous healthcare disciplines. This international effort involves authors, editors, and peer reviewers from multiple academic and research institutions. It used an A thru F grading system.
+
+Natural Standard was taken over by Therapeutic Research Center in 2013.<ref>{{cite web |url= http://info.therapeuticresearch.com/mergerpressrelease |title=Therapeutic Research Center acquires Natural Standard
+|date=18 June 2013 |publisher=Therapeutic Research Center |accessdate=14 January 2014}}</ref><ref>{{cite web |url= http://info.therapeuticresearch.com/our-history |title=Our history |publisher=Therapeutic Research Center |accessdate=14 January 2014}}</ref>
+
+Natural Standard thru the new Therapeutic Research Center is a subscription-only database that delivers information about complementary and alternative medicine and dietary supplements and produces the Natural Medicines Comprehensive Database (NMCD). A new combined database will be called "Natural Medicines" (http://info.therapeuticresearch.com/natural-medicine-comprehensive-database). Natural Standard provides information that is broad in scope, and focused on both medications and disease states. A standout feature of this database is its graded, evidence-based evaluation of alternative therapies.<ref>{{ cite web |url= https://ala-choice.libguides.com/c.php?g=382356&p=2591024 | title=Online Drug Information Resources (June 2015): Natural Standard |date=26 Dec 2018}}</ref>
+
+== Personnel ==
+The founders were:
+* [[Catherine Ulbricht]], PharmD, MBA[c]
+* Ethan Basch, MD, MSc, MPhil
+
+Members of the Senior Editorial Board<ref>{{cite web|url=http://www.naturalstandard.com/index.asp?file=/html/about.html |title=Natural Standard Senior Editorial Board |publisher=Naturalstandard.com |date= |accessdate=2013-02-19}}</ref> include:
+
+* [[Edzard Ernst]], a well-known figure in complementary and alternative medicine research and co-author of ''[[Trick or Treatment]]''
+
+==See also==
+*[[Examine.com]]
+*[[ConsumerLab.com]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://naturalmedicines.therapeuticresearch.com/ Natural Medicines]
+
+[[Category:Systematic review]]
+[[Category:Evidence-based medicine]]
+[[Category:Health care quality]]
+[[Category:Alternative medicine]]

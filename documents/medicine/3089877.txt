@@ -1,0 +1,55 @@
+{{Short description|Academic article discussion group}}
+A '''journal club''' is a group of individuals who meet regularly to critically evaluate recent articles in the [[academic literature]], such as the [[scientific literature]], [[medical literature]], or [[philosophy]] literature.  Journal clubs are usually organized around a defined subject in basic or applied research. For example, the application of [[evidence-based medicine]] to some area of medical practice can be facilitated by a journal club. Typically, each participant can voice their view relating to several questions such as the appropriateness of the research design, the [[statistics]] employed, the appropriateness of the controls that were used, etc.  There might be an attempt to synthesize together the results of several papers, even if some of these results might first appear to contradict each other. Even if the results of the study are seen as valid, there might be a discussion of how useful the results are and if these results might lead to new research or to new applications.
+
+Journal clubs are sometimes used in the education of [[graduate student|graduate]] or professional students. These help make the student(s) become more familiar with the advanced literature in their new field of study. In addition, these journal clubs help improve the students' skills of understanding and debating current topics of active interest in their field. This type of journal club may sometimes be taken for [[Credit (education)|credit]].  Research laboratories may also organize journal clubs for all researchers in the lab to help them keep up with the literature produced by others who work in their field.
+
+== Traditional journal club ==
+Traditionally, journal clubs have met weekly or monthly to discuss current research in a topic relevant to the field. An analysis of one hundred publications describing and evaluating journal clubs found that they are most effective if they have a clearly identified leader and have an established purpose that all articles can be linked to.<ref>{{cite journal|title=How to run an effective journal club: a systematic review|first1=Y.|last1=Deenadayalan|first2=K.|last2=Grimmer‐Somers|first3=M.|last3=Prior|first4=S.|last4=Kumar|date=1 October 2008|journal=Journal of Evaluation in Clinical Practice|volume=14|issue=5|pages = 898–911|doi=10.1111/j.1365-2753.2008.01050.x|pmid=19018924}}</ref>
+
+== Online journal clubs ==
+Prominent journals and scientific societies have begun hosting online commenting features that they are referring to as journal clubs.<ref>{{cite web |url=https://www.ncbi.nlm.nih.gov/pubmedcommons/journal-clubs/about/ |title=PubMed Commons - Journal Clubs |website=www.ncbi.nlm.nih.gov |url-status=dead |archive-url=https://web.archive.org/web/20150101034020/http://www.ncbi.nlm.nih.gov/pubmedcommons/journal-clubs/about |archive-date=2015-01-01}} </ref><ref>{{cite web|url=http://www.thoracic.org/members/assemblies/assemblies/srn/journal-club/|title=American Thoracic Society - SRN Journal Club|website=www.thoracic.org|access-date=2017-10-25|archive-date=2017-10-26|archive-url=https://web.archive.org/web/20171026001912/http://www.thoracic.org/members/assemblies/assemblies/srn/journal-club/|url-status=live}}</ref> The stated purpose of these is to allow for discussion by online comments on scientific publications.<ref>{{cite web|url=https://pubmedcommonsblog.ncbi.nlm.nih.gov/2014/12/17/introducing-pubmed-commons-journal-clubs/|title=Protected Blog › Log in|website=pubmedcommonsblog.ncbi.nlm.nih.gov|access-date=2017-10-25|archive-date=2017-10-25|archive-url=https://web.archive.org/web/20171025190519/https://pubmedcommonsblog.ncbi.nlm.nih.gov/2014/12/17/introducing-pubmed-commons-journal-clubs/|url-status=live}}</ref>
+
+Online journal clubs bring about different benefits to traditional clubs. While journal clubs have been an opportunity for students and trainees to gain experience presenting articles and addressing issues, with the online "journal club" comment format, authors are able to comment and reply to critiques.<ref>{{cite web|url=https://pubmedcommonsblog.ncbi.nlm.nih.gov/2015/12/17/commenting-on-pubmed-a-successful-pilot/|title=Protected Blog › Log in|website=pubmedcommonsblog.ncbi.nlm.nih.gov|access-date=2017-10-25|archive-date=2017-10-25|archive-url=https://web.archive.org/web/20171025190236/https://pubmedcommonsblog.ncbi.nlm.nih.gov/2015/12/17/commenting-on-pubmed-a-successful-pilot/|url-status=live}}</ref><ref>{{cite web|url=https://pubmedcommonsblog.ncbi.nlm.nih.gov/2017/07/05/collaborating-to-bring-journal-clubs-to-pubmed-commons-a-librarians-perspective/|title=Protected Blog › Log in|website=pubmedcommonsblog.ncbi.nlm.nih.gov|access-date=2017-10-25|archive-date=2017-10-25|archive-url=https://web.archive.org/web/20171025185557/https://pubmedcommonsblog.ncbi.nlm.nih.gov/2017/07/05/collaborating-to-bring-journal-clubs-to-pubmed-commons-a-librarians-perspective/|url-status=live}}</ref>
+
+===Twitter-enhanced===
+Journal clubs continue to adapt to new technology and methods of communication. Recently journal clubs have begun to take advantage of Twitter allowing geographically diverse groups to participate in a single discussion. The first Twitter Journal club was an Allergy Journal Club run by Dr. Ves Dimoz in 2008. They used Twitter to document the discussion of coverage of a traditional in-person journal club. This journal club established the use of hashtags to organize journal club comments.<ref>{{Cite web|url = http://casesblog.blogspot.com/2011/06/first-journal-club-on-twitter-then-and.html|title = The First Journal Club on Twitter - Then and Now|date = June 8, 2011|access-date = 2014-11-27|archive-date = 2014-12-25|archive-url = https://web.archive.org/web/20141225062220/http://casesblog.blogspot.com/2011/06/first-journal-club-on-twitter-then-and.html|url-status = live}}</ref><ref>{{Cite journal|url = https://docs.google.com/file/d/0Bzlo36xvP22vYzQ3Yjk5M2EtYjhhMy00NjdjLTgxYTYtMTYxZDg2OGE4NmY1/edit?hl=en_US|title = Use of Social Media for Education|access-date = 2014-11-27|archive-date = 2016-04-09|archive-url = https://web.archive.org/web/20160409125653/https://docs.google.com/file/d/0Bzlo36xvP22vYzQ3Yjk5M2EtYjhhMy00NjdjLTgxYTYtMTYxZDg2OGE4NmY1/edit?hl=en_US|url-status = live}}</ref>
+
+The first group to run a journal club primarily on Twitter was The Twitter Journal Club started by Natalie Silvey and Fi Douglas in May 2011.<ref>{{Cite journal|title = Researchers tweet technical talk|date = 2011-06-20|journal = Nature|volume = 474|issue = 7352|pages = 431|doi = 10.1038/474431a|pmid = 21697922|last1 = Samuel Reich|first1 = Eugenie|doi-access = free}}</ref><ref>{{Cite web|url = http://blogs.bmj.com/bmj-journals-development-blog/2011/07/15/twitter-journal-club-yet-another-revolution-in-scientific-communication/|title = Twitter Journal Club: yet another 'revolution' in scientific communication?|date = 2011-06-15|access-date = 2014-06-27|website = BMJ Blogs|archive-date = 2014-03-07|archive-url = https://web.archive.org/web/20140307130928/http://blogs.bmj.com/bmj-journals-development-blog/2011/07/15/twitter-journal-club-yet-another-revolution-in-scientific-communication/|url-status = live}}</ref> The original Twitter Journal Club appears to have gone offline. Since then there have been a number of additional Twitter journal clubs.
+
+==History==
+The earliest references to a journal club was found in a book of memoirs and letters by the late [[James Paget|Sir James Paget]], a British surgeon, who describes a group at [[St. Bartholomew's Hospital]] in [[London]] in the mid-19th century as "a kind of club ... a small room over a baker's shop near the Hospital-gate where we could sit and read the [[scientific journal|journals]]."<ref>{{cite journal|doi=10.1136/bmj.39337.722917.7D|title=Journal clubs|journal=BMJ|volume=335|issue=7623|pages=s138–s139|year=2007|last1=Esisi|first1=Martina|s2cid=220092045}}</ref>
+
+[[William Osler|Sir William Osler]] established the first formalized journal club at [[McGill University]] in Montreal in 1875.  The original purpose of Osler's journal club was "for the purchase and distribution of [[periodical]]s to which he could ill afford to subscribe."<ref>{{cite journal | pmc=1065082 | pmid=15566599 | doi=10.1186/cc3005 | volume=8 | issue=6 | title=Evidence-based medicine journal club | year=2004 | journal=Crit Care | pages=401–2 | author=Milbrandt EB, Vincent JL}}</ref>
+
+[[Tinsley Harrison]], the famous creator of [[Harrison's Principles of Internal Medicine]] hosted a journal club at his house twice a month where one member of the group would present a research paper and the others would criticize it.<ref>{{Cite web|url = http://www.doctorshangout.com/profiles/blogs/tinsley-randolph-harrison-the-founding-editor-harrisons-principle|title = Tinsley Randolph Harrison - The founding editor of Harrison's Principles of Internal Medicine|date = 2011-08-25|website = DoctorsHangout.com|last = pittman|first = james|archive-url = https://web.archive.org/web/20180409110008/http://www.doctorshangout.com/profiles/blogs/tinsley-randolph-harrison-the-founding-editor-harrisons-principle|archive-date = 2018-04-09|url-status = dead}}</ref>
+
+==See also==
+* [[JournalReview.org]]
+* [[Publons]]
+* [[PubPeer]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal | doi = 10.1186/1742-4690-3-55 | title = Beyond open access: open discourse, the next great equalizer | author = Dayton, A. I. | journal = [[Retrovirology (journal)|Retrovirology]] | year = 2006 | volume = 3 | pages = 55 | pmid=17007632 | issue=1 | pmc = 1569436}}
+<!-- ============================(= READ FIRST =)============================ -->
+<!-- DO NOT ADD LINKS TO JOURNAL CLUBS IN THIS ARTICLE. This is not a list of -->
+<!-- journal clubs, online or otherwise. If you think that your link might be -->
+<!-- useful,  instead of placing it here, put it on this article's discussion -->
+<!-- page first. Links that have not been verified WILL BE DELETED            -->
+<!-- ======================================================================== -->
+
+{{DEFAULTSORT:Journal Club}}
+[[Category:Academic publishing]]
+[[Category:Publishing]]
+[[Category:Academic terminology]]
+[[Category:Medical education]]
+[[Category:Evidence-based medicine]]
+[[Category:Continuing education]]
+[[Category:Book clubs]]
+[[Category:Education events]]
+[[Category:William Osler]]
+[[Category:1875 establishments in Canada]]
+[[Category:McGill University]]
+[[Category:History of medicine in Canada]]

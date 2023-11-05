@@ -1,0 +1,10 @@
+'''Omasitis''' is an inflammation of the [[omasum]],<ref name="DIMD32-2011">{{cite book |last=Douglas |first1=M. Anderson, M.A. |last2=D. Novak, PhD |first2=Patricia |last3=Jefferson |first3=Keith, M.A. |title=Dorland's Illustrated Medical Dictionary |volume=1 |edition=32 |publisher=Elsevier |year=2011 |page=1319 |isbn=978-1416062578 }}</ref> the third compartment of the stomach in [[ruminant]]s. It usually accompanies [[rumenitis]], and is often caused by infection with ''[[Fusobacterium necrophorum]]''.
+
+== References ==
+{{reflist}}
+
+[[Category:Stomach disorders]]
+[[Category:Inflammations]]
+
+
+{{Veterinary-med-stub}}

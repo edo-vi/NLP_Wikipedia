@@ -1,0 +1,35 @@
+'''Dislocation of hip''' (coxofemoral luxation) may occur '''in domestic animals'''.
+
+It is a not rare condition, usually unilateral, in:
+* cattle, among others, after calving.
+* [[Hip dysplasia (canine)|dogs]], resulting from trauma or as a complication of [[Hip dysplasia (canine)|hip dysplasia]].
+
+The same illness also exists in [[dislocation of hip|human medicine]].
+
+The condition can be observed after the forced traction of fetus while delivery, slip of animal on a floor. 
+More commonly seen in animals with poor nutrient ration at end stage of gestation which results in osteoporosis of bones & joints due go which acetabulum notch become shallow and femur comes out if it while delivery, ketonemia also has adverse effect on coxo-femoral luxation
+
+==Symptoms==
+In dogs, it occurs mainly in an upwards and forwards direction. Hence, the affected leg is shortened, and the [[greater trochanter]] prominent.
+
+In cattle, it occurs mainly craniodorsally or caudoventrally, but other directions are possible. A typical stance is seen in craniodorsal luxations, with a shortened limb, and a protrusion of greater trochanter.
+
+==Treatment==
+Attempts in reduction in cattle are generally not successful. Affected animals, at least not too heavy ones, can live with the disease for a long time because of the formation of a sort of pseudo-joint in the hip.
+
+Dogs with hip dysplasia and unilateral dislocation can live if the other leg is not too severely hit. Then there is a severe muscular atrophy of the  thigh. Compensation occurs with musculation of the shoulders.
+
+==Literature==
+{{Nofootnotes|article|date=April 2014}}
+* Hip dislocation in cattle
+** P. Greenough, F. Weaver & A. Weaver; ''Lameness in cattle'', Wright Scientica, Bristol, 1981, {{ISBN|0-7216-5205-0}},  p. 269–273.
+** G. Rosenberger, ''Krankheiten des Rindes'', Verlag Parey, Berlin, 1978, {{ISBN|3-489-61716-9}}, s. 463–466.
+* Hip dislocation in dogs
+** H.J. Christoph; ''Diseases of dogs'', Pergamon Press, New York, 1975, {{ISBN|0-08-015800-5}}, p. 406–410.
+
+==See also==
+* [[Hip dysplasia (canine)]]
+[[Category:Animal diseases]]
+
+
+{{veterinary-med-stub}}

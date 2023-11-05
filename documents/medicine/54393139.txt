@@ -1,0 +1,652 @@
+{{Short description|Outbreak of cholera in the war-torn country of Yemen}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox pandemic
+| name            = 2016–2021 Yemen cholera outbreak
+| map1            = Yemen on the globe (Yemen centered).svg
+| legend1         = {{center|Map of Yemen on the globe}}
+| disease         = [[Cholera]]
+| bacteria_strain = ''[[Vibrio cholerae]]''
+| dates           = October 2016–November 2021<br />({{Age in months, weeks and days|year1=2016|month1=10}})
+| origin          = [[Yemeni Civil War (2014–present)|Yemeni Civil War]]<br />[[Saudi Arabian–led intervention in Yemen]]<br />[[Saudi Blockade of Yemen]]<br />[[Famine in Yemen (2016–present)]]
+| deaths          = 3,981<ref name="WHO.OCHA.reliefweb 2020">{{cite web |work=WHO OCHA reliefweb |url=https://reliefweb.int/sites/reliefweb.int/files/resources/Cholera%20situation%20in%20Yemen%2C%20December%202020.pdf |title=CHOLERA SITUATION IN YEMEN |date=December 2020 |access-date=30 December 2020 |archive-date=10 March 2021 |archive-url=https://web.archive.org/web/20210310132935/https://reliefweb.int/sites/reliefweb.int/files/resources/Cholera%20situation%20in%20Yemen%2C%20December%202020.pdf |url-status=live }}</ref>
+| confirmed_cases =
+| suspected_cases = 2,510,806 through December 2020<ref name="WHO.OCHA.reliefweb 2020" />
+}}
+An [[Cholera outbreaks and pandemics|outbreak]] of [[cholera]] began in [[Yemen]] in October 2016.<ref name=Raslan>{{cite journal | vauthors = Raslan R, El Sayegh S, Chams S, Chams N, Leone A, Hajj Hussein I | title = Re-Emerging Vaccine-Preventable Diseases in War-Affected Peoples of the Eastern Mediterranean Region-An Update | journal = Frontiers in Public Health | volume = 5 | pages = 283 | date = 2017 | pmid = 29119098 | pmc = 5661270 | doi = 10.3389/fpubh.2017.00283 | type = Review | doi-access = free }}</ref><ref>{{Cite web |title=Yemen: Health Cluster Bulletin, December 2020 - Yemen |url=https://reliefweb.int/report/yemen/yemen-health-cluster-bulletin-december-2020 |access-date=4 March 2021 |website=ReliefWeb |language=en |archive-date=15 February 2021 |archive-url=https://web.archive.org/web/20210215085129/https://reliefweb.int/report/yemen/yemen-health-cluster-bulletin-december-2020 |url-status=live }}</ref><ref name=":5" /> The outbreak peaked in 2017 with over 2,000 reported deaths in that year alone.<ref>{{Cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-december-2017.html|title=WHO EMRO Outbreak update - cholera in Yemen, 19 December 2017 Cholera Epidemic and pandemic diseases|website=www.emro.who.int|access-date=10 November 2018|archive-date=1 December 2018|archive-url=https://web.archive.org/web/20181201191617/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-december-2017.html|url-status=live}}</ref><ref name= Qadri>{{cite journal | vauthors = Qadri F, Islam T, Clemens JD | title = Cholera in Yemen - An Old Foe Rearing Its Ugly Head | journal = The New England Journal of Medicine | volume = 377 | issue = 21 | pages = 2005–2007 | date = November 2017 | pmid = 29091747 | doi = 10.1056/NEJMp1712099 | doi-access = free }}</ref> In 2017 and 2019, war-torn Yemen accounted for 84% and 93% of all cholera cases in the world, with children constituting the majority of reported cases.<ref>{{Cite web |title=Cholera – Global situation |url=https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON437 |access-date=2023-04-24 |website=www.who.int |language=en}}</ref> As of November 2021, there have been more than 2.5 million cases reported, and more than 4,000 people have died in the Yemen cholera outbreak, which the [[United Nations]] deemed the worst humanitarian crisis in the world at that time.<ref name= Federspiel/><ref>{{cite news |title=Humanitarian crisis in Yemen remains the worst in the world, warns UN |url=https://news.un.org/en/story/2019/02/1032811 |access-date=29 April 2020 |work=UN News |agency=United Nations |date=14 February 2019 |archive-date=27 December 2021 |archive-url=https://web.archive.org/web/20211227024325/https://news.un.org/en/story/2019/02/1032811 |url-status=live }}</ref> However, the outbreak has substantially decreased by 2021, with a successful vaccination program implemented and only 5,676 suspected cases with two deaths reported between January 1 and March 6 of 2021.<ref name="unicef_2021"/>
+
+Vulnerable to water-borne diseases before the conflict, 16 months went by before a program of oral vaccines was started.<ref name= Federspiel/> The cholera outbreak was worsened as a result of the [[Yemeni Civil War (2015–present)|ongoing civil war]] and the [[Saudi Arabian-led intervention in Yemen]] against the [[Houthi movement]] that began in March 2015.<ref name= Federspiel/><ref name= Qadri/> [[Airstrikes on hospitals in Yemen|Airstrikes damaged hospital infrastructure]],<ref name= Entirely/> and [[water supply and sanitation in Yemen]] were affected by the ongoing conflict.<ref name= Qadri/><ref name=UNICEFWater>{{cite web|url= https://www.unicef.org/press-releases/access-water-continues-be-jeopardized-millions-children-war-torn-yemen|title=Access to water continues to be jeopardized for millions of children in war-torn Yemen|publisher= UNICEF|access-date=19 September 2018|archive-url=https://web.archive.org/web/20180725153523/https://www.unicef.org/press-releases/access-water-continues-be-jeopardized-millions-children-war-torn-yemen|archive-date=25 July 2018|url-status=live |date= 24 July 2018}}</ref> The government of Yemen stopped funding public health in 2016;<ref name=Guardian12October/> sanitation workers were not paid by the government, causing garbage to accumulate,<ref name=Entirely>{{cite news|url= https://www.pri.org/stories/2017-05-15/thousands-yemen-get-sick-entirely-preventable-cholera-outbreak|title=Thousands in Yemen get sick in an entirely preventable cholera outbreak|publisher=Public Radio International|access-date=19 September 2018 | vauthors = Snyder S |date= 15 May 2017|archive-url=https://web.archive.org/web/20180725153648/https://www.pri.org/stories/2017-05-15/thousands-yemen-get-sick-entirely-preventable-cholera-outbreak|archive-date=25 July 2018|url-status=live}}</ref> and healthcare workers either fled the country or were not paid.<ref name= Qadri/>
+
+The [[UNICEF]] and [[World Health Organization]] (WHO) executive directors stated: "This deadly cholera outbreak is the direct consequence of two years of heavy conflict. Collapsing health, water and sanitation systems have cut off 14.5 million people from regular access to clean water and sanitation, increasing the ability of the disease to spread. Rising rates of malnutrition have weakened children's health and made them more vulnerable to disease. An estimated 30,000 dedicated local health workers who play the largest role in ending this outbreak have not been paid their salaries for nearly ten months."<ref name=WHO_UNICEF/>
+
+==Background==
+[[File:Cholera bacteria SEM.jpg|thumb|Scanning Electron Microscope (SEM) image of ''Vibrio cholerae'' bacteria]]
+As of 2017, [[Yemen]] had a population of 25 million and was geographically divided into 22 [[Governorates of Yemen|governorate]]s.<ref name= Qadri/>
+
+The [[Yemeni Civil War (2015–present)|Yemeni Civil War]] is an ongoing conflict that began in 2015 between two factions: the internationally recognized Yemeni government, led by [[Abdrabbuh Mansur Hadi]], and the [[Houthi]] armed movement, along with their supporters and allies. Both claim to constitute the official government of [[Yemen]].<ref>{{cite news|url=http://www.foreignaffairs.com/articles/143295/asher-orkaby/houthi-who|agency=Foreign Affairs|title=Houthi Who? | vauthors = Orkaby A |date=25 March 2015|access-date=25 March 2015|url-status=live|archive-url=https://web.archive.org/web/20150327115828/http://www.foreignaffairs.com/articles/143295/asher-orkaby/houthi-who|archive-date=27 March 2015|df=dmy-all}}</ref> [[Houthis|Houthi]] forces controlling the capital [[Sana'a|Sanaʽa]], and allied with forces loyal to the former president [[Ali Abdullah Saleh]], have clashed with forces loyal to the government of Abdrabbuh Mansur Hadi, based in [[Aden]].<ref>{{cite web|title=Yemen in Crisis|url=http://www.cfr.org/yemen/yemen-crisis/p36488|publisher=Council on Foreign Relations|date=8 July 2015|url-status=dead|archive-url=https://web.archive.org/web/20150509030311/http://www.cfr.org/yemen/yemen-crisis/p36488|archive-date=9 May 2015|df=dmy-all|access-date=22 April 2019}}</ref> A [[Saudi Arabian-led intervention in Yemen]] was launched in 2015, with [[Saudi Arabia]] leading a coalition of nine countries from the Middle East and Africa, in response to calls from President Abdrabbuh Mansur Hadi for military support.<ref name="CBC News">{{cite news|url=http://www.cbc.ca/news/world/yemeni-s-abed-rabbo-mansour-hadi-arrives-in-saudi-capital-1.3010698|publisher=[[CBC News]]|title=Yemeni's Abed Rabbo Mansour Hadi arrives in Saudi capital|date=26 March 2015|access-date=26 March 2015|archive-date=22 April 2019|archive-url=https://web.archive.org/web/20190422043621/https://www.cbc.ca/news/world/yemeni-s-abed-rabbo-mansour-hadi-arrives-in-saudi-capital-1.3010698|url-status=live}}</ref><ref name="https">{{cite news|url=https://www.reuters.com/article/us-yemen-security-idUSKBN0ML0YC20150326|publisher=[[Reuters]]|title=Yemeni leader Hadi leaves country as Saudi Arabia keeps up air strikes|date=26 March 2015|access-date=10 July 2021|archive-date=30 November 2021|archive-url=https://web.archive.org/web/20211130081949/https://www.reuters.com/article/us-yemen-security-idUSKBN0ML0YC20150326|url-status=live}}</ref>
+
+[[Cholera]] is an [[infection]] of the [[small intestine]] by [[strain (biology)|strains]] of the [[Bacteria|bacterium]] ''[[Vibrio cholerae]]''.<ref name=Fink2016>{{cite book| vauthors = Finkelstein R |title=Medical microbiology|chapter=Cholera, Vibrio cholerae O1 and O139, and Other Pathogenic Vibrios |year=1996 |publisher=University of Texas Medical Branch at Galveston |pmid=21413330 |isbn=9780963117212 |url=https://www.ncbi.nlm.nih.gov/books/NBK8407/|access-date=14 August 2016|url-status=live|archive-url=https://web.archive.org/web/20170901014519/https://www.ncbi.nlm.nih.gov/books/NBK8407/|archive-date=1 September 2017}}</ref><ref name=CDC2015Pro>{{cite web|title=Cholera – Vibrio cholerae infection Information for Public Health & Medical Professionals|url=https://www.cdc.gov/cholera/healthprofessionals.html|publisher=[[Centers for Disease Control and Prevention]]|access-date=17 March 2015|date=6 January 2015|url-status=live|archive-url=https://web.archive.org/web/20150320052724/http://www.cdc.gov/cholera/healthprofessionals.html|archive-date=20 March 2015}}</ref>  It is spread mostly by [[waterborne diseases|unsafe water]] and [[foodborne illness|unsafe food]] that has been contaminated with [[human feces]] containing the bacteria.<ref name=WHO2010 /> Symptoms may range from none, to mild, to severe.<ref name=CDC2015Pro/> The classic symptom is large amounts of watery [[diarrhea]] lasting a few days.<ref name=WHO2010>{{cite journal | vauthors =  | title = Cholera vaccines: WHO position paper | journal = Relevé Épidémiologique Hebdomadaire | volume = 85 | issue = 13 | pages = 117–28 | date = March 2010 | pmid = 20349546 | url = https://www.who.int/wer/2010/wer8513.pdf | url-status = live | archive-url = https://web.archive.org/web/20150413020218/http://www.who.int/wer/2010/wer8513.pdf | archive-date = 13 April 2015 }}</ref> Diarrhea can be so severe that it leads, within hours, to severe [[dehydration]] and [[electrolyte imbalance]].<ref name=WHO2010 /> The primary treatment is [[oral rehydration therapy]]—the replacement of fluids with [[electrolytes|slightly sweet and salty solutions]].<ref name=WHO2010 /> In severe cases, [[intravenous fluid]]s may be required, and [[antibiotic]]s may be beneficial.<ref name=WHO2010 />
+
+Prevention methods against cholera include improved sanitation and access to [[drinking water|clean water]].<ref name=Lancet2012>{{cite journal | vauthors = Harris JB, LaRocque RC, Qadri F, Ryan ET, Calderwood SB | title = Cholera | journal = Lancet | volume = 379 | issue = 9835 | pages = 2466–2476 | date = June 2012 | pmid = 22748592 | pmc = 3761070 | doi = 10.1016/s0140-6736(12)60436-x }}</ref> [[Cholera vaccine]]s that are given by mouth provide reasonable protection for about six months.<ref name=WHO2010 /> Two oral killed vaccines are available: [[Dukoral]] and [[Shanchol]].<ref name= Raslan/> Total cost, including delivery costs, of oral cholera vaccination is under US$10 per person.<ref name= Federspiel/>
+
+==Outbreak==
+[[File:Yemen - Cumulative Cholera Cases.gif|thumb|Visualization showing the progression of the cholera outbreak in Yemen, from May 2017 – February 2018]]
+
+Following "on the heels of civil conflict between Houthi rebels and the internationally recognized Yemeni regime",<ref name=Qadri/> the Yemen cholera outbreak began in early October 2016,<ref name= Federspiel/><ref name=WHO_May_2017_summary /> and by January 2017, the [[WHO Regional Office for the Eastern Mediterranean]] (WHO EMRO) considered the outbreak to be unusual in its rapid and wide geographical spread.<ref name=WHO_15_Jan_2017 />  The [[serotype]] of ''[[vibrio cholerae]]'' O1 involved is Ougawa.<ref name= Qadri/><ref name=WHO_SR3 />
+
+The earliest cases were predominantly in the capital, [[Sana'a]],<ref name= Qadri/> with some occurring in [[Aden Governorate|Aden]].<ref name="WHO_10_Oct_20172">{{cite web|url=http://www.emro.who.int/surveillance-forecasting-response/outbreaks/cholera-cases-in-yemen.html|title=Cholera cases in Yemen|date=10 October 2016|publisher=WHO EMRO|access-date=26 June 2017|archive-url=https://web.archive.org/web/20170522122040/http://www.emro.who.int/surveillance-forecasting-response/outbreaks/cholera-cases-in-yemen.html|archive-date=22 May 2017|url-status=dead}}</ref> By the end of October, cases had been reported in the governorates of [[Al Bayda Governorate|Al-Bayda]], Aden, [[Al Hudaydah Governorate|Al-Hudaydah]], [[Hajjah Governorate|Hajjah]], [[Ibb Governorate|Ibb]], [[Lahij Governorate|Lahij]] and [[Taiz Governorate|Taiz]] and,<ref name=WHO_30_Oct_2016>{{cite web |url=http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/update-on-the-cholera-situation-in-yemen-30-october-2016.html |title=Update on the cholera situation in Yemen, 30 October 2016 |publisher=WHO EMRO |date=30 October 2016 |access-date=27 June 2017 |archive-url=https://web.archive.org/web/20170709164033/http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/update-on-the-cholera-situation-in-yemen-30-october-2016.html |archive-date=9 July 2017 |url-status=dead  }}</ref> by late November, also in [[Dhale Governorate|Al-Dhale'a]] and [['Amran Governorate|Amran]].<ref name=WHO_24_Nov_2016>{{cite web |url=http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/cholera-cases-in-yemen-24-november-2016.html |title=Cholera cases in Yemen, 24 November 2016 |publisher=WHO EMRO |date=24 November 2016 |access-date=27 June 2017 |archive-url=https://web.archive.org/web/20170607014324/http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/cholera-cases-in-yemen-24-november-2016.html |archive-date=7 June 2017 |url-status=dead  }}</ref> By mid-December, 135 districts of 15 governorates had reported suspected cases, but nearly two-thirds were confined to Aden, Al-Bayda, Al-Hudaydah and Taiz.<ref name= Qadri/><ref name=WHO_22_Dec_2016>{{cite web |url=http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/weekly-update-cholera-cases-in-yemen.html |title=Weekly update: cholera cases in Yemen |publisher=WHO EMRO |date=22 December 2016 |access-date=27 June 2017 |archive-url=https://web.archive.org/web/20170506035425/http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/weekly-update-cholera-cases-in-yemen.html |archive-date=6 May 2017 |url-status=live  }}</ref> By mid-January 2017, 80% of cases were located in 28 districts of Al-Dhale'a, Al-Hudaydah, Hajjah, Lahij and Taiz.<ref name=WHO_15_Jan_2017>{{cite web |url=http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/weekly-update-cholera-cases-in-yemen-15-jan-2017.html |title=Weekly update: cholera cases in Yemen |publisher=WHO EMRO |date=15 January 2017 |access-date=27 June 2017 |archive-url=https://web.archive.org/web/20170522112011/http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/weekly-update-cholera-cases-in-yemen-15-jan-2017.html |archive-date=22 May 2017 |url-status=live  }}</ref> A total of 268 districts from 20 governorates had reported cases by 21 June 2017;<ref name="WHO_22_June_2017">{{cite web|url=http://www.emro.who.int/surveillance-forecasting-response/outbreaks/weekly-update-cholera-in-yemen-22-june-2017.html|title=Weekly update – cholera in Yemen, 22 June 2017|date=22 June 2017|publisher=WHO EMRO|access-date=26 June 2017|archive-url=https://web.archive.org/web/20170628042248/http://www.emro.who.int/surveillance-forecasting-response/outbreaks/weekly-update-cholera-in-yemen-22-june-2017.html|archive-date=28 June 2017|url-status=live}}</ref> over half are from the governorates of [[Amanat Al Asimah]] (the capital Sana'a), Al-Hudaydah, Amran and Hajjah, which are all located in the west of the country.<ref name=WHO_SR3>{{cite web |url=http://www.emro.who.int/images/stories/yemen/YEMEN_cholera_response_sit_rep_no_3.pdf?ua=1 |archive-url=https://web.archive.org/web/20190314181432/http://www.emro.who.int/images/stories/yemen/YEMEN_cholera_response_sit_rep_no_3.pdf?ua=1 |url-status=dead |archive-date=14 March 2019 |title=Yemen: Cholera outbreak response: Situation report No. 3 |publisher=WHO EMRO |date=12 June 2017 |access-date=26 June 2017 }}</ref> In particular, 77.7% of cholera cases (339,061 of 436,625) and 80.7% of deaths from cholera (1,545 of 1,915) occurred in [[Houthi]]-controlled governorates, compared to 15.4% of cases and 10.4% of deaths in government-controlled governorates.<ref>{{cite journal | vauthors = Kennedy J, Harmer A, McCoy D | title = The political determinants of the cholera outbreak in Yemen | journal = The Lancet. Global Health | volume = 5 | issue = 10 | pages = e970–e971 | date = October 2017 | pmid = 28826973 | doi = 10.1016/S2214-109X(17)30332-7 | doi-access = free }}</ref>
+
+Using genomic sequencing, researchers at the [[Wellcome Sanger Institute]] and Institut Pasteur concluded the strain of cholera originated in eastern Africa and was carried to Yemen by migrants.<ref>{{Cite news|url=https://www.bbc.com/news/world-middle-east-46746394|title=Yemen cholera epidemic strain 'came from eastern Africa'|work=BBC News|date=3 January 2019|access-date=17 August 2021|archive-date=17 August 2021|archive-url=https://web.archive.org/web/20210817182909/https://www.bbc.com/news/world-middle-east-46746394|url-status=live}}</ref>
+
+==Morbidity and mortality==
+Yemen authorities announced the cholera outbreak on October 7, 2016.<ref name= Raslan/>  By the end of that year, there were 96 deaths.<ref name= Raslan/>
+
+Following the October 2016 outbreak, the rate of spread in most areas declined by the end of February 2017,<ref name=WHO_26_Feb_2017>{{cite web |url=http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/cholera-update-yemen-26feb.html |title=Update on cholera in Yemen |publisher=WHO EMRO |date=26 February 2017 |access-date=27 June 2017 |archive-url=https://web.archive.org/web/20170607020729/http://www.emro.who.int/surveillance-forecasting-response/surveillance-news/cholera-update-yemen-26feb.html |archive-date=7 June 2017 |url-status=dead }}</ref> and by mid-March 2017, the outbreak was in decline after a wave of cold weather.<ref name= Qadri/> A total of 25,827 suspected cases, including 129 deaths, were reported by 26 April 2017.<ref name=WHO_May_2017_summary>{{cite web |url=http://applications.emro.who.int/docs/EMROPub_2017_EN_19878.pdf?ua=1 |title=Cholera situation in Yemen |date=May 2017 |publisher=WHO EMRO |access-date=27 June 2017 |archive-date=14 March 2019 |archive-url=https://web.archive.org/web/20190314181432/http://applications.emro.who.int/docs/EMROPub_2017_EN_19878.pdf?ua=1 |url-status=live }}</ref>
+
+The number of cholera cases resurged in a second wave that began on 27 April 2017.<ref name=WHO_May_2017_summary /> According to Qadri, Islam and Clemens, writing in ''[[The New England Journal of Medicine]]'', the dramatic April 2017 resurgence was "coincident with heavy rains that may have contaminated drinking water sources, and was amplified by war-related destruction of municipal water and sewage systems".<ref name= Qadri/>
+
+During May 2017, 74,311 suspected cases, including 605 deaths, were reported.<ref name=WHO_May_2017_summary /> By June, [[UNICEF]] and [[World Health Organization|WHO]] estimated that 5,000 new cases per day were occurring, and that the total number of cases in the country since the outbreak began in October had exceeded 200,000, with 1,300 deaths.<ref name=WHO_UNICEF /><ref name=AJCholera>{{cite news|title=UN: 1,310 dead in Yemen cholera epidemic|url=http://www.aljazeera.com/news/2017/06/1310-dead-yemen-cholera-epidemic-170624141413415.html|access-date=26 June 2017|publisher=Al Jazeera|archive-url=https://web.archive.org/web/20170625225946/http://www.aljazeera.com/news/2017/06/1310-dead-yemen-cholera-epidemic-170624141413415.html|archive-date=25 June 2017|url-status=live}}</ref><ref>{{cite news|title=Yemen faces world's worst cholera outbreak – UN|url=https://www.bbc.com/news/world-middle-east-40395522|access-date=26 June 2017|work=BBC News|date=25 June 2017|archive-url=https://web.archive.org/web/20170625200910/http://www.bbc.com/news/world-middle-east-40395522|archive-date=25 June 2017|url-status=live}}</ref> The two agencies stated that it was then "the worst cholera outbreak in the world".<ref name=WHO_UNICEF />
+
+By 4 July 2017, there were 269,608 cases and the death toll was at 1,614 with a [[case fatality rate]] of 0.6%.<ref>{{cite web|url=http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170704.pdf?ua=1|title=Epidemiology bulletin 26, 4 July 2017|publisher=WHO-EMRO|access-date=4 July 2017|archive-url=https://web.archive.org/web/20190214213626/http://www.emro.who.int/images/stories/yemen/Yemen_epi_d_update_20170704.pdf?ua=1|archive-date=14 February 2019|url-status=dead}}</ref> On 14 August 2017 the WHO updated the number of suspected cholera cases to 500,000.<ref name='who_NYT'>{{cite news| vauthors = McNeil Jr DG |title=More Than 500,000 Infected With Cholera in Yemen|url=https://www.nytimes.com/2017/08/14/health/cholera-outbreak-in-yemen.html|access-date=14 August 2017|publisher=NY Times|date=14 August 2017|archive-url=https://web.archive.org/web/20170815005450/https://www.nytimes.com/2017/08/14/health/cholera-outbreak-in-yemen.html|archive-date=15 August 2017|url-status=live}}</ref> [[Oxfam]] said in 2017 the outbreak would become the largest epidemic since record-keeping began, overtaking the 754,373 cases of cholera recorded after the [[2010 Haiti earthquake]].<ref name=Man-Made>{{Cite news| vauthors = McKernan B |url= https://www.independent.co.uk/news/world/middle-east/yemen-cholera-outbreak-worst-on-record-health-middle-east-a7973726.html|title=Yemen's man-made cholera crisis is set to become the worst outbreak on record|date=29 September 2017|work=The Independent |access-date=21 April 2019|archive-url=https://web.archive.org/web/20171229105838/http://www.independent.co.uk/news/world/middle-east/yemen-cholera-outbreak-worst-on-record-health-middle-east-a7973726.html|archive-date=29 December 2017|url-status=live}}</ref> In six months, more people were ill with cholera in Yemen than in seven years after the earthquake in Haiti, and the situation in Yemen was made worse by hunger and malnutrition.<ref name=Guardian12October>{{Cite web|url=https://www.theguardian.com/global-development/2017/oct/12/yemen-cholera-outbreak-worst-in-history-1-million-cases-by-end-of-year|title=Yemen's cholera outbreak now the worst in history as millionth case looms| vauthors = Lyons K |date=12 October 2017|website=The Guardian|language=en|access-date=23 February 2018|archive-url=https://web.archive.org/web/20180323062638/https://www.theguardian.com/global-development/2017/oct/12/yemen-cholera-outbreak-worst-in-history-1-million-cases-by-end-of-year|archive-date=23 March 2018|url-status=live}}</ref>
+
+On 22 December 2017, WHO reported the number of suspected cholera cases in Yemen had surpassed one million.<ref>{{Cite web|url=https://news.un.org/en/story/2017/12/640331-suspected-cholera-cases-yemen-surpass-one-million-reports-un-health-agency|title=Suspected cholera cases in Yemen surpass one million, reports UN health agency|website=www.news.un.org|date=22 December 2017 |access-date=22 December 2017|archive-url=https://web.archive.org/web/20180404201120/https://news.un.org/en/story/2017/12/640331-suspected-cholera-cases-yemen-surpass-one-million-reports-un-health-agency|archive-date=4 April 2018|url-status=live}}</ref>
+
+By October 2018, there were more than 1.2&nbsp;million cases reported, and more than 2,500 people—58% children—have died in the Yemen cholera outbreak, which is the worst epidemic in recorded history and was, according to the [[United Nations]] (UN), the worst humanitarian crisis in the world.<ref name= Federspiel/>  Between 1 January 2018 to 31 May 2020, the cumulative total number of suspected cases was 1,371,819 with 1566 associated deaths.<ref name=":8" /> The case fatality rate for the outbreak was 0.11% as of 2020,<ref name=":8" /> having declined from a high of 1% when the outbreak first began.<ref name=Guardian12October/>
+
+==Causes and challenges==
+UNICEF and the WHO attributed the outbreak to [[malnutrition]], collapsing sanitation and clean water systems due to the country's ongoing conflict, and the approximately 30,000 local health care workers who had not been paid for almost a year.<ref name=WHO_UNICEF>{{cite press release|title=Statement from UNICEF Executive Director Anthony Lake and WHO Director-General Margaret Chan on the cholera outbreak in Yemen as suspected cases exceed 200,000|url=https://www.unicef.org/media/media_96544.html|publisher=UNICEF|access-date=26 June 2017|date= 24 June 2017|archive-url=https://web.archive.org/web/20170702063819/https://www.unicef.org/media/media_96544.html|archive-date=2 July 2017|url-status=live}}</ref> These factors resulted in a delayed vaccination program, which was not started until more than one million people were already ill.<ref name= Federspiel>{{cite journal | vauthors = Federspiel F, Ali M | title = The cholera outbreak in Yemen: lessons learned and way forward | journal = BMC Public Health | volume = 18 | issue = 1 | pages = 1338 | date = December 2018 | pmid = 30514336 | pmc = 6278080 | doi = 10.1186/s12889-018-6227-6 | type = Review }}</ref>
+
+===Pre-civil war conditions===
+Even before civil war affected Yemen, it was "beset by circumstances that made it ripe for cholera".<ref name="Qadri" /> A country with high poverty rates, Yemen also suffered frequent droughts and severe water access problems, with only about half of the population having had access to good [[WASH|water and sanitation]] before the war.<ref name= Qadri/>
+
+Children under five showed a high prevalence of malnutrition, making them further susceptible to disease;<ref name=Federspiel/> Yemen had "one of the highest rates of childhood malnutrition worldwide".<ref name= Raslan/> The health care system in Yemen before the conflict was weak and lacking infrastructure.<ref name= Raslan/> For instance, before the war, 70–80% of children were vaccinated against measles, but the vaccination rate had dropped by the end of 2015.<ref>{{cite journal | vauthors = Qirbi N, Ismail SA | title = Ongoing threat of a large-scale measles outbreak in Yemen | journal = The Lancet. Global Health | volume = 4 | issue = 7 | pages = e451 | date = July 2016 | pmid = 27340001 | doi = 10.1016/S2214-109X(16)30070-5 | doi-access = free }}</ref>
+
+===Ongoing conflict===
+Because of the ongoing conflict in Yemen, and resulting displacement of people who do not have adequate food, waster, housing or sanitation, pre-existing conditions were exacerbated. Shortages have been made worse by naval and air blockades.<ref name="Qadri" /> Bombing has damaged water and sanitation infrastructure.<ref name= Qadri/> Airstrikes have destroyed facilities in the country for health care;<ref name= Qadri/> "half of the nation's hospitals have been either destroyed by Saudi airstrikes, occupied by rebel forces, or shut down because there are no medical personnel to staff them".<ref name= Entirely/>
+
+Doctors Without Borders reported that a Saudi Arabian [[Saudi Arabian-led intervention in Yemen|coalition]] airstrike hit a new [[Médecins Sans Frontières]] cholera treatment center in [[Abs (Yemen)|Abs]], in northwestern Yemen.<ref name=":6" /> Doctors Without Borders reported that they had provided GPS coordinates to Saudi Arabia on twelve separate occasions, and had received nine written responses confirming receipt of those coordinates.<ref name=":6">{{cite web|url=https://www.doctorswithoutborders.org/what-we-do/news-stories/story/yemen-airstrike-hits-msf-cholera-treatment-center-abs|title=Yemen: Airstrike hits cholera treatment center in Abs|date=12 June 2018|publisher=Médecins Sans Frontières–Doctors Without Borders |access-date=27 June 2018|archive-url=https://web.archive.org/web/20180628015803/https://www.doctorswithoutborders.org/what-we-do/news-stories/story/yemen-airstrike-hits-msf-cholera-treatment-center-abs|archive-date=28 June 2018|url-status=live}}</ref>
+
+Grant Pritchard, [[Save the Children]]'s interim country director for Yemen, stated in April 2017, "With the right medicines, these [diseases] are all completely treatable – but the Saudi Arabia-led coalition is stopping them from getting in."<ref>{{cite news |url= https://www.independent.co.uk/news/world/middle-east/saudi-arabia-yemen-aid-delay-killing-children-save-the-children-warn-a7606411.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/news/world/middle-east/saudi-arabia-yemen-aid-delay-killing-children-save-the-children-warn-a7606411.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |work= The Independent |title= Saudi Arabia delaying aid to Yemen is 'killing children', warns Save the Children | vauthors = Osborne S |date= 1 March 2017 |access-date= 21 April 2019}}{{cbignore}}</ref>
+
+=== Wastewater and solid waste management systems ===
+[[File:Wastewater stabilization pond (2963784219).jpg|thumb|Wastewater stabilization ponds are generally used as a primary treatment, and are inefficient at completely removing infectious agents.<ref>{{cite journal | vauthors = Al-Gheethi A, Noman E, Jeremiah David B, Mohamed R, Abdullah AH, Nagapan S, Hashim Mohd A | title = A review of potential factors contributing to epidemic cholera in Yemen | journal = Journal of Water and Health | volume = 16 | issue = 5 | pages = 667–680 | date = October 2018 | pmid = 30285950 | doi = 10.2166/wh.2018.113 | doi-access = free }}</ref>]]
+Yemen's wastewater and solid waste management systems are the least developed among Middle Eastern countries, which has been a major contributor to the cholera outbreak.<ref name=":4">{{cite journal | vauthors = Al-Gheethi A, Noman E, Jeremiah David B, Mohamed R, Abdullah AH, Nagapan S, Hashim Mohd A | title = A review of potential factors contributing to epidemic cholera in Yemen | journal = Journal of Water and Health | volume = 16 | issue = 5 | pages = 667–680 | date = October 2018 | pmid = 30285950 | pmc = 2018 | doi = 10.2166/wh.2018.113 }}</ref> With 16 functional sewage treatment plants (STPs) and a growing population,<ref name=":4" /><ref>{{Cite web|title=Population growth (annual %) - Yemen, Rep. {{!}} Data|url=https://data.worldbank.org/indicator/SP.POP.GROW?locations=YE|access-date=2020-11-16|website=data.worldbank.org|archive-date=28 October 2020|archive-url=https://web.archive.org/web/20201028223040/https://data.worldbank.org/indicator/SP.POP.GROW?locations=YE|url-status=live}}</ref> the country's sewage systems are ill-equipped to meet the needs of citizens and serve just 7% of the population.<ref name=":4" /> Actual flow rates through the STPs in Yemen exceed the flow rates they were designed to accommodate, which reduces their efficiency.<ref name=":4" />
+
+The treatment processes used are also suboptimal, with 68% of STPs using only [[Waste stabilization pond|stabilization ponds]] - which are generally intended as a primary treatment - to remove pathogens from sewage.<ref name=":4" /> This has resulted in high quantities of infectious agents in [[effluent]], which is hazardous to health and can enable the spread of cholera.<ref name=":4" />
+
+Moreover, wastewater in Yemen is frequently reused for irrigation purposes by farmers due to a lack of awareness about safety risks.<ref>{{Cite journal| vauthors = Al-Gheethi AA |title=Management of wet market wastewater in Yemen|journal=Waste Management}}</ref><ref>{{Cite journal| vauthors = Al-Gheethi AA |title=Reduction of bacteria in storage system of sewage effluents|journal=Journal of Sustainable Water Resource Management}}</ref> High concentrations of ''[[Escherichia coli]]'', ''Streptococcus faecalis'', ''[[Klebsiella pneumoniae]]'', ''Enterobacter aerogenes'', ''[[Salmonella&nbsp; typhi]]'', ''S. typhimurium'', and ''[[Shigella sonnei]]'' - among other harmful [[fecal coliform]]s - are present in this wastewater, and transmit to humans when they consume foods irrigated by it.<ref>{{Cite journal| vauthors = Al-Gheethi AA |title=Effectiveness of selected wastewater treatment plants in Yemen for reduction of faecal indicators and pathogenic bacteria in secondary effluents and sludge|journal=Water Practice Technology}}</ref>
+
+Official dumping sites for solid waste are being created increasingly close to communities, which has increased the risk of infection and general health issues among citizens.<ref name=":4" /> This is especially true for the roughly 70% of citizens without access to potable water, who consume water from wells near dumping sites.<ref name=":4" />
+
+=== El Niño ===
+[[File:Chironomid (7174749925).jpg|thumb|Adult Chironomid]]
+The [[El Niño–Southern Oscillation]] phenomenon is a major driver of climate variability associated with health outcomes, including influencing cholera dynamics due to changes in rainfall.<ref name=":52">{{cite journal | vauthors = Paz S | title = The cholera epidemic in Yemen - How did it start? The role of El Niño conditions followed by regional winds | journal = Environmental Research | volume = 176 | pages = 108571 | date = September 2019 | pmid = 31288197 | doi = 10.1016/j.envres.2019.108571 | doi-access = free | bibcode = 2019ER....176j8571P }}</ref> For example, in East Africa, there was an upsurge in cholera cases in areas with increased rainfall, along with an increase in cases in areas with decreased rainfall.<ref name=":52" /> In the 2015-2016 El Niño event, there were an additional 50 000 cases of cholera in East Africa.<ref name=":52" /> Based on genomic approaches, there was a linkage found between the epidemic in Yemen starting in 2016 and the earlier outbreaks in East Africa.<ref>{{cite journal | vauthors = Weill FX, Domman D, Njamkepo E, Almesbahi AA, Naji M, Nasher SS, Rakesh A, Assiri AM, Sharma NC, Kariuki S, Pourshafie MR, Rauzier J, Abubakar A, Carter JY, Wamala JF, Seguin C, Bouchier C, Malliavin T, Bakhshi B, Abulmaali HH, Kumar D, Njoroge SM, Malik MR, Kiiru J, Luquero FJ, Azman AS, Ramamurthy T, Thomson NR, Quilici ML | display-authors = 6 | title = Genomic insights into the 2016-2017 cholera epidemic in Yemen | journal = Nature | volume = 565 | issue = 7738 | pages = 230–233 | date = January 2019 | pmid = 30602788 | pmc = 6420076 | doi = 10.1038/s41586-018-0818-3 | bibcode = 2019Natur.565..230W }}</ref>  This alludes to a possible connection between cholera in East Africa and Yemen.<ref name=":52"/> [[Chironomidae]] are natural reservoirs and carriers of the Vibrio cholerae bacterium.<ref name=":52" /> It has been suggested that adult chironomidae may aerially carry the bacterium between bodies of water, assisting in the transmission of cholera.<ref name=":52" /> Based on this evidence, it is hypothesized that the El Nino conditions over the Gulf of Aden may have contributed to the transmission of cholera from the Horn of Africa to Yemen through wind effects on cholera-contaminated flying insects.<ref name=":52" />
+
+===Health services and infrastructure collapse===
+As of 2016, the government ended funding for public health, leaving many employees without salary.<ref name=Guardian12October/> The impacts of the outbreak were exacerbated by the collapse of the [[Yemeni health services]], where many health workers remained unpaid for months.<ref name=BBCCholera>{{cite news| vauthors = Bruwer J |title=The horrors of Yemen's spiralling cholera crisis|url=https://www.bbc.co.uk/news/world-middle-east-40369804|access-date=26 June 2017|work=BBC News|date=25 June 2017|archive-url=https://web.archive.org/web/20170625235848/http://www.bbc.co.uk/news/world-middle-east-40369804|archive-date=25 June 2017|url-status=live}}</ref> A months-long strike of sanitation workers over unpaid wages contributed to the accumulation of garbage<ref name= Qadri/><ref name= Entirely/> that entered the water supply.<ref name=Guardian12October/>
+
+Qadri, Islam and Clemens write that the dramatic April 2017 resurgence coincided with heavy rains, and "was amplified by war-related destruction of municipal water and sewage systems".<ref name= Qadri/> An [[International Committee of the Red Cross]] (ICRC) worker in Yemen noted that April's cholera resurgence began ten days after Sana'a's sewer system stopped working.<ref name=BBCCholera/>
+
+Raslan ''et al'' write in ''Frontiers in Public Health'':{{blockquote|A failing sewage system, continued conflict and inadequate health care facilities are only a few of the reasons contributing to this problem. Malnutrition, which is a significant consequence of the Yemen War, has further contributed to this outbreak.<ref name= Raslan/>}}
+
+=== Rainy season ===
+Epidemiological modelling of the outbreak from October 2016 to January 2016 together with satellite image-derived meteorological data showed that the rainfall had a strong impact in increasing the chances of transmission, with the rainy season of April 2017 having coincided with the onset of the second wave of the outbreak topping at more than 50,000 cases per week.<ref name=":9">{{cite journal | vauthors = Camacho A, Bouhenia M, Alyusfi R, Alkohlani A, Naji MA, de Radiguès X, Abubakar AM, Almoalmi A, Seguin C, Sagrado MJ, Poncin M, McRae M, Musoke M, Rakesh A, Porten K, Haskew C, Atkins KE, Eggo RM, Azman AS, Broekhuijsen M, Saatcioglu MA, Pezzoli L, Quilici ML, Al-Mesbahy AR, Zagaria N, Luquero FJ | display-authors = 6 | title = Cholera epidemic in Yemen, 2016-18: an analysis of surveillance data | journal = The Lancet. Global Health | volume = 6 | issue = 6 | pages = e680–e690 | date = June 2018 | pmid = 29731398 | pmc = 5952990 | doi = 10.1016/S2214-109X(18)30230-4 }}</ref> The geography of Yemen means that the Western mountainous plateau sees more rainfall, and has therefore an increased risk of high cholera incidence due to water precipitations.<ref name=":9" />
+
+===Lack of vaccination===
+
+The International Coordinating Group on Vaccine Provision, which maintains vaccine stockpiles for cholera, announced a plan in June 2017 to send one million doses of oral cholera vaccine (OCV) to Yemen, but this plan stalled.<ref name= Raslan/><ref name= WhatStopping/> Controversy surrounded whether vaccination was the best strategy, whether it was too late to start a vaccination campaign, whether there was enough stockpiled vaccine to meet worldwide needs, whether all of the reported cases of cholera in Yemen were true cases as opposed to simply cases of diarrhea or other similar symptoms, and the effectiveness of the vaccine.<ref name=WhatStopping>{{Cite news|url=https://www.irinnews.org/news/2017/10/17/what-s-really-stopping-cholera-vaccination-campaign-yemen|title=What's really stopping a cholera vaccination campaign in Yemen?|date=17 October 2017|work=IRIN|access-date=11 October 2018|archive-url=https://web.archive.org/web/20181011053752/https://www.irinnews.org/news/2017/10/17/what-s-really-stopping-cholera-vaccination-campaign-yemen|archive-date=11 October 2018|url-status=live}}</ref>  The request for vaccine was retracted.<ref name= Federspiel/><ref name= Qadri/>
+
+In May 2018, the first OCV campaign in Yemen was launched.<ref>{{Cite web|url=http://www.emro.who.int/yem/yemen-news/oral-cholera-vaccination-campaign-in-yemen-begins.html|title=WHO EMRO {{!}} Fighting the world's largest cholera outbreak: oral cholera vaccination campaign begins in Yemen {{!}} Yemen-news {{!}} Yemen|publisher= WHO EMRO|access-date=11 October 2018|archive-url=https://web.archive.org/web/20181102150819/http://www.emro.who.int/yem/yemen-news/oral-cholera-vaccination-campaign-in-yemen-begins.html|archive-date=2 November 2018|url-status=dead|date= 10 May 2018}}</ref> The WHO and UNICEF delivered oral vaccines to 540,000 individuals in August 2018.<ref name= Federspiel/>
+
+Federspiel and Ali write in ''[[BioMed Central|BMC Public Health]]'':{{blockquote|OCVs were not delivered until nearly 3.5 years into this humanitarian emergency, which has most likely been due to ongoing conflict, logistical circumstances, the scale of the epidemic, impairment of the humanitarian response by the parts to the conflict and some degree of negligence from donors, politicians and other decision makers. Whatever the reasons, OCVs were not distributed until nearly 16 months into the cholera outbreak by which time more than a million cases had accumulated. Neither were they in the two years of WaSH infrastructure breakdown that preceded the outbreak. This should serve as a historic example of the failure to control the spread of cholera given the tools that are available. Today, "cholera outbreaks are entirely containable" (The Lancet editorial, 2017).<ref name= Federspiel/>}}
+
+=== COVID-19 pandemic ===
+The [[COVID-19 pandemic in Yemen]] is part of the worldwide pandemic of [[coronavirus disease 2019]]. As of 12 November 2020, there were 2,070 confirmed cases and 602 deaths.<ref>{{Cite web|title=Yemen: WHO Coronavirus Disease (COVID-19) Dashboard|url=https://covid19.who.int/|access-date=2020-11-12|website=covid19.who.int|language=en|archive-date=16 April 2020|archive-url=https://web.archive.org/web/20200416183953/https://covid19.who.int/|url-status=live}}</ref> The COVID-19 pandemic has further burdened the already overwhelmed healthcare system in Yemen fighting a number of diseases including cholera, dengue fever, and malaria.<ref name=":3">{{Cite web|title=WHO EMRO {{!}} WHO and KSRelief renew partnership to continue sustaining Yemen's health system {{!}} News {{!}} Yemen site|url=http://www.emro.who.int/yemen/news/who-and-ksrelief-renew-partnership-to-continue-sustaining-yemens-health-system.html?format=html|access-date=2020-11-12|website=www.emro.who.int|archive-date=10 November 2020|archive-url=https://web.archive.org/web/20201110101344/http://www.emro.who.int/yemen/news/who-and-ksrelief-renew-partnership-to-continue-sustaining-yemens-health-system.html?format=html|url-status=live}}</ref><ref>{{cite journal | vauthors = Ali Maher O, Pichierri G, Farina G, Panu Napodano CM, Bellizzi S | title = COVID-19 Response and Complex Emergencies: The Case of Yemen | journal = Disaster Medicine and Public Health Preparedness | volume = 14 | issue = 4 | pages = e27–e28 | date = August 2020 | pmid = 32713416 | pmc = 7443562 | doi = 10.1017/dmp.2020.271 }}</ref><ref>{{cite journal | vauthors = Mousavi SM, Anjomshoa M | title = COVID-19 in Yemen: a crisis within crises | journal = International Journal for Equity in Health | volume = 19 | issue = 1 | pages = 120 | date = July 2020 | pmid = 32652995 | pmc = 7351642 | doi = 10.1186/s12939-020-01231-2 }}</ref> Only half of existing health facilities are fully functioning while more than 17.9 million people of a total population of 30 million need health care services in 2020.<ref name=":3" /> In addition, those that remain open lack medical personnel, basic medicine, and essential supplies such as masks and gloves.<ref name=":3" /> The lack of flights in and out of Yemen to mitigate the pandemic has also restricted the movement of aid workers responding to the humanitarian crisis.<ref>{{Cite web|date=2020-03-24|title=50 suspected cholera cases every hour for five years in Yemen - Oxfam|url=https://www.oxfam.org/en/press-releases/50-suspected-cholera-cases-every-hour-five-years-yemen-oxfam|access-date=2020-11-12|website=Oxfam International|language=en|archive-date=11 November 2020|archive-url=https://web.archive.org/web/20201111163546/https://www.oxfam.org/en/press-releases/50-suspected-cholera-cases-every-hour-five-years-yemen-oxfam|url-status=live}}</ref>
+
+== Humanitarian activity ==
+Through 2018, several humanitarian healthcare organizations had reported activity to contain the cholera outbreak. The [[International Committee of the Red Cross]] have supported 17 treatment centers with supplies including [[IV fluid]]s, [[oral rehydration therapy]] supplies, antibiotics, [[chlorine]] tablets, in addition to sending engineers to help restore water distribution in Yemen.<ref name= Federspiel/> The [[International Rescue Committee]] (IRC) supplied seven hospitals with medicine and supplies, deployed health teams and trained volunteers, delivered health and nutrition services, and facilitated referrals of malnourished children.<ref name= Federspiel/>
+
+The [[World Health Organization]] coordinated the Yemen Health Cluster with 40 member organizations, and together with Health and Water Sanitation and Hygiene ([[WASH|WaSH]]) units, explored the use of oral [[cholera vaccine]]s (OCVs).  The WHO reported operating 414 facilities using 406 teams active in 323 districts in Yemen, which included 36 treatment centers for cholera.<ref name="Federspiel" />  In the management of cholera, they stated that they trained 900 health workers and ran 139 [[oral rehydration]] locations, to treat 700,000 reported cases of the illness.<ref name= Federspiel/> [[UNICEF]] reported that they ran awareness campaigns with 20,000 promoters, provided water to more than one million individuals, served as the WaSH lead, and delivered "40 tons of medical equipment including medicine, oral rehydration solution, IV fluids and diarrhea kits".<ref name= Federspiel/>
+
+[[Médecins Sans Frontières]] (Doctors Without Borders) said it treated at least 103,000 individuals in 37 locations.<ref name= Federspiel/>
+
+== Global responses ==
+
+=== Canada ===
+As of June 2, 2020, [[Canada]] has pledged $40 million in humanitarian aid for Yemen to help the politically unstable country cope with cholera, malaria, dengue fever, and diphtheria along with COVID-19.<ref name=":02">{{Cite news|title=Canada pledges $40M to 'avert catastrophe' in Yemen {{!}} CBC News|language=en-US|work=CBC|url=https://www.cbc.ca/news/politics/yemen-aid-gould-pandemic-covid-1.5595306|access-date=2020-11-10|archive-date=7 November 2020|archive-url=https://web.archive.org/web/20201107214608/https://www.cbc.ca/news/politics/yemen-aid-gould-pandemic-covid-1.5595306|url-status=live}}</ref> This brings Canada's total contributions to Yemen since 2015 to $220 million, which contributes towards the goal of US$2.4 billion for underfunded humanitarian programs run by UN agencies and humanitarian organizations in Yemen.<ref name=":02" />
+
+=== Saudi Arabia ===
+[[Saudi Arabia]] has been backing the Yemen government in the fight against the Houthi rebels, and they are also one of the top donors for UN humanitarian aid operations in Yemen.<ref name=":33">{{Cite web|title=Yemen: UN makes urgent funding plea as vital operations end|url=https://www.aljazeera.com/news/2020/6/1/yemen-un-makes-urgent-funding-plea-as-vital-operations-end|access-date=2020-11-10|website=www.aljazeera.com|language=en|archive-date=29 September 2020|archive-url=https://web.archive.org/web/20200929155100/https://www.aljazeera.com/news/2020/6/1/yemen-un-makes-urgent-funding-plea-as-vital-operations-end|url-status=live}}</ref> On 23 June 2017, Saudi Arabia's crown prince, [[Mohammed bin Salman]], authorized a donation in excess of $66 million for cholera relief in Yemen.<ref>{{Cite news| vauthors = Gladstone R |date=23 June 2017|title=Saudis, at War in Yemen, Give Country $66.7 Million in Cholera Relief|work=[[The New York Times]]|url=https://www.nytimes.com/2017/06/23/world/middleeast/yemen-saudi-crown-prince-salman-cholera.html|url-status=live|access-date=1 July 2017|archive-url=https://web.archive.org/web/20170701204128/https://www.nytimes.com/2017/06/23/world/middleeast/yemen-saudi-crown-prince-salman-cholera.html|archive-date=1 July 2017}}</ref>
+
+Mohammed al-Jaber, the Saudi ambassador to Yemen, has announced half a billion dollars from Saudi Arabia to support UN programs in 2020.<ref name=":33"/>
+
+=== United Nations ===
+An aid conference was held in Geneva in April 2017 that raised half of the US$2.1&nbsp;billion that the [[United Nations]] (UN) estimated was needed.<ref name="Man-Made2">{{Cite news| vauthors = McKernan B |date=29 September 2017|title=Yemen's man-made cholera crisis is set to become the worst outbreak on record|work=The Independent|url=https://www.independent.co.uk/news/world/middle-east/yemen-cholera-outbreak-worst-on-record-health-middle-east-a7973726.html|url-status=live|access-date=21 April 2019|archive-url=https://web.archive.org/web/20171229105838/http://www.independent.co.uk/news/world/middle-east/yemen-cholera-outbreak-worst-on-record-health-middle-east-a7973726.html|archive-date=29 December 2017}}</ref>
+
+As of July 8, 2019, the UN and partners are running 1200 cholera treatment facilities around the country, however, funding is an issue.<ref>{{Cite web|date=2019-07-08|title=Yemen: Over 460K cases of cholera registered to date this year|url=https://www.unocha.org/story/yemen-over-460k-cases-cholera-registered-date-year|access-date=2020-11-10|website=OCHA|language=en|archive-date=15 February 2023|archive-url=https://web.archive.org/web/20230215143242/https://www.unocha.org/story/yemen-over-460k-cases-cholera-registered-date-year|url-status=live}}</ref> The 2019 Yemen Humanitarian Response Plan required $4.2 billion to deliver assistance, but they ended up receiving $3.6 billion.<ref name=":33"/> For the 2020 plan, the UN has so far received 15% of the necessary $3.5 billion needed.<ref name=":33" />
+
+=== United States ===
+On April 3, 2018, the [[United States]] (U.S.) announced $87 million in additional humanitarian assistance to help the people of Yemen, bringing the U.S. total assistance since 2017 to more than $854 million.<ref name=":1">{{Cite web|date=2018-04-03|title=United States Announces Additional Humanitarian Assistance for Yemen {{!}} Press Release {{!}} U.S. Agency for International Development|url=https://www.usaid.gov/news-information/press-releases/apr-3-2018-united-states-announces-additional-humanitarian-assistance-yemen|access-date=2020-11-10|website=www.usaid.gov|language=en|archive-date=19 November 2020|archive-url=https://web.archive.org/web/20201119204710/https://www.usaid.gov/news-information/press-releases/apr-3-2018-united-states-announces-additional-humanitarian-assistance-yemen|url-status=live}}</ref> This money will be used for food assistance, safe drinking water, emergency shelter, and medical supplies.<ref name=":1" /> The U.S. is also planning to provide $55 million in economic and development assistance, including programs to support livelihoods, rebuild infrastructure, and restore access to education.<ref name=":1" />
+
+On March 27, 2020, the Trump administration cut $70 million in assistance destined for northern Yemen, framing the decreased funding as a response to the interference of Houthi rebels.<ref name=":2">{{Cite news|vauthors=LaForgia M|date=2020-03-28|title=U.S. Cuts Health Care Aid to Yemen Despite Worries About Coronavirus|language=en-US|work=The New York Times|url=https://www.nytimes.com/2020/03/27/world/middleeast/yemen-health-care-aid-coronavirus.html|access-date=2020-11-10|issn=0362-4331|archive-date=11 November 2020|archive-url=https://web.archive.org/web/20201111160144/https://www.nytimes.com/2020/03/27/world/middleeast/yemen-health-care-aid-coronavirus.html|url-status=live}}</ref> The U.S. officials were concerned that the assistance was directed to fighters instead of civilians.<ref name=":2" /> South Yemen, which is less populous, still received aid dollars.<ref name=":2" />
+
+=== United Kingdom ===
+The [[United Kingdom]] (UK) government has been one of the largest humanitarian donors to Yemen, budgeting £139 million in 2017/2018 and earmarking £8m from the Yemen budget specifically to respond to cholera.<ref name=":7">{{Cite web|title=UK renews push to tackle world's worst cholera outbreak in Yemen: We Will Respond as Soon as Possible|url=https://www.gov.uk/government/news/uk-renews-push-to-tackle-worlds-worst-cholera-outbreak-in-yemen|access-date=2020-11-28|website=GOV.UK|language=en|archive-date=6 December 2020|archive-url=https://web.archive.org/web/20201206190635/https://www.gov.uk/government/news/uk-renews-push-to-tackle-worlds-worst-cholera-outbreak-in-yemen|url-status=live}}</ref> The UK has partnered with organizations including [[UNICEF]] and the [[International Organization for Migration (IOM) Mission in Ukraine|International Organisation for Migration (IOM)]] to combat the cholera disease in Yemen.<ref name=":7" /> The UK's humanitarian response includes nutrition support, clean water, sanitation, and medical supplies, such as chlorine tablets and hygiene kits.<ref name=":7" /> The UK [[Department for International Development]] (DFID) has also worked with the [[Met Office]], [[NASA]] and [[United States|U.S.]] scientists to deploy a model to predict and effectively respond to outbreaks of cholera.<ref>{{Cite web|vauthors=Noden A|date=2018-08-28|title=UK deploys new model to predict cholera outbreaks in Yemen|url=https://www.healtheuropa.eu/new-model-to-predict-cholera-outbreaks-yemen/87915/|access-date=2020-11-28|website=Health Europa|language=en-GB|archive-date=9 December 2020|archive-url=https://web.archive.org/web/20201209011841/https://www.healtheuropa.eu/new-model-to-predict-cholera-outbreaks-yemen/87915/|url-status=live}}</ref> DFID Secretary Priti Patel has urged the international community to follow the UK government's steps to curb the cholera outbreak.<ref name=":7" />
+
+=== World Bank ===
+On August 25, 2017, the World Bank announced $200 million U.S. to support Yemen as it struggles to contain the cholera outbreak.<ref name=":42">{{Cite web|title=World Bank Mobilizes US$200 Million to Combat Cholera in Yemen|url=https://www.worldbank.org/en/news/press-release/2017/08/28/world-bank-mobilizes-us200-million-to-combat-cholera-in-yemen|access-date=2020-11-10|website=World Bank|language=en|archive-date=28 November 2020|archive-url=https://web.archive.org/web/20201128055743/https://www.worldbank.org/en/news/press-release/2017/08/28/world-bank-mobilizes-us200-million-to-combat-cholera-in-yemen|url-status=live}}</ref> This money is being used to strengthen the country's health, water, and sanitation systems.<ref name=":42" />
+
+== Statistics ==
+
+The WHO provided regular outbreak updates for the epidemic in Yemen up until August 2020. Since then the epidemic has declined in numbers of cases and deaths, with 2020 seeing a total of 230,540 suspected cases and 84 deaths and 5,676 suspected cases with two deaths between January 1 and March 6 of 2021<ref name="unicef_2021">{{Cite web|url=https://reliefweb.int/report/yemen/unicef-yemen-humanitarian-situation-report-reporting-period-1-28-february-2021-enar|title=UNICEF Yemen Humanitarian Situation Report - reporting period 1 – 28 February 2021 [EN/AR] - Yemen|website=ReliefWeb|access-date=17 August 2021|archive-date=17 August 2021|archive-url=https://web.archive.org/web/20210817155037/https://reliefweb.int/report/yemen/unicef-yemen-humanitarian-situation-report-reporting-period-1-28-february-2021-enar|url-status=live}}</ref><ref>{{Cite web|url=https://www.choleraalliance.org/en/news/continued-cholera-epidemic-yemen|title=Continued cholera epidemic in Yemen|website=The Global Alliance Against Cholera (G.A.A.C)|access-date=17 August 2021|archive-date=15 February 2023|archive-url=https://web.archive.org/web/20230215143207/https://www.choleraalliance.org/en/news/continued-cholera-epidemic-yemen|url-status=live}}</ref> Furthermore, UNICEF reports that in 2021 over 190,000 children received a cholera vaccine, achieving 94% coverage.<ref name="unicef_2021"/>
+
+{| class="wikitable"
+|+
+!Date
+!Suspected cholera cases
+!Cholera-related deaths
+!Source
+|-
+|2016-10-10
+|11
+|0
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-cases-in-yemen.html|title=WHO EMRO - Cholera cases in Yemen - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201193027/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-cases-in-yemen.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-10-13
+|186
+|0
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-on-cholera-cases-in-yemen.html|title=WHO EMRO - Update on cholera cases in Yemen - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201193018/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-on-cholera-cases-in-yemen.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-10-23
+|644
+|3
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-in-yemen-23-october-2016.html|title=WHO EMRO - Cholera update in Yemen, 23 October 2016 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201193005/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-in-yemen-23-october-2016.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-10-30
+|1,410
+|45
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-on-the-cholera-situation-in-yemen-30-october-2016.html|title=WHO EMRO - Update on the cholera situation in Yemen, 30 October 2016 - Cholera - Epidemic and pandemic diseases|publisher=WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192958/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-on-the-cholera-situation-in-yemen-30-october-2016.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-10-31
+|2,241
+|47
+|<ref name="emro.who.int">{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-in-yemen-6-november-2016.html|title=WHO EMRO - Cholera update in Yemen, 6 November 2016 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192953/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-in-yemen-6-november-2016.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-11-06
+|2,733
+|51
+|<ref name="emro.who.int"/>
+|-
+|2016-11-17
+|4,825
+|61
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-cases-update-from-yemen-17-november-2016.html|title=WHO EMRO - Cholera update, Yemen, 17 November 2016 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192547/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-cases-update-from-yemen-17-november-2016.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-11-24
+|6,119
+|68
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-cases-in-yemen-24-november-2016.html|title=WHO EMRO - Cholera cases in Yemen, 24 November 2016 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192528/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-cases-in-yemen-24-november-2016.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-12-01
+|7,730
+|82
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/additional-cholera-cases-reported-in-yemen.html|title=WHO EMRO - Additional cholera cases reported in Yemen - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192055/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/additional-cholera-cases-reported-in-yemen.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-12-08
+|8,975
+|89
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-on-cholera-cases-reported-in-yemen.html|title=WHO EMRO - Update on cholera cases reported in Yemen - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192025/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-on-cholera-cases-reported-in-yemen.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-12-13
+|10,148
+|92
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-yemen.html|title=WHO EMRO - Weekly update - Cholera cases in Yemen, 13 December 2016 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192009/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-yemen.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2016-12-28
+|12,733
+|97
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen.html|title=WHO EMRO - Weekly update: Cholera cases in Yemen, 29 December 2016 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201192001/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-01-10
+|15,468
+|99
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen-15-jan-2017.html|title=WHO EMRO - Weekly update: cholera cases in Yemen, 15 January 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191949/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen-15-jan-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-01-18
+|17,334
+|99
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen-23-jan-2017.html|title=WHO EMRO - Weekly update: cholera cases in Yemen, 23 January 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191940/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen-23-jan-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-02-26
+|20,583
+|103
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-yemen-26feb.html|title=WHO EMRO - Update on cholera in Yemen, 26 February 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191911/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/cholera-update-yemen-26feb.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-03-07
+|22,181
+|103
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen-7-march-2017.html|title=WHO EMRO - Weekly update: cholera cases in Yemen, 7 March 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191903/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-cases-in-yemen-7-march-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-03-21
+|23,506
+|108
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-cholera-cases-in-yemen-21-march-2017.html|title=WHO EMRO - Weekly update: cholera cases in Yemen, 21 March 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191848/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/update-cholera-cases-in-yemen-21-march-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-04-27
+|26,070
+|120
+|<ref>Back-calculated from http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-20-may-2017.html {{Webarchive|url=https://web.archive.org/web/20181103234920/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-20-may-2017.html |date=3 November 2018 }}</ref>
+|-
+|2017-05-20
+|49,495
+|362
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-20-may-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 20 May 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191818/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-20-may-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-06-10
+|96,219
+|746
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-10-june-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 10 June 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191801/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-10-june-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-06-15
+|140,116
+|989
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-15-june-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 15 June 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191753/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-15-june-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-06-22
+|185,301
+|1,233
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-22-june-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 22 June 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191741/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-22-june-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-06-29
+|224,989
+|1,416
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-cholera-yemen-29-june-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 29 June 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191725/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-cholera-yemen-29-june-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-07-06
+|275,987
+|1,634
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-06-july-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 6 July 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191718/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-06-july-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-07-18
+|351,045
+|1,790
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-18-july-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 18 July 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191703/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-18-july-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-07-27
+|408,583
+|1,885
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-27-july-2017.html|title=WHO EMRO - Weekly update - cholera in Yemen, 27 July 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191644/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/weekly-update-cholera-in-yemen-27-july-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-10-26
+|862,858
+|2,177
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-october-2017.html|title=WHO EMRO - Outbreak update - cholera in Yemen - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191623/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-october-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2017-12-19
+|1,009,554 {{efn|Starting in December 2017,<ref name="ReferenceA"/> The World Health Organization began counting cases of cholera from 27 April 2017 onwards instead of from October 2016.<ref name=":0" /> This is resolved by adding 26,070 suspected cholera cases and 120 deaths from December onwards.}}
+|2,345
+|<ref name="ReferenceA">{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-december-2017.html|title=WHO EMRO - Outbreak update - cholera in Yemen, 19 December 2017 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181201191617/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-december-2017.html|archive-date=1 December 2018|url-status=live}}</ref>
+|-
+|2018-01-18
+|1,061,746
+|2,364
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-18-january-2018.html|title=WHO EMRO - Outbreak update - cholera in Yemen, 18 January 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129161723/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-18-january-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-02-01
+|1,072,744
+|2,368
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-february-2018.html|title=WHO EMRO - Outbreak update - cholera in Yemen, 1 February 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129161148/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-february-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-03-01
+|1,089,856
+|2,378
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-march-2018.html|title=WHO EMRO - Outbreak update – cholera in Yemen, 1 March 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129155632/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-march-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-04-05
+|1,112,175
+|2,391
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-5-april-2018.html|title=WHO EMRO - Outbreak update – cholera in Yemen, 5 April 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129154738/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-5-april-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-05-03
+|1,116,350
+|2,395
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-3-may-2018.html|title=WHO EMRO - Outbreak update – cholera in Yemen, 3 May 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129153103/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-3-may-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-05-20
+|1,126,790
+|2,411
+|<ref name=":0">{{Cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-may-2018.html|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 31 May 2018 {{!}} Cholera {{!}} Epidemic and pandemic diseases|publisher= WHO EMRO|archive-url=https://web.archive.org/web/20181101115341/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-may-2018.html|archive-date=1 November 2018|url-status=live|access-date=10 November 2018|quote=The cumulative total of suspected cholera cases, from 27 April 2017 to 20 May 2018, is 1 100 720 and 2 291 associated deaths (case fatality rate 0.21%).}}</ref>
+|-
+|2018-07-01
+|1,141,448
+|2,430
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-july-2018.html|title=WHO EMRO - Outbreak update – Cholera in Yemen, 19 July 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129145324/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-july-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-09-23
+|1,233,666
+|2,630
+|<ref>{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-11-october-2018.html|title=WHO EMRO - Outbreak update – Cholera in Yemen, 11 October 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129143711/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-11-october-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-10-21
+|1,291,550 {{efn|Starting on 8 November 2018, The World Health Organization began counting cases of cholera from 1 January 2018 onwards instead of from 27 April 2017.<ref name="ReferenceB"/> This is resolved by adding 1,048,701 suspected cholera cases and 2358 deaths from 21 October onwards.}}
+|2,604
+|<ref name="ReferenceB">{{cite web|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-8-november-2018.html|title=WHO EMRO - Outbreak update – Cholera in Yemen, 8 November 2018 - Cholera - Epidemic and pandemic diseases|publisher= WHO EMRO|access-date=14 March 2019|archive-url=https://web.archive.org/web/20181129143641/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-8-november-2018.html|archive-date=29 November 2018|url-status=live}}</ref>
+|-
+|2018-11-11
+|1,303,839
+|2,614
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 7 December 2018 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-december-2018.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182603/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-december-2018.html|url-status=live}}</ref>
+|-
+|2018-11-25
+|1,317,319
+|2,625
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 20 December 2018 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-20-december-2018.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108051630/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-20-december-2018.html|url-status=live}}</ref>
+|-
+|2018-12-09
+|1,329,285
+|2,641
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 31 December 2018 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-december-2018.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182554/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-december-2018.html|url-status=live}}</ref>
+|-
+|2018-12-16
+|1,341,020
+|2,666
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen 16 December 2018 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-08-january-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182439/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-08-january-2019.html|url-status=live}}</ref>
+|-
+|2018-12-30
+|1,350,139
+|2,682
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen 30 December 2018 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-16-january-2018.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108051635/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-16-january-2018.html|url-status=live}}</ref>
+|-
+|2019-01-06
+|1,359,279
+|2,694
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 6 January 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-january-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108211142/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-january-2019.html|url-status=live}}</ref>
+|-
+|2019-01-13
+|1,367,849
+|2,703
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 13 January 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-07-february-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182433/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-07-february-2019.html|url-status=live}}</ref>
+|-
+|2019-01-20
+|1,376,488
+|2,708
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 20 January 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-14-february-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=7 November 2020|archive-url=https://web.archive.org/web/20201107005624/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-14-february-2019.html|url-status=live}}</ref>
+|-
+|2019-02-03
+|1,383,907
+|2,716
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 3 February 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-february-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=7 November 2020|archive-url=https://web.archive.org/web/20201107141759/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-february-2019.html|url-status=live}}</ref>
+|-
+|2019-02-17
+|1,390,625
+|2,724
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 17 February2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-march-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=7 November 2020|archive-url=https://web.archive.org/web/20201107034034/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-march-2019.html|url-status=live}}</ref>
+|-
+|2019-04-07
+|1,420,393
+|2,775
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 07 April 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-07-april-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108051633/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-07-april-2019.html|url-status=live}}</ref>
+|-
+|2019-04-14
+|1,448,233
+|2,823
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 14 April 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-14-april-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=21 April 2019|archive-url=https://web.archive.org/web/20190421033433/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-14-april-2019.html|url-status=live}}</ref>
+|-
+|2019-04-28
+|1,470,735
+|2,873
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 28 April 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-april-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=5 November 2020|archive-url=https://web.archive.org/web/20201105093129/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-april-2019.html|url-status=live}}</ref>
+|-
+|2019-05-05
+|1,488,906
+|2,886
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 5 May 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-12-may-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=7 November 2020|archive-url=https://web.archive.org/web/20201107141756/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-12-may-2019.html|url-status=live}}</ref>
+|-
+|2019-05-12
+|1,505,610
+|2,898
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 12 May 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-may-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125001127/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-may-2019.html|url-status=live}}</ref>
+|-
+|2019-05-19
+|1,522,437
+|2,916
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 19 May 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-27-may-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=7 November 2020|archive-url=https://web.archive.org/web/20201107024825/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-27-may-2019.html|url-status=live}}</ref>
+|-
+|2019-05-26
+|1,539,305
+|2,928
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 26 May 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-may-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=4 November 2020|archive-url=https://web.archive.org/web/20201104064737/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-may-2019.html|url-status=live}}</ref>
+|-
+|2019-06-02
+|1,555,073
+|2,944
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 2 June 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-2-june-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=5 November 2020|archive-url=https://web.archive.org/web/20201105005344/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-2-june-2019.html|url-status=live}}</ref>
+|-
+|2019-06-09
+|1,572,731
+|2,955
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 9 June 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-18-june-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=4 November 2020|archive-url=https://web.archive.org/web/20201104064735/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-18-june-2019.html|url-status=live}}</ref>
+|-
+|2019-06-16
+|1,592,995
+|2,970
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 16 June 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-16-june-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=8 January 2021|archive-url=https://web.archive.org/web/20210108141306/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-16-june-2019.html|url-status=live}}</ref>
+|-
+|2019-06-23
+|1,613,872
+|2,989
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 23 June 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-23-june-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=4 November 2020|archive-url=https://web.archive.org/web/20201104195007/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-23-june-2019.html|url-status=live}}</ref>
+|-
+|2019-06-30
+|1,635,737
+|3,002
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 30 June 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-30-june-2019.html|access-date=2020-10-31|website=www.emro.who.int|archive-date=6 November 2020|archive-url=https://web.archive.org/web/20201106035440/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-30-june-2019.html|url-status=live}}</ref>
+|-
+|2019-07-07
+|1,657,286
+|3,020
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 7 July 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-july-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=1 November 2020|archive-url=https://web.archive.org/web/20201101134217/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-july-2019.html|url-status=live}}</ref>
+|-
+|2019-07-21
+|1,676,745
+|3,031
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 21 July 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-21-july-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=28 June 2020|archive-url=https://web.archive.org/web/20200628171929/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-21-july-2019.html|url-status=live}}</ref>
+|-
+|2019-07-28
+|1,694,765
+|3,045
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen 28 July 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-july-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182533/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-july-2019.html|url-status=live}}</ref>
+|-
+|2019-08-04
+|1,711,380
+|3,055
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 4 August 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-4-august-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181848/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-4-august-2019.html|url-status=live}}</ref>
+|-
+|2019-08-11
+|1,727,688
+|3,069
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 11 August 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-11-august-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182448/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-11-august-2019.html|url-status=live}}</ref>
+|-
+|2019-08-18
+|1,743,984
+|3,077
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen, 18 August 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-18-august-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181738/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-18-august-2019.html|url-status=live}}</ref>
+|-
+|2019-08-25
+|1,761,482
+|3,089
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 25 August 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-25-august-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182503/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-25-august-2019.html|url-status=live}}</ref>
+|-
+|2019-09-01
+|1,780,028
+|3,099
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 1 September 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-september-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=14 July 2020|archive-url=https://web.archive.org/web/20200714044414/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-september-2019.html|url-status=live}}</ref>
+|-
+|2019-09-29
+|1,796,653
+|3,114
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update - Cholera in Yemen 29 September 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-29-september-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182538/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-29-september-2019.html|url-status=live}}</ref>
+|-
+|2019-10-06
+|1,813,480
+|3,127
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 6 October 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-6-october-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182559/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-6-october-2019.html|url-status=live}}</ref>
+|-
+|2019-10-13
+|1,827,904
+|3,143
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 13 October 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-13-october-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181708/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-13-october-2019.html|url-status=live}}</ref>
+|-
+|2019-10-20
+|1,842,251
+|3,151
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 20 October 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-20-october-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181807/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-20-october-2019.html|url-status=live}}</ref>
+|-
+|2019-10-27
+|1,855,175
+|3,161
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 27 October 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-27-october-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181828/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-27-october-2019.html|url-status=live}}</ref>
+|-
+|2019-11-03
+|1,864,556
+|3,167
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 03 November 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-03-november-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182424/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-03-november-2019.html|url-status=live}}</ref>
+|-
+|2019-11-10
+|1,875,918
+|3,170
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 10 November 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-10-november-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181657/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-10-november-2019.html|url-status=live}}</ref>
+|-
+|2019-11-17
+|1,887,449
+|3,174
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 17 November 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-17-november-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181733/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-17-november-2019.html|url-status=live}}</ref>
+|-
+|2019-12-01
+|1,898,236
+|3,176
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 1 December 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-december-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812181647/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-1-december-2019.html|url-status=live}}</ref>
+|-
+|2019-12-22
+|1,907,658
+|3,178
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 22 December 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-22-december-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=18 July 2020|archive-url=https://web.archive.org/web/20200718042737/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-22-december-2019.html|url-status=live}}</ref>
+|-
+|2019-12-29
+|1,916,811
+|3,181
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 29 December 2019 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-29-december-2019.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=18 July 2020|archive-url=https://web.archive.org/web/20200718042742/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-29-december-2019.html|url-status=live}}</ref>
+|-
+|2020-01-05
+|1,925,087
+|3,184
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 5 January 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-05-january-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182428/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-05-january-2020.html|url-status=live}}</ref>
+|-
+|2020-01-12
+|1,932,798
+|3,188
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 12 January 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-12-january-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=22 November 2020|archive-url=https://web.archive.org/web/20201122111926/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-12-january-2020.html|url-status=live}}</ref>
+|-
+|2020-01-26
+|1,940,893
+|3,192
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 26 January 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-january-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812182514/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-january-2020.html|url-status=live}}</ref>
+|-
+|2020-05-17
+|1,944,360
+|3,192
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 17 May 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-17-may-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=26 August 2020|archive-url=https://web.archive.org/web/20200826042451/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-17-may-2020.html|url-status=live}}</ref>
+|-
+|2020-05-24
+|1,946,84
+|3,192
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 24 May 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-24-may-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=12 August 2020|archive-url=https://web.archive.org/web/20200812183411/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-24-may-2020.html|url-status=live}}</ref>
+|-
+|2020-05-31
+|1,949,920
+|3,192
+|<ref name=":8">{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 31 May 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-may-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=5 February 2021|archive-url=https://web.archive.org/web/20210205003108/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-31-may-2020.html|url-status=live}}</ref>
+|-
+|2020-06-07
+|1,953,033
+|3,194
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 7 June 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-june-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=25 July 2022|archive-url=https://web.archive.org/web/20220725071901/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-7-june-2020.html|url-status=live}}</ref>
+|-
+|2020-06-14
+|1,956,124
+|3,198
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 14 June 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-14-june-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=6 November 2020|archive-url=https://web.archive.org/web/20201106214806/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-14-june-2020.html|url-status=live}}</ref>
+|-
+|2020-06-21
+|1,959,308
+|3,198
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 21 June 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-21-june-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108231728/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-21-june-2020.html|url-status=live}}</ref>
+|-
+|2020-06-28
+|1,962,357
+|3,199
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 28 June 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-june-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=18 July 2020|archive-url=https://web.archive.org/web/20200718003218/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-28-june-2020.html|url-status=live}}</ref>
+|-
+|2020-07-12
+|1,965,664
+|4,001
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 12 July 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-12-july-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=25 July 2022|archive-url=https://web.archive.org/web/20220725071801/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-12-july-2020.html|url-status=live}}</ref>
+|-
+|2020-07-19
+|1,968,536
+|4,001
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 19 July 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-july-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=9 November 2020|archive-url=https://web.archive.org/web/20201109055118/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-19-july-2020.html|url-status=live}}</ref>
+|-
+|2020-07-26
+|1,971,551
+|4,001
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 26 July 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-july-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=9 November 2020|archive-url=https://web.archive.org/web/20201109105141/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-26-july-2020.html|url-status=live}}</ref>
+|-
+|2020-08-02
+|1,973,697
+|4,002
+|<ref>{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 2 August 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-2-august-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=13 October 2020|archive-url=https://web.archive.org/web/20201013050143/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-2-august-2020.html|url-status=live}}</ref>
+|-
+|2020-08-16
+|1,975,403
+|4,002
+|<ref name=":5">{{Cite web|title=WHO EMRO {{!}} Outbreak update – Cholera in Yemen, 16 August 2020 {{!}} Cholera {{!}} Epidemic and pandemic diseases|url=http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-16-august-2020.html|access-date=2020-11-02|website=www.emro.who.int|archive-date=9 November 2020|archive-url=https://web.archive.org/web/20201109011836/http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-update-cholera-in-yemen-16-august-2020.html|url-status=live}}</ref>
+|-
+|2021-04-30
+|5120
+|3
+|<ref>{{cite web |title=Cholera outbreaks |url=https://www.emro.who.int/health-topics/cholera-outbreak/cholera-outbreaks.html |access-date=31 December 2022 |publisher=World Health Organization EMRO |archive-date=31 December 2022 |archive-url=https://web.archive.org/web/20221231193754/https://www.emro.who.int/health-topics/cholera-outbreak/cholera-outbreaks.html |url-status=live }}</ref>
+
+|}
+
+{{notelist}}
+
+== See also ==
+* [[Famine in Yemen]]
+* [[COVID-19 pandemic in Yemen]]
+
+== References ==
+{{reflist|30em}}
+
+{{Yemeni Civil War (2015)}}
+{{Cholera}}
+{{Epidemics}}
+
+{{DEFAULTSORT:2016-2021 Yemen cholera outbreak}}
+[[Category:2016 disease outbreaks]]
+[[Category:2017 disease outbreaks]]
+[[Category:2018 disease outbreaks]]
+[[Category:2019 disease outbreaks]]
+[[Category:2020 disease outbreaks]]
+[[Category:2021 disease outbreaks]]
+[[Category:2022 disease outbreaks]]
+[[Category:2016 in Yemen]]
+[[Category:2017 in Yemen]]
+[[Category:2018 in Yemen]]
+[[Category:2019 in Yemen]]
+[[Category:2020 in Yemen]]
+[[Category:2021 in Yemen]]
+[[Category:2022 in Yemen]]
+[[Category:Cholera outbreaks]]
+[[Category:Yemeni Crisis (2011–present)]]
+[[Category:Man-made disasters in Yemen]]
+[[Category:Disease outbreaks in Yemen]]

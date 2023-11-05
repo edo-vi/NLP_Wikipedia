@@ -1,0 +1,18 @@
+{{Short description|Growth to adulthood without metamorphosis}}
+'''Direct development''' is a concept in [[biology]].  It refers to forms of growth to adulthood that do not involve [[metamorphosis]].  An animal undergoes direct development if the immature organism resembles a small adult rather than having a distinct [[larva]]l form.<ref name=Paper>{{cite journal|url=https://www.tandfonline.com/doi/abs/10.1080/00222933.2021.1895349|accessdate=March 7, 2023|title=Direct development of the bush frog Raorchestes longchuanensis (Yang and Li 1978) under laborary conditions in Southern China|journal=Journal of Natural History|pages=123–132|author1=Fang Yan|author2=Xiaolong Liu|author3=Yinpeng Zhang|author4= Zhiyong Yuan|date=May 28, 2021|volume=55 |issue=1–2 |doi=10.1080/00222933.2021.1895349|s2cid=236202923 }}</ref>  A frog that hatches out of its egg as a small frog undergoes direct development.  A frog that hatches out of its egg as a [[tadpole]] does not.
+
+Direct development is the opposite of [[complete metamorphosis]].  An animal undergoes complete metamorphosis if it becomes a non-moving thing, for example a [[pupa]] in a [[Cocoon (silk)|cocoon]], between its larval and adult stages.<ref name=Morph>{{cite journal|title=Complete metamorphosis of insects|author1=Jens Rolff|author2= Paul R. Johnston|author3= Stuart Reynolds|doi=10.1098/rstb.2019.0063|date=August 26, 2019|pmid= 31438816|volume=374|issue=1783|journal=Philos Trans R Soc Lond B Biol Sci|pmc=6711294 }}</ref>
+
+==Examples==
+
+*Most frogs in the genus ''[[Callulina]]'' hatch out of their eggs as froglets.
+*[[Springtails]] and [[mayflies]], called [[ametabolous]] insects, undergo direct development.<ref name=Gil>{{cite book|accessdate=March 19, 2023|url=https://www.ncbi.nlm.nih.gov/books/NBK9986/|title=Developmental Biology|edition=6|author=Scott F. Gilbert|location=Sunderland, MA |publisher=Sinauer Associates|year= 2000|chapter= Metamorphosis: The Hormonal Reactivation of Development}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Biology]]
+[[Category:Animal anatomy]]
+
+
+{{biology-stub}}

@@ -1,0 +1,22 @@
+{{short description|Speech to oneself}}
+{{other uses|Soliloquy (disambiguation)}}{{About|speeches to oneself|the psychological phenomenon|self-talk}}
+A '''soliloquy''' ({{IPAc-en|s|ə|ˈ|l|ɪ|l|.|ə|.|k|w|i|,_|s|oʊ|ˈ|l|ɪ|l|.|oʊ|-}}, from Latin ''solo'' "to oneself" + ''loquor'' "I talk",<ref>{{Cite web|title=Soliloquy {{!}} drama|url=https://www.britannica.com/art/soliloquy|access-date=2021-06-03|website=Encyclopedia Britannica|language=en}}</ref> plural '''''soliloquies''''') is a [[monologue]] addressed to oneself, thoughts spoken out loud without addressing another.<ref>{{Cite book|last=Hasegawa|first=Yoko|title=Soliloquy in Japanese and English|date=2010|publisher=John Benjamins Pub. Co|isbn=978-90-272-8753-3|location=Amsterdam|pages=2|oclc=697617483}}</ref><ref>{{Cite thesis|title=Soliloquies as a Dramatic Technique in Advancing the Plot In Shakespeare's Play Hamlet|url=http://repository.sustech.edu//handle/123456789/12161|publisher=Sudan University of Science and Technology|date=2015-09-10|degree=Thesis|language=en|first=Abdulaziz M.|last=Adam}}</ref>
+
+Soliloquies are used as a device in [[drama]] to let a character make their thoughts known to the audience, address it directly or take it into their confidence,<ref name=":0">{{Cite book|last1=Braunmuller|first1=A. R.|title=The Cambridge companion to English Renaissance drama|last2=Hattaway|first2=Michael|date=2003|publisher=Cambridge University Press|year=2003|isbn=0-521-82115-0|edition=2nd|location=Cambridge, U.K.|pages=23|oclc=50761151}}</ref> wholly or in part.<ref>{{Cite web|date=2022-09-16|title=What is a Soliloquy?: Definitions and Examples|url=https://liberalarts.oregonstate.edu/wlf/what-soliloquy-definition-and-examples|access-date=2022-09-16|website=Oregon State Guide to English Literary Terms | language=en-US}}</ref> [[English Renaissance theatre|English Renaissance drama]] used soliloquies to great effect,<ref name=":0" /> such as in the soliloquy "[[To be, or not to be]]", the centerpiece of [[William Shakespeare|Shakespeare]]'s ''[[Hamlet]]''.<ref>{{Cite web|date=2020-10-31|title=Soliloquy - Definition and Examples of Soliloquy|url=https://literarydevices.net/soliloquy/|access-date=2021-06-03|website=Literary Devices|language=en-US}}</ref><ref>{{Cite journal|last=Selleck|first=Nancy|date=2020-12-15|title=Interpersonal Soliloquy: Self and Audience in Shakespeare and Augustine|url=https://www.journals.uchicago.edu/doi/10.1086/711602|journal=English Literary Renaissance|volume=51|issue=1|pages=63–95|doi=10.1086/711602|s2cid=229181829|issn=0013-8312}}</ref>
+
+==See also==
+*[[Aside]]
+*[[Backstory]]
+*[[Exposition (narrative)]]
+*[[Internal monologue]]
+*[[List of narrative techniques]]
+*[[Narration ]]
+
+==References==
+{{Wikiquote}}
+<references />
+
+[[Category:Literature]]
+[[Category:Drama]]
+
+{{drama-stub}}

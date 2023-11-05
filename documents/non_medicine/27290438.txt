@@ -1,0 +1,78 @@
+'''Geomathematics''' (also: '''mathematical geosciences''', '''mathematical geology''', '''mathematical geophysics''') is the application of [[mathematical]] methods to solve problems in [[geosciences]], including [[geology]] and [[geophysics]], and particularly [[geodynamics]] and [[seismology]].
+
+== Applications ==
+=== Geophysical fluid dynamics ===
+[[Geophysical fluid dynamics]] develops the theory of [[fluid dynamics]] for the atmosphere, ocean and Earth's interior.<ref>{{Harvnb|Pedlosky|2005}}</ref> Applications include geodynamics and the theory of the [[geodynamo]].
+
+=== Geophysical inverse theory ===
+Geophysical [[inverse theory]] is concerned with analyzing geophysical data to get model parameters.<ref name=Parker>{{Harvnb|Parker|1994}}</ref><ref name=Tarantola>{{Harvnb|Tarantola|1987}}</ref> It is concerned with the question: What can be known about the Earth's interior from measurements on the surface? Generally there are limits on what can be known even in the ideal limit of exact data.<ref>{{Harvnb|Parker|1994|loc=chapter 2}}</ref>
+
+The goal of inverse theory is to determine the spatial distribution of some variable (for example, density or seismic wave velocity). The distribution determines the values of an observable at the surface (for example, gravitational acceleration for density). There must be a ''forward model'' predicting the surface observations given the distribution of this variable.
+
+Applications include [[geomagnetism]], [[magnetotellurics]] and seismology.
+
+=== Fractals and complexity ===
+Many geophysical data sets have spectra that follow a [[power law]], meaning that the frequency of an observed magnitude varies as some power of the magnitude. An example is the distribution of [[earthquake]] magnitudes; small earthquakes are far more common than large earthquakes. This is often an indicator that the data sets have an underlying [[fractal]] geometry. Fractal sets have a number of common features, including structure at many scales, irregularity, and [[self-similarity]] (they can be split into parts that look much like the whole). The manner in which these sets can be divided determine the [[Hausdorff dimension]] of the set, which is generally different from the more familiar [[topological dimension]]. Fractal phenomena are associated with [[Chaos theory|chaos]], [[self-organized criticality]] and [[turbulence]].<ref>{{Harvnb|Turcotte|1997}}</ref> Fractal Models in the Earth Sciences by [[Gabor Korvin]] was one of the earlier books on the application of [[Fractals]] in the [[Earth Sciences]].<ref>{{cite book|author= Korvin G. |title=Fractal Methods in the Earth Science.| location=Amsterdam|publisher= Elsevier|date= 1992}}</ref>
+
+=== Data assimilation ===
+[[Data assimilation]] combines numerical models of geophysical systems with observations that may be irregular in space and time. Many of the applications involve geophysical fluid dynamics. Fluid dynamic models are governed by a set of [[partial differential equations]]. For these equations to make good predictions, accurate initial conditions are needed. However, often the initial conditions are not very well known. Data assimilation methods allow the models to incorporate later observations to improve the initial conditions. Data assimilation plays an increasingly important role in [[weather forecasting]].<ref>{{harvnb|Wang|Zou|Zhu|2000}}</ref>
+
+=== Geophysical statistics ===
+Some statistical problems come under the heading of mathematical geophysics, including [[model validation]] and quantifying uncertainty.
+=== Terrestrial Tomography ===
+
+An important research area that utilises inverse methods is
+[[seismic tomography]], a technique for imaging the subsurface of the Earth using [[seismic waves]]. Traditionally seismic waves produced by [[earthquakes]] or anthropogenic seismic sources (e.g., explosives, marine air guns) were used.
+
+=== Crystallography ===
+[[Crystallography]] is one of the traditional areas of [[geology]] that use [[mathematics]]. Crystallographers make use of [[linear algebra]] by using the [[Metric tensor|Metrical Matrix]]. The [[Metric tensor|Metrical Matrix]] uses the basis vectors of the [[Crystal structure|unit cell]] dimensions to find the volume of a unit cell, d-spacings, the angle between two planes, the angle between atoms, and the bond length.<ref name=":0">{{Cite book|title=The Metrical Matrix in Teaching Mineralogy|last=Gibbs|first=G. V.|publisher=Virginia Polytechnic Institute and State University|pages=201–212}}</ref> Miller's Index is also helpful in the application of the [[Metric tensor|Metrical Matrix]]. [[Bragg's law|Brag's equation]] is also useful when using an [[electron microscope]] to be able to show relationship between light diffraction angles, wavelength, and the d-spacings within a sample.<ref name=":0" />
+
+=== Geophysics ===
+[[Geophysics]] is one of the most [[Mathematics|math]] heavy disciplines of [[Earth Science]]. There are many applications which include [[gravity]], [[Magnetism|magnetic]], [[Seismology|seismic]], [[Electricity|electric]], [[Electromagnetism|electromagnetic]], [[Resistivity logging|resistivity]], radioactivity, induced polarization, and [[well logging]].<ref name=":1">{{Cite book|title=Applied Geophysics|last=Telford|first=W. M.|last2=Geldart|first2=L. P.|last3=Sheriff|first3=R. E.|date=1990-10-26|publisher=[[Cambridge University Press]]|isbn=9780521339384|edition=2|language=en}}</ref> Gravity and magnetic methods share similar characteristics because they're measuring small changes in the gravitational field based on the density of the rocks in that area.<ref name=":1" /> While similar [[Physical geodesy|gravity fields]] tend to be more uniform and smooth compared to [[magnetic field]]s. Gravity is used often for [[Hydrocarbon exploration|oil exploration]] and seismic can also be used, but it is often significantly more expensive.<ref name=":1" /> Seismic is used more than most geophysics techniques because of its ability to penetrate, its resolution, and its accuracy.
+
+=== Geomorphology ===
+Many applications of [[mathematics]] in [[geomorphology]] are related to water. In the [[Soil mechanics|soil]] aspect things like [[Darcy's law]], [[Stokes' law|Stoke's law]], and [[Pore space in soil|porosity]] are used.
+* [[Darcy's law]] is used when one has a saturated soil that is uniform to describe how [[Fluid dynamics|fluid flows]] through that medium.<ref name=":2">{{Cite book|title=Introduction to Environmental Soil Physics|last=Hillel|first=Daniel|date=2003-11-05|publisher=[[Academic Press]]|isbn=9780123486554|edition=1|language=en}}</ref> This type of work would fall under [[hydrogeology]].
+* [[Stokes' law|Stoke's law]] measures how quickly different sized particles will settle out of a fluid.<ref name=":2" /> This is used when doing [[Particle-size distribution|pipette analysis]] of soils to find the percentage sand vs silt vs clay.<ref>{{Cite book|title=Soil Properties: Testing, Measurement, and Evaluation|last=Liu|first=Cheng|last2=Ph.D|first2=Jack Evett|date=2008-04-16|publisher=Pearson|isbn=9780136141235|edition=6|language=en}}</ref> A potential error is it assumes perfectly spherical particles which don't exist.
+* [[Stream power]] is used to find the ability of a river to [[River incision|incise]] into the [[Stream bed|river bed]]. This is applicable to see where a river is likely to fail and change course or when looking at the damage of losing stream sediments on a river system (like downstream of a dam).
+* [[Differential equation]]s can be used in multiple areas of [[geomorphology]] including: The [[Exponential growth|exponential growth equation]], distribution of sedimentary rocks, [[Gas diffusion in soil|diffusion of gas]] through rocks, and [[crenulation]] cleavages.<ref>{{Cite book|title=Mathematics in Geology|last=Ferguson|first=John|date=2013-12-31|publisher=Springer|isbn=9789401540117|edition=Softcover reprint of the original 1st ed. 1988|language=en}}</ref>
+
+=== Glaciology ===
+[[Mathematics]] in [[Glaciology]] consists of theoretical, experimental, and modeling. It usually covers [[glacier]]s, [[sea ice]], [[Environmental flow|waterflow]], and the land under the glacier.
+
+[[Crystallite|Polycrystalline]] ice deforms slower than single crystalline ice, due to the stress being on the basal planes that are already blocked by other ice crystals.<ref name=":3">{{Cite book|title=Theoretical Glaciology: Material Science of Ice and the Mechanics of Glaciers and Ice Sheets|last=Hutter|first=K.|date=1983-08-31|publisher=Springer|isbn=9789401511698|edition=Softcover reprint of the original 1st ed. 1983|language=en}}</ref> It can be [[Mathematical model|mathematically modeled]] with [[Hooke's law|Hooke's Law]] to show the elastic characteristics while using [[Lamé parameters|Lamé constants]].<ref name=":3" /> Generally the ice has its linear [[Elasticity (physics)|elasticity]] constants averaged over one dimension of space to simplify the equations while still maintaining accuracy.<ref name=":3" />
+
+[[Viscoelasticity|Viscoelastic]] [[Crystallite|polycrystalline]] ice is considered to have low amounts of [[Stress (mechanics)|stress]] usually below one [[Bar (unit)|bar]].<ref name=":3" /> This type of ice system is where one would test for [[Creep (deformation)|creep]] or [[vibration]]s from the [[Tension (physics)|tension]] on the ice. One of the more important equations to this area of study is called the relaxation function.<ref name=":3" /> Where it's a [[Stress-strain relationship|stress-strain]] relationship independent of time.<ref name=":3" /> This area is usually applied to transportation or building onto floating ice.<ref name=":3" />
+
+Shallow-Ice approximation is useful for [[glacier]]s that have variable thickness, with a small amount of stress and variable velocity.<ref name=":3" /> One of the main goals of the mathematical work is to be able to predict the stress and velocity. Which can be affected by changes in the properties of the ice and temperature. This is an area in which the basal shear-stress formula can be used.<ref name=":3" />
+
+==Academic journals==
+*''[[International Journal on Geomathematics]]''
+*''[[Mathematical Geosciences]]''
+
+==See also==
+*[[Geocomputation]]
+*[[Geoinformatics]]
+*[[International Association for Mathematical Geosciences]] (IAMG)
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book | last=Agterberg | first=Frits | title=Geomathematics : theoretical foundations, applications and future developments | publisher=Springer | publication-place=Cham | year=2014 | isbn=978-3-319-06874-9 | oclc=885024357}}
+*[https://doi.org/10.1007%2FBF01037443 Development, significance, and influence of geomathematics: Observations of one geologist], [[Daniel F. Merriam]], 	''Mathematical Geology'', Volume 14, Number 1 / February, 1982
+* {{cite book | last=Freeden | first=W | title=Handbook of geomathematics | publisher=Springer | publication-place=Berlin London | year=2010 | isbn=978-3-642-01546-5 | oclc=676700046 | url=https://www.springer.com/gp/book/9783642015458}}
+* {{cite book | editor-last=Bonham-Carter | editor-first=Graeme | editor-last2=Cheng | editor-first2=Qiuming | title=Progress in Geomathematics | publisher=Springer Berlin Heidelberg | publication-place=Berlin, Heidelberg | year=2008 | isbn=978-3-540-69495-3 | doi=10.1007/978-3-540-69496-0 | ref={{sfnref | Springer Berlin Heidelberg | 2008}}}}
+*{{cite book|last = Parker|first = Robert L.|title = Geophysical Inverse Theory|url = https://archive.org/details/geophysicalinver0000park|url-access = registration|publisher = [[Princeton University Press]]|year = 1994|isbn = 0-691-03634-9}}
+*{{cite book|last = Pedlosky|first = Joseph|title = Geophysical Fluid Dynamics|publisher = [[Society for Industrial and Applied Mathematics]]|year = 2005|isbn = 0-89871-572-5}}
+*{{cite book|last = Tarantola|first = Albert|author-link = Albert Tarantola|title = Inverse Problem Theory and Methods for Model Parameter Estimation|publisher = [[Springer-Verlag]]|year = 1987|isbn = 0-387-96387-1|url-access = registration|url = https://archive.org/details/geophysicalfluid00jose}}
+*{{cite book|last = Turcotte|first = Donald L.|title = Fractals and Chaos in Geology and Geophysics|publisher = [[Cambridge University Press]]|year = 1997|isbn = 0-521-56164-7}}
+*{{cite journal|last1=Wang|first1=Bin|last2=Zou|first2=Xiaolei|last3=Zhu|first3=Jiang|title=Data assimilation and its applications|journal = [[Proceedings of the National Academy of Sciences of the United States of America]]|volume = 97|number=21|pages=11143–11144|year=2000|doi=10.1073/pnas.97.21.11143|bibcode = 2000PNAS...9711143W |pmc=34050|pmid=11027322|doi-access=free
+}}
+
+{{Geophysics navbox}}
+
+[[Category:Applied mathematics]]
+[[Category:Earth sciences]]
+[[Category:Geology]]
+[[Category:Geophysics]]

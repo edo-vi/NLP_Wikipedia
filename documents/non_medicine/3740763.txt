@@ -1,0 +1,21 @@
+{{Short description|Inflammatory disease in horses}}
+{{No footnotes|date=April 2022}}
+
+An '''anticor''', also known as '''anticoeur''' or '''avant-cœur''', among [[farrier]]s, is a dangerous swelling or [[inflammation]] in a [[horse]]'s breast, of the size and shape of an apple, just opposite the [[heart]]. The term literally means ''anti heart'' or ''before heart''.
+
+The swelling may appear as a hard tumor, slow to develop, or as an inflammation. A traditional remedy, in the first case, involves splitting the skin along the breadth of the tumor, allowing the matter contained to escape, and stopping the [[hemorrhage]] by using an [[amadou]] or a hot iron. This kind of operation is best done by a [[veterinarian]]. If the tumor is inflammatory, one resorts to an oil of [[pompillion]], an ointment made of buds of [[black poplar]], [[lard]] and sheets of poppy, belladonna, etc. If it has formed an [[abscess]], one first applies a soft [[poultice]].{{ref label|1876|1|^}}
+
+In pre-[[modern medicine]], this was thought to be caused by a [[sanguine]] and [[bile|bilious]] [[four humours|humour]]. The disease has also been erroneously attributed to the heart, whence it was called by [[Jacques de Solleysell]] a swelling of the [[pericardium]], whereas it is really an inflammation in the [[gullet]] and [[throat]].{{ref label|1728|2|^}}
+
+In [[humans]], this is called [[Ludwig's angina]], or squinancy.
+
+==References==
+* {{note label|1876|1|^}}''Dictionnaire universel de la vie pratique à la ville et à la campagne.'' 5th ed. 1876.
+* {{note label|1728|2|^}}{{1728|title=Anticor |url=https://search.library.wisc.edu/digital/A4C5AV6Q7LZ5DY8E/pages/AMYILB2RRS2IOR8A}} 
+
+[[Category:Animal physiology]]
+[[Category:Horse diseases]]
+
+
+{{horse-stub}}
+{{veterinary-med-stub}}

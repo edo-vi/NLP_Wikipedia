@@ -1,0 +1,18 @@
+{{Orphan|date=December 2015}}
+
+'''Jin Qian Cao''' or '''Jinqiancao'''<!--- Google gives 664 vs. 602 results ---> ([[wikt:金|金]][[wikt:钱|钱]][[wikt:草|草]], "Gold Coin Grass/Herb/Weed") is a term used in traditional Chinese herbal medicine.  It can refer to several different herbal species, generally identified by their native regions.  The most common of these in the Chinese trade, listed in the [[Pharmacopoeia of the People's Republic of China]], is ''Lysimachia christinae'', but in the West ''Desmodium'' and ''Glechoma'' may be more commonly encountered.<ref>{{cite web|url=http://www.itmonline.org/arts/gallstones.htm|title=Treatment of gallstones with Chinese herbs and acupuncture|author=Subhuti Dharmananda, Ph.D., Director, Institute for Traditional Medicine, Portland, Oregon}}</ref>
+
+* ''[[Lysimachia christinae]]'' (Sichuan Da ("Large [[Sichuan]]") Jinqiancao, Guoluhuang)
+* ''[[Dichondra repens]]'' (Sichuan Xiao ("Small Sichuan") Jinqiancao)
+* ''[[Desmodium styracifolium]]'' ([[Liangguang|Guang]] Jinqiancao, Herba Desmodii Styracifolii<ref>{{cite web|url=http://www.dh.gov.hk/english/main/main_cm/files/vol2/pdf_e/Herba_Desmodii_Styracifolii.pdf |title=Herba Desmodii Styracifolii |publisher=Hong Kong Department of Health Statistics }}{{dead link|date=April 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>)
+* ''[[Hydrocotyle sibthorpioides]]'' ([[Jiangxi]] Jinqiancao)
+* ''[[Glechoma hederacea]]'' ([[Jiangsu]] Jinqiancao)
+* ''[[Lysimachia kunmingcensis]]'' ([[Kunming]] Jinqiancao)
+
+== References ==
+<references />
+
+[[Category:Plants used in traditional Chinese medicine]]
+
+
+{{alt-med-stub}}

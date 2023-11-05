@@ -1,0 +1,54 @@
+{{Short description|Herbal tea}}
+{{Infobox tea
+| Tea_name        = Cinnamon tea
+| Tea_type        = [[Herbal tea]]
+| Tea_color       = 
+| Tea_image       = Glass of cinnamon tea.jpg
+| Tea_origin      = Various
+| Tea_names       = {{Flatlist|
+* ''Gyepi-cha''
+* ''té con canela''
+}}
+| Tea_quick       = Tea made from [[cinnamon]] bark
+| Tea_temperature = 
+| Tea_time        = 
+| module          = 
+}}
+{{Infobox Korean name
+| title      = Korean name
+| hangul     = {{lang|ko|계피차}}
+| hanja      = {{lang|ko-Hant|桂皮茶}} 
+| rr         = gyepi-cha
+| mr         = kyep'i-ch'a
+| koreanipa  = {{IPA-ko|kje.pʰi.tɕʰa|}}
+}}
+'''Cinnamon tea''' is a [[herbal tea]] made by infusing [[cinnamon]] bark in water.<ref name="KF">{{Cite book|editor-last=The Korea Foundation|editor-link=The Korea Foundation|title=Korean Food Guide in English|date=2004|publisher=Cookand/Best Home Inc.|location=Seoul|isbn=89-89782-10-4|url=https://books.google.com/books?id=sfJFBAAAQBAJ&pg=PT51|accessdate=20 September 2017}}</ref>
+
+== Regional variations ==
+
+=== Chile ===
+In [[Chile]], ''{{lang|es|té con canela}}'' ("tea with cinnamon") is made by placing a cinnamon stick into the teapot when steeping [[black tea]].<ref name="Campbell">{{Cite book|last1=Campbell|first1=Dawn L.|title=The tea book|date=1995|publisher=[[Pelican Publishing Company|Pelican Pub. Co.]]|location=Gretna, LA|isbn=1-56554-074-3|page=107|url=https://books.google.com/books?id=IS8XrKTH1BcC&pg=PA107|accessdate=20 September 2017}}</ref>
+
+=== Korea ===
+[[File:Cassia bark.jpg|thumb|[[Cinnamomum cassia|Cassia cinnamon]] barks used to make ''gyepi-cha'']]
+''Gyepi-cha'' ({{Korean|hangul=계피차|hanja=桂皮茶|labels=no}}; "cinnamon tea") is a [[traditional Korean tea]] made from [[Cinnamomum cassia|cassia cinnamon]] barks.<ref name="DE">{{Cite web|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000826781|title=Gyepi-cha|website=[[Doopedia]]|publisher=[[Doosan Corporation]]|language=ko|script-title=ko:계피차|access-date=20 September 2017}}</ref> Thicker sticks of cinnamon with purplish-red cross-section and strong fragrance are used.<ref name="DE" /> Dried cinnamon sticks are simmered either whole or sliced with a small amount of [[ginger]].<ref name="KF" /> When served, the tea is strained and optionally sweetened with sugar or honey, and then is usually garnished with minced [[jujube]]s.<ref name="KF" /><ref name="DE" />
+
+=== Lebanon ===
+In [[Lebanon]], ''shaayi bil qirfah wa’l yansoon’'' ("anise and cinnamon tea") is made by boiling [[aniseed]] and cinnamon (powdered or sticks) in water.<ref name="Iyengar">{{cite news|last=Iyengar|first=Krishnaraj|title=The world in a teacup: brews that hit the spot|url=http://www.indulgexpress.com/culture/cover-story/2017/jul/21/saucers-full-of-secrets-brews-that-can-hit-the-spot-2765.html|accessdate=20 September 2017|work=[[The New Indian Express]]|date=21 July 2017}}</ref> Optionally, black tea may be added.<ref name="Iyengar" /> The tea is strained and served with or without added sugar.<ref name="Iyengar" />
+
+== See also ==
+{{Commons cat|Cinnamon tea}}
+* [[Ginger tea]]
+* ''[[Sujeonggwa]]'' – Korean cinnamon punch
+
+== References ==
+{{Reflist|30em}}
+
+[[Category:Herbal tea]]
+[[Category:Korean tea]]
+[[Category:Traditional Korean medicine]]
+
+{{alt-med-stub}}
+{{Korea-cuisine-stub}}
+{{tea-stub}}
+.

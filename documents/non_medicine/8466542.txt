@@ -1,0 +1,31 @@
+{{short description|Viral disease of animals}}
+{{for|human beings|Leukemia}}
+{{Medref|date=September 2017}} 
+'''Leucosis''' is a leukemia-like malignant viral disease that is found in animals, particularly poultry and cattle.
+
+==Types of leucosis==
+* Bovine leucosis
+** Enzootic bovine leucosis, caused by [[bovine leukemia virus]].<ref name="Mahy 2009">{{cite book|last1=Mahy|first1=Brian W.J.|title=The dictionary of virology|url=https://archive.org/details/dictionaryofviro0000mahy_n8j9|url-access=registration|date=2009|publisher=Elsevier/Academic Press|location=Amsterdam|isbn=9780080920368|pages=[https://archive.org/details/dictionaryofviro0000mahy_n8j9/page/61 61]-62|edition=4th|chapter=Bovine leukemia virus}}</ref>
+** Sporadic bovine leucosis 
+** Calf lymphosarcoma
+* Leucosis in pig
+* Leucosis in horses
+* Leucosis in sheep&nbsp;<ref>{{cite book | author1 = D.C. Blood | author2 = J.A. Henderson | author3 = O.M. Radostits | title = Veterinary Medicine | publisher = Baillière Tindall | location = London | edition = 5th | year = 1979 | isbn = 0-7020-0718-8 | pages = 611–612}}</ref>
+* Feline leucosis
+** [[Feline leukemia virus]]
+* Avian leucosis and related diseases
+** [[Avian sarcoma leukosis virus]]
+*** [[Lymphoid leucosis]]
+*** Erythroblastosis
+*** Osteopetrosis
+*** Myeloblastose
+*** Myelocytomatosis<ref>H. Graham Purchase and L.N. Payne, Leukosis/sarcoma Group, in ''Diseases of poultry'', ed. by M.S. Hofstad, Iowa State University Press, Ames, Iowa, USA {{ISBN|0-8138-0430-2}}, p. 360-405</ref>
+
+==References==
+<references/>
+
+[[Category:Animal diseases]]
+[[Category:Animal viral diseases]]
+
+
+{{Veterinary-med-stub}}

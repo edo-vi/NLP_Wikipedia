@@ -1,0 +1,65 @@
+{{Short description|Private graduate college in Seattle, Washington}}
+{{Orphan|date=October 2022}}
+
+{{Infobox university
+|name = Seattle Institute of East Asian Medicine
+|native_name = 
+|latin_name = 
+|other_name = SIEAM
+|image = 
+|motto = 
+|established = 1996
+|type = [[Private university|Private]] [[Postgraduate education|graduate college]]
+|endowment = 
+|administrative_staff = 8
+|faculty = 23
+|president = Craig Mitchell
+|provost =
+|principal = 
+|rector = 
+|chancellor = 
+|vice_chancellor = 
+|dean = Katherine Taromina
+|head_label = 
+|head = 
+|students = 
+|undergrad =
+|postgrad = 19
+|doctoral = 6
+|city = [[Seattle]]
+|state = [[Washington (U.S. state)|Washington]]
+|country = United States
+|postcode = 
+|campus = 
+|free_label = 
+|free = 
+|colors = 
+|colours = 
+|mascot = 
+|nickname =
+|affiliations = 
+|website = [http://www.sieam.edu www.sieam.edu]
+|coor =        
+|logo = 
+}}
+
+The '''Seattle Institute of East Asian Medicine''' ('''SIEAM''', formerly the '''Seattle Institute of Oriental Medicine''') is a [[Private university|private]] [[Postgraduate education|graduate college]] in [[Seattle]], [[Washington (U.S. state)|Washington]]. It is accredited by the [[Accreditation Commission for Acupuncture and Herbal Medicine]]<ref>[http://www.acaom.org/accprgs.asp Accreditation Commission for Acupuncture and Oriental Medicine: Accredited Programs] {{webarchive|url=https://web.archive.org/web/20100707060908/http://www.acaom.org/accprgs.asp |date=2010-07-07 }}</ref> and authorized by the [[Washington Higher Education Coordinating Board]]<ref>Washington Higher Education Coordinating Board. [http://www.hecb.wa.gov/autheval/daa/listofcolleges.asp Washington Degree-granting Colleges and Universities] {{webarchive|url=https://web.archive.org/web/20070205031647/http://www.hecb.wa.gov/autheval/daa/listofcolleges.asp |date=2007-02-05 }}</ref> to award the degrees of Master of Acupuncture and Oriental Medicine, Master of Acupuncture, and Doctor of Acupuncture and Herbal Medicine.<ref>[http://sieam.edu/accreditation-and-approvals Seattle Institute of East Asian Medicine: Accreditation and Approvals]</ref> SIEAM's educational programs offer training in [[acupuncture]], [[tui na]], shiatsu, [[Chinese herbal medicine]], and [[Chinese medical language]].
+
+SIEAM operates a [[teaching clinic]] and herbal dispensary where graduate students both observe faculty practitioners and practice under faculty supervisors.<ref>[http://www.sieamclinic.org Teaching Clinic of the Seattle Institute of East Asian Medicine]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.sieam.edu Official website]
+
+{{authority control}}
+
+[[Category:Acupuncture organizations]]
+[[Category:Universities and colleges in Seattle]]
+[[Category:Educational institutions established in 1996]]
+[[Category:Alternative medicine organizations]]
+[[Category:1996 establishments in Washington (state)]]
+
+
+{{alt-med-stub}}

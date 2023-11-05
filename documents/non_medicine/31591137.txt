@@ -1,0 +1,30 @@
+{{Short description|Species of bacterium}}
+{{Italic title}}
+{{Speciesbox
+| genus = Brachyspira
+| species = aalborgi
+| authority = Hovind-Hougen et al. 1982
+}}
+
+'''''Brachyspira aalborgi''''' is a species of bacteria, one of the causative agents of [[intestinal spirochetosis]].<ref name="Torbenson, MDAbraham, MD2003">{{cite journal|last1=Torbenson, MD|first1=Michael|last2=Abraham, MD|first2=Susan C.|last3=Kannangai, MD|first3=Rajesh|last4=Koteish, MD|first4=Ayman|title=Colonic Spirochetosis in Children and Adults|journal=American Journal of Clinical Pathology|volume=120|issue=6|year=2003|pages=828–832|issn=0002-9173|doi=10.1309/G7U6BD85W4G3WJ0J|pmid=14671970|doi-access=free}}</ref><ref name="pmid11708739">{{cite journal |vauthors=Mikosza AS, Hampson DJ |title=Human intestinal spirochetosis: Brachyspira aalborgi and/or Brachyspira pilosicoli? |journal=[[Animal Health Research Reviews]] |volume=2 |issue=1 |pages=101–10 |date=June 2001 |doi=10.1079/AHRR200117 |pmid=11708739 |s2cid=22663799 |url=http://journals.cambridge.org/abstract_S1466252301000123 |access-date=2013-09-08}}</ref> Its cells are anaerobic, sigmoidal with tapered ends, 2 to 6&nbsp;[[µm]] long. Four [[flagellum|flagella]] are inserted at each end of the cells. The maximal cell width is about 0.2&nbsp;µm. The type strain is 513A (NCTC 11492).<ref name="pmid6186689">{{cite journal |vauthors=Hovind-Hougen K, Birch-Andersen A, Henrik-Nielsen R |title=Intestinal spirochetosis: morphological characterization and cultivation of the spirochete Brachyspira aalborgi gen. nov., sp. nov |journal=[[Journal of Clinical Microbiology]] |volume=16 |issue=6 |pages=1127–36 |date=December 1982 |doi=10.1128/JCM.16.6.1127-1136.1982 |pmid=6186689 |pmc=272552 |url=|display-authors=etal}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal |last1=Mikosza |first1=A. S. J. |last2=Hampson |first2=D. J. |last3=Koopmans |first3=M. P.G. |last4=van Duynhoven |first4=Y. T. H. P. |title=Presence of Brachyspira aalborgi and B. pilosicoli in Feces of Patients with Diarrhea |journal=Journal of Clinical Microbiology |volume=41 |issue=9 |year=2003 |pages=4492 |issn=0095-1137 |doi=10.1128/JCM.41.9.4492.2003|pmc=193795 |pmid=12958305}}
+* {{cite journal|last1=Mikosza|first1=A. S. J.|last2=La|first2=T.|last3=de Boer|first3=W. B.|last4=Hampson|first4=D. J.|title=Comparative Prevalences of Brachyspira aalborgi and Brachyspira (Serpulina) pilosicoli as Etiologic Agents of Histologically Identified Intestinal Spirochetosis in Australia|journal=Journal of Clinical Microbiology|volume=39|issue=1|year=2001|pages=347–350|issn=0095-1137|doi=10.1128/JCM.39.1.347-350.2001|pmid=11136797|pmc=87728|url=http://researchrepository.murdoch.edu.au/id/eprint/9757/1/comparative_prevalences.pdf}}
+
+==External links==
+*[https://lpsn.dsmz.de/genus/brachyspira LSPN Bacterio.net]
+*{{EOL}}
+
+{{Taxonbar|from=Q16845639}}
+
+{{DEFAULTSORT:Brachyspira aalborgi}}
+[[Category:Spirochaetes]]
+[[Category:Bacteria described in 1982]]
+
+
+{{Veterinary-med-stub}}
+{{Spirochaetae-stub}}

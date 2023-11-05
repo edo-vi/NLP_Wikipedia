@@ -1,0 +1,36 @@
+{{Short description|Publishing process}}
+'''Clandestine literature''', also called "'''underground literature'''", refers to a type of editorial and publishing process that involves self-publishing works, often in contradiction with the legal standards of a location. Clandestine literature is often an attempt to circumvent censorship, prosecution, or other suppression. In academic study, such literature may be referred to as heterodox publications (as opposed to officially sanctioned, orthodox publishing).
+==Examples==
+Examples of clandestine literature include the [[Samizdat]] literature of Soviet dissidents; the [[Aljamiado]] literature of [[Al-Andalus]] Spain;<ref>{{cite book|last=Baralt|first=Luce López|title=Islam in Spanish Literature: From the Middle Ages to the Present|year=1992|publisher=BRILL|isbn=9789004094604|pages=171–3}}</ref> and the [[nushu]] writing of some upper-class women in [[Hunan]], China, from around the 10th century to the 19th century.<ref>{{cite book|author1=Xing Lu |author2=Wenshan Jia |author3=D. Ray Heisey |title=Chinese Communication Studies: Contexts and Comparisons|year=2002|publisher=Greenwood Publishing Group|isbn=9781567506563|pages=105}}</ref> Clandestine publications were plentiful during the [[French Enlightenment|Enlightenment]] era in 18th-century France, circulating as pamphlets or manuscripts,<ref>{{cite web|title=Clandestine E-Texts from the Eighteenth Century|url=http://www.vc.unipmn.it/~mori/e-texts/|publisher=University of Turin-Vercelli|accessdate=October 20, 2012|author=Gianluca Mori|archive-url=https://web.archive.org/web/20120505135214/http://www.vc.unipmn.it/~mori/e-texts/|archive-date=May 5, 2012|url-status=dead}}</ref> usually containing texts that would have been considered highly blasphemous by the [[Ancien Régime]], or even straight out atheist. These clandestine manuscripts particularly flourished in the 1720s, and contained such controversial works as ''[[Treatise of the Three Impostors]]'' and the reverend [[Jean Meslier]]s ''Atheistic Testament''.<ref>Jonathan I. Israel, Enlightenment Contested'', Oxford University Press, 2006, pp. 722ff.</ref> Both texts were later published in edited versions by [[Voltaire]], but handwritten manuscript copies have been found in private libraries all over Europe. The clandestine literature of 18th century France also consisted of printed works produced in neighbouring Switzerland or the Netherlands and smuggled into France. These books were usually termed "philosophical works", but varied greatly in content from pornography, utopian novels, political slander and actual philosophical works by radical enlightenment philosophers like [[Baron d'Holbach]], [[Julien Offray de La Mettrie]] and [[Jean-Jacques Rousseau]].<ref>Robert Darnton, The Forbidden Best-Sellers of Pre-Revolutionary France, W.W. Norton & Company, New York, 1996.</ref>
+
+Another notable example of clandestine literature is [[Bruce Bethke|Bruce Bethke's]] short story "The Etymology of Cyberpunk"<ref>[http://www.textfiles.com/russian/cyberlib.narod.ru/lib/critica/bet_c0.html "The Etymology of Cyberpunk"] {{webarchive|url=https://web.archive.org/web/20130716211015/http://www.brucebethke.com/articles/re_cp.html |date=2013-07-16 }} from Bethke's website</ref> which spawned an entire [[Cyberpunk derivatives|cyberpunk]] universe, proposing it as a label for a new generation of '[[Punk subculture|punk]]' teenagers inspired by the perceptions inherent to the [[Information Age]].<ref>{{Cite book |last=Seed |first=David |url=https://books.google.com/books?id=Sff8TDaAjEcC&pg=PA217 |title=A Companion to Science Fiction |date=2008-04-15 |publisher=John Wiley & Sons |isbn=978-1-4051-4458-2 |language=en}}</ref><ref name=":0">{{cite book |author=Bruce Sterling |title=Mirrorshades: the Cyberpunk Anthology |year=1988 |page=XI |language=English |quote=The term captures something crucial to the work of these writers, something crucial to the decade as a whole: a new kind of integration. The overlapping of worlds that were formerly separated: the realm of high tech and the modern  underground culture... |agency=Ace Edition}}</ref>
+==Purpose and process==
+The willingness to break the law may be due to ideological reasons, when works are contrary to government positions or pose a threat to the institutions in power, but also for reasons at a formal level, when publications do not comply with legal regulations imposed for the circulation of printed works. Underground literature is a type of clandestine literature that does not necessarily have the evasion of the censorship of the time as its purpose; the goal of its writers may only be to lower publishing costs, often being funded by the authors themselves.
+
+Works that are originally published by clandestine means may eventually become established as canonical literature, such as ''[[Das Kapital]]'' and ''[[El Buscón]]''.
+
+A legitimate publisher in one jurisdiction may assist writers from elsewhere to circumvent their own laws by enabling them to publish abroad. The [[Olympia Press]] in Paris published several 20th-century English-language writers, including [[Henry Miller]], who were facing censorship and possible prosecution in their own country at the time.
+
+==See also==
+{{portal|Freedom of speech|Literature}}
+* [[Alternative media (U.S. political left)]]
+* [[Alternative media (U.S. political right)]]
+* [[Alternative media]]
+* [[Censorship]]
+* [[Grey literature]]
+* [[List of underground newspapers]] (by country and state)
+* [[News agency (alternative)]]
+* [[UK Underground]]
+* [[French resistance]]
+* [[Polish underground press]]
+* [[Samizdat]]
+* [[Underground comix]]
+* [[Underground press]]
+
+==References==
+{{Reflist}}
+
+[[Category:Censorship]]
+[[Category:Literature]]
+[[Category:Literary terminology]]
+[[Category:Publishing]]

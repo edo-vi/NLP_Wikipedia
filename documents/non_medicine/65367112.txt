@@ -1,0 +1,49 @@
+The '''Strategic Advisory Group of Experts''' ('''SAGE''') is the principal advisory group to [[World Health Organization]] (WHO) for [[vaccines]] and [[immunization]]. Established in 1999 through the merging of two previous committees, notably the Scientific Advisory Group of Experts (which served the Program for Vaccine Development) and the Global Advisory Group (which served the [[Expanded Program on Immunization|EPI]] program) by [[Director-General of the WHO]] [[Gro Harlem Brundtland]]. It is charged with advising WHO on overall global policies and strategies, ranging from vaccines and [[biotechnology]], research and development, to delivery of immunization and its linkages with other health interventions.<ref name="pd">{{cite journal|url=https://www.tandfonline.com/doi/full/10.1586/erv.10.171|title=Establishing global policy recommendations: the role of the Strategic Advisory Group of Experts on immunization|journal=Expert Review of Vaccines|volume=10|issue=2|year=2011|doi=10.1586/erv.10.171|first1=Phillipe|last1=Duclos|first2=Jean-Marie|last2=Okwo-Bele|first3=David|last3=Salisbury|pages=163–173 |pmid=21332266 |s2cid=46446841 }}</ref> SAGE is concerned not just with childhood vaccines and immunization, but all vaccine-preventable diseases.<ref>{{cite web|url=https://www.who.int/groups/strategic-advisory-group-of-experts-on-immunization/about|title=About SAGE|accessdate=29 August 2021|publisher=World Health Organization}}</ref> SAGE provide global recommendations on [[Vaccination policy|immunization policy]] and such recommendations will be further translated by [[National Immunization Technical Advisory Group|advisory committee]] at the country level.<ref>{{cite journal|title=Evidence-informed vaccination decision-making in countries: Progress, challenges and opportunities|first1=Christoph A.|last1=Steffen|first2=Louise|last2=Henaff|first3=Antoine|last3=Durupt|first4=Nathalie|last4=El Omeiri|first5=Sidy|last5=Ndiaye|first6=Nyambat|last6=Batmunkh|first7=Jayantha B. L.|last7=Liyanage|first8=Quamrul|last8=Hasan|first9=Liudmila|last9=Mosina|first10=Ian|last10=Jones|first11=Katherine|last11=O'Brien|first12=Joachim|last12=Hombach|publisher=Elsevier|journal=Vaccine|volume=39|issue=15|date=8 April 2021|pages=2146–2152 |doi=10.1016/j.vaccine.2021.02.055|pmid=33712350|display-authors=2|doi-access=free}}</ref>
+
+==Membership==
+The SAGE has 15 members, who are recruited and selected as acknowledged experts from around the world in the fields of [[epidemiology]], [[public health]], [[vaccinology]], [[paediatrics]], [[internal medicine]], [[infectious diseases]], [[immunology]], [[drug regulation]], programme management, immunization delivery, health-care administration, [[health economics]], and vaccine safety.<ref name="sagem">{{cite web |title=SAGE members |url=https://www.who.int/groups/strategic-advisory-group-of-experts-on-immunization/members |publisher=World Health Organization |accessdate=29 August 2021}}</ref> Members are appointed by Director-General of the WHO to serve an initial term of 3 years, and can only be renewed once.<ref name="pd"/>
+
+==Working groups==
+SAGE meets at least twice annually in April and November, with working groups established for detailed review of specific topics prior to discussion by the full group. Priorities of work and meeting agendas are developed by the Group in consultation with WHO.<ref name="wmsage">{{cite web |title=SAGE working mechanisms and working groups |url=https://www.who.int/groups/strategic-advisory-group-of-experts-on-immunization/working-groups |publisher=World Health Organization |accessdate=30 December 2022}}</ref>
+
+[[UNICEF]], the Secretariat of the [[GAVI Alliance]], and WHO Regional Offices participate as observers in SAGE meetings and deliberations. WHO also invites other observers to SAGE meetings, including representatives from WHO regional technical advisory groups, non-governmental organizations, international professional organizations, technical agencies, donor organizations and associations of manufacturers of vaccines and immunization technologies. Additional experts may be invited, as appropriate, to further contribute to specific agenda items.<ref name="pd"/><ref name=wmsage/>
+
+As of December 2022, working groups were established for the following vaccines:<ref name=wmsage/>
+* [[COVID-19]]
+* [[Dengue fever|Dengue]]
+* [[Ebola]]
+* [[HPV]]
+* [[Meningococcal vaccines]] and vaccination
+* [[Pneumococcal vaccines]]
+* [[Polio vaccine]]
+* Programme Advisory Group (PAG) for the [[Malaria Vaccine]] Implementation Programme
+* [[Smallpox vaccine|Smallpox]] and [[Monkeypox]] vaccines
+
+==See also==
+* [[National Immunization Technical Advisory Group]], country-level advisory committee
+==References==
+{{reflist}}
+{{Vaccines}}
+
+[[Category:World Health Organization| ]]
+[[Category:Public health]]
+[[Category:Health policy]]
+[[Category:International medical and health organizations]]
+[[Category:Organizations established in 1999]]
+[[Category:United Nations Development Group]]
+[[Category:United Nations Economic and Social Council]]
+[[Category:Organizations associated with the COVID-19 pandemic]]
+[[Category:Vaccines]]
+[[Category:Vaccination]]
+[[Category:Virology]]
+[[Category:Immunology]]
+[[Category:Biotechnology organizations]]
+[[Category:Biology organizations]]
+[[Category:Immunology organizations]]
+[[Category:Infectious disease organizations]]
+[[Category:Epidemiology organizations]]
+[[Category:Pediatric organizations]]
+[[Category:Pharmacy organizations]]
+
+
+{{COVID-19-stub}}

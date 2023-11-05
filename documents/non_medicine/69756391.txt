@@ -1,0 +1,33 @@
+{{short description|Aquarium disease}}
+{{Infobox medical condition (new)
+| name          = Iridovirus dwarf gourami disease
+| pronounce     = 
+| image         = Dwarf gourami infected by Aphanomyces invadans.png
+| caption       = Dwarf gouramis infected with another disease displaying [[ulcer]]s, a common symptom of DGD
+| field         = [[List of aquarium diseases|Aquarium disease]]
+| symptoms      = Loss of colour, loss of appetite and deterioration of muscle.<ref>{{cite web|url= https://helpusfish.com/1/17/dwarf-gourami-disease-guide.html | title=DGD|accessdate=14 January 2022|work=helpusfish}}</ref> 
+| complications = [[Necrosis]] of the [[kidney]] and [[spleen]]
+| onset         = 1 day-6 months post exposure
+| duration      = 
+| causes        = ''[[Iridovirus]]'' likened by [[inbreeding]]
+| risks         = Highly infectious amongst [[Gourami]]
+| diagnosis     = Observation of symptoms
+| differential  = 
+| prevention    = Obtaining [[Dwarf gourami]] from reputable sources, keeping them in a low-stress environment. Once infected, avoid adding any gourami to the aquarium for a period of three months 
+| treatment     = None, always fatal
+| medication    = None
+| frequency     =
+| deaths        =
+| alt           = 
+}}
+
+'''Iridovirus dwarf gourami disease''' is a widespread consequence caused by the poor genetics of the [[dwarf gourami]], a popular fish in the aquarium trade. It is the result of severe inbreeding.<ref>{{cite web|url= https://tankaddict.com/dwarf-gourami/ | title=DG inbreeding|accessdate=14 January 2022|work=tankaddict}}</ref> Despite being unable to develop the disease, other gourami become prone to infection if a dwarf gourami in the tank gets the ''[[Iridovirus]]''. Once symptoms develop, the gourami's mortality rate reaches 100% and there is no cure nor treatment.
+
+==References==
+{{reflist}}
+
+[[Category:Fish viral diseases]]
+
+
+{{Fish-stub}}
+{{Veterinary-med-stub}}

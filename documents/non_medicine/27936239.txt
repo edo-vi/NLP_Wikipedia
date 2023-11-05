@@ -1,0 +1,13 @@
+'''Malignant [[edema]]''' ([[American and British English spelling differences|or]] malignant oedema<ref>'Oedema' is the standard form defined in the ''[[Concise Oxford English Dictionary]]'' (2011), with the precision that the spelling in the United States is 'edema'.</ref>) is an acute, generally rapidly fatal wound infection ([[Bacteremia|toxemia]]) most common in grazing animals. It affects [[cattle]], [[horse]]s, [[sheep]], [[goat]]s, [[pig]]s, and [[deer]]. It is caused by one or more species of bacteria in the genus ''[[Clostridium]]''.<ref>[http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/50706.htm The Merck Veterinary Manual, "Malignant Edema"]</ref><ref>[http://www.petalia.com.au/Templates/StoryTemplate_Process.cfm?Story_No=1484 A World of Petcare, "Malignant Oedema"] {{webarchive|url=https://web.archive.org/web/20110706110932/http://www.petalia.com.au/Templates/StoryTemplate_Process.cfm?Story_No=1484 |date=2011-07-06 }}</ref>
+
+"A similar infection in humans is not uncommon."<ref>[http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/50706.htm The Merck Veterinary Manual, "Malignant Edema"]</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Ruminant diseases]]
+[[Category:Animal bacterial diseases]]
+[[Category:Swine diseases]]
+
+
+{{veterinary-med-stub}}

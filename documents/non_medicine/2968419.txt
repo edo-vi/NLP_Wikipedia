@@ -1,0 +1,139 @@
+{{Short description|Philosophical experiment}}
+
+[[Image:China brain.png|right|thumb|China brain. The population of [[China]] is 1.4×10<sup>9</sup> people, while a human brain is estimated to have ≈10<sup>11</sup> neurons.]]
+
+{{Artificial intelligence}}
+
+In the [[philosophy of mind]], the '''China brain''' [[thought experiment]] (also known as the '''Chinese Nation''' or '''Chinese Gym''') considers what would happen if each member of the [[China|Chinese nation]] were asked to simulate the action of one [[neuron]] in the brain, using telephones or [[walkie-talkie]]s to simulate the [[axons]] and [[dendrites]] that connect neurons. Would this arrangement have a [[mind]] or [[consciousness]] in the same way that brains do?
+
+Early versions of this scenario were put forward in 1961 by [[Anatoly Dneprov (writer)|Anatoly Dneprov]],<ref name="Dneprov1961">{{cite journal
+ | last = Dneprov
+ | first = Anatoly
+ | author-link = Anatoly Dneprov (writer)
+ | title = The Game
+ | journal = Knowledge—Power
+ | volume = 1961
+ | issue = 5
+ | pages = 39–41
+ | year = 1961
+ |url=http://q-bits.org/images/Dneprov.pdf
+ | language = Russian
+}}</ref><ref name="MCCS">{{cite web
+ |url=http://www.hardproblem.ru/en/posts/Events/a-russian-chinese-room-story-antedating-searle-s-1980-discussion/
+ |title = A Russian Chinese Room story antedating Searle's 1980 discussion
+ |author = Vadim Vasiliev, Dmitry Volkov, Robert Howell
+ |date = 15 June 2018
+ |website = hardproblem.ru
+ |publisher = Moscow Center for Consciousness Studies
+ |access-date = 13 July 2021
+ |language = English
+ |quote = A. Dneprov: "The Game" (originally published in 1961)
+}}</ref><ref name="Dneprov1985">{{cite book
+ | last = Dneprov
+ | first = Anatoly
+ | author-link = Anatoly_Dneprov_(writer)
+ | title = The Clay God. Stories and Short Stories
+ | chapter = The Game (1961)
+ | series = Series "Galaxy"
+ | volume = 66
+ | date = 1985
+ | publisher = Georgi Bakalov
+ | location = Varna
+ | language = Bulgarian
+ |url=https://chitanka.info/book/155-glinenijat-bog
+ }}</ref> in 1974 by Lawrence Davis,<ref name="Cole2009">{{cite book
+ | author = David Cole
+ | title = The Chinese Room Argument
+ | chapter = Section 2.3 The Chinese Nation
+ | publisher = Stanford Encyclopedia of Philosophy
+ | chapter-url=http://plato.stanford.edu/entries/chinese-room/#2.3
+ | year = 2009
+}}</ref> and again in 1978 by [[Ned Block]].<ref name="Block1978">{{cite journal
+ | author = Ned Block
+ | title = Troubles with functionalism
+ | journal = Minnesota Studies in the Philosophy of Science
+ | volume = 9
+ | pages = 261–325
+ | year = 1978
+ |url=http://w3.uniroma1.it/cordeschi/Articoli/block.htm
+ | access-date = 2011-06-23
+ | archive-url=https://web.archive.org/web/20110927150409/http://w3.uniroma1.it/cordeschi/Articoli/block.htm
+ | archive-date = 2011-09-27
+ | url-status = dead
+ }}</ref> Block argues that the China brain would not have a mind, whereas [[Daniel Dennett]] argues that it would.<ref name="Dennett1991">{{cite book
+ | author = Daniel Dennett
+ | title = Consciousness Explained
+ | chapter = Chapter 14. Consciousness Imagined
+ | publisher = Back Bay Books
+ | pages = 431–455
+ | year = 1991
+}}</ref> The China brain problem is a special case of the more general problem whether minds could exist within other, larger minds.<ref name="Georgiev2017">{{cite book
+ | last = Georgiev
+ | first = Danko D.
+ | title = Quantum Information and Consciousness: A Gentle Introduction
+ | publisher = CRC Press
+ | edition = 1st
+ | date = 2017-12-06
+ | location = Boca Raton
+ | pages = 362
+ |url=https://books.google.com/books?id=OtRBDwAAQBAJ
+ | doi = 10.1201/9780203732519
+ | oclc = 1003273264
+ | isbn =  9781138104488
+ | zbl = 1390.81001}}</ref>
+
+The [[Chinese room]] scenario analyzed by [[John Searle]],<ref name="Searle1980">{{cite journal
+ | author = John R. Searle
+ | title = Minds, brains, and programs
+ | journal = Behavioral and Brain Sciences
+ | volume = 3
+ | pages = 417–457
+ | year = 1980
+ | doi = 10.1017/S0140525X00005756
+ | issue = 3
+ | s2cid = 55303721
+ |url=http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=D9701D026CD995739B0CD29A34B4FECD?doi=10.1.1.83.5248&rep=rep1&type=pdf
+}}</ref> is a similar thought experiment in philosophy of mind that relates to [[artificial intelligence]]. Instead of people, each modeling a single neuron of the brain, in the Chinese room clerks who do not speak Chinese accept notes in Chinese and return an answer in Chinese according to a set of rules without the people in the room ever understanding what those notes mean. In fact, the original short story [[Anatoly_Dneprov_(writer)#The_Game|''The Game'']] (1961) by the [[Soviet]] [[physicist]] and [[writer]] Anatoly Dneprov contains both the China brain and the Chinese room scenarios as follows: All 1400 delegates of the Soviet Congress of Young Mathematicians willingly agree to take part in a "purely mathematical game" proposed by Professor Zarubin. The game requires the execution of a certain set of rules given to the participants, who communicate with each other using sentences composed only of the words "zero" and "one". After several hours of playing the game, the participants have no idea of what is going on as they get progressively tired. One girl becomes too dizzy and leaves the game just before it ends. On the next day, Professor Zarubin reveals to everyone's excitement that the participants were simulating a computer machine that translated a sentence written in Portuguese "Os maiores resultados são produzidos por – pequenos mas contínuos esforços", a language that nobody from the participants understood, into the sentence in Russian "The greatest goals are achieved through minor but continuous ekkedt", a language that everyone from the participants understood. It becomes clear that the last word, which should have been "efforts", is mistranslated due to the dizzy girl leaving the simulation.<ref name="Dneprov1961"/><ref name="MCCS"/><ref name="Dneprov1985"/>
+
+==Background==
+Many theories of [[mental states]] are [[materialism|materialist]], that is, they describe the mind as the behavior of a physical object like the brain. One formerly prominent example is the [[Identity theory of mind|identity theory]], which says that mental states are brain states. One criticism is the problem of [[multiple realizability]]. The physicalist theory that responds to this is [[Functionalism (philosophy of mind)|functionalism]], which states that a mental state can be whatever functions as a mental state. That is, the mind can be composed of [[neuron]]s, or it could be composed of [[wood]], [[rock (geology)|rock]]s or [[toilet paper]], as long as it provides mental functionality.
+
+==The thought experiment==
+Suppose that the whole nation of China were reordered to simulate the workings of a single brain (that is, to act as a mind according to functionalism). Each Chinese person acts as (say) a neuron, and communicates by special [[two-way radio]] in corresponding way to the other people. The current mental state of the China brain is displayed on satellites that may be seen from anywhere in China. The China brain would then be connected via radio to a body, one that provides the sensory inputs and behavioral outputs of the China brain.
+
+Thus, the China brain possesses all the elements of a functional description of mind: sensory inputs, behavioral outputs, and internal mental states causally connected to other mental states. If the nation of China can be made to act in this way, then, according to functionalism, this system would have a [[mind]]. Block's goal is to show how [[Intuition (knowledge)|unintuitive]] it is to think that such an arrangement could create a mind capable of thoughts and feelings.
+
+==Consciousness==
+The China brain argues that consciousness is a problem for functionalism. Block's Chinese nation presents a version of what is known as the [[absent qualia]] objection to functionalism because it purports to show that it is possible for something to be functionally equivalent to a human being and yet have no conscious experience. A creature that functions like a human being but doesn't feel anything is known as a "[[philosophical zombie]]". So the absent qualia objection to functionalism could also be called the "zombie objection".
+
+==Criticisms==
+Some philosophers, like [[Daniel Dennett]], have concluded that the China brain does create a mental state.<ref name="Dennett1991"/> Functionalist philosophers of mind endorse the idea that something like the China brain can realise a mind, and that neurons are, in principle, not the only material that can create a mental state.<ref name="Feser2006">{{cite book
+ | author = Edward Feser
+ | title = Philosophy of Mind: A Beginner's Guide
+ | chapter = The "Chinese nation" argument
+ | publisher = Oneworld
+ | location = Oxford
+ | pages = 89–93
+ | year = 2006
+}}</ref>
+
+==See also==
+*[[Alan Turing]]
+*[[Behaviorism]]
+*[[Blockhead argument]]
+*[[David Chalmers]]
+*[[Dualism (philosophy of mind)|Dualism]]
+*[[Eliminative materialism]]
+*[[Functionalism (philosophy of mind)]]
+*[[Hilary Putnam]]
+*[[Neutral monism]]
+*[[Property dualism]]
+*[[Systems theory]]
+* [[Emergent phenomena]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:China brain}}
+[[Category:Philosophy of artificial intelligence]]
+[[Category:Thought experiments in philosophy of mind]]

@@ -1,0 +1,16 @@
+{{Infobox Chinese|s=过秦论|t=過秦論|p =guò Qín lùn|mc=/kuɑ d͡ziɪn luən<sup>H</sup>/ | l= Disquisition Finding Fault with Qin}}
+[[Confucianism|Confucian]] historians condemned the emperor [[Qin Shi Huang]] in the '''''Ten Crimes of Qin''''', a list that was compiled to highlight his tyrannical actions. The famous Han poet and statesman [[Jia Yi]] concluded his essay '''''The Faults of Qin''''' ([[:zh:过秦论]]) with what was to become the standard Confucian judgment of the reasons for Qin's collapse. Jia Yi's essay, admired as a masterpiece of [[rhetoric]] and [[reasoning]], was copied into two great Han histories and has had a far-reaching influence on Chinese political thought as a classic illustration of Confucian theory. He explained the ultimate weakness of Qin as a result of its ruler's ruthless pursuit of power, the precise factor which had made it so powerful; for as [[Confucius]] had taught, the strength of a government ultimately is based on the support of the people and virtuous conduct of the ruler.  <ref>William Thedore de Bary, ed. ''Sources of Chinese Tradition'' (New York: Columbia University Press, 1st ed. 1960) pp. [https://books.google.com/books?id=TQN9nwkkXGsC&dq=faults+of+qin&pg=PA228 228-231]</ref>
+==References==
+
+{{Reflist}}
+
+{{DEFAULTSORT:Ten Crimes Of Qin}}
+{{Qin dynasty topics}}
+
+[[Category:Confucian texts]]
+[[Category:Historiography of China]]
+[[Category:Qin dynasty]]
+[[Category:Qin Shi Huang]]
+
+{{China-hist-stub}}
+{{Confucianism-stub}}

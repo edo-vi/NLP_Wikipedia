@@ -1,0 +1,30 @@
+{{Short description|Species of virus}}
+{{more citations needed|date=September 2011}}
+{{virusbox
+| image = Journal.pone.0142415.g001.B.png
+| image_caption = [[Transmission electron micrograph|TEM]] micrograph of Cardiovirus A [[virions]] <br> bar scale equals 100 nm
+| parent = Cardiovirus
+| species = Cardiovirus A
+| synonyms = *Encephalomyocarditis virus (EMCV)
+}}
+'''Cardiovirus A''' is a member of the ''[[Picornaviridae]]'' family. Infection with the virus causes encephalomyocarditis and reproductive disease in [[pig]]s. Although a variety of [[mammals]] may host the virus, pigs are classed as the domestic host as they are most easily infected. It is thought to be spread by [[rodents]].
+
+The disease can be found worldwide but is of greatest economic importance in tropical areas. It is not thought to be [[zoonotic]].
+
+==Clinical signs and diagnosis==
+[[Domestic pig|Piglets]] that are infected present with [[encephalitis]], [[myocarditis]] and sudden death. Mortality rates can be high. If a [[Pig|sow]] is infected whilst pregnant she may present with a variety of reproductive signs including [[infertility]], mummification, [[abortion]], [[still birth]] and the birth of weak piglets. A variety of gastrointestinal, respiratory and systemic signs may also be seen as the virus infects multiple body systems.
+
+A presumptive diagnosis can be made based on the history and clinical signs. Virus isolation is necessary for definitive diagnosis. [[Autopsy|Postmortem examination]] of piglets may or may not reveal cardiac pathology but [[histopathology]] should show cardiac and brain abnormalities. Signs in aborted fetuses are highly variable.
+
+==References==
+* '''Encephalomyocarditis Virus''', reviewed and published by Wikivet at http://en.wikivet.net/Encephalomyocarditis_Virus, accessed 06/09/2011{{rs|date=September 2021}}
+
+{{Taxonbar|from=Q24722998}}
+
+[[Category:Animal viral diseases]]
+[[Category:Cardioviruses]]
+[[Category:Swine diseases]]
+
+
+{{Virus-stub}}
+{{Veterinary-med-stub}}

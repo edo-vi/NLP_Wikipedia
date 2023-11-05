@@ -1,0 +1,627 @@
+{{short description|Russian rhythmic gymnast}}
+{{family name hatnote|Alekseyevna|Averina|lang=Eastern Slavic}}
+{{Infobox gymnast
+|name= Arina Averina
+|image= Arina Averina 2017 (cropped).jpg
+|imagesize=
+|caption= Arina Averina at the [[2017 Rhythmic Gymnastics European Championships|2017 European Championships]]
+|fullname= Arina Alexeevna Averina
+|altname=
+|nickname= Tiger cub, 
+Arisha
+|country= {{RUS}}
+|formercountry=
+|birth_date= {{birth date and age|df=yes|1998|08|13}}
+|birth_place= [[Zavolzhye, Nizhny Novgorod Oblast|Zavolzhye]], [[Nizhny Novgorod Oblast]]
+|club= CSKA
+|headcoach= [[Irina Viner]]
+|assistcoach= [[Yulia Barsukova]]
+|formercoach= [[Vera Shatalina]]
+Larisa Belova 
+|choreographer= [[Irina Zenovka]], Tatiana Pomerantseva
+|music=
+|eponymousskills=
+|worldranking= '''6''' ''[[2019 FIG Rhythmic Gymnastics World Cup series|WC]]''<ref>{{cite web |url=
+https://www.fig-gymnastics.com/site/rankings/ranking_rg.php |title=Rhythmic Gymnastics World Ranking 2019 Individual Competitions|date= |website=fig-gymnastics.com |access-date=2019-08-16 |language=en }}</ref> (''[[2019 FIG Rhythmic Gymnastics World Cup series|2019]]'')<br/>'''14''' ''[[2018 FIG Rhythmic Gymnastics World Cup Series|WC]]''<ref>{{cite web |url=https://www.fig-gymnastics.com/site/pdf/rankings/RG-World-Ranking-2018-RGI.pdf |title=Rhythmic Gymnastics World Ranking 2018 Individual Competitions|date= |website=fig-gymnastics.com |access-date=2019-08-16 |language=en }}</ref> '''13''' ''[[2018 FIG Rhythmic Gymnastics World Cup Series|WCC]]''<ref>{{cite web |url=https://www.fig-gymnastics.com/site/pdf/rankings/RG-Challenge-Ranking-2018-RGI.pdf |title=Rhythmic Gymnastics Challenge Ranking 2018 Individual Competitions|date= |website=fig-gymnastics.com |access-date=2019-08-16 |language=en }}</ref> (''[[2018 FIG Rhythmic Gymnastics World Cup Series|2018]]'')<br/>'''2''' ''[[2017 FIG Rhythmic Gymnastics World Cup Series|WC]]'' '''13''' ''[[2017 FIG Rhythmic Gymnastics World Cup Series|WCC]] ([[2017 FIG Rhythmic Gymnastics World Cup Series|2017]])'' <ref name=figws17/><br/>'''12''' (''[[2016 FIG Rhythmic Gymnastics World Cup Series|2016]]'')<ref name=figws16/>
+|show-medals = yes
+|medaltemplates= <!-- see [[Template:MedalRelatedTemplates]] -->
+{{MedalSport | [[Rhythmic Gymnastics]]}}
+{{MedalCountry | {{RUS}} and [[File:RGF team flag (2021 WCh).svg|border|23px|RGF]] [[Russian Rhythmic Gymnastics Federation|RGF]]}}
+{{MedalCount
+ | [[Rhythmic Gymnastics World Championships|World Championships]] | 5|6|5
+ | [[Rhythmic Gymnastics European Championships|European Championships]] | 9|0|1
+ | [[Rhythmic Gymnastics Grand Prix Series|Grand Prix Final]] | 3|3|1
+ | [[World Games]] | 3|0|1
+ | '''Total'''|'''20'''|'''9'''|'''8'''
+ }}
+{{MedalCompetition| [[Rhythmic Gymnastics World Championships|World Championships]]}}
+{{MedalGold|[[2017 World Rhythmic Gymnastics Championships|2017 Pesaro]]|Ball}}
+{{MedalGold|[[2017 World Rhythmic Gymnastics Championships|2017 Pesaro]]|Ribbon}}
+{{MedalGold|[[2018 Rhythmic Gymnastics World Championships|2018 Sofia]]|Team}}
+{{MedalGold|[[2019 Rhythmic Gymnastics World Championships|2019 Baku]]|Team}}
+{{MedalGold|[[2021 Rhythmic Gymnastics World Championships|2021 Kitakyushu]]|Team}}
+{{MedalSilver|[[2017 World Rhythmic Gymnastics Championships|2017 Pesaro]]|All-around}}
+{{MedalSilver|[[2017 World Rhythmic Gymnastics Championships|2017 Pesaro]]|Hoop}}
+{{MedalSilver|[[2019 World Rhythmic Gymnastics Championships|2019 Baku]]|Ball}}
+{{MedalSilver|[[2019 World Rhythmic Gymnastics Championships|2019 Baku]]|All-around}}
+{{MedalSilver|[[2021 Rhythmic Gymnastics World Championships|2021 Kitakyushu]]|Ball}}
+{{MedalSilver|[[2021 Rhythmic Gymnastics World Championships|2021 Kitakyushu]]|Clubs}}
+{{MedalBronze|[[2017 World Rhythmic Gymnastics Championships|2017 Pesaro]]|Clubs}}
+{{MedalBronze|[[2018 Rhythmic Gymnastics World Championships|2018 Sofia]]|Hoop}}
+{{MedalBronze|[[2018 Rhythmic Gymnastics World Championships|2018 Sofia]]|Clubs}}
+{{MedalBronze|[[2021 Rhythmic Gymnastics World Championships|2021 Kitakyushu]]|Ribbon}}
+{{MedalBronze|[[2021 Rhythmic Gymnastics World Championships|2021 Kitakyushu]]|All-around}}
+{{MedalCompetition| [[European Rhythmic Gymnastics Championships|European Championships]]}}
+{{MedalGold|[[2017 Rhythmic Gymnastics European Championships|2017 Budapest]]|Team}}
+{{MedalGold|[[2017 Rhythmic Gymnastics European Championships|2017 Budapest]]|Ball}}
+{{MedalGold|[[2017 Rhythmic Gymnastics European Championships|2017 Budapest]]|Clubs}}
+{{MedalGold|[[2018 Rhythmic Gymnastics European Championships|2018 Guadalajara]]|All-around}}
+{{MedalGold|[[2019 Rhythmic Gymnastics European Championships|2019 Baku]]|Team}}
+{{MedalGold|[[2019 Rhythmic Gymnastics European Championships|2019 Baku]]|Ball}}
+{{MedalGold|[[2019 Rhythmic Gymnastics European Championships|2019 Baku]]|Clubs}}
+{{MedalGold|[[2021 Rhythmic Gymnastics European Championships|2021 Varna]]|All-around}}
+{{MedalGold|[[2021 Rhythmic Gymnastics European Championships|2021 Varna]]|Team}}
+{{MedalBronze|[[2021 Rhythmic Gymnastics European Championships|2021 Varna]]|Ribbon}}
+{{MedalCompetition | [[Rhythmic Gymnastics Grand Prix Series|Grand Prix Final]]}}
+{{MedalGold |[[Rhythmic Gymnastics Grand Prix Series|2019 Brno]]|Ball}}
+{{MedalGold |[[Rhythmic Gymnastics Grand Prix Series|2019 Brno]]|Hoop}}
+{{MedalGold |[[Rhythmic Gymnastics Grand Prix Series|2019 Brno]]|Ribbon}}
+{{MedalSilver |[[Rhythmic Gymnastics Grand Prix Series|2016 Eilat]]|Ribbon}}
+{{MedalSilver |[[Rhythmic Gymnastics Grand Prix Series|2016 Eilat]]|Hoop}}
+{{MedalSilver |[[Rhythmic Gymnastics Grand Prix Series|2019 Brno]] |All-around}}
+{{MedalBronze |[[Rhythmic Gymnastics Grand Prix Series|2016 Eilat]]|All-around}}
+{{MedalCompetition|[[Gymnastics at the World Games|World Games]]}}
+{{MedalGold | [[Gymnastics at the World Games|2017 Wroclaw]] | Hoop }}
+{{MedalGold | [[Gymnastics at the World Games|2017 Wroclaw]] | Ball }}
+{{MedalGold | [[Gymnastics at the World Games|2017 Wroclaw]] | Ribbon }}
+{{MedalBronze | [[Gymnastics at the World Games|2017 Wroclaw]] | Clubs }}
+}}
+
+'''Arina Alekseyevna Averina''' ({{lang-ru|Арина Алексеевна Аверина}}; born 13 August 1998)<ref>{{cite web |url=http://a.longinestiming.com/File/0000100100FFFFFFFFFFFFFFFFFFFF01 |title=Entry List by NOC |publisher=a.longinestiming.com |access-date=7 June 2018 |archive-url=https://web.archive.org/web/20180612143607/http://a.longinestiming.com/File/0000100100FFFFFFFFFFFFFFFFFFFF01 |archive-date=12 June 2018 |url-status=dead }}</ref> is a Russian individual [[Rhythmic gymnastics|rhythmic gymnast]]. She is a [[2020 Summer Olympics]] finalist, a two-time ([[2017 World Rhythmic Gymnastics Championships|2017]], [[2019 World Rhythmic Gymnastics Championships|2019]]) [[Rhythmic Gymnastics World Championships|world]] all-around silver medalist, a two-time European all-around champion [[2018 Rhythmic Gymnastics European Championships|(2018]], [[2021 Rhythmic Gymnastics European Championships|2021)]] and the [[Rhythmic Gymnastics Grand Prix Series|2016 Grand Prix Final]] all-around bronze medalist. She is a three-time (2019-2021) [[Russian Rhythmic Gymnastics National Championships|Russian national]] all-around champion and a three-time (2015, 2017, 2022) [[Russian Rhythmic Gymnastics National Championships|Russian national]] all-around medalist. Her [[Twin|identical twin]] sister [[Dina Averina]] is also a competitive [[Rhythmic gymnastics|rhythmic gymnast]].
+
+== Personal life ==
+Arina Averina was born to Ksenia Averina and her husband Alexey Averin on August 13, 1998, twenty minutes before her identical twin sister [[Dina Averina|Dina]]. Their sister, Polina, is three years older.{{cn|date=May 2021}} The twins began gymnastic training at the age of four. Arina‘s mole on her right cheekbone near her ear is slightly higher than her sister Dina’s. A scar above Arina‘s right eye is the result of an accident with a club.<ref name=WC17D1/> Arina and Dina share the same [[instagram]] account.{{fact|date=March 2022}}
+
+On 18 March 2022, Averina, as well as her sister, participated in the [[2022 Moscow rally|Moscow rally]] in support of the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].<ref>{{cite news |title=Большунов, Рылов, сестры Аверины, Тарасова и Морозов, Синицина и Кацалапов участвуют в митинге «Za мир без нацизма! Zа Россию! Zа Президентa!» в Лужниках |url=https://www.sports.ru/skiing/1107687090-bolshunov-rylov-sestry-averiny-tarasova-i-morozov-siniczina-i-kaczalap.html |work=sports.ru |date=18 March 2022 |language=ru}}</ref>
+
+==Career==
+===Junior===
+The Averina twins trained under their first coach Larisa Belova until they became members of the Russian national team. They then trained in the Olympic Training Center in [[Moscow]], where they are now coached by [[Vera Shatalina]].{{fact|date=March 2022}}
+
+The Averinas began appearing in international competitions in 2011. They competed at the 2011 Russian-Chinese Youth Games, where Arina finished 5th in the all-around and Dina  won the all-around gold medal. In 2012, Arina finished 11th at the Russian Junior Championships.<ref>{{cite web |title=2012 Russian Championships |url=http://r-gymnastics.com/v-kazani-zavershilos-pervenstvo-rossii-po-khudozhestvennoi-gimnastike |publisher=r-gymnastics |date=12 February 2012 |access-date=7 April 2014 |archive-date=27 March 2019 |archive-url=https://web.archive.org/web/20190327135756/http://r-gymnastics.com/v-kazani-zavershilos-pervenstvo-rossii-po-khudozhestvennoi-gimnastike |url-status=dead }}</ref> Arina and Dina both competed at the [[Venera Zaripova|Venera Cup]] in [[Eilat]], Israel where Arina won bronze in the all-around; she also took silver in hoop and bronze medals in ball, clubs, and ribbon.<ref>{{cite web |title=VENERA CUP-2012 |url=http://r-gymnastics.com/v-eilate-proshel-turnir-po-khudozhestvennoi-gimnastike-venera-cup-2012 |publisher=r-gymnastics |date=23 March 2012 |access-date=4 March 2017 |archive-date=27 March 2019 |archive-url=https://web.archive.org/web/20190327135756/http://r-gymnastics.com/v-eilate-proshel-turnir-po-khudozhestvennoi-gimnastike-venera-cup-2012 |url-status=dead }}</ref> At the International MTM Cup in [[Ljubljana]] (with teammates [[Aleksandra Soldatova]] and Dina), she won the Team gold medal.{{fact|date=March 2022}}
+
+In 2013, Arina finished 5th at the [[Russian Rhythmic Gymnastics National Championships|2013 Russian Junior Championships]].<ref>{{cite web |title=2013 Russian Junior Championships |url=http://f3.s.qip.ru/uX0nxSRp.jpg |publisher=rg4u.clan|date=10 February 2013|access-date=10 September 2014|archive-url=https://web.archive.org/web/20160304052428/http://f3.s.qip.ru/uX0nxSRp.jpg |archive-date=4 March 2016 |url-status=dead}}</ref> She competed in the Junior division at the Happy Caravan Cup in [[Tashkent]] and won Team gold with Dina Averina. At the 2013 Russian Spartakiada's 6th Summer Student Games, Arina won the all-around silver medal.<ref>{{cite web |title=Arina and Dina Averina - young stars of Zavolzhye |url=http://r-gymnastics.com/arina-i-dina-averiny-yunye-zvezdochki-iz-zavolzhya |publisher=r-gymnastics |date=11 September 2013 |access-date=7 April 2014 |archive-date=21 March 2019 |archive-url=https://web.archive.org/web/20190321194736/http://r-gymnastics.com/arina-i-dina-averiny-yunye-zvezdochki-iz-zavolzhya |url-status=dead }}</ref>
+
+===Senior===
+
+==== 2014 ====
+In 2014 Season, Arina debuted at the [[Rhythmic Gymnastics Grand Prix Series|2014 Moscow Grand Prix]] competing in the senior international tournament division where she won the all-around silver medal behind her twin sister Dina . Arina then competed at the [[Rhythmic Gymnastics Grand Prix Series|2014 Grand Prix Holon]] international tournament and won the all-around gold. Her next competition was at the 2014 Baltic Hoop where she won the all-around silver behind Aleksandra Soldatova. In the event finals: she won gold in ball, 2 silver medals (clubs, ribbon) and bronze in hoop. On April 23–27, Arina competed in senior nationals at the [[Russian Rhythmic Gymnastics National Championships|2014 Russian Championships]] where she finished 7th in the all-around.{{fact|date=March 2022}}
+
+==== 2015 ====
+In 2015 season, Arina started her season at the [[Rhythmic Gymnastics Grand Prix Series|2015 Moscow Grand Prix]]. she then competed at the Corbeil-Essonnes International Rhythmic Gymnastics Tournament where she won the all-around gold medal ahead of twin sister Dina Averina, she won gold in all 4 of the event finals (hoop, ball, clubs, ribbon). On August 7–9, Arina competed at the MTK Budapest placing 3rd in the all-around behind [[Maria Titova]]. In apparatus finals, she won a silver in ball and bronze in hoop. Arina then took the silver medal in the all-around at the 2015 Dundee International Tournament in [[Sofia]], behind her twin sister Dina.{{fact|date=March 2022}}
+
+==== 2016 ====
+In 2016, Arina began her season competing at the [[Rhythmic Gymnastics Grand Prix Series|2016 Grand Prix Moscow]] taking third place in the all-around, in apparatus finals: she won gold in ribbon and silver in clubs.<ref>{{cite web|title= Rhythmic Gymnastics Grand Prix starts into Olympic Season |url=http://www.gymmedia.com/Rhythmic-Gymnastics/Also-Rhythmic-Gymnastics-Grand-Prix-starts-Olympic-Season |publisher=Gymmedia |date=21 February 2016}}.</ref> On March 17–20, Arina then competed at the [[2016 FIG Rhythmic Gymnastics World Cup Series|2016 Lisboa World Cup]] where she finished 5th in the all-around with a total of 70.400 points, she qualified 2 event finals taking silver in ribbon (tied with teammate Aleksandra Soldatova) and placed 4th in ball. At the 30th [[Rhythmic Gymnastics Grand Prix Series|Thiais Grand Prix]] event in [[Paris]], Arina finished 5th in the all-around and qualified 2 apparatus finals finishing 4th in clubs and ribbon.<ref>{{cite web|title= Grand Prix: 30th International Thiais 2016 |url=http://www.gymmedia.com/Rhythmic-Gymnastics/Grand-Prix-30th-International-Thiais-2016 |publisher=Gymmedia |date=27 March 2016}}</ref> Arina finished 4th in the all-around at the [[Russian Rhythmic Gymnastics National Championships|2016 Russian Championships]] held in [[Sochi]].<ref>{{cite web|url=http://gimnastika.pro/press/news/the_results_of_the_russian_championship_2016_in_th.html |title= 2016 Russian Championships|access-date=2016-04-17}}</ref> On May 6–8, Arina competed at the [[Rhythmic Gymnastics Grand Prix Series|Brno Grand Prix]] where she finished 5th in the all-around behind [[Victoria Veinberg Filanovsky]]. On May 13–15, Arina won the all-around silver at the [[Rhythmic Gymnastics Grand Prix Series|Bucharest Grand Prix]] with a total of 73.600 points, she qualified to all apparatus finals: taking silver in ball, bronze in clubs, ribbon and 4th in hoop. On May 27–29, Arina finished 4th in the all-around at the [[2016 FIG Rhythmic Gymnastics World Cup Series|2016 Sofia World Cup]] with a total of 73.450 points, she qualified to all apparatus finals and won bronze in hoop, clubs, placed 4th in ball, 7th in ribbon. On July 1–3, Arina competed at the [[2016 FIG Rhythmic Gymnastics World Cup Series|2016 Berlin World Cup]] however, she withdrew after the first day of qualifications because she suffered a hand injury.<ref name=WCberlin16/> On September 22–24, Arina competed at the [[Rhythmic Gymnastics Grand Prix Series|2016 Grand Prix Final]] in [[Eilat]], Israel where she won the all-around bronze medal with a total of 73.916 points, she qualified in 2 apparatus finals taking silver medals in hoop and ribbon.{{fact|date=March 2022}}
+
+==== 2017 ====
+[[File:Arina Averina Ribbon 2017.jpg|left|thumb|380px|Arina at the [[Rhythmic Gymnastics Grand Prix Series|2017 Grand Prix Moscow]]]]In 2017, Arina's season began in competition at the [[Rhythmic Gymnastics Grand Prix Series|2017 Grand Prix Moscow]] where she won the all-around bronze medal, she qualified to 1 apparatus final winning the silver medal in ribbon behind her twin sister Dina.<ref>{{cite web |title=Dina Averina turns heads at the Moscow Grand Prix |url=http://www.ueg.org/en/Dina-Averina-turns-heads-at-the-Moscow-Grand-Prix-2017-02-20-1300 |publisher=European Union of Gymnastics |date=20 February 2017 |access-date=4 March 2017 |archive-url=https://web.archive.org/web/20170305034940/http://www.ueg.org/en/Dina-Averina-turns-heads-at-the-Moscow-Grand-Prix-2017-02-20-1300 |archive-date=5 March 2017 |url-status=dead }}</ref> Arina then participated in the organized Desio-Italia Trophy where she won silver in the all-around and team gold medal (together with Twin Sister Dina). On March 10–12, Arina won the all-around bronze medal at the [[Russian Rhythmic Gymnastics Championships|2017 Russian Championships]] behind Aleksandra Soldatova.<ref name=RusNat17/> On March 31 - April 2, Arina competed at the [[Rhythmic Gymnastics Grand Prix Series|2017 Grand Prix Marbella]] where she won silver in the all-around, she won 2 bronze medals in the ball and clubs. On April 21–23, Arina competed in her first World Cup of the season at the [[2017 FIG Rhythmic Gymnastics World Cup Series|2017 Tashkent World Cup]] where she won silver in the all-around behind Dina Averina, she qualified 3 apparatus finals winning gold in hoop, ball and ribbon. Her next event was at the [[2017 FIG Rhythmic Gymnastics World Cup Series|2017 Baku World Cup]] where she won her first gold medal in the all-around, she qualified to all apparatus finals taking gold in hoop, silver medals in ball, ribbon and bronze in clubs. On May 19–21, at the [[2017 Rhythmic Gymnastics European Championships|2017 European Championships]] in [[Budapest]], [[Hungary]], Arina was member of the Golden winning Russian Team (together with senior individuals: twin sister Dina Averina, Aleksandra Soldatova and the junior group) scoring a total of 182.175 points which was more than 11 points ahead of their nearest competitor team [[Belarus]]. Arina qualified to 2 apparatus finals taking the gold medals in ball and clubs.<ref name=Euros17/> On June 23–26, Arina then competed at the [[Rhythmic Gymnastics Grand Prix Series|2017 Holon Grand Prix]] taking gold in the all-around ahead of sister Dina, she qualified two apparatus finals winning gold in ribbon and silver in ball. At the quadrennial [[2017 World Games]] which was held in [[Wrocław]], Poland from July 20–30, Arina won 3 gold medals in hoop, ball, ribbon and a bronze medal in clubs.<ref name=WorldGames17/><ref name=WorldGames173/> On August 11–13, Arina competed at the [[2017 FIG Rhythmic Gymnastics World Cup Series|2017 Kazan World Challenge Cup]] and won silver in the all-around behind Dina, she qualified in all the apparatus finals and won 2 gold medals in ball, ribbon and 2 silver medals in hoop, clubs.<ref name=WCCKazan17/> At the [[2017 World Rhythmic Gymnastics Championships|2017 World Championships]] held on August 30 - September 3 in [[Pesaro]], [[Italy]], in the first day of the apparatus finals; Arina won gold in ball (18.950) and silver in hoop (19.000).<ref name=WC17D1/><ref>{{Cite AV media| people = FIG Channel| title = 2017 Rhythmic Worlds, Pesaro (ITA) - Hoop+Ball Finals, Highlights| accessdate = 2018-08-23| url = https://www.youtube.com/watch?v=AGTjd5OIIbc}}</ref> The following day, she won another gold in ribbon (18.300) and bronze in clubs (17.800).{{cn|date=May 2021}} During the individual all-around finals, she accumulated scores in (hoop:18.150, ball:18.500, clubs:18.550, ribbon:18.250) scoring a total of 73.450 points to win the silver medal behind twin sister Dina Averina.<ref name=WCAll17/>
+
+==== 2018 ====
+In 2018, recovering from an off season injury, Arina's season began in competition at the [[Rhythmic Gymnastics Grand Prix Series|2018 Grand Prix Moscow]] where she won the all-around silver medal, she qualified to 3 apparatus finals but withdrew due to a hand injury. She participated at the [[Russian Rhythmic Gymnastics Championships|2018 Russian Championships]], but later withdrew after one apparatus.{{fact|date=March 2022}}
+
+On March 24–25, Arina returned to competition at the [[Rhythmic Gymnastics Grand Prix Series|2018 Grand Prix Thiais]] where she finished 5th in all-around competition after big mistakes with ball. She qualified to two apparatus finals winning gold with clubs and silver with hoop. On April 13–15, she then competed at the [[2018 FIG Rhythmic Gymnastics World Cup Series|2018 Pesaro World Cup]] where she placed 4th in the all-around behind [[Linoy Ashram]]. She qualified to 3 apparatus finals and won gold with hoop, bronze with ribbon and placed 4th with clubs. On May 4–6, Arina's next event was [[2018 FIG Rhythmic Gymnastics World Cup Series|2018 Guadalajara World Challenge Cup]] where she won bronze in the all-around, she qualified to 3 apparatus finals winning gold with hoop and clubs and bronze with ribbon.<ref>{{Cite web|url=http://rfegonline.com/acceso.php?idc=183|title = World CUP RG 2018}}</ref> On May 16–17, Arina competed at the [[Rhythmic Gymnastics Grand Prix Series|2018 Holon Grand Prix]] and won the all-around gold medal with a total of 76.700 points ahead of teammate Aleksandra Soldatova, she qualified in all apparatus finals. Arina won gold in hoop and silver in ball, in her last two events: she dropped her clubs twice putting her in 6th place and had imprecision with executions with ribbon placing her in 5th.{{fact|date=March 2022}}
+
+==== 2019 ====
+In 2019, she became the silver medalist in the all-around at the stage of the [[Rhythmic Gymnastics Grand Prix|Grand Prix in rhythmic gymnastics]], which was held in Moscow.{{fact|date=March 2022}}
+
+At the 2019 European Championships, she performed in qualifying with a hoop, ball and clubs and took gold medals in the finals with a ball and clubs, as well as gold in the team event. Having allowed a serious loss and taking a spare apparatus in qualification with a hoop, Arina could not qualify for the final of this type of exercise.{{fact|date=March 2022}}
+
+At the [[Russian Rhythmic Gymnastics National Championships|2019 Russian Championship]], Arina Averina for the first time in her sports career became the absolute champion of the country in the all-around final, showing all exercises at the highest level and receiving record marks in exercises with a ball of 24.000 and clubs of 24.200, as well as 23.300 for a hoop and 22.300 for a ribbon. On the sum of the four exercises, her score was 93.800. Her sister Dina finished second with a total of 89,400.  Following the results of the 2019 Russian Championship, Arina and Dina Averina earned tickets to the upcoming [[2019 Rhythmic Gymnastics World Championships|2019 World Championship]] in [[Baku]].{{fact|date=March 2022}}
+
+At the [[Rhythmic Gymnastics World Championships|World championship 2019]] In Baku, Arina won All-around Silver behind her Sister Dina. She also won Silver in the Ball Final and Team Gold. She shared the Team Gold with [[Dina Averina]] and [[Ekaterina Selezneva]].
+
+==== 2020 ====
+In 2020, at the first stage of the Grand Prix in Moscow, she withdrew from the competition due to injury. At the [[Russian Rhythmic Gymnastics Championships|Russian Championship]] in February, she became the absolute champion in the individual standings. In the [[Estonia|Estonian]] city of [[Tartu]], at the second stage of the Grand Prix, Arina Averina became the absolute champion, having won four gold medals in exercises with a ribbon, ball, hoop and clubs. She also won the all-around.{{fact|date=March 2022}}
+
+The remaining 2020 competitive season was curtailed by the coronavirus pandemic. At the International Online Tournament "Match Meetings" 2020 she won gold in an exercise with a ball and silver in a hoop.{{fact|date=March 2022}}
+
+==== 2021 ====
+Averina participated in two 2021 World Cups prior to the Olympics, Tashkent and Pesaro. At the Tashkent World Cup Averina won gold in ball and clubs, but did not make the podium for all-around, ribbon and hoop.<ref>{{Cite web|title=Averina twins combine for four golds in Tashkent World Cup return|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3106|access-date=2021-10-27|website=gymnastics.sport}}</ref> At the Pesaro World Cup, she won gold in ribbon and clubs, silver in all-around behind her twin, and bronze in hoop and ball.<ref>{{Cite web|title=Averina sisters dominate as World Cup Series concludes in Pesaro|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3160|access-date=2021-10-27|website=gymnastics.sport}}</ref> At the European Championships in June, Averina won all-around gold.<ref>{{Cite web|title=Averina sisters, Ashram and Russian group shine at Rhythmic Euros|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3184|access-date=2021-10-27|website=gymnastics.sport}}</ref> Her final competition prior to the Olympics was supposed to be the Moscow World Challenge Cup in July, but she withdrew and Lala Kramarenko took her place.<ref>{{Cite web|title=Golden sweep for Dina Averina and Russia at Moscow World Challenge Cup|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3225|access-date=2021-10-27|website=gymnastics.sport}}</ref>
+
+In August at the [[2020 Summer Olympics|2020 Olympic Games]] in Tokyo, Averina qualified to the [[Gymnastics at the 2020 Summer Olympics – Qualification|rhythmic gymnastics individual all-around]] final in second place, behind her twin by 0.125 points, and ahead of Israel's Linoy Ashram.<ref>{{Cite web|title=Averina twins lead Rhythmic individual All-Around qualification|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3272|access-date=2021-10-27|website=gymnastics.sport}}</ref> In the [[Gymnastics at the 2020 Summer Olympics – Women's rhythmic individual all-around|all-around final]], Averina scored 102.100 overall<ref>{{Cite web|title=AVERINA Arina - FIG Athlete Profile|url=https://www.gymnastics.sport/site/athletes/bio_detail.php?id=34454|access-date=2021-10-27|website=www.gymnastics.sport}}</ref> after a ribbon routine with obvious errors. Arina Averina finished fourth, behind champion Linoy Ashram, silver medalist Dina Averina, and bronze medalist Alina Harnasko.<ref>{{Cite web|title=Ashram triumphs for Israel's first Olympic Rhythmic Gymnastics gold|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3275|access-date=2021-10-27|website=gymnastics.sport}}</ref> This was the first time since the 1996 Olympic Games that a Russian rhythmic gymnast did not win gold.<ref name=":0">{{Cite web|date=2021-08-08|title=Russian rhythmic dynasty topples, Bulgaria gets the gold|url=https://apnews.com/article/2020-tokyo-olympics-rhythmic-gymnastics-c8122bc03e02628390dad69ed2c7cfab|access-date=2021-10-27|website=AP NEWS|language=en}}</ref> After [[Concerns and controversies at the 2020 Summer Olympics#Russian reaction to the results of the women's all-around rhythmic gymnastics|Russian allegations of judging bias]] in rhythmic gymnastics at the Olympics,<ref>{{Cite web|date=2021-08-14|title='Outcome was planned in advance': Russia lets loose over wild Tokyo 2020 accusation|url=https://7news.com.au/sport/olympics/outcome-was-planned-in-advance-russia-lets-loose-over-wild-tokyo-2020-accusation-c-3680893|access-date=2021-10-27|website=7NEWS|language=en}}</ref><ref name=":0" /> FIG investigated and confirmed that the judging panels were fair and impartial.<ref>{{Cite web|title=FIG Statement about the Rhythmic Gymnastics competitions at the Tokyo 2020 Olympic Games|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3286|access-date=2021-10-27|website=gymnastics.sport}}</ref>
+
+In October, Averina competed at the World Championships in Kitakyushu, winning silver in ball behind her sister and finishing sixth with hoop.<ref>{{Cite web|title=Dina Averina executes a golden double as Rhythmic World finals begin|url=https://gymnastics.sport/site/news/displaynews.php?idNews=3362|access-date=2021-10-27|website=gymnastics.sport}}</ref>
+
+2022
+
+Following the [[Russian invasion of Ukraine]] the [[International Gymnastics Federation|FIG]] banned all Russian and Belarusian Gymnasts until further notice, which why Averina could only compete in domestic competitions. 
+
+== Gymnastics technique ==
+Arina Averina is known for her [[pivot turn]]s and clean apparatus handling. She can execute a quadruple ring pivot and a triple [[Evgeniya Kanaeva#Skills and influence on rhythmic gymnastics|Kanaeva ring pivot]]. She also frequently adds penchee turns to her retinue of element skills.
+
+==Routine music information==
+[[File:Dina and Arina Averina 2017 European Championships.jpg|right|thumb|300px|Arina with Dina at the [[2017 Rhythmic Gymnastics European Championships|2017 European Championships]] podium.]]
+{| class="wikitable plainrowheaders"
+!scope=col|Year
+!scope=col|Apparatus
+!scope=col|Music title <ref>{{cite web |title= Arina Averina RG Music List |url= http://www.rgforum.no/music/searchresults.php?gymnast_lastname=averina&gymnast_firstname=arina&nation=&apparatus=&tidsrom_fra=&music_title=&music_from=&music_composer=&lagtinn_etter_dato=01&lagtinn_etter_mnd=01&lagtinn_etter_aar=2004&programtype_individuell=on&status_godkjent=on |publisher= rgforum |access-date= 2014-04-11 |archive-date= 2021-08-07 |archive-url= https://web.archive.org/web/20210807090405/http://www.rgforum.no/music/searchresults.php?gymnast_lastname=averina&gymnast_firstname=arina&nation=&apparatus=&tidsrom_fra=&music_title=&music_from=&music_composer=&lagtinn_etter_dato=01&lagtinn_etter_mnd=01&lagtinn_etter_aar=2004&programtype_individuell=on&status_godkjent=on |url-status= dead }}</ref>
+|-
+! rowspan="5" |2023
+|Hoop
+|"[[Another One Bites The Dust]]" by Alexander Jean 
+|-
+|Ball
+|[[Skyfall]] by Jaimee Paul
+|-
+|Clubs
+|"All That There Had Been" by Kvatro
+|-
+|Ribbon
+|"[[Grande Amore]]" by [[Il Volo]]
+|-
+! rowspan="5" |2022
+|Hoop
+|"[[Ego (Willy William song)|Ego]]", by [[Willy William]]
+|-
+|Ball
+|"Kálmán: Die Csárdásfürstin / Act I - "Heia, heia, in den Bergen ist mein Heimatland" ", by [[Anna Netrebko]], [[Emmanuel Villaume]], [[Prague Philharmonia|Prague Philharmonia and Phillharmonic Choir]]
+|-
+|Ball (second)
+|"[[Skyfall (song)|Skyfall]]"by Jaimee Paul
+|-
+|Clubs
+|"[[Eugene Onegin (opera)|Eugene Onegin, Op. 24, TH 5: Polonaise]]", by [[Pyotr Ilyich Tchaikovsky]]
+|-
+|Ribbon
+|"[[Voilà (Barbara Pravi song)|Voilà]]", by [[Barbara Pravi]]
+|-
+!scope=row rowspan=7 | 2021
+|Hoop
+| "[[The Firebird]]", by [[Igor Stravinsky]]
+|-
+|Ball
+| "Ironside", "Crane/White Lightning", "Don't Let Me Be Misunderstood" from [[Kill Bill]], by Quincy Jones, Charles Bernstein & RZA, Santa Esmeralda
+|-
+|Clubs (first)
+| "Bella Ciao (Música Original de la Serie la Casa de Papel/Money Heist)", by Manu Pilas
+|-
+|Clubs (second)
+| "Bella Ciao", by Goran Bregovic and His Wedding and Funeral Orchestra
+|-
+|Ribbon (first)
+| "Seguidilla" from [[Carmen]], by [[Georges Bizet]]
+|-
+|Ribbon (second)
+| "Time, Forward!", by [[Alexander Vedernikov]] & Russian Philharmonic Symphony Orchestra, composed by [[Georgy Sviridov]]
+|-
+|Gala
+| "you should see me in a crown", by [[Billie Eilish]]
+|-
+!scope=row rowspan=9 | 2020
+|Hoop (first)
+| "[[Largo al factotum|Largo Al Factotum]]", by [[Denis Matsuev]] & [[Filippa Giordano]]
+|-
+|Hoop (second)
+| "[[España cañí|España Cañi]]", by [[Andre Rieu]] & Johann Strauss Orchestra, composed by [[Pascual Marquina Narro]]
+|-
+|Hoop (third)
+| "[[The Firebird]]", by [[Igor Stravinsky]]
+|-
+|Ball
+| "Ironside", "Crane/White Lightning", "Don't Let Me Be Misunderstood" from [[Kill Bill]], by Quincy Jones, Charles Bernstein & RZA, Santa Esmeralda
+|-
+|Clubs (first)
+| "Shema ([[Hava Nagila]])", by London Festival Orchestra, London Festival Chorus, composed by [[Stanley Black]]
+|-
+|Clubs (second)
+| "Bella Ciao (Música Original de la Serie la Casa de Papel/Money Heist)", by Manu Pilas
+|-
+|Ribbon (first)
+| "Time, Forward!", by [[Alexander Vedernikov]] & Russian Philharmonic Symphony Orchestra, composed by [[Georgy Sviridov]]
+|-
+|Ribbon (second)
+| "Seguidilla" from [[Carmen]], by [[Georges Bizet]]
+|-
+|Gala
+| "Lash Out", by [[Alice Merton]]
+|-
+!scope=row rowspan=5 | 2019
+|Hoop
+| "Don Quixote" (Street Dancer, The Toreador, Moderato, Moreno), by [[Nayden Todorov]] & Sofia National Opera Orchestra
+|-
+|Ball
+| "[[Funiculì, Funiculà|Funiculi, Funicula]]", by [[Russell Watson]] 
+|-
+|Clubs
+| "Summer Wenzel", by Moiseyev Ballet
+|-
+|Ribbon
+| "No. 12 in C Minor Revolutionary Etude", by [[Maurizio Pollini]], composed by [[Frédéric Chopin]]
+|-
+|Gala
+| "Lash Out", by [[Alice Merton]]
+|-
+!scope=row rowspan=6|2018
+|Hoop
+| "[[La Bayadère|La Bayadere (Act 2 No. 29)]]", by [[Richard Bonynge]] & [[English Chamber Orchestra]]
+|-
+|Ball (second) 
+| "[[Toy (song)|Toy]]", by [[Netta Barzilai|Netta]]
+|-
+|Ball 
+| "Architect of the Mind", by [[Kerry Muzzey]]
+|-
+|Clubs 
+| "[[Largo al factotum|Largo Al Factotum]]", by [[Pietro Spagnoli]]
+|-
+|Ribbon
+| rowspan="2" | "[[The Firebird]]", by [[Igor Stravinsky]]
+|-
+|Gala 
+|-
+!scope=row rowspan=6|2017
+|Hoop
+| "[[Taming of the Fire]]", by [[Andrey Petrov]]
+|-
+|Ball 
+| "La Felicità", by [[Simona Molinari]], [[Peter Cincotti]]
+|-
+|Clubs 
+| "[[Live Is Life]]", by [[Opus (Austrian band)|Opus]]
+|-
+|Ribbon
+| "[[Csárdás]] ([[Hungarian dance|Hungarian Folk dance]])", by [[Roby Lakatos]]
+|-
+|Gala (first)
+| "[[Me Too (Meghan Trainor song)|Me Too]]", by [[Meghan Trainor]]
+|-
+|Gala (second)
+| "[[The Firebird]]", by [[Igor Stravinsky]]
+|-
+!scope=row rowspan=4|2016
+|Hoop
+|"[[Soul Sacrifice (song)|Soul Sacrifice]]" by [[Santana (band)|Santana]]
+|-
+|Ball 
+|"[[Hava Nagila]]" by [[London Festival Orchestra]] & Chorus
+|-
+|Clubs 
+|"Akh Vy Seni Moi Seni" by Marina Devyatova
+|-
+|Ribbon
+|"[[Pas de deux|Paquita: Pas De Deux]]" by [[London Symphony Orchestra]]
+|-
+!scope=row rowspan=4|2015
+|Hoop
+|"[[Asturias]]" by [[Isaac Albéniz]]
+|-
+|Ball 
+|"ACT III": (Quiteria's Variation)
+|-
+|Clubs 
+|"Akh Vy Seni Moi Seni" by Marina Devyatova
+|-
+|Ribbon
+| "Rio Rita" by Dj Valer Orchestra
+|-
+!scope=row rowspan=4|2014
+|Hoop
+|"Volare", "Bang Bang", "Quien Como Tu" by JJ Vianello, [[Tito Nieves]], Enzo Diaz
+|-
+|Ball 
+|"Capone", by [[Ronan Hardiman]]
+|-
+|Clubs 
+|"[[Livin' la Vida Loca]]" by [[Ricky Martin]]
+|-
+|Ribbon
+|"Rio Rita" by Dj Valer Orchestra
+|-
+|}
+
+== Detailed Olympic results ==
+{| class="wikitable" style="text-align:center"
+!Year
+!Competition Description
+!Location
+!Music
+!Apparatus
+!Rank-Final
+!Score-Final
+!Rank-Qualifying
+!Score-Qualifying
+|-
+| rowspan="5" |2020
+| rowspan="5" |Olympics
+| rowspan="5" |[[Gymnastics at the 2020 Summer Olympics – Women's rhythmic individual all-around|Tokyo]]
+|
+|All-around
+|4th
+|102.100
+|2nd
+|106.175
+|-
+|"[[The Firebird]]" by [[Igor Stravinsky]]
+|Hoop
+|3rd
+|26.850
+|2nd
+|27.225
+|-
+|"Ironside", "Crane/White Lightning", "Don't Let Me Be Misunderstood" from [[Kill Bill]], by Quincy Jones, Charles Bernstein & RZA, Santa Esmeralda
+|Ball
+|3rd
+|27.900
+|3rd
+|27.250
+|-
+|"Bella Ciao (Música Original de la Serie la Casa de Papel/Money Heist)", by Manu Pilas
+|Clubs
+|3rd
+|27.800
+|2nd
+|28.100
+|-
+|"Seguidilla" from [[Carmen]], by [[Georges Bizet]]
+|Ribbon
+|10th
+|19.550
+|1st
+|23.600
+|}
+
+== Competitive highlights==
+''(Team competitions in seniors are held only at the World Championships, Europeans and other Continental Games.)''
+
+{| border=1 cellpadding=1 cellspacing=2 style="border-collapse: collapse; text-align:center; font-size: 80%;"
+|-
+! align=center colspan=8  style="background-color: #D6D6FF; "| '''International: Senior'''
+|-
+! align=center|Year
+! align=center|Event
+! width=100px|AA
+! width=100px|Team
+! width=100px|[[Hoop (rhythmic gymnastics)|Hoop]]
+! width=100px|[[Ball (rhythmic gymnastics)|Ball]]
+! width=100px|[[Juggling club|Clubs]]
+! width=100px|[[Ribbon (rhythmic gymnastics)|Ribbon]]
+|-
+| rowspan="9" |'''2021'''
+|align=left|'''[[2021 Rhythmic Gymnastics World Championships|World Championships]]'''||bgcolor=CC9966|3rd||bgcolor=gold|1st||6th||bgcolor=silver|2nd||bgcolor=silver|2nd||bgcolor=CC9966|3rd
+|-
+|align=left|'''Olympico Cup'''||bgcolor=silver|2nd||||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=gold|1st||3rd (OC)
+|-
+|align=left|'''[[Gymnastics at the 2020 Summer Olympics – Women's rhythmic individual all-around|Olympic Games]]'''||4th||||||||||
+|-
+|align=left|'''[[2021 Rhythmic Gymnastics European Championships|European Championships]]'''||bgcolor=gold|1st||bgcolor=gold|1st||||4th||9th (Q)||bgcolor=CC9966|3rd
+|-
+|align=left|'''[[2021 FIG Rhythmic Gymnastics World Cup series|World Cup Pesaro]]'''||bgcolor=silver|2nd||||bgcolor=CC9966|3rd||bgcolor=CC9966|3rd||bgcolor=gold|1st||bgcolor=gold|1st
+|-
+|align=left|'''[[2021 FIG Rhythmic Gymnastics World Cup series|World Cup Tashkent]]'''||bgcolor=silver|2nd||||4th||bgcolor=gold|1st||bgcolor=gold|1st||38th (Q)
+|-
+|align=left|'''International Online Tournament<br/>(Finnish Gymnastics Federation)'''||bgcolor=silver|2nd||||||||||
+|-
+|align=left|'''Schmiden Gymnastik International Online'''||bgcolor=silver|2nd||||||||||
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Moscow]]'''||bgcolor=silver|2nd||||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=silver|2nd||5th
+|-
+| rowspan="5" |'''2020'''||align=left|'''3rd International Online Tournament<br />(Russian Rhythmic Gymnastics Federation)'''||bgcolor=silver|2nd||||bgcolor=gold|1st||bgcolor=gold|1st||2nd (Q)||2nd (Q)
+|-
+|align=left|'''2nd International Online Tournament<br />(Russian Rhythmic Gymnastics Federation)'''||2nd (Q)||||bgcolor=gold|1st||2nd (Q)||2nd (Q)||bgcolor=gold|1st
+|-
+|align=left|'''Russia-Belarus Friendly Match'''||bgcolor=silver|2nd||||||||||
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Tartu]]'''||bgcolor=gold|1st||||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=gold|1st
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Moscow]]'''||WD||||3rd (Q)||6th (Q)||DNS||DNS
+|-
+| rowspan="11" |'''2019'''||align=left|'''Aeon Cup'''||bgcolor=silver|2nd||bgcolor=gold|1st||||||||
+|-
+|align=left|'''[[2019 Rhythmic Gymnastics World Championships|World Championships]]'''||bgcolor=silver|2nd||bgcolor=gold|1st||||bgcolor=silver|2nd||4th||6th (Q)
+|-
+|align=left|'''[[2019 FIG Rhythmic Gymnastics World Cup series|World Cup Kazan]]'''||bgcolor=silver |2nd||||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=silver |2nd||bgcolor=silver|2nd
+|-
+|align=left|'''[[2019 FIG Rhythmic Gymnastics World Cup series|World Cup Minsk]]'''||bgcolor=silver |2nd||||bgcolor=silver|2nd||bgcolor=silver|2nd||bgcolor=CC9966|3rd||bgcolor=silver|2nd
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Brno]]'''||bgcolor=silver|2nd||||bgcolor=gold|1st||bgcolor=gold|1st||7th (Q)||bgcolor=gold|1st
+|-
+|align="left" |'''[[2019 Rhythmic Gymnastics European Championships|European Championships]]'''||||bgcolor=gold|1st||14th (Q)||bgcolor=gold|1st||bgcolor=gold|1st||
+|-
+|align=left|'''[[2019 FIG Rhythmic Gymnastics World Cup series|World Cup Baku]]'''||bgcolor=silver|2nd||||22nd (Q)||5th||bgcolor=silver|2nd||bgcolor=silver|2nd
+|-
+|align=left|'''[[2019 FIG Rhythmic Gymnastics World Cup series|World Cup Pesaro]]'''||bgcolor=silver|2nd||||bgcolor=gold|1st||bgcolor=gold|1st||6th||6th
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Thiais]]'''||bgcolor=gold|1st||||bgcolor=silver|2nd||bgcolor=gold|1st||bgcolor=silver|2nd||6th 
+|-
+| align="left" |'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Marbella]]'''||6th||||16th (Q)||bgcolor=CC9966|3rd||bgcolor=silver|2nd||15th (Q)
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Moscow]]'''||bgcolor=silver|2nd||||bgcolor=silver|2nd||10th (Q)||4th (Q)||bgcolor=gold|1st
+|-
+| rowspan="8" width=50px|'''2018''' ||align=left|'''Aeon Cup'''||bgcolor=silver|2nd||bgcolor=gold|1st||||||||
+|-
+|align=left|'''[[2018 Rhythmic Gymnastics World Championships|World Championships]]'''||3rd (Q)||bgcolor=gold|1st||bgcolor=CC9966|3rd||3rd (Q)||bgcolor=CC9966|3rd|| 49th (Q)
+|-
+| align=left|'''[[2018 Rhythmic Gymnastics European Championships|European Championships]]'''||bgcolor=gold|1st||NT||||||||
+|-
+| align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Holon]]'''||bgcolor=gold|1st||||bgcolor=gold|1st||bgcolor=silver|2nd||7th||5th
+|-
+| align=left|'''[[2018 FIG Rhythmic Gymnastics World Cup Series|World Cup Guadalajara]]'''||bgcolor=CC9966|3rd||||bgcolor=gold|1st||10th (Q)||bgcolor=gold|1st||bgcolor=CC9966|3rd
+|-
+| align=left|'''[[2018 FIG Rhythmic Gymnastics World Cup Series|World Cup Pesaro]]'''||4th||||bgcolor=gold|1st||9th (Q)||5th||bgcolor=silver|2nd
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Thiais]]'''||5th||||bgcolor=silver|2nd||20th (Q)||bgcolor=gold|1st||5th (Q)
+|-
+| align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Moscow]]'''||bgcolor=silver|2nd||||WD||WD||3rd (Q)||WD
+|-
+| rowspan="10" width=50px|'''2017'''||align=left|'''[[2017 World Rhythmic Gymnastics Championships|World Championships]]'''||bgcolor=silver|2nd||NT||bgcolor=silver|2nd||bgcolor=gold|1st||bgcolor=CC9966|3rd||bgcolor=gold|1st
+|-
+|align=left|'''[[2017 FIG Rhythmic Gymnastics World Cup Series|World Cup Kazan]]'''||bgcolor=silver|2nd||||bgcolor=silver|2nd||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=gold|1st
+|-
+|align=left|'''[[Gymnastics at the World Games|World Games]]'''||||||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=CC9966|3rd||bgcolor=gold|1st
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Holon]]'''||bgcolor=gold|1st||||3rd (Q)||bgcolor=silver|2nd||3rd (Q)||bgcolor=gold|1st
+|-
+|align=left|'''[[2017 Rhythmic Gymnastics European Championships|European Championships]]'''||||bgcolor=gold|1st||||bgcolor=gold|1st||bgcolor=gold|1st||
+|-
+|align=left|'''[[2017 FIG Rhythmic Gymnastics World Cup Series|World Cup Baku]]'''||bgcolor=gold|1st||||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=CC9966|3rd||bgcolor=silver|2nd
+|-
+|align=left|'''[[2017 FIG Rhythmic Gymnastics World Cup Series|World Cup Tashkent]]'''||bgcolor=silver|2nd||||bgcolor=gold|1st||bgcolor=gold|1st||9th (Q)||bgcolor=gold|1st
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Marbella]]'''||bgcolor=silver|2nd||||5th (Q)||bgcolor=CC9966|3rd||bgcolor=CC9966|3rd||8th (Q)
+|-
+|align=left|'''Desio Italia Trophy'''||bgcolor=silver|2nd||bgcolor=gold|1st||||||||
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Moscow]]'''||bgcolor=CC9966|3rd||||8th (Q)||3rd (Q)||4th (Q)||bgcolor=silver|2nd
+|-
+|rowspan="9" width=50px|'''2016'''||align=left|'''[[Dalia Kutkaitė|Dalia Kutkaite Cup]]'''||bgcolor=silver|2nd||||||||||
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Final]]'''||bgcolor=CC9966|3rd||||bgcolor=silver|2nd||3rd (Q)||6th (Q)||bgcolor=silver|2nd
+|-
+|align=left|'''[[2016 FIG Rhythmic Gymnastics World Cup Series|World Cup Berlin]]'''||WD||||11th (Q)||5th (Q)||DNS||DNS
+|-
+|align=left|'''[[2016 FIG Rhythmic Gymnastics World Cup Series|World Cup Sofia]]'''||4th||||bgcolor=CC9966|3rd||4th||bgcolor=CC9966|3rd||6th
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Bucharest]]'''||bgcolor=silver|2nd||||4th||bgcolor=silver|2nd||bgcolor=CC9966|3rd||bgcolor=CC9966|3rd
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Brno]]'''||5th||||4th (Q)||12th (Q)||4th (Q)||6th (Q)
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Thiais]]'''||5th||||11th (Q)||5th (Q)||4th||4th
+|-
+|align=left|'''[[2016 FIG Rhythmic Gymnastics World Cup Series|World Cup Lisbon]]'''||5th||||17th (Q)||4th||12th (Q)||bgcolor=silver|2nd
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Grand Prix Moscow]]'''||bgcolor=CC9966|3rd||||7th (Q)||6th (Q)||bgcolor=silver|2nd||bgcolor=gold|1st
+|-
+|rowspan="4" width=50px|'''2015'''||align=left|'''Dundee Cup'''||bgcolor=silver|2nd||||||||||
+|-
+|align=left|'''MTK Budapest Cup'''||bgcolor=CC9966|3rd||||bgcolor=silver|2nd||bgcolor=CC9966|3rd||6th (Q)|| 5th (Q)
+|-
+|align=left|'''Corbeil-Essonnes International'''||bgcolor=gold|1st||||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=gold|1st
+|-
+|align=left|'''International Tournament of Pesaro'''||||bgcolor=gold|1st||||bgcolor=gold|1st||||bgcolor=gold|1st
+|-
+|rowspan="4" width=50px|'''2014'''||align=left|'''EWUB Luxembourg Trophy'''||bgcolor=silver|2nd||||2nd (Q)||||||2nd (Q)
+|-
+|align=left|'''Baltic Hoop'''||bgcolor=silver|2nd||||bgcolor=CC9966|3rd||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=silver|2nd
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Holon International Tournament]]'''||bgcolor=gold|1st||||bgcolor=gold|1st||bgcolor=gold|1st||2nd (OC)||bgcolor=silver|2nd
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Alina International Tournament]]'''||bgcolor=silver|2nd||||||||||
+|-
+! align=center colspan=8  style="background-color: #D6D6FF; "| '''International: Junior'''
+|-
+! align=center|Year
+! align=center|Event
+! width=100px|AA
+! width=100px|Team
+! width=100px|[[Hoop (rhythmic gymnastics)|Hoop]]
+! width=100px|[[Ball (rhythmic gymnastics)|Ball]]
+! width=100px|[[Juggling club|Clubs]]
+! width=100px|[[Ribbon (rhythmic gymnastics)|Ribbon]]
+|-
+|rowspan="1" width=50px|'''2013'''||align=left|'''[[2013 Asian Rhythmic Gymnastics Championships|Happy Caravan Cup]]'''||||bgcolor=gold|1st||||bgcolor=gold|1st||||
+|-
+|rowspan="3" width=50px|'''2012'''||align=left|'''MTM Ljubljana'''||||bgcolor=gold|1st||||||||
+|-
+|align=left|'''[[Venera Zaripova|Venera Cup]]'''||bgcolor=CC9966|3rd||||bgcolor=CC9966|3rd||bgcolor=silver|2nd||bgcolor=CC9966|3rd||bgcolor=CC9966|3rd
+|-
+|align=left|'''[[Rhythmic Gymnastics Grand Prix Series|Junior Grand Prix Moscow]]'''||||4th (OC)||||||||
+|-
+|rowspan="1"|'''2011'''||align=left|'''Russian-Chinese Youth Games'''||5th||||||||||
+|-
+! align=center colspan=8  style="background-color: #D6D6FF; "| '''National'''
+|-
+! align=center|Year
+! align=center|Event
+! width=100px|AA
+! width=100px|Team
+! width=100px|[[Hoop (rhythmic gymnastics)|Hoop]]
+! width=100px|[[Ball (rhythmic gymnastics)|Ball]]
+! width=100px|[[Juggling club|Clubs]]
+! width=100px|[[Ribbon (rhythmic gymnastics)|Ribbon]]
+|-
+|rowspan="1" width=50px|'''2021'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||bgcolor=gold|1st
+| bgcolor=CC9966|3rd
+| bgcolor=gold|1st
+| bgcolor=gold|1st
+| bgcolor=silver|2nd
+| bgcolor=silver|2nd
+|-
+|rowspan="1" width=50px|'''2020'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||bgcolor=gold|1st||bgcolor=silver|2nd||||||||
+|-
+|rowspan="1" width=50px|'''2019'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||bgcolor=gold|1st||bgcolor=silver|2nd||||||||
+|-
+|rowspan="1" width=50px|'''2018'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||WD||||||||||
+|-
+|rowspan="1" width=50px|'''2017'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||bgcolor=CC9966|3rd||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=gold|1st
+|-
+|rowspan="1" width=50px|'''2016'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||4th||bgcolor=gold|1st||bgcolor=CC9966|3rd||bgcolor=silver|2nd||bgcolor=CC9966|3rd||4th
+|-
+|rowspan="1" width=50px|'''2015'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||bgcolor=silver|2nd||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=gold|1st||bgcolor=silver|2nd
+|-
+|rowspan="1" width=50px|'''2014'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Championships]]'''||7th||bgcolor=gold|1st||bgcolor=CC9966|3rd||bgcolor=gold|1st||bgcolor=silver|2nd||4th
+|-
+|rowspan="1" width=50px|'''2013'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Junior Championships]]'''||5th||||||||||
+|-
+|rowspan="1" width=50px|'''2012'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Junior Championships]]'''||11th||||||||||
+|-
+|rowspan="1" width=50px|'''2011'''||align=left|'''[[Russian Rhythmic Gymnastics National Championships|Russian Junior Championships]]'''||9th||||||||||
+|-
+! align=center colspan=8  |  ''Q = Qualifications (Did not advance to Event Final due to the 2 gymnast per country rule, only Top 8 highest score);'' <br> ''WR = World Record;'' ''WD = Withdrew;''  ''NT = No Team Competition''; ''OC = Out of Competition(competed but scores not counted for qualifications/results)''
+|-
+|}
+
+==See also==
+*[[Dina Averina]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=figws16>{{cite web | url = http://www.fig-gymnastics.com/site/files/page/editor/files/2016%20RG%20WR%20Archives.pdf | title = FIG World standings for rhythmic gymnastics | publisher = International Federation of Gymnastics}}</ref>
+
+<ref name=WCberlin16>{{cite web | url = http://www.gymmedia.com/Rhythmic-Gymnastics/Berlin-Masters-2016-World-Cup-Event-now | title = Berlin Masters 2016 is a World Cup Event now | publisher = Gymmedia |date=4 July 2016}}</ref>
+
+<ref name=figws17>{{cite web | url = http://www.fig-gymnastics.com/site/page/view?id=262 | title = FIG World standings for rhythmic gymnastics | publisher = International Federation of Gymnastics| access-date = 30 August 2017}}</ref>
+
+<ref name=RusNat17>{{cite web|url=http://www.allsportinfo.ru/index.php?id=109012 |title= Дина Аверина – чемпионка России по художественной гимнастике в многоборье|access-date=2017-03-12}}</ref>
+
+<ref name=Euros17>{{cite web | url = http://www.gymmedia.com/Rhythmic-Gymnastics/2017-Europeans-Rhythmic-Gymnastics | title = 2017 Europeans of Rhythmic Gymnastics | publisher = Gymmedia |date=21 May 2017}}</ref>
+
+<ref name=WorldGames17>{{cite web | url = http://www.ueg.org/en/Averina-twins-continue-rhythmic-domination-2017-07-23-1930 | title = Averina twins continue rhythmic domination | publisher = European Union of Gymnastics | date = 23 July 2017 | access-date = 29 July 2017 | archive-url = https://web.archive.org/web/20170729223146/http://www.ueg.org/en/Averina-twins-continue-rhythmic-domination-2017-07-23-1930 | archive-date = 29 July 2017 | url-status = dead }}</ref>
+
+<ref name=WorldGames173>{{cite web | url = https://live.fig-gymnastics.com/news_display.php?idevent=13334&idnews=1834&keyword= | title = Arina Averina goes three for four in Rhythmic at The World Games; three new champions in Aerobic | publisher = International Federation of Gymnastics |date=23 July 2017}}</ref>
+
+<ref name=WCCKazan17>{{cite web | url = http://www.fig-gymnastics.com/site/figNews/view?id=1851 | title = Averina affirmation at final Rhythmic World Challenge Cup of 2017 | publisher = International Federation of Gymnastics| date= 14 August 2017}}</ref>
+
+<ref name=WC17D1>{{cite web | url = http://www.insidethegames.biz/articles/1054778/russian-identical-twins-both-bag-gold-and-silver-at-fig-rhythmic-world-championships | title = Russian identical twins both bag gold and silver at FIG Rhythmic World Championships | publisher = Inside the Games| date= 30 August 2017}}</ref>
+
+<ref name=WCAll17>{{cite web | url = http://www.fig-gymnastics.com/site/figNews/view?id=1867| title = Dina Averina takes 2017 Rhythmic World All-around title | publisher = International Federation of Gymnastics| date= 9 September 2017}}</ref>
+}}
+
+==External links==
+{{Commons category}}
+* {{FIG|bio=34454|lic=18527|name=Arina Averina}}
+* [http://r-gymnastics.com/arina-i-dina-averiny-yunye-zvezdochki-iz-zavolzhya Arina Averina] {{Webarchive|url=https://web.archive.org/web/20190321194736/http://r-gymnastics.com/arina-i-dina-averiny-yunye-zvezdochki-iz-zavolzhya |date=2019-03-21 }} at r-gymnastics.com {{in lang|ru}}
+* {{Olympics.com|arina-averina}}
+* {{Olympedia}}
+* {{World Games profile}}
+* [http://averinastwinsonline.blogspot.com/ Averina Twins unofficial fan page]
+* {{Instagram|arishadina1998}}
+
+{{Footer ROC Gymnastics 2020 Summer Olympics}}
+{{NavigationWorldChampionsRhythmicGymnasticsWomenBall}}
+{{NavigationWorldChampionsRhythmicGymnasticsWomenRibbon}}
+
+{{DEFAULTSORT:Averina, Arina}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Sports controversies]]
+[[Category:Russian rhythmic gymnasts]]
+[[Category:People from Zavolzhye, Nizhny Novgorod Oblast]]
+[[Category:Medalists at the Rhythmic Gymnastics World Championships]]
+[[Category:Identical twins]]
+[[Category:Russian twins]]
+[[Category:World Games gold medalists]]
+[[Category:World Games bronze medalists]]
+[[Category:Medalists at the Rhythmic Gymnastics European Championships]]
+[[Category:Gymnasts at the 2020 Summer Olympics]]
+[[Category:Sportspeople from Nizhny Novgorod Oblast]]

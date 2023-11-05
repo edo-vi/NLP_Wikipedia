@@ -1,0 +1,9 @@
+'''Bioactive agents''' are substances that can influence an organism, tissue or cell. Examples include enzymes, drugs, vitamins, [[Phytochemical|phytochemicals]], and [[Bioactive compound|bioactive compounds]].
+
+Bioactive agents can be incorporated into [[Polymer|polymers]],<ref name=":0">{{Citation|last1=Wang|first1=Junqing|title=Enzyme-responsive polymers for drug delivery and molecular imaging|date=2018|url=http://dx.doi.org/10.1016/b978-0-08-101997-9.00004-7|work=Stimuli Responsive Polymeric Nanocarriers for Drug Delivery Applications, Volume 1|pages=101–119|publisher=Elsevier|access-date=2021-11-23|last2=Zhang|first2=Huaping|last3=Wang|first3=Fang|last4=Ai|first4=Xixi|last5=Huang|first5=Dan|last6=Liu|first6=Gang|last7=Mi|first7=Peng|doi=10.1016/b978-0-08-101997-9.00004-7|isbn=9780081019979}}</ref><ref name=":1">{{Cite book|last=Maria.|first=Lagaron, Jose|url=http://worldcat.org/oclc/740492015|title=Multifunctional and nanoreinforced polymers for food packaging|date=2011|publisher=Woodhead Pub|isbn=978-1-84569-738-9|oclc=740492015}}</ref> which has applications in [[drug delivery]] and commercial production of household goods and biomedical devices.<ref name=":1" /> In drug delivery systems, bioactive agents are loaded into [[enzyme]]-responsive polymers which can then be cleaved by target enzymes. Activation of the bioactive agents leads to the release of therapeutic cargos.<ref name=":0" />
+==References==
+
+{{reflist}}
+
+[[Category:Biology]]
+[[Category:Microbiology terms]]

@@ -1,0 +1,2078 @@
+{{Short description|2021 badminton tournament in Birmingham}}
+{{Infobox badminton event
+| name           = {{nowrap|2021 All England Open}}
+| image          =
+| dates          = 17–21 March
+| number_edition = 111th
+| level          = G2L2
+| prize_money    = 850000
+| venue          = [[Utilita Arena Birmingham]]
+| location       = [[Birmingham]], [[England]]
+| MS             = [[Lee Zii Jia]]
+| country_MS     = MAS
+| WS             = [[Nozomi Okuhara]]
+| country_WS     = JPN
+| MD1            = [[Hiroyuki Endo]]
+| country_MD1    = JPN
+| MD2            = [[Yuta Watanabe (badminton)|Yuta Watanabe]]
+| country_MD2    = JPN
+| WD1            = [[Mayu Matsumoto]]
+| country_WD1    = JPN
+| WD2            = [[Wakana Nagahara]]
+| country_WD2    = JPN
+| XD1            = [[Yuta Watanabe (badminton)|Yuta Watanabe]]
+| country_XD1    = JPN
+| XD2            = [[Arisa Higashino]]
+| country_XD2    = JPN
+| previous       = [[2020 All England Open|2020]]
+| next           = [[2022 All England Open|2022]]
+}}
+
+The '''2021 All England Open''' (officially known as the '''[[Yonex]] All England Open Badminton Championships 2021''' for sponsorship reasons) was a badminton tournament which took place at [[Utilita Arena Birmingham]] in [[England]] from 17 to 21 March 2021. It had a total purse of $850,000.
+{{TOC right}}
+
+== Tournament ==
+The 2021 All England Open became the second tournament of the [[2021 BWF World Tour]] following the postponement of the [[2021 German Open (badminton)|2021 German Open]] due to the [[COVID-19 pandemic|ongoing pandemic]]. It was part of the [[All England Open Badminton Championships|All England Open]] championships, which had been held since 1899. This tournament was organized by [[Badminton England]] and sanctioned by the [[Badminton World Federation|BWF]].<ref name="pros">{{cite web |title=Prospectus All England Open Badminton Championships 2021 |url=https://extranet.bwfbadminton.com/docs/events/3982/docs/YONEX%20All%20England%20Open%202021%20-%20Prospectus%20-%20REVISED%202%20February%202021.pdf |publisher=[[Badminton World Federation]] |access-date=17 February 2020 }}{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+=== Venue ===
+This international tournament was held at [[Utilita Arena Birmingham]] in [[Birmingham]], [[England]].<ref name="pros"/>
+
+=== Point distribution ===
+Below is the point distribution for each phase of the tournament based on the [[BWF World Ranking|BWF points system]] for the [[BWF World Tour Super 1000]] event.<ref>{{cite web |title=World Ranking System |url=https://system.bwfbadminton.com/documents/folder_1_81/folder_1_82/New-Regulations-2018/5.3.3.1%20World%20Ranking%20System.pdf |publisher=[[Badminton World Federation]] |access-date=27 January 2018 |archive-url=https://web.archive.org/web/20190510005434/https://system.bwfbadminton.com/documents/folder_1_81/folder_1_82/New-Regulations-2018/5.3.3.1%20World%20Ranking%20System.pdf |archive-date=10 May 2019 |url-status=live }}</ref> This tournament would not be calculated in qualification ranking of [[Badminton at the 2020 Summer Olympics – Qualification|2020 Summer Olympics]].
+
+{| class="wikitable" style="text-align:center"
+|-
+! width="75" | Winner
+! width="75" | Runner-up
+! width="75" | 3/4
+! width="75" | 5/8
+! width="75" | 9/16
+! width="75" | 17/32
+|-
+| 12,000 || 10,200 || 8,400 || 6,600 || 4,800 || 3,000
+|}
+
+=== Prize money ===
+The total prize money for this tournament was US$850,000. Distribution of prize money was in accordance with BWF regulations.<ref name="pros"/>
+
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+| width="104px" | '''Event'''
+| width="68px" | '''Winner'''
+| width="68px" | Finals
+| width="68px" | Semi-finals
+| width="80px" | Quarter-finals
+| width="68px" | Last 16
+| width="68px" | Last 32
+|-
+| bgcolor="#dfe2e9" | '''Singles'''
+| $59,500 || $28,900 || $11,900 || $4,675 || $2,550 || $850
+|-
+| bgcolor="#dfe2e9" | '''Doubles'''
+| $62,900 || $29,750 || $11,900 || $5,312.50 || $2,762.50 || $850
+|}
+
+==Controversies==
+On 17 March 2021 night local time, BWF stated that all Indonesian players competing in the tournament, including all three who had won in the first round, were withdrawn from the tournament after 20 of 24 people from the team were contacted by the [[NHS Test and Trace]] service via e-mail, and were required to enter 10-day isolation. They were contacted by the [[National Health Service (England)|NHS]] after someone on the same inbound flight from [[Istanbul]] to Birmingham with the team was tested positive for COVID-19.<ref>{{cite web|title=Indonesian Team Withdrawn from YONEX All England Open 2021 |url=https://bwfworldtour.bwfbadminton.com/news-single/2021/03/18/indonesian-team-withdrawn-from-yonex-all-england-open-2021/|publisher=Badminton World Federation|date=18 March 2021|access-date=18 March 2021}}</ref><ref>{{Cite web|title=Kevin/Markus to Miss All England Title Again as Indonesian Team Withdrawn|url=https://jakartaglobe.id/lifestyle/kevinmarkus-to-miss-all-england-title-again-as-indonesian-team-withdrawn|access-date=18 March 2021|date=18 March 2021|work=Jakarta Globe|author1=Iman Rahman Cahyadi|author2=Hendro D. Situmorang|archive-date=18 March 2021|archive-url=https://web.archive.org/web/20210318032018/https://jakartaglobe.id/lifestyle/kevinmarkus-to-miss-all-england-title-again-as-indonesian-team-withdrawn|url-status=dead}}</ref> The entire team was forced to walk on foot from the arena to the hotel as their shuttle service was prevented from taking them to the hotel.<ref>{{Cite web|title=Sad story of Hendra Setiawan after Indonesia advances to the top 16 of All England asked to walk to the hotel|url=https://voi.id/en/sports/39705/sad-story-of-hendra-setiawan-after-indonesia-advances-to-the-top-16-of-all-england-asked-to-walk-to-the-hotel|author=Wem Fernandez|access-date=19 March 2021|date=18 March 2021|website=VOI.id|language=en}}</ref>
+
+This sparked controversy between Indonesian players and the BWF. The Indonesians protested because 3 Indian players who are tested positive before the tournament,<ref>{{Cite web|title=All England Open 2021: Indian badminton coach questions COVID-19 results after 3 players test positive|url=https://www.indiatoday.in/sports/badminton/story/3-indian-players-test-positive-for-covid-19-ahead-of-all-england-open-2021-1780218-2021-03-17|access-date=18 March 2021|date=17 March 2021|work=India Today|language=en}}</ref> though 24 hours later tested negative after self testing,<ref>{{Cite web|title=All England Open: Indian shuttlers cleared to take part in tournament after COVID negative results|url=https://zeenews.india.com/cricket/all-england-open-indian-shuttlers-cleared-to-take-part-in-tournament-after-covid-negative-results-2348544.html|editor-last=Kanaujia|editor-first=Rachit|access-date=18 March 2021|date=17 March 2021|work=Zee News|language=en}}</ref> were allowed to play on the tournament, while all of Indonesian team members had tested negative for the virus.<ref>{{Cite web|title=Beda Kasus Indonesia dengan Denmark dan India di All England|url=https://www.cnnindonesia.com/olahraga/20210318072018-170-618926/beda-kasus-indonesia-dengan-denmark-dan-india-di-all-england|access-date=18 March 2021|date=18 March 2021|work=CNN Indonesia|language=id-ID}}</ref> The start of the tournament itself had been delayed for five hours after 7 of COVID-19 results were deemed inconclusive.<ref>{{Cite web|title=All England start delayed by "inconclusive" tests|url=https://www.espn.com/badminton/story/_/id/31079323/start-all-england-open-birmingham-delayed-due-inconclusive-covid-19-tests|access-date=18 March 2021|date=18 March 2021|website=ESPN.com|language=en}}</ref> The [[Badminton Association of Indonesia]] (PBSI) also stated that Turkish badminton player [[Neslihan Yiğit]] and her trainer who were on the same flight with the Indonesian team from Istanbul to Birmingham, but Yiğit was allowed to continue her tournament.<ref>{{Cite web|title=Satu Pesawat dengan Indonesia, Neslihan Yigit Tetap Main|url=https://www.cnnindonesia.com/olahraga/20210318090225-170-618964/satu-pesawat-dengan-indonesia-neslihan-yigit-tetap-main|access-date=18 March 2021|date=18 March 2021|work=CNN Indonesia|language=id-ID}}</ref> On 18 March noon local time, Yiğit was announced to had also been withdrawn from the tournament by the BWF.<ref>{{Cite web|title=BWF Statement on Withdrawal of Turkish and Indonesian Players|url=https://bwfworldtour.bwfbadminton.com/news-single/2021/03/18/bwf-statement-on-withdrawal-of-turkish-and-indonesian-players|access-date=2021-03-24|website=bwfworldtour.bwfbadminton.com|language=en-US}}</ref>
+
+Earlier, the first round of the men's doubles between Indonesians [[Mohammad Ahsan]] and [[Hendra Setiawan]] and English pair [[Ben Lane]] and [[Sean Vendy]] sparked backlashes because of an arrangement where the service judge on duty, Alan Crow, was also English.<ref>{{cite web|url=https://surabaya.tribunnews.com/2021/03/18/3-keruwetan-all-england-2021-selain-indonesia-dipaksa-mundur-service-judge-curang-hingga-tak-adil?page=all|title=3 Keruwetan All England 2021 Selain Indonesia Dipaksa Mundur, Service Judge Curang hingga Tak Adil|date=18 March 2021|access-date=18 March 2021 |website=Tribunnews.com|language=ID|editor=Musahadah}}</ref> However, according to the rules, BWF never explicitly prohibits a technical official to officiate a match involving athletes from the same country with the technical official against athletes from another country.<ref>{{cite web |title=INSTRUCTIONS TO TECHNICAL OFFICIALS (ITTO) |url=https://extranet.bwfbadminton.com/docs/document-system/81/1466/1470/Section%204.1.1%20-%20Instructions%20to%20Technical%20Officials%20_ITTO_.pdf |publisher=Badminton World Federation |access-date=18 March 2021}}</ref>
+
+Indonesian National Olympic Committee also alleged unprofessional and discriminatory treatment by BWF, as Indonesian team are not allowed to use lifts and take the bus by the organizers.<ref>{{Cite web|date=2021-03-19|title=Indonesian NOC Sends Protest Letter to BWF|url=https://setkab.go.id/en/indonesian-noc-sends-protest-letter-to-bwf/|access-date=2021-03-24|website=Sekretariat Kabinet Republik Indonesia}}</ref> On 22 March, the president of BWF [[Poul-Erik Høyer Larsen]] officially apologizes to Indonesian Youth and Sports Minister for the circumstances faced by Indonesian team during the event.<ref>{{Cite web|last=Murti|first=Markus Wisnu|date=2021-03-22|title=BWF President Apologizes Over All England Brouhaha|url=https://en.tempo.co/read/1444877/bwf-president-apologizes-over-all-england-brouhaha|access-date=2021-03-24|website=Tempo|language=en}}</ref>
+
+== Men's singles ==
+=== Seeds ===
+{{colbegin}}
+#{{flagicon|JPN}} [[Kento Momota]] ''(quarter-finals)''
+#{{flagicon|DEN}} [[Viktor Axelsen]] ''(final)''
+#{{flagicon|DEN}} [[Anders Antonsen]] ''(semi-finals)''
+#{{flagicon|INA}} [[Anthony Sinisuka Ginting]] ''(first round)''
+#{{flagicon|INA}} [[Jonatan Christie]] ''(second round)''
+#'''{{flagicon|MAS}} [[Lee Zii Jia]] (champion)'''
+#{{flagicon|DEN}} [[Rasmus Gemke]] ''(second round)''
+#{{flagicon|IND}} [[Srikanth Kidambi]] ''(first round)''
+{{colend}}
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD1=Semi-finals
+| RD2=Final
+| team-width=160
+
+| RD1-seed1=6
+| RD1-team1='''{{flagicon|MAS}} [[Lee Zii Jia]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|NED}} [[Mark Caljouw]]
+| RD1-score2-1=13
+| RD1-score2-2=17
+| RD1-score2-3=
+
+| RD1-seed3=3
+| RD1-team3={{flagicon|DEN}} [[Anders Antonsen]]
+| RD1-score3-1='''21'''
+| RD1-score3-2=7
+| RD1-score3-3=17
+| RD1-seed4=2
+| RD1-team4='''{{flagicon|DEN}} [[Viktor Axelsen]]'''
+| RD1-score4-1=16
+| RD1-score4-2='''21'''
+| RD1-score4-3='''21'''
+
+| RD2-seed1=6
+| RD2-team1='''{{flagicon|MAS}} [[Lee Zii Jia]]'''
+| RD2-score1-1='''30'''
+| RD2-score1-2=20
+| RD2-score1-3='''21'''
+| RD2-seed2=2
+| RD2-team2={{flagicon|DEN}} [[Viktor Axelsen]]
+| RD2-score2-1=29
+| RD2-score2-2='''22'''
+| RD2-score2-3=9
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=1
+| RD1-team1='''{{flagicon|JPN}} [[Kento Momota|K Momota]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''22'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|IND}} [[Parupalli Kashyap|Parupalli K]]
+| RD1-score2-1=13
+| RD1-score2-2=20
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|MAS}} [[Liew Daren|Liew D]]
+| RD1-score3-1=10
+| RD1-score3-2=10
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4='''{{flagicon|IND}} [[Prannoy Kumar|Prannoy K]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=6
+| RD1-team5='''{{flagicon|MAS}} [[Lee Zii Jia|Lee Z J]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|CAN}} [[Brian Yang (badminton)|B Yang]]
+| RD1-score6-1=13
+| RD1-score6-2=10
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|DEN}} [[Hans-Kristian Vittinghus|H-K Vittinghus]]'''
+| RD1-score7-1='''21'''
+| RD1-score7-2='''21'''
+| RD1-score7-3=
+| RD1-seed8=
+| RD1-team8={{flagicon|ISR}} [[Misha Zilberman|M Zilberman]]
+| RD1-score8-1=16
+| RD1-score8-2=19
+| RD1-score8-3=
+
+| RD2-seed1=1
+| RD2-team1='''{{flagicon|JPN}} [[Kento Momota|K Momota]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2='''21'''
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2={{flagicon|IND}} [[Prannoy Kumar|Prannoy K]]
+| RD2-score2-1=15
+| RD2-score2-2=14
+| RD2-score2-3=
+
+| RD2-seed3=6
+| RD2-team3='''{{flagicon|MAS}} [[Lee Zii Jia|Lee Z J]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2='''21'''
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4={{flagicon|DEN}} [[Hans-Kristian Vittinghus|H-K Vittinghus]]
+| RD2-score4-1=12
+| RD2-score4-2=13
+| RD2-score4-3=
+
+| RD3-seed1=1
+| RD3-team1={{flagicon|JPN}} [[Kento Momota|K Momota]]
+| RD3-score1-1=16
+| RD3-score1-2=19
+| RD3-score1-3=
+| RD3-seed2=6
+| RD3-team2='''{{flagicon|MAS}} [[Lee Zii Jia|Lee Z J]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+==== Section 2 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=4
+| RD1-team1={{flagicon|INA}} [[Anthony Sinisuka Ginting|A S Ginting]]
+| RD1-score1-1=
+| RD1-score1-2=
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2='''{{flagicon|FRA}} [[Thomas Rouxel|T Rouxel]]'''
+| RD1-score2-1=w
+| RD1-score2-2=/
+| RD1-score2-3=o
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|IND}} [[Lakshya Sen|L Sen]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2='''21'''
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4={{flagicon|THA}} [[Kantaphon Wangcharoen|K Wangcharoen]]
+| RD1-score4-1=18
+| RD1-score4-2=12
+| RD1-score4-3=
+
+| RD1-seed5=8
+| RD1-team5={{flagicon|IND}} [[Srikanth Kidambi|S Kidambi]]
+| RD1-score5-1=11
+| RD1-score5-2='''21'''
+| RD1-score5-3=12
+| RD1-seed6=PFR
+| RD1-team6='''{{flagicon|IRL}} [[Nhat Nguyen|N Nguyen]]'''
+| RD1-score6-1='''21'''
+| RD1-score6-2=15
+| RD1-score6-3='''21'''
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|NED}} [[Mark Caljouw|M Caljouw]]'''
+| RD1-score7-1='''21'''
+| RD1-score7-2='''21'''
+| RD1-score7-3=
+| RD1-seed8=
+| RD1-team8={{flagicon|THA}} [[Khosit Phetpradab|K Phetpradab]]
+| RD1-score8-1=7
+| RD1-score8-2=7
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|FRA}} [[Thomas Rouxel|T Rouxel]]
+| RD2-score1-1=18
+| RD2-score1-2=17
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2='''{{flagicon|IND}} [[Lakshya Sen|L Sen]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+
+| RD2-seed3=PFR
+| RD2-team3={{flagicon|IRL}} [[Nhat Nguyen|N Nguyen]]
+| RD2-score3-1=18
+| RD2-score3-2=7
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4='''{{flagicon|NED}} [[Mark Caljouw|M Caljouw]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=
+| RD3-team1={{flagicon|IND}} [[Lakshya Sen|L Sen]]
+| RD3-score1-1=17
+| RD3-score1-2='''21'''
+| RD3-score1-3=17
+| RD3-seed2=
+| RD3-team2='''{{flagicon|NED}} [[Mark Caljouw|M Caljouw]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2=16
+| RD3-score2-3='''21'''
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1='''{{flagicon|JPN}} [[Kanta Tsuneyama|K Tsuneyama]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|ENG}} [[Toby Penty|T Penty]]
+| RD1-score2-1=17
+| RD1-score2-2=14
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|JPN}} [[Kenta Nishimoto|K Nishimoto]]
+| RD1-score3-1=13
+| RD1-score3-2=14
+| RD1-score3-3=
+| RD1-seed4=7
+| RD1-team4='''{{flagicon|DEN}} [[Rasmus Gemke|R Gemke]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5={{flagicon|BRA}} [[Ygor Coelho de Oliveira|Y Coelho]]
+| RD1-score5-1=11
+| RD1-score5-2=19
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6='''{{flagicon|IND}} [[Sameer Verma|S Verma]]'''
+| RD1-score6-1='''21'''
+| RD1-score6-2='''21'''
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|FRA}} [[Brice Leverdez|B Leverdez]]
+| RD1-score7-1=14
+| RD1-score7-2=18
+| RD1-score7-3=
+| RD1-seed8=3
+| RD1-team8='''{{flagicon|DEN}} [[Anders Antonsen|A Antonsen]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1='''{{flagicon|JPN}} [[Kanta Tsuneyama|K Tsuneyama]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2=18
+| RD2-score1-3='''21'''
+| RD2-seed2=7
+| RD2-team2={{flagicon|DEN}} [[Rasmus Gemke|R Gemke]]
+| RD2-score2-1=15
+| RD2-score2-2='''21'''
+| RD2-score2-3=14
+
+| RD2-seed3=
+| RD2-team3={{flagicon|IND}} [[Sameer Verma|S Verma]]
+| RD2-score3-1=20
+| RD2-score3-2=10
+| RD2-score3-3=
+| RD2-seed4=3
+| RD2-team4='''{{flagicon|DEN}} [[Anders Antonsen|A Antonsen]]'''
+| RD2-score4-1='''22'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=
+| RD3-team1={{flagicon|JPN}} [[Kanta Tsuneyama|K Tsuneyama]]
+| RD3-score1-1=16
+| RD3-score1-2='''21'''
+| RD3-score1-3=11
+| RD3-seed2=3
+| RD3-team2='''{{flagicon|DEN}} [[Anders Antonsen|A Antonsen]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2=9
+| RD3-score2-3='''21'''
+}}
+
+==== Section 4 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1={{flagicon|ESP}} [[Pablo Abián|P Abián]]
+| RD1-score1-1=15
+| RD1-score1-2=12
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2='''{{flagicon|THA}} [[Sitthikom Thammasin|S Thammasin]]'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''21'''
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|THA}} [[Kunlavut Vitidsarn|K Vitidsarn]]
+| RD1-score3-1=13
+| RD1-score3-2=22
+| RD1-score3-3=
+| RD1-seed4=5
+| RD1-team4='''{{flagicon|INA}} [[Jonatan Christie|J Christie]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''24'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5='''{{flagicon|IND}} [[B. Sai Praneeth]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''22'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|FRA}} [[Toma Junior Popov|T J Popov]]
+| RD1-score6-1=18
+| RD1-score6-2=20
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|JPN}} [[Koki Watanabe|K Watanabe]]
+| RD1-score7-1='''21'''
+| RD1-score7-2=19
+| RD1-score7-3=19
+| RD1-seed8=2
+| RD1-team8='''{{flagicon|DEN}} [[Viktor Axelsen|V Axelsen]]'''
+| RD1-score8-1=13
+| RD1-score8-2='''21'''
+| RD1-score8-3='''21'''
+
+| RD2-seed1=
+| RD2-team1='''{{flagicon|THA}} [[Sitthikom Thammasin|S Thammasin]]'''
+| RD2-score1-1=w
+| RD2-score1-2=/
+| RD2-score1-3=o
+| RD2-seed2=5
+| RD2-team2={{flagicon|INA}} [[Jonatan Christie|J Christie]]
+| RD2-score2-1=
+| RD2-score2-2=
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|IND}} [[B. Sai Praneeth]]
+| RD2-score3-1='''21'''
+| RD2-score3-2=12
+| RD2-score3-3=12
+| RD2-seed4=2
+| RD2-team4='''{{flagicon|DEN}} [[Viktor Axelsen|V Axelsen]]'''
+| RD2-score4-1=15
+| RD2-score4-2='''21'''
+| RD2-score4-3='''21'''
+
+| RD3-seed1=
+| RD3-team1={{flagicon|THA}} [[Sitthikom Thammasin|S Thammasin]]
+| RD3-score1-1=4
+| RD3-score1-2=15
+| RD3-score1-3=
+| RD3-seed2=2
+| RD3-team2='''{{flagicon|DEN}} [[Viktor Axelsen|V Axelsen]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+== Women's singles ==
+=== Seeds ===
+{{colbegin}}
+#{{flagicon|ESP}} [[Carolina Marín]]  ''(withdrew)''
+#'''{{flagicon|JPN}} [[Nozomi Okuhara]] (champion)'''
+#{{flagicon|JPN}} [[Akane Yamaguchi]] ''(quarter-finals)''
+#{{flagicon|THA}} [[Ratchanok Intanon]] ''(semi-finals)''
+#{{flagicon|IND}} [[P. V. Sindhu]] ''(semi-finals)''
+#{{flagicon|THA}} [[Pornpawee Chochuwong]] ''(final)''
+#{{flagicon|DEN}} [[Mia Blichfeldt]] ''(quarter-finals)''
+#{{flagicon|THA}} [[Busanan Ongbamrungphan]] ''(quarter-finals)''
+{{colend}}
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD1=Semi-finals
+| RD2=Final
+| team-width=160
+
+| RD1-seed1=6
+| RD1-team1='''{{flagicon|THA}} [[Pornpawee Chochuwong]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=5
+| RD1-team2={{flagicon|IND}} [[P. V. Sindhu]]
+| RD1-score2-1=17
+| RD1-score2-2=9
+| RD1-score2-3=
+
+| RD1-seed3=4
+| RD1-team3={{flagicon|THA}} [[Ratchanok Intanon]]
+| RD1-score3-1='''21'''
+| RD1-score3-2=16
+| RD1-score3-3=19
+| RD1-seed4=2
+| RD1-team4='''{{flagicon|JPN}} [[Nozomi Okuhara]]'''
+| RD1-score4-1=16
+| RD1-score4-2='''21'''
+| RD1-score4-3='''21'''
+
+| RD2-seed1=6
+| RD2-team1={{flagicon|THA}} [[Pornpawee Chochuwong]]
+| RD2-score1-1=12
+| RD2-score1-2=16
+| RD2-score1-3=
+| RD2-seed2=2
+| RD2-team2='''{{flagicon|JPN}} [[Nozomi Okuhara]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=PFR
+| RD1-team1={{flagicon|BUL}} [[Mariya Mitsova|M Mitsova]]
+| RD1-score1-1=11
+| RD1-score1-2=7
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2='''{{flagicon|THA}} [[Supanida Katethong|S Katethong]]'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''21'''
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|USA}} [[Beiwen Zhang|BW Zhang]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2=19
+| RD1-score3-3='''21'''
+| RD1-seed4=
+| RD1-team4={{flagicon|WAL}} [[Jordan Hart|J Hart]]
+| RD1-score4-1=10
+| RD1-score4-2='''21'''
+| RD1-score4-3=12
+
+| RD1-seed5=6
+| RD1-team5='''{{flagicon|THA}} [[Pornpawee Chochuwong|P Chochuwong]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|ISR}} [[Ksenia Polikarpova|K Polikarpova]]
+| RD1-score6-1=10
+| RD1-score6-2=9
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|THA}} [[Phittayaporn Chaiwan|P Chaiwan]]'''
+| RD1-score7-1='''21'''
+| RD1-score7-2='''21'''
+| RD1-score7-3=
+| RD1-seed8=
+| RD1-team8={{flagicon|BEL}} [[Lianne Tan|L Tan]]
+| RD1-score8-1=9
+| RD1-score8-2=15
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|THA}} [[Supanida Katethong|S Katethong]]
+| RD2-score1-1='''21'''
+| RD2-score1-2=13
+| RD2-score1-3=9
+| RD2-seed2=
+| RD2-team2='''{{flagicon|USA}} [[Beiwen Zhang|BW Zhang]]'''
+| RD2-score2-1=7
+| RD2-score2-2='''21'''
+| RD2-score2-3='''21'''
+
+| RD2-seed3=6
+| RD2-team3='''{{flagicon|THA}} [[Pornpawee Chochuwong|P Chochuwong]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2='''21'''
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4={{flagicon|THA}} [[Phittayaporn Chaiwan|P Chaiwan]]
+| RD2-score4-1=17
+| RD2-score4-2=11
+| RD2-score4-3=
+
+| RD3-seed1=
+| RD3-team1={{flagicon|USA}} [[Beiwen Zhang|BW Zhang]]
+| RD3-score1-1=16
+| RD3-score1-2=19
+| RD3-score1-3=
+| RD3-seed2=6
+| RD3-team2='''{{flagicon|THA}} [[Pornpawee Chochuwong|P Chochuwong]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+==== Section 2 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=3
+| RD1-team1='''{{flagicon|JPN}} [[Akane Yamaguchi|A Yamaguchi]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|FRA}} [[Qi Xuefei|Qi XF]]
+| RD1-score2-1=17
+| RD1-score2-2=13
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|TUR}} [[Neslihan Yiğit|N Yiğit]]'''
+| RD1-score3-1=13
+| RD1-score3-2='''21'''
+| RD1-score3-3='''21'''
+| RD1-seed4=
+| RD1-team4={{flagicon|FRA}} [[Marie Batomene|M Batomene]]
+| RD1-score4-1='''21'''
+| RD1-score4-2=19
+| RD1-score4-3=17
+
+| RD1-seed5=5
+| RD1-team5='''{{flagicon|IND}} [[P. V. Sindhu]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|MAS}} [[Soniia Cheah Su Ya|S Cheah S Y]]
+| RD1-score6-1=11
+| RD1-score6-2=17
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|DEN}} [[Line Christophersen|L Christophersen]]'''
+| RD1-score7-1='''21'''
+| RD1-score7-2='''21'''
+| RD1-score7-3=
+| RD1-seed8=PFR
+| RD1-team8={{flagicon|SVK}} [[Martina Repiská|M Repiská]]
+| RD1-score8-1=12
+| RD1-score8-2=11
+| RD1-score8-3=
+
+| RD2-seed1=3
+| RD2-team1='''{{flagicon|JPN}} [[Akane Yamaguchi|A Yamaguchi]]'''
+| RD2-score1-1=w
+| RD2-score1-2=/
+| RD2-score1-3=o
+| RD2-seed2=
+| RD2-team2={{flagicon|TUR}} [[Neslihan Yiğit|N Yiğit]]
+| RD2-score2-1=
+| RD2-score2-2=
+| RD2-score2-3=
+
+| RD2-seed3=5
+| RD2-team3='''{{flagicon|IND}} [[P. V. Sindhu]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2='''21'''
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4={{flagicon|DEN}} [[Line Christophersen|L Christophersen]]
+| RD2-score4-1=8
+| RD2-score4-2=8
+| RD2-score4-3=
+
+| RD3-seed1=3
+| RD3-team1={{flagicon|JPN}} [[Akane Yamaguchi|A Yamaguchi]]
+| RD3-score1-1='''21'''
+| RD3-score1-2=16
+| RD3-score1-3=19
+| RD3-seed2=5
+| RD3-team2='''{{flagicon|IND}} [[P. V. Sindhu]]'''
+| RD3-score2-1=16
+| RD3-score2-2='''21'''
+| RD3-score2-3='''21'''
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1='''{{flagicon|GER}} [[Yvonne Li|Y Li]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|SCO}} [[Kirsty Gilmour|K Gilmour]]
+| RD1-score2-1=7
+| RD1-score2-2=18
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|IND}} [[Saina Nehwal|S Nehwal]]
+| RD1-score3-1=8
+| RD1-score3-2=4<sup>r</sup>
+| RD1-score3-3=
+| RD1-seed4=7
+| RD1-team4='''{{flagicon|DEN}} [[Mia Blichfeldt|M Blichfeldt]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2=10
+| RD1-score4-3=
+
+| RD1-seed5=PFR
+| RD1-team5={{flagicon|THA}} [[Benyapa Aimsaard|B Aimsaard]]
+| RD1-score5-1='''21'''
+| RD1-score5-2=16
+| RD1-score5-3=6
+| RD1-seed6=
+| RD1-team6='''{{flagicon|USA}} [[Iris Wang|I Wang]]'''
+| RD1-score6-1=15
+| RD1-score6-2='''21'''
+| RD1-score6-3='''21'''
+
+| RD1-seed7=
+| RD1-team7={{flagicon|EST}} [[Kristin Kuuba|K Kuuba]]
+| RD1-score7-1=14
+| RD1-score7-2=16
+| RD1-score7-3=
+| RD1-seed8=4
+| RD1-team8='''{{flagicon|THA}} [[Ratchanok Intanon|R Intanon]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|GER}} [[Yvonne Li|Y Li]]
+| RD2-score1-1=16
+| RD2-score1-2=17
+| RD2-score1-3=
+| RD2-seed2=7
+| RD2-team2='''{{flagicon|DEN}} [[Mia Blichfeldt|M Blichfeldt]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|USA}} [[Iris Wang|I Wang]]
+| RD2-score3-1=14
+| RD2-score3-2=13
+| RD2-score3-3=
+| RD2-seed4=4
+| RD2-team4='''{{flagicon|THA}} [[Ratchanok Intanon|R Intanon]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=7
+| RD3-team1={{flagicon|DEN}} [[Mia Blichfeldt|M Blichfeldt]]
+| RD3-score1-1='''21'''
+| RD3-score1-2=17
+| RD3-score1-3=10
+| RD3-seed2=4
+| RD3-team2='''{{flagicon|THA}} [[Ratchanok Intanon|R Intanon]]'''
+| RD3-score2-1=18
+| RD3-score2-2='''21'''
+| RD3-score2-3='''21'''
+}}
+
+==== Section 4 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1='''{{flagicon|JPN}} [[Aya Ohori|A Ohori]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|DEN}} [[Line Kjærsfeldt|L Kjærsfeldt]]
+| RD1-score2-1=16
+| RD1-score2-2=10
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|MAS}} [[Kisona Selvaduray|Kisona S]]
+| RD1-score3-1=6
+| RD1-score3-2=7
+| RD1-score3-3=
+| RD1-seed4=8
+| RD1-team4='''{{flagicon|THA}} [[Busanan Ongbamrungphan|B Ongbamrungphan]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5={{flagicon|SUI}} [[Sabrina Jaquet|S Jaquet]]
+| RD1-score5-1=19
+| RD1-score5-2=9
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6='''{{flagicon|BUL}} [[Linda Zetchiri|L Zetchiri]]'''
+| RD1-score6-1='''21'''
+| RD1-score6-2='''21'''
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|DEN}} [[Julie Dawall Jakobsen|J D Jakobsen]]
+| RD1-score7-1=11
+| RD1-score7-2=7
+| RD1-score7-3=
+| RD1-seed8=2
+| RD1-team8='''{{flagicon|JPN}} [[Nozomi Okuhara|N Okuhara]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|JPN}} [[Aya Ohori|A Ohori]]
+| RD2-score1-1=19
+| RD2-score1-2=15
+| RD2-score1-3=
+| RD2-seed2=8
+| RD2-team2='''{{flagicon|THA}} [[Busanan Ongbamrungphan|B Ongbamrungphan]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|BUL}} [[Linda Zetchiri|L Zetchiri]]
+| RD2-score3-1=6
+| RD2-score3-2=13
+| RD2-score3-3=
+| RD2-seed4=2
+| RD2-team4='''{{flagicon|JPN}} [[Nozomi Okuhara|N Okuhara]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=8
+| RD3-team1={{flagicon|THA}} [[Busanan Ongbamrungphan|B Ongbamrungphan]]
+| RD3-score1-1='''21'''
+| RD3-score1-2=8
+| RD3-score1-3=16
+| RD3-seed2=2
+| RD3-team2='''{{flagicon|JPN}} [[Nozomi Okuhara|N Okuhara]]'''
+| RD3-score2-1=18
+| RD3-score2-2='''21'''
+| RD3-score2-3='''21'''
+}}
+
+== Men's doubles ==
+=== Seeds ===
+{{colbegin}}
+#{{flagicon|INA}} [[Marcus Fernaldi Gideon]] / [[Kevin Sanjaya Sukamuljo]] ''(second round)''
+#{{flagicon|INA}} [[Mohammad Ahsan]] / [[Hendra Setiawan]] ''(second round)''
+#{{flagicon|JPN}} [[Takeshi Kamura]] / [[Keigo Sonoda]] ''(final)''
+#'''{{flagicon|JPN}} [[Hiroyuki Endo]] / [[Yuta Watanabe (badminton)|Yuta Watanabe]] (champions)'''
+#{{flagicon|INA}} [[Fajar Alfian]] / [[Muhammad Rian Ardianto]] ''(withdrew)''
+#{{flagicon|IND}} [[Satwiksairaj Rankireddy]] / [[Chirag Shetty]] ''(second round)''
+#{{flagicon|MAS}} [[Goh V Shem]] / [[Tan Wee Kiong]] ''(second round)''
+#{{flagicon|ENG}} [[Marcus Ellis]] / [[Chris Langridge]] ''(quarter-finals)''
+{{colend}}
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD1=Semi-finals
+| RD2=Final
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1={{flagicon|DEN}} [[Kim Astrup]]<br />{{flagicon|DEN}} [[Anders Skaarup Rasmussen]]
+| RD1-score1-1=18
+| RD1-score1-2=14
+| RD1-score1-3=
+| RD1-seed2=3
+| RD1-team2='''{{flagicon|JPN}} [[Takeshi Kamura]]<br />{{flagicon|JPN}} [[Keigo Sonoda]]'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''21'''
+| RD1-score2-3=
+
+| RD1-seed3=4
+| RD1-team3='''{{flagicon|JPN}} [[Hiroyuki Endo]]<br />{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Yuta Watanabe]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2='''21'''
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4={{flagicon|DEN}} [[Jeppe Bay]]<br />{{flagicon|DEN}} [[Lasse Mølhede]]
+| RD1-score4-1=13
+| RD1-score4-2=11
+| RD1-score4-3=
+
+| RD2-seed1=3
+| RD2-team1={{flagicon|JPN}} [[Takeshi Kamura]]<br />{{flagicon|JPN}} [[Keigo Sonoda]]
+| RD2-score1-1=15
+| RD2-score1-2='''21'''
+| RD2-score1-3=11
+| RD2-seed2=4
+| RD2-team2='''{{flagicon|JPN}} [[Hiroyuki Endo]]<br />{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Yuta Watanabe]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2=17
+| RD2-score2-3='''21'''
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=1
+| RD1-team1='''{{flagicon|INA}} [[Marcus Fernaldi Gideon|M F Gideon]]<br />{{flagicon|INA}} [[Kevin Sanjaya Sukamuljo|K S Sukamuljo]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2=19
+| RD1-score1-3='''21'''
+| RD1-seed2=PFR
+| RD1-team2={{flagicon|ENG}} [[Matthew Clare|M Clare]]<br />{{flagicon|ENG}} [[Ethan Van Leeuwen|E Van Leeuwen]]
+| RD1-score2-1=12
+| RD1-score2-2='''21'''
+| RD1-score2-3=9
+
+| RD1-seed3=
+| RD1-team3={{flagicon|USA}} [[Phillip Chew|P Chew]]<br />{{flagicon|USA}} [[Ryan Chew|R Chew]]
+| RD1-score3-1=17
+| RD1-score3-2=14
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4='''{{flagicon|FRA}} [[Christo Popov|C Popov]]<br />{{flagicon|FRA}} [[Toma Junior Popov|T J Popov]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=6
+| RD1-team5='''{{flagicon|IND}} [[Satwiksairaj Rankireddy|S Rankireddy]]<br />{{flagicon|IND}} [[Chirag Shetty|C Shetty]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=PFR
+| RD1-team6={{flagicon|ENG}} [[Nikhar Garg|N Garg]]<br />{{flagicon|IND}} [[Aniruddha Mayekar|A Mayekar]]
+| RD1-score6-1=7
+| RD1-score6-2=10
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|DEN}} [[Kim Astrup|K Astrup]]<br />{{flagicon|DEN}} [[Anders Skaarup Rasmussen|A S Rasmussen]]'''
+| RD1-score7-1='''21'''
+| RD1-score7-2='''21'''
+| RD1-score7-3=
+| RD1-seed8=
+| RD1-team8={{flagicon|DEN}} [[Philip Illum Klindt|P I Klindt]]<br />{{flagicon|DEN}} [[Mads Thøgersen|M Thøgersen]]
+| RD1-score8-1=17
+| RD1-score8-2=15
+| RD1-score8-3=
+
+| RD2-seed1=1
+| RD2-team1={{flagicon|INA}} [[Marcus Fernaldi Gideon|M F Gideon]]<br />{{flagicon|INA}} [[Kevin Sanjaya Sukamuljo|K S Sukamuljo]]
+| RD2-score1-1=
+| RD2-score1-2=
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2='''{{flagicon|FRA}} [[Christo Popov|C Popov]]<br />{{flagicon|FRA}} [[Toma Junior Popov|T J Popov]]'''
+| RD2-score2-1=w
+| RD2-score2-2=/
+| RD2-score2-3=o
+
+| RD2-seed3=6
+| RD2-team3={{flagicon|IND}} [[Satwiksairaj Rankireddy|S Rankireddy]]<br />{{flagicon|IND}} [[Chirag Shetty|C Shetty]]
+| RD2-score3-1=16
+| RD2-score3-2='''21'''
+| RD2-score3-3=17
+| RD2-seed4=
+| RD2-team4='''{{flagicon|DEN}} [[Kim Astrup|K Astrup]]<br />{{flagicon|DEN}} [[Anders Skaarup Rasmussen|A S Rasmussen]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2=11
+| RD2-score4-3='''21'''
+
+| RD3-seed1=
+| RD3-team1={{flagicon|FRA}} [[Christo Popov|C Popov]]<br />{{flagicon|FRA}} [[Toma Junior Popov|T J Popov]]
+| RD3-score1-1=10
+| RD3-score1-2=14
+| RD3-score1-3=
+| RD3-seed2=
+| RD3-team2='''{{flagicon|DEN}} [[Kim Astrup|K Astrup]]<br />{{flagicon|DEN}} [[Anders Skaarup Rasmussen|A S Rasmussen]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+==== Section 2 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=3
+| RD1-team1='''{{flagicon|JPN}} [[Takeshi Kamura|T Kamura]]<br />{{flagicon|JPN}} [[Keigo Sonoda|K Sonoda]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|DEN}} [[Emil Lauritzen|E Lauritzen]]<br />{{flagicon|DEN}} [[Mads Muurholm|M Muurholm]]
+| RD1-score2-1=13
+| RD1-score2-2=12
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|JPN}} [[Akira Koga|A Koga]]<br />{{flagicon|JPN}} [[Taichi Saito|T Saito]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2='''21'''
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4={{flagicon|JPN}} [[Takuro Hoki|T Hoki]]<br />{{flagicon|JPN}} [[Yugo Kobayashi|Y Kobayashi]]
+| RD1-score4-1=15
+| RD1-score4-2=12
+| RD1-score4-3=
+
+| RD1-seed5=8
+| RD1-team5='''{{flagicon|ENG}} [[Marcus Ellis|M Ellis]]<br />{{flagicon|ENG}} [[Chris Langridge|C Langridge]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|IRL}} [[Joshua Magee|J Magee]]<br />{{flagicon|IRL}} [[Paul Reynolds (badminton)|P Reynolds]]
+| RD1-score6-1=14
+| RD1-score6-2=13
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|DEN}} [[Daniel Lundgaard|D Lundgaard]]<br />{{flagicon|DEN}} [[Mathias Thyrri|M Thyrri]]
+| RD1-score7-1='''21'''
+| RD1-score7-2=18
+| RD1-score7-3=17
+| RD1-seed8=
+| RD1-team8='''{{flagicon|ENG}} [[Callum Hemming|C Hemming]]<br />{{flagicon|ENG}} [[Steven Stallwood|S Stallwood]]'''
+| RD1-score8-1=16
+| RD1-score8-2='''21'''
+| RD1-score8-3='''21'''
+
+| RD2-seed1=3
+| RD2-team1='''{{flagicon|JPN}} [[Takeshi Kamura|T Kamura]]<br />{{flagicon|JPN}} [[Keigo Sonoda|K Sonoda]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2='''21'''
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2={{flagicon|JPN}} [[Akira Koga|A Koga]]<br />{{flagicon|JPN}} [[Taichi Saito|T Saito]]
+| RD2-score2-1=18
+| RD2-score2-2=8
+| RD2-score2-3=
+
+| RD2-seed3=8
+| RD2-team3='''{{flagicon|ENG}} [[Marcus Ellis|M Ellis]]<br />{{flagicon|ENG}} [[Chris Langridge|C Langridge]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2='''21'''
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4={{flagicon|ENG}} [[Callum Hemming|C Hemming]]<br />{{flagicon|ENG}} [[Steven Stallwood|S Stallwood]]
+| RD2-score4-1=9
+| RD2-score4-2=13
+| RD2-score4-3=
+
+| RD3-seed1=3
+| RD3-team1='''{{flagicon|JPN}} [[Takeshi Kamura|T Kamura]]<br />{{flagicon|JPN}} [[Keigo Sonoda|K Sonoda]]'''
+| RD3-score1-1='''21'''
+| RD3-score1-2=9
+| RD3-score1-3='''21'''
+| RD3-seed2=8
+| RD3-team2={{flagicon|ENG}} [[Marcus Ellis|M Ellis]]<br />{{flagicon|ENG}} [[Chris Langridge|C Langridge]]
+| RD3-score2-1=19
+| RD3-score2-2='''21'''
+| RD3-score2-3=8
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1='''{{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br />{{flagicon|DEN}} [[Niclas Nøhr|N Nøhr]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|MAS}} [[Low Hang Yee|Low H Y]]<br />{{flagicon|MAS}} [[Ng Eng Cheong|Ng E C]]
+| RD1-score2-1=16
+| RD1-score2-2=19
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|GER}} [[Mark Lamsfuß|M Lamsfuß]]<br />{{flagicon|GER}} [[Marvin Emil Seidel|M E Seidel]]
+| RD1-score3-1=11
+| RD1-score3-2=18
+| RD1-score3-3=
+| RD1-seed4=7
+| RD1-team4='''{{flagicon|MAS}} [[Goh V Shem|Goh V S]]<br />{{flagicon|MAS}} [[Tan Wee Kiong|Tan W K]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5={{flagicon|IND}} [[Arjun M.R.]]<br />{{flagicon|IND}} [[Dhruv Kapila|D Kapila]]
+| RD1-score5-1=13
+| RD1-score5-2=12
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6='''{{flagicon|MAS}} [[Ong Yew Sin|Ong Y S]]<br />{{flagicon|MAS}} [[Teo Ee Yi|Teo E Y]]'''
+| RD1-score6-1='''21'''
+| RD1-score6-2='''21'''
+| RD1-score6-3=
+
+| RD1-seed7=PFR
+| RD1-team7={{flagicon|ENG}} [[Rory Easton|R Easton]]<br />{{flagicon|ENG}} [[Zach Russ|Z Russ]]
+| RD1-score7-1=4
+| RD1-score7-2=9
+| RD1-score7-3=
+| RD1-seed8=4
+| RD1-team8='''{{flagicon|JPN}} [[Hiroyuki Endo|H Endo]]<br />{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Y Watanabe]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1='''{{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br />{{flagicon|DEN}} [[Niclas Nøhr|N Nøhr]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2='''21'''
+| RD2-score1-3=
+| RD2-seed2=7
+| RD2-team2={{flagicon|MAS}} [[Goh V Shem|Goh V S]]<br />{{flagicon|MAS}} [[Tan Wee Kiong|Tan W K]]
+| RD2-score2-1=19
+| RD2-score2-2=18
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|MAS}} [[Ong Yew Sin|Ong Y S]]<br />{{flagicon|MAS}} [[Teo Ee Yi|Teo E Y]]
+| RD2-score3-1=10
+| RD2-score3-2=19
+| RD2-score3-3=
+| RD2-seed4=4
+| RD2-team4='''{{flagicon|JPN}} [[Hiroyuki Endo|H Endo]]<br />{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Y Watanabe]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=
+| RD3-team1={{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br />{{flagicon|DEN}} [[Niclas Nøhr|N Nøhr]]
+| RD3-score1-1=22
+| RD3-score1-2=19
+| RD3-score1-3=
+| RD3-seed2=4
+| RD3-team2='''{{flagicon|JPN}} [[Hiroyuki Endo|H Endo]]<br />{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Y Watanabe]]'''
+| RD3-score2-1='''24'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+==== Section 4 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1={{flagicon|NED}} [[Ruben Jille|R Jille]]<br />{{flagicon|NED}} [[Ties van der Lecq|T van der Lecq]]
+| RD1-score1-1=14
+| RD1-score1-2=20
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2='''{{flagicon|THA}} [[Nipitphon Phuangphuapet|N Phuangphuapet]]<br />{{flagicon|THA}} T Viriyangkura'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''22'''
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|NGR}} [[Godwin Olofua|G Olofua]]<br />{{flagicon|NGR}} [[Anuoluwapo Juwon Opeyori|A J Opeyori]]'''
+| RD1-score3-1=w
+| RD1-score3-2=/
+| RD1-score3-3=o
+| RD1-seed4=5
+| RD1-team4={{flagicon|INA}} [[Fajar Alfian|F Alfian]]<br />{{flagicon|INA}} [[Muhammad Rian Ardianto|M R Ardianto]]
+| RD1-score4-1=
+| RD1-score4-2=
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5='''{{flagicon|DEN}} [[Jeppe Bay|J Bay]]<br />{{flagicon|DEN}} [[Lasse Mølhede|L Mølhede]]'''
+| RD1-score5-1='''27'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|DEN}} [[Joel Eipe|J Eipe]]<br />{{flagicon|DEN}} [[Rasmus Kjær|R Kjær]]
+| RD1-score6-1=25
+| RD1-score6-2=11
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|ENG}} [[Ben Lane|B Lane]]<br />{{flagicon|ENG}} [[Sean Vendy|S Vendy]]
+| RD1-score7-1=18
+| RD1-score7-2='''21'''
+| RD1-score7-3=19
+| RD1-seed8=2
+| RD1-team8='''{{flagicon|INA}} [[Mohammad Ahsan|M Ahsan]]<br />{{flagicon|INA}} [[Hendra Setiawan|H Setiawan]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2=19
+| RD1-score8-3='''21'''
+
+| RD2-seed1=
+| RD2-team1='''{{flagicon|THA}} [[Nipitphon Phuangphuapet|N Phuangphuapet]]<br />{{flagicon|THA}} T Viriyangkura'''
+| RD2-score1-1='''21'''
+| RD2-score1-2=17
+| RD2-score1-3='''21'''
+| RD2-seed2=
+| RD2-team2={{flagicon|NGR}} [[Godwin Olofua|G Olofua]]<br />{{flagicon|NGR}} [[Anuoluwapo Juwon Opeyori|A J Opeyori]]
+| RD2-score2-1=19
+| RD2-score2-2='''21'''
+| RD2-score2-3=8
+
+| RD2-seed3=
+| RD2-team3='''{{flagicon|DEN}} [[Jeppe Bay|J Bay]]<br />{{flagicon|DEN}} [[Lasse Mølhede|L Mølhede]]'''
+| RD2-score3-1=w
+| RD2-score3-2=/
+| RD2-score3-3=o
+| RD2-seed4=2
+| RD2-team4={{flagicon|INA}} [[Mohammad Ahsan|M Ahsan]]<br />{{flagicon|INA}} [[Hendra Setiawan|H Setiawan]]
+| RD2-score4-1=
+| RD2-score4-2=
+| RD2-score4-3=
+
+| RD3-seed1=
+| RD3-team1={{flagicon|THA}} [[Nipitphon Phuangphuapet|N Phuangphuapet]]<br />{{flagicon|THA}} T Viriyangkura
+| RD3-score1-1=19
+| RD3-score1-2=12
+| RD3-score1-3=
+| RD3-seed2=
+| RD3-team2='''{{flagicon|DEN}} [[Jeppe Bay|J Bay]]<br />{{flagicon|DEN}} [[Lasse Mølhede|L Mølhede]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+== Women's doubles ==
+=== Seeds ===
+{{colbegin}}
+#{{flagicon|JPN}} [[Yuki Fukushima]] / [[Sayaka Hirota]] ''(final)''
+#'''{{flagicon|JPN}} [[Mayu Matsumoto]] / [[Wakana Nagahara]] (champions)'''
+#{{flagicon|INA}} [[Greysia Polii]] / [[Apriyani Rahayu]] ''(withdrew)''
+#{{flagicon|THA}} [[Jongkolphan Kititharakul]] / [[Rawinda Prajongjai]] ''(first round)''
+#{{flagicon|JPN}} [[Nami Matsuyama]] / [[Chiharu Shida]] ''(semi-finals)''
+#{{flagicon|BUL}} [[Gabriela Stoeva]] / [[Stefani Stoeva]] ''(second round)''
+#{{flagicon|ENG}} [[Chloe Birch]] / [[Lauren Smith (badminton)|Lauren Smith]] ''(quarter-finals)''
+#{{flagicon|DEN}} [[Maiken Fruergaard]] / [[Sara Thygesen]] ''(quarter-finals)''
+{{colend}}
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD1=Semi-finals
+| RD2=Final
+| team-width=160
+
+| RD1-seed1=1
+| RD1-team1='''{{flagicon|JPN}} [[Yuki Fukushima]]<br />{{flagicon|JPN}} [[Sayaka Hirota]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|NED}} [[Selena Piek]]<br />{{flagicon|NED}} [[Cheryl Seinen]]
+| RD1-score2-1=17
+| RD1-score2-2=7
+| RD1-score2-3=
+
+| RD1-seed3=5
+| RD1-team3={{flagicon|JPN}} [[Nami Matsuyama]]<br />{{flagicon|JPN}} [[Chiharu Shida]]
+| RD1-score3-1=19
+| RD1-score3-2=17
+| RD1-score3-3=
+| RD1-seed4=2
+| RD1-team4='''{{flagicon|JPN}} [[Mayu Matsumoto]]<br />{{flagicon|JPN}} [[Wakana Nagahara]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD2-seed1=1
+| RD2-team1={{flagicon|JPN}} [[Yuki Fukushima]]<br />{{flagicon|JPN}} [[Sayaka Hirota]]
+| RD2-score1-1=18
+| RD2-score1-2=16
+| RD2-score1-3=
+| RD2-seed2=2
+| RD2-team2='''{{flagicon|JPN}} [[Mayu Matsumoto]]<br />{{flagicon|JPN}} [[Wakana Nagahara]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=1
+| RD1-team1='''{{flagicon|JPN}} [[Yuki Fukushima|Y Fukushima]]<br />{{flagicon|JPN}} [[Sayaka Hirota|S Hirota]]'''
+| RD1-score1-1=w
+| RD1-score1-2=/
+| RD1-score1-3=o
+| RD1-seed2=
+| RD1-team2={{flagicon|GER}} [[Linda Efler|L Efler]]<br />{{flagicon|GER}} [[Isabel Herttrich|I Herttrich]]
+| RD1-score2-1=
+| RD1-score2-2=
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|DEN}} [[Alexandra Bøje|A Bøje]]<br />{{flagicon|DEN}} [[Mette Poulsen|M Poulsen]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2='''21'''
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4={{flagicon|IND}} [[Meghana Jakkampudi|M Jakkampudi]]<br />{{flagicon|IND}} [[Poorvisha S. Ram|P S. Ram]]
+| RD1-score4-1=10
+| RD1-score4-2=15
+| RD1-score4-3=
+
+| RD1-seed5=7
+| RD1-team5='''{{flagicon|ENG}} [[Chloe Birch|C Birch]]<br />{{flagicon|ENG}} [[Lauren Smith (badminton)|L Smith]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|IND}} [[K. Ashwini Bhat|K. A Bhat]]<br />{{flagicon|IND}} [[Shikha Gautam|S Gautam]]
+| RD1-score6-1=14
+| RD1-score6-2=11
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|DEN}} [[Isabella Nielsen|I Nielsen]]<br />{{flagicon|DEN}} [[Marie Louise Steffensen|M L Steffensen]]'''
+| RD1-score7-1=w
+| RD1-score7-2=/
+| RD1-score7-3=o
+| RD1-seed8=
+| RD1-team8={{flagicon|GER}} [[Annabella Jäger|A Jäger]]<br />{{flagicon|GER}} [[Stine Küspert|S Küspert]]
+| RD1-score8-1=
+| RD1-score8-2=
+| RD1-score8-3=
+
+| RD2-seed1=1
+| RD2-team1='''{{flagicon|JPN}} [[Yuki Fukushima|Y Fukushima]]<br />{{flagicon|JPN}} [[Sayaka Hirota|S Hirota]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2='''21'''
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2={{flagicon|DEN}} [[Alexandra Bøje|A Bøje]]<br />{{flagicon|DEN}} [[Mette Poulsen|M Poulsen]]
+| RD2-score2-1=7
+| RD2-score2-2=15
+| RD2-score2-3=
+
+| RD2-seed3=7
+| RD2-team3='''{{flagicon|ENG}} [[Chloe Birch|C Birch]]<br />{{flagicon|ENG}} [[Lauren Smith (badminton)|L Smith]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2='''21'''
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4={{flagicon|DEN}} [[Isabella Nielsen|I Nielsen]]<br />{{flagicon|DEN}} [[Marie Louise Steffensen|M L Steffensen]]
+| RD2-score4-1=14
+| RD2-score4-2=11
+| RD2-score4-3=
+
+| RD3-seed1=1
+| RD3-team1='''{{flagicon|JPN}} [[Yuki Fukushima|Y Fukushima]]<br />{{flagicon|JPN}} [[Sayaka Hirota|S Hirota]]'''
+| RD3-score1-1=14
+| RD3-score1-2='''21'''
+| RD3-score1-3='''21'''
+| RD3-seed2=7
+| RD3-team2={{flagicon|ENG}} [[Chloe Birch|C Birch]]<br />{{flagicon|ENG}} [[Lauren Smith (badminton)|L Smith]]
+| RD3-score2-1='''21'''
+| RD3-score2-2=12
+| RD3-score2-3=14
+}}
+
+==== Section 2 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=3
+| RD1-team1='''{{flagicon|INA}} [[Greysia Polii|G Polii]]<br />{{flagicon|INA}} [[Apriyani Rahayu|A Rahayu]]'''
+| RD1-score1-1=w
+| RD1-score1-2=/
+| RD1-score1-3=o
+| RD1-seed2=
+| RD1-team2={{flagicon|GER}} [[Kilasu Ostermeyer|K Ostermeyer]]<br />{{flagicon|GER}} [[Franziska Volkmann|F Volkmann]]
+| RD1-score2-1=
+| RD1-score2-2=
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|NED}} [[Selena Piek|S Piek]]<br />{{flagicon|NED}} [[Cheryl Seinen|C Seinen]]'''
+| RD1-score3-1='''22'''
+| RD1-score3-2='''21'''
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4={{flagicon|SWE}} [[Johanna Magnusson|J Magnusson]]<br />{{flagicon|SWE}} [[Clara Nistad|C Nistad]]
+| RD1-score4-1=20
+| RD1-score4-2=12
+| RD1-score4-3=
+
+| RD1-seed5=6
+| RD1-team5='''{{flagicon|BUL}} [[Gabriela Stoeva|G Stoeva]]<br />{{flagicon|BUL}} [[Stefani Stoeva|S Stoeva]]'''
+| RD1-score5-1=w
+| RD1-score5-2=/
+| RD1-score5-3=o
+| RD1-seed6=
+| RD1-team6={{flagicon|FRA}} [[Vimala Hériau|V Hériau]]<br />{{flagicon|FRA}} [[Margot Lambert|M Lambert]]
+| RD1-score6-1=
+| RD1-score6-2=
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|THA}} [[Benyapa Aimsaard|B Aimsaard]]<br />{{flagicon|THA}} [[Nuntakarn Aimsaard|N Aimsaard]]
+| RD1-score7-1=14
+| RD1-score7-2=12
+| RD1-score7-3=
+| RD1-seed8=
+| RD1-team8='''{{flagicon|IND}} [[Ashwini Ponnappa|A Ponnappa]]<br />{{flagicon|IND}} [[N. Sikki Reddy|N. S Reddy]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=3
+| RD2-team1={{flagicon|INA}} [[Greysia Polii|G Polii]]<br />{{flagicon|INA}} [[Apriyani Rahayu|A Rahayu]]
+| RD2-score1-1=
+| RD2-score1-2=
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2='''{{flagicon|NED}} [[Selena Piek|S Piek]]<br />{{flagicon|NED}} [[Cheryl Seinen|C Seinen]]'''
+| RD2-score2-1=w
+| RD2-score2-2=/
+| RD2-score2-3=o
+
+| RD2-seed3=6
+| RD2-team3={{flagicon|BUL}} [[Gabriela Stoeva|G Stoeva]]<br />{{flagicon|BUL}} [[Stefani Stoeva|S Stoeva]]
+| RD2-score3-1=17
+| RD2-score3-2=10
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4='''{{flagicon|IND}} [[Ashwini Ponnappa|A Ponnappa]]<br />{{flagicon|IND}} [[N. Sikki Reddy|N. S Reddy]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=
+| RD3-team1='''{{flagicon|NED}} [[Selena Piek|S Piek]]<br />{{flagicon|NED}} [[Cheryl Seinen|C Seinen]]'''
+| RD3-score1-1='''24'''
+| RD3-score1-2='''21'''
+| RD3-score1-3=
+| RD3-seed2=
+| RD3-team2={{flagicon|IND}} [[Ashwini Ponnappa|A Ponnappa]]<br />{{flagicon|IND}} [[N. Sikki Reddy|N. S Reddy]]
+| RD3-score2-1=22
+| RD3-score2-2=12
+| RD3-score2-3=
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1='''{{flagicon|EST}} [[Kati-Kreet Marran|K-K Marran]]<br />{{flagicon|EST}} [[Helina Rüütel|H Rüütel]]'''
+| RD1-score1-1='''24'''
+| RD1-score1-2=16
+| RD1-score1-3='''21'''
+| RD1-seed2=
+| RD1-team2={{flagicon|DEN}} [[Christine Busch|C Busch]]<br />{{flagicon|DEN}} [[Amalie Schulz|A Schulz]]
+| RD1-score2-1=22
+| RD1-score2-2='''21'''
+| RD1-score2-3=14
+
+| RD1-seed3=
+| RD1-team3= {{flagicon|JPN}} [[Ayako Sakuramoto|A Sakuramoto]]<br />{{flagicon|JPN}} [[Yukiko Takahata|Y Takahata]]
+| RD1-score3-1=19
+| RD1-score3-2='''21'''
+| RD1-score3-3=17
+| RD1-seed4=5
+| RD1-team4='''{{flagicon|JPN}} [[Nami Matsuyama|N Matsuyama]]<br />{{flagicon|JPN}} [[Chiharu Shida|C Shida]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2=16
+| RD1-score4-3='''21'''
+
+| RD1-seed5=
+| RD1-team5={{flagicon|MAS}} [[Teoh Mei Xing|Teoh M X]]<br />{{flagicon|MAS}} [[Yap Ling|Yap L]]
+| RD1-score5-1= 
+| RD1-score5-2=
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6='''{{flagicon|ENG}} [[Jessica Hopton|J Hopton]]<br />{{flagicon|ENG}} [[Jenny Moore|J Moore]]'''
+| RD1-score6-1=w
+| RD1-score6-2=/
+| RD1-score6-3=o
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|MAS}} [[Pearly Tan Koong Le|P Tan K L]]<br />{{flagicon|MAS}} [[Thinaah Muralitharan|Thinaah M]]'''
+| RD1-score7-1='''21'''
+| RD1-score7-2='''23'''
+| RD1-score7-3=
+| RD1-seed8=4
+| RD1-team8={{flagicon|THA}} [[Jongkolphan Kititharakul|J Kititharakul]]<br />{{flagicon|THA}} [[Rawinda Prajongjai|R Prajongjai]]
+| RD1-score8-1=17
+| RD1-score8-2=21
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|EST}} [[Kati-Kreet Marran|K-K Marran]]<br />{{flagicon|EST}} [[Helina Rüütel|H Rüütel]]
+| RD2-score1-1=8
+| RD2-score1-2=12
+| RD2-score1-3=
+| RD2-seed2=5
+| RD2-team2='''{{flagicon|JPN}} [[Nami Matsuyama|N Matsuyama]]<br />{{flagicon|JPN}} [[Chiharu Shida|C Shida]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|ENG}} [[Jessica Hopton|J Hopton]]<br />{{flagicon|ENG}} [[Jenny Moore|J Moore]]
+| RD2-score3-1=18
+| RD2-score3-2=7
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4='''{{flagicon|MAS}} [[Pearly Tan Koong Le|P Tan K L]]<br />{{flagicon|MAS}} [[Thinaah Muralitharan|Thinaah M]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=5
+| RD3-team1='''{{flagicon|JPN}} [[Nami Matsuyama|N Matsuyama]]<br />{{flagicon|JPN}} [[Chiharu Shida|C Shida]]'''
+| RD3-score1-1='''21'''
+| RD3-score1-2=20
+| RD3-score1-3='''21'''
+| RD3-seed2=
+| RD3-team2={{flagicon|MAS}} [[Pearly Tan Koong Le|P Tan K L]]<br />{{flagicon|MAS}} [[Thinaah Muralitharan|Thinaah M]]
+| RD3-score2-1=12
+| RD3-score2-2='''22'''
+| RD3-score2-3=16
+}}
+
+==== Section 4 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1={{flagicon|EGY}} [[Doha Hany|D Hany]]<br />{{flagicon|EGY}} [[Hadia Hosny|H Hosny]]
+| RD1-score1-1=8
+| RD1-score1-2=7
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2='''{{flagicon|DEN}} [[Amalie Magelund|A Magelund]]<br />{{flagicon|DEN}} [[Freja Ravn|F Ravn]]'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''21'''
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|ENG}} [[Annie Lado|A Lado]]<br />{{flagicon|ENG}} [[Victoria Williams (badminton)|V Williams]]
+| RD1-score3-1=11
+| RD1-score3-2=10
+| RD1-score3-3=
+| RD1-seed4=8
+| RD1-team4='''{{flagicon|DEN}} [[Maiken Fruergaard|M Fruergaard]]<br />{{flagicon|DEN}} [[Sara Thygesen|S Thygesen]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5='''{{flagicon|FRA}} [[Émilie Lefel|É Lefel]]<br />{{flagicon|FRA}} [[Anne Tran|A Tran]]'''
+| RD1-score5-1=w
+| RD1-score5-2=/
+| RD1-score5-3=o
+| RD1-seed6=
+| RD1-team6={{flagicon|SCO}} [[Julie MacPherson|J MacPherson]]<br />{{flagicon|SCO}} [[Ciara Torrance|C Torrance]]
+| RD1-score6-1=
+| RD1-score6-2=
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|DEN}} [[Julie Finne-Ipsen|J Finne-Ipsen]]<br />{{flagicon|DEN}} [[Mai Surrow|M Surrow]]
+| RD1-score7-1=6
+| RD1-score7-2=18
+| RD1-score7-3=
+| RD1-seed8=2
+| RD1-team8='''{{flagicon|JPN}} [[Mayu Matsumoto|M Matsumoto]]<br />{{flagicon|JPN}} [[Wakana Nagahara|W Nagahara]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|DEN}} [[Amalie Magelund|A Magelund]]<br />{{flagicon|DEN}} [[Freja Ravn|F Ravn]]
+| RD2-score1-1=13
+| RD2-score1-2=10
+| RD2-score1-3=
+| RD2-seed2=8
+| RD2-team2='''{{flagicon|DEN}} [[Maiken Fruergaard|M Fruergaard]]<br />{{flagicon|DEN}} [[Sara Thygesen|S Thygesen]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|FRA}} [[Émilie Lefel|É Lefel]]<br />{{flagicon|FRA}} [[Anne Tran|A Tran]]
+| RD2-score3-1=10
+| RD2-score3-2=16
+| RD2-score3-3=
+| RD2-seed4=2
+| RD2-team4='''{{flagicon|JPN}} [[Mayu Matsumoto|M Matsumoto]]<br />{{flagicon|JPN}} [[Wakana Nagahara|W Nagahara]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=8
+| RD3-team1={{flagicon|DEN}} [[Maiken Fruergaard|M Fruergaard]]<br />{{flagicon|DEN}} [[Sara Thygesen|S Thygesen]]
+| RD3-score1-1=14
+| RD3-score1-2='''21'''
+| RD3-score1-3=15
+| RD3-seed2=2
+| RD3-team2='''{{flagicon|JPN}} [[Mayu Matsumoto|M Matsumoto]]<br />{{flagicon|JPN}} [[Wakana Nagahara|W Nagahara]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2=19
+| RD3-score2-3='''21'''
+}}
+
+== Mixed doubles ==
+=== Seeds ===
+{{colbegin}}
+#{{flagicon|INA}} [[Praveen Jordan]] / [[Melati Daeva Oktavianti]] ''(withdrew)''
+#'''{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Yuta Watanabe]] / [[Arisa Higashino]] (champions)'''
+#{{flagicon|MAS}} [[Chan Peng Soon]] / [[Goh Liu Ying]] ''(semi-finals)''
+#{{flagicon|ENG}} [[Marcus Ellis]] / [[Lauren Smith (badminton)|Lauren Smith]] ''(semi-finals)''
+#{{flagicon|MAS}} [[Goh Soon Huat]] / [[Shevon Jemie Lai]] ''(first round)''
+#{{flagicon|MAS}} [[Tan Kian Meng]] / [[Lai Pei Jing]] ''(quarter-finals)''
+#{{flagicon|FRA}} [[Thom Gicquel]] / [[Delphine Delrue]] ''(quarter-finals)''
+#{{flagicon|ENG}} [[Chris Adcock]] / [[Gabby Adcock]] ''(withdrew)''
+{{colend}}
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD1=Semi-finals
+| RD2=Final
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1='''{{flagicon|JPN}} [[Yuki Kaneko (badminton)|Yuki Kaneko]]<br /> {{flagicon|JPN}} [[Misaki Matsutomo]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''22'''
+| RD1-score1-3=
+| RD1-seed2=3
+| RD1-team2={{flagicon|MAS}} [[Chan Peng Soon]]<br />{{flagicon|MAS}} [[Goh Liu Ying]]
+| RD1-score2-1=14
+| RD1-score2-2=20
+| RD1-score2-3=
+
+| RD1-seed3=4
+| RD1-team3={{flagicon|ENG}} [[Marcus Ellis]]<br />{{flagicon|ENG}} [[Lauren Smith (badminton)|Lauren Smith]]
+| RD1-score3-1=10
+| RD1-score3-2=18
+| RD1-score3-3=
+| RD1-seed4=2
+| RD1-team4='''{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Yuta Watanabe]]<br />{{flagicon|JPN}} [[Arisa Higashino]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|JPN}} [[Yuki Kaneko (badminton)|Yuki Kaneko]]<br /> {{flagicon|JPN}} [[Misaki Matsutomo]]
+| RD2-score1-1=14
+| RD2-score1-2=13
+| RD2-score1-3=
+| RD2-seed2=2
+| RD2-team2='''{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Yuta Watanabe]]<br />{{flagicon|JPN}} [[Arisa Higashino]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=1
+| RD1-team1={{flagicon|INA}} [[Praveen Jordan|P Jordan]]<br />{{flagicon|INA}} [[Melati Daeva Oktavianti|M D Oktavianti]]
+| RD1-score1-1=
+| RD1-score1-2=
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2='''{{flagicon|IND}} [[Dhruv Kapila|D Kapila]]<br />{{flagicon|IND}} [[Meghana Jakkampudi|M Jakkampudi]]'''
+| RD1-score2-1=w
+| RD1-score2-2=/
+| RD1-score2-3=o
+
+| RD1-seed3=
+| RD1-team3={{flagicon|MAS}} [[Hoo Pang Ron|Hoo P R]]<br />{{flagicon|MAS}} [[Cheah Yee See|Cheah Y S]]
+| RD1-score3-1=13
+| RD1-score3-2=14
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4='''{{flagicon|DEN}} [[Niclas Nøhr|N Nøhr]]<br />{{flagicon|DEN}} [[Amalie Magelund|A Magelund]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=5
+| RD1-team5={{flagicon|MAS}} [[Goh Soon Huat|Goh S H]]<br />{{flagicon|MAS}} [[Shevon Jemie Lai|S J Lai]]
+| RD1-score5-1=19
+| RD1-score5-2=16
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6='''{{flagicon|IRL}} [[Sam Magee|S Magee]]<br />{{flagicon|IRL}} [[Chloe Magee|C Magee]]'''
+| RD1-score6-1='''21'''
+| RD1-score6-2='''21'''
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7='''{{flagicon|JPN}} [[Yuki Kaneko (badminton)|Y Kaneko]]<br /> {{flagicon|JPN}} [[Misaki Matsutomo|M Matsutomo]]'''
+| RD1-score7-1='''21'''
+| RD1-score7-2='''21'''
+| RD1-score7-3=
+| RD1-seed8=
+| RD1-team8={{flagicon|IND}} [[Satwiksairaj Rankireddy|S Rankireddy]]<br />{{flagicon|IND}} [[Ashwini Ponnappa|A Ponnappa]]
+| RD1-score8-1=19
+| RD1-score8-2=9
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1={{flagicon|IND}} [[Dhruv Kapila|D Kapila]]<br />{{flagicon|IND}} [[Meghana Jakkampudi|M Jakkampudi]]
+| RD2-score1-1=19
+| RD2-score1-2=8
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2='''{{flagicon|DEN}} [[Niclas Nøhr|N Nøhr]]<br />{{flagicon|DEN}} [[Amalie Magelund|A Magelund]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|IRL}} [[Sam Magee|S Magee]]<br />{{flagicon|IRL}} [[Chloe Magee|C Magee]]
+| RD2-score3-1=16
+| RD2-score3-2='''21'''
+| RD2-score3-3=13
+| RD2-seed4=
+| RD2-team4='''{{flagicon|JPN}} [[Yuki Kaneko (badminton)|Y Kaneko]]<br /> {{flagicon|JPN}} [[Misaki Matsutomo|M Matsutomo]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2=19
+| RD2-score4-3='''21'''
+
+| RD3-seed1=
+| RD3-team1={{flagicon|DEN}} [[Niclas Nøhr|N Nøhr]]<br />{{flagicon|DEN}} [[Amalie Magelund|A Magelund]]
+| RD3-score1-1=15
+| RD3-score1-2=10
+| RD3-score1-3=
+| RD3-seed2=
+| RD3-team2='''{{flagicon|JPN}} [[Yuki Kaneko (badminton)|Y Kaneko]]<br /> {{flagicon|JPN}} [[Misaki Matsutomo|M Matsutomo]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+==== Section 2 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=3
+| RD1-team1='''{{flagicon|MAS}} [[Chan Peng Soon|Chan P S]]<br />{{flagicon|MAS}} [[Goh Liu Ying|Goh L Y]]'''
+| RD1-score1-1=21
+| RD1-score1-2='''21'''
+| RD1-score1-3='''21'''
+| RD1-seed2=
+| RD1-team2={{flagicon|DEN}} [[Mathias Thyrri|M Thyrri]]<br />{{flagicon|DEN}} [[Mai Surrow|M Surrow]]
+| RD1-score2-1='''23'''
+| RD1-score2-2=15
+| RD1-score2-3=12
+
+| RD1-seed3=
+| RD1-team3='''{{flagicon|THA}} [[Nipitphon Phuangphuapet|N Phuangphuapet]]<br />{{flagicon|THA}} [[Benyapa Aimsaard|B Aimsaard]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2='''22'''
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4={{flagicon|FRA}} [[Eloi Adam|E Adam]]<br />{{flagicon|FRA}} [[Margot Lambert|M Lambert]]
+| RD1-score4-1=19
+| RD1-score4-2=20
+| RD1-score4-3=
+
+| RD1-seed5=7
+| RD1-team5='''{{flagicon|FRA}} [[Thom Gicquel|T Gicquel]]<br />{{flagicon|FRA}} [[Delphine Delrue|D Delrue]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|ENG}} [[Callum Hemming|C Hemming]]<br />{{flagicon|ENG}} [[Victoria Williams (badminton)|V Williams]]
+| RD1-score6-1=10
+| RD1-score6-2=11
+| RD1-score6-3=
+
+| RD1-seed7=PFR
+| RD1-team7={{flagicon|ENG}} [[Gregory Mairs|G Mairs]]<br />{{flagicon|ENG}} [[Jenny Moore|J Moore]]
+| RD1-score7-1=13
+| RD1-score7-2='''21'''
+| RD1-score7-3=18
+| RD1-seed8=
+| RD1-team8='''{{flagicon|MAS}} [[Chen Tang Jie|Chen T J]]<br />{{flagicon|MAS}} [[Peck Yen Wei|Peck Y W]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2=18
+| RD1-score8-3='''21'''
+
+| RD2-seed1=3
+| RD2-team1='''{{flagicon|MAS}} [[Chan Peng Soon|Chan P S]]<br />{{flagicon|MAS}} [[Goh Liu Ying|Goh L Y]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2='''21'''
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2={{flagicon|THA}} [[Nipitphon Phuangphuapet|N Phuangphuapet]]<br />{{flagicon|THA}} [[Benyapa Aimsaard|B Aimsaard]]
+| RD2-score2-1=9
+| RD2-score2-2=8
+| RD2-score2-3=
+
+| RD2-seed3=7
+| RD2-team3='''{{flagicon|FRA}} [[Thom Gicquel|T Gicquel]]<br />{{flagicon|FRA}} [[Delphine Delrue|D Delrue]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2=20
+| RD2-score3-3='''21'''
+| RD2-seed4=
+| RD2-team4={{flagicon|MAS}} [[Chen Tang Jie|Chen T J]]<br />{{flagicon|MAS}} [[Peck Yen Wei|Peck Y W]]
+| RD2-score4-1=19
+| RD2-score4-2='''22'''
+| RD2-score4-3=14
+
+| RD3-seed1=3
+| RD3-team1='''{{flagicon|MAS}} [[Chan Peng Soon|Chan P S]]<br />{{flagicon|MAS}} [[Goh Liu Ying|Goh L Y]]'''
+| RD3-score1-1=17
+| RD3-score1-2='''21'''
+| RD3-score1-3='''22'''
+| RD3-seed2=7
+| RD3-team2={{flagicon|FRA}} [[Thom Gicquel|T Gicquel]]<br />{{flagicon|FRA}} [[Delphine Delrue|D Delrue]]
+| RD3-score2-1='''21'''
+| RD3-score2-2=18
+| RD3-score2-3=20
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=
+| RD1-team1={{flagicon|DEN}} [[Jeppe Bay|J Bay]]<br />{{flagicon|DEN}} [[Sara Lundgaard|S Lundgaard]]
+| RD1-score1-1=13
+| RD1-score1-2=16
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2='''{{flagicon|DEN}} [[Mikkel Mikkelsen (badminton)|M Mikkelsen]]<br />{{flagicon|DEN}} [[Rikke Søby Hansen|R Søby Hansen]]'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''21'''
+| RD1-score2-3=
+
+| RD1-seed3=PFR
+| RD1-team3='''{{flagicon|GER}} [[Patrick Scheiel|P Scheiel]]<br />{{flagicon|GER}} [[Franziska Volkmann|F Volkmann]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2=21
+| RD1-score3-3='''21'''
+| RD1-seed4=PFR
+| RD1-team4={{flagicon|ISR}} [[Misha Zilberman|M Zilberman]]<br />{{flagicon|ISR}} [[Svetlana Zilberman|S Zilberman]]
+| RD1-score4-1=15
+| RD1-score4-2='''23'''
+| RD1-score4-3=14
+
+| RD1-seed5=PFR
+| RD1-team5='''{{flagicon|DEN}} [[Rasmus Espersen|R Espersen]]<br />{{flagicon|DEN}} [[Christine Busch|C Busch]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|IND}} [[Pranav Chopra|P Chopra]]<br />{{flagicon|IND}} [[N. Sikki Reddy|N. S Reddy]]
+| RD1-score6-1=15
+| RD1-score6-2=17
+| RD1-score6-3=
+
+| RD1-seed7=PFR
+| RD1-team7={{flagicon|IRL}} [[Paul Reynolds (badminton)|P Reynolds]]<br />{{flagicon|IRL}} [[Rachel Darragh|R Darragh]]
+| RD1-score7-1=12
+| RD1-score7-2=11
+| RD1-score7-3=
+| RD1-seed8=4
+| RD1-team8='''{{flagicon|ENG}} [[Marcus Ellis|M Ellis]]<br />{{flagicon|ENG}} [[Lauren Smith (badminton)|L Smith]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=
+| RD2-team1='''{{flagicon|DEN}} [[Mikkel Mikkelsen (badminton)|M Mikkelsen]]<br />{{flagicon|DEN}} [[Rikke Søby Hansen|R Søby Hansen]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2='''21'''
+| RD2-score1-3=
+| RD2-seed2=PFR
+| RD2-team2={{flagicon|GER}} [[Patrick Scheiel|P Scheiel]]<br />{{flagicon|GER}} [[Franziska Volkmann|F Volkmann]]
+| RD2-score2-1=9
+| RD2-score2-2=19
+| RD2-score2-3=
+
+| RD2-seed3=PFR
+| RD2-team3={{flagicon|DEN}} [[Rasmus Espersen|R Espersen]]<br />{{flagicon|DEN}} [[Christine Busch|C Busch]]
+| RD2-score3-1=19
+| RD2-score3-2=13
+| RD2-score3-3=
+| RD2-seed4=4
+| RD2-team4='''{{flagicon|ENG}} [[Marcus Ellis|M Ellis]]<br />{{flagicon|ENG}} [[Lauren Smith (badminton)|L Smith]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=
+| RD3-team1={{flagicon|DEN}} [[Mikkel Mikkelsen (badminton)|M Mikkelsen]]<br />{{flagicon|DEN}} [[Rikke Søby Hansen|R Søby Hansen]]
+| RD3-score1-1=20
+| RD3-score1-2=19
+| RD3-score1-3=
+| RD3-seed2=4
+| RD3-team2='''{{flagicon|ENG}} [[Marcus Ellis|M Ellis]]<br />{{flagicon|ENG}} [[Lauren Smith (badminton)|L Smith]]'''
+| RD3-score2-1='''22'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+==== Section 4 ====
+{{8TeamBracket-Tennis3 
+| RD1=First Round
+| RD2=Second Round
+| RD3=Quarter-finals
+| team-width=160
+
+| RD1-seed1=PFR
+| RD1-team1='''{{flagicon|ENG}} [[Steven Stallwood|S Stallwood]]<br />{{flagicon|ENG}} [[Annie Lado|A Lado]]'''
+| RD1-score1-1='''21'''
+| RD1-score1-2='''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|EGY}} [[Adham Hatem Elgamal|A H Elgamal]]<br />{{flagicon|EGY}} [[Doha Hany|D Hany]]
+| RD1-score2-1=10
+| RD1-score2-2=12
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3={{flagicon|JPN}} [[Takuro Hoki|T Hoki]]<br />{{flagicon|JPN}} [[Nami Matsuyama|N Matsuyama]]
+| RD1-score3-1=13
+| RD1-score3-2=13
+| RD1-score3-3=
+| RD1-seed4=6
+| RD1-team4='''{{flagicon|MAS}} [[Tan Kian Meng|Tan K M]]<br />{{flagicon|MAS}} [[Lai Pei Jing|Lai P J]]'''
+| RD1-score4-1='''21'''
+| RD1-score4-2='''21'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5='''{{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br />{{flagicon|DEN}} [[Alexandra Bøje|A Bøje]]'''
+| RD1-score5-1='''21'''
+| RD1-score5-2='''22'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6={{flagicon|NED}} [[Robin Tabeling|R Tabeling]]<br />{{flagicon|NED}} [[Selena Piek|S Piek]]
+| RD1-score6-1=16
+| RD1-score6-2=20
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7={{flagicon|FRA}} [[Ronan Labar|R Labar]]<br />{{flagicon|FRA}} [[Anne Tran|A Tran]]
+| RD1-score7-1=10
+| RD1-score7-2=18
+| RD1-score7-3=
+| RD1-seed8=2
+| RD1-team8='''{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Y Watanabe]]<br />{{flagicon|JPN}} [[Arisa Higashino|A Higashino]]'''
+| RD1-score8-1='''21'''
+| RD1-score8-2='''21'''
+| RD1-score8-3=
+
+| RD2-seed1=PFR
+| RD2-team1={{flagicon|ENG}} [[Steven Stallwood|S Stallwood]]<br />{{flagicon|ENG}} [[Annie Lado|A Lado]]
+| RD2-score1-1=15
+| RD2-score1-2=15
+| RD2-score1-3=
+| RD2-seed2=6
+| RD2-team2='''{{flagicon|MAS}} [[Tan Kian Meng|Tan K M]]<br />{{flagicon|MAS}} [[Lai Pei Jing|Lai P J]]'''
+| RD2-score2-1='''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3={{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br />{{flagicon|DEN}} [[Alexandra Bøje|A Bøje]]
+| RD2-score3-1=16
+| RD2-score3-2=19
+| RD2-score3-3=
+| RD2-seed4=2
+| RD2-team4='''{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Y Watanabe]]<br />{{flagicon|JPN}} [[Arisa Higashino|A Higashino]]'''
+| RD2-score4-1='''21'''
+| RD2-score4-2='''21'''
+| RD2-score4-3=
+
+| RD3-seed1=6
+| RD3-team1={{flagicon|MAS}} [[Tan Kian Meng|Tan K M]]<br />{{flagicon|MAS}} [[Lai Pei Jing|Lai P J]]
+| RD3-score1-1=17
+| RD3-score1-2=9
+| RD3-score1-3=
+| RD3-seed2=2
+| RD3-team2='''{{flagicon|JPN}} [[Yuta Watanabe (badminton)|Y Watanabe]]<br />{{flagicon|JPN}} [[Arisa Higashino|A Higashino]]'''
+| RD3-score2-1='''21'''
+| RD3-score2-2='''21'''
+| RD3-score2-3=
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://bwf.tournamentsoftware.com/sport/tournament?id=F25CD30E-3F46-4AAF-843A-EBA0677FF99C Tournament Link]
+* [http://www.allenglandbadminton.com Official Website]
+
+{{s-start}}
+{{succession box | before=[[2021 Swiss Open (badminton)|2021 Swiss Open]] | title=[[2021 BWF World Tour|BWF World Tour]] <br />[[2021 BWF season]] | years= | after=[[2021 Orléans Masters]] }}
+{{s-end}}
+
+{{2021 BWF World Tour}}
+{{All England}}
+
+[[Category:All England Open Badminton Championships]]
+[[Category:2021 BWF World Tour|All England Open]]
+[[Category:2021 in English sport|All England]]
+[[Category:March 2021 sports events in the United Kingdom|All England]]
+[[Category:International sports competitions in Birmingham, West Midlands]]
+[[Category:Sports controversies]]

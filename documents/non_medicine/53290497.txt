@@ -1,0 +1,397 @@
+{{short description|Russian cross-country skier}}
+{{Use dmy dates|date=February 2021}}
+{{family name hatnote|Aleksandrovich|Bolshunov|lang=Eastern Slavic}}
+{{Infobox skier
+| name              = Alexander Bolshunov
+| image             = 20190301 FIS NWSC Seefeld Medal Ceremony 850 6060 Alexander Bolshunov.jpg
+| caption           = Bolshunov in 2019
+| nationality       = {{RUS}}
+| fullname          = Alexander Alexandrovich Bolshunov
+| birth_date        = {{birth date and age|1996|12|31|df=yes}}
+| birth_place       = [[Podyvotye]], [[Sevsky District]], [[Bryansk Oblast]], [[Russia]]
+| height            = 1.85 m
+| club              = SC Vodnik
+| personalbest      = 
+| seasons           = 6 – ([[2016–17 FIS Cross-Country World Cup|2017]]–[[2021–22 FIS Cross-Country World Cup|2022]])
+| wins              = 28<!--28 as of 4 January 2022-->
+| teamwins          = 1<!--1 as of 20 December 2020-->
+| totalpodiums      = 59<!--59 as of 4 January 2022-->
+| teampodiums       = 4<!--4 as of 19 December 2021-->
+| wcoveralls        = 2 – ([[2019-20 FIS Cross-Country World Cup|2020]], [[2020-21 FIS Cross-Country World Cup|2021]])
+| wctitles          = 3 – ({{Abbr|DI|Distance}} in [[2018-19 FIS Cross-Country World Cup|2019]], [[2019-20 FIS Cross-Country World Cup|2020]], [[2020-21 FIS Cross-Country World Cup|2021]])
+| individual_starts = 110<!--110 as of 27 February 2022-->
+| team_starts       = 6<!--6 as of 19 December 2021-->
+| updated           = 8 April 2022
+| show-medals       = no
+| medaltemplates    =
+{{MedalSport|Men's [[Cross-country skiing (sport)|cross-country skiing]]}}
+{{Medal|Competition|International nordic ski competitions}}
+{{MedalCount|total=yes
+|[[Cross-country skiing at the Winter Olympics|Olympic Games]]|3|4|2
+|[[FIS Nordic World Ski Championships|World Championships]]|1|6|1
+}}
+{{MedalCountry|{{flagIOC|ROC|2022 Winter}}}}
+{{Medal|Competition|[[Cross-country skiing at the Winter Olympics|Olympic Games]]}}
+{{MedalGold|[[2022 Winter Olympics|2022&nbsp;Beijing]]|[[Cross-country skiing at the 2022 Winter Olympics – Men's 30 kilometre skiathlon|30&nbsp;km&nbsp;skiathlon]]}}
+{{MedalGold|2022&nbsp;Beijing|[[Cross-country skiing at the 2022 Winter Olympics – Men's 50 kilometre classical|50&nbsp;km&nbsp;freestyle]]}}
+{{MedalGold|2022&nbsp;Beijing|[[Cross-country skiing at the 2022 Winter Olympics – Men's 4 × 10 kilometre relay|4&nbsp;×&nbsp;10&nbsp;km&nbsp;relay]]}}
+{{MedalSilver|2022&nbsp;Beijing|[[Cross-country skiing at the 2022 Winter Olympics – Men's 15 kilometre classical|15&nbsp;km&nbsp;classical]]}}
+{{MedalBronze|2022&nbsp;Beijing|[[Cross-country skiing at the 2022 Winter Olympics – Men's team sprint|Team&nbsp;sprint]]}}
+{{MedalCountry|<br>{{flagIOC|OAR|2018 Winter}}}}
+{{Medal|Competition|[[Cross-country skiing at the Winter Olympics|Olympic Games]]}}
+{{MedalSilver|[[2018 Winter Olympics|2018&nbsp;Pyeongchang]]|[[Cross-country skiing at the 2018 Winter Olympics – Men's 4 × 10 kilometre relay|4&nbsp;×&nbsp;10&nbsp;km&nbsp;relay]]}}
+{{MedalSilver|2018&nbsp;Pyeongchang|[[Cross-country skiing at the 2018 Winter Olympics – Men's team sprint|Team&nbsp;sprint]]}}
+{{MedalSilver|2018&nbsp;Pyeongchang|[[Cross-country skiing at the 2018 Winter Olympics – Men's 50 kilometre classical|50&nbsp;km&nbsp;classical]]}}
+{{Medal|Bronze|2018&nbsp;Pyeongchang|[[Cross-country skiing at the 2018 Winter Olympics – Men's sprint|Individual&nbsp;sprint]]}}
+{{MedalCountry|{{Flag|Russia|roc-olympics|name=Russian Ski Federation}}}}
+{{MedalCompetition|[[FIS Nordic World Ski Championships|World Championships]]}}
+{{MedalGold|[[FIS Nordic World Ski Championships 2021|2021&nbsp;Oberstdorf]]|[[FIS Nordic World Ski Championships 2021 – Men's 30 kilometre pursuit|30&nbsp;km&nbsp;skiathlon]]}}
+{{MedalSilver|2021&nbsp;Oberstdorf|[[FIS Nordic World Ski Championships 2021 – Men's 50 kilometre classical|50&nbsp;km&nbsp;classical]]}}
+{{MedalSilver|2021&nbsp;Oberstdorf|[[FIS Nordic World Ski Championships 2021 – Men's 4 × 10 kilometre relay|4&nbsp;×&nbsp;10&nbsp;km&nbsp;relay]]}}
+{{MedalBronze|2021&nbsp;Oberstdorf|[[FIS Nordic World Ski Championships 2021 – Men's team sprint|Team&nbsp;sprint]]}}
+{{MedalCountry|{{RUS}}}}
+{{MedalCompetition|[[FIS Nordic World Ski Championships|World Championships]]}}
+{{MedalSilver|[[FIS Nordic World Ski Championships 2019|2019&nbsp;Seefeld]]|[[FIS Nordic World Ski Championships 2019 – Men's 30 kilometre pursuit|30&nbsp;km&nbsp;skiathlon]]}}
+{{MedalSilver|2019&nbsp;Seefeld|[[FIS Nordic World Ski Championships 2019 – Men's 50 kilometre freestyle|50&nbsp;km&nbsp;freestyle]]}}
+{{MedalSilver|2019&nbsp;Seefeld|[[FIS Nordic World Ski Championships 2019 – Men's team sprint|Team&nbsp;sprint]]}}
+{{MedalSilver|2019&nbsp;Seefeld|[[FIS Nordic World Ski Championships 2019 – Men's 4 × 10 kilometre relay|4&nbsp;×&nbsp;10&nbsp;km&nbsp;relay]]}}
+{{MedalCompetition|[[FIS Nordic Junior World Ski Championships|U23 World Championships]]}}
+{{MedalGold|[[2017 Nordic Junior World Ski Championships|2017&nbsp;Park&nbsp;City]]|15&nbsp;km&nbsp;freestyle}}
+{{MedalGold|2017&nbsp;Park&nbsp;City|30&nbsp;km&nbsp;skiathlon}}
+{{MedalSilver|2017&nbsp;Park&nbsp;City|Individual&nbsp;sprint}}
+{{MedalCompetition|[[FIS Nordic Junior World Ski Championships|Junior World Championships]]}}
+{{MedalSilver|[[2016 Nordic Junior World Ski Championships|2016&nbsp;Râșnov]]|4&nbsp;×&nbsp;5&nbsp;km&nbsp;relay}}
+}}
+
+'''Alexander Alexandrovich Bolshunov''' ({{lang-ru|Александр Александрович Большунов}}, also ''[[Romanization of Russian|tr.]]'' '''Aleksandr Aleksandrovich Bolshunov'''; born 31 December 1996) is a Russian [[Cross-country skiing (sport)|cross-country skier]] and two-time winner of the 14th and 15th [[Tour de Ski]].<ref>{{FIS|S=CC|ID=183629|name=Bolshunov, Alexander}}</ref>
+
+Bolshunov is a nine-time Olympic medalist, three of which are gold, and is also the first male post-Soviet Russian [[FIS Cross-Country World Cup|World Cup]] champion, winning the overall World Cup in [[2019-20 FIS Cross-Country World Cup|2020]] and [[2020-21 FIS Cross-Country World Cup|2021]].
+
+==Career==
+===2013–17: Twofold U23 World Champion===
+Bolshunov was born in [[Podyvotye]] in the [[Bryansk Oblast]], located just several kilometres from the Russia-[[Ukraine]] border. It was there where he started his sports career with his coach and father Alexander Ivanovich Bolshunov.<ref>{{cite web|url=https://tass.ru/info/4985024 |title=Биография российского лыжника Александра Большунова |agency=[[TASS]] |date=24 February 2018 |access-date=15 March 2020|language=ru|trans-title=Biography of Russian skier Alexander Bolshunov}}</ref> In 2011, his father brought him to the [[Bryansk]] sports school for ski-cross skiing, where he was coached by Merited Coach of Russia N. I. Nekhitrov.<ref>{{cite web|url=https://tass.ru/sport/4955186 |title=Тренер: на лыжи бронзового призера Олимпийских игр Большунова поставил его отец |agency=[[TASS]] |date=13 February 2018 |access-date=15 March 2020|language=ru|trans-title=Coach: Olympic Bronze Medalist Bolshunov Was Put on Skis by His Father}}</ref> The first victories on nationals came a year ago, when on 6 February 2013 Bolshunov took the first place in 10&nbsp;km classic in a tournament taking place in the [[Tver Oblast]].<ref>{{cite web|url=https://flgr-results.ru//?ActivePage=Rank&RaceID=2879 |title=Результаты – д. Гришкино (Тверская область) – ЭСПУ – 10 км КЛ |publisher=Cross Country Ski Federation of Russia|access-date=15 March 2020|language=ru|trans-title=Results – village Grishkino (Tver Oblast) – 10 km C}}</ref>
+
+On 17 March 2014, Bolshunov won the 20&nbsp;km skiathlon event at the Russian Junior Nationals,<ref>{{cite web|url=https://flgr-results.ru/attachment/1789.pdf |title=Первенство России по лыжным гонкам среди юниоров и юниорок 1994/1995 г.р. – Официальный итоговый протокол – Скиатлон, юниоры, 10 км КЛ + 10 км СВ  |publisher=Cross Country Ski Federation of Russia |access-date=15 March 2020|language=ru|trans-title=Russian Junior Championships for Sportspeople Born in 1994–95}}</ref> resulting Bolshunov being bestowed the honorary [[Master of Sports of Russia]].<ref>{{cite web|url=https://www.minsport.gov.ru/documents/awards/27446/ |title=Приказ "О присвоении спортивного звания "Мастер спорта России"|publisher=[[Ministry of Sport (Russia)|Ministry of Sport of Russia]]|date=4 September 2015|access-date=15 March 2020|language=ru|trans-title=Order "On Awarding the Sports Honorary Title "Master of Sports of Russia"}}</ref> After the nationals he was invited to the junior team. A year later, he participated in the sprint event of the [[2015 Nordic Junior World Ski Championships|FIS Junior World Ski Championships]] in [[Almaty]], [[Kazakhstan]], but failed to qualify for the sprint final, leaving him without medals.<ref>{{cite web|url=https://data.fis-ski.com/dynamic/results.html?sector=CC&competitorid=183629&raceid=24394 |title=2015 FIS Junior World Ski Championships – Men's SP C Final Official results |publisher=FIS |access-date=15 March 2020}}</ref> In the [[2016 Nordic Junior World Ski Championships|following]] Youth Championships in [[Rasnov]], [[Romania]], his best result was 2nd, in the relay event.<ref>{{cite web|url=https://data.fis-ski.com/dynamic/results.html?sector=CC&competitorid=183629&raceid=25981 |title=2016 FIS Junior World Ski Championships – Men's Rel 4x5 km F Official results |publisher=FIS |access-date=15 March 2020}}</ref>
+
+In 2017, Bolshunov took part in the [[2017 Nordic Junior World Ski Championships|FIS U23 World Ski Championships]] in the venue [[Soldier Hollow]], [[Utah]], United States, where the [[2002 Winter Olympics]] were held. He won silver in sprint,<ref>{{cite web|url=https://data.fis-ski.com/dynamic/results.html?sector=CC&competitorid=183629&raceid=27774 |title=2017 FIS U23 World Ski Championships – Men's SP C Final Official results|publisher=FIS |access-date=15 March 2020}}</ref> and a few days later he won the 15&nbsp;km individual freestyle event.<ref>{{cite web|url=https://data.fis-ski.com/dynamic/results.html?sector=CC&competitorid=183629&raceid=27778 |title=2017 FIS U23 World Ski Championships – Men's 15 km F Official results |publisher=FIS |access-date=15 March 2020}}</ref> The skiathlon event was marked by a memorable performance by teammates Bolshunov, [[Alexey Chervotkin]] and [[Denis Spitsov]], who entered the finish line hand in hand.{{Citation needed|date=June 2021}} Bolshunov was declared the winner after video review.<ref>{{cite web|url=https://data.fis-ski.com/dynamic/results.html?sector=CC&competitorid=183629&raceid=27782 |title=2017 FIS U23 World Ski Championships – Men's Skiathlon 15km/15km C/F Official results |publisher=FIS |access-date=15 March 2020}}</ref> As a result, Bolshunov was conferred the highest honorary sports title of Russia, "International Master of Sports".<ref>{{cite web|url=https://www.minsport.gov.ru/documents/awards/31244/ |title=Приказ "О присвоении спортивного звания "Мастер спорта России международного класса" |publisher=[[Ministry of Sport (Russia)|Ministry of Sport of Russia]]|date=3 October 2017 |access-date=15 March 2020|language=ru|trans-title=Order "On Awarding the Honorary Sports Title "Russian International Master of Sports"}}</ref>
+
+===2017–18: FIS World Cup debut===
+Bolshunov's first major senior tournament in which he competed was the [[FIS Nordic World Ski Championships 2017]] in [[Lahti]], Finland, finishing 26th in sprint and 15th in skiathlon. In the [[2016–17 FIS Cross-Country World Cup|2016–17 season]], he entered his first FIS World Cup stage in [[Drammen]], Norway, in March 2017, finishing 9th. He won his first podium [[2017–18 FIS Cross-Country World Cup|in the next season]] in the third Stage World Cup in [[Rukatunturi|Ruka]], Finland, on 26 November, in 15&nbsp;km freestyle pursuit.<ref>{{Cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=CC&competitorid=183629&raceid=29788|title=Stage World Cup Ruka (FIN)|website=fis-ski.com}}</ref> In the overall standings of the three Ruka stages, the "Ruka Triple", he was placed third.<ref>{{Cite web|url=http://medias2.fis-ski.com/pdf/2018/CC/2182/2018CC2182RL.pdf|title=Ruka Triple – Stage 3 of 3}}</ref> He showed strong results by the year's end, finishing four times in the third places.
+
+After the [[2017–18 Tour de Ski]] – in the 15&nbsp;km pursuit stage, he reached the third-place – Bolshunov missed a handful of WC stages to prepare for the [[Cross-country skiing at the 2018 Winter Olympics|2018 Winter Olympics]] in [[Pyeongchang]], South Korea. At the Olympics, he rebounded by winning three silver medals and one bronze medal. He won his first Olympic medal in sprint classical, losing only to [[Johannes Høsflot Klæbo]] and [[Federico Pellegrino]]. Bolshunov then won medals in team sprint freestyle, 4 × 10&nbsp;km relay and 50&nbsp;km classical.
+
+===2018–19: Distance Cup winner===
+In March, Bolshunov reached second place in a WC stage for the first time in his career in the 15&nbsp;km classical event in Lahti. He also finished third in a WC stage in Drammen, now in sprint classical. Bolshunov won the World Cup Final by the season's end after winning the 15&nbsp;km classical mass start and 15&nbsp;km freestyle pursuit stages.<ref>{{Cite web|url=http://medias4.fis-ski.com/pdf/2018/CC/2250/2018CC2250STC.pdf|title=WORLD CUP FINAL MEN}}</ref> In the overall World Cup standings he was placed 5th.<ref>{{Cite web|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2018&cupcode=WC&disciplinecode=ALL&gendercode=M|title=Cup standings|website=fis-ski.com}}</ref>
+
+In the [[2018–19 FIS Cross-Country World Cup]] season, Bolshunov won the first two WC stages in Ruka, in sprint classical and 15&nbsp;km classical, receiving the yellow bib as a result. Bolshunov led in the overall standings after fifteen stages until being replaced by [[Johannes Høsflot Klæbo]] during the [[2018–19 Tour de Ski|Tour de Ski]].
+
+Before the [[FIS Nordic World Ski Championships 2019|World Championships]], Bolshunov clinched another stage win in Italian [[Cogne]] in 15&nbsp;km classical. Bolshunov debuted at the World and won four silver medals in 30&nbsp;km skiathlon, 50&nbsp;km freestyle mass start, as well as in team sprint and 4 × 10&nbsp;km relay. On 9 March, he won another stage in 50&nbsp;km classical mass start in [[Holmenkollen]], returning the yellow bib after Klæbo's poor performance there. As a result, Bolshunov, at age 22, became not only the youngest winner of the marathon stage but also the youngest winner of the Distance Cup, claiming the Small Crystal Globe.<ref>{{Cite web|url=https://www.championat.com/other/news-3698359-bolshunov---samyj-molodoj-pobeditel-distancionnogo-zachjota-kubka-mira-v-istotii.html|title=Большунов – самый молодой победитель дистанционного зачёта Кубка мира в истории|website=championat.com}}</ref>
+
+===2019–20: Tour de Ski champion, World Cup overall winner===
+Bolshunov started the [[2019–20 FIS Cross-Country World Cup]] by participating in the mini-event [[2019 Nordic Opening]], where he was positioned fifth in the overall ranking. He won the next stage in [[Lillehammer]] for the first time in the 30&nbsp;km skiathlon classic and freestyle event. Bolshunov entered the [[2019–20 Tour de Ski]] by reaching third place in 15&nbsp;km mass start freestyle. He reached five out of six podium places in the following stages, only failing in the first sprint stage in [[Lenzerheide]], stopping in the semi-finals. Although he won only one stage and five times finished third, he took the first position in the overall ranking, becoming the third Russian to do so. After this victory, he received the right to wear the yellow bib previously worn by Klæbo.<ref>{{Cite web|url=https://www.fis-ski.com/cross-country/cross-country-news-multimedia/news/2019-20/alexander-bolshunov-wins-the-tour-de-ski|title=Alexander Bolshunov wins the Tour de Ski|website=fis-ski.com}}</ref> He went on winning three back-to-back long-distance stages, doing so in [[Nové Město na Moravě|Nové Město]] and [[Oberstdorf]].
+
+Before the [[FIS Ski Tour 2020]], Bolshunov finished third in the sprint and first in the 15&nbsp;km mass start stage, both in [[Falun]]. In the inaugural Ski Tour, Bolshunov led in the overall standings after the 5th stage, but in the 6th stage, following an ill-conceived preparation of the skies by the team staff, who hoped the snowfall would stop soon and so decided not to use the no wax anti-ice method, Bolshunov finished 7th.<ref>{{Cite web|url=https://www.championat.com/other/news-3979185-ski-tur-norvegija-vybrala-lyzhi-dlja-silnogo-snegopada-rossija---dlja-bolee-horoshej-pogody.html|title="Ски Тур": Норвегия выбрала лыжи для сильного снегопада, Россия – для более хорошей погоды|first=Никита|last=Сакун|website=championat.com}}</ref><ref>{{Cite web|url=https://www.fis-ski.com/en/cross-country/cross-country-news-multimedia/news/2019-20/golberg-stunned-about-ski-tour-2020-victory|title=Golberg stunned about Ski Tour 2020 victory|website=fis-ski.com}}</ref> In the same month, in February, Bolshunov took the second position in 15&nbsp;km classic in [[Lahti]]. He finished the season by winning the 50&nbsp;km classic mass start event in [[Oslo]] and went on to win the overall World Cup ahead of schedule after the remaining stages did not take place due to the [[COVID-19 pandemic|coronavirus outbreak]]. He became the first post-Soviet Russian male ski-cross skier to win the World Cup and the first Russian since Soviet [[Vladimir Smirnov (skier)|Vladimir Smirnov]], who won the [[1990–91 FIS Cross-Country World Cup|1991 edition]].<ref>{{Cite web|url=https://russkiymir.ru/en/news/270287/|title=Alexander Bolshunov becomes first Russian skier to win World Cup|website=russkiymir.ru}}</ref> Beside that, Bolshunov won his second consecutive Distance Cup title. Due to the pandemic, the ceremony was postponed indefinitely, and the Crystal Globe was presented to the Russian only three months later.<ref>{{Cite web|url=https://www.tellerreport.com/sports/2020-06-12-fis-sends-%22big-crystal-globe%22-to-bolshunov.SkPFLUjlpL.html|title=FIS sends 'Big Crystal Globe' to Bolshunov &#124; tellerreport.com|website=tellerreport.com}}</ref>
+
+===2020–21: Back-to-back Tour de Ski, World Cup overall champion, World Champion===
+Bolshunov started the new season finishing overall second in the [[2020 Nordic Opening|Ruka Triple]] after only Klæbo. Before the [[2021 Tour de Ski]], he claimed a distance title in Swiss [[Davos]] and his first team title in team sprint with [[Gleb Retivykh|Retivykh]], in a sprint tournament traditionally taking place in [[Dresden]], Germany, this time without Norwegian, Finnish and Swedish skiers, after their federations decided to quit sending skiers due to concerns over COVID-19.<ref>{{Cite web|url=https://fasterskier.com/2020/12/sweden-and-finland-follow-norway-and-withdraw-from-december-world-cups/|title=Sweden and Finland Follow Norway and Withdraw from December World Cups (Updated) – FasterSkier.com|website=fasterskier.com}}</ref> As a result of the withdrawal, Bolshunov was awarded the yellow bib. The Tour de Ski saw a return of Swedish and Finnish, but not Norwegian skiers.
+
+After the first sprint stage, where Bolshunov finished second, the Russian won five consecutive stages, repeating the World Cup tour record of Ustiugov and [[Bjørn Dæhlie|Dæhlie]],<ref>{{Cite web|url=https://instant.com.pk/italy/432846/|title=Bolshunov claimed a fifth consecutive Tour de Ski win that equaled a record in Italy &#124; Instant News|date=9 January 2021}}</ref> but failed to update the record as he came third in the following sprint stage in [[Val di Fiemme]]. In the 10&nbsp;km Final Climb Mass Start stage, he finished 2nd. But this secured him winning the Tour de Ski for a second time, finishing by a record margin of three minutes twenty-three seconds ahead of other skiers.<ref>[http://www.tellerreport.com/sports/2021-01-11-%0A---"sasha-is-a-world-leader-by-a-wide-margin"--bolshunov-is-tipped-for-the-"crystal-globe"-after-the-second-triumph-at-the-"tour-de-ski"%0A--.BygOZgDYCw.html  "Sasha is a world leader by a wide margin": Bolshunov is tipped for the "Crystal Globe" after the second triumph at the "Tour de Ski" ]</ref> During the final stage of the ski race in Lahti Bolshunov attempted twice to slash Finnish skier [[Joni Mäki]], and towards the finish rammed Mäki and knocked him down, resulting Bolshunov being disqualified.<ref>{{Cite web|url=https://www.kommersant.ru/doc/4661736?from=main_4|title=Финишем Александра Большунова заинтересовалась полиция|via=Kommersant}}</ref> Bolshunov officially apologized for his behaviour after the competition.<ref>[https://www.fis-ski.com/en/cross-country/cross-country-news-multimedia/news/2020-21/alexander-bolshunov-apologizes-for-unsportmanslike-behavior  Alexander Bolshunov apologizes for unsportmanslike behavior ]</ref>
+
+Bolshunov participated at the [[FIS Nordic World Ski Championships 2021|2021 World Championships]], where he won four medals. In the [[FIS Nordic World Ski Championships 2021 – Men's 30 kilometre skiathlon|30 km skiathlon]], he got his first gold medal at this event. At the [[FIS Nordic World Ski Championships 2021 – Men's 50 kilometre classical|50 km classical event]], Bolshunov initially finished third, but following Klæbo's disqualification, which happened after the Norwegian broke one of Bolshunov's poles, the Russian earned the silver medal at the end. Bolshunov won further medals in [[FIS Nordic World Ski Championships 2021 – Men's team sprint|team sprint]] and [[FIS Nordic World Ski Championships 2021 – Men's 4 × 10 kilometre relay|4 × 10 kilometre relay]]. However, he finished fourth in [[FIS Nordic World Ski Championships 2021 – Men's sprint|sprint]] and [[FIS Nordic World Ski Championships 2021 – Men's 15 kilometre freestyle|15 km freestyle]].
+
+==Personal life==
+Since 2017, Bolshunov is studying at the [[Penza State University]]'s Faculty of Institute of Physical Education.<ref>[https://pnzgu.ru/about_pnzgu/alumni/bolshunov_aa Биография Александра Большунова на сайте Пензенского государственного университета]</ref><ref>[https://www.penza.kp.ru/online/news/4038278/ Лыжники готовятся к Кубку мира-2020/21]</ref>
+
+Bolshunov is married to fellow Russian cross-country skier [[Anna Zherebyateva]], since 23 April 2021.<ref>[https://www.sport-express.ru/skiing/reviews/svadba-luchshego-rossiyskogo-lyzhnika-aleksandra-bolshunova-i-ego-nevesty-anny-zherebyatevo-v-barvihe-video-1782293/ Свадьба самой красивой пары лыжников: Большунов и Жеребятьева зажгли в Барвихе]</ref>
+
+On 10 February 2022, Bolshunov, who was previously [[senior lieutenant]], received the rank of [[captain (armed forces)|captain]] by the [[National Guard of Russia]] in recognition of his achievements at the 2022 Olympics<ref>[https://www.championat.com/skiing/news-4605583-direktor-rosgvardii-prisvoil-bolshunovu-i-spicovu-novye-voinskie-zvaniya-za-medali-oi-2022.html] Глава Росгвардии присвоил Большунову и Спицову новые воинские звания за медали ОИ-2022]</ref>
+
+On 18 March 2022, Bolshunov participated in the [[2022 Moscow rally|Moscow rally]] in support of the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].<ref>{{cite news |title=Большунов, Рылов, сестры Аверины, Тарасова и Морозов, Синицина и Кацалапов участвуют в митинге "Za мир без нацизма! Zа Россию! Zа Президентa!" в Лужниках |url=https://www.sports.ru/skiing/1107687090-bolshunov-rylov-sestry-averiny-tarasova-i-morozov-siniczina-i-kaczalap.html |work=sports.ru |date=18 March 2022 |language=ru}}</ref>
+
+Regarding the [[FIS Nordic World Ski Championships 2023|2023 World Championship]] that Russian athletes were missing due to the invasion of Ukraine, Bolshunov said: "I'm not interested in what's going on at these dirty competitions. We can organize both the World Championships and the Olympic Games better than anyone."<ref>[https://sports.ru/skiing/1114923302-bolshunov-o-chm-mne-neinteresno-kak-proxodyat-eti-gryaznye-sorevnovani.html? Большунов о ЧМ: «Мне неинтересно, как проходят эти грязные соревнования. Мы можем Олимпийские игры и чемпионаты мира проводить намного круче остальных стран»]</ref> He further commented that "There is only one championship, and we have it [the Russian national championship] All other questions - goodbye! I'm not interested in what is happening now at the World Cup and the World Championship. I want to tell you that the whole world is here." He also expressed confidence that Russian athletes will be allowed to compete at the [[2026 Winter Olympics]]: "We will compete at the 2026 Olympics. Everything has its time. Mark my words."<ref>[https://www.sports.ru/skiing/1114932065-aleksandr-bolshunov-my-budem-vystupat-na-olimpijskix-igrax-2026-zapomn.html Александр Большунов: «Мы будем выступать на Олимпийских играх-2026. Запомните эту фразу»]</ref>
+
+==Cross-country skiing results==
+All results are sourced from the [[International Ski Federation|International Ski Federation (FIS)]].<ref name="FISprofile">{{cite web |url=http://www.data.fis-ski.com/dynamic/athlete-biography.html?sector=CC&competitorid=183629&type=result |title=Alexander Bolshunov |author=<!--Staff writer(s); no by-line.--> |website=FIS-Ski |publisher=International Ski Federation |access-date=1 January 2018 |archive-url=https://web.archive.org/web/20180218150523/https://data.fis-ski.com/dynamic/athlete-biography.html?sector=CC&competitorid=183629&type=result |archive-date=18 February 2018 |url-status=dead }}</ref>
+
+===Olympic Games===
+* 9 medals – (3 gold, 4 silver, 2 bronze)
+{| class="wikitable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;"|&nbsp;Year&nbsp;
+! style="background-color:#369; color:white; width:40px;"|&nbsp;Age&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;15&nbsp;km&nbsp;<br>&nbsp;individual&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;30&nbsp;km&nbsp;<br>&nbsp;skiathlon&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;50&nbsp;km&nbsp;<br>&nbsp;mass&nbsp;start&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Sprint&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"|&nbsp;4&nbsp;×&nbsp;10&nbsp;km&nbsp;<br>&nbsp;relay&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Team&nbsp;<br>&nbsp;sprint&nbsp;
+|-
+| [[2018 Winter Olympics|2018]] || ''21'' || [[Cross-country skiing at the 2018 Winter Olympics – Men's 15 kilometre freestyle|—]] || [[Cross-country skiing at the 2018 Winter Olympics – Men's 30 kilometre skiathlon|—]] || style="background:silver;"|[[Cross-country skiing at the 2018 Winter Olympics – Men's 50 kilometre classical|'''Silver''']] || style="background:#c96;"|[[Cross-country skiing at the 2018 Winter Olympics – Men's sprint|'''Bronze''']] || style="background:silver;"|[[Cross-country skiing at the 2018 Winter Olympics – Men's 4 × 10 kilometre relay|'''Silver''']] || style="background:silver;"|[[Cross-country skiing at the 2018 Winter Olympics – Men's team sprint|'''Silver''']]
+|-
+| [[2022 Winter Olympics|2022]] || ''25'' || style="background:silver;"| [[Cross-country skiing at the 2022 Winter Olympics – Men's 15 kilometre classical|'''Silver''']] || style="background:gold;"| [[Cross-country skiing at the 2022 Winter Olympics – Men's 30 kilometre skiathlon|'''Gold''']] ||style="background:gold;"| [[Cross-country skiing at the 2022 Winter Olympics – Men's 50 kilometre freestyle|'''Gold''']]{{ref label|a|a}} || [[Cross-country skiing at the 2022 Winter Olympics – Men's sprint|{{Abbr|DNS|Did not start}}]] || style="background:gold;"| [[Cross-country skiing at the 2022 Winter Olympics – Men's 4 × 10 kilometre relay|'''Gold''']] ||style="background:#c96;"|[[Cross-country skiing at the 2022 Winter Olympics – Men's team sprint|'''Bronze''']]
+|}
+<span style="font-size:95%">{{note label|a|a}}Distance reduced to 30&nbsp;km due to weather conditions.</span>
+
+===World Championships===
+*8 medals – (1 gold, 6 silver, 1 bronze)
+{| class="wikitable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;"|&nbsp;Year&nbsp;
+! style="background-color:#369; color:white; width:40px;"|&nbsp;Age&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;15&nbsp;km&nbsp;<br>&nbsp;individual&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;30&nbsp;km&nbsp;<br>&nbsp;skiathlon&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;50&nbsp;km&nbsp;<br>&nbsp;mass&nbsp;start&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Sprint&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"|&nbsp;4&nbsp;×&nbsp;10&nbsp;km&nbsp;<br>&nbsp;relay&nbsp;
+! style="background-color:#4180be; color:white; width:75px;"| &nbsp;Team&nbsp;<br>&nbsp;sprint&nbsp;
+|-
+| [[FIS Nordic World Ski Championships 2017|2017]] || ''20'' || [[FIS Nordic World Ski Championships 2017 – Men's 15 kilometre classical|—]] || [[FIS Nordic World Ski Championships 2017 – Men's 30 kilometre pursuit|15]] || [[FIS Nordic World Ski Championships 2017 – Men's 50 kilometre freestyle|—]] || [[FIS Nordic World Ski Championships 2017 – Men's sprint|26]] || [[FIS Nordic World Ski Championships 2017 – Men's 4 × 10 kilometre relay|—]] || [[FIS Nordic World Ski Championships 2017 – Men's team sprint|—]] 
+|-
+| [[FIS Nordic World Ski Championships 2019|2019]] || ''22'' || [[FIS Nordic World Ski Championships 2019 – Men's 15 kilometre classical|8]] || style="background:silver;"|[[FIS Nordic World Ski Championships 2019 – Men's 30 kilometre pursuit|'''Silver''']] || style="background:silver;"|[[FIS Nordic World Ski Championships 2019 – Men's 50 kilometre freestyle|'''Silver''']] || [[FIS Nordic World Ski Championships 2019 – Men's sprint|11]] || style="background:silver;"|[[FIS Nordic World Ski Championships 2019 – Men's 4 × 10 kilometre relay|'''Silver''']] || style="background:silver;"|[[FIS Nordic World Ski Championships 2019 – Men's team sprint|'''Silver''']]
+|-
+| [[FIS Nordic World Ski Championships 2021|2021]] || ''24'' || [[FIS Nordic World Ski Championships 2021 - Men's 15 kilometre freestyle|4]] || style="background:gold;"| [[FIS Nordic World Ski Championships 2021 - Men's 30 kilometre skiathlon|'''Gold''']] || style="background:silver;"| [[FIS Nordic World Ski Championships 2021 - Men's 50 kilometre classical|'''Silver''']] || [[FIS Nordic World Ski Championships 2021 - Men's sprint|4]] || style="background:silver;"| [[FIS Nordic World Ski Championships 2021 - Men's 4 × 10 kilometre relay|'''Silver''']] || style="background:#c96;"| [[FIS Nordic World Ski Championships 2021 - Men's team sprint|'''Bronze''']] 
+|}
+
+===World Cup===
+====Season titles====
+* 5 titles – (2 Overall, 3 Distance)
+{| class="wikitable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+|- style="background-color:#369; color:white;"
+|rowspan="2" colspan="1" style="width:110px"|'''Season'''
+|- style="background-color:#4180be; color:white;"
+| style="width:110px"|'''Discipline'''
+|-
+| rowspan="1" align=center|[[2018–19 FIS Cross-Country World Cup|2019]] || align=center|Distance
+|-
+| rowspan="2" align=center|[[2019–20 FIS Cross-Country World Cup|2020]] || align=center|'''Overall'''
+|-
+| align=center|Distance
+|-
+| rowspan="2" align=center|[[2020–21 FIS Cross-Country World Cup|2021]] || align=center|'''Overall'''
+|-
+| align=center|Distance
+|-
+|}
+
+====Season standings====
+{| class="wikitable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+! style="background-color:#369; color:white; width:60px;" rowspan="2" |&nbsp;Season&nbsp;
+! style="background-color:#369; color:white; width:40px;" rowspan="2" |&nbsp;Age&nbsp;
+! style="background-color:#4180be; color:white;" colspan="4" |Discipline standings
+! style="background-color:#4180be; color:white;" colspan="4" |Ski Tour standings
+|-
+! style="background-color:#4180be; color:white; width:75px;"|Overall
+! style="background-color:#4180be; color:white; width:75px;"|Distance
+! style="background-color:#4180be; color:white; width:75px;"|Sprint
+! style="background-color:#4180be; color:white; width:75px;"|U23
+! style="background-color:#4180be; color:white; width:75px;"|Nordic<br>Opening
+! style="background-color:#4180be; color:white; width:75px;"|Tour de<br>Ski
+! style="background-color:#4180be; color:white; width:75px;"|Ski Tour<br>2020
+! style="background-color:#4180be; color:white; width:75px;"|World Cup<br>Final
+|-
+| [[2016–17 FIS Cross-Country World Cup|2017]] || ''20'' || 100 || – || 49 || 8 || – || – || {{n/a}} || —
+|-
+| [[2017–18 FIS Cross-Country World Cup|2018]] || ''21'' || 5  || 9 || 6 || style="background:silver;"|{{silver02}} ||bgcolor="cc9966"|{{bronze03}} ||  6 || {{n/a}} ||style="background:gold;"|{{gold01}}
+|-
+| [[2018–19 FIS Cross-Country World Cup|2019]] || ''22'' || style="background:silver;"|{{silver02}} || style="background:gold"|{{gold01}} || 5 || style="background:silver;"|{{silver02}} || 5 || 5 || {{n/a}} || bgcolor="cc9966"|{{bronze03}}
+|-
+| [[2019–20 FIS Cross-Country World Cup|2020]] || ''23'' || style="background:gold"|{{gold01}} || style="background:gold"|{{gold01}} || 6 || {{n/a}} || 5 || style="background:gold"|{{gold01}} || 7 || {{n/a}} 
+|-
+| [[2020–21 FIS Cross-Country World Cup|2021]] || ''24'' || style="background:gold"|{{gold01}} || style="background:gold"|{{gold01}} || bgcolor="cc9966"|{{bronze03}} || {{n/a}} || style="background:silver;"|{{silver02}} || style="background:gold"|{{gold01}} || {{n/a}} || {{n/a}}
+|-
+| [[2021–22 FIS Cross-Country World Cup|2022]]{{refn|group=note|name=RussiaCancellation|On 1 March 2022, following the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]], FIS decided not to allow athletes from Russia and Belarus to take part in FIS competitions, with an immediate effect.<ref>{{cite news |title=Russian and Belarusian Athletes not to take part in FIS Competitions |url=https://www.fis-ski.com/international-ski-federation/news-multimedia/news-2022/russian-and-belarusian-athletes-not-to-take-part-in-fis-competitions |publisher=FIS |date=1 March 2022}}</ref>}} || ''25'' ||style="background:silver;"|{{silver02}}||style="background:silver;"|{{silver02}}|| 15 || {{n/a}} || {{n/a}} || style="background:silver"|{{silver02}} || {{n/a}} || {{n/a}}
+|}
+
+====Individual podiums====
+* 28 victories – (20 {{Abbr|WC|World Cup}}, 8 {{Abbr|SWC|Stage World Cup}}) <!--28 as of 4 January 2022-->
+* 59 podiums – (34 {{Abbr|WC|World Cup}}, 25 {{Abbr|SWC|Stage World Cup}}) <!--59 as of 4 January 2022-->
+{| class="wikitable sortable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+|- style="background:#efefef;"
+! style="background-color:#369; color:white;"| No.
+! style="background-color:#369; color:white;"| Season
+! style="background-color:#4180be; color:white; width:120px;"| Date
+! style="background-color:#4180be; color:white; width:170px;"| Location
+! style="background-color:#4180be; color:white; width:170px;"| Race
+! style="background-color:#4180be; color:white; width:100px;"| Level
+! style="background-color:#4180be; color:white;| Place
+|-
+| align=center|1 || rowspan=9 align=center|[[2017–18 FIS Cross-Country World Cup|2017–18]]|| align=right| 24–26 November 2017 || align=left|  {{flagicon|FIN}} [[2017 Nordic Opening|Nordic Opening]]  || Overall Standings || World Cup || 3rd
+|-
+| align=center|2 || align=right| 2 December 2017 || align=left| {{flagicon|NOR}} [[Lillehammer]], Norway || 1.5&nbsp;km Sprint C || World Cup || 3rd
+|-
+| align=center|3 || align=right| 9 December 2017 || rowspan=2 align=left| {{flagicon|SUI}} [[Davos]], Switzerland || 1.5&nbsp;km Sprint F || World Cup || 3rd
+|-
+| align=center|4 || align=right| 10 December 2017 ||  15&nbsp;km Individual F || World Cup || 3rd
+|-
+| align=center|5 || align=right| 1 January 2018 || align=left| {{flagicon|SUI}} [[Lenzerheide]], Switzerland || 15&nbsp;km Pursuit F || Stage World Cup || 3rd
+|-
+| align=center|6 || bgcolor="#BOEOE6" align=right| 4 March 2018 || align=left| {{flagicon|FIN}} [[Lahti]], Finland || bgcolor="#BOEOE6"| 15&nbsp;km Individual C || bgcolor="#BOEOE6" | World Cup || bgcolor="#BOEOE6"| '''1st'''
+|-
+| align=center|7 || align=right| 7 March 2018 || align=left| {{flagicon|NOR}} [[Drammen]], Norway || 1.2&nbsp;km Sprint C || World Cup|| 3rd
+|-
+| align=center|8 || bgcolor="#BOEOE6" align=right| 17 March 2018 || align=left| {{flagicon|SWE}} [[Falun]], Sweden || bgcolor="#BOEOE6"| 15&nbsp;km Mass Start C || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|9 || bgcolor="#BOEOE6" align=right| 16–18 March 2018 || align=left| {{flagicon|SWE}} [[2017–18 FIS Cross-Country World Cup Finals|World Cup Final]] || bgcolor="#BOEOE6"| Overall Standings || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|10 || rowspan=12 align=center|[[2018–19 FIS Cross-Country World Cup|2018–19]]|| bgcolor="#BOEOE6" align=right| 24 November 2018 || rowspan=2 align=left| {{flagicon|FIN}} [[Rukatunturi]], Finland  || bgcolor="#BOEOE6"| 1.5&nbsp;km Sprint C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|11 || bgcolor="#BOEOE6" align=right| 25 November 2018 || bgcolor="#BOEOE6"| 15&nbsp;km Individual C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|12 || align=right| 30 December 2018 || align=left| {{flagicon|ITA}} [[Toblach]], Italy || 15&nbsp;km Individual F || Stage World Cup || 3rd
+|-
+| align=center|13 || align=right| 3 January 2019 || align=left| {{flagicon|GER}} [[Oberstdorf]], Germany || 15&nbsp;km Pursuit F || Stage World Cup || 3rd
+|-
+| align=center|14 || align=right| 5 January 2019 || align=left| {{flagicon|ITA}} [[Val di Fiemme]], Italy || 15&nbsp;km Mass Start C || Stage World Cup || 3rd
+|-
+| align=center|15 || align=right| 19 January 2019 || rowspan=2 align=left| {{flagicon|EST}} [[Otepää]], Estonia || 1.6&nbsp;km Sprint C || World Cup || 2nd
+|-
+| align=center|16 || align=right| 20 January 2019 || 15&nbsp;km Individual C || World Cup || 2nd
+|-
+| align=center|17 || align=right bgcolor="#BOEOE6"| 17 February 2019 || align=left| {{flagicon|ITA}} [[Cogne]], Italy || bgcolor="#BOEOE6"| 15&nbsp;km Individual C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"| '''1st'''
+|-
+| align=center|18 || align=right bgcolor="#BOEOE6"| 9 March 2019 || align=left| {{flagicon|NOR}} [[Oslo]], Norway || bgcolor="#BOEOE6"| 50&nbsp;km Mass Start C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"| '''1st'''
+|-
+| align=center|19 || align=right bgcolor="#BOEOE6"| 17 March 2019 || align=left| {{flagicon|SWE}} [[Falun]], Sweden || bgcolor="#BOEOE6"| 15&nbsp;km Individual F || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"| '''1st'''
+|-
+| align=center|20 || align=right| 24 March 2019 || align=left| {{flagicon|CAN}} [[Quebec City]], Canada || 15&nbsp;km Pursuit F || Stage World Cup || 2nd
+|-
+| align=center|21 || align=right| 22–24 March 2019 || align=left| {{flagicon|CAN}} [[2018–19 FIS Cross-Country World Cup Finals|World Cup Final]] || Overall Standings || World Cup || 3rd
+|-
+| align=center|22 || rowspan=17 align=center|[[2019–20 FIS Cross-Country World Cup|2019–20]]|| bgcolor="#BOEOE6" align=right| 7 December 2019 || align=left| {{flagicon|NOR}} [[Lillehammer]], Norway  || bgcolor="#BOEOE6"| 15&nbsp;km + 15&nbsp;km Skiathlon C/F|| bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|23 || align=right| 28 December 2019 || align=left| {{flagicon|SUI}} [[Lenzerheide]], Switzerland || 15&nbsp;km Mass Start F || Stage World Cup || 3rd
+|-
+| align=center|24 || align=right| 31 December 2019 || rowspan=2 align=left| {{flagicon|ITA}} [[Toblach]], Italy || 15&nbsp;km Individual F || Stage World Cup || 3rd
+|-
+| align=center|25 || bgcolor="#BOEOE6" align=right| 1 January 2020 || bgcolor="#BOEOE6"| 15&nbsp;km Pursuit C || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|26 || align=right| 3 January 2020 || rowspan=3 align=left| {{flagicon|ITA}} [[Val di Fiemme]], Italy || 15&nbsp;km Mass Start C || Stage World Cup || 3rd
+|-
+| align=center|27 || align=right| 4 January 2020 || 1.5&nbsp;km Sprint C || Stage World Cup || 3rd
+|-
+| align=center|28 || align=right| 5 January 2020 || 10&nbsp;km Mass Start F || Stage World Cup || 3rd
+|-
+| align=center|29 || bgcolor="#BOEOE6" align="right" | 28 December 2019<br>–&nbsp;5 January 2020 || align="left" |&nbsp;{{flagicon|SWI}}&nbsp;{{flagicon|ITA}} [[2019–20 Tour de Ski|Tour de Ski]]|| bgcolor="#BOEOE6" | Overall Standings || bgcolor="#BOEOE6" | World Cup || bgcolor="#BOEOE6" |'''1st'''
+|-
+| align=center|30 || bgcolor="#BOEOE6" align=right| 18 January 2020 || rowspan=2 align=left| {{flagicon|CZE}} [[Nové Město na Moravě|Nové Město]], Czech Republic || bgcolor="#BOEOE6"| 15&nbsp;km Individual F || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|31 || bgcolor="#BOEOE6" align=right| 19 January 2020 || bgcolor="#BOEOE6"| 15&nbsp;km Pursuit C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|32 || bgcolor="#BOEOE6" align=right| 25 January 2020 || align=left| {{flagicon|GER}} [[Oberstdorf]], Germany  || bgcolor="#BOEOE6"| 15&nbsp;km + 15&nbsp;km Skiathlon C/F|| bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|33 || align=right| 8 February 2020 || rowspan=2 align=left| {{flagicon|SWE}} [[Falun]], Sweden || 1.4&nbsp;km Sprint C || World Cup || 3rd
+|-
+| align=center|34 || bgcolor="#BOEOE6" align=right| 9 February 2020 || bgcolor="#BOEOE6"| 15&nbsp;km Mass Start F || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|35 || align=right| 16 February 2020 || align=left| {{flagicon|SWE}} [[Östersund]], Sweden || 15&nbsp;km Pursuit C || Stage World Cup || 2nd
+|-
+| align=center|36 || bgcolor="#BOEOE6" align=right| 20 February 2020 || align=left| {{flagicon|NOR}} [[Meråker]], Norway || bgcolor="#BOEOE6"| 34&nbsp;km Mass Start F || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|37 || align=right| 29 February 2020 || align=left| {{flagicon|FIN}} [[Lahti]], Finland || 15&nbsp;km Individual C || World Cup || 2nd
+|-
+| align=center|38 || bgcolor="#BOEOE6" align=right| 8 March 2020 || align=left| {{flagicon|NOR}} [[Oslo]], Norway || bgcolor="#BOEOE6"| 50&nbsp;km Mass Start C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|39 || rowspan=16 align=center|[[2020–21 FIS Cross-Country World Cup|2020–21]]|| align=right| 28 November 2020 || align=left| {{flagicon|FIN}} [[Rukatunturi]], Finland || 15&nbsp;km Individual C || Stage World Cup || 3rd
+|-
+| align=center|40 || align=right| 27–29 November 2020 || align=left|  {{flagicon|FIN}} [[2020 Nordic Opening|Nordic Opening]]  || Overall Standings || World Cup || 2nd
+|-
+| align=center|41 || align=right| 12 December 2020 || rowspan=2 align=left| {{flagicon|SUI}} [[Davos]], Switzerland || 1.5&nbsp;km Sprint F || World Cup || 2nd
+|-
+| align=center|42 || align=right bgcolor="#BOEOE6"| 13 December 2020 || bgcolor="#BOEOE6"| 15&nbsp;km Individual F || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"| '''1st'''
+|-
+| align=center|43 || align=right| 1 January 2021 || rowspan=3 align=left| {{flagicon|SWI}} [[Val Müstair]], Switzerland || 1.4&nbsp;km Sprint F || Stage World Cup || 2nd
+|-
+| align=center|44 || bgcolor="#BOEOE6" align=right| 2 January 2021 || bgcolor="#BOEOE6"| 15&nbsp;km Mass Start C || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|45 || bgcolor="#BOEOE6" align=right| 3 January 2021 || bgcolor="#BOEOE6"| 15&nbsp;km Pursuit F || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|46 || bgcolor="#BOEOE6" align=right| 5 January 2021 || rowspan=2 align=left| {{flagicon|ITA}} [[Toblach]], Italy || bgcolor="#BOEOE6"| 15&nbsp;km Individual F || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|47 || bgcolor="#BOEOE6" align=right| 6 January 2021 || bgcolor="#BOEOE6"| 15&nbsp;km Pursuit C || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|48 || bgcolor="#BOEOE6" align=right| 8 January 2021 || rowspan=3 align=left| {{flagicon|ITA}} [[Val di Fiemme]], Italy || bgcolor="#BOEOE6"| 15&nbsp;km Mass Start C || bgcolor="#BOEOE6"| Stage World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|49 || align=right| 9 January 2021 || 1.5&nbsp;km Sprint C || Stage World Cup || 3rd
+|-
+| align=center|50 || align=right| 10 January 2020 || 10&nbsp;km Mass Start F || Stage World Cup || 2nd
+|-
+| align=center|51 || bgcolor="#BOEOE6" align="right" | 1–10 January 2021 || align="left" |&nbsp;{{flagicon|SWI}}&nbsp;{{flagicon|ITA}} [[2021 Tour de Ski|Tour de Ski]]|| bgcolor="#BOEOE6" | Overall Standings || bgcolor="#BOEOE6" | World Cup || bgcolor="#BOEOE6" |'''1st'''
+|-
+| align=center|52 || align=right bgcolor="#BOEOE6"| 29 January 2021 || rowspan=2 align="left"| {{flagicon|SWE}} [[Falun]], Sweden || bgcolor="#BOEOE6"| 15&nbsp;km Individual F || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"| '''1st'''
+|-
+| align=center|53 || align=right bgcolor="#BOEOE6"| 30 January 2021 || bgcolor="#BOEOE6"| 15&nbsp;km Mass Start C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"| '''1st'''
+|-
+| align=center|54 || bgcolor="#BOEOE6" align=right| 13 March 2021 || align=left| {{flagicon|SUI}} [[Engadin]], Switzerland || bgcolor="#BOEOE6"| 15&nbsp;km Mass Start C || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|55 || rowspan="5" align="center" |[[2021–22 FIS Cross-Country World Cup|2021–22]]|| align=right| 27 November 2021|| rowspan=2 align=left| {{flagicon|FIN}} [[Rukatunturi]], Finland || 15&nbsp;km Individual C ||World Cup||3rd
+|-
+| align=center|56 || bgcolor="#BOEOE6" align=right| 28 November 2021 || bgcolor="#BOEOE6"| 15&nbsp;km Pursuit F || bgcolor="#BOEOE6"| World Cup || bgcolor="#BOEOE6"|'''1st'''
+|-
+| align=center|57 || align=right| 29 December 2021 || align=left| {{flagicon|SWI}} [[Lenzerheide]], Switzerland || 15&nbsp;km Individual C || Stage World Cup || 2nd
+|-
+| align=center|58 || align=right| 31 December 2021 || align=left| {{flagicon|GER}} [[Oberstdorf]], Germany || 15&nbsp;km Mass Start F || Stage World Cup || 2nd
+|-
+| align=center|59 || align="right" | 28 December 2021<br>–&nbsp;4 January 2022 || align="left" |{{flagicon|SWI}}{{flagicon|GER}}{{flagicon|ITA}} [[2021–22 Tour de Ski|Tour de Ski]]|| Overall Standings || World Cup || 2nd
+|}
+
+====Team podiums====
+* 1 victory – (1 {{Abbr|TS|Team Sprint}}) <!--1 as of 20 December 2020-->
+* 4 podiums – (3 {{Abbr|RL|Relay}}, 2 {{Abbr|TS|Team Sprint}})<!--5 as of 21 December 2021-->
+{| class="wikitable sortable" style="font-size:95%; text-align:center; border:grey solid 1px; border-collapse:collapse; background:#ffffff;"
+|- style="background:#efefef;"
+! style="background-color:#369; color:white;"| No.
+! style="background-color:#369; color:white;"| Season
+! style="background-color:#4180be; color:white; width:120px;"| Date
+! style="background-color:#4180be; color:white; width:170px;"| Location
+! style="background-color:#4180be; color:white; width:170px;"| Race
+! style="background-color:#4180be; color:white; width:100px;"| Level
+! style="background-color:#4180be; color:white;| Place
+! style="background-color:#4180be; color:white;"| Teammates
+|-
+| align=center|1 || rowspan=2 align=center|[[2018–19 FIS Cross-Country World Cup|2018–19]]|| align=right| 9 December 2018 || align=left|  {{flagicon|NOR}} [[Beitostølen]], Norway || 4 × 7.5&nbsp;km Relay C/F || World Cup || 2nd || [[Evgeny Belov|Belov]] / [[Denis Spitsov|Spitsov]] / [[Andrey Melnichenko (skier)|Melnichenko]]
+|-
+| align=center|2 || align=right| 27 January 2019 || align=left|  {{flagicon|SWE}} [[Ulricehamn]], Sweden || 4 × 7.5&nbsp;km Relay C/F || World Cup || 2nd || [[Andrey Larkov|Larkov]] / [[Andrey Melnichenko (skier)|Melnichenko]] / [[Sergey Ustiugov|Ustiugov]]
+|-
+| align=center|3|| rowspan=1 align=center|[[2020–21 FIS Cross-Country World Cup|2020–21]]|| bgcolor="#BOEOE6" align=right| 20 December 2020 || align=left| {{flagicon|GER}} [[Dresden]], Germany|| bgcolor="#BOEOE6"|12 × 0.65&nbsp;km Team Sprint F || bgcolor="#BOEOE6"|World Cup || bgcolor="#BOEOE6"|'''1st''' || [[Gleb Retivykh|Retivykh]]
+|-
+| align=center|4 || align=center|[[2021–22 FIS Cross-Country World Cup|2021–22]]|| align=right| 19 December 2021 || align=left| {{flagicon|GER}} [[Dresden]], Germany || 12 × 0.65&nbsp;km Team Sprint F || World Cup || 3rd || [[Gleb Retivykh|Retivykh]]
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{sports links}}
+
+{{Footer Olympic Champions 50km Cross Country}}
+{{Footer Olympic Champions Cross Country Combined/Double Pursuit Men}}
+{{Footer Olympic Champions XC Relay Men}}
+{{Footer World Champions XC Combined/Double Pursuit Men}}
+{{Tour de Ski men's overall winners}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bolshunov, Alexander}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Bryansk]]
+[[Category:Russian military personnel]]
+[[Category:Sports controversies]]
+[[Category:Penza State University alumni]]
+[[Category:Russian male cross-country skiers]]
+[[Category:Cross-country skiers at the 2018 Winter Olympics]]
+[[Category:Cross-country skiers at the 2022 Winter Olympics]]
+[[Category:Olympic cross-country skiers for Russia]]
+[[Category:Medalists at the 2018 Winter Olympics]]
+[[Category:Medalists at the 2022 Winter Olympics]]
+[[Category:Olympic gold medalists for the Russian Olympic Committee athletes]]
+[[Category:Olympic silver medalists for the Russian Olympic Committee athletes]]
+[[Category:Olympic silver medalists for Olympic Athletes from Russia]]
+[[Category:Olympic bronze medalists for the Russian Olympic Committee athletes]]
+[[Category:Olympic bronze medalists for Olympic Athletes from Russia]]
+[[Category:Olympic medalists in cross-country skiing]]
+[[Category:Tour de Ski skiers]]
+[[Category:FIS Nordic World Ski Championships medalists in cross-country skiing]]
+[[Category:Tour de Ski winners]]
+[[Category:FIS Cross-Country World Cup champions]]
+[[Category:Sportspeople from Bryansk Oblast]]

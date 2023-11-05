@@ -1,0 +1,139 @@
+{{short description|Monoclonal antibody}}
+{{Use American English|date=May 2023}}
+{{Use dmy dates|date=May 2023}}
+{{Infobox drug
+| drug_name         = 
+| INN               = 
+| type              = mab
+| image             = 
+| width             = 
+| alt               = 
+| caption           =
+
+<!-- Monoclonal antibody data -->
+| mab_type   = mab
+| source     = 
+| target     = [[Nerve growth factor]] (NGF)
+
+<!-- Clinical data -->
+| pronounce         = 
+| tradename         = Librela
+| Drugs.com         = 
+| MedlinePlus       = 
+| licence_CA        = <!-- Health Canada may use generic or brand name (generic name preferred) -->
+| licence_EU        = <!-- EMA uses INN (or special INN_EMA) -->
+| DailyMedID        = Bedinvetmab
+| licence_US        = <!-- FDA may use generic or brand name (generic name preferred) -->
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_AU_comment = 
+| pregnancy_category = 
+| routes_of_administration = [[Subcutaneous injection|Subcutaneous]]
+| class             = 
+| ATCvet            = yes
+| ATC_prefix        = N02
+| ATC_suffix        = BG91
+| ATC_supplemental  = 
+| biosimilars       =
+
+<!-- Legal status -->
+| legal_AU          = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_AU_comment  = 
+| legal_BR          = <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F -->
+| legal_BR_comment  = 
+| legal_CA          = Rx-only
+| legal_CA_comment  = <ref>{{cite web | url=https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=100098 | title=Product information }}</ref>
+| legal_DE          = <!-- Anlage I, II, III or Unscheduled -->
+| legal_DE_comment  = 
+| legal_NZ          = <!-- Class A, B, C -->
+| legal_NZ_comment  = 
+| legal_UK          = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_UK_comment  = 
+| legal_US          = Rx-only
+| legal_US_comment  = <ref name="Librela FOI">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/13959</ref>
+| legal_EU          = Rx-only
+| legal_EU_comment  = <ref name="Librela EPAR">{{cite web | title=Librela EPAR | website=[[European Medicines Agency]] (EMA) | date=21 February 2022 | url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/librela | access-date=13 May 2023 | archive-date=16 March 2023 | archive-url=https://web.archive.org/web/20230316043828/https://www.ema.europa.eu/en/medicines/veterinary/EPAR/librela | url-status=live }}</ref>
+| legal_UN          = <!-- N I, II, III, IV / P I, II, III, IV -->
+| legal_UN_comment  = 
+| legal_status      = Rx-only<ref name="Zoetis PR">{{cite press release | title=Zoetis Announces U.S. FDA Approval of Librela (bedinvetmab injection) to Control Osteoarthritis (OA) Pain in Dogs | publisher=Zoetis | via=Business Wire | date=5 May 2023 | url=https://www.businesswire.com/news/home/20230505005475/en/Zoetis-Announces-U.S.-FDA-Approval-of-Librela%E2%84%A2-bedinvetmab-injection-to-Control-Osteoarthritis-OA-Pain-in-Dogs | access-date=13 May 2023 | archive-date=6 May 2023 | archive-url=https://web.archive.org/web/20230506023701/http://www.businesswire.com/news/home/20230505005475/en/Zoetis-Announces-U.S.-FDA-Approval-of-Librela%E2%84%A2-bedinvetmab-injection-to-Control-Osteoarthritis-OA-Pain-in-Dogs/ | url-status=live }}</ref>
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       = 
+| onset             = 
+| elimination_half-life = 
+| duration_of_action = 
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 2171034-69-6
+| CAS_supplemental  = 
+| PubChem           = 
+| IUPHAR_ligand     = 
+| DrugBank          = 
+| ChemSpiderID      = 
+| UNII              = 1AY63T2BE2
+| KEGG              = 
+| ChEBI             = 
+| ChEMBL            = 
+| NIAID_ChemDB      = 
+| PDB_ligand        = 
+| synonyms          =
+
+<!-- Chemical and physical data -->
+| IUPAC_name        = 
+| chemical_formula_ref =
+| chemical_formula  = 
+| C= | H= | Ag= | Al= | As= | Au= | B= | Bi= | Br= | Ca= | Cl= | Co= | F= | Fe= | Gd= | I= 
+| K= | Li= | Mg= | Mn= | N= | Na= | O= | P= | Pt= | S= | Sb= | Se= | Sr= | Tc= | Zn= | charge= 
+| molecular_weight  = 
+| molecular_weight_comment = 
+| SMILES            = 
+| StdInChI          = 
+| StdInChI_comment  = 
+| StdInChIKey       = 
+| density           = 
+| density_notes     = 
+| melting_point     = 
+| melting_high      = 
+| melting_notes     = 
+| boiling_point     = 
+| boiling_notes     = 
+| solubility        = 
+| sol_units         = 
+| specific_rotation = 
+}}
+
+'''Bedinvetmab''', sold under the brand name '''Librela''' is a canine [[monoclonal antibody]] used for the control of pain associated with osteoarthritis in dogs.<ref name="Librela FOI" /><ref name="Librela EPAR" /><ref name="FDA 20230505">{{cite web | title=FDA Approves First Monoclonal Antibody for Dogs with Osteoarthritis Pain | website=U.S. [[Food and Drug Administration]] (FDA) | date=5 May 2023 | url=https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-monoclonal-antibody-dogs-osteoarthritis-pain | access-date=13 May 2023}} {{PD-notice}}</ref> Librela is sponsored by Zoetis.<ref name="FDA 20230505" /><ref name="Zoetis PR" />
+
+The most common side effects include increased blood urea nitrogen (an indicator of kidney function), urinary tract infection, bacterial skin infection, skin irritation (dermatitis), rash (erythema) or pain at injection site, vomiting (emesis), and weight loss (anorexia).<ref name="FDA 20230505" />
+
+Bedinvetmab was approved for medical use in the European Union in November 2020,<ref name="Librela EPAR" /> and in the United States in May 2023.<ref name="FDA 20230505" /><ref name="Zoetis PR" /> Bedinvetmab is the first monoclonal antibody approved in the United States for controlling osteoarthritis pain in dogs.<ref name="FDA 20230505" />
+
+== Medical uses ==
+Bedinvetmab is [[Indication (medicine)|indicated]] for the alleviation of pain associated with osteoarthritis in dogs.<ref name="FDA 20230505" /><ref name="Librela EPAR" />
+
+== History ==
+Two field studies were conducted to evaluate the effectiveness of bedinvetmab – one in the United States and one in the European Union.<ref name="FDA 20230505" /> Both studies enrolled client-owned dogs diagnosed with osteoarthritis.<ref name="FDA 20230505" /> Half the dogs received bedinvetmab and half the dogs received a sterile saline injection every 28 days for a total of three doses.<ref name="FDA 20230505" /> Before treatment and on various days throughout the study, owners used the Canine Brief Pain Inventory (CBPI) assessment tool to measure the severity of the dog's pain and the degree to which the pain interfered with the dog's daily activities.<ref name="FDA 20230505" /> The weight of evidence from the two field studies demonstrated that bedinvetmab is effective at controlling pain associated with osteoarthritis in dogs when at least two doses are given 28 days apart.<ref name="FDA 20230505" />
+
+== Society and culture ==
+=== Names ===
+Bedinvetmab is the international nonproprietary name.<ref>{{cite journal | vauthors = ((World Health Organization)) | year = 2019 | title = International nonproprietary names for pharmaceutical substances (INN): recommended INN: list 82 | journal = WHO Drug Information | volume = 33 | issue = 3 | page = | hdl = 10665/330879 | hdl-access = free | author-link = World Health Organization }}</ref>
+
+== References ==
+{{reflist}}
+{{HHS content|url=https://www.fda.gov/}}
+
+== Further reading ==
+* {{cite journal | vauthors = Corral MJ, Moyaert H, Fernandes T, Escalada M, Tena JK, Walters RR, Stegemann MR | display-authors = 6 | title = A prospective, randomized, blinded, placebo-controlled multisite clinical study of bedinvetmab, a canine monoclonal antibody targeting nerve growth factor, in dogs with osteoarthritis | journal = Veterinary Anaesthesia and Analgesia | volume = 48 | issue = 6 | pages = 943–955 | date = November 2021 | pmid = 34565678 | doi = 10.1016/j.vaa.2021.08.001 | s2cid = 237942406 | doi-access = free }}
+* {{cite journal | vauthors = Krautmann M, Walters R, Cole P, Tena J, Bergeron LM, Messamore J, Mwangi D, Rai S, Dominowski P, Saad K, Zhu Y, Guillot M, Chouinard L | display-authors = 6 | title = Laboratory safety evaluation of bedinvetmab, a canine anti-nerve growth factor monoclonal antibody, in dogs | journal = Veterinary Journal | volume = 276 | issue = | pages = 105733 | date = October 2021 | pmid = 34391918 | doi = 10.1016/j.tvjl.2021.105733 | doi-access = free }}
+
+{{Analgesics}}
+{{Portal bar | Medicine}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Dog medications]]
+
+
+{{veterinary-med-stub}}

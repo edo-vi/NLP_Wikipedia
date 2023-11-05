@@ -1,0 +1,15 @@
+In geology, the '''petrosphere''' is the entire [[silicate]] portion of a planet, including its [[crust (geology)|crust]] and [[mantle (geology)|mantle]].<ref>{{Cite book|last1=Moynier|first1=Frédéric|url=https://hal.archives-ouvertes.fr/hal-01381065/file/Moynier-Fegley%20final%20version%20-corrected.pdf|title=The Early Earth: Accretion and Differentiation|last2=Fegley|first2=Bruce|publisher=[[American Geophysical Union]]|year=2015|isbn=9781118860359|editor-last=Badro|editor-first=James|series=Geophysical Monograph Series 212|location=Washington, D.C.|pages=27|chapter=The Earth’s Building Blocks|doi=10.1002/9781118860359.ch2|editor-last2=Walter|editor-first2=Michael|chapter-url=https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781118860359.ch2}}</ref>
+
+== References ==
+{{Reflist}}
+
+== See also ==
+
+* [[Lithosphere]]
+
+
+{{geology-stub}}
+
+
+
+[[Category:Geology]]

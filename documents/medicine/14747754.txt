@@ -1,0 +1,107 @@
+{{short description|None}}
+
+{{India divisions by}}
+This is a list of the '''[[States of India|States]]''' of '''[[India]]''' ranked in order of percentage of children between 12–23 months of age
+who received all recommended vaccines, including all required doses of the [[BCG vaccine]], [[Hepatitis B vaccine]], [[polio vaccine]], [[DPT vaccine]], and the [[MMR vaccine]]. This information was compiled from National Family Health Survey - 4 and 5 published by International Institute for Population Sciences.<ref name=nfhs>{{cite web|url=http://rchiips.org/NFHS/factsheet_NFHS-4.shtml |title=National Family Health Survey, India| publisher=[[International Institute for Population Sciences]] | accessdate=31 January 2018}}</ref><ref name=nfhs5>{{cite web|url=https://rchiips.org/nfhs/NFHS-5Reports/NFHS-5_INDIA_REPORT.pdf |title=National Family Health Survey (NFHS-5), 2019-2021 India report| publisher=[[International Institute for Population Sciences]] | accessdate=23 August 2023}}</ref> Overall vaccination coverage in the country increased from 62.0% in 2015-16 to 76.6% in 2019-21 (Urban: 63.9% to 75.5%; Rural: 61.3% to 77.0%).<ref name=nfhs5/>
+
+== List ==
+{| class="wikitable sortable"
+|-
+! colspan="2" | || colspan="4" | Vaccination Coverage (%) || colspan="2" | Change
+|-
+! colspan="2" | || colspan="3" | 2015-16<ref name=nfhs/> || colspan="1" | 2019-21<ref name=nfhs5/>  || colspan="2" |
+|-
+! Rank || State || Urban || Rural || Total || Total || Rank || Coverage (%)
+|-
+| 1 || [[Odisha]] || 75 || 79.2 || 78.6 || 90.7 || {{Increase}}5 || {{Increase}}12.1
+|-
+| 2 || [[Tamil Nadu]] || 73.3 || 66.8 || 69.7 || 89.4 || {{Increase}}8 || {{Increase}}19.7
+|-
+| 3 || [[Himachal Pradesh]] || 64.8 || 69.9 || 69.5 || 89.2 || {{Increase}}9 || {{Increase}}19.7
+|-
+| 4 || [[West Bengal]] || 77.4 || 87.1 || 84.4 || 88.2 || {{Decrease}}1 || {{Increase}}3.8
+|-
+| 5 || [[Jammu and Kashmir (union territory)|Jammu and Kashmir]] || 81.6 || 72.9 || 75.1 || 86.2 || {{Increase}}3 || {{Increase}}11.1
+|-
+| 6 || [[Karnataka]] || 59.8 || 64.8 || 62.6 || 84.3 || {{Increase}}8 || {{Increase}}21.7
+|-
+| 7 || [[Sikkim]] || 81.4 || 83.7 || 83 || 82.5 || {{Decrease}}3 || {{Decrease}}0.5
+|-
+| 8 || [[Goa]] || 87.7 || 90.1 || 88.4 || 81.9 || {{Decrease}}6 || {{Decrease}}6.5
+|-
+| 9 || [[Uttarakhand]] || 56.5 || 58.2 || 57.7 || 81.1 || {{Increase}}10 || {{Increase}}23.4
+|-
+| 10 || [[Rajasthan]] || 60.9 || 53.1 || 54.8 || 80.5 || {{Increase}}12 || {{Increase}}25.7
+|-
+| 11 || [[Chhattisgarh]] || 84.9 || 74.3 || 76.4 || 79.7 || {{Decrease}}4 || {{Increase}}3.3
+|-
+| 12 || [[Telangana]] || 67.8 || 68.3 || 68.1 || 79.1 || {{Decrease}}1 || {{Increase}}10.0
+|-
+| 13 || [[Kerala]] || 82.2 || 82 || 82.1 || 78.4 || {{Decrease}}8 || {{Decrease}}3.7
+|-
+| 14 || [[Madhya Pradesh]] || 63 || 50.2 || 53.6 || 77.4 || {{Increase}}9 || {{Increase}}23.8
+|-
+| 15 || [[Haryana]] || 57 || 65.1 || 62.2 || 76.9 || {{Steady}}0 || {{Increase}}14.7
+|-
+| 16 || [[Gujarat]] || 50.4 || 50.4 || 50.4 || 76.4 || {{Increase}}9 || {{Increase}}26.0
+|-
+| 17 || [[Punjab, India|Punjab]] || 88.7 || 89.3 || 89.1 || 76.2 || {{Decrease}}16 || {{Decrease}}12.9
+|-
+| 18 || [[Jharkhand]] || 67 || 60.7 || 61.9 || 74.1 || {{Decrease}}2 || {{Increase}}12.2
+|-
+| 19 || [[Maharashtra]] || 55.8 || 56.7 || 56.3 || 73.6 || {{Increase}}1 || {{Increase}}17.3
+|-
+| 20 || [[Andhra Pradesh]] || 60.4 || 67.2 || 65.3 || 73.2 || {{Decrease}}7 || {{Increase}}7.9
+|-
+| 21 || [[Mizoram]] || 49.8 || 51.3 || 50.3 || 72.7 || {{Increase}}5 || {{Increase}}22.4
+|-
+| 22 || [[Bihar]] || 59.7 || 61.9 || 61.7 || 71.0 || {{Decrease}}5 || {{Increase}}9.3
+|-
+| 23 || [[Tripura]] || 64.2 || 51.2 || 54.5 || 69.5 || {{Decrease}}2 || {{Increase}}15.0
+|-
+| 24 || [[Uttar Pradesh]] || 53.6 || 50.4 || 51.1 || 69.9 || {{Steady}}0 || {{Increase}}18.8
+|-
+| 25 || [[Manipur]] || 74.3 || 61.7 || 65.8 || 68.8 || {{Decrease}}13 || {{Increase}}3.0
+|-
+| 26 || [[Assam]] || 70.9 || 44.4 || 47.1 || 66.7 || {{Increase}}1 || {{Increase}}19.6
+|-
+| 27 || [[Arunachal Pradesh]] || 44.2 || 36.4 || 38.2 || 64.9 || {{Increase}}1 || {{Increase}}26.7
+|-
+| 28 || [[Meghalaya]] || 81.4 || 58.5 || 61.5 || 64.0 || {{Decrease}}10 || {{Increase}}2.5
+|-
+| 29 || [[Nagaland]] || 41.6 || 33.4 || 35.7 || 57.9 || {{Steady}}0 || {{Increase}}22.2
+|}
+
+== Union Territory by vaccination coverage ==
+{| class="wikitable sortable"
+|-
+! colspan="2" | || colspan="4" | Vaccination Coverage (%) || colspan="2" | Change
+|-
+! colspan="2" | || colspan="3" | 2015-16<ref name="nfhs" /> || colspan="1" | 2019-21<ref name ="nfhs5" /> || colspan="2" |
+|-
+! Rank || Union Territory || Urban || Rural || Total || Total || Rank || Coverage (%)
+|-
+| 1 || [[Dadra and Nagar Haveli]] || - || 35.1 || 43.2 || 94.9 || {{Increase}}6 || {{Increase}}22.4
+|-
+| 1 || [[Daman and Diu]] || 67.8 || 62.4 || 66.3 || 94.9 || {{Increase}}5 || {{Increase}}28.6
+|-
+| 2 || [[Lakshadweep]] || 86.1 || - || 89.0 || 86.1 || {{Steady}}0 || {{Decrease}}2.9
+|-
+| 3 || [[Puducherry (union territory)|Puducherry]] || 94.2 || 85.4 || 91.4 || 82.3 || {{Decrease}}2 || {{Decrease}}9.1
+|-
+| 4 || [[Chandigarh]] || 77.2 || - || 79.5 || 80.9 || {{Decrease}}1 || {{Increase}}1.9
+|-
+| 5 || [[Andaman and Nicobar Islands|Andaman and Nicobar]] || 61.8 || 82.5 || 73.2 || 79.9 || {{Decrease}}1 || {{Increase}}6.7
+|-
+| 6 || [[Delhi]] || 68.6 || - || 68.8 || 76.0 || {{Decrease}}2 || {{Increase}}7.2
+|}
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+{{cite web | url=http://www.rchiips.org/NFHS/index.shtml | title=National Family Health Survey 3 (2005-2006) | publisher=National Family Health Survey | accessdate=23 December 2013}}
+{{cite web|url=https://rchiips.org/nfhs/NFHS-5Reports/NFHS-5_INDIA_REPORT.pdf |title=National Family Health Survey (NFHS-5), 2019-2021 India report| publisher=[[International Institute for Population Sciences]] | accessdate=23 August 2023}}
+{{DEFAULTSORT:States and union territories of India by vaccination coverage}}
+[[Category:Health in India by state or union territory|Vaccination coverage]]
+[[Category:Vaccination]]

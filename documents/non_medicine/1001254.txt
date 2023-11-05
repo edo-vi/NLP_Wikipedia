@@ -1,0 +1,139 @@
+{{Short description|Type of literary tropes that occur in fantasy fiction}}
+{{About|Fantasy tropes|other uses|Trope (disambiguation)}}
+<noinclude>{{User:RMCD bot/subject notice|1=Fantasy trope|2=Talk:Fantasy tropes#Requested move 30 October 2023}}
+</noinclude>{{Use dmy dates|date=October 2014}}
+{{Multiple issues|
+{{Original research|date=April 2014}}
+{{More footnotes|date=August 2014}}
+}}
+[[File:Ring21.jpg|thumb|[[Sigmund]] holding the magic sword [[Nothung]] in an [[Arthur Rackham]] illustration of Richard Wagner's ''[[Die Walküre]]''. Magic swords are a common fantasy trope.]]
+
+{{Fantasy}}
+
+'''Fantasy tropes''' are a specific type of [[Trope (literature)|literary tropes]] (recurring themes) that occur in [[fantasy fiction]]. [[Worldbuilding]], plot, and characterization have many common conventions, many of them having ultimately originated in [[myth]] and [[folklore]]. [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]] (and in particular, ''[[The Lord of the Rings]]'') for example, was inspired from a [[J.R.R. Tolkien's influences|variety of different sources]] including Germanic, Finnish, Greek, Celtic and Slavic myths. [[Literary]] fantasy works operate using these tropes, while others use them in a [[Fictional revisionism|revisionist]] manner, making the tropes over for various reasons such as for comic effect, and to create something fresh (a method that often generates new [[cliché]]s).{{sfn|Clute|1999|p=810}}
+
+==Good vs. evil==
+The conflict of [[good against evil]] is a theme in the many popular forms of fantasy; normally, evil characters invade and disrupt the good characters' lands.<ref>{{cite web |url=http://www.fantasybookreview.co.uk/fantasy-sub-genres/epic-fantasy.php |title=Top 10 Epic / High fantasy books |work=Fantasybookreview.co.uk |access-date=13 May 2014 |archive-url=https://web.archive.org/web/20140519091716/http://www.fantasybookreview.co.uk/fantasy-sub-genres/epic-fantasy.php |archive-date=19 May 2014 |url-status=live |df=dmy-all }}</ref> [[J. R. R. Tolkien]] delved into the nature of good and evil in ''[[The Lord of the Rings]]'', but many of those who followed him use the conflict as a [[plot device]], and often do not distinguish the sides by their behavior.{{sfn|Clute|1999|p=422}} In some works, most notably in [[sword and sorcery]], evil is not opposed by the unambiguously good but by the morally unreliable.{{sfn|Clute|1999|p=323}}
+
+===Hero===
+{{main|Hero}}
+Heroic characters are a mainstay of fantasy, particularly [[high fantasy]] and [[sword and sorcery]].{{Citation needed|date=May 2013}} Such characters are capable of more than ordinary behavior, physically, morally, or both.{{sfn|Clute|1999|p=464}} Sometimes they might have to grow into the role ordained for them.{{sfn|Clute|1999|p=136}} This may take the form of maturation,{{sfn|Clute|1999|p=972}} which is often through [[Bildungsroman|Coming of Age]].
+
+Many [[protagonist]]s are, unknown to themselves, of [[royal descent|royal blood]].{{Citation needed|date=May 2013}} Even in so fanciful a tale as ''[[Through the Looking-Glass]]'', Alice is made a queen in the end; this can serve as a symbolic recognition of the hero's inner worth. {{sfn|Prickett|1979|pp=145–156}} Commonly, these tales revolve around the maltreated hero coming into his or her own. This can reflect a wish-fulfillment dream, or symbolically embody a profound transformation.{{sfn|Clute|1999|p=466}}
+
+===Dark Lord===
+<!-- This section is linked from [[The Dark Lord]] -->
+{{main|Dark Lord}}
+The forces of evil are often personified in a "Dark Lord". Besides possessing vast magical abilities, a Dark Lord often controls great armies and can be portrayed as possessing devil-like qualities.{{sfn|Clute|1999|p=250}} A Dark Lord is usually depicted as the ultimate personification of evil.{{Citation needed|date=May 2014}}
+
+{| class="wikitable sortable"
+|+ Notable Dark Lords
+|-
+! Name !! Source
+|-
+| [[Sauron]] || ''[[The Lord of the Rings]]''
+|-
+| [[Thulsa Doom (character)|Thulsa Doom]] || archenemy of [[Conan the Barbarian]]
+|-
+| the [[Dark One (Wheel of Time)|Dark One]] (Shai'tan) || ''[[The Wheel of Time]]''
+|-
+|  [[Sith]] Lords || ''[[Star Wars]]''
+|-
+|  [[Lord Voldemort]] || ''[[Harry Potter]]''
+|-
+| the [[Skeksis]] || ''[[The Dark Crystal]]''
+|-
+| [[Darkseid]] || [[DC Comics]]
+|-
+| [[Thanos]] || [[Marvel Comics]]
+|-
+| Mundus || the [[Devil May Cry]] video game series
+|-
+| [[Dracula (Castlevania)|Dracula]] || the ''[[Castlevania]]'' series
+|-
+| [[Skeletor]] || ''[[Masters of the Universe]]''
+|-
+| [[Morgoth]] || ''[[The Silmarillion]]''
+|-
+| [[Arawn Death-Lord]] || ''[[The Chronicles of Prydain]]''
+|-
+| [[Kal Torak|Torak]] || ''[[The Belgariad]]''
+|-
+| [[Nightmare (Soulcalibur)|Nightmare]] || ''[[Soul (series)|Soulcalibur]]''
+|-
+| [[Ganon]] || ''[[The Legend of Zelda]]''
+|-
+| [[Exdeath]] || ''[[Final Fantasy V]]''
+|-
+| [[Galbatorix]] || ''[[The Inheritance Cycle]]''
+|}
+
+The villain of the ''[[Demon Sword]]'' video game is also literally called Dark Lord.
+
+In the ''[[Lone Wolf (gamebooks)|Lone Wolf]]'' [[gamebooks]], the Dark Lords are a race of powerful evil beings.<ref>{{cite web|url=http://web.ncf.ca/as300/darklords.html|title=The Darklords of Helgedad|publisher=The World of Magnamund Webring|access-date=13 July 2009|archive-url=https://web.archive.org/web/20090605061941/http://web.ncf.ca/as300/darklords.html|archive-date=5 June 2009|url-status=live|df=dmy-all}}</ref> The protagonists of the ''[[Overlord (2007 video game)|Overlord]]'' video game franchise are classic Dark Lords in the vein of Sauron. The Dark Lord is usually seen as unmarried, though there has been the occasion when one has attempted to claim a bride.
+
+==Quest==
+{{main|Quest}}
+Quests, an immemorial trope in literature, are common in fantasy. They can be anything from a quest to locate the [[MacGuffin]]s necessary to save the world, to an internal quest of [[self-realization]].{{sfn|Clute|1999|p=796}}
+
+==Magic==
+{{main|Magic in fiction|Magician (fantasy)}}
+In fantasy, magic often has an overwhelming presence, although its precise nature is delineated in the book in which it appears. It can appear in a [[fantasy world]] (as in ''[[The Lord of the Rings]]'' or ''[[Shannara]]''), or in a fantasy land that is part of reality but insulated from the mundane lands (as in [[Xanth]]), or as a hidden element in real life (as in [[The Dresden Files]]).{{sfn|Clute|1999|pp=615–616}}
+
+A common trope is that magical ability is innate and rare. As such, magic-wielding people are common figures in fantasy.{{sfn|Clute|1999|p=616}} Another feature is the [[Magic in fiction|magic item]], which can endow characters with magical abilities or enhance the abilities of the innately powerful. Among the most common are [[magic sword]]s and [[magic ring]]s.
+
+[[Self-fulfilling prophecy#Literature, media, and the arts|Self-fulfilling prophecies]] are amongst the most common forms of magic because they are an often used [[plot device]]. Often the effort undertaken to avert them brings them about, thus driving the story. It is very rare for a prophecy in a fantasy to be false, although usually, their significance is only clear with hindsight. [[Quibble (plot device)|Quibble]]s can undermine the clearest appearing prophecies.{{sfn|Clute|1999|p=789}}
+
+In ''The Lord of the Rings'', J. R. R. Tolkien minimized the use of the word 'magic'; beings who use such abilities tend to be confused when they are described this way by others.
+
+[[Science fantasy]] stories often make use of scientifically implausible powers similar to magic, such as [[psychic]]s.<ref name=":0">{{Cite book|title=The Mammoth Encyclopedia of Science Fiction.|last=Mann|first=George|date=2012|publisher=Constable & Robinson|isbn=978-1780337043|location=London|chapter=The History and Origins of Science Fiction|oclc=804664796}}</ref> However, unlike true [[science fiction]] works, these powers are used in a [[Pulp magazine|pulp]] manner with no examination of their effects on society, only to create more spectacular effects than science fiction alone can provide.<ref name=":0" /> An example of this is the use of [[the Force]]  by the [[Jedi]] in the ''[[Star Wars]]'' franchise.<ref>{{Cite book|title=Riveting Reads plus Fantasy Fiction|last=Sinclair|first=Frances|date=2008|publisher=School Library Association|others=School Library Association.|isbn=978-1903446461|location=Wanborough, Swindon, UK|pages=88|oclc=272332168}}</ref>
+
+==Medievalism==
+{{main|Medievalism}}
+Many fantasy creatures are inspired by European folklore and the [[Romance (heroic literature)|romances]] of medieval Europe. [[Dragon]]s and [[unicorn]]s are among the most popular creatures. Other monsters, such as [[griffin]]s, [[giant (mythology)|giant]]s, and [[goblin]]s also appear. Races of intelligent beings such as [[elf|elves]], [[Dwarf (Germanic mythology)|dwarves]], and [[gnome]]s often draw their history from medieval or pre-Christian roots. Characteristics of the hero and heroine also frequently draw on these sources as well.
+
+This trope is also very important in the setting of many of these fantasies. Writers from the beginnings of the fantasy genre, such as [[William Morris]] in ''[[The Well at the World's End]]'' and [[Lord Dunsany]] in ''[[The King of Elfland's Daughter]]'', set their tales in [[fantasy world]]s clearly derived from medieval sources; though often filtered through [[Medievalism|later views]]. [[J. R. R. Tolkien]] set the type even more clearly for [[high fantasy]], which is normally based in such a "pseudo-medieval" setting. Other fantasy writers have emulated him, and [[role-playing]] and [[Video game|computer games]] have also taken up this tradition.
+
+The full width of the medieval era is seldom drawn upon. Governments, for instance, tend to be feudalistic, corrupt empires despite the greater variety of the actual Middle Ages.<ref>{{cite web |last=Hardinge |first=Frances |url=http://www.strangehorizons.com/2002/20020624/epic_fantasy.shtml |title=Article: Quality in Epic Fantasy, by Alec Austin |publisher=Strangehorizons.com |access-date=4 August 2014 |archive-url=https://web.archive.org/web/20140808040720/http://www.strangehorizons.com/2002/20020624/epic_fantasy.shtml |archive-date=8 August 2014 |url-status=live |df=dmy-all }}</ref> Settings also tend to be medieval in economy, with many fantasy worlds disproportionately [[pastoral]].{{sfn|Yolen|1992|p=VIII}}
+
+These settings are typical of [[epic fantasy]] and, to a lesser extent, of [[sword and sorcery]] — which contains more urban settings — than of fantasy in general; the preponderance of epic fantasy in the genre has made them fantasy commonplaces. They are less typical of [[contemporary fantasy]], especially [[urban fantasy]].
+
+===Ancient world===
+A less common inspiration is the [[ancient world]]. A famous example is the [[Hyborian Age]] (the fictional world of ''[[Conan the Barbarian]]''), which features analogues of [[Ancient Egypt]], [[Mesopotamia]], and the [[Roman Empire]], among others. Three notable recent series with such settings are: ''[[Bartimaeus (book series)|Bartimaeus]]'' by [[Jonathan Stroud]], ''[[Percy Jackson & the Olympians]]'' and ''[[The Heroes of Olympus]]'' by [[Rick Riordan]].
+
+=={{Anchor|Races}}Races and species==
+{{See also|Character race (gaming)}}
+[[File:Fantasy races size comparison chart.png|thumb|A size comparison of some of the more common fantasy races.]]
+Many fantasy stories and worlds refer to their main [[Sapience|sapient]] [[humanoid]] creatures as races, rather than [[species]] in order to distinguish them from non-sapient creatures.{{sfn|Tresca|2010|p=30}} J. R. R. Tolkien popularized the usage of the term in this context, in his [[Tolkien's legendarium|legendarium]] (and particularly in ''[[The Lord of the Rings]]''), and the use of [[Character race|races]] in the ''[[Dungeons & Dragons]]'' [[role-playing game]]s further spread the label.{{sfn|Livingstone|1982|p=74}} Many fantasy and science fiction settings now use the terms race and species interchangeably, such as the ''World of Warcraft'' computer game.
+
+In role-playing games, [[character race|race]] typically refers to any sapient species usable as a [[player character]]. Older editions of ''Dungeons & Dragons'' called the primary non-human player races ([[Dwarf (Dungeons & Dragons)|dwarf]], [[Elf (Dungeons & Dragons)|elf]], [[Gnome (Dungeons & Dragons)|gnome]], [[halfling]], and [[Half-elf (Dungeons & Dragons)|half-elf]], half-orc) "demi-humans." Later games such as ''[[Shadowrun]]'' use the term "metahuman," and define these humanoid races as subdivisions of "[[Homo sapiens]]."
+
+==See also==
+* [[Archetype]]
+* [[Cliché]]
+* [[Damsel in distress]]
+* [[Role reversal]]
+* [[Stereotype]]
+* [[Stock character]]
+* [[List of science fiction themes]]
+
+==References==
+{{Reflist|colwidth=35em}}
+
+==Sources==
+*{{cite book |last1=Anderson |first1=Poul |last2=Miesel |first2=Sandra |date=1981 |title=Fantasy |location=[S.l.] |publisher=Tom Doherty Associates |edition=1st |isbn=0-523-48515-8 }}
+*{{cite book |last1=Clute |first1=John |year=1999 |title=The Encyclopedia of Fantasy |location=New York |publisher=St. Martin's Griffin |isbn=0-312-19869-8 |edition=1st St. Martin's Griffin }}
+*{{cite book |first=Ian |last=Livingstone |year=1982 |title=[[Dicing with Dragons]] |publisher=Routledge |isbn=0-7100-9466-3 }}
+*{{cite book |last1=Prickett |first1=Stephen |year=1979 |title=Victorian Fantasy |location=Bloomington |publisher=Indiana University Press |isbn=0-253-17461-9 }}
+*{{cite book |last=Tresca |first=Michael J. |title=The Evolution of Fantasy Role-Playing Games |url=https://books.google.com/books?id=8H8bzqj6S4sC&pg=PA30 |year=2010 |publisher=McFarland |isbn=978-0-7864-6009-0 }}
+*{{cite book |last1=Yolen |first1=Jane |year=1992 |title=After the King: Stories in Honor of J.R.R. Tolkien |location=New York |publisher=T. Doherty Associates |edition=1st |isbn=0-312-85175-8 }}
+
+==External links==
+*{{Commonscatinline}}
+
+{{Fantasy fiction}}
+{{Speculative fiction all}}
+
+{{DEFAULTSORT:Fantasy Tropes}}
+[[Category:Fantasy tropes| ]]
+[[Category:Literature]]

@@ -1,0 +1,40 @@
+A '''relict''', in [[geology]], is a structure or mineral from a parent [[rock (geology)|rock]] that did not undergo [[metamorphism|metamorphic change]] when the surrounding rock did, or a rock that survived a destructive geologic process.
+
+Some [[Geology#Geological development of an area|geologic process]]es are destructive or transformative of structures or minerals, and when a process is not complete or does not completely destroy certain features, the left-over feature is a relict of what was there before. For example, relict [[permafrost]] is an area of ancient permafrost which remains despite a change in climate which would prohibit new permafrost from forming<ref>{{Cite book
+  | last1 = Jackson
+  | first1 = Julia A.
+  | title = Glossary of Geology
+  | publisher = [[American Geological Institute]]
+  | year = 1980
+  | location = Falls Church, Virginia
+  | pages = [https://archive.org/details/glossaryofgeolog0000bate/page/529 529]
+  | isbn = 978-0-913312-15-5
+  | url = https://archive.org/details/glossaryofgeolog0000bate/page/529
+  }}</ref> or it could be a fragment of ancient soil or sediment found in a younger [[stratum]]. A relict [[sediment]] is an area of ancient sediment which remains unburied despite changes in the surrounding environment. In [[pedology]], the study of [[soil formation]] and classification, ancient soil found in the geologic record is called a [[paleosol]], material formed in the distant past on what was then the surface. A relict paleosol is still found on the surface, and yet is known to have been formed under conditions radically different from the present climate and topography.<ref>{{Cite encyclopedia
+  | last = Retallack
+  | first = Gregory J.
+  | title = Paleosol
+  | encyclopedia = AccessScience
+  | publisher = [[McGraw-Hill Companies]]
+  | year = 2008
+  | url = http://www.accessscience.com/content/paleosol/484200
+  | doi = 10.1036/1097-8542.484200
+  }}</ref>
+
+In [[mineralogy]], a relict mineral is a surviving mineral from a parent rock that underwent a  destructive or transformative process.  For example, [[serpentinite]] is a kind of rock formed in a process called [[serpentinization]], in which a host mineral produces a [[pseudomorph]], and the original mineral is eventually replaced and/or destroyed, but is still present until the process is complete.<ref>{{Cite encyclopedia
+  | last = Wicks 
+  | first = Frederick J. 
+  | title = Serpentinite
+  | encyclopedia = AccessScience
+  | publisher = [[McGraw-Hill Companies]]
+  | year = 2008
+  | url = http://www.accessscience.com/content/serpentinite/616300
+  | doi = 10.1036/1097-8542.616300 
+  }}</ref>
+
+Within [[geomorphology]] a relict landform is a [[landform]] that took form from geomorphic processes that are not active at present. In a [[Scandinavia]]n context, this is often meant to imply that relict landforms were formed before the [[Weichselian glaciation|last glaciation]] and survived it under cold-based parts of the [[ice sheet]].<ref name=Ebert>{{cite journal |last=Ebert |first=Karin |date=2009 |title=Terminology of long-term geomorphology: a Scandinavian perspective  |journal=[[Progress in Physical Geography]] |volume=33 |issue=2 |pages=163–182 |doi=10.1177/0309133309338138 |s2cid=128915651 }}</ref> [[Climatic geomorphology|Climatic geomorphologist]] [[Julius Büdel]] estimated that 95% of [[mid-latitude]] landforms are relict.<ref name=Sarre1993>{{cite book |last=Sarre |first=R.D. |date=1993 |chapter=Climatic geomorphology |chapter-url=https://books.google.com/books?id=6uchDIKQV0UC&dq=%22Peritropical+zone+of+excessive+planation%22&pg=PA113|title=The Encyclopedia of the Solid Earth Sciences|editor-last=Kearey|editor-first=Philip |publisher=Blackwell Science Ltd. |pages=112–114 |isbn=978-0-632-03699-8 }}</ref><ref name=Migon2006>{{cite journal |last1=Migoń |first1=Piotr |author-link=Piotr Migoń |date=2006 |title=Büdel, J. 1982: Climatic geomorphology. Princeton: Princeton University Press. (Translation of Klima-geomorphologie, Berlin-Stuttgart: Gebrüder Borntraeger, 1977.) |journal=[[Progress in Physical Geography]] |volume=30 |issue=1 |pages=99–103 |doi= 10.1191/0309133306pp473xx|s2cid=129512489 }}</ref>
+   
+==References==
+{{reflist}}
+
+[[Category:Geology]]

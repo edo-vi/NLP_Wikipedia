@@ -1,0 +1,30 @@
+{{other uses|Aggadah|Haggadah of Pesach|Caleb Agada}}
+{{italic title}}
+{{Use dmy dates|date=July 2020}}
+{{Alternative medicine sidebar}}
+'''''Agada''''' is one of the eight branches into which [[ayurveda]] medicine is traditionally divided. Literally, ''gada'' means a disease and ''agada'' means any agent which makes the body free from disease; however the term ''agada'' is used specifically for the branch of medicine dealing with [[toxicology]], the description of the different types of [[poison]]s, and their [[antidote]]s.<ref name="DashKashyap1994"/>
+
+''Agada Tantra'' is defined as a section of toxicology that deals with [[food poisoning]], [[snakebite]]s, [[dog bite]]s, [[insect bite]]s, etc.<ref name="Sudarshan1999"/> The school of toxicology was founded and expounded upon by Kashyapa, also known as Vriddhakashyapa, a contemporary of [[Atreya Punarvasu]]. He lived in [[Taxila|Taksashila]] in what is now [[Pakistan]]. His text was called the ''Kashyapa Samhita''. This, however, is a different book than the ''[[Kashyap Samhita]]'' of [[pediatrics]]. This text is not available now but the references of this text are found mentioned in different commentaries. Some other texts written by Alambayana, [[Ushana]], [[Saunaka]], and Latyayana were known to exist. However except for references to them, the original texts are no longer available.<ref name="Tivārī1997"/><ref name="Govindan2002"/>
+
+The traditional practice of toxicology is still practiced by different families of [[vishavaidya]]s (poison doctors) who specialize in toxicology. However, their knowledge is limited compared to the knowledge possessed by the earlier ayurvedic physicians. In ancient times, it was the job of Vishavaidyas to protect members of the [[royal families|royal family]] from being poisoned, as well to poison enemies of the kings.<ref name="Sudarshan1999-2"/>
+
+==References==
+{{Reflist|refs=
+<ref name="DashKashyap1994">{{cite book|author1=Vaidya Bhagwan Dash|author2=Lalitesh Kashyap|title=Basic Principles of Ayurveda|url=https://books.google.com/books?id=ZLees6mM1BcC&pg=PA584|year=1994|publisher=Concept Publishing Company|isbn=978-81-7022-257-6|pages=584, 46, 55}}</ref>
+<ref name="Sudarshan1999">{{cite book|author=S.R. Sudarshan|title=Encyclopaedia of Indian Medicine -|url=https://books.google.com/books?id=vZ06Fidv5IoC&pg=PA19|year=1999|publisher=Popular Prakashan|isbn=978-81-7154-256-7|page=19}}</ref>
+<ref name="Tivārī1997">{{cite book|author=Premavatī Tivārī|title=Introduction to Kāśyapa-saṃhitā|url=https://books.google.com/books?id=cENNAAAAYAAJ|year=1997|publisher=Chaukhambha Visvabharati}}</ref>
+<ref name="Govindan2002">{{cite book|author=S. V. Govindan|title=Fundamental Maxims of Ayurveda|url=https://books.google.com/books?id=Mgk-R09eu_kC&pg=PA14|year=2002|publisher=Abhinav Publications|isbn=978-81-7017-417-2|page=14}}</ref>
+<ref name="Sudarshan1999-2">{{cite book|author=S.R. Sudarshan|title=Encyclopaedia of Indian Medicine -|url=https://books.google.com/books?id=vZ06Fidv5IoC&pg=PA205|year=1999|publisher=Popular Prakashan|isbn=978-81-7154-256-7|page=205}}</ref>
+}}
+
+==More sources==
+* [http://www.google.com/search?tbs=bks%3A1&tbo=1&q=agada+ayurveda Search on Google Books]
+* Forensic medicine under Indian system of medicine(Ayurveda). By Dr. U. N. Prasad
+
+{{Ayurveda}}
+
+[[Category:Ayurveda]]
+[[Category:Alternative detoxification]]
+
+{{Alt-med-stub}}
+{{med-toxic-stub}}

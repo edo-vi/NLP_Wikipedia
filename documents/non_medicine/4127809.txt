@@ -1,0 +1,19 @@
+{{refimprove|date=March 2021}}
+
+[[File:Villa Meola a Portici (scaletta).jpg|thumb|The staircase, in Piperno, to the mezzanine floor of Villa Meola in [[Portici]]]]
+[[File:Portale Torchese.jpg|thumb|Piperno in Church of San Francesco delle Monache, Naples]]
+
+'''Piperno''' is a [[magmatic rock]] present in areas where there has been volcanic activity.<ref>{{cite journal | url=https://www.sciencedirect.com/science/article/abs/pii/S1296207400010979 | doi=10.1016/S1296-2074(00)01097-9 | title=The building stones of the ancient centre of Naples (Italy): Piperno from Campi Flegrei. A contribution to the knowledge of a long-time-used stone | year=2000 | last1=Calcaterra | first1=Domenico | last2=Cappelletti | first2=Piergiulio | last3=Langella | first3=Alessio | last4=Morra | first4=Vincenzo | last5=Colella | first5=Abner | last6=De Gennaro | first6=Roberto | journal=Journal of Cultural Heritage | volume=1 | issue=4 | pages=415–427 }}</ref> Piperno abounds in [[Campania]]; the areas from which it was obtained were the city of [[Quarto]], Soccavo, Pianura and [[Nocera Inferiore]] in the supervolcano region of the [[Phlegraean Fields]]. The Piperno layer, with the overlying Breccia Museo, is clearly visible at the base of the Camaldoli hill, in the Soccavo and Verdolino areas.<ref>{{cite journal |last1=Calcaterra |first1=Domenico |last2=Langella |first2=Alessio |last3=de Gennaro |first3=Roberto |last4=de’ Gennaro |first4=Maurizio |last5=Cappelletti |first5=Piergiulio |title=Piperno from Campi Flegrei: a relevant stone in the historical and monumental heritage of Naples (Italy) |journal=Environmental Geology |date=February 2005 |volume=47 |issue=3 |pages=341–352 |doi=10.1007/s00254-004-1156-3|s2cid=128664111 |url=https://www.researchgate.net/publication/227070657}}</ref>
+
+This type of [[ignimbrite]] tuff takes on a particular texture characterised by the orientation of lenticular concentrations of grey colour, called flames, immersed in a matrix of the same colour but lighter. Piperno should not be confused with Neapolitan Yellow [[Tuff]]; welded piperno tuff is more durable than yellow tuff, which poses conservation challenges. <ref>{{cite journal | url=https://www.sciencedirect.com/science/article/abs/pii/S0950061817300685 | doi=10.1016/j.conbuildmat.2017.01.053 | title=The Neapolitan Yellow Tuff: An outstanding example of heterogeneity | year=2017 | last1=Colella | first1=A. | last2=Di Benedetto | first2=C. | last3=Calcaterra | first3=D. | last4=Cappelletti | first4=P. | last5=d'Amore | first5=M. | last6=Di Martire | first6=D. | last7=Graziano | first7=S.F. | last8=Papa | first8=L. | last9=De Gennaro | first9=M. | last10=Langella | first10=A. | journal=Construction and Building Materials | volume=136 | pages=361–373 }}</ref><ref>https://riunet.upv.es/bitstream/handle/10251/189105/RussoBossoBalbi%20-%20Historic%20tuff%20masonry%20in%20Naples%20different%20approaches%20to%20its%20conservation.pdf?sequence=1&isAllowed=y</ref>
+
+Piperno rock is not easy to extract, and is helped by underground separation of the large blocks that are subsequently worked; it is resistant to the wear and tear of atmospheric agents and for this reason it has been widely used for the cladding of buildings in [[Naples]]. Currently it is no longer extracted as the underground quarries in Pianura and Soccavo are exhausted. 
+
+Campanian piperno is a cousin to [[peperino]] tuff from [[Lazio]].<ref>{{cite journal | url=https://link.springer.com/article/10.1007/s00445-022-01573-5/figures/2 | doi=10.1007/s00445-022-01573-5 | title=The peperino rocks: Historical and volcanological overview | year=2022 | last1=Marra | first1=F. | last2=Palladino | first2=D. M. | last3=Licht | first3=O. A. Boni | journal=Bulletin of Volcanology | volume=84 | issue=7 | page=69 | bibcode=2022BVol...84...69M | s2cid=249873677 | hdl=11573/1660768 | hdl-access=free }}</ref>
+
+==References==
+{{reflist}}
+
+
+[[Category:Geology]]
+[[Category:Volcanic rocks]]

@@ -1,0 +1,24 @@
+{{Short description|Condition in pigs}}
+[[File:PSS Breeding Practices.jpg|thumb|Common Industry Breeding Practice]]
+'''Porcine stress syndrome''', also known as '''[[malignant hyperthermia]]''' or PSS, is a condition in pigs. It is characterised by [[hyperthermia]] triggered by stress, anaesthesia with [[halothane]] or intense exercise. PSS may appear as sudden death in pigs, often after transport. It is an inherited, [[autosomal recessive]] disorder due to a defective [[ryanodine receptor]] leading to huge calcium influx, muscle contracture and increase in metabolism.
+
+PSS can manifest itself in the [[abattoir]] as the production of [[PSE meat|Pale, Soft and Exudative meat]] due to a rapid fall in muscle pH and degradation of muscle proteins and structure.<ref>{{cite journal|author=Wendt M, Bickhardt K, Herzog A, Fischer A, Martens H, Richter T.|year=2000|title=Porcine stress syndrome and PSE meat: clinical symptoms, pathogenesis, etiology and animal rights aspects|journal=Berl Munch Tierarztl Wochenschr|url=https://pubmed.ncbi.nlm.nih.gov/10846811/|volume=113|issue=5|pages=173–90|pmid=10846811}}</ref> This meat is usually rejected after inspection.
+
+It is most common in [[Danish Landrace pig|Landrace]], [[Piétrain]] and cross-breeds of these breeds of pig. The genes may have been favoured in the past due to a larger muscle bulk in these breeds.{{cn|date=March 2023}}
+
+Psychologist [[Melanie Joy]] has likened PSS to [[post-traumatic stress disorder]] in humans.<ref>{{cite book | title=[[Why We Love Dogs, Eat Pigs, and Wear Cows]] | publisher=Conari Press | author=Joy, Melanie | authorlink=Melanie Joy | year=2011 | pages=42–43}}</ref>
+
+==References==
+{{reflist}}
+
+== Further reading ==
+{{refbegin}}
+* G.A. Gronert (1986). Malignant hyperthermia. In: B. Engle, B. Banker (editors) (1986). ''Myology''. New York: McGraw Hill,  pages 1763–1783.
+* W.E. Rempel, M.Y. Lu, S. El-Kandelgy, C.F.H. Kennedy, L.R. Irvin, J.R. Mickelson, C.F. Louis (1993). Relative accuracy of the halothane challenge test and a molecular genetic test in detecting the gene for porcine stress syndrome. ''Journal of Animal Science''. '''71''' (6):1395–1399.
+{{refend}}
+
+[[Category:Swine diseases]]
+[[Category:Syndromes in mammals]]
+
+
+{{Veterinary-med-stub}}

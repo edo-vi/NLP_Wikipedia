@@ -1,0 +1,128 @@
+{{short description|American sports impostor}}
+{{Use mdy dates|date=December 2013}}
+{{Infobox sportsperson
+| name             = Rosie Ruiz
+| image            =
+| image_size       =
+| alt              =
+| caption          =
+| headercolor      =
+| native_name      =
+| native_name_lang =
+| birth_name       =
+| fullname         =
+| nickname         =
+| nationality      = Cuban
+| ethnicity        =
+| citizenship      = United States 
+| birth_date       = {{birth date|1953|6|21}}
+| birth_place      = [[Havana]], Cuba
+| death_date       = {{death date and age |2019|7|8 |1953|6|21 |mf=yes}}
+| death_place      = [[Lake Worth Beach, Florida]], United States
+| resting_place    =
+| monuments        =
+| residence        =
+| education        =
+| alma_mater       =
+| occupation       =
+| years_active     =
+| employer         =
+| agent            =
+| height           ={{height|ft=5|in=3}}
+| weight           =
+| spouse           = {{marriage|Aicaro Vivas|1984|1986|end=divorced}}
+| life_partner     = 
+| other_interests  =
+| website          =
+| module           =
+| country          = Cuba
+| sport            = [[Track and field]]
+| position         =
+| rank             = DQ
+| event            = [[Boston Marathon|1980 Boston Marathon]]
+| collegeteam      =
+| universityteam   =
+| league           =
+| league_type      =
+| club             =
+| team             =
+| turnedpro        =
+| partner          =
+| former_partner   =
+| coach            =
+| retired          =
+| coaching         =
+| module2          =
+| regionals        =
+| nationals        =
+| olympics         =
+| highestranking   =
+| pb               =
+| medaltemplates   =
+| show-medals      =
+| updated          =
+}}
+'''Rosie M. Vivas'''<ref name="bryan"/> ({{nee}} '''Ruiz'''; June 21, 1953 – July 8, 2019)<ref name="NYT Obit" /> was a [[Cuban-American]] fraudster who (among other schemes) was declared the winner in the female category for the 84th [[Boston Marathon]] in 1980, only to have her title stripped eight days after the race when it was discovered that she had not run the entire course. She is believed to have jumped onto the course about a half-mile before the finish.
+
+== Early life and education ==
+Ruiz was born in [[Havana]], Cuba, and moved to [[Memphis, Florida]], with her family in 1962 when she was eight years old.<ref name=SI1>[https://www.si.com/vault/1980/05/05/824629/scorecard Scorecard]. ''[[Sports Illustrated]]'', May 5, 1980.</ref> After immigrating to the United States, Ruiz was separated from her mother and lived with aunts, uncles, and cousins in [[Hollywood, Florida]]. In 1972, she graduated from [[South Broward High School]] and then attended [[Wayne State College]] in [[Nebraska]]. She graduated with a degree in music in 1977.<ref name="bryan">{{cite news |last=Marquard |first=Bryan |url=https://www.bostonglobe.com/metro/obituaries/2019/08/07/life-apparent-death-rosie-ruiz-shrouded-bit-mystery/SiH65OvRI59uFkIK0012lL/story.html? |title=As in life, apparent death of Rosie Ruiz shrouded in a bit of mystery |work=[[The Boston Globe]] |date=2019-08-07 |access-date=2019-08-08 }}</ref>
+
+==New York City Marathon==
+She moved to [[New York City]] in the 1970s, eventually finding work with Metal Traders, a commodities firm. In 1979, she qualified for the [[New York City Marathon]] and was credited with a time of 2:56:29, the 11th woman overall—enough for her to qualify for the Boston Marathon.<ref name=EagleTribune>Burt, Bill. [http://www.eagletribune.com/sports/rosie-s-run-how-rosie-ruiz-became-one-of-the/article_0acd2008-f49f-5403-be9e-31138b0e36c4.html Rosie's Run]. ''[[The Eagle-Tribune]]'', April 16, 2000.</ref>
+
+Ruiz's application for the NYC marathon arrived after the cut-off date for the race, but she received special dispensation from the [[New York Road Runners]] due to her claim that she was dying of [[brain cancer]].<ref>{{cite news |author=Staff Writer |url=https://news.google.com/newspapers?nid=1350&dat=19930419&id=a0xPAAAAIBAJ&pg=6311,5686888&hl=en |title=Whatever happened to Rosie Ruiz? |work=The Blade (Toledo, Ohio) |publisher=[[Associated Press]] |date=1993-04-19 |access-date=2019-08-07 }}</ref>
+
+After the 1980 Boston Marathon, New York City Marathon officials investigated Ruiz's run and concluded that she cheated and did not run the entire course, so on April 25, 1980, she was retroactively disqualified from the race.<ref name="NYDisqualification"/>
+
+== Boston Marathon ==
+On April 21, 1980, Ruiz appeared to win the Boston Marathon's female category with a time of 2:31:56. Her time would have been the fastest female time in Boston Marathon history as well as the third-fastest female time ever recorded in any marathon.<ref name=MassMoments>{{cite web|url=http://www.massmoments.org/moment.cfm?mid=120|title=Mass Moments: Rosie Ruiz Steals Boston Marathon|work=Massachusetts Foundation for the Humanities|date=April 21, 2006}}</ref><ref>{{cite web|url=http://www.museumofhoaxes.com/hoax/archive/permalink/rosie_ruiz_wins_the_boston_marathon|title=Rosie Ruiz wins the Boston Marathon|work=[[Museum of Hoaxes]]}}</ref><ref name=SI2>{{cite magazine|author=Moore, Kenny|url=https://www.si.com/vault/1980/04/28/824607/mastery-and-mystery-bill-rodgers-above-tied-the-record-with-a-third-straight-boston-marathon-victory-but-who-was-first-to-finish-the-full-distance-among-the-women-was-open-to-question|title=Mastery and Mystery|magazine=[[Sports Illustrated]]|date=April 28, 1980}}</ref> 
+
+However, suspicions mounted about Ruiz almost from the beginning. Men's winner [[Bill Rodgers (athlete)|Bill Rodgers]], who had just won his third straight Boston Marathon, noticed that Ruiz could not recall many things that most runners know by heart, such as [[Interval training|intervals]] and splits.<ref name=EagleTribune/> Other observers noticed that Ruiz was not panting or coated in sweat, and her thighs were less lean and muscular than would be expected for a world-class runner. She later released stress-test results showing her resting heart rate as 76. Most female marathoners have a resting heart rate in the 50s or lower.<ref name=SI1/>
+
+In addition, her time of 2:31:56 was an unusual improvement, more than 25 minutes ahead of her reported time in the [[New York City Marathon]] six months earlier. When asked by a reporter why she did not seem fatigued after the grueling race, she said, "I got up with a lot of energy this morning."<ref>{{cite news| url=http://www.timesonline.co.uk/tol/sport/more_sport/article2304891.ece|work=The Times|location=London|title=The top 50 sporting scandals|first=Patrick|last=Kidd|date=August 22, 2007|access-date=May 22, 2010|archive-url=https://web.archive.org/web/20080726212830/http://www.timesonline.co.uk/tol/sport/more_sport/article2304891.ece|archive-date=July 26, 2008}}</ref> Some female competitors thought it was odd that, when asked what she had noticed about the suburb of [[Wellesley, Massachusetts|Wellesley]] while running through it, she did not mention the students of [[Wellesley College]], who traditionally cheer loudly for the first female runners as they pass the campus. 
+
+Most seriously, no other runners could recall seeing her.  [[Jacqueline Gareau]] was told that she was leading the race at the 18-mile mark, while [[Patti Catalano|Patti Lyons]] was told she was second at the 17-mile mark. Ruiz could not have passed either of them without being seen.<ref name=SI2/> Several spotters at checkpoints throughout the course also did not remember seeing her in the first group of women. In addition, she did not appear in any pictures or video footage.<ref name=MassMoments/>
+
+Two [[Harvard University|Harvard]] students, John Faulkner and Sola Mahoney, recalled seeing Ruiz burst out of a crowd of spectators on [[Commonwealth Avenue, Boston|Commonwealth Avenue]], half a mile from the finish. Freelance photographer Susan Morrow reported meeting her on the [[Rapid transit|subway]] during the New York City Marathon and accompanying her from the subway to the race. She lost touch with Ruiz after that, but came forward when the news of Ruiz's dubious Boston win broke. According to Morrow, she met Ruiz on the subway and together they walked a distance to the finishing area, where Ruiz identified herself as an injured runner. She was escorted to a first aid station and volunteers marked her down as having completed the marathon, thus qualifying her for the Boston Marathon.<ref name=EagleTribune/>
+
+New York City Marathon officials launched an investigation and could not find any sign of Ruiz near the finish line. On April 25, based on this and other evidence, the games committee of the New York City Marathon retroactively disqualified Ruiz from the 1979 race, with marathon director [[Fred Lebow]] saying she could not possibly have run the entire course.<ref name="NYDisqualification">{{cite news|work=[[The New York Times]]| access-date= April 20, 2015| title=Miss Ruiz Deprived of New York Finish|first=Neil|last=Amdur|date=April 26, 1980|url=https://www.nytimes.com/1980/04/26/archives/miss-ruiz-deprived-of-new-york-finish.html | page=24 }}</ref><ref name=SI1/> Later that week, the [[Boston Athletic Association]] (BAA) disqualified Ruiz from the Boston Marathon. While New York's action seemed to have automatically disqualified Ruiz from Boston as well, Boston officials wanted to do their own investigation before taking action.<ref name=EagleTribune/> Gareau was declared the female winner, with a time of 2:34:28—at the time, the fastest recorded for a woman in the Boston Marathon.<ref name="Seko">{{cite news |title=Seko Clocks A Boston Record |url=https://news.google.com/newspapers?id=bM8nAAAAIBAJ&pg=2802%2C4107090 |agency=[[Associated Press]] |newspaper=[[Pittsburgh Post-Gazette]] |location=Pittsburgh, Pennsylvania |date=April 21, 1981 |page=19|access-date=January 13, 2011 }}</ref> Lyons was moved up to second; her time of 2:35:08 was the fastest ever recorded for an American woman in a marathon at that time.<ref>{{cite news|url=http://www.runnersworld.com/rt-miscellaneous/rosie-ruiz-tries-steal-boston-marathon | title=Rosie Ruiz Tries To Steal the Boston Marathon |work=Running Times |date=July 1, 1980 |access-date=April 20, 2015}}</ref>
+
+During a [[CTV News Channel (Canadian TV channel)|CTV]] interview in July 2019, Gareau said that she felt pity for Ruiz, but had no ill feelings toward her.<ref>{{cite news|last=Case|first=Andria |url=https://toronto.ctvnews.ca/canadian-boston-marathon-winner-inducted-into-hall-of-fame-39-years-later-1.4522501 |title=Canadian Boston Marathon winner inducted into Hall of Fame 39 years late |work=CTV News Channel (Canada) |date=2019-07-24 |access-date=2019-08-06 }}</ref>
+
+== Later life and death ==
+In 1982, Ruiz was arrested for embezzling $60,000 ({{Inflation|US|60000|1982|r=-3|fmt=eq}}) from a real estate company where she worked.  She spent one week in jail and was sentenced to five years' probation.<ref>{{cite news| url=https://news.google.com/newspapers?id=xHgiAAAAIBAJ&pg=1526,4781363&dq=rosie-ruiz+embezzle&hl=en  | work=[[Argus-Press]] | location=Owosso, Michigan | title=The Boston Marathon: One of Kind Event | first=Tony | last=Hornus | date=April 24, 1982| access-date=August 19, 2012}}</ref><ref name="whatever"/> She then moved back to [[South Florida]], where she was arrested in 1983 for her involvement in a cocaine deal.  She was sentenced to three years' probation.<ref name = "whatever"/><ref>{{cite news| url=https://news.google.com/newspapers?nid=1314&dat=19831119&id=Gv9WAAAAIBAJ&pg=6791,1811064 | work=[[Spokesman-Review]] | location=Spokane, Washington | title=Rosie Ruiz arrested for cocaine dealing | agency=AP| date=November 19, 1983| access-date=August 19, 2012}}</ref> In January 1984, Ruiz married Aicaro Vivas,<ref name="bryan"/> had three children and divorced in August 1986 but keeping the Vivas surname thereafter.<ref name=AP1998/> In April 1993, she was working in [[West Palm Beach]]<ref name="whatever">{{cite news| url=https://news.google.com/newspapers?nid=1350&dat=19930419&id=a0xPAAAAIBAJ&pg=6311,5686888 | work=[[Toledo Blade]] | title=Whatever happened to Rosie Ruiz? | agency=AP| date=April 19, 1993| access-date=August 19, 2012}}</ref> as a client representative for a medical laboratory company.<ref name=AP1998>{{cite news| url=https://apnews.com/87582dc5d3da7b65adaad5a25ead3418 | title=Rosie Ruiz Says She'll Run Again
+| work=AP News| date=April 20, 1998| access-date=August 19, 2012}}</ref>
+
+As of 2000, she still maintained that she ran the entire 1980 Boston Marathon.<ref name=EagleTribune/> However, an acquaintance, Steve Marek, said that she admitted to him a few months after the race that she had cheated, recalling that "she jumped out of the crowd, not knowing that the first woman hadn't gone by yet. Believe me, she was as shocked as anyone when she came in first."<ref name="NYT Obit">{{cite news |url=https://www.nytimes.com/2019/08/08/sports/rosie-ruiz-boston-marathon-dead.html |title=Rosie Ruiz, Who Faked Victory in Boston Marathon, Dies at 66 |work=[[The New York Times]] |first=Richard |last=Sandomir |author-link=Richard Sandomir |date=August 8, 2019 |access-date=August 8, 2019}}</ref>
+
+Ruiz died of cancer at age 66 on July 8, 2019, in [[Lake Worth Beach, Florida|Lake Worth Beach]].<ref name="NYT Obit" /><ref>{{Cite web|url=https://www.dignitymemorial.com/obituaries/west-palm-beach-fl/rosie-vivas-8774911|title=Rosie M. Vivas Obituary - West Palm Beach, FL|website=Dignity Memorial|access-date=2019-08-05}}</ref>
+
+==See also==
+* {{annotated link|Marathon course-cutting}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{YouTube|b81a39Q43PY|Video of Rosie Ruiz in 1980 Boston Marathon}}
+* {{YouTube|1pwIYk8_kM8|''Rosie Ruiz : fausse marathonienne''}}, video (French; 7:50 min)
+{{Boston Athletic Association}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Ruiz, Rosie}}
+[[Category:1953 births]]
+[[Category:1980 in sports]]
+[[Category:2019 deaths]]
+[[Category:American female marathon runners]]
+[[Category:American fraudsters]]
+[[Category:Boston Marathon]]
+[[Category:Cheating in sports]]
+[[Category:Sports controversies]]
+[[Category:Cuban emigrants to the United States]]
+[[Category:Deaths from cancer in Florida]]
+[[Category:People from Havana]]
+[[Category:People from Hollywood, Florida]]
+[[Category:South Broward High School alumni|Ruiz, Rosie]]
+[[Category:Wayne State College alumni]]
+[[Category:21st-century American women]]

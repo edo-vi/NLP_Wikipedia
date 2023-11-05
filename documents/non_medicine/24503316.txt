@@ -1,0 +1,60 @@
+{{Italic title}}
+[[File:EN1997.svg|thumb|Logo of Eurocode 7]]
+In the [[Eurocode]] series of [[European Committee for Standardization|European standards]] (EN) related to [[construction]], '''''Eurocode 7: Geotechnical design''''' (abbreviated '''EN 1997''' or, informally, '''EC 7''') describes how to design [[geotechnical]] [[structure]]s, using the [[limit state design]] philosophy. It is published in two parts; "General rules" and "Ground investigation and testing". It was approved by the [[European Committee for Standardization]] (CEN) on 12 June 2006. Like other [[Eurocode]]s, it became mandatory in member states in March 2010.<ref>{{Cite web |url=http://www.eurocodes.co.uk/Content.aspx?ContentId=46 |title=eurocodes.co.uk |access-date=2009-09-28 |archive-url=https://web.archive.org/web/20090910030713/http://www.eurocodes.co.uk/Content.aspx?ContentId=46 |archive-date=2009-09-10 |url-status=dead }}</ref>
+
+Eurocode 7 is intended to:
+*be used in conjunction with [[EN 1990]], which establishes the principles and requirements for safety and serviceability, describes the basis of design and verification and gives guidelines for related aspects of structural reliability,
+*be applied to the geotechnical aspects of the design of buildings and civil engineering works and it is concerned with the requirements for strength, stability, serviceability and durability of structures.
+
+Eurocode 7 is composed of the following parts
+
+==Part 1: General rules==
+EN 1997-1 is intended to be used as a general basis for the geotechnical aspects of the design of buildings and civil engineering works.
+
+===Contents===
+* General
+* Basis of design
+* Geotechnical data
+* Supervision of construction, monitoring and maintenance
+* Fill, [[dewatering]], ground improvement and reinforcement
+* Spread foundations
+* [[Deep foundation]] (pile foundations)
+* Anchorages
+* Retaining structures
+* [[Hydraulic failure]]
+* Overall stability
+* [[wikt:embankment|Embankment]]s
+
+EN 1997-1 is accompanied by Annexes A to J, which provide:
+*'''Annex A''' Recommended partial safety factor values; different values of the partial factors may be set by the National annex.
+*'''Annexes B to J''' Supplementary informative guidance such as internationally applied calculation methods.
+
+==Part 2: Ground investigation and testing==
+EN 1997-2 is intended to be used in conjunction with EN 1997-1 and provides rules supplementary to EN 1997-1 related to planning and reporting of ground investigations, general requirements for a range of commonly used laboratory and field tests, interpretation and evaluation of test results and derivation of values of geotechnical parameters and coefficients.
+
+==Part 3: Design assisted by field testing==
+There is no longer a Part 3. It was amalgamated into EN 1997-2
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[http://eurocodes.jrc.ec.europa.eu  '''Eurocodes: Building the Future'''] The European Commission Website on the EN Eurocodes
+*[https://web.archive.org/web/20101206121554/http://www.eurocodes.co.uk/EurocodeDetail.aspx?Eurocode=7 '''Eurocodes Expert'''] UK construction industry website with comprehensive information and support resources for implementation of the BS EN Eurocodes.
+*[http://webarchive.nationalarchives.gov.uk/20120919132719/http://www.communities.gov.uk/documents/planningandbuilding/pdf/153986.pdf '''A Designers' Simple Guide to BS EN 1997'''] UK design guide with several worked examples using EN 1997.
+*[http://eurocodes.jrc.ec.europa.eu/showpage.php?id=137 EN 1997: Geotechnical design]
+*[http://eurocodes.jrc.ec.europa.eu/showpage.php?id=332#EN1997 EN 1997: Geotechnical design - "Eurocodes: Background and applications" workshop]
+
+{{European Standards}}
+{{Authority control}}
+
+[[Category:Geology]]
+[[Category:Geotechnical engineering]]
+[[Category:Civil engineering]]
+[[Category:EN standards|#01997]]
+[[Category:Reinforced concrete]]
+[[Category:Eurocodes|7]]
+[[Category:2010 in the European Union]]
+
+
+{{standard-stub}}

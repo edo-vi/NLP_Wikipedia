@@ -1,0 +1,132 @@
+{{short description|Family of views in the philosophy of mind}}
+{{Distinguish|Theory of computation|Pancomputationalism}}
+
+In [[philosophy of mind]], the '''computational theory of mind''' ('''CTM'''), also known as '''computationalism''', is a family of views that hold that the human [[mind]] is an information processing system and that cognition and consciousness together are a form of [[computation]]. [[Warren McCulloch]] and [[Walter Pitts]] (1943) were the first to suggest that neural activity is computational. They argued that neural computations explain [[cognition]].<ref name="onlinelibrary.wiley.com">Piccinini, Gualtierro & Bahar, Sonya, 2012. "Neural Computation and the Computational Theory of Cognition" in Cognitive Science. https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.12012</ref> The theory was proposed in its modern form by [[Hilary Putnam]] in 1967, and developed by his PhD student, philosopher, and cognitive scientist [[Jerry Fodor]] in the 1960s, 1970s, and 1980s.<ref>Putnam, Hilary, 1961. "Brains and Behavior", originally read as part of the program of the American Association for the Advancement of Science, Section L (History and Philosophy of Science), December 27, 1961, reprinted in Block (1983), and also along with other papers on the topic in Putnam, ''Mathematics, Matter and Method'' (1979)</ref><ref name="The Computational Theory of Mind">Horst, Steven, (2005) [http://plato.stanford.edu/entries/computational-mind/ "The Computational Theory of Mind"] in ''The Stanford Encyclopedia of Philosophy''</ref> It was vigorously disputed in [[analytic philosophy]] in the 1990s due to work by Putnam himself, [[John Searle]], and others.
+
+The computational theory of mind holds that the mind is a computational system that is realized (i.e. physically implemented) by neural activity in the brain. The theory can be elaborated in many ways and varies largely based on how the term computation is understood. Computation is commonly understood in terms of [[Turing machine]]s which manipulate symbols according to a rule, in combination with the internal state of the machine. The critical aspect of such a computational model is that we can abstract away from particular physical details of the machine that is implementing the computation.<ref name="The Computational Theory of Mind"/> For example, the appropriate computation could be implemented either by silicon chips or biological neural networks, so long as there is a series of outputs based on manipulations of inputs and internal states, performed according to a rule. CTM therefore holds that the mind is not simply analogous to a computer program, but that it is literally a computational system.<ref name="The Computational Theory of Mind"/>
+
+Computational theories of mind are often said to require [[Representation (psychology)|mental representation]] because 'input' into a computation comes in the form of symbols or representations of other objects. A computer cannot compute an actual object but must interpret and represent the object in some form and then compute the representation. The computational theory of mind is related to the [[representational theory of mind]] in that they both require that mental states are representations. However, the representational theory of mind shifts the focus to the symbols being manipulated. This approach better accounts for systematicity and productivity.<ref name="The Computational Theory of Mind"/> In Fodor's original views, the computational theory of mind is also related to the [[language of thought]]. The language of thought theory allows the mind to process more complex representations with the help of semantics. (See below in semantics of mental states).
+
+Recent work has suggested that we make a distinction between the mind and cognition. Building from the tradition of McCulloch and Pitts, the ''computational theory of cognition'' (CTC) states that neural computations explain cognition.<ref name="onlinelibrary.wiley.com"/> The computational theory of mind asserts that not only cognition, but also phenomenal consciousness or [[qualia]], are computational. That is to say, CTM entails CTC. While phenomenal consciousness could fulfill some other functional role, computational theory of cognition leaves open the possibility that some aspects of the mind could be non-computational. CTC, therefore, provides an important explanatory framework for understanding neural networks, while avoiding counter-arguments that center around phenomenal consciousness.
+
+=="Computer metaphor"==
+Computational theory of mind is not the same as the computer metaphor, comparing the mind to a modern-day digital computer.<ref name="BS">[[Steven Pinker|Pinker, Steven]]. [[The Blank Slate]]. New York: Penguin. 2002</ref> Computational theory just uses some of the same principles as those found in digital computing.<ref name="BS" /> While the computer metaphor draws an analogy between the mind as software and the brain as hardware, CTM is the claim that the mind is a computational system. More specifically, it states that a computational simulation of a mind is sufficient for the actual presence of a mind, and that a mind truly can be simulated computationally.
+
+'Computational system' is not meant to mean a modern-day electronic computer. Rather, a computational system is a symbol manipulator that follows step-by-step functions to compute input and form output. [[Alan Turing]] describes this type of computer in his concept of a [[Turing machine]].
+
+==Early proponents==
+
+One of the earliest proponents of the computational theory of mind was [[Thomas Hobbes]] who said, "by reasoning, I understand computation. And to compute is to collect the sum of many things added together at the same time, or to know the remainder when one thing has been taken from another. To reason, therefore, is the same as to add or to subtract."<ref>Hobbes, Thomas "De Corpore"</ref> Since Hobbes lived before the contemporary identification of computing with instantiating effective procedures, he cannot be interpreted as explicitly endorsing the computational theory of mind, in the contemporary sense.
+
+==Criticism==
+A range of arguments have been proposed against physicalist conceptions used in computational theories of mind.
+
+An early, though indirect, criticism of the computational theory of mind comes from philosopher [[John Searle]].  In his thought experiment known as the [[Chinese room]], Searle attempts to refute the claims that [[artificial intelligence|artificially intelligent agents]] can be said to have [[intentionality]] and [[understanding]] and that these systems, because they can be said to be minds themselves, are sufficient for the study of the human mind.<ref>{{Citation | title = Minds, brains, and programs | year = 1980 | author = Searle, J.R. | journal = The Behavioral and Brain Sciences | volume = 3 | issue = 3 | pages = 417–457| doi = 10.1017/S0140525X00005756 | s2cid = 55303721 | url = http://cogprints.org/7150/1/10.1.1.83.5248.pdf }}</ref>  Searle asks us to imagine that there is a man in a room with no way of communicating with anyone or anything outside of the room except for a piece of paper with symbols written on it that is passed under the door.  With the paper, the man is to use a series of provided rule books to return paper containing different symbols.  Unknown to the man in the room, these symbols are of a Chinese language, and this process generates a conversation that a Chinese speaker outside of the room can actually understand. Searle contends that the man in the room does not understand the Chinese conversation.  This is essentially what the computational theory of mind presents us—a model in which the mind simply decodes symbols and outputs more symbols.  Searle argues that this is not real understanding or intentionality.  This was originally written as a repudiation of the idea that computers work like minds.
+
+Searle has further raised questions about what exactly constitutes a computation:
+<blockquote>
+the wall behind my back is right now implementing the [[WordStar]] program, because there is some pattern of molecule movements that is isomorphic with the formal structure of WordStar. But if the wall is implementing WordStar, if it is a big enough wall it is implementing any program, including any program implemented in the brain.<ref name=Searle1992>{{Citation
+ | title =  The Rediscovery of the Mind
+ | year = 1992
+ | author = Searle, J.R.
+}}</ref>
+</blockquote>
+
+Objections like Searle's might be called insufficiency objections. They claim that computational theories of mind fail because computation is insufficient to account for some capacity of the mind. Arguments from qualia, such as Frank Jackson's [[knowledge argument]], can be understood as objections to computational theories of mind in this way—though they take aim at physicalist conceptions of the mind in general, and not computational theories specifically.{{citation needed|date=November 2018}}
+
+There are also objections which are directly tailored for computational theories of mind.
+
+Putnam himself (see in particular ''Representation and Reality'' and the first part of ''Renewing Philosophy'') became a prominent critic of computationalism for a variety of reasons, including ones related to Searle's Chinese room arguments, questions of world-word reference relations, and thoughts about the [[mind-body problem]]. Regarding functionalism in particular, Putnam has claimed along lines similar to, but more general than Searle's arguments, that the question of whether the human mind ''can'' implement computational states is not relevant to the question of the nature of mind, because "every ordinary open system realizes every abstract finite automaton."<ref name=Putnam1988>{{cite book|last=Putnam |first=H. |year=1988 |title=Representation and Reality |location=Cambridge, Massachusetts |publisher=MIT Press |isbn=978-0-262-66074-7 |oclc=951364040}}</ref> Computationalists have responded by aiming to develop criteria describing what exactly counts as an implementation.<ref name=Chalmers1996>
+{{Citation
+ | title = Does a rock implement every finite-state automaton?
+ | url = http://cogprints.ecs.soton.ac.uk/archive/00000226/00/199708001.html
+ | year = 1996
+ | author = Chalmers, D.J.
+ | journal = Synthese
+ | pages = 309–333
+ | volume = 108
+ | issue = 3
+ | access-date = 2009-05-27
+ | doi = 10.1007/BF00413692
+ | citeseerx = 10.1.1.33.5266
+ | s2cid = 17751467
+ | archive-url = https://web.archive.org/web/20040820004627/http://cogprints.ecs.soton.ac.uk/archive/00000226/00/199708001.html
+ | archive-date = 2004-08-20
+ | url-status = dead
+ }}
+</ref><ref>{{Citation|title=On the Nature of Minds, or: Truth and Consequences|journal=Journal of Experimental and Theoretical AI|year=2008|first=Shimon|last=Edelman|volume=20|issue=3|pages=181–196|url=http://kybele.psych.cornell.edu/~edelman/Edelman-JETAI.pdf|access-date=2009-06-12|doi=10.1080/09528130802319086|citeseerx=10.1.1.140.2280|s2cid=754826}}</ref><ref>{{cite journal | last1 = Blackmon | first1 = James | year = 2012 | title = Searle's Wall | journal = Erkenntnis | volume = 78| pages = 109–117| doi = 10.1007/s10670-012-9405-4 | s2cid = 121512443 }}</ref>
+
+[[Roger Penrose]] has proposed the idea that the human mind does not use a knowably sound calculation procedure to understand and discover mathematical intricacies. This would mean that a normal [[Turing complete]] computer would not be able to ascertain certain mathematical truths that human minds can.<ref>Roger Penrose, "Mathematical Intelligence," in Jean Khalfa, editor, ''What is Intelligence?'', chapter 5, pages 107-136. Cambridge University Press, Cambridge, United Kingdom, 1994</ref>
+
+=== Pancomputationalism ===
+Supporters of CTM are faced with a simple yet important question whose answer has proved elusive and controversial: what does it take for a physical system (such as a mind, or an artificial computer) to perform computations? A very straightforward account is based on a simple mapping between abstract mathematical computations and physical systems: a system performs computation C if and only if there is a mapping between a sequence of states individuated by C and a sequence of states individuated by a physical description of the system.<ref>{{Cite journal|last=Ullian|first=Joseph S.|date=March 1971|title=Hilary Putnam. Minds and machines. Minds and machines, edited by Alan Ross Anderson, Prentice-Hall, Inc., Englewood Cliffs, New Jersey, 1964, pp. 72–97. (Reprinted from Dimensions of mind, A symposium, edited by Sidney Hook, New York University Press, New York 1960, pp. 148–179.)|url=http://dx.doi.org/10.2307/2271581|journal=Journal of Symbolic Logic|volume=36|issue=1|pages=177|doi=10.2307/2271581|jstor=2271581|issn=0022-4812}}</ref><ref name="Putnam1988" />
+
+[[Hilary Putnam|Putnam]] (1988) and [[John Searle|Searle]] (1992) argue that this simple mapping account (SMA) trivializes the empirical import of computational descriptions.<ref name="Putnam1988" /><ref>{{Cite journal|last=Smythies|first=J. R.|date=November 1993|title=The Rediscovery of the Mind. By J. R. Searle. (Pp. 286; $22.50.) MIT Press: Cambridge, Mass.1992.|url=http://dx.doi.org/10.1017/s0033291700026507|journal=Psychological Medicine|volume=23|issue=4|pages=1043–1046|doi=10.1017/s0033291700026507|s2cid=143359028 |issn=0033-2917}}</ref> As Putnam put it, “everything is a Probabilistic Automaton under some Description”.<ref>{{Cite journal|date=October 1967|title=ART, MIND, and RELIGION|url=http://dx.doi.org/10.1111/j.1468-0149.1967.tb02995.x|journal=Philosophical Books|volume=8|issue=3|pages=32|doi=10.1111/j.1468-0149.1967.tb02995.x|issn=0031-8051}}</ref>  Even rocks, walls, and buckets of water—contrary to appearances—are computing systems. [[Gualtiero Piccinini]] identifies different versions of Pancomputationalism.<ref name=":0">{{Citation|last=Piccinini|first=Gualtiero|title=The Mechanistic Account|date=2015-06-01|url=http://dx.doi.org/10.1093/acprof:oso/9780199658855.003.0008|work=Physical Computation|pages=118–151|publisher=Oxford University Press|doi=10.1093/acprof:oso/9780199658855.003.0008|isbn=978-0-19-965885-5|access-date=2020-12-12}}</ref>
+
+In response to the trivialization criticism, and to restrict SMA, philosophers of mind have offered different accounts of computational systems. These typically include causal account, semantic account, syntactic account, and mechanistic account.<ref name=":1">{{Citation|last=Piccinini|first=Gualtiero|title=Computation in Physical Systems|date=2017|url=https://plato.stanford.edu/archives/sum2017/entries/computation-physicalsystems/|encyclopedia=The Stanford Encyclopedia of Philosophy|editor-last=Zalta|editor-first=Edward N.|edition=Summer 2017|publisher=Metaphysics Research Lab, Stanford University|access-date=2020-12-12}}</ref> Instead of a semantic restriction, the syntactic account imposes a syntactic restriction.<ref name=":1" /> The mechanistic account was first introduced by [[Gualtiero Piccinini]] in 2007.<ref>{{Cite journal|last=Piccinini|first=Gualtiero|date=October 2007|title=Computing Mechanisms*|url=http://dx.doi.org/10.1086/522851|journal=Philosophy of Science|volume=74|issue=4|pages=501–526|doi=10.1086/522851|s2cid=12172712|issn=0031-8248}}</ref>
+
+==Notable theorists==
+{{unsourced section|date=July 2023}}
+* [[Daniel Dennett]] proposed the [[multiple drafts model]], in which consciousness seems [[Arrow of time|linear]] but is actually blurry and gappy, distributed over space and time in the brain. Consciousness is the computation, there is no extra step  in which you become conscious of the computation.
+* [[Jerry Fodor]] argues that mental states, such as beliefs and desires, are relations between individuals and mental representations. He maintains that these representations can only be correctly explained in terms of a language of thought (LOT) in the mind. Further, this language of thought itself is codified in the brain, not just a useful explanatory tool. Fodor adheres to a species of functionalism, maintaining that thinking and other mental processes consist primarily of computations operating on the syntax of the representations that make up the language of thought. In later work (''Concepts'' and ''The Elm and the Expert''), Fodor has refined and even questioned some of his original computationalist views, and adopted LOT2, a highly modified version of LOT.
+* [[David Marr (psychologist)|David Marr]] proposed that cognitive processes have three levels of description: the ''computational level'', which describes that computational problem solved by the cognitive process; the ''algorithmic level'', which presents the algorithm used for computing the problem postulated at the computational level; and the ''implementational level'', which describes the physical implementation of the algorithm postulated at the algorithmic level in the brain.
+* [[Ulric Neisser]] coined the term ''cognitive psychology'' in his book with that title published in 1967. Neisser characterizes people as dynamic information-processing systems whose mental operations might be described in computational terms.
+* [[Steven Pinker]] described language instinct as an evolved, built-in capacity to learn language (if not writing). His 1997 book ''[[How the Mind Works]]'' sought to popularize the computational theory of mind for wide audiences. 
+* [[Hilary Putnam]] proposed [[functionalism (philosophy of mind)|functionalism]] to describe consciousness, asserting that it is the computation that equates to consciousness, regardless of whether the computation is operating in a brain or in a computer.
+
+==Alternative theories==
+{{prose|date=July 2023}}
+* [[Adaptive system]]s
+* [[Associationism]]
+* [[Connectionism]]
+* [[Enactivism]]
+* [[Memory-prediction framework]]
+* [[Perceptual control theory]]
+* [[Situated cognition]]
+
+==See also==
+{{cols}}
+* [[Artificial consciousness]]
+* [[Cognitivism (psychology)]]
+* [[Constructivist epistemology]]
+* [[Enchanted loom]]
+* [[Simulated reality]]
+* [[Stimulus–response model]]
+* [[Stochastic parrot]]
+{{colend}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{lacking ISBN}}
+* {{cite book |editor-last=Block |editor-first=Ned |editor-link=Ned Block |year=1983 |title=Readings in Philosophy of Psychology |volume=1 |place=Cambridge, Massachusetts |publisher=Harvard University Press}}
+* {{cite journal |last=Chalmers |first=David |year=2011 |title=A computational foundation for the study of cognition |url=https://philpapers.org/rec/CHAACF-2 |journal=Journal of Cognitive Science |volume=12 |number=4 |pages=323-357}}
+* {{cite book |last=Crane |first=Tim |author-link=Tim Crane |year=2003 |title=The Mechanical Mind: A Philosophical Introduction to Minds, Machines, and Mental Representation |place=New York, NY |publisher=Routledge}}
+* {{cite book |last=Fodor |first=Jerry |author-link=Jerry Fodor |year=1975 |title=The Language of Thought |place=Cambridge, Massachusetts |publisher=[[MIT Press]]}}
+* {{cite book |last=Fodor |first=Jerry |year=1995 |title=The Elm and the Expert: Mentalese and Its Semantics |place=Cambridge, Massachusetts |publisher=MIT Press}}
+* {{cite book |last=Fodor |first=Jerry |year=1998 |title=Concepts: Where Cognitive Science Went Wrong |place=Oxford and New York |publisher=Oxford University Press}}
+* {{cite book |last=Fodor |first=Jerry |year=2000 |title=The Mind Doesn't Work That Way: The Scope and Limits of Computational Psychology |place=Cambridge, MA |publisher=MIT Press}} 
+* {{cite book |last=Fodor |first=Jerry |year=2010 |title=LOT2: The Language of Thought Revisited |place=Oxford and New York |publisher=Oxford University Press}}
+* {{cite journal |last1=Harnad |first1=Stevan |author-link=Stevan Harnad |year=1994 |title=Computation Is Just Interpretable Symbol Manipulation: Cognition Isn't |url= |journal=Minds and Machines |volume=4 |issue=4 |pages=379–390 |doi=10.1007/bf00974165 |s2cid=230344}}
+* {{cite book |last=Marr |first= David |author-link=David Marr (psychologist) |year=1981 |title=Vision: A Computational Investigation into the Human Representation and Processing of Visual Information |place=Cambridge, Massachusetts |publisher=MIT Press}}
+* {{cite book |last=Piccinini |first=Gualtiero |author-link=Gualtiero Piccinini |year=2015 |title=Physical Computation: A Mechanistic Account |publisher=Oxford University Press}}
+* {{cite book |last=Pinker |first=Steven |author-link=Steven Pinker |year=1997 |title=How the Mind Works |publisher=Norton |isbn=978-0393045352}}
+* {{cite book |last=Putnam |first=Hilary |author-link=Hilary Putnam |year=1979 |title=Philosophical Papers: Mathematics, Matter, and Method |volume=1. |place=Cambridge, Massachusetts |publisher=MIT Press}}
+* {{cite book |last=Putnam |first=Hilary |year=1995 |title=Renewing Philosophy |place=Cambridge, Massachusetts |publisher=Harvard University Press}}
+* {{cite book |last=Pylyshyn |first=Zenon |author-link=Zenon Pylyshyn |year=1984 |title=Computation and Cognition |place=Cambridge, Massachusetts |publisher=MIT Press}}
+* {{cite book |last=Searle |first=John |author-link=John Searle |year=1992 |title=The Rediscovery of the Mind |place=Cambridge, Massachusetts |publisher=MIT Press}}
+* {{cite SEP |url-id=computational-mind |title=The Computational Theory of Mind}}
+
+==External links==
+* {{InPho|idea|1235}}
+* {{PhilPapers|category|computational-philosophy}}
+*[https://web.archive.org/web/20070521044611/http://consc.net/online2.html#comp Online papers on consciousness, part 2: Other Philosophy of Mind], compiled by [[David Chalmers]]
+
+{{Philosophy of mind}}
+{{Evolutionary psychology}}
+
+[[Category:Cognitive science]]
+[[Category:Philosophy of artificial intelligence]]
+[[Category:Cognitive psychology]]
+[[Category:Information]]

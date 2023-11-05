@@ -1,0 +1,58 @@
+{{Infobox book
+| name              = Intellectual Trends in the Qing Period
+| image             = File:清代學術概論 (1924年).pdf
+| image_size        = 
+| border            = 
+| alt               = 
+| caption           = 
+| author            = [[Liang Qichao]]
+| audio_read_by     = 
+| title_orig        = 
+| orig_lang_code    = 
+| title_working     = 
+| translator        = 
+| illustrator       = 
+| cover_artist      = 
+| country           = 
+| language          = 
+| series            = 
+| release_number    = 
+| subject           = 
+| genre             = 
+| set_in            = 
+| publisher         = 
+| publisher2        = 
+| pub_date          = 1920<ref name="JansenKlein2014">{{cite book|author1=Thomas Jansen|author2=Thoralf Klein|author3=Christian Meyer|title=Globalization and the Making of Religious Modernity in China: Transnational Religions, Local Agents, and the Study of Religion, 1800-Present|url=https://books.google.com/books?id=GNlXAwAAQBAJ&pg=PA348|date=20 March 2014|publisher=Brill Publishers|isbn=978-90-04-27151-7|pages=348–}}</ref>
+| english_pub_date  = January 1, 1959<ref>{{cite web |url=https://www.hup.harvard.edu/catalog.php?isbn=9780674184732|title=Intellectual Trends in the Ch'ing Period (Ch'ing-tai hsüeh-shu kai-lun)|author=|date=2018-11-16|website=Harvard University Press}}</ref>
+| published         = 
+| media_type        = 
+| pages             = 
+| awards            = 
+| isbn              = 9789620729225
+| isbn_note         = 
+| oclc              = 1056076218
+| dewey             = 
+| congress          = 
+| preceded_by       = 
+| followed_by       = 
+| native_wikisource = 
+| wikisource        = 
+| notes             = 
+| exclude_cover     = 
+| website           = 
+}}
+
+'''''Intellectual Trends in the Qing Period'''''<ref name="Tang1996">{{cite book|author=Xiaobing Tang|title=Global Space and the Nationalist Discourse of Modernity: The Historical Thinking of Liang Qichao|url=https://books.google.com/books?id=4O5f6pwLiIUC&pg=PA267|date=April 1996|publisher=[[Stanford University Press]]|isbn=978-0-8047-2583-5|pages=267–}}</ref> or ''An Overview of Scholarship in Qing''<ref name="Lixing2017">{{cite book|author=Tang Lixing|title=Merchants and Society in Modern China: From Guild to Chamber of Commerce|url=https://books.google.com/books?id=FzJDDwAAQBAJ&pg=PT45|date=14 December 2017|publisher=Routledge|isbn=978-1-351-61296-8|pages=45–}}</ref> ({{zh|s=清代学术概论|t=清代學術概論}}), also translated as ''An Outline of Academic Studies in the Qing Dynasty'',<ref name="Fung2017">{{cite book|author=C. Victor Fung|title=A Way of Music Education: Classic Chinese Wisdoms|url=https://books.google.com/books?id=R_pADwAAQBAJ&pg=PT187|date=5 December 2017|publisher=Oxford University Press|isbn=978-0-19-085897-1|pages=187–}}</ref> ''General Review of Academics in Qing Dynasty'',<ref name="Liu2019">{{cite book|author=Hailong Liu|title=Propaganda: Ideas, Discourses and its Legitimization|url=https://books.google.com/books?id=Bta_DwAAQBAJ&pg=PT226|date=21 November 2019|publisher=Routledge|isbn=978-1-00-073039-5|pages=226–}}</ref> is a book on the history of scholarship in the [[Qing dynasty]] by [[Liang Qichao]]<ref name="Liu2021">{{cite book|author=Zaifu Liu|title=Liu Zaifu: Selected Critical Essays|url=https://books.google.com/books?id=e60zEAAAQBAJ&pg=PA154|date=17 June 2021|publisher=Brill Publishers|isbn=978-90-04-44912-1|pages=154–}}</ref> that was started in 1902<ref name="Wang2020">{{cite book|author=Dong Wang|title=Longmen's Stone Buddhas and Cultural Heritage: When Antiquity Met Modernity in China|url=https://books.google.com/books?id=s5XnDwAAQBAJ&pg=PA85|year=2020|publisher=Rowman & Littlefield|isbn=978-1-5381-4112-0|pages=85–}}</ref> and published in 1920.
+
+The book was drafted as a preface to [[Jiang Baili|Jiang Fangzhen]]'s ''History of the European Renaissance Times'', but because of its length, it became a separate book.<ref>{{cite book|title=Dictionary of Logic|url=https://books.google.com/books?id=ttAtAAAAYAAJ|year=2004|publisher=Shanghai Lexicographical Publishing House|isbn=978-7-5326-1663-3}}</ref> It systematically outlines the development of Chinese academic thought from the end of the [[Ming Dynasty]] to the beginning of the 20th century, over a period of more than 200 years.<ref>{{cite book|title=The Encyclopedia of Chinese Culture|url=https://books.google.com/books?id=oCCGAAAAIAAJ|year=1994|publisher=Changchun Publishing House|isbn=978-7-80573-879-6}}</ref> In it, Liang compared the [[European Renaissance]] with the development of academic thought in the Qing dynasty, and discussed the content and historical significance of the Renaissance.<ref>{{cite book|title=Western Thought in Modern China|url=https://books.google.com/books?id=fm1bAAAAIAAJ|year=2005|publisher=Social Sciences Literature Press|isbn=978-7-80190-848-3}}</ref> He asserted that the key difference between them lay in the underdevelopment of literature and fine art in the Qing.<ref name="Wang2020"/>
+
+The book was translated into English by [[Immanuel C. Y. Hsu]] and published by [[Harvard University Press]] in 1959 with an Introduction by [[Benjamin I. Schwartz]]. Hsu translated the title as ''Intellectual Trends in the Ch'ing Period''.<ref name="Woolf2014">{{cite book|author=D.R. Woolf|title=A Global Encyclopedia of Historical Writing|url=https://books.google.com/books?id=SHK3AwAAQBAJ&pg=PA559|date=3 June 2014|publisher=Routledge|isbn=978-1-134-81998-0|pages=559–}}</ref> Hsu provided a detailed interpretation of Liang's book in the process of translation. This book revealed the academic situation in China between 1664 and 1911, and thus changed the perception of "unchanging China" in the Western mind, thus opening the door for Western scholars and students to understand modern Chinese history.<ref>{{cite book|title=West meets East: 50 Years of My American Journey in Academia and Cultures|url=https://books.google.com/books?id=s083EAAAQBAJ&pg=PA45|publisher=Joint Publishing (Hong Kong) Company Limited|isbn=978-962-04-4785-3|pages=45–|author=Edwin Pak-wah Leung}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:1920 non-fiction books]]
+[[Category:1959 non-fiction books]]
+[[Category:Non-fiction books by discipline]]
+[[Category:History books about the Qing dynasty]]
+[[Category:Historiography of China]]

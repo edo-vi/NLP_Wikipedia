@@ -1,0 +1,365 @@
+{{Short description|Historical dating project in China}}
+The '''Xia–Shang–Zhou Chronology Project''' ({{zh|s=夏商周断代工程|p=Xià Shāng Zhōu Duàndài Gōngchéng}}) was a multi-disciplinary project commissioned by the [[People's Republic of China]] in 1996 to determine with accuracy the location and time frame of the [[Xia dynasty|Xia]], [[Shang dynasty|Shang]], and [[Zhou dynasty|Zhou]] dynasties.
+
+The project was directed by professor [[Li Xueqin]] of [[Tsinghua University]] in Beijing, and involved around 200 experts. It used [[radiocarbon dating]], [[archaeology|archaeological]] dating methods, historical textual analysis, astronomy, and other methods to achieve greater temporal and geographic accuracy. Preliminary results were released in November 2000 and the final report was published in June 2022. Among other findings, it dated the beginning of the Xia to {{Circa|2070 BCE}}, the Shang to {{Circa|1600 BCE}}, and the Zhou to {{Circa|1046 BCE}}. However, some scholars have disputed several of the project's methods and conclusions.
+
+== Background ==
+{{location map+|China Northern Plain |relief=1
+ | caption=Major archaeological sites in north and central China dating from the second millennium BC
+ | width=250|float=right|places=
+  {{location map~|China Northern Plain
+   | label=[[Erlitou culture|Erlitou]]|lat_deg=34.7|lon_deg=112.7
+   | mark=Brown pog.svg|position=bottom}}
+  {{location map~|China Northern Plain
+   | label=[[Zhengzhou Shang City|Zhengzhou]]|lat_deg=34.75|lon_deg=113.68
+   | mark=Red pog.svg|position=right}}
+  {{location map~|China Northern Plain
+   | label=[[Panlongcheng]]|lat_deg=30.69|lon_deg=114.27
+   | mark=Red pog.svg|position=right}}
+  {{location map~|China Northern Plain
+   | label=[[Yinxu|Anyang]]|lat_deg=36.12|lon_deg=114.32
+   | mark=Orange pog.svg|position=right}}
+  {{location map~|China Northern Plain
+   | label=[[Sanxingdui]]|lat_deg=31.0|lon_deg=104.2
+   | mark=Orange pog.svg|position=right}}
+  {{location map~|China Northern Plain
+   | label=[[Wucheng culture|Wucheng]]|lat_deg=29.18|lon_deg=116.01
+   | mark=Orange pog.svg|position=right}}
+  {{location map~|China Northern Plain
+   | label=[[Fenghao|Fengxi]]|lat_deg=34.21|lon_deg=108.72
+   | mark=Orange pog.svg|position=bottom}}
+}}
+The traditional account of ancient China, represented by the ''[[Records of the Grand Historian]]'' written by [[Sima Qian]] in the [[Han dynasty]], begins with the [[Three Sovereigns and Five Emperors]], leading through a sequence of dynasties, the [[Xia dynasty|Xia]], [[Shang dynasty|Shang]] and [[Zhou dynasty|Zhou]]. Sima Qian felt able to give a year-by-year chronology back to the start of the [[Gonghe Regency]] in 841 BC, early in the Zhou dynasty.  For the period before that date, his sources (now mostly lost) were unreliable and inconsistent, and he gave only lists of kings and accounts of isolated events. Later scholars were unable to push a precise chronology back past Sima Qian's date of 841 BC.{{sfnp|Lee|2002a|pp=16–17}}
+
+Many elements of the traditional account, especially the early parts, were clearly mythical. In the 1920s, [[Gu Jiegang]] and other scholars of the [[Doubting Antiquity School]] noted that the earliest figures appeared latest in the literature, and suggested that the traditional history had accreted layers of myth.  Noting parallels between the accounts of the Xia and Shang, they suggested that the history of the Xia was invented by the Zhou to support their doctrine of the [[Mandate of Heaven]], by which they justified their conquest of the Shang.  Some even doubted the historicity of the Shang dynasty.{{sfnp|Lee|2002a|p=21}}{{sfnp|Wagner|1993|p=10}}
+
+[[File:Shang dynasty inscribed scapula.jpg|thumb|left|upright|Ox scapula with a divination inscription from the reign of the [[Shang dynasty|Shang]] King [[Wu Ding]]]]
+In 1899, the scholar [[Wang Yirong]] examined some curious symbols carved on "dragon bones" purchased from a Chinese pharmacist, and identified them as an early form of Chinese writing. The bones were finally traced back in 1928 to a site (now called [[Yinxu]]) near [[Anyang]], north of the [[Yellow River]] in modern [[Henan]] province.{{sfnp|Fairbank|Goldman|2006|p=33}} The inscriptions on the bones were found to be divination records from the reigns of the last nine Shang kings, from the reign of [[Wu Ding]]. Moreover, from the sacrificial schedule recorded on the bones it was possible to reconstruct a sequence of Shang kings that closely matched the list given by Sima Qian.{{sfnp|Keightley|1999|pp=234–235}}
+
+Archaeologists focussed on the Yellow River valley in Henan as the most likely site of the states described in the traditional histories. After 1950, remnants of an earlier walled city of the [[Erligang culture]] were discovered near [[Zhengzhou]], and in 1959 the site of the [[Erlitou culture]] was found in [[Yanshi]], south of the Yellow River near [[Luoyang]].  [[Radiocarbon dating]] suggests that the Erlitou culture flourished c. 2100 BC to 1800 BC. They built large palaces, suggesting the existence of an organized state.{{sfnp|Fairbank|Goldman|2006|pp=33–35}} More recently the picture has been complicated by the discovery of advanced civilizations in Sichuan and the Yangtze valley, such as [[Sanxingdui]] and [[Wucheng culture|Wucheng]], of which the traditional histories make no mention.{{sfnp|Bagley|1999|pp=124–125}}
+
+Until the mid-20th century, many popular works, both Chinese and Western, used a traditional chronology calculated by [[Liu Xin (scholar)|Liu Xin]] early in the first century AD. However, modern scholars studying inscriptions on Shang oracle bones and Zhou bronzes were proposing shorter chronologies, for example typically placing the Zhou conquest of the Shang in the mid-11th century BC instead of the 12th.{{sfnp|Shaughnessy|1999|pp=23–24}}
+
+In 1994, [[Song Jian]], a [[State councillor (China)|state councillor]] for science, was impressed on a visit to Egypt by chronologies stretching back to the 3rd millennium BC.  He proposed a multi-disciplinary project to establish a similar chronology for China. The project was approved as part of the ninth [[Five-year plans of the People's Republic of China|five-year plan]] (1996–2000).{{sfnp|Shaughnessy|2011|p=274}}{{sfnp|Lee|2002a|p=17}}
+
+A preliminary report of the project was issued in 2000.{{sfnp|XSZCP Group|2000}} The full report was published in June 2022 after more than a decade of revision.{{efn|"李伯谦回忆，根据简本写就的繁本报告初稿其实出来得很快，但将初稿交付给专家组，根据专家组意见对工程的9大课题、44个专题研究成果进行全面补充，'时间就漫长了，大约从2005年进行到了2016年底。'拟出版的报告交给出版社时，时间已是2017年。经过对内容进行全面且精心的核实与校对，科学出版社才小心翼翼地将这本书交给大众。"[Li Boqian recalls that the first draft of the full report was quickly completed, but [after] it was given to the expert review board, [the board asked to] provide supplemental information on the 9 Subjects and 44 Results of the Project. "That took a much longer time, from 2005 to the end of 2016." The finished report was sent to the publisher in 2017. The Science Press delivered the book only after careful, complete verification and checking.]<ref>{{cite web |trans-title=Discovering China's Early Chronology: "Xia-Shang-Zhou Chronology Project Report" published|author1=韩寒 |title=探索中国上古时期的年表 《夏商周断代工程报告》发布 |url=http://cul.china.com.cn/2022-08/24/content_42081692.htm |website=cul.china.com.cn |date=24 August 2022|publisher=光明日报 }}</ref>}}
+
+== Methods ==
+The Project used a combination of methods to attempt to correlate the traditional literature with archeological discoveries and the astronomical record.{{sfnp|Yin|2002|p=1}}
+
+=== Western Zhou kings ===
+The contemporary evidence for the Western Zhou consists of thousands of bronzes, many bearing inscriptions.  Around 60 of these record dates of important events as the day in the [[sexagenary cycle]], the phase of the moon, the month and the year of reign. However the king is usually not identified.{{sfnp|Lee|2002a|pp=29–30}}
+
+Occasionally an unusual astronomical event was recorded. A key reference point was the accession of [[King Yi of Zhou (Jian)|King Yi of Zhou]], when according to the "old text" ''[[Bamboo Annals]]'' the day dawned twice.
+The Project adopted (without acknowledgement) the proposal of the Korean scholar Pang Sunjoo (方善柱) that this referred to an annular [[solar eclipse]] at dawn that occurred in 899 BC.{{sfnp|Shaughnessy|2009|p=24}}
+Other scholars have challenged both this interpretation of the text and the astronomical calculations involved.{{sfnp|Keenan|2002|p=62}}{{sfnp|Stephenson|2008|pp=238–239}}
+
+=== King Wu's conquest of the Shang ===
+[[File:Early Western Zhou Bronze Gui 01.jpg|thumb|right|The early Zhou [[Li gui|Li ''gui'']], which is inscribed with an account of the Zhou conquest of the Shang]]
+[[File:Li gui inscription.jpg|right|thumb|upright|Rubbing of the Li ''gui'' inscription]]
+Perhaps the most significant event requiring dating is the conquest of the Shang by the Zhou, described in traditional histories as the [[Battle of Muye]], though the site of the battle has not been identified.  Previous chronologies had proposed at least 44 different dates for this event, ranging from 1130 to 1018 BC.{{sfnp|Yin|2002|p=1}}{{sfnp|Lee|2002a|p=32}}
+The most popular have been 1122 BC, calculated by the [[Han dynasty]] astronomer [[Liu Xin (scholar)|Liu Xin]], and 1027 BC, deduced from a statement in the "old text" ''Bamboo Annals'' that the Western Zhou (whose end point is known to be 770 BC) had lasted 257 years.{{sfnp|Pankenier|1981|p=3}}{{sfnp|Lee|2002a|p=34}}
+
+A few documents relate astronomical observations to this event:
+* A quotation in the ''[[Book of Han]]'' from the lost ''Wǔchéng'' 武成 chapter of the ''[[Book of Documents]]'' appears to describe a lunar eclipse just before the beginning of [[King Wu of Zhou|King Wu]]'s campaign.  This date, and the date of his victory, are given as months and sexagenary days.{{sfnp|Lee|2002a|pp=33–34}}{{sfnp|Liu|2002|p=4}}
+* A passage in the ''[[Guoyu (book)|Guoyu]]'' gives the positions of the Sun, Moon, Jupiter and two stars on the day King Wu attacked the Shang.{{sfnp|Lee|2002a|p=34}}{{sfnp|Liu|2002|p=4}}
+* The "current text" ''Bamboo Annals'' mentions [[Conjunction (astronomy)|conjunctions]] of all five planets occurring before and after the Zhou conquest. Han-period texts mention the first conjunction as occurring in the 32nd year of the reign of the last king.  Such events are rare, but all five planets did gather on 28 May 1059 BC and again on 26 September 1019 BC.  Although the recorded positions in the sky of these two events are the reverse of what occurred, they could not have been retrospectively calculated at the time the account first appears.{{sfnp|Zhang|2002b|p=350}}
+
+The strategy adopted by the Project was to use archeological investigation to narrow the range of dates that would need to be compared with the astronomical data.  Although no archaeological traces of King Wu's campaign have been found, the pre-conquest Zhou capital at [[Fenghao|Fengxi]] in [[Shaanxi]] has been excavated and strata at the site have been identified with the pre-dynastic Zhou.  [[Radiocarbon dating]] of samples from the site as well as at late [[Yinxu]] and early Zhou capitals, using the [[wiggle matching]] technique, yielded a date for the conquest between 1050 and 1020 BC.  The only date within that range matching all the astronomical data is 20 January 1046 BC.  This date had previously been proposed by David Pankenier, who had matched the above passages from the classics with the same astronomical events, but here it resulted from a thorough consideration of a broader range of evidence.{{sfnp|Lee|2002a|pp=31–34}}{{sfnp|Yin|2002|pp=2–3}}{{sfnp|Pankenier|1981|pp=3–7}}
+
+Other scholars have raised several criticisms of this process. The connection between the layers at the archaeological sites and the conquest is uncertain.{{sfnp|Lee|2002a|p=36}} The narrow range of radiocarbon dates are cited with a less stringent [[confidence interval]] (68%) than the standard requirement of 95%, which would have produced a much wider range.{{sfnp|Keenan|2007|p=147}} The texts describing the relevant astronomical phenomena are extremely obscure.{{sfnp|Keenan|2002|pp=62–64}}{{sfnp|Stephenson|2008|pp=231–242}} For example, the inscription on the [[Li gui|Li ''gui'']], a key text used in dating the conquest, can be interpreted in several different ways, with one alternative reading leading to the date of 9 January 1044 BC.{{sfnp|Lee|2002a|p=34}}
+
+=== Late Shang kings ===
+For the late Shang, the oracle bones provide less detail than Zhou bronzes, routinely recording only the day in the sexagenary cycle.
+However, calculations using a longer ritual cycle were used to date the reigns of the last two Shang kings.{{sfnp|Lee|2002a|p=31}} Mentions of five lunar eclipses in oracle bone divinations from the late Wu Ding and Zu Geng reigns were identified with events spanning the period from 1201 and 1181 BC, from which a start date for Zu Geng's reign was derived.{{sfnp|Lee|2002a|p=31}}{{sfnp|Liu|2002|pp=3–4}} The start date of Wu Ding's reign was then calculated using the statement in the "Against Luxurious Ease" chapter of the ''[[Book of Documents]]'' that his reign lasted 59 years.{{sfnp|Zhang|2002b|p=352}}
+
+=== Early Shang and Xia ===
+[[File:Erlitou sites and Xia capitals.svg|thumb|upright=1.5|[[Erlitou culture|Erlitou]] sites (black) and [[Xia dynasty|Xia]] capitals identified in traditional sources (red, with numbers for those from the "current text" ''Bamboo Annals'')]]
+According to the traditional histories, [[Pan Geng]], three reigns earlier than Wu Ding, moved the Shang capital to its last site, generally identified with the [[Yinxu]] site in [[Anyang]].
+Different interpretations of the text of the ''Bamboo Annals'' give intervals of 275, 273 or 253 years between this event and the Zhou conquest.
+The project settled on a date near the shortest of these intervals.{{sfnp|Li|2002|p=331}}
+
+The four phases of the [[Erlitou culture]] have been divided between the Xia and Shang dynasties in different ways by various prominent archaeologists.{{sfnp|Lee|2002b|p=377}}
+The project assigned all four phases to the Xia, identifying the establishment of the Shang dynasty with the building of the [[Yanshi]] walled city {{convert|6|km|mi|abbr=on|sigfig=2}} north-east of the Erlitou site.{{sfnp|Li|2002|p=332}}
+The time span of the Xia dynasty was taken from reign-lengths given in the ''Bamboo Annals'' and from a conjunction of five planets during the reign of [[Yu the Great]] recorded in later texts.
+As this period was longer than the time spanned by the Erlitou culture, the project also included the later phases of the Wangwan III variant of the [[Longshan culture]] within the Xia period.{{sfnp|Li|2002|p=332}}
+
+==Chronological table==
+The Xia–Shang–Zhou Chronology Project concluded precise dates for accessions of rulers from [[Wu Ding]], the [[Shang dynasty]] king whose reign produced the oldest known [[oracle bone]] records. These dates are here compared with the traditional dates and those used in the ''[[Cambridge History of Ancient China]]'':{{sfnp|Shaughnessy|1999|p=25}}{{sfnp|Mathews|1943|p=1166}}{{sfnp|XSZCP Group|2000}}
+{| class="wikitable"
+! rowspan="2" | Dynasty
+! rowspan="2" | King
+! colspan="3" | Accession date (BC)
+|-
+! XSZ Project
+! ''Cambridge History''
+! Traditional
+|-
+| rowspan="9" | Shang
+| [[Wu Ding]] || 1250 || before 1198 || 1324
+|-
+| [[King Zu Geng|Zu Geng]] || 1191 || after 1188 || 1265
+|-
+| [[Zu Jia]] || – || c. 1177 || 1258
+|-
+| [[Lin Xin]] || – || c. 1157 || 1225
+|-
+| [[Geng Ding|Kang Ding]] || – || c. 1148 || 1219
+|-
+| [[Wu Yi (ruler)|Wu Yi]] || 1147 || c. 1131 || 1198
+|-
+| [[Wen Ding]] || 1112 || c. 1116 || 1194
+|-
+| [[Di Yi]] || 1101 || 1105 || 1191
+|-
+| [[King Zhou of Shang|Di Xin]] || 1075 || 1086 || 1154
+|-
+| rowspan="10" | Zhou
+| [[King Wu of Zhou|King Wu]] || 1046 || 1045 || 1122
+|-
+| [[King Cheng of Zhou|King Cheng]] || 1042 || 1042 || 1115
+|-
+| [[King Kang of Zhou|King Kang]] || 1020 || 1005 || 1078
+|-
+| [[King Zhao of Zhou|King Zhao]] || 995 || 977 || 1052
+|-
+| [[King Mu of Zhou|King Mu]] || 976 || 956 || 1001
+|-
+| [[King Gong of Zhou|King Gong]] || 922 || 917 || 946
+|-
+| [[King Yi of Zhou (Ji Jian)|King Yi]] || 899 || 899 || 934
+|-
+| [[King Xiao of Zhou|King Xiao]] || 891 || 872? || 909
+|-
+| [[King Yi of Zhou (Ji Xie)|King Yi]] || 885 || 865 || 894
+|-
+| [[King Li of Zhou|King Li]] || 877 || 857 || 878
+|}
+Earlier dates are given more approximately:{{sfnp|XSZCP Group|2000}}{{sfnp|Li|2002|p=332}}{{sfnp|Lee|2002a|p=28}}
+* The relocation of the Shang capital to [[Yinxu|Yin]] during the reign of [[Pan Geng]] is aligned with the earliest layers at Yinxu, dated at c. 1300 BC.
+* The establishment of the Shang dynasty was identified with the foundation of an [[Erligang culture]] walled city at [[Yanshi]], dated at c. 1600 BC, compared with the ''Cambridge History'''s c. 1570 BC and the traditional date of 1766 BC.
+* The establishment of the [[Xia dynasty]] was dated at c. 2070 BC, compared with the traditional date of 2205 BC.
+
+==Reception==
+
+Coverage of the project in non-Chinese press focused on the conflict between nationalism and scholarship.{{sfnp|Eckholm|2000}}{{sfnp|Gilley|2000}} However, not every member of the chronology project agrees on all of the dates. Indeed, the project has been unafraid to contest dates proposed even by the director. This suggests that the dates are being considered on their own merits rather than by deferring to authority, and that politics does not influence the detailed work of the project.{{sfnp|Lee|2002a|pp=35–36}}
+
+In addition to methodological concerns, scholars have complained that the project is part of a tradition of relegating archaeology to a role of verifying traditional histories.  They argue that this forces archeological evidence into a framework of a single sequence of similar dominant states, as depicted in the histories and reflected in the title "Three Dynasties".  However, when evaluated on its own merits, the evidence reveals a much more complex origin of Chinese civilization, with many other advanced states that are not mentioned in the histories.{{sfnp|Lee|2002a|pp=20–21, 36}}
+
+A session of the Annual Conference of the [[Association for Asian Studies]] in 2002 was devoted to the preliminary report, where its methods were criticised by [[David Nivison]], among others.<ref>[http://www.asian-studies.org/absts/2002abst/China/sessions.htm#79 Session 79: The Xia-Shang-Zhou Chronology Project: Defense and Criticism] {{webarchive |url=https://web.archive.org/web/20140224213145/http://www.asian-studies.org/absts/2002abst/China/sessions.htm#79 |date=February 24, 2014 }}, AAS Annual Meeting, Washington, 2002.</ref>{{sfnp|Nivison|2002}} An international conference on chronology arranged for October 2003 was postponed due to the [[Severe acute respiratory syndrome|SARS]] outbreak, but never rescheduled.{{sfnp|Shaughnessy|2011|p=276}} The Project's dates have however become the orthodox chronology in Chinese textbooks and reference works.{{sfnp|Shaughnessy|2009|p=25}}
+
+== Notes ==
+{{notelist}}
+
+==References==
+'''Footnotes'''
+{{reflist|20em}}
+
+'''Works cited'''
+{{refbegin|indent=yes|30em}}
+* {{citation
+  | given = Robert | surname = Bagley | author-link = Robert Bagley
+  | chapter = Shang archaeology
+  | editor-given1 = Michael | editor-surname1 = Loewe
+  | editor-given2 = Edward L. | editor-surname2 = Shaughnessy
+  | title = [[The Cambridge History of Ancient China]]
+  | location = Cambridge | publisher = Cambridge University Press | year = 1999
+  | pages = 124–231
+  | isbn = 978-0-521-47030-8
+  | postscript = .
+  }}
+* {{citation
+  | title = In China, Ancient History Kindles Modern Doubts
+  | given = Erik | surname = Eckholm
+  | newspaper = New York Times | date = November 10, 2000 | page = A3
+  | url = https://www.nytimes.com/2000/11/10/world/10CHIN.html
+  | postscript = .
+  }}
+* {{citation
+  | title = Digging into the Future | given = Bruce | surname = Gilley | author-link = Bruce Gilley
+  | newspaper = [[Far Eastern Economic Review]] | date = July 20, 2000 | pages = 74–77
+  | url = http://www.feer.com/_0007_20/p74currents.html
+  | archiveurl = https://web.archive.org/web/20010413175526/http://www.feer.com/_0007_20/p74currents.html
+  | archivedate = April 13, 2001
+  | postscript = .
+  }}
+* {{citation
+  | title = China: A New History | edition = 2nd | year = 2006
+  | given1 = John King | surname1 = Fairbank | author-link1 = John K. Fairbank
+  | given2 = Merle | surname2 = Goldman
+  | location = Cambridge, MA | publisher = The Belknap Press of Harvard University Press
+  | isbn = 978-0-674-01828-0
+  | postscript = .
+  }}
+* {{citation
+  | title = Astro-historiographic chronologies of early China are unfounded
+  | given = Douglas J. | surname = Keenan
+  | journal = East Asian History | year = 2002 | volume = 23 | pages = 61–68
+  | url = http://www.informath.org/pubs/EAH02a.pdf
+  | postscript = .
+  }}
+* {{citation
+  | title = Defence of planetary conjunctions for early Chinese chronology is unmerited
+  | given = Douglas J. | surname = Keenan | author-mask = 3 | year = 2007
+  | journal = [[Journal of Astronomical History and Heritage]] | volume = 10 | issue = 2 | pages = 142–147
+  | doi = 10.3724/SP.J.1440-2807.2007.02.08 | bibcode = 2007JAHH...10..142K | s2cid = 17634444 | url = http://www.informath.org/pubs/AH207a.pdf
+  | postscript = .
+  }}
+* {{citation
+  | given = David N. | surname = Keightley | author-link = David Keightley
+  | chapter = The Shang: China's first historical dynasty
+  | editor-given1 = Michael | editor-surname1 = Loewe | editor-link1 = Michael Loewe
+  | editor-given2 = Edward L. | editor-surname2 = Shaughnessy | editor-link2 = Edward L. Shaughnessy
+  | title = [[The Cambridge History of Ancient China]]
+  | location = Cambridge | publisher = Cambridge University Press | year = 1999
+  | pages = 232–291
+  | isbn = 978-0-521-47030-8
+  | postscript = .
+  }}
+* {{citation
+  | title = Building the chronology of early Chinese history
+  | given = Yun Kuen | surname = Lee
+  | journal = [[Asian Perspectives]]
+  | volume = 41 | issue = 1 | pages = 15–42 | year = 2002a
+  | url = http://scholarspace.manoa.hawaii.edu/handle/10125/17161
+  | doi = 10.1353/asi.2002.0006
+  | postscript = .
+  | hdl = 10125/17161
+  | s2cid = 67818363 | hdl-access = free
+  }}
+* {{citation
+  | title = Differential Resolution in History and Archaeology
+  | given = Yun Kuen | surname = Lee | author-mask = 3 | year = 2002b
+  | journal = Journal of East Asian Archaeology | volume = 4 | pages = 375–386
+  | doi = 10.1163/156852302322454639
+  | postscript = .
+  }}
+* {{citation
+  | title = The Xia-Shang-Zhou Chronology Project: Methodology and Results
+  | surname = Li | given = Xueqin | year = 2002
+  | journal = Journal of East Asian Archaeology | volume = 4 | pages = 321–333
+  | doi = 10.1163/156852302322454585
+  | postscript = .
+  }}
+* {{citation
+  | title = Astronomy in the Xia-Shang-Zhou Chronology Project
+  | surname = Liu | given = Ci-Yuan
+  | journal = [[Journal of Astronomical History and Heritage]]
+  | volume = 5 | number = 1 | pages = 1–8 | year = 2002
+  | doi = 10.3724/SP.J.1440-2807.2002.01.01 | url = http://adsabs.harvard.edu/full/2002JAHH....5....1L
+  | postscript = . | bibcode=2002JAHH....5....1L
+  | s2cid = 129674512 }}
+* {{citation | given = Robert Henry | surname = Mathews | author-link = Robert Henry Mathews | title = A Chinese-English Dictionary Compiled for the China Inland Mission | publisher = Harvard University Press | year = 1943 | isbn = 978-0-674-12350-2 | postscript = . | url-access = registration | url = https://archive.org/details/mathewschineseen00math }}
+* {{citation
+  | title = The Xia-Shang-Zhou Chronology Project: Two Approaches to Dating
+  | surname = Nivison | given = David | author-link = David Nivison
+  | year = 2002
+  | journal = Journal of East Asian Archaeology | volume = 4 | pages = 359–366
+  | doi = 10.1163/156852302322454611
+  | postscript = .
+  }}
+* {{citation
+  | title = Astronomical Dates in Shang and Western Zhou
+  | given = David W. | surname = Pankenier
+  | journal = Early China | year = 1981 | volume = 7 | pages = 2–37
+  | doi = 10.1017/S0362502800005599 | jstor = 23351672 | s2cid = 163543848
+  | url = http://www.lehigh.edu/~dwp0/Assets/images/astronomicaldates.pdf
+  | postscript = .
+  }}
+* {{citation
+  | given = Edward L. | surname = Shaughnessy | author-link = Edward L. Shaughnessy
+  | chapter = Calendar and Chronology | pages = 19–29
+  | title = [[The Cambridge History of Ancient China]]
+  | editor-given1 = Michael | editor-surname1 = Loewe
+  | editor-given2 = Edward L. | editor-surname2 = Shaughnessy
+  | location = Cambridge | publisher = Cambridge University Press | year = 1999
+  | isbn = 978-0-521-47030-8
+  | postscript = .
+  }}
+* {{citation
+  | given = Edward L.  | surname = Shaughnessy | author-mask = 3
+  | chapter = Chronologies of Ancient China: A Critique of the 'Xia–Shang–Zhou Chronology Project'
+  | pages = 15–28
+  | chapter-url = http://ealc.uchicago.edu/documents/6Chronologies%20of%20Ancient%20China-1.pdf
+  | title = Windows on the Chinese World: Reflections by five historians
+  | editor-given = Clara Wing-chung | editor-surname = Ho
+  | publisher = Lexington Books | year = 2009 | isbn = 978-0-7391-2769-8
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20110815095950/http://ealc.uchicago.edu/documents/6Chronologies%20of%20Ancient%20China-1.pdf
+  | archive-date = 2011-08-15
+  | postscript = .
+  }}
+* {{citation
+  | title = Of Riddles and Recoveries: The ''Bamboo Annals'', Ancient Chronology, and the Work of David Nivison
+  | given = Edward L. | surname = Shaughnessy | author-mask = 3
+  | journal = Journal of Chinese Studies | volume = 52 | year = 2011
+  | pages = 269–290
+  | url = http://www.cuhk.edu.hk/ics/journal/articles/v52p269.pdf
+  | postscript = .
+}}
+* {{citation
+  | title = How reliable are archaic records of large solar eclipses?
+  | given = F. Richard | surname = Stephenson | author-link= F. Richard Stephenson | year = 2008
+  | journal = [[Journal for the History of Astronomy]] | volume = 39 | issue = 2 | pages = 229–250
+  | url = http://adsabs.harvard.edu/full/2008JHA....39..229S
+  | postscript = . | bibcode=2008JHA....39..229S | doi=10.1177/002182860803900205
+  | s2cid = 117346649 }}
+* {{citation
+  | title = Iron and Steel in Ancient China
+  | given = Donald B. | surname = Wagner
+  | publisher = [[Brill Publishers]] | year = 1993 | isbn = 978-90-04-09632-5
+  | postscript = .
+  }}
+* {{citation
+ |author      = XSZCP Group
+ |publisher   = 世界图书出版公司
+ |location    = Beijing
+ |year        = 2000
+ |url         = http://bbs.xhistory.net/read.php?tid=18985
+ |title       = ''夏商周断代工程1996—2000年阶段成果报告: 简本''
+ |trans-title = The Xia-Shang-Zhou Chronology Project Report for the years 1996–2000 (abridged)
+ |isbn        = 978-7-5062-4138-0
+ |postscript  = .
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20101229122751/http://bbs.xhistory.net/read.php?tid=18985
+ |archivedate = 2010-12-29
+}}
+* {{citation
+  | title = New development in the research on the chronology of the Three Dynasties
+  | surname = Yin | given = Weizhang | others = trans. Victor Cunrui Xiong
+  | journal = Chinese Archaeology | volume = 2 | year = 2002 | pages = 1–5
+  | doi = 10.1515/char.2002.2.1.1 | s2cid = 134396442 | url = http://www.kaogu.cn/en/Chinese%20Archaeology/2/Ar_ch001.PDF
+  | postscript = .
+  }}
+* {{citation
+  | title = The Xia-Shang-Zhou Chronology Project: Excavations of the Proto-Zhou Culture in Fengxi, Shaanxi
+  | surname = Zhang | given = Changshou
+  | journal =  Journal of East Asian Archaeology | volume = 4 | year = 2002a | pages = 335–346
+  | doi = 10.1163/156852302322454594
+  | postscript = .
+  }}
+* {{citation
+  | title = Determining Xia–Shang–Zhou Chronology through Astronomical Records in Historical Texts
+  | surname = Zhang | given = Peiyu
+  | journal =  Journal of East Asian Archaeology | volume = 4 | year = 2002b | pages = 335–357
+  | doi = 10.1163/156852302322454602
+  | postscript = .
+  }}
+{{refend}}
+
+{{DEFAULTSORT:Xia-Shang-Zhou Chronology Project}}
+[[Category:Bronze Age in China]]
+[[Category:Xia dynasty|*]]
+[[Category:Shang dynasty|*]]
+[[Category:Zhou dynasty|*]]
+[[Category:2000 documents]]
+[[Category:Historiography of China]]
+[[Category:Chronology]]
+[[Category:Archaeology timelines]]
+[[Category:Archaeological theory]]
+[[Category:Periods and stages in archaeology]]
+[[Category:Projects in Asia]]
+[[Category:Projects established in 1996]]
+[[Category:Organizations disestablished in 2000]]
+[[Category:University projects]]
+[[Category:Research projects]]

@@ -1,0 +1,33 @@
+{{Infobox product
+| title = VETIGEL
+| image = 
+| caption = 
+| inventor = Joe Landolina
+| launch year = 2015
+| company = Cresilon, Inc.
+| available = [https://vetigel.com/]
+| current supplier = 
+| last production = 
+| url = 
+| notes = 
+}}
+
+'''VETIGEL''' is a [[veterinary]] product, a plant-derived injectable [[gel]] that is claimed to quickly stop traumatic bleeding on external and internal wounds.  Its name is coined from Medi-Gel, from the video game series [[Mass Effect]]. It uses  a plant-based haemophilic [[polymer]] made from [[polysaccharides]] that  forms a [[mesh]] which seals  the [[wound]].<ref>{{cite web|url=http://www.ibtimes.co.uk/vetigel-plant-based-gel-that-stops-traumatic-bleeding-wounds-15-seconds-1476464|title=Vetigel: The Plant-Based Gel That Stops Traumatic Bleeding Wounds in 15 Seconds|work=International Business Times UK|access-date=30 December 2014}}</ref> It is manufactured by Cresilon, Inc., an American [[biotechnology]] company, which is also exploring human products derived from its technology, slated to launch as early as 2016.<ref>{{cite web|url=http://www.smithsonianmag.com/innovation/plant-based-gel-stops-bleeding-seconds-180953488/?no-ist|title=This Plant-Based Gel Stops Bleeding in Seconds|author=Matt Safford|work=Smithsonian|access-date=30 December 2014}}</ref> The company plans on releasing a product for the [[US Military|military]] and the [[emergency medicine]] market first, followed by a product for the [[surgery|human surgical]] market when FDA approval is granted.<ref>{{cite web|url=http://www.fastcoexist.com/3034403/a-gel-that-can-stop-bleeding-in-under-10-seconds-gets-closer-to-human-use|title=A Gel That Can Stop Bleeding In Under 10 Seconds Gets Closer To Human Use|work=Co.Exist|access-date=30 December 2014}}</ref>
+
+{{anchor|Suneris}}
+Cresilon, Inc. (Formerly Suneris, Inc.) is headquartered in [[Brooklyn]], [[New York City]], United States. The company was founded in 2010 by [[Joe Landolina]] and Isaac Miller, while they were students at [[NYU Poly]].<ref>{{cite web|url=http://downtownbrooklyn.com/posts/learn/nyu-company-named-a-coolest-college-startup|title=Downtown Brooklyn - NYU Company Named a "Coolest" College Startup|publisher=Downtownbrooklyn.com|access-date=30 December 2014|archive-url=https://web.archive.org/web/20141227062801/http://downtownbrooklyn.com/posts/learn/nyu-company-named-a-coolest-college-startup|archive-date=27 December 2014|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|url=http://www.nydailynews.com/life-style/health/nyu-student-creates-cure-excess-bleeding-article-1.1286843|title=NYU Poly student creates possible cure for excess bleeding|work=NY Daily News|access-date=30 December 2014}}</ref> Cresilon focuses on [[wound| wound care]] products, specifically those in the field of [[hemostasis]]. The company operates out of a 25,000 sq. ft. manufacturing facility located in [[Sunset Park, Brooklyn| Sunset Park, Brooklyn, NY]].<ref>{{cite web|url=https://www.bloomberg.com/video/vetigel-the-band-aid-of-the-future-stops-bleeding-instantly-PaIvLxjcS66F5IWO1SsKtA.html|title=VetiGel: The Band-Aid of the Future Stops Bleeding Instantly: Video - Bloomberg|work=Bloomberg|access-date=30 December 2014}}</ref><ref>{{cite web|url=https://www.crainsnewyork.com/article/20160322/REAL_ESTATE/160329971/innovative-brooklyn-biotech-startup-suneris-moves-to-sunset-park-industrial-complex|title=Innovative Brooklyn biotech startup will move to Sunset Park industrial complex|work=Crain's |access-date=15 April 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* https://cresilon.com/index.php/vetigel/
+
+==Videos==
+*http://www.medicaldaily.com/college-student-joe-landolina-creates-healing-gel-how-does-veti-gel-work-video-244683
+
+[[Category:Biotechnology products]]
+[[Category:Products introduced in 2010]]
+[[Category:Gels]]
+
+{{Veterinary-med-stub}}

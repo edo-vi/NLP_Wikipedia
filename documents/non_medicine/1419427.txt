@@ -1,0 +1,21 @@
+{{Short description|Literary device at end of book}}
+{{redirect|Afterwords||Afterword (disambiguation)}}
+{{distinguish|Afterward|After Words}}
+An '''afterword''' is a [[literary device]] that is often found at the end of a piece of [[literature]].<ref>[http://dictionary.reference.com/browse/afterword "afterword"]. Dictionary.com, LLC. Retrieved 10 August 2012.</ref> It generally covers the story of how the book came into being, or of how the idea for the book was developed.
+
+An afterword may be written by someone other than the [[author]] of the book to provide enriching comment, such as discussing the work's historical or cultural context (especially if the work is being reissued many years after its original publication).<ref>{{cite web| last = Pope| first = Geoff| title = "Foreword" Versus "Forward"| work = Grammar Girl's Quick and Dirty Tips| publisher = MacMillan Holdings, LLC| date = 18 November 2010| url = http://grammar.quickanddirtytips.com/forward-versus-foreword.aspx| access-date = 10 August 2012| archive-date = 6 January 2019| archive-url = https://web.archive.org/web/20190106231335/https://www.quickanddirtytips.com/grammar-girl| url-status = dead}}</ref>
+
+==See also==
+* [[Conclusion (book)|Conclusion]]
+* [[Epilogue]]
+* [[Foreword]]
+* [[Postface]]
+* [[Postscript]]
+
+==References==
+{{Reflist}}
+
+{{Book structure}}
+
+[[Category:Book design]]
+[[Category:Literature]]

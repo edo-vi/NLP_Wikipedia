@@ -1,0 +1,549 @@
+{{Short description|A single-letter word.}}
+{{double image|right|Å i Lofoten.jpg|130|Bee, Nebraska downtown 1.JPG|160|Pour se rendre {{citation|littéralement de A à B}} à bicyclette, Paul Parry parcourt {{cvt|9000|km}}, de [[Å (Moskenes)|Å]] en [[Norvège]] à [[Bee (Nebraska)|Bee]] dans le [[Nebraska]] Paul Parry, [https://web.archive.org/web/20120815001640/http://www.parryphernalia.com/?page_id=212 « From A to B. Literally. »], sur ''Parryphernalia'' (version du 15 août 2012 sur ''[[Internet Archive]]'').</ref>{{note|''Bee'' est en anglais le nom du B{{cite book|date=1960|first1=Lilian L.|language=en|last1=Fitzpatrick|page=209|publisher=University of Nebraska Press|title=Nebraska Place-Names|isbn=0803250606 |url=https://books.google.com/books?id=Dlas_EPVGFEC&pg=PA209}}<!-- auto-translated by Module:CS1 translator -->.</ref> ; un [[Ø]] au [[Danemark]], plusieurs [[:fr:Château d'Ô|Ô]] en France ; un [[Uh (Micronésie)|U]] aux [[États fédérés de Micronésie]] et un [[Y (Somme)|Y]] en [[France]].|groupe=N|name=toponyme}}.}}{{multiple image
+| align             = right
+| direction         = vertical
+| footer            = ''Å'' (Norway) and ''Bee'' (Nebraska).{{refn|''Bee'' is the English name for ''B''. Several countries have one-letter place names, including several ''Ås'' in Denmark, Norway and Sweden; a ''D'' in the USA; an ''E'' in Scotland; two ''Ls'' in the USA; an ''Ø'' in Denmark, several ''Ôs'' in France; a ''U'' in the Federated States of Micronesia and a ''Y'' in France.|group=nb}}<ref>Chris Maume, "The Essay, Radio 3, Monday-Friday Word of Mouth, Radio 4, Tuesday", ''The Independent'', 29 january 2012 ([https://www.independent.co.uk/arts-entertainment/tv/reviews/the-essay-radio-3-monday-friday-word-of-mouth-radio-4-tuesday-6296073.html read online] [[https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.independent.co.uk%2Farts-entertainment%2Ftv%2Freviews%2Fthe-essay-radio-3-monday-friday-word-of-mouth-radio-4-tuesday-6296073.html archive]]).</ref><ref>Paul Parry, "[https://web.archive.org/web/20120815001640/http://www.parryphernalia.com/?page_id=212 From A to B. Literally]", in ''Parryphernalia'' (15 august 2012 version).</ref>
+| footer_align      = center
+| width             = 150
+| image1            = Å i Lofoten.jpg
+| width1            = 150
+| image2            = Bee, Nebraska downtown 1.JPG
+| width2            = 150
+}}
+
+{{double image|right|Å i Lofoten.jpg|130|Bee, Nebraska downtown 1.JPG|160|Pour se rendre {{citation|littéralement de A à B}} à bicyclette, Paul Parry parcourt {{cvt|9000|km}}, de [[Å (Moskenes)|Å]] en [[Norvège]] à [[Bee (Nebraska)|Bee]] dans le [[Nebraska]]{{note|''Bee'' est en anglais le nom du B. Il existe dans plusieurs pays des [[toponyme]]s d'une lettre, dont plusieurs [[:fr:Å#Localités|Å]] au [[Danemark]], en [[Norvège]] et en [[Suède]] ; un [[D (fleuve)|D]] aux [[États-Unis]] ; un [[E (rivière)|E]] en [[Écosse]] ; deux L aux États-Unis; un [[Ø]] au [[Danemark]], plusieurs [[:fr:Château d'Ô|Ô]] en France ; un [[Uh (Micronésie)|U]] aux [[États fédérés de Micronésie]] et un [[Y (Somme)|Y]] en [[France]].|groupe=N|name=toponyme}}.}}A '''one-letter word''' is a [[word]] composed of a single [[Letter case|letter]]. The application of this apparently simple [[definition]] is complex, due to the difficulty of defining the notions of word and letter. One-letter words have an uncertain status in language theory, [[Dictionary|dictionaries]] and social usage. They are sometimes used as [[book]] titles, and have been the subject of literary experimentation by [[Futurist]], [[Minimalism|Minimalist]] and [[Oulipo|Ulypian]] poets.
+
+== Meaningfulness as a concept ==
+[[File:NancyReaganMrTChristmas1983 cropped.jpg|alt=Photo couleur avec Nancy Reagan|thumb|[[Mr. T]]<ref>"Mr T: 'tough and tender' in Barbara Walters TV Interview", ''Jet'', 5 march 1984 ([https://books.google.fr/books?id=ybADAAAAMBAJ&pg=PA56 read online]).</ref><ref><sup>(fr)</sup> Daphnée Leportois, "Le jour où Nancy Reagan s'est assise sur les genoux de Mister T", ''Slate'', March 6, 2016 ([http://www.slate.fr/story/115043/nancy-reagan-genoux-mister-t read online]).</ref>]]
+
+=== Word ===
+For linguists, the term 'word' is far from unambiguous.<ref><sup>(fr)</sup> Djamel Eddine Lachachi, "Problématique du mot comme unité linguistique", in ''Salah Mejri, Inès Sfar and Marc Van Campenhoudt, L'Unité en sciences du langage. Neuvièmes journées scientifiques du réseau thématique "Lexicologie, Terminologie, Traduction"'', Archives contemporaines, 2014 ([https://books.google.fr/books?id=oBgeBQAAQBAJ&pg=PA16 read online]).</ref> It is defined graphically<ref><sup>(fr)</sup> {{cite book|author1=Sandrine Zufferey|author2=Jacques Moeschler|date=2015|page=89|publisher=Armand Colin|title=Initiation à la linguistique française|isbn=9782200603274 |url=https://books.google.com/books?id=L6W5CAAAQBAJ&pg=PT89}}<!-- auto-translated by Module:CS1 translator -->.</ref> as a set of letters between two [[Word divider|word dividers]],<ref>{{cite book|author=Ioan-Iovitz Popescu|date=2009|language=en|page=5|publisher=Walter de Gruyter|title=Word Frequency Studies|isbn=9783110218534 |url=https://books.google.com/books?id=BEmvzkU11hoC&pg=PA5}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref><sup>(fr)</sup> {{cite book|author=D. Limame|date=2003|page=160|publisher=Presses universitaires de Franche-Comté|title=Les Mots, leur sens, leur forme, leur création et leur reconnaissance|isbn=9782846270991 |url=https://books.google.com/books?id=By-xAUv4Ku8C&pg=PA160}}<!-- auto-translated by Module:CS1 translator --></ref> with Jacques Anis adding that "the word thus seems to have a real existence only in writing, through the blanks that isolate it."<ref name="JA"><sup>(fr)</sup> Jacques Anis, "Pour une graphématique autonome", ''Langue française'', no 59, 1983 (DOI 10.3406/lfr.1983.5164).</ref> This pragmatic definition can already be found in Arnauld and Lancelot's ''[[Port-Royal Grammar]]'', published in 1660: "We call a word what is pronounced apart and written apart."<ref>{{harvsp|Arnauld|Lancelot|1660|p=16}}.</ref> In this sense, any isolated letter forms a word, even if it carries no meaning. Semantically, a word is defined as a [[morpheme]], "the smallest unit of meaning."<ref><sup>(de)</sup> Hans Glinz, "Grammatik und Sprache", in Hugo Moser, ''Das Ringen um eine neue deutsche Grammatik'', Wissenschaftliche Buchgesellschaft, 1973, p. 79.</ref><ref>{{cite book|author=[[Leonard Bloomfield]]|date=1984|language=en|page=178|publisher=University of Chicago Press|title=Language|isbn=9780226060675 |url=https://books.google.com/books?id=87BCDVsmFE4C&pg=PA178}}<!-- auto-translated by Module:CS1 translator -->.</ref> In this respect, an isolated letter is a word only if it carries meaning.{{refn|This criterion can be difficult to apply, as in the poems of E. E. Cummings, where the "scattered letters" accentuate the polysemy of the text.|group=nb}}
+[[File:A dans l'ABC de Ratisbonne.jpeg|alt=Page d'abécédaire illustré|thumb|A in ''A. B. C. Trim'', enchanted alphabet by [[Louis Ratisbonne]] illustrated by [[Bertall]].]]
+For Françoise Benzécri, the [[bijection]] seems obvious:{{refn|The question has been addressed more widely, notably by George Edward Moore and Willard Van Orman Quine, in the context of the distinction between use and mention. For his part, the American conceptual artist Joseph Kosuth considers that "an atomic character, such as a single-letter word, is still a description, whereas a composite image, such as a group portrait, is a representation".|group=nb}} "Every letter of an ordinary alphabet is associated with the one-letter word it constitutes, noted as that letter,"<ref name=":0"><sup>(fr)</sup> Françoise Benzécri, "Linguistique mathématique", ''Annales de l'Institut Henri-Poincaré'', section B, no 1, 1967 ([http://www.numdam.org/article/AIHPB_1967__3_1_1_0.pdf read online] [[https://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.numdam.org%2Farticle%2FAIHPB_1967__3_1_1_0.pdf archive]] [PDF]).</ref> but [[Darryl Francis]] notes on the contrary that the meaning of one-letter words is not reduced to designating the letter that constitutes them.<ref>Darryl Francis, "[https://digitalcommons.butler.edu/wordways/vol5/iss4/16/ One-Letter Words]", ''Word Ways'', 1972.</ref> Solange Cuénod also asserts that a one-letter word "has no reason to be taken as that letter,"<ref name="SC">{{cite book|date=1999|first1=Solange|last1=Cuénod|page=144|publisher=PPUR Presses polytechniques|title=Faussement vrai & vraiment faux: la logique au quotidien|isbn=9782880744014 |url=https://books.google.com/books?id=w8LxYLWhFaoC&pg=PA144}}<!-- auto-translated by Module:CS1 translator -->.</ref> and gives the following example:
+{{Block quote|text="If I ask you how to say ''a'' in English, depending on whether you consider it to be the letter of the alphabet, or the word containing only that letter, your answer will be different. It will be either ''a'' (pronounced ''ei''), or ''has''. So there's no need to confuse the verb ''avoir'' in the third person singular of the present indicative with the letter used to write it."{{refn|In this example, we're talking about homonymy rather than polysemy, a distinction that can be difficult to make, especially with one-letter words.|group=nb}}}}
+
+Linguist Malgorzata Mandola doubts that a one-letter toponym can have semantic value in the case of the village of ''Y'' in the [[Somme (department)|Somme]],<ref name="MM"><sup>(fr)</sup> {{cite book|author=Malgorzata Mandola|date=2017|page=87|publisher=Université Rennes|title=Les équivalents français des noms géographiques polonais: l'exonymisation en français des toponymes du territoire de la Pologne|url=https://tel.archives-ouvertes.fr/tel-01585303/document}}<!-- auto-translated by Module:CS1 translator -->.</ref> and believes that it is rather what the grammarian Lucien Tesnière calls a "grammatical word, devoid of any semantic function".<ref><sup>(fr)</sup> {{cite book|author=Lucien Tesnière|date=1959|page=53|publisher=Klincksieck|title=Éléments de syntaxe structurale|url=https://archive.org/stream/LucienTesniereElementsDeSyntaxeStructurale/Lucien%20Tesniere%20Elements%20de%20syntaxe%20structurale#page/n71/mode/1up}}<!-- auto-translated by Module:CS1 translator --></ref> [[Marcel Proust]], on the other hand, distinguishes between the ''nom propre'' (proper noun) and the ''mot commun'' (common noun), because for him, as [[Roland Barthes]] puts it, the ''mot commun'' is "a voluminous sign, a sign always full of a thick, dense layer of meaning, which no use reduces or flattens, unlike the ''nom commun:''"<ref name="RB"><sup>(fr)</sup> Roland Barthes, "Proust et les noms", in ''Nouveaux Essais critiques'', Le Seuil, 1972.</ref>
+[[File:Comunne Y picardhiv68.jpg|alt=photo de panneau signalétique|left|thumb|[[Y, Somme|Y]], Somme<ref name="RB" />]]{{Block quote|text="Words present us with a small, clear and usual image of things [...] But names present people - and cities, which they accustom us to believe are individual, unique as people - with a confused image that draws from them, from their bright or dark sound, the color with which it is uniformly painted."}}
+
+=== Letter ===
+[[File:Letter t as an ideogrram.jpg|thumb|For Gao-ming Zhang and Hong Yang, the ''t'' is the [[ideogram]] for a ''tree''.]]
+Letters are the elements of an [[alphabet]], i.e. a [[writing system]] based on the representation of sounds, as opposed to [[Ideogram|ideograms]], which are often the origin of images.{{refn|However, Gao-ming Zhang and Hong Yang maintain that the letters have an ideographic value in English.|group=nb}} From this perspective, it is atypical for a lone letter to convey anything beyond its literal meaning, whereas an ideogram may convey more than one concept simultaneously.{{refn|In Japan, one-letter words in kanji are particularly popular and the choice of the most popular is the subject of an annual poll.|group=nb}}<ref><sup>(fr)</sup> Linda Koiran, "Jeux de mots et de regards croisés entre Orient et Occident", ''Trans'', no 5, 2008 ([https://journals.openedition.org/trans/223 read online]).</ref> Linguists understand letters as graphemes, and classify them into three groups: alphabetic [[Grapheme|graphemes]]<ref name="JCP"><sup>(fr)</sup> Jean-Christophe Pellat, "Indépendance ou interaction de l'écrit et de l'oral? Recensement critique des définitions du graphème", in ''Pour une théorie de la langue écrite'', CNRS, 1988 ([https://hal.archives-ouvertes.fr/hal-00932313/document read online]).</ref> or alphagrams, "punctuo-typographic graphemes" or "topograms", which correspond to punctuation marks, and "logographic graphemes" or logograms, which comprise "[[Logogram|logograms]] ''stricto sensu'', grapheme-signs noting word-morphemes (such as & and $) and quasi-logograms, such as acronyms, which turn a sequence of alphagrams into a global unit."<ref><sup>(fr)</sup> Jacques Anis, "De certains marqueurs graphiques dans un modèle linguistique de l'écrit", ''DRLAV'', no 41, 1989.</ref> The alphabetic grapheme is defined either as the representation of a [[phoneme]],{{refn|It's an ideal match, in the sense that, for Antoine Arnauld and Claude Lancelot's ''Grammaire de Port-Royal'', in an ideal writing system every character would mark only one sound, and every sound would be marked by only one character.|group=nb}} or as the minimal unit of the graphic form of the expression,<ref name="JA" /> the second definition, often preferred, assimilating the alphabetic grapheme to the letter as a component of the alphabet.<ref name="JA" /><ref name="JCP2"><sup>(fr)</sup> Jean-Christophe Pellat, "Indépendance ou interaction de l'écrit et de l'oral? Recensement critique des définitions du graphème", in ''Pour une théorie de la langue écrite'', CNRS, 1988 ([https://hal.archives-ouvertes.fr/hal-00932313/document read online]).</ref>
+[[File:Q paléographique cropped.jpg|alt=Facsimilé d'un dictionnaire d'abréviations|left|thumb|[[Scribal abbreviation|Medieval variations]] on the ''Q''.]]
+Several authors have pointed out that there can be no more one-letter words than there are letters in the alphabet,<ref><sup>(fr)</sup> {{cite book|date=1764|first1=Charles-Étienne-Louis|last1=Camus|page=457|publisher=Ballard|title=Cours de mathématique. Élémens d'arithmétique|url=https://books.google.com/books?id=osVEAAAAcAAJ&pg=PA457|volume=1}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref><sup>(fr)</sup> {{cite book|date=1793|first1=Antoine-René|last1=Mauduit|page=417|publisher=Firmin Didot|title=Leçons élémentaires d'arithmétique ou principes d'analyse numérique|url=https://books.google.com/books?id=cdW27voUMFoC&pg=PA417}}<!-- auto-translated by Module:CS1 translator --></ref> such as Françoise Benzécri, for whom there are "as many one-letter words as there are letters."<ref name=":0" /> This apparently self-evident statement, however, does not take into account the impact of [[Diacritic|diacritical]] marks.<ref name="TAH">T. A. Hall, " Not all one-letter words are palindromes ", ''Word Ways'', vol. 44, no 4, 2011 ([http://digitalcommons.butler.edu/wordways/vol44/iss4/13/ read online]).</ref> In addition to the 26 letters of the [[Latin alphabet]], the French language uses 16 diacritical letters accepted by the civil registry: à, â, ä, ç, é, è, ê, ë, ï, î, ô, ö, ù, û, ü and ÿ.<ref><sup>(fr)</sup> Carole Champalaune, "Circulaire du 23 juillet 2014 relative à l'état civil - NOR: JUSC1412888C", ''Bulletin officiel du ministère de la Justice et des libertés'', nos 2014-07, July 31, 2014 ([http://circulaire.legifrance.gouv.fr/pdf/2014/07/cir_38565.pdf read online] [PDF]).</ref> It is also customary to retain the original diacritics in the transcription of proper names written in Latin characters in the original language,<ref><sup>(fr)</sup> D. Aïtoff, "De la transcription des noms géographiques", ''Annales de géographie'', January 15, 1897 (JSTOR 23862565).</ref><ref>{{cite web|title=Translittération des noms étrangers|url=https://www.btb.termiumplus.gc.ca/redac-chap?lang=fra&lettr=chapsect11&info0=11.2.6|website=BTB}}<!-- auto-translated by Module:CS1 translator -->.</ref> such as [[Å]] or [[Ø]]. These diacritical letters are considered unique graphemes.<ref><sup>(fr)</sup> André Eskenazi, "Un ou deux graphèmes?", ''Linx'', no 31, 1994 ([https://www.persee.fr/doc/linx_0246-8743_1994_num_31_2_1322 read online]).</ref> The same applies to graphemes resulting from [[elision]]: c', ç', d', j', l', m', n', s', t' and z'.<ref><sup>(fr)</sup> Sanford A. Schane and Odette Filloux, "L'élision et la liaison en français", ''Langages'', no. 8, 1967 (JSTOR 41680656).</ref><ref>{{cite book|publisher=H&K|title=20 résumés|url=http://www.h-k.fr/publications/data/20r.ps/20r.ps.comment-compter-les-mots.pdf}}<!-- auto-translated by Module:CS1 translator -->.</ref> The sixteenth-century typographical use of "q̃" for "que," notably by [[Joachim du Bellay]]<ref><sup>(fr)</sup> {{cite book|author=Françoise Argod-Dutard|date=2002|page=472|publisher=Librairie Droz|title=L'écriture de Joachim Du Bellay: le discours poétique dans Les regrets : l'orthographe et la syntaxe dans les lettres de l'auteur|isbn=9782600006132 |url=https://books.google.com/books?id=qv9nNKp6pvkC&pg=PA472}}<!-- auto-translated by Module:CS1 translator -->.</ref> and [[Jean de Sponde]],<ref>{{cite book|author=[[Jean de Sponde]]|date=1996|page=45|publisher=Honoré Champion|title=Méditations sur les Pseaumes}}<!-- auto-translated by Module:CS1 translator -->.</ref> could lead us to consider it a diacritical letter. But it is rather the transcription of an abbreviation from a [[Tironian notes|Tironian note]],<ref><sup>(fr)</sup> {{cite web|author=Denis Muzerelle|date=2 February 2006|title=Les notes tironiennes|url=https://irht.hypotheses.org/199|website=IRHT}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref><sup>(fr)</sup> {{cite book|author=[[Jan Tschichold]]|date=2017|publisher=Zeug|title=Métamorphoses de l'esperluette}}<!-- auto-translated by Module:CS1 translator -->.</ref> conventionally rendered as "q'",<ref><sup>(fr)</sup> {{cite web|author=Marc Smith|title=Dictionnaire des abréviations françaises|url=http://theleme.enc.sorbonne.fr/dico.php?lettre=Q|website=Thélème}}<!-- auto-translated by Module:CS1 translator -->.</ref> which is to be considered as a logogram,<ref><sup>(fr)</sup> Nicolas Mazziotta, "Traiter les abréviations du français médiéval. Théorie de l'écriture et pratiques d'encodage", ''Corpus'', no. 7, 2008 ([http://journals.openedition.org/corpus/1517 read online]).</ref> just like the "[[K with diagonal stroke]]," abbreviative of the Breton toponym ''[[Caer]]'',<ref><sup>(fr)</sup> H. d'Arbois de Jubainville. "Histoire de l'article dans le breton armoricain", ''Revue celtique'', 1874, p. 214 ([https://books.google.fr/books?id=gtLJaPOknGQC&pg=PA214 read online]).</ref><ref><sup>(fr)</sup> Patrick Andries, "Entretien avec Ken Whistler, directeur technique du consortium Unicode", ''Document numérique'', Lavoisier, vol. 6, no 3, 1st september 2002 (DOI 10.3166/dn.6.3-4.329-351)</ref> and transcribed as "k," which is officially considered as a "manifest alteration of the spelling."<ref><sup>(fr)</sup> {{cite web|title=Instruction générale relative à l'état civil du 11 mai 1999|url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000647915|website=Légifrance}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+{| class="wikitable centre" style="text-align: center;"
+! colspan="27" |Summary table of French one-letter words{{refn|This table does not take into account diacritical letters used for the transcription of foreign words with more than one letter, such as Á.|group=nb}}
+|-
+! scope="row" |Without diacritic
+|'''A'''
+|'''B'''
+|'''C'''
+|'''D'''
+|'''E'''
+|'''F'''
+|'''G'''
+|'''H'''
+|'''I'''
+|'''J'''
+|'''K'''
+|'''L'''
+|'''M'''
+|'''N'''
+|'''O'''
+|'''P'''
+|'''Q'''
+|'''R'''
+|'''S'''
+|'''T'''
+|'''U'''
+|'''V'''
+|'''W'''
+|'''X'''
+|'''Y'''
+|'''Z'''
+|-
+! scope="row" |[[Acute accent]]
+|
+|
+|
+|
+| style="background:#FFEFD5" |[[É]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" |[[Circumflex]]
+| style="background:#FFEFD5" |[[Â]]
+|
+|
+|
+| style="background:#FFEFD5" |[[Ê]]
+|
+|
+|
+| style="background:#FFEFD5" |[[Î]]
+|
+|
+|
+|
+|
+|[[Circumflex|Ô]]
+|
+|
+|
+|
+|
+| style="background:#FFEFD5" |[[Û]]
+|
+|
+|
+|
+|
+|-
+! scope="row" |[[Grave accent]]
+|[[À]]
+|
+|
+|
+| style="background:#FFEFD5" |[[È]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| style="background:#FFEFD5" |[[Grave accent|Ù]]
+|
+|
+|
+|
+|
+|-
+! scope="row" |[[Apostrophe]]
+|
+|
+|[[Ć|C']]
+|D'
+|
+|
+|
+|
+|
+|[[J']]
+|
+|L'
+|M'
+|N'
+|
+|
+|
+|
+|[[Ś|S']]
+|[[Ť|T']]
+|
+|
+|
+|
+|
+|Z'
+|-
+! scope="row" |[[Bar (diacritic)|Bar]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|[[Ø]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" |[[Cedilla]]
+|
+|
+| style="background:#FFEFD5" |[[Ç]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" |[[Cedilla]] and [[Apostrophe]]
+|
+|
+|[[Ç']]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" |[[Rond en chef]]
+|[[Å]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" |[[Diaeresis (diacritic)|Diaeresis]] 
+| style="background:#FFEFD5" |[[Ä]]
+|
+|
+|
+| style="background:#FFEFD5" |[[Ë]]
+|
+|
+|
+| style="background:#FFEFD5" |[[Ï]]
+|
+|
+|
+|
+|
+| style="background:#FFEFD5" |[[Ö]]
+|
+|
+|
+|
+|
+| style="background:#FFEFD5" |[[Ü]]
+|
+|
+|
+| style="background:#FFEFD5" |[[Ÿ]]
+|
+|}
+<small>{{Legend|#FFEFD5|Word designating only the associated letter.}}</small>
+
+== Uncertain status ==
+
+=== In language theory ===
+[[File:Le Bourgeois gnetilhomme II, 4.jpg|thumb|[[Le Bourgeois gentilhomme|Monsieur Jourdain]]'s introduction to ''O'' phonomimography]]
+The existence of one-letter words goes against Platonic language theory, as letters are meant to be sublexical units,<ref><sup>(fr)</sup> {{cite book|date=2001|first1=Ludovic|last1=Ferrand|page=9|publisher=De Boeck Supérieur|title=Cognition et lecture|url=http://cairn.info/cognition-et-lecture--9782804137717-page-9.htm}}<!-- auto-translated by Module:CS1 translator -->.</ref> intended to be combined with others to form words.<ref>Platon, ''Théétète'' 202b.</ref> As a result, [[Platonism|Platonists]] developed a kind of aversion to single-letter words. [[Jabir ibn Hayyan|Geber]] and the medieval Arab grammarians thus considered that a true word could not consist of less than two letters,<ref>{{cite book|date=2004|first1=Gerhard|first2=Rüdiger|first3=Jörn|language=en|last1=Endress|last2=Arnzen|last3=Thielmann|page=137|publisher=Peeters Publishers|title=Words, Texts, and Concepts Cruising the Mediterranean Sea: Studies on the Sources, Contents and Influences of Islamic Civilization and Arabic Philosophy and Science: Dedicated to Gerhard Endress on His Sixty-Fifth Birthday|isbn=9789042914896 |url=https://books.google.com/books?id=r0oxdf9_GNQC&pg=PA137}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>Dan Becker, "Linguistic Rules and Definitions in Ibn Janāḥ's 'Kitāb Al-Lumaʿ (Sefer Ha-Riqmah)' Copied from the Arab Grammarians)", ''The Jewish Quarterly Review'', vol. 86, nos 3-4, 1996 (JSTOR 1454908).</ref> and [[Gottfried Wilhelm Leibniz|Leibniz]] excluded one-letter words from meaningful combinations.<ref><sup>(fr)</sup> M. Fichant, "L'origine de la négation", ''Les Études philosophiques'', no 1, 1971 (JSTOR /20845923).</ref>
+
+Reflections on the meaning and importance of one-letter words, however, return to a debate on which [[Plato]] took a stance in the ''[[Cratylus]]'', and which Gérard Genette summarizes as follows:
+
+{{Block quote|text="Placed between two opponents, one of whom (Hermogenes) holds to the so-called conventionalist thesis [...] according to which names simply result from an agreement and convention [...] between men, and the other (Cratylus) to the so-called naturalistic thesis [...] according to which each object has received a "right name" that belongs to it according to a natural propriety, Socrates seems first to support the second against the first, then the first against the second"<ref>{{harvsp|Genette|1976|p=11}}.</ref>.}}
+
+While contemporary linguists most often agree with [[Ferdinand de Saussure]] that "the [[Sign (semiotics)|linguistic sign]] is arbitrary" and that this principle "is not contested by anyone,"<ref><sup>(fr)</sup> Ferdinand de Saussure, ''Cours de linguistique générale'', Payot, 1995 ([https://fr.wikisource.org/wiki/Cours_de_linguistique_g%C3%A9n%C3%A9rale/Texte_entier read online]), p. 100.</ref> this has not always been the case. The cratylic impulse has long haunted theories of language, leading to the attribution of mimetic meaning to letters in general, and to single-letter words in particular.
+
+As Genette points out, this supposed [[mimesis]] is not only phonic, but sometimes graphic too:
+
+{{Block quote|text="Writing can be conceived, as well as speech, as an imitation of the objects it designates [...] A so-called phonetic script, such as ours, can also be conceived as an imitation of the sounds it notes, each letter (for example) being the visual analogon of a phoneme [... ] Mimology in general can be divided into ''mimophony'' (the terrain of classical cratylism) and ''mimography'', which in turn is subdivided into ''ideomimography'' and ''phonomimography''. These two varieties of mimography are theoretically quite heterogeneous, and independent of each other. In practice, however, they may come together.<ref>{{harvsp|Genette|1976|p=77}}.</ref>}}{{multiple image
+| align             = left
+| direction         = vertical
+| header            = Hieroglyphic and primitive alphabet
+| header_align      = center
+| footer            = "Hermeneutic delirium" on the primitive words of a letter by Court de Gébelin.
+| footer_align      = left
+| width             = 300
+| image1            = Alphabet hiéroglyphique de Gébelin - Planche IV.jpg
+| width1            = 300
+| alt1              = Facsimile alphabet board.
+| image2            = Alphabet hiéroglyphique de Gébelin - Planche V.jpg
+| width2            = 300
+| alt2              = Facsimile alphabet board.
+}}
+For [[Antoine Court de Gébelin|Court de Gébelin]], a proponent of the existence of a mimetic mother tongue,<ref>{{harvsp|Genette|1976|p=133-134}}.</ref> word "A" exemplifies a "primitive" word in the "plan général" of the ''Monde primitif'' published in 1773. The author provides the article "A" as an example of his project and explains its meaning as "designating property, possession".<ref>{{cite book|date=1782|page=480|title=Monde primitif analysé et comparé avec le monde moderne considéré dans son génie allégorique et dans les allégories auxquelles conduisit ce génie|url=https://gallica.bnf.fr/ark:/12148/bpt6k1087220/f579}}<!-- auto-translated by Module:CS1 translator -->.</ref> Anne-Marie Mercier-Faivre notes that this word, "in a very astonishing way installs the alphabet in myth".<ref><sup>(fr)</sup> Anne-Marie Mercier-Faivre, "Le Monde primitif de Court de Gébelin : poétique pour une science nouvelle", ''Le Genre humain'', nos 45-46, 2006 ([https://www.cairn.info/revue-le-genre-humain-2006-1-page-295.htm read online] [[https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.cairn.info%2Frevue-le-genre-humain-2006-1-page-295.htm archive]]).</ref>
+
+It should come as no surprise, for Gébelin:
+
+{{Block quote|text="that the word ''A'' is at the head of the words: placed at the highest degree of the vowel scale, it dominates among them like a monarch among his subjects. Being the most sonorous, it is the first to be distinguished in the most sensitive manner: & it is from these physical qualities which are proper to it & which characterize it that we shall see all the meanings with which it has been clothed born."<ref>{{cite book|author=[[Antoine Court de Gébelin]]|date=1773|page=22|title=Monde primitif analysé et comparé avec le monde moderne considéré dans son génie allégorique et dans les allégories auxquelles conduisit ce génie|url=https://gallica.bnf.fr/ark:/12148/bpt6k108891b/f28}}<!-- auto-translated by Module:CS1 translator -->.</ref>.}}
+
+According to Gébelin, all writing is "hieroglyphic," i.e. "made up of pure picto-ideograms." Consequently, "alphabetic writing is hieroglyphic [...], each letter being the painting of an object".<ref>{{cite book|author=[[Antoine Court de Gébelin]]|date=1773|page=402|title=Monde primitif|url=https://gallica.bnf.fr/ark:/12148/btv1b8614577b/f442}}<!-- auto-translated by Module:CS1 translator -->.</ref> However, Genette notes that this does not imply the alphabet directly represents sounds.
+
+{{Block quote|text="The letter-ideogram paints an object to the eyes; the phoneme, which for [Gébelin] is a true ideophone, paints that same object to the ears - and the resemblance between these two portraits results only from their equal fidelity to their common model."<ref>{{harvsp|Genette|1976|p=160}}.</ref>.}}
+
+Philologist [[Antoine Fabre d'Olivet]], a contemporary of Gébelin and influenced by him,<ref>{{cite book|date=1953|first1=Léon|last1=Cellier|page=134|publisher=Slatkine|title=Fabre d'Olivet. Contribution à l'étude des aspects religieux du romantisme|isbn=9782051016391 |url=https://books.google.com/books?id=Ol3o9RcQPp8C&pg=PA134}}<!-- auto-translated by Module:CS1 translator -->.</ref> believes that the one-letter word represents "a simple, non-compounded, non-complex thing, such as a single-stranded rope."<ref>{{cite book|author-link1=Antoine Fabre d'Olivet|date=1775|first1=Antoine|last1=Fabre d'Olivet|page=133|title=La Langue hébraïque restituée et le véritable sens des mots hébreux rétabli et prouvé par leur analyse radicale|url=https://gallica.bnf.fr/ark:/12148/bpt6k647859/f385}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+[[File:Gold Bug cryptogram.jpg|alt=Facsimilé de cryptogramme|thumb|The [[The Gold-Bug|''Gold-Bug'']] [[cryptogram]], which has no spaces.]]
+In another register, the words of a letter can be a key to the analysis of a text or language. [[Edgar Allan Poe]], in ''[[The Gold-Bug]]'', as a prelude to the exposition of a method using [[frequency analysis]],<ref>{{cite book|author=Roberto Smith|date=2015|language=en|page=287|publisher=Jones & Bartlett Publishers|title=Elementary Information Security|isbn=9781284055948 |url=https://books.google.com/books?id=_b9zCgAAQBAJ&pg=PA287}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|author=David G. Luenberger|date=2012|language=en|page=170|publisher=Princeton University Press|title=Information Science|isbn=978-1400829286 |url=https://books.google.com/books?id=HRhckOC18DkC&pg=PA170}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|author=David Salomon|date=2003|language=en|page=22|publisher=Springer Science & Business Media|title=Data Privacy and Security: Encryption and Information Hiding|url=https://books.google.com/books?id=z-3foyEoo-UC&pg=PA22}}<!-- auto-translated by Module:CS1 translator -->.</ref> underlines the status of the words of a letter as a cryptological key when the spacing of the original text is preserved, which is not the case for the cryptogram of his short story:<ref>{{cite book|author=Edgar Allan Poe|date=1869|publisher=Michel Lévy|title=Histoires extraordinaires|translator=Charles Baudelaire|url=https://fr.wikisource.org/wiki/Histoires_extraordinaires/Le_Scarab%C3%A9e_d%E2%80%99or}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+{{Block quote|text="If there had been spaces, the task would have been singularly easier. In that case, I would have started by collating and analyzing the shortest words, and, if I had found, as is always likely, a single-letter word, a or I (un, je) for example, I would have considered the solution assured".{{refn|Poe underlines the consubstantiality of the single-letter word and typographic space.|group=nb}}}}
+
+It was thanks to such a word that [[Charles Virolleaud]] succeeded in 1929 in deciphering the [[Ugaritic alphabet]],<ref><sup>(fr)</sup> Charles Virolleaud, "Les inscriptions cunéiformes de Ras Shamra", ''Syria'', vol. 10, nos 10-4, 1929 ([http://www.persee.fr/web/revues/home/prescript/article/syria_0039-7946_1929_num_10_4_3411 read online]).</ref><ref><sup>(fr)</sup> Charles Virolleaud, "Le déchiffrement des tablettes alphabétiques de Ras-Shamra", ''Syria'', vol. 12, no 1, 1931 (DOI 10.3406/syria.1931.3530).</ref><ref>Watson, Wilfred G. E. (1999). ''[https://books.google.fr/books?id=0Z2Jo01iq1YC&pg=PA76 Handbook of Ugaritic Studies]''. Brill. p. 76.</ref> [[File:L-ougaritique.png|frameless|20x20px]] (the L in this alphabet) expressing the possessive preposition as in [[Hebrew language|Hebrew]] and [[Arabic]].<ref><sup>(fr)</sup> {{cite book|author=Charles Higounet|date=2003|page=13|publisher=Presses universitaires de France|series=Que sais-je ?|title=L'écriture|url=https://books.google.com/books?id=ma0ICwAAQBAJ&pg=PT13}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+=== In dictionaries ===
+Due to the [[polysemy]] of one-letter words, [[Crossword|crossword puzzles]] and dictionaries often do not include specific definitions.<ref>{{cite web|title=Guide des mots croisés : pas de "mots" d'une lettre|url=http://www.mots-croises.ch/Manuels/Guide_MotsCroises/plusdunelettre.htm|website=Mots croisés}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|date=2006|first1=Noël|last1=Lazure|publisher=Les Éditions le mieux-être|title=Le Nouveau Dictionnaire des mots croisés}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|date=2008|first1=Michelle|language=en|last1=Arnot|page=36|publisher=Penguin|title=Four-Letter Words: And Other Secrets of a Crossword Insider|url=https://books.google.com/books?id=_A3Fsm9MszQC&pg=PT36}}<!-- auto-translated by Module:CS1 translator -->.</ref> Linguists Yannick Marchand and Robert Damper also note the absence of the word "A" from the lexical database they rely on, taken from an edition of [[Webster's Dictionary|Webster's English dictionary]].{{refn|Marchand and Damper's article deals with pronunciation by analogy in the context of speech recognition. They exploit a lexical database compiled by Terrence Sejnowski and Charles Rosenberg from the publicly available 1974 edition of the ''Pocket Webster Dictionary''.|group=nb}}<ref>Yannick Marchand et Robert I. Damper, "A Multistrategy Approach to Improving Pronunciation by Analogy", ''Computational Linguistics'', vol. 26, no 2, 2000 (DOI 10.1162/089120100561674)..</ref> On the other hand, as T. A. Hall, the same work devotes different entries to "'D" (as in ''I'd'') and "D'" (as in ''d'you know''); to "'S" (as in ''he's'') and "S'" (as in the ''girls' toys''); to "'T" (as in ''<nowiki/>'twill do'') and "T'" (as in ''t'other'').<ref name="TAH" /> This remark allows him to refute the claim -regarded as minor by some authors<ref>Norman Carey, "On a Class of Locally Symmetric Sequences", in Carlos Agon, Emmanuel Amiot, Moreno Andreatta, Gerard Assayag, Jean Bresson and John Manderau, ''Mathematics and Computation in Music'', Springer, 2011 ([https://books.google.fr/books?id=2gYVpfr9C8QC&pg=PA51&lpg=PA51 read online] [[https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fbooks.google.fr%2Fbooks%3Fid%3D2gYVpfr9C8QC%26pg%3DPA51%26lpg%3DPA51 archive]]), p. 51.</ref><ref>{{cite web|author=C. Roudet|publisher=UFR Sciences et Techniques|title=Examen de génie logiciel. Première session M1 informatique|url=http://ufrsciencestech.u-bourgogne.fr/~roudet/enseignement/GL_M1/Exam_M1_GL_mai_2015.pdf|access-date=2023-10-17|archive-date=2015-11-18|archive-url=https://web.archive.org/web/20151118164321/http://ufrsciencestech.u-bourgogne.fr/~roudet/enseignement/GL_M1/Exam_M1_GL_mai_2015.pdf|url-status=dead}}<!-- auto-translated by Module:CS1 translator -->.</ref>- that all one-letter words are palindromes: "these ''Webster'' entries are not [[Palindrome|palindromic]],{{refn|While all words in a non-diacritical letter are palindromes in themselves, and in this sense "A letter is its own mirror", as Frédéric Forte observes, on the other hand, as Jacques André observes, "few labor characters are symmetrical [...] even an 'o' is rarely circular".|group=nb}} since reading from right to left does not produce the same word as reading from left to right".<ref name="TAH" />
+
+Craig Conley has devoted a 232-page reference<ref><sup>(fr)</sup> Frank McNally, "An Irishman's Diary", ''Irish Times'', 6 october 2012.</ref><ref>Nathan Bierma, "Dictionary Author Really Did Research to the Letter", ''Chicago Tribune'', 2 november 2005.</ref><ref>Warren Clements, "Dunch me if you wish, but not in the thirl or the coccyx", ''Globe & Mail'', 3 november 2007.</ref> book to one-letter words,<ref>Janet Maslin, "Light Reading Gone Wild", ''New York Times'', 9 december 2005.</ref> ''One-Letter Words: a Dictionary'',<ref>{{harvsp|Conley|2005}}.</ref> in which he counts over a thousand different meanings for English one-letter words,<ref>A. Ross Eckler, "One-Letter Words: a Dictionary", ''Word Ways'', vol. 45, no 3, 2012.</ref> which leads him to emphasize the importance of context in understanding these words.<ref>Craig Conley, "The Skinny on the Dictionary of One-Letter Words", ''Verbatim'', vol. 29, no 2, 2004..</ref> For example, he lists 76 meanings of the word "X", to which he says he has a particular affection,<ref>{{harvsp|Conley|2005|p=XVI}}.</ref> including 17 in the "texts and proverbs" section, three in the "cards, spirits, and adult films" section, eight in the "on parchment paper" section, 15 in the "crosswords" section, five in the "Dr/Mr/Mrs/Miss X" section, 11 in the "scientific subjects" section, eight in the "mathematics" section, three in the "foreign meanings" section, eight in the "miscellaneous" section, and two in the "facts and figures"<ref>{{harvsp|Conley|2005|p=203-214}}.</ref> section. According to him, the only other work on the subject is a dictionary of one-letter words in Pali, compiled by the sixteenth-century Buddhist lexicographer Saddhammakitti<ref><sup>(fr)</sup> {{cite book|author=Franz Josef Hausmann|date=1991|language=en|page=2500|publisher=Walter de Gruyter|title=Dictionnaires|url=https://books.google.com/books?id=Kwqc7xso22wC&pg=PA2500}}<!-- auto-translated by Module:CS1 translator --></ref> and entitled ''Ekakkharakosa''.<ref>{{harvsp|Conley|2005|p=XX}}.</ref>
+
+English lexicographer [[Jonathon Green]], a specialist in the English ''slang'' language, has compiled a large number of one-letter word meanings in English, most of which do not appear in Conley's dictionary.<ref>{{cite web|access-date=11 July 2018|author=Jonathon Green|language=en|title=Green's Dictionary of Slang|url=https://greensdictofslang.com/}}<!-- auto-translated by Module:CS1 translator -->.</ref> The following table compares the number of meanings given to English one-letter words by these two lexicographers.
+{| class="wikitable centre" style="text-align: center;"
+! colspan="27" |Number of meanings of one-letter words in English
+|-
+!
+! scope="col" |A
+! scope="col" |B
+! scope="col" |C
+! scope="col" |D
+! scope="col" |E
+! scope="col" |F
+! scope="col" |G
+! scope="col" |H
+! scope="col" |I
+! scope="col" |J
+! scope="col" |K
+! scope="col" |L
+! scope="col" |M
+! scope="col" |N
+! scope="col" |O
+! scope="col" |P
+! scope="col" |Q
+! scope="col" |R
+! scope="col" |S
+! scope="col" |T
+! scope="col" |U
+! scope="col" |V
+! scope="col" |W
+! scope="col" |X
+! scope="col" |Y
+! scope="col" |Z
+|-
+! scope="col" |According to Conley
+|52
+|40
+|42
+|44
+|41
+|31
+|34
+|28
+|45
+|24
+|40
+|31
+|27
+|27
+|63
+|24
+|27
+|30
+|36
+|58
+|32
+|51
+|18
+|76
+|45
+|35
+|-
+! scope="col" |According to Green
+|4
+|13
+|4
+|9
+|1
+|5
+|7
+|1
+|2
+|2
+|2
+|4
+|1
+|2
+|1
+|5
+|5
+|1
+|2
+|1
+|1
+|11
+|3
+|10
+|1
+|5
+|}
+The [[incipit]] of Craig Conley's dictionary is the reminder of the White Queen's words to [[Through the Looking-Glass|Alice]]:
+
+{{Block quote|text="I'll tell you a secret... I can read words with only one letter! Isn't that wonderful? But don't be discouraged. You'll get there, too, after a while."<ref>{{harvsp|Carroll|2003|p=206}}.</ref>.}}
+
+This evocation of [[Lewis Carroll]]'s text is all the more appropriate to the challenge of a dictionary of the words of a letter, since the description of the meaning of these words must include meanings that are not only nominative, i.e. relative to the use of language in general, but also stipulative, i.e. decided by an author in a particular context,<ref>{{cite book|author=Robert D. Sutherland|date=1970|language=en|page=152|publisher=Walter de Gruyter|title=Language and Lewis Caroll|url=https://books.google.com/books?id=MFzzrIkSSYYC&pg=PA152}}<!-- auto-translated by Module:CS1 translator --></ref><ref>{{cite book|author=Juan C. Sager|date=2000|language=en|page=4|publisher=John Benjamins Publishing|title=Essays on Definition|url=https://books.google.com/books?id=o7s9KRT0z6cC&pg=PA4}}<!-- auto-translated by Module:CS1 translator -->.</ref> as [[Humpty Dumpty|Humpty-Dumpty]] emphasizes to Alice:
+
+{{Block quote|text="When I use a word," replied Humpty-Dumpty in a somewhat disdainful tone of voice, "it means exactly what I like it to mean... no more and no less."
+
+"The question," said Alice, "is whether you have the power to make words mean something other than what they mean."
+
+"The question," retorted Humpty-Dumpty, "is who will be the master... period."<ref>{{harvsp|Carroll|2003|p=181}}.</ref>}}
+
+=== In practice ===
+[[File:Desmond Llewelyn 01.jpg|alt=Photo de Desmond Llewelyn|thumb|[[Q (James Bond)|Q]], a James Bond character.]]
+[[Jack Goody]] believes that the written word "adds an important dimension to many social actions."<ref><sup>(fr)</sup> {{cite book|author=Jack Goody|date=1977|page=55|publisher=Éditions de minuit|title=La raison graphique}}<!-- auto-translated by Module:CS1 translator --></ref> In this respect, the words of a letter can be divisive. In legal terms, their use in [[Patronymic|patronymics]] has sometimes been invalidated. In the United States, a woman was refused permission to change her name to R, on the grounds that there must be "some form of systematic standardization of individual identification in our society," a decision that was upheld on appeal to avoid "insurmountable difficulties";<ref>"Courts Fail to Let Woman Use One Letter Surname", ''Pittsburgh Post-Gazette'', 25 july 2000 ([https://news.google.com/newspapers?nid=1129&dat=20000725&id=LIVIAAAAIBAJ&sjid=228DAAAAIBAJ&pg=2487,3737439&hl=fr read online] [[https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fnid%3D1129%26dat%3D20000725%26id%3DLIVIAAAAIBAJ%26sjid%3D228DAAAAIBAJ%26pg%3D2487%2C3737439%26hl%3Dfr archive]]).</ref> a Korean named ''O'', fed up with the difficulties he encountered with the computer programs of certain organizations not designed for names as short as his,{{refn|On the other hand, it was precisely the computer constraints encountered by Margaret Oakley Dayhoff that justified the adoption of one-letter names for amino acids|group=nb}} had to change it to ''Oh''.{{refn|The name ''O'', of Korean origin, is the most common one-letter name in the United States.|group=nb}}<ref>"Why, O Why, Doesn't That Name Compute?", ''New York Times'', 28 août 1991 ([https://www.nytimes.com/1991/08/28/us/why-o-why-doesn-t-that-name-compute.html read online]).</ref><ref>Sue Anne Pressley, "Uh, O, There's a Problem: One-letter name confuses system", ''Francisco Chronicle'', 2 october 1991.</ref> In Sweden, a couple who wanted to name their son ''Q'', in homage to the character of the [[Homonym|same name]] in the [[James Bond]] series, were refused both at first instance and on appeal, on the grounds that the first name was "inappropriate;" however, the Supreme Administrative Court overturned these decisions, ruling that it had not been "proven that the name ''Q'' could be offensive or that it could cause embarrassment to its bearer." In [[New Zealand]], the first name J was invalidated six times between 2001 and 2013.<ref>Lateef Mungin, "No, you can't call your baby Lucifer: New Zealand releases list of banned names", ''CNN'', 1st may 2013 ([https://edition.cnn.com/2013/05/01/world/asia/new-zealand-stange-baby-names/index.html read online]).</ref> On the other hand, it was on joining the [[United States Air Force|US Air Force]] that singer Johnny Cash, born ''J. R. Cash'', changed his first names to John and Ray to comply with military requirements.<ref>{{cite book|author=Robert D. Temple|date=2008|language=en|page=32|publisher=iUniverse|title=Edge Effects: The Border-name Places|url=https://books.google.com/books?id=H6IoEddOKlIC&pg=PA32}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|author=Edward Willett|date=2010|language=en|page=27|publisher=Enslow Publishers|title=Johnny Cash: "The Man in Black"|url=https://books.google.com/books?id=UC4vxiZ7PiwC&pg=PA27}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+
+{{multiple image|right|direction=horizontal|header=Some notorious [[pinyin]] ''E''s|header_align=center|width=|image1=Ma Than E cropped.jpg|width1=96|alt1=Photo en noir et blanc.|caption1=[[Than E]].|image2=WeinanE cropped.jpg|width2=90|alt2=Photo couleur.|caption2=[[Weinan E]].|image3=GeneralQaoAoCampañaDeYunnan.jpg|width3=66|alt3=Photo noir et blanc.|caption3=[[Cai E]].|image4=老殘游記的作者劉鉄雲先生.jpg|width4=76|alt4=Photo noir et blanc|caption4=[[Liu E]].}}A notable example of the social impact of choosing a one-letter surname is the case of American preacher [[Malcolm X|Malcolm Little]], who decided in 1952 to adopt the surname ''X'', his birth name on the premise that it may have been that of a slave owner rather than his African ancestors, he chose a name that alludes to the birth of his unknown father.<ref>{{cite book|author=Beatrice Gormley|date=2008|language=en|page=69|publisher=Sterling Publishing Company|title=Malcolm X: A Revolutionary Voice|url=https://books.google.com/books?id=eJn94pyIGJkC&pg=PT69}}<!-- auto-translated by Module:CS1 translator -->.</ref> The [[Nation of Islam]] movement eventually asked its new members to renounce their "slave name" and adopt the same patronymic,<ref>{{cite book|author=Clifton E. Marsh|date=2000|language=en|page=40|publisher=Rowman & Littlefield|title=The Lost-Found Nation of Islam in America|url=https://books.google.com/books?id=uDpYN1etUAYC&pg=PA40}}<!-- auto-translated by Module:CS1 translator -->.</ref> creating such confusion that they were obliged to add a serial number before the letter ''X'': one of Malcolm X's drivers, Charles Morris, called himself ''Charles 37X'', the 37th Charles to have his name changed in the same temple.<ref>{{cite book|date=2016|language=en|page=189|publisher=Brill|title=Malcolm X: From Political Eschatology to Religious Revolutionary|isbn=9789004308688 |url=https://books.google.com/books?id=2LktDAAAQBAJ&pg=PA189}}<!-- auto-translated by Module:CS1 translator -->.</ref> According to some authors, this political practice also contributed to the choice of the letter ''X'' to designate a [[generation]].<ref>{{cite book|author=Donna Andréolle|date=2015|page=40|publisher=Presses universitaires de France|title=Friends. Destins de la génération X|isbn=9782130653110 |url=https://books.google.com/books?id=KvcICwAAQBAJ&pg=PT40}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|author1=Michael R. Muetzel|author2=Ken Blanchard|date=2003|language=en|page=25-26|publisher=Mx Marketing|title=They're Not Aloof… Just Generation X: Unlock the Mysteries to Today's Human Capital Management|isbn=9780974070025 |url=https://books.google.com/books?id=wmR87wA-Xd8C&pg=PA25}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+
+[[Georges Perec]] underlines the special status of ''X'': "this letter that has become a word, this noun that is unique in the language in having only one letter, unique also in that it is the only one to have the shape of what it designates.{{refn|Véronique Montémont observes that the title ∈ "has no stable phonic equivalent" and can be read in several ways: ''Ensembles'', ''Appartient à'', ''Eu'', ''Signe d'appartenance''. Jacques Roubaud, who himself calls this work ''Euh'', is particularly pleased about this: "In principle, my title is unpronounceable [...] [J'en] tire une satisfaction puérile qui n'arrange pas ma réputation". Véronique Montémont nevertheless emphasizes the symbolic significance of this choice, "which places the work [...] under the double seal of literature [...] and mathematics".|group=nb}}
+
+In other cases, on the contrary, social norms justify the use of one-letter words. For example, the use of a single letter for the middle name, perceived as valorizing,<ref>Wijnand A. P. van Tilburg and Eric R. Igou, "The impact of middle names: Middle name initials enhance evaluations of intellectual performance", ''European Journal of Social Psychology'', vol. 44, no 4, 2014 (DOI 10.1002/ejsp.2026).</ref><ref>Eric R. Igou and Wijnand A. P. van Tilburg, "Ahead of others in the authorship order: names with middle initials appear earlier in author lists of academic articles in psychology", ''Frontiers in Psychology'', 21 april 2015 (DOI 10.3389/fpsyg.2015.00469).</ref> is sometimes accepted, e.g. ''S'' for President [[Harry S. Truman|Truman]],<ref>John Kelly, "The Truman period: Exploring the president’s middle initial", ''Washington Post'', 11 may 2013 ([https://www.washingtonpost.com/local/the-truman-period-exploring-the-presidents-middle-initial/2013/05/11/0cdc6002-b976-11e2-92f3-f291801936b8_story.html read online]).</ref><ref>{{cite book|date=2000|first1=Robert E.|language=en|last1=Kelly|page=55|publisher=McFarland|title=The National Debt of the United States, 1941 to 2008|isbn=9780786432332 |url=https://books.google.com/books?id=QIqoBgAAQBAJ&pg=PA55}}<!-- auto-translated by Module:CS1 translator -->.</ref> and sometimes criticized, e.g. ''V'' for English politician [[Grant Shapps]].<ref>Matt Dahan, "Grant Shapps adopts another pseudonym: the mystery of his middle name ‘V’", ''The Independent'', 17 march 2015 ([https://www.independent.co.uk/news/uk/politics/grant-shapps-adopts-another-pseudonym-the-mystery-of-his-middle-name-v-10113196.html read online]).</ref><ref>Josh Halliday, "Grant 'V' Shapps: another pseudonym for the marketer and Tory party chair?", ''The Guardian'', 17 march 2015 ([https://www.theguardian.com/politics/2015/mar/17/grant-v-shapps-tory-party-chair-middle-name lire en ligne]).</ref> Mathematician [[Benoit Mandelbrot|Benoît Mandelbrot]] readily admits to adding a ''B'' after his first name,<ref>Jascha Hoffma, "Benoît Mandelbrot, Mathematician, Dies at 85", ''The New York Times'', 16 october 2010 ([https://www.nytimes.com/2010/10/17/us/17mandelbrot.html read online]).</ref><ref>Nigel Lesmoir-Gordon, "Benoît Mandelbrot obituary", ''The Guardian'', 17 october 2010 ([https://www.theguardian.com/science/2010/oct/17/benoit-mandelbrot-obituary read online]).</ref> a choice attributed to a mathematical joke about [[Recursion|recursivity]].<ref>Mike Selinker, "Never Trend Away: Jonathan Coulton on Benoit Mandelbrot", ''Wired'', 18 october 2010 ([https://www.wired.com/magazine/2010/10/never-trend-away-jonathan-coulton-on-benoit-mandelbrot/ read online]).</ref><ref>Tristan Miller, "The world's shortest personal names", ''Word'' Ways, no 2, 2014 ([https://digitalcommons.butler.edu/wordways/vol47/iss2/19/ read online]).</ref> [[J. K. Rowling|Joanne Rowling]] attributes the addition of an unjustified ''K'' to her first name to her publisher, who was keen to attract a readership of young boys.<ref>Richard Savill, "Harry Potter and the mystery of J K's lost initial", ''The Telegraph'', 19 july 2000 ([https://www.telegraph.co.uk/news/uknews/1349288/Harry-Potter-and-the-mystery-of-J-Ks-lost-initial.html read online]).</ref><ref>"The power and peril of the middle name", ''BBC'', 29 june 2013 ([https://www.bbc.com/news/magazine-23097107 read online]).</ref> In [[Myanmar]], the word ''U'', meaning uncle,<ref>David Bradley, "Uncles and Aunts: Burmese Kinship and Gender", in ''South-east Asian Linguisitics: Essays in Honour of Eugénie J.A. Henderson, School of Oriental and African Studies'', University of London, 1989, PDF ([http://www.khamkoo.com/uploads/9/0/0/4/9004485/uncles_and_aunts_-_burmese_kinship_and_gender.pdf read online] {{Webarchive|url=https://web.archive.org/web/20171011124940/http://www.khamkoo.com/uploads/9/0/0/4/9004485/uncles_and_aunts_-_burmese_kinship_and_gender.pdf |date=2017-10-11 }}).</ref> is added in front of the surname as a mark of the notoriety enjoyed,<ref>Daw Mi Mi Khaing, "Burmese Names: A guide", ''The Atlantic'', february 1958 ([https://www.theatlantic.com/magazine/archive/1958/02/burmese-names/306818/ read online]).</ref> for example, by [[U Nu]], [[U Pandita]] or [[U Thant]].
+
+In certain fields, such as tickers,<ref>Gordon T. Anderson, "On Wall St., alphabet is up for grabs :Big changes for three old-time firms mean their single-letter ticker symbols will soon be available", ''CNN'', 3 february 2005 ([http://money.cnn.com/2005/02/03/markets/ticker_symbols/ read online]).</ref><ref>Terri Cullen, "Why the Pandora Ticker Is Coveted", ''CNBC'', 15 june 2011 ([https://www.cnbc.com/id/43410893 read online]).</ref><ref>David Michaylu, "The rise and fall of single-letter ticker symbols", ''Business History'', vol. 50, no 3, 2008 (DOI 10.1080/00076790801968947).</ref> [[Ticker symbol|stock market mnemonics]] or [[Domain name|domain names]],<ref>"CO Internet Announces Historic First .co Domain Auction for the One Letter Domain Name 'e.co' with Proceeds to Benefit Charity", ''Business Wire'', 26 may 2010.</ref><ref>Andrew Allemann, "Yes, one letter domain names might be worth less than $1,000", ''Domain Name Wire'', 10 february 2014 ([http://domainnamewire.com/2014/02/10/yes-one-letter-domain-names-may-be-worth-less-than-1000/ read online]).</ref> their brevity and rarity lend them prestige.<ref>T. Clifton Green and Russell Jame, "Company name fluency, investor recognition, and firm value", ''Journal of Financial Economics'', no 109, 2013 ([https://pdfs.semanticscholar.org/2fc7/8dae0193311e2e13dbfda4d212f430e7ea91.pdf read online] {{Webarchive|url=https://web.archive.org/web/20180717212846/https://pdfs.semanticscholar.org/2fc7/8dae0193311e2e13dbfda4d212f430e7ea91.pdf |date=2018-07-17 }}).</ref><ref><sup>(fr)</sup> Stéphane Van Geld, "La folie des noms à 1 ou 2 caractères", ''Le Journal du net'', 1st september 2010 ([https://www.journaldunet.com/ebusiness/expert/48132/la-folie-des-noms-a-1-ou-2-caracteres.shtml read online]).</ref> The one-letter word can also be a form of [[euphemism]] to avoid the use of a shocking word.<ref>Allan Keith, "X-phemism and creativity", ''Lexis'', no 7, 2012 (DOI 10.4000/lexis.340).</ref><ref>Jeffrey S. Bowers and Christopher W. Pleydell-Pearce, "Swearing, Euphemisms, and Linguistic Relativity", ''PLOS One'', 20 july 2011 (DOI 10.1371/journal.pone.0022341)..</ref>
+
+One-letter words are also used extensively in [[SMS]], particularly when the [[Homophony|sound value]] of the letter is used, such as "g" for "''j'ai''" (in French) or "c" for "''c'est''"<ref>{{cite book|author1=Cédrick Fairon|author2=Jean René Klein|author3=Sébastien Paumier|date=2007|page=67|publisher=Presses universitaires de Louvain|title=Le langage sms. Étude d'un corpus informatisé à partir de l'enquête "Faites don de vos sms à la science"|isbn=9782874630484 |url=https://books.google.com/books?id=Kt2703p2a84C&pg=PA67}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref><sup>(fr)</sup> Louise-Amélie Cougnon, "Orthographe et langue dans les SMS: conclusions à partir de quatre corpus francophones", ''Études de linguistique appliquée'', no 160, 2010 ([https://www.cairn.info/revue-ela-2010-4-page-397.htm read online]).</ref> (in French); or "u" for "''you''" (in English), "r" for "''are''" (in English) or "c" for "''see''" (in English).<ref>{{cite book|author1=Louise-Amélie Cougnon|author2=Cédrick Fairon|date=2014|language=en|page=230|publisher=John Benjamins Publishing Company|title=SMS Communication: A linguistic approach|isbn=9789027270306 |url=https://books.google.com/books?id=IjfdAwAAQBAJ&pg=PA230}}<!-- auto-translated by Module:CS1 translator -->.</ref> However, diacritical letters are coded differently from one manufacturer to another, because, for example: ''â'', ''ë'' and ''ç'' cannot all be used at the same time within the 160-character limit, which makes the billing of messages containing them uncertain.<ref><sup>(fr)</sup> "SMS: chers caractères spéciaux", ''Que choisir'', 28 april 2010 ([https://www.quechoisir.org/actualite-sms-chers-caracteres-speciaux-n5049/ read online]).</ref>
+
+== In literature ==
+
+=== Work titles ===
+[[File:Hugues Merle - The Scarlet Letter - Walters 37172.jpg|alt=Portrait peint d'une femme adultérine tenant un bébé.|left|thumb|''[[The Scarlet Letter]]'' which features the letter ''A'' with a variable meaning.<ref>{{cite book|author=Janet M. Ellerby|date=2015|language=en|page=6|publisher=University of Michigan Press|title=Embroidering the Scarlet A: Unwed Mothers and Illegitimate Children in American Fiction and Film|isbn=9780472052639 |url=https://books.google.com/books?id=lGntBwAAQBAJ&pg=PA6}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|author=Gerald J. Bednar|date=1996|language=en|page=77|publisher=Rowman & Littlefield|title=Faith as Imagination: The Contribution of William F. Lynch|isbn=9781556129070 |url=https://books.google.com/books?id=Pl6-KiOstR8C&pg=PA77}}<!-- auto-translated by Module:CS1 translator -->.</ref>]]
+A character in [[James Joyce]]'s [[Ulysses (novel)|Ulysses]] speaks of books yet to be written:
+{{Block quote|text="You were bowing to the mirror, stepping forward, taking the applause, serious as a pope, very striking face. Hurray for the Sunday moron! Rra! No one would notice: you didn't tell anyone. The books you were going to write with letters as titles. Did you read his ''F?'' Oh yes, but I prefer ''Q''. Of course, but ''W'' is magnificent. Ah yes, ''W''."}}
+
+Unbeknownst to Joyce, ''F'' would be written by [[Daniel Kehlmann]] in 2013, ''[[Q (novel)|Q]]'' by [[Luther Blissett]] in 1999, and [[Georges Perec]]'s ''[[W, or the Memory of Childhood|W]]'', published in 1975, would describe a country "where sport and life merge in the same magnificent effort."
+
+Other literary works with one-letter titles include: ''A'' by [[Louis Zukofsky]], ''G'' by [[John Berger]], ''H'' by [[Philippe Sollers]], ''R'' by [[Céline Minard]], ''S'' by [[John Updike]], ''[[V.]]'' by [[Thomas Pynchon]] and ''Z'' by [[Vassilis Vassilikos|Vassílis Vassilikós]]. [[Jacques Roubaud]] also titled one of his books ''∈'', this [[Glossary of mathematical symbols|mathematical symbol]] of belonging being for him "by extension, a symbol of belonging to the world."{{refn|According to Jack Goody, this characteristic of X is evidence of the "logographic" origin of the alphabet: "the sign we write X, and which we use to mean 'cross', refers, in addition to the sound we associate with it, to a concept, an object and an action".|group=nb}}<ref>{{cite book|author-link1=Jacques Roubaud|first1=Jacques|last1=Roubaud|page=11|publisher=Gallimard|title=∈}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+
+Several films also have a single-letter title, such as [[Alexandre Arcady]]'s ''K'', [[Oliver Stone]]'s ''[[W. (film)|W.]]'', [[Fritz Lang]]'s ''[[M (1931 film)|M]]'' and its ''[[M (1951 film)|remake]]'' by [[Joseph Losey]], or [[Costa-Gavras]]' ''[[Z (1969 film)|Z]]'', based on the novel of the same name.{{refn|One-letter words are also used to categorize films according to their intended audience. At the end of the 1930s, the British Board of Film Classification introduced a new category, "H" (''Horrific''), for horror films, alongside "U" (''Universal''), for all audiences, and "A" (''Adult''), for adults. The Motion Picture Association of America's film classification system, instituted in 1968, distinguishes between "X" and "pornographic" films, "G" (''General'') films for all audiences, including children, "M" (''Mature'') films for all audiences but with parental consent for children, and "R" (''Restricted'') films, forbidden to children under 17 if unaccompanied. In India, the Central Board of Film Certification distinguishes between "U" (''Unrestricted Public Exhibition'') films for all audiences, "A" (''Adults'') films for adults only, and "S" (''Special class of persons'') films for specialized audiences, such as doctors or engineers.|group=nb}}<ref>{{cite web|language=en|title=One Letter Movies|url=https://www.imdb.com/list/ls073947731/|website=[[Internet Movie Database|IMDb]]}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+
+=== Poetic experiences ===
+[[File:Champ fleury 18r cropped.jpg|alt=Facsimilé de page|thumb|[[Anthropomorphism]] of the ''I'' in [[Geoffroy Tory]]<ref><sup>(fr)</sup> Jacques André (2002). ''[https://hal.inria.fr/file/index/docid/52231/filename/Renaissance.pdf De Pacioli à Truchet: trois siècles de géométrie pour les caractères]'' (PDF). IREM-Rennes. p. 6.</ref>.]]
+Several writers, such as [[Victor Hugo]],<ref name="VH">{{cite book|author=[[Victor Hugo]]|date=1969|page=715|publisher=Club français du livre|title=Œuvres complètes}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{harvsp|Genette|1976|p=387-388}}.</ref> [[Paul Claudel]]<ref>{{cite book|author=[[Paul Claudel]]|date=1955|page=454-457|publisher=Gallimard|title=Œuvres complètes}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{harvsp|Genette|1976|p=379-402}}.</ref> and [[Francis Ponge]],<ref><sup>(fr)</sup> Marcel Spada, "Mesure(s) du mot", in ''Francis Ponge'', Seghers, 1974.</ref><ref>{{harvsp|Genette|1976|p=431-436}}.</ref> have taken an interest in the letter as ideomimography. Various one-letter poems have prompted [[exegesis]] on their semantic value and whether or not they are words. This is particularly true of works by Russian poets of the futurist [[Zaum]] movement, including [[Vasilisk Gnedov]],<ref>Nils Åke Nilsson, "Vasilisk Gnedov's One-Letter Poems", in Elizabeth Mary Hill, Robert Auty, Lucian Ryszard Lewitter and  A. P. Vlasto, ''Gorski Vijenac: A Garland of Essays Offered to Professor Elizabeth Mary Hill'', Modern Humanities Research Association, 1970 ([https://books.google.fr/books?id=5RN485LBNFwC&pg=PA222 read online]), p. 220-223.</ref><ref>{{cite book|date=2000|first1=Crispin|language=en|last1=Brooks|publisher=University of Birmingham|title=The Futurism of Vasilisk Gnedov|isbn=9780704421387 |url=https://books.google.com/books?id=t_9fAAAAMAAJ&q=one+letter}}<!-- auto-translated by Module:CS1 translator -->.</ref> Aleksej Kručënyx<ref>Denis Crnković, "Symbol of Undetermined Faith: A Note on Aleksej Kručënyx’s Vowel Poem 'Heights'", ''Studi Slavistici'', no 7, 2010 ([http://www.fupress.net/index.php/ss/article/view/9201/8487 read online] {{Webarchive|url=https://web.archive.org/web/20190211213114/http://www.fupress.net/index.php/ss/article/view/9201/8487 |date=2019-02-11 }}).</ref> and [[Ilia Zdanevich]].<ref>{{cite web|author=Muriel Paris|title=Les mots en liberté, la lettre travaillée comme une image|url=http://classes.bnf.fr/ecritures/arret/page/textes_images/05.htm|website=Bibliothèque nationale de France}}<!-- auto-translated by Module:CS1 translator -->.</ref> American minimalist poet [[Aram Saroyan]] is the author of ''Untitled poster-poem'', a poem consisting of an m with four legs,<ref>{{cite book|author=Willard Bohn|date=2001|language=en|page=247|publisher=University of Delaware Press|title=Modern Visual Poetry|isbn=9780874137101 |url=https://books.google.com/books?id=FL2dhiMooj0C&pg=PA247}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{cite book|author=Marc Botha|date=2017|language=en|page=64|publisher=Bloomsbury Publishing|title=A Theory of Minimalism|url=https://books.google.com/books?id=qTUxDwAAQBAJ&pg=PA64}}<!-- auto-translated by Module:CS1 translator -->.</ref> which Bob Grumman places "at the center of an alphabet in formation, between the m and the n," cited by the [[Guinness World Records|Guinness Book of Records]] as the world's shortest poem.{{refn|''The Guinness Book of World Records'' stopped publishing such records in 2012, arguing that "the mere fact of competing for the title of 'shortest' was in itself a trivialization of the activity concerned".|group=nb}}<ref>{{cite book|author=Kanwar Dinesh Singh|date=2004|language=en|page=93|publisher=Sarup & Sons|title=New Explorations in Indian English Poetry|url=https://books.google.com/books?id=1Q4Y8xD4zYEC&pg=PA93}}<!-- auto-translated by Module:CS1 translator -->.</ref> Translating into English the [[Concrete poetry|concrete poem]] ''Ich'' by [[Vladimír Burda]], composed of the German word "Ich" (''I'' in German) topped by his fingerprint, Canadian poet John Curry reduces it to "i" (''I'' in English) formed from the shaft of an "i" topped by a dot-shaped fingerprint.<ref>endwar, "An eye for an I", ''dbqp: visualizing poetics'', no 1, 2008 ([http://dbqp.blogspot.com/2008/01/eye-for-i-by-endwar.html read online]).</ref>
+[[File:Poem Wrapping City Block 006.jpg|alt=Photo de P.J. Casteel|left|thumb|"[[Dave Morice|Joyce Holland]]".]]
+American poet [[Dave Morice]] estimated that English allows only fifty-two one-letter words: twenty-six upper case and twenty-six lower case.<ref>{{cite book|author=David Lehman|date=1996|language=en|page=155|publisher=University of Michigan Press|title=Ecstatic Occasions, Expedient Forms: 85 Leading Contemporary Poets Select and Comment on Their Poems|url=https://books.google.com/books?id=gBAq0ArQT5cC&pg=PA155}}<!-- auto-translated by Module:CS1 translator -->.</ref> He also indulged in a literary experiment in the 1970s, inventing a female "[[alter ego]]",<ref>{{cite web|language=en|title=Guide to the Dave Morice Papers|url=http://collguides.lib.uiowa.edu/?MSC0445#deetsDesc|website=University of Iowa Library}}<!-- auto-translated by Module:CS1 translator -->.</ref> Joyce Holland, a minimalist poet<ref>{{cite book|date=2000|first1=Richard|first2=H. R.|language=en|last1=Kostelanetz|last2=Brittain|page=443|publisher=Psychology Press|title=A Dictionary of the Avant-Gardes|url=https://books.google.com/books?id=M-GkvglXmfIC&pg=PT443}}<!-- auto-translated by Module:CS1 translator -->.</ref> played by his partner, P. J. Casteel, whose existence was acknowledged even by ''The'' ''[[The New York Times|New York Times]]''.<ref>William Cole, "One‐line Poems and Longer, but Not Much", ''New York Times'', 2 december 1973 ([https://www.nytimes.com/1973/12/02/archives/oneline-poems-and-longer-but-not-much-the-guest-word.html read online]).</ref><ref>Dave Morice, "The Joyce Holland Hoax", ''Exquisite Corpse'', 11 january 2008 ([http://www.corpse.org/index.php?option=com_content&task=view&id=664&Itemid=36 read online]).</ref> She published 13 issues of ''Matchbook'', a magazine of one-word poems stapled to matchbooks and sold for 5 cents.<ref>David Morice, "Matchbook Magazine: One-word poems", ''Word Ways'', vol. 45, no 3, august 2012.</ref><ref>David Morice, "The Joyce Holland Hoax", ''Word Ways'', vol. 45, no 3, august 2012.</ref> In 1973, in ''Alphabet Anthology'', Joyce Holland collected one-letter poems chosen for the occasion by 104 American poets,<ref>{{cite web|language=en|title=Alphabet anthology|url=http://digital.lib.uiowa.edu/cdm/ref/collection/icpub/id/805|website=University of Iowa Library|access-date=2023-10-17|archive-date=2018-07-09|archive-url=https://web.archive.org/web/20180709153951/http://digital.lib.uiowa.edu/cdm/ref/collection/icpub/id/805|url-status=dead}}<!-- auto-translated by Module:CS1 translator -->.</ref> including [[Bruce Andrews]] ("o"), [[Larry Eigner]] ("e") and [[Bernadette Mayer]] ("n").<ref>{{cite book|date=2003|first1=Lynn Marie|language=en|last1=Zott|page=285|publisher=Gale|title=The Beat Generation: Topics}}<!-- auto-translated by Module:CS1 translator -->.</ref> Joyce Holland had sent them a postcard featuring all 26 letters of the alphabet, in lower case, asking them to circle the letter of their choice and send it back to her.<ref name="aa">David Morice, "Alphabet Anthology: one-letter poems", ''Word Ways'', vol. 45, no 3, august 2012.</ref> The letter ''O'' was the most chosen (12), followed by ''A'' and ''G'' (8); nobody chose ''V'', and one contributor preferred to add a ''[[Thorn (letter)|Þ]]''.<ref name="aa" /><ref>{{cite book|date=1996|first1=David|language=en|last1=Lehman|page=155|publisher=University of Michigan Press|title=Ecstatic Occasions, Expedient Forms: 85 Leading Contemporary Poets Select and Comment on Their Poems|url=https://books.google.com/books?id=gBAq0ArQT5cC&pg=PA155}}<!-- auto-translated by Module:CS1 translator -->.</ref>
+
+=== Oulipo and one-letter poetry ===
+[[File:Hugo - le Y.jpg|alt=Facsimilé|thumb|[[Victor Hugo]]<ref>{{cite book|author=[[Jacques Roubaud]]|page=212|publisher=Le Seuil|title=Poétique. Remarques. Poésie, mémoire, nombre, temps, rythme, contrainte, forme, etc.|url=https://books.google.com/books?id=90nTCwAAQBAJ&pg=PT212}}<!-- auto-translated by Module:CS1 translator -->.</ref> research on the letter{{refn|Marc Lapprand notes Perec's interest in ideomimography. He gives as an example "the transformations [he] made to the W [...] successively into a swastika, an SS acronym, and even [into] the Jewish star (''W ou le souvenir d'enfance'', p. 106)". Hervé Le Tellier, for his part, points out that several Oulipiens are interested in a "formal remotivation of the letter".|group=nb}}<ref name="VH" />]]
+One-letter words play a role in the Oulipian<ref><sup>(fr)</sup> Carole Bisenius-Penin, "Essai d'une typologie de la poésie oulipienne", ''Poétique'', no 147, march 2006 (DOI 10.3917/poeti.147.0353).</ref> constraint, a form of rhopalic verse in which the first line consists of a one-letter word.<ref>{{cite book|author1=Elzbieta Tabakowska|author2=Christina Ljungberg|author3=Olga Fischer|date=2007|language=en|page=140|publisher=John Benjamins Publishing|title=Insistent Images|url=https://books.google.com/books?id=9YA6AAAAQBAJ&pg=PA140}}<!-- auto-translated by Module:CS1 translator -->.</ref> But above all, they are the subject of a notable experiment by [[François Le Lionnais]], dating from 1957 and published in ''[[La Littérature potentielle]]'' in 1973, of "Réduction d'un poème à une seule lettre". The poem was formulated as "T." On the following page, he comments:<ref><sup>(fr)</sup> François Le Lionnais, "Enchaînements et tentatives à la limite", in ''La Littérature potentielle'', Gallimard, 1973, p. 174-175.</ref>
+{{Block quote|text="I'm afraid that reducing a poem to a single letter is on the other side of permissible literature. But we can have fun, can't we? In any case, the author didn't want to repeat this performance. He left it to 25 of his colleagues to put together the complete set of 26 poems based - from the Latin alphabet - on this principle."}}This short poem has been the subject of "formidable glosses"<ref><sup>(fr)</sup> Coraline Soulier, "L’Oulipo : temps contraint", in ''Poésie brève et temporalité'', Presses universitaires du Septentrion, 2017 ([https://books.google.fr/books?id=uuQpDwAAQBAJ&pg=PA131 read online] [[https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fbooks.google.fr%2Fbooks%3Fid%3DuuQpDwAAQBAJ%26pg%3DPA131 archive]]), p. 131.</ref> within the Oulipo.
+
+In ''Écrits français'', [[Harry Mathews]] attempts a "textual explanation." He observes that "the only letter in the poem [...] is not a letter by itself, but a letter followed by a period. Punctuation transforms what would otherwise be a sufficient if mysterious entity into an ''abbreviation.''"<ref name=":1"><sup>(fr)</sup> Harry Mathews, "Écrits français", in ''La Bibliothèque oulipienne'', vol. 3, Seghers, 1990, p. 359-361.</ref> According to Harry Mathews, this is in fact a reduction of a device comparable to [[Raymond Queneau]]'s ''[[Hundred Thousand Billion Poems]].'' He designed, on the principle of perpetual motion, that the following sentence would be inscribed on the front and back of a page: "J'ai inventé le mouvement perpétuel T.S.V.P." (I invented perpetual motion T.S.V.P.). Bénabou then proceeded to make successive reductions, eventually inscribing only "T." on one side of a page.<ref name=":1" />
+
+In 2006, [[Marcel Bénabou]] resumed his analysis of the poem in ''Miniature persane''. While praising Harry Mathews' "learned commentary" on the point, he considers that "there is nothing to prevent from thinking that it could be [...] a period" and that "in the author's mind, there is a hesitation as to the exact nature of his 'attempt' and of the 'work' to which said attempt has led". For Bénabou, the choice of the letter ''T'' is explained primarily by personal reasons, but also by the characteristics of this consonant, which is at once homophonic, polyphonic and polysemous. Bénabou observes, however, that Le Lionnais "doesn't seem to have taken any notice" of the "properly oral" dimension of the one-letter word, and in this connection evokes an "oulipien debate" for which [[Jacques Bens]] proposed '''''I''''', which should read "un en chiffre romain et en garamond gras" or "one in Roman numerals and in bold garamond," as it were.{{refn|Hervé Le Tellier notes a variant also attributed to Jacques Bens: a, which should read "petit a en romain et en garamond gras" and notes the proximity of the rebus.|group=nb}} Finally, Bénabou recalls an anecdote told by [[Jean-Jacques Rousseau]] in his ''[[Confessions (Rousseau)|Confessions]]'':
+{{Block quote|text="I read that a wise bishop on a tour of his diocese found an old woman who for all her prayers knew only how to say ''O''. He said to her: Good mother, keep praying always like that; your prayer is better than ours".{{refn|The lesson cited by Marcel Bénabou is not universally accepted, with publishers and typographers hesitating over this letter. While "O" is the most common spelling, some editions give "Oh". The reference edition by Bernard Gagnebin and Marcel Raymond gives "Ô".|group=nb}}}}
+
+He believes that the reader should also assure Le Lionnais that his poem is worth more than he thinks, as it "in no way leads to a dead end, but on the contrary to fantastic enrichment."
+
+In 2007, [[Jacques Jouet]] finally responded to Le Lionnais' call, asking his Oulipo colleagues to "renew the gesture" by composing their own reduction.<ref name="JJ">{{harvsp|Oulipo|2007}}.</ref> Among the responses, [[François Caradec]] proposed reducing ''[[Un coup de dés jamais n'abolira le hasard (Mallarmé)|Un coup de dés jamais n'abolira le hasard]]'' to "D." [[Michelle Grangaud]], to reduce ''ruelle'' to "L." [[Paul Fournel]], "for strictly personal, emotional reasons," saw no other possibility than T." [[Olivier Salon]] reduced his poem to "P." [[Oskar Pastior]], after a quantitative analysis of [[Charles Baudelaire]]'s ''Harmonie du soir'', reduces it to "L." Anne F. Garréta proposed a prose narrative: "J." Harry Mathews, "K." both because this letter, like himself, "is only imperfectly integrated into the modern French language", and because it is "composed of three sticks," allowing it to be rearranged in order to construct twelve other letters.{{refn|Harry Mathews specifies: "with the three sticks, A, F, H, N, Z; with one or two, I, L, T, V, X, Y".|group=nb}}<ref name="JJ" />
+
+== Notes ==
+{{reflist|group=nb}}
+
+== References ==
+<references />
+
+== Bibliography ==
+
+* <sup>(fr)</sup> Antoine Arnauld and Claude Lancelot, ''Grammaire générale et raisonnée'', Le Petit, 1660 ([https://gallica.bnf.fr/ark:/12148/bpt6k50416g read online] [[https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k50416g archive]]).
+* <sup>(fr)</sup> Marcel Bénabou, ''La Miniature persane'', vol. 153, coll. "La Bibliothèque oulipienne", 2006.
+* <sup>(fr)</sup> Lewis Carroll (trad. Henri Parisot), ''De l'autre côté du miroir et ce qu'Alice y trouva'', Robert Laffont, coll. "Bouquins", 2003.
+* Craig Conley, ''One-Letter Words: A Dictionary'', Harper Collins, 2005.
+* <sup>(fr)</sup> Gérard Genette, ''Mimologiques'', Le Seuil, coll. "Points", 1976.
+* <sup>(fr)</sup> Hervé Le Tellier, ''Esthétique de l'Oulipo'', Le Castor astral, 2006.
+* <sup>(fr)</sup> Oulipo, ''D'une seule lettre'', vol. 165, coll. "La Bibliothèque oulipienne", 2007.
+
+== See also ==
+
+=== Related articles ===
+
+* [[Craig Brown (satirist)]]
+
+* [[:fr:Boule de neige (Oulipo)]]
+* [[Cratylism]]
+* [[List of short place names]]
+* [[Monogram]]
+* [[Acronym]]
+* [[:fr:Symbolisme des lettres]]
+
+[[Category:Literature]]
+[[Category:Words]]
+[[Category:Linguistics articles by importance]]
+[[Category:Languages]]
+[[Category:Syllabary writing systems]]

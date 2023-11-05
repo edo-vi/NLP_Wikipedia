@@ -1,0 +1,58 @@
+{{Use dmy dates|date=July 2021}}
+{{short description|Ecuadorian football referee}}
+{{family name hatnote|Moreno|Ruales|lang=Spanish}}
+{{Infobox football official
+| name               = Byron Moreno
+| image               = Byron Moreno (cropped).jpg
+| image_size          = 
+| caption             = Moreno in 2021
+| fullname            = Byron Aldemar Moreno Ruales
+| birth_date          = {{Birth date and age|1969|11|23|}}
+| birth_place         = [[Quito]], Ecuador
+| death_date          = <!-- Use {{Death date and age|YYYY|MM|DD|YYYY|MM|DD|df=y}} if dead (death date followed by birth date) -->
+| death_place         = 
+| otheroccupation     = 
+| years1              = {{0|0000}}–2003
+| league1             = [[Ecuadorian Serie A|Serie A]]
+| role1               = Referee
+| internationalyears1 = 1996–2003
+| confederation1      = [[FIFA International Referees List|FIFA listed]]
+| internationalrole1  = Referee
+| internationalyears2 =
+| confederation2      = 
+| internationalrole2  =
+}}
+'''Byron Aldemar Moreno Ruales''' (born November 23, 1969) is an Ecuadorian former [[Association football|football]] [[Referee (association football)|referee]] and convicted [[Illegal drug trade|drug trafficker]] who served in the [[FIFA World Cup]] as an [[FIFA referee|International Referee]] from 1996 to 2003.
+
+==Refereeing career==
+During the [[2002 FIFA World Cup]], Moreno refereed the [[2002 FIFA World Cup knockout stage#South Korea vs Italy|round of 16 match]] between tournament favourites [[Italy national football team|Italy]] and co-hosts [[South Korea national football team|South Korea]] on June 18. Following Italy's elimination from the tournament after a 2–1 extra time loss, Moreno's performance was criticised for several decisions: he awarded South Korea a controversial [[Penalty kick (association football)|penalty]] in the first half (which eventually failed to capitalise) and later disallowed a possible golden goal by [[Damiano Tommasi]] for offside, as well as showing a second yellow card to [[Francesco Totti]] for an arguable dive in South Korea's penalty area in the first half extra time while he was 37 meters away from play.<ref>{{cite news| url=http://news.bbc.co.uk/sport2/hi/football/2255952.stm | work=BBC News | title=Fifa investigates Moreno | date=13 September 2002}}</ref><ref name="Referees on Run">{{cite web|url=https://www.nytimes.com/2002/06/21/sports/sports-of-the-times-soccer-referees-on-run-and-they-can-t-hide.html|title=Soccer Referees on Run, and They Can't Hide|work=The New York Times|date=21 June 2002}}</ref>
+
+In September 2002, while seeking election to the [[Quito]] City Council, Moreno was suspended for twenty matches<ref>{{cite web |url=http://www.soccernet.com/global/news/2002/0911/20020911referee.html |title=Referee suspended for 20 matches |access-date=6 August 2006 |date=11 September 2002 |publisher=[[Soccernet]]}}</ref> and investigated by Ecuadorian football authorities.<ref>{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/2255952.stm |title=FIFA investigates Moreno |access-date=6 August 2006 |date=13 September 2002 |publisher=[[Soccernet]]}}</ref> This came after he made timekeeping errors in a match he officiated between [[L.D.U. Quito]] and [[Barcelona S.C.]] [[FIFA]] also investigated him due to controversies "...in Japan, Italy and South America over the past few months".<ref>{{cite news| url=http://news.bbc.co.uk/sport2/hi/football/2255952.stm | work=BBC News | title=Fifa investigates Moreno | date=13 September 2002}}</ref> 
+
+In May 2003, in his third game back from suspension, Moreno was again suspended, this time for one match, after he sent off three players from visiting [[Sociedad Deportivo Quito|Deportivo Quito]] in a 1&ndash;1 draw with [[Club Deportivo Cuenca|Deportivo Cuenca]].<ref>{{cite web |url=http://www.nzherald.co.nz/section/story.cfm?c_id=4&objectid=3503484 |title=Controversial ref suspended again |access-date=6 August 2006 |date=23 May 2003 |publisher=[[The New Zealand Herald]] |archive-date=27 March 2020 |archive-url=https://web.archive.org/web/20200327182841/https://www.nzherald.co.nz/ |url-status=dead }}</ref> He retired the following month, blaming low performance marks for his retirement.<ref>{{cite news |url=http://sportsillustrated.cnn.com/soccer/news/2003/06/10/latin_rdp/	|title=Ecuador ref Moreno complains at low marks |access-date=6 August 2006 |date=10 June 2003 |publisher=[[Sports Illustrated]] |archive-url=https://web.archive.org/web/20031016194126/http://sportsillustrated.cnn.com/soccer/news/2003/06/10/latin_rdp/ |archive-date=16 October 2003}}</ref>
+
+==Legal trouble==
+Moreno was arrested on September 21, 2010 at [[John F. Kennedy International Airport]] in [[New York City]] while trying to smuggle in six kilograms (over thirteen pounds) of [[heroin]], which was hidden in his underwear.<ref>{{cite web |url=http://www.repubblica.it/esteri/2010/09/21/news/moreno_arrestato-7299927/ |title=L'arbitro che eliminò l'Italia da Corea 2002 arrestato a New York con sei chili di eroina |access-date=21 September 2010 |date=21 September 2010 |publisher=[[La Repubblica]]}}</ref> In January 2011, he pleaded guilty to the charges in a New York courthouse, facing a possible ten years in prison.<ref name=autogenerated2>[http://www.goal.com/en-us/news/82/south-america/2011/01/13/2304681/ex-referee-byron-moreno-pleads-guilty-to-heroin-smuggling ''Ex-Referee Byron Moreno Pleads Guilty To Heroin Smuggling'']</ref> On September 23, 2011, Moreno was sentenced to two-and-a-half years in prison on the heroin smuggling charges.<ref>[http://sports.espn.go.com/new-york/soccer/news/story?id=7008635 ''Ex-referee sentenced to 2½ years'']</ref>
+He was released from prison 26 months later and returned to Ecuador.<ref>{{Cite web |url=http://elcomercio.com/seguridad/deportacion-byron-moreno-trafico-drogas_0_821917992.html |title="Byron Moreno enfrenta otra indagación" |access-date=4 December 2012 |archive-date=6 December 2012 |archive-url=https://web.archive.org/web/20121206050259/http://www.elcomercio.com/seguridad/deportacion-byron-moreno-trafico-drogas_0_821917992.html |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikinews|Former Ecuadorian football referee Byron Moreno arrested for drug smuggling}}
+
+*[https://web.archive.org/web/20020810173131/http://fifaworldcup.yahoo.com/en/t/rf/41050.html 2002 FIFA World Cup profile] (archive)
+
+{{2002 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Moreno, Byron}}
+[[Category:Ecuadorian football referees]]
+[[Category:Ecuadorian drug traffickers]]
+[[Category:Sports controversies]]
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:Copa América referees]]
+[[Category:People from Quito]]
+[[Category:2002 FIFA World Cup referees]]
+[[Category:People convicted of drug offenses]]
+[[Category:Sportspeople convicted of crimes]]

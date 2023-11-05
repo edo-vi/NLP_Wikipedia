@@ -1,0 +1,14 @@
+'''Cutaneous asthenia''' is a skin disorder caused by a [[collagen]] defect. [[Collagen]] is the protein that binds the cells of the [[dermis]] together.  It is also called dermatoproxy, hereditary skin fragility or ''cutis elastica'' ("elastic skin") and is found in humans, cats, dogs,<ref name="Maudlin 2015"/> mink, horses, cattle and sheep. In cattle and sheep, it is called dermatosparaxis<ref name="Hapler 2014">{{cite book|last1=Halper|first1=J|title=Progress in Heritable Soft Connective Tissue Diseases|chapter=Connective tissue disorders in domestic animals|series=Advances in Experimental Medicine and Biology|date=2014|volume=802|pages=231–40|doi=10.1007/978-94-007-7893-1_14|pmid=24443030|isbn=978-94-007-7892-4}}</ref> ('torn skin').  The skin is also abnormally fragile.  The skin flaps peel or slough off very easily, often without causing bleeding. This explains why cats with the condition suddenly "molt" their wings.{{citation needed|date=August 2017}}
+
+It is variously known as:
+*[[Ehlers–Danlos syndrome]] — humans
+*[[Hereditary equine regional dermal asthenia]] — horses
+*[[Feline cutaneous asthenia]] — cats<ref name="Maudlin 2015">{{cite book|last1=Maudlin|first1=EA|last2=Peters-Kennedy|first2=J|editor1-last=Maxie|editor1-first=G|title=Jubb, Kennedy & Palmer's Pathology of Domestic Animals|date=2015|publisher=Elsevier Health Sciences|isbn=9780702063190|pages=544–546|edition=6th|chapter=Chapter 6: Integumentary system. Congenital and hereditary diseases of skin}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Mammal diseases]]
+
+
+{{Veterinary-med-stub}}

@@ -1,0 +1,40 @@
+{{Short description|Species of single-celled organism}}
+{{Speciesbox
+| image = 
+| image_alt = 
+| image_caption = 
+| genus = Leucocytozoon
+| species = andrewsi
+| authority = Atchley, 1951
+| synonyms = 
+| synonyms_ref = 
+}}
+
+'''''Leucocytozoon andrewsi''''' is a parasite of the genus ''Leucocytozoon''.
+
+Like all ''Leucocytozoon'' species ''L. andrewsi'' has both [[vertebrate]] and [[insect]] hosts. The invertebrate hosts belong to the flies of the [[genus]] ''[[Simulium]]''. The vertebrate hosts for this parasite are [[chicken]]s.
+
+== Description ==
+The parasite was first described by Atchley in 1951.<ref>Atchley FO. (1951) ''Leucocytozoon andrewsi'' n. sp., from chickens observed in a survey of blood parasites in domestic animals in South Carolina. J. Parasitol. 37(5:1):483-488</ref>
+
+== Geographical occurrence ==
+This species is found in the [[United States|United States of America]].
+
+== Clinical features and host pathology ==
+This species infects chickens (''[[Gallus gallus domesticus]]'').
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q6534129}}
+
+[[Category:Haemosporida]]
+[[Category:Poultry diseases]]
+[[Category:Veterinary protozoology]]
+[[Category:Parasites of birds]]
+[[Category:Parasites of Diptera]]
+[[Category:Simulium]]
+
+
+{{Apicomplexa-stub}}
+{{veterinary-med-stub}}

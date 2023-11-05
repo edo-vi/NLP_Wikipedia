@@ -1,0 +1,19 @@
+{{Short description|Chinese - Korean aphrodisiac}}
+{{Orphan|date=April 2022}}
+
+'''Korean bug''' is a popular [[aphrodisiac]]<ref>{{cite book | vauthors = Acton QA |title=Issues in Pharmacology, Pharmacy, Drug Research, and Drug Innovation: 2013 Edition |date=1 May 2013 |publisher=ScholarlyEditions |isbn=978-1-4901-1057-8 |url=https://books.google.com/books?id=G2V4C9m67BcC&dq=use+of+KOREAN+BUG+as+aphrodisiac&pg=PA925 |access-date=21 December 2021 |language=en}}</ref> in [[China]], [[Korea]], and Southeast Asia,<ref>{{cite journal | vauthors = Lee JK, Tan RB, Chung E | title = Erectile dysfunction treatment and traditional medicine-can East and West medicine coexist? | journal = Translational Andrology and Urology | volume = 6 | issue = 1 | pages = 91–100 | date = February 2017 | pmid = 28217454 | pmc = 5313309 | doi = 10.21037/tau.2016.11.13 | doi-access = free }}</ref> either eaten alive or in gelatin form. The aphrodisiac effect has not been clinically tested and is achieved by [[cantharidin]] inhibition of [[Phosphodiesterase inhibitor|phosphodiesterase]], protein phosphatase activity and stimulation of adrenergic receptors, which leads to vascular congestion and inflammation.<ref name="pmid22696884">{{cite journal | vauthors = Pajovic B, Radosavljevic M, Radunovic M, Radojevic N, Bjelogrlic B | title = Arthropods and their products as aphrodisiacs--review of literature | journal = European Review for Medical and Pharmacological Sciences | volume = 16 | issue = 4 | pages = 539–47 | date = April 2012 | pmid = 22696884 | doi = | url = https://www.europeanreview.org/wp/wp-content/uploads/1364.pdf }}</ref> [[Cantharidin]] is an unreliable and dangerous aphrodisiac. Its impact is primarily based totally on stimulation of the urogenital tract, robust pelvic [[hyperaemia]] with consequent erection or a possible [[priapism]].<ref>{{cite book | vauthors = Sheppard CA, Prischmann DA |title=A world view of insects as aphrodisiacs, with special reference to Spanish fly |url=https://academic.oup.com/ae/article-pdf/48/4/208/18763150/ae48-0208.pdf |access-date=21 December 2021}}</ref>
+
+The bug is type of a beetle of ''[[Palembus dermestoides]]'' species. Medical studies have shown that it is a vector of causative agent of [[hymenolepiasis]].<ref>{{cite journal | vauthors = Butenandt A, Tam N |title=About a sex-specific fragnance of the water bug Belostoma indica vitalis (Lethocerus indcus Lep.) |date=1957 | journal = Hoppe-Seyler's Z Physiol Chem |pages=277–283|doi=10.1515/bchm2.1957.308.1.277 }}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Aphrodisiac foods]]
+[[Category:Chinese cuisine]]
+[[Category:Korean cuisine]]
+[[Category:Insects as food]]
+[[Category:Southeast Asian cuisine]]
+
+
+{{sex-stub}}
+{{alt-med-stub}}

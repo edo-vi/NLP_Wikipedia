@@ -1,0 +1,17 @@
+'''Spraddle leg''', also called '''splayed leg''', is a condition in [[poultry]] in which the legs of newly born [[Chicken|chicks]] are splayed laterally, meaning that they are unable to bear weight.
+==Causes==
+The cause has been attributed to a range of factors, although a slippery floor surface is most commonly implicated.<ref name="Hines">{{cite web|last1=Hines|first1=Ron|title=Correcting Spraddle or Splay Leg in Baby Birds|url=https://vetspace.2ndchance.info/bird-health-articles/correcting-spraddle-or-splay-leg-in-baby-birds/|website=2nd Chance|accessdate=3 October 2020}}</ref><ref>{{cite web|last1=Ryczek|first1=Hayley|title=How to Fix Splayed Leg or Spraddle Leg|url=http://www.healthstartsinthekitchen.com/2015/03/10/how-to-fix-splayed-leg-spraddle-leg/|website=Health Starts in the Kitchen|accessdate=11 January 2016}}</ref> 
+==Treatment==
+[[File:Chick with spraddle legs.jpg|thumb|chick with spraddle legs with elastic shackles and five days later]]
+Management focuses on the use of supports (or [[Legcuffs|shackles]]) to bring the legs back towards the midline.<ref name="Hines"/>
+
+==See also==
+* [[Chicken]]
+==References==
+{{Reflist}}
+
+[[Category:Poultry diseases]]
+
+
+{{Veterinary-med-stub}}
+{{poultry-stub}}

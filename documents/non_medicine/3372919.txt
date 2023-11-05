@@ -1,0 +1,19 @@
+{{short description|Disease of silkworms}}
+'''Flacherie''' (literally: "flaccidness") is a disease of [[silkworm]]s, caused by silkworms eating infected or contaminated [[mulberry]] leaves. Flacherie infected silkworms look weak and can die from this disease. Silkworm larvae that are about to die from Flacherie are a dark brown.
+
+There are two kinds of flacherie: essentially, infectious (viral) flacherie and noninfectious (''touffée'') flacherie. Both are technically a lethal [[diarrhea]].
+
+Touffée flacherie is caused by [[heat wave]]s.<ref>Fernando E. Vega and Harry K. Kaya, Academic Press, 2012,p. 427, [https://books.google.com/books?id=gg0sDWP-hhkC&dq=%22touffee+flacherie%22&pg=PA427 online].</ref>
+
+Viral flacherie is ultimately caused by infection with [[Bombyx mori infectious flacherie virus|''Bombyx mori'' infectious flacherie virus]] (BmIFV, [[Iflaviridae]]),  [[Bombyx mori densovirus|''Bombyx mori'' densovirus]] (BmDNV, [[Parvoviridae]]) or [[Cypovirus 1|''Bombyx mori'' cypovirus 1]] (BmCPV-1, [[Reoviridae]]). This either alone or in combination with [[bacteria]]l infection destroys the [[Gut (zoology)|gut]] tissue. Bacterial [[pathogen]]s contributing to infectious flaccherie are ''[[Serratia marcescens]]'', and species of ''[[Streptococcus]]'' and ''[[Staphylococcus]]'' in the form known as '''''thatte roga'''''.
+
+In the nineteenth century, flacherie resisted the efforts of [[Louis Pasteur]].<ref>G. Balbiani, ''Leçons sus les sporozoaires'', Paris, 1884, p. 160-163 and 167-168, [https://archive.org/details/leonssurlesspo00balb online].</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Insect viral diseases]]
+[[Category:Diseases of Lepidopterans]]
+
+
+{{Veterinary-med-stub}}

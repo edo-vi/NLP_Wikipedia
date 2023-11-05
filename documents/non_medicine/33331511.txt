@@ -1,0 +1,41 @@
+{{no footnotes|date=October 2011}}
+{{Virusbox
+| name = Turkey hepatitis virus
+| parent = Avihepatovirus
+| species = Avihepatovirus A
+| virus = Turkey hepatitis virus
+}}
+
+The aetiological agent of '''turkey viral hepatitis''' is a virus from the ''[[Picornaviridae]]'' family.
+
+The disease is restricted to [[Turkey (bird)|turkeys]] and is highly contagious but usually [[subclinical]]. It is usually present in young birds under the age of 6 weeks.
+
+It has been seen in Canada, Italy, the US and the UK.
+
+Transmission is thought to be via the [[Fecal–oral route|faeces]] and [[vertical transmission]] may also occur.
+__TOC__
+==Clinical signs and diagnosis==
+Affected turkeys may show systemic signs such as [[Anorexia (symptom)|anorexia]], [[lethargy]] and death. [[Hepatic encephalopathy]] occurs secondary to liver involvement.
+
+Egg hatching and production can be affected.
+
+Diagnosis relies on the isolation of the [[virus]] from samples of internal organs or the faeces inoculated into embryonated chicken eggs.
+
+The main [[necropsy]] findings are multiple necrotic lesions on the liver and sometimes the [[spleen]].
+
+==Treatment and control==
+There is no specific treatment for the condition.
+
+Control may rely on boosting bird immunity, preventing group mixing and faecal spreading.
+
+==References==
+* {{Cite web|url=http://en.wikivet.net/Turkey_Viral_Hepatitis|accessdate=10 July 2011|title=Turkey Viral Hepatitis - WikiVet English}}
+
+{{Taxonbar|from=Q7855173}}
+
+[[Category:Picornaviridae]]
+[[Category:Animal viral diseases]]
+[[Category:Bird diseases]]
+
+
+{{Veterinary-med-stub}}

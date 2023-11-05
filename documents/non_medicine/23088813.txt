@@ -1,0 +1,125 @@
+{{Short description|Chemical compound used in the treatment of tumors}}
+{{Infobox drug
+| type = <!-- empty -->
+| image = Toceranib.svg
+| width = 
+| alt = 
+| image2 = Toceranib molecule ball.png
+| width2 = 260
+| alt2 = Ball-and-stick model of the toceranib molecule
+| caption = 
+
+<!-- Clinical data -->
+| pronounce = 
+| tradename = Palladia
+| Drugs.com = {{drugs.com|vet|palladia}}
+| MedlinePlus = 
+| licence_EU = 
+| DailyMedID = Toceranib
+| licence_US = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_AU_comment = 
+| pregnancy_category= 
+| routes_of_administration = [[Oral administration|By mouth]]
+| class = [[Antineoplastic agent]]
+| ATCvet = yes
+| ATC_prefix = L01
+| ATC_suffix = EX90
+| ATC_supplemental = 
+
+<!-- Legal status -->
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_AU_comment = 
+| legal_BR = <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F -->
+| legal_BR_comment = 
+| legal_CA = Rx-only
+| legal_CA_comment = 
+| legal_DE = <!-- Anlage I, II, III or Unscheduled -->
+| legal_DE_comment = 
+| legal_NZ = <!-- Class A, B, C -->
+| legal_NZ_comment = 
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_UK_comment = 
+| legal_US = Rx-only
+| legal_US_comment = 
+| legal_EU = 
+| legal_EU_comment = 
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV -->
+| legal_UN_comment = 
+| legal_status = <!-- For countries not listed above -->
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 77%
+| protein_bound = 91%-93%
+| metabolism = 
+| metabolites = 
+| onset = 
+| elimination_half-life = 16 h
+| duration_of_action = 
+| excretion =
+
+<!-- Identifiers -->
+| index2_label = as salt
+| CAS_number = 356068-94-5
+| CAS_number2 = 874819-74-6
+| CAS_supplemental = 
+| PubChem = 5329106
+| PubChem2 = 16034840
+| IUPHAR_ligand = 
+| DrugBank = 
+| ChemSpiderID = 4486268
+| ChemSpiderID2 = 13163443
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 59L7Y0530C
+| UNII2 = 24F9PF7J3R
+| KEGG = D08503
+| KEGG2 = D08544
+| ChEBI = 
+| ChEMBL = 13608
+| ChEMBL2 = 2103833
+| NIAID_ChemDB = 
+| PDB_ligand = BWC
+| synonyms = 
+
+<!-- Chemical and physical data -->
+| IUPAC_name = 5-[(5''Z'')-(5-fluoro-2-oxo-1,2-dihydro-3''H''-indol-3-ylidene)methyl]-2,4-dimethyl-''N''-[2-(pyrrolidin-1-yl)ethyl]-1''H''-pyrrole-3-carboxamide
+| C=22 | H=25 | F=1 | N=4 | O=2 
+| SMILES = Fc1ccc2c(c1)/C(C(=O)N2)=C/c4c(c(C(=O)NCCN3CCCC3)c([nH]4)C)C
+| StdInChI = 1S/C22H25FN4O2/c1-13-19(12-17-16-11-15(23)5-6-18(16)26-21(17)28)25-14(2)20(13)22(29)24-7-10-27-8-3-4-9-27/h5-6,11-12,25H,3-4,7-10H2,1-2H3,(H,24,29)(H,26,28)/b17-12-
+| StdInChI_comment = 
+| StdInChIKey = SRSGVKWWVXWSJT-ATVHPVEESA-N
+| density = 
+| density_notes = 
+| melting_point = 
+| melting_high = 
+| melting_notes = 
+| boiling_point = 
+| boiling_notes = 
+| solubility = 
+| sol_units = 
+| specific_rotation = 
+}}
+
+'''Toceranib''' is a [[receptor tyrosine kinase]] inhibitor and is used in the treatment<ref name="pmid17227978">{{cite journal  |vauthors=London CA, Malpas PB, Wood-Follis SL, etal |title=Multi-center, Placebo-controlled, Double-blind, Randomized Study of Oral Toceranib Phosphate (SU11654), a Receptor Tyrosine Kinase Inhibitor, for the Treatment of Dogs with Recurrent (Either Local or Distant) Mast Cell Tumor Following Surgical Excision. |journal=Clin Cancer Res |volume=15 |issue=11 |pages=3856–65 |date=June 2009 |pmid=19470739 |doi= 10.1158/1078-0432.CCR-08-1860 |url=http://clincancerres.aacrjournals.org/cgi/content/abstract/15/11/3856|doi-access=free }}</ref> of canine [[mast cell]] tumor also called [[mastocytoma]]. Together with [[masitinib]] (Kinavet (US)/Masivet (EU/ROW) by AB Science), toceranib is the only dog-specific anti-[[cancer]] drug<ref>[http://www.cbsnews.com/stories/2009/06/03/eveningnews/main5060208.shtml  CBS News FDA Approves First-Ever Dog Cancer Drug]</ref> approved by the U.S. [[Food and Drug Administration]] (FDA).<ref>{{cite press release | title=FDA: First Drug to Treat Cancer in Dogs Approved | website=U.S. [[Food and Drug Administration]] (FDA) | date=3 June 2009 | url=https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm164118.htm | archive-url=https://web.archive.org/web/20100722024040/https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm164118.htm | archive-date=22 July 2010 | url-status=dead | access-date=2 October 2021}}</ref><ref>{{cite web | title=Palladia New Animal Drug Application | website=U.S. [[Food and Drug Administration]] (FDA) | date=22 May 2009 | url=http://www.fda.gov/downloads/AnimalVeterinary/Products/ApprovedAnimalDrugProducts/FOIADrugSummaries/UCM164091.pdf | archive-url=https://web.archive.org/web/20101116092912/http://www.fda.gov/downloads/AnimalVeterinary/Products/ApprovedAnimalDrugProducts/FOIADrugSummaries/UCM164091.pdf | archive-date=16 November 2010 | url-status=dead | access-date=2 October 2021}}</ref> It is sold under the brand name '''Palladia''' as its phosphate salt, '''toceranib phosphate''' ([[International Nonproprietary Name|INN]]) by [[Pfizer]]. It was developed by [[SUGEN]] as SU11654,<ref>{{cite news | title=In Trials for New Cancer Drugs, Family Pets Are Benefiting, Too | website=The New York Times | date=24 November 2006 | url=https://www.nytimes.com/2006/11/24/business/24cancer.html | access-date=2 October 2021}}</ref> a sister compound to [[sunitinib]], which was later approved for human therapies. Toceranib is likely to act mostly through inhibition of the [[C-kit|kit]] tyrosine kinase, though it may also have an [[Angiogenesis inhibitor|anti-angiogenic]] effect.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/name/toceranib | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Toceranib }}
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Fluoroarenes]]
+[[Category:Indoles]]
+[[Category:Pfizer brands]]
+[[Category:Pyrroles]]
+[[Category:Carboxamides]]
+[[Category:1-Pyrrolidinyl compounds]]
+[[Category:Dog medications]]
+
+
+{{antineoplastic-drug-stub}}
+{{Veterinary-med-stub}}

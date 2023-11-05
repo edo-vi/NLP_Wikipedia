@@ -1,0 +1,9 @@
+An [[Immune-mediated disease|immune mediated]] [[inflammation]] of the [[joints]] of an animal caused by a dysfunction of the [[immune system]], which attacks various components of the joint. This leads to variable degrees of [[synovitis]], and typically occurs in multiple joints (a [[polyarthritis]]). The condition is [[hereditary]] (e.g. [[beagles]]), and caused by defects at multiple [[Gene locus|gene loci]]. <ref name="Probs">{{cite web|url=http://clubs.akc.org/NBC/beagle_health_problems.htm |title=Beagle Health Problems |publisher=American Kennel Club |accessdate=13 July 2007 |archiveurl=https://web.archive.org/web/20070712194422/http://clubs.akc.org/NBC/beagle_health_problems.htm |archivedate=12 July 2007 |url-status=dead }}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Hereditary dog diseases]]
+
+
+{{veterinary-med-stub}}

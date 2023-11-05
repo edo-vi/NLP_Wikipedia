@@ -1,0 +1,14 @@
+'''Porcine zona pellucida''' ('''PZP''') is the [[zona pellucida]] extracted from the ovaries of [[pig]]s which is used as a source of [[antigen]]s for [[immunocontraception]].<ref>http://pzpinfo.org Wildlife forever</ref>
+
+The zona pellucida is a thick membrane that surrounds the unfertilised eggs of mammals. In order for an egg to be fertilised, sperm must first bind to, and then penetrate the zona pellucida. When porcine (pig) zona pellucida is injected into other mammals, antibodies are produced which attach to that animal's zona pellucida, preventing the sperm from attaching to the egg, therefore preventing fertilisation.
+
+Porcine zona pellucida has been used in [[wildlife contraceptive|wildlife contraception]] since the late 1980s. Animals with which PZP has been employed in this context include [[elephant]]s, [[Mustang (horse)|wild and/or feral horses]],<ref>{{cite web |url=http://www.fort.usgs.gov/wildhorsepopulations/contraception.asp |title=Reducing Population Growth Rates: Fertility Control in Wild Horse Mares |accessdate=2013-01-09 |url-status=dead |archiveurl=https://web.archive.org/web/20130201111124/http://www.fort.usgs.gov/WildHorsePopulations/Contraception.asp |archivedate=2013-02-01 }}</ref> [[Red Deer|elk]] and whitetailed [[deer]]. It can be administered to captured animals via a standard syringe or administered to free ranging wildlife with a [[Tranquillizer gun|dart gun]]. The contraceptive effect last for approximately one year in horses, and can potentially be extended by including a controlled-release PZP component.<ref>{{Cite journal|last=Turner|first=J. W.|last2=Liu|first2=I. K. M.|last3=Flanagan|first3=D. R.|last4=Bynum|first4=K. S.|last5=Rutberg|first5=A. T.|date=2002|title=Porcine zona pellucida (PZP) immunocontraception of wild horses (Equus caballus) in Nevada: a 10 year study|journal=Reproduction Supplement|volume=60|pages=177–186|issn=1477-0415|pmid=12220157}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Mammal female reproductive system]]
+[[Category:Veterinary drugs]]
+
+
+{{veterinary-med-stub}}

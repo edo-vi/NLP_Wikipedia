@@ -1,0 +1,22 @@
+'''Gastrointestinal campylobacteriosis''' is caused by ''[[Campylobacter jejuni]]'' or ''Campylobacter coli''. Although it is a commensal in the gastrointestinal tract of many species, it can cause diarrhea - mainly in young animals. It is most commonly seen in [[cattle]], but may also infect many other species, including [[Campylobacteriosis|humans]]. ''Campylobacter'' is spread [[Horizontal transmission|horizontally]] via the [[fecal-oral route]].<ref>Campylobacteriosis - Cattle, reviewed and published by Wikivet at http://en.wikivet.net/Campylobacteriosis_-_Cattle, accessed 24/08/2011.
+
+</ref>
+
+''[[Campylobacter fetus]]'' can also cause venereal disease and abortion in cattle.<ref>{{cite web|url=http://www.oie.int/fileadmin/Home/eng/Health_standards/tahm/2.04.05_BGC.pdf |title=Archived copy |accessdate=2012-09-21 |url-status=dead |archiveurl=https://web.archive.org/web/20140813002139/http://www.oie.int/fileadmin/Home/eng/Health_standards/tahm/2.04.05_BGC.pdf |archivedate=2014-08-13 }}</ref>
+__TOC__
+==Clinical signs and diagnosis==
+Calves normally suffer from a blood-flecked, thick, mucoid [[diarrhea]]. They may be [[pyrexia|pyrexic]], [[tachycardia|tachycardic]], or [[tachypnea|tachypneic]] and suffer weight loss. Adult cattle may show reproductive signs such as [[anoestrus]], irregular oestrus patterns, [[agalactia]], [[abortion]], and [[infertility]].{{cn|date=October 2022}}
+
+''Campylobacter ''infection can be confirmed by rising [[antibody titer]]s, culture on a selective medium, or histological examination. Specifically,  ''C. fetus'' can be detected from cervicovaginal mucus using an [[agglutination]] test or [[ELISA]].{{cn|date=October 2022}}
+
+==Treatment and control==
+''C. jejuni'' can be treated with the antibiotics [[erythromycin]] and [[tetracycline]]. The disease can be prevented with good husbandry and hygiene measures.{{cn|date=October 2022}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Bovine Campylobacteriosis}}
+[[Category:Bacterial diseases]]
+[[Category:Bovine diseases|Campylobacteriosis]]
+
+{{Veterinary-med-stub}}

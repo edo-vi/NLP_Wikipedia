@@ -1,0 +1,43 @@
+{{short description|American physician}}
+{{Infobox person
+| name               = Amy Foxx-Orenstein|
+| image_size         = 
+| caption            = 
+| birth_date         = 
+| birth_place        = 
+| death_date         = 
+| death_place        = 
+| education          = [[Des Moines University]] ([[Doctors of Osteopathic Medicine|DO]])
+| occupation         = [[Gastroenterologist]]
+| title              = 
+| spouse             = 
+| parents            = 
+| children           = 
+| nationality        = [[Americans|American]]
+| website            = 
+}}
+'''Amy Foxx-Orenstein, [[Doctor of Osteopathic Medicine|D.O.]], [[American College of Gastroenterology|FACG]]''' is an American [[Gastroenterology|gastroenterologist]]. She is an Associate Professor of Medicine at the [[Mayo Clinic College of Medicine]] a former president of the [[American College of Gastroenterology]] (2007–2008). Dr. Foxx-Orenstein is a fellow of the [[American College of Physicians]] as well as a fellow of the American College of Gastroenterology.<ref>{{cite web |url=http://gi.org/media/about-acg/ |title=About ACG &#124; American College of Gastroenterology |publisher=Gi.org |date= |accessdate=2012-05-26 |archive-url=https://web.archive.org/web/20190203085053/http://gi.org/media/about-acg/ |archive-date=2019-02-03 |url-status=dead }}</ref> She attended medical school at [[Des Moines University]] in [[Des Moines, Iowa]].<ref>{{cite web|url=http://www.mayoclinic.org/biographies/foxx-orenstein-amy-e-d-o/bio-20053433 |title=Researcher Profile: Foxx-Orenstein, Amy E, D.O |publisher=Mayo Clinic |accessdate=5 Nov 2015}}</ref> She completed [[internal medicine]] residency training at [[Geisinger Health System]] in Pennsylvania and gastroenterology fellowship at [[Virginia Commonwealth University]] Health System.<ref>{{cite web |title=Dr. Amy E. Foxx Orenstein, DO |url=https://health.usnews.com/doctors/amy-foxx-orenstein-256144#experience |website=U.S. News & World Report}}</ref>
+
+Dr. Foxx-Orenstein is the author of numerous scholarly articles on [[gastroenterology]].<ref>{{cite web|url=https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=PureSearch&db=pubmed&term=Foxx-Orenstein%20AE%5BAuthor%5D |title=Foxx-Orenstein AE[Author&#93; - PubMed - NCBI |publisher=Ncbi.nlm.nih.gov |date=2012-04-04 |accessdate=2012-05-26}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.mayoclinic.org/biographies/foxx-orenstein-amy-e-d-o/bio-20053433 Amy E. Foxx-Orenstein] D.O. Mayo Clinic researcher website.  Accessed March 15, 2008.
+*[http://www.acg.gi.org/physicians/about.asp About ACG]. American College of Gastroenterology website. Accessed March 15, 2008.
+*{{cite news |first=Dan |last=Hurley |date=October 2007 |title=Day in the Life...Amy Foxx-Orenstein, DO |url=http://www.gastroendonews.com/ViewArticle.aspx?d=Day+in+the+Life&d_id=180&i=October+2007&i_id=334&a_id=9083 |work=Gastroenterology & Endoscopy News |publisher=McMahon Publishing |volume=58 |page=10}}
+*{{PubMedAuthorSearch|Foxx-Orenstein|AE}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Foxx-Orenstein, Amy}}
+[[Category:American osteopathic physicians]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American gastroenterologists]]
+[[Category:Des Moines University alumni]]
+
+
+{{Osteo-med-stub}}
+{{US-physician-stub}}

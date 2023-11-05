@@ -1,0 +1,90 @@
+{{Short description|Family of roundworms}}
+{{Automatic taxobox
+| image = Strongylus vulgaris - parasite of horses 01.jpg
+| image_caption = ''[[Strongylus vulgaris]]''
+| taxon = Strongylidae
+| authority =
+| subdivision_ranks = Subfamilies
+| subdivision = 
+* [[Cyathostominae]]
+* [[Gyalocephalinae]]
+* [[Strongylinae]]
+}}
+
+'''Strongyles''' (from the Greek ''strongulos'', meaning round),<ref>{{cite web | title = strongyle | work = American Heritage Dictionary of the English Language: Fourth Edition | publisher = Bartleby.com | year = 2000 | url = http://www.bartleby.com/61/69/S0816900.html | access-date = 2007-05-13 }}</ref> or alternatively, '''strongyls''', are [[nematode|nematode worms]] of the family '''Strongylidae''', order [[Strongylida]]. They are often [[parasite|parasitic]] in the [[gastrointestinal tract]] of [[mammal]]s, especially [[grazing|grazers]] such as [[sheep]], [[cattle]] and [[horse]]s.
+
+==Genera==
+Genera:<ref name="GBIF">{{cite web |title=Strongylidae |url=https://www.gbif.org/species/2251 |website=www.gbif.org |access-date=22 November 2021 |language=en}}</ref>
+* ''[[Alocostoma]]'' <small>Mawson, 1979</small>
+* ''[[Bidentostomum]]'' <small>Tshoijo, 1957</small>
+* ''[[Borania]]'' <small>Ricci, 1939</small>
+* ''[[Caballonema]]'' <small>Abuladze, 1937</small>
+* ''[[Chabertiella]]'' <small>Tadros, 1964</small>
+* ''[[Chapiniella]]'' <small>Yamaguti, 1961</small>
+* ''[[Choniangium]]'' <small>Henry & Bauche, 1914</small>
+* ''[[Codiostomum]]'' <small>Railliet & Henry, 1911</small>
+* ''[[Coronocyclus]]'' <small>Hartwich, 1986</small>
+* ''[[Craterostomum]]'' <small>Boulenger, 1920</small>
+* ''[[Crycophorus]]'' <small>Chaves, 1930</small>
+* ''[[Cyathostomum]]'' <small>Molin, 1861</small>
+* ''[[Cylicocyclus]]'' <small>Ihle, 1922</small>
+* ''[[Cylicodontophorus]]'' <small>Ihle, 1922</small>
+* ''[[Cylicostephanus]]'' <small>Ihle, 1922</small>
+* ''[[Cylindropharynx]]'' <small>Leiper, 1911</small>
+* ''[[Decrusia]]'' <small>Lane, 1914</small>
+* ''[[Dicerocola]]'' <small>Round, 1962</small>
+* ''[[Equinurbia]]'' <small>Lane, 1914</small>
+* ''[[Eucyathostomum]]'' <small>Molin, 1861</small>
+* ''[[Gyalocephalus]]'' <small>Looss, 1900</small>
+* ''[[Hsiungia]]'' <small>K'ung & Yang, 1964</small>
+* ''[[Hudsonia (nematode)|Hudsonia]]'' <small>Leroux, 1940</small>
+* ''[[Hypodontus]]'' <small>Mönnig, 1929</small>
+* ''[[Javellia]]'' <small>Ricci, 1939</small>
+* ''[[Khalilia]]'' <small>Neveu-Lemaire, 1924</small>
+* ''[[Kiluluma]]'' <small>Skrjabin, 1916</small>
+* ''[[Macropicola]]'' <small>Mawson, 1978</small>
+* ''[[Macropostrongyloides]]'' <small>Yamaguti, 1961</small>
+* ''[[Maplestonema]]'' <small>Johnston & Mawson, 1939</small>
+* ''[[Murshidia]]'' <small>Lane, 1914</small>
+* ''[[Neomurshidia]]'' <small>Chabaud, 1957</small>
+* ''[[Oesophagodontus]]'' <small>Railliet & Henry, 1902</small>
+* ''[[Oesophagostomoides]]'' <small>Schwartz, 1928</small>
+* ''[[Oesophagostomum]]''
+* ''[[Paradoxostrongylus]]'' <small>Özdikmen, 2010</small>
+* ''[[Paramacropostrongylus]]'' <small>Johnson & Mawson, 1940</small>
+* ''[[Parapoteriostomum]]'' <small>Hartwich, 1986</small>
+* ''[[Parastrongyloides]]'' <small>Morgan, 1928</small>
+* ''[[Petrovinema]]'' <small>Erschov, 1943</small>
+* ''[[Phascolostongylus]]''
+* ''[[Phascolostrongylus]]'' <small>Canavan, 1931</small>
+* ''[[Poteriostomum]]'' <small>Quiel, 1919</small>
+* ''[[Quilonia]]'' <small>Lane, 1914</small>
+* ''[[Rhinocerotonema]]'' <small>Jiang, Yin & Kung, 1986</small>
+* ''[[Sauricola]]'' <small>Chapin, 1924</small>
+* ''[[Skladnikia]]'' <small>Ricci, 1939</small>
+* ''[[Strongylus (nematode)|Strongylus]]'' <small>Müller, 1780</small>
+* ''[[Theileriana]]'' <small>Monnig, 1924</small>
+* ''[[Tridentoinfundibulum]]'' <small>Tschoijo, 1958</small>
+* ''[[Triodontophorus]]'' <small>Looss, 1902</small>
+* ''[[Wuia]]'' <small>K'ung, 1959</small>
+* ''[[Zebrincola]]'' <small>Ricci, 1939</small>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Commons category-inline}}
+* [https://www.uniprot.org/taxonomy/27830 uniprot]
+
+{{Taxonbar|from=Q934758}}
+{{Authority control}}
+
+[[Category:Strongylidae| ]]
+[[Category:Nematode families]]
+[[Category:Parasitic nematodes of mammals]]
+[[Category:Parasites of equines]]
+[[Category:Veterinary helminthology]]
+
+
+{{Rhabditida-stub}}
+{{Veterinary-med-stub}}

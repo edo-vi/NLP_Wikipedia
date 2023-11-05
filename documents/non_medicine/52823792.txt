@@ -1,0 +1,31 @@
+{{Infobox Korean name
+| title      = ''Cheongsimhwan''
+| image      = Cheongsimhwan.jpg
+| hangul     = {{lang|ko|청심환}}
+| hanja      = {{lang|ko-Hant|{{linktext|淸}}{{linktext|心}}{{linktext|丸}}}}
+| rr         = cheongsimhwan
+| mr         = ch'ŏngshimhwan
+| koreanipa  = {{IPA-ko|tɕʰʌŋ.ɕim.ɦwan|}}
+| othername1 = 
+| hangul1    = {{lang|ko|우황청심환}}
+| hanja1     = {{lang|ko-Hant|{{linktext|牛黃}}{{linktext|淸}}{{linktext|心}}{{linktext|丸}}}}
+| koreanipa1 = {{IPA-ko|u.ɦwaŋ.tɕʰʌŋ.ɕim.ɦwan|}}
+| rr1        = uhwang-cheongsimhwan
+| mr1        = uhwang-ch'ŏngshimhwan
+| othername2 = 
+| hangul2    = {{lang|ko|청심원}}
+| hanja2     = {{lang|ko-Hant|{{linktext|淸}}{{linktext|心}}{{linktext|元}}}}
+| rr2        = cheongsimwon
+| mr2        = ch'ŏngshimwŏn
+| koreanipa2 = {{IPA-ko|tɕʰʌŋ.ɕim.wʌn|}}
+}}
+'''''Cheongsimhwan''''' ({{lang-ko|청심환}}, {{literal|clear-mind pill}}), also called '''''uhwang-cheongsimhwan''''' ({{lang|ko|우황청심환}}) and '''''cheongsimwon''''' ({{lang|ko|청심원}}), is a pill formulated with thirty odd herbs and other medicinal ingredients, including ''[[calculus bovis]]'', [[ginseng]], [[musk]], and [[Chinese yam]] root. It is used to treat various symptoms such as numb limbs and fit of [[apoplexy]], [[epilepsy]], and others in [[traditional Korean medicine]].<ref name="KELD">{{Cite web|url=https://krdict.korean.go.kr/eng/dicSearch/SearchView?nation=eng&ParaWordNo=79310|title=Cheongsimhwan|website=[[Korean-English Learners' Dictionary]]|publisher=[[National Institute of Korean Language]]|script-title=ko:청심환|access-date=10 January 2017|archive-date=10 January 2017|archive-url=https://web.archive.org/web/20170110090557/http://krdict.korean.go.kr/eng/dicSearch/SearchView?nation=eng&ParaWordNo=79310|url-status=live}}</ref><ref name="Oh">{{cite journal|last1=Oh|first1=Ji-Hyang|last2=Ahn|first2=Bo-Young|last3=Jo|first3=Min-Kyung|last4=Yoon|first4=Yeo-Ju|last5=Park|first5=Kyu-Hyun|last6=Na|first6=Duk L.|last7=Kim|first7=Eun-Joo|title=Obsessive-Compulsive Behavior Disappearing after Left Capsular Genu Infarction|journal=Case Reports in Neurology|date=January 2011|volume=3|issue=1|pages=18–20|doi=10.1159/000323667|pmid=21327181|url= |via=[[Karger Publishers|Karger]]|pmc=3037989}}</ref><ref name="Kim">{{cite news|last=Kim|first=Yea-rim|title=The World Loves Oriental Medicine: Traditional Korean medicine treats people based on what they eat, feel and the labor they engage in|url=http://www.koreaittimes.com/story/15392/world-loves-oriental-medicine|accessdate=5 July 2017|work=[[Korea IT Times]]|date=4 March 2014|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107030033/http://www.koreaittimes.com/story/15392/world-loves-oriental-medicine|url-status=live}}</ref><ref name="Seo">{{cite news|last1=Seo|first1=Dae-won|title=Brain conditions|url=http://www.koreaherald.com/view.php?ud=20130307001053|accessdate=5 July 2017|work=[[The Korea Herald]]|date=7 March 2013|language=en|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107030726/http://www.koreaherald.com/view.php?ud=20130307001053|url-status=live}}</ref>
+
+== References ==
+{{reflist}}
+
+{{alt-med-stub}}
+{{nervous-system-drug-stub}}
+
+[[Category:Traditional Korean medicine]]
+[[Category:Drugs]]

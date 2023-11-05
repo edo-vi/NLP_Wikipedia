@@ -1,0 +1,78 @@
+{{short description|American volleyball player}}
+{{Use mdy dates|date=July 2023}}
+{{Use American English|date=July 2023}}
+{{Infobox volleyball player
+| name         = Scott Touzinsky
+| image        = Scott Touzinsky.jpg
+| fullname     = Scott Joseph Touzinsky
+| birth_date   = {{Birth date and age|1982|4|22}}
+| birth_place  = [[St. Louis|St. Louis, Missouri]], U.S.
+| college      = California State University, Long Beach
+| death_date   = 
+| death_place  =  
+| height       = {{height|ft=6|in=6}}
+| position     = Outside hitter
+| currentclub  = 
+| currentnumber= 
+| years        = 
+| clubs        = 
+| nationalyears = 2007-2017
+| nationalteam = {{flagicon|USA}} [[United States men's national volleyball team|United States]]
+| medaltemplates-title = Medal record
+| medaltemplates =
+{{MedalSport|Men's [[volleyball]]}}
+[[File:Olympic rings.svg|center|80px]]
+{{MedalCountry|the {{USA}}}}
+{{MedalCompetition|[[Volleyball at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[2008 Summer Olympics|2008 Beijing]]|[[Volleyball at the 2008 Summer Olympics – Men's tournament|Team competition]]}}
+}}	
+'''Scott Joseph Touzinsky''' (born April 22, 1982) is an American [[volleyball]] player and coach. He was a member of the [[United States men's national volleyball team|U.S. national team]] 2007–2018. With the national team, Touzinsky played in the [[Volleyball at the 2008 Summer Olympics|2008 Beijing Olympics]] and won a gold medal.
+
+==Personal life==
+Touzinsky was born in [[St. Louis]] to Charles and Anne Touzinsky, who are of Polish origin.{{fact|date=July 2021}} He attended [[St. John Vianney High School (Kirkwood, Missouri)|St. John Vianney High School]] in [[Kirkwood, Missouri]], where he graduated in 2000.{{fact|date=July 2021}} In 2006, Touzinsky married Angelique Vogel, a promotional spokesmodel.<ref>{{Cite news|url=https://www.teamusa.org/usa-volleyball/athletes/Scott-Touzinsky|archive-url=https://web.archive.org/web/20150411014126/http://www.teamusa.org/usa-volleyball/athletes/Scott-Touzinsky|url-status=dead|archive-date=April 11, 2015|title=Scott Touzinsky|work=Team USA|access-date=2018-02-15|language=en}}</ref>
+
+==College career==
+Touzinsky attended [[California State University, Long Beach|Long Beach State]] and finished his career as the single-season ace leader. In 2004, his senior season, he was an [[AVCA]] First Team All-American and became the all-time ace leader for [[Long Beach State Beach men's volleyball|Long Beach State]]. In January 2004, he became just the third player in NCAA Division I-II to score 40 or more kills in an all rally-scoring match when he posted 40 versus [[BYU]]. He led the 49'ers to the 2004 [[NCAA Men's Volleyball Championship]] match, where they finished as runners-up to BYU. In addition, he was the 2001 MPSF Freshman of the Year and was a Second Team All-American in 2003.{{fact|date=July 2021}}
+
+==Professional career==
+In 2004, he [[Anterior cruciate ligament injury|tore]] his [[anterior cruciate ligament]] and was told he might never play volleyball at a professional level again. After six months, he returned to volleyball and was playing with a professional team in [[Belgium]].<ref>{{Cite web|url=http://www.nbcolympics.com/athletes/athlete=607/bio/index.html|title=Long Beach leader: NBC Olympics profile}}</ref> In January 2017, he announced his retirement from professional volleyball.<ref>{{Cite web |url=http://www.teamusa.org/USA-Volleyball/Features/2017/January/18/Mens-Update-Touzinsky-Retires |archive-url=https://web.archive.org/web/20170202050429/http://www.teamusa.org/USA-Volleyball/Features/2017/January/18/Mens-Update-Touzinsky-Retires |url-status=dead |archive-date=February 2, 2017 |title=Men's Update: Touzinsky Retires |last=EVANS |first=B.J. HOEPTNER |date=January 18, 2017}}</ref>
+
+==College coaching==
+Touzinsky was a Long Beach State assistant coach.<ref name="auto">{{Cite web|url=https://www.the562.org/2019/05/01/volleyball-world-comes-to-long-beach-for-ncaa-finals/|title=Volleyball World Comes To Long Beach For NCAA Finals|first=Mike|last=Guardabascio|date=May 1, 2019}}</ref>  
+
+===Suspension===
+He was suspended by [[USA Volleyball]] in July 2018 because of a pending investigation by the [[United States Center for SafeSport]].<ref>{{Cite web|url=https://www.ocregister.com/scott-touzinsky-leaves-long-beach-state-volleyball-program-after-sexual-misconduct-probe|title=Scott Touzinsky leaves Long Beach State volleyball program after sexual misconduct probe|date=April 25, 2019}}</ref><ref name="auto"/><ref>{{Cite web|url=https://www.latimes.com/sports/la-sp-long-beach-hawaii-ncaa-volleyball-championship-20190503-story.html|title=Long Beach State vs. Hawaii will be a battle of volleyball titans for national title|date=May 4, 2019|website=Los Angeles Times}}</ref> Since the NCAA does not fall under SafeSport jurisdiction, Touzinsky was not prohibited from coaching in college.<ref name="auto"/><ref>{{Cite web|url=https://www.ocregister.com/2020/01/22/why-arent-college-coaches-subject-to-safesport-bans-for-sexual-misconduct|title=Why aren't college coaches subject to SafeSport bans for sexual misconduct?|date=January 22, 2020}}</ref> The complaint against Touzinsky related to when Touzinsky was a player on the U.S. National Team.<ref name="auto"/> Touzinsky left the program in April 2019 after it was revealed he was sanctioned by SafeSport following an investigation into allegations of sexual misconduct.<ref>{{Cite web|url=https://www.presstelegram.com/hawaii-reviewing-mens-volleyball-coach-charlie-wades-sexual-misconduct-case|title=Hawaii reviewing men's volleyball coach Charlie Wade's sexual misconduct case|date=April 26, 2019}}</ref>
+
+==International competitions==
+*'''2008'''
+**[[Volleyball at the 2008 Summer Olympics|Olympic Games]] (gold medal)
+**[[2008 FIVB World League|FIVB World League]] (gold medal)
+**NORCECA Continental Olympic Qualifying Championship (gold medal)
+*'''2007'''
+**NORCECA Continental Championship (gold medal)
+*'''2003'''
+**World University Games (bronze medal)
+
+==References==
+<references />
+
+==External links==
+*{{USOPC profile|TO/Scott-Touzinsky}}
+{{United States men's volleyball squad 2008 Summer Olympics}}
+{{Footer USA Volleyball 2008 Summer Olympics}}
+
+{{DEFAULTSORT:Touzinsky, Scott}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from St. Louis]]
+[[Category:Long Beach State Beach men's volleyball players]]
+[[Category:American men's volleyball players]]
+[[Category:Olympic gold medalists for the United States in volleyball]]
+[[Category:Volleyball players at the 2008 Summer Olympics]]
+[[Category:American people of Czech descent]]
+[[Category:American people of Slovak descent]]
+[[Category:Medalists at the 2008 Summer Olympics]]
+[[Category:Expatriate volleyball players in Poland]]
+[[Category:Jastrzębski Węgiel players]]
+[[Category:Outside hitters]]
+[[Category:Sports controversies]]

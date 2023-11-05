@@ -1,0 +1,57 @@
+{{short description|Small opening or pore}}
+{{for multi|the genus of grasshoppers|Fenestra (grasshopper)||Fenestration (disambiguation)}}
+{{Wiktionary|fenestra|fenestration}}
+A '''fenestra''' ('''fenestration'''; {{plural form}}: '''fenestrae''' or '''fenestrations''') is any small opening or pore, commonly used as a term in the [[biology|biological sciences]].<ref>{{cite web|title=Fenestra - definition of fenestra in English {{!}} Oxford Dictionaries|url=https://en.oxforddictionaries.com/definition/fenestra|archive-url=https://web.archive.org/web/20171229052307/https://en.oxforddictionaries.com/definition/fenestra|url-status=dead|archive-date=December 29, 2017|website=Oxford Dictionaries {{!}} English}}</ref> It is the [[Latin]] word for "window", and is used in various fields to describe a pore in an [[anatomy|anatomical]] structure.
+
+== Biological morphology ==
+In [[morphology (biology)|morphology]], fenestrae are found in [[cancellous bone]]s, particularly in the [[Skull#Fenestrae|skull]].<ref name="Barr's HNS 2009"/> In [[anatomy]], the [[round window]] and [[oval window]] are also known as the ''fenestra rotunda'' and the ''fenestra ovalis''.<ref name="Dorland 1994"/> In [[microanatomy]], fenestrae are found in [[endothelium]] of [[Capillary#Fenestrated|fenestrated capillaries]], enabling the rapid exchange of [[molecule]]s between the blood and surrounding [[tissue (biology)|tissue]].<ref name="Krstić 1991"/> The [[internal elastic lamina|elastic layer]] of the [[tunica intima]] is a fenestrated membrane. In [[surgery]], a fenestration is a new opening made in a part of the body to enable drainage or access.
+
+== Plant biology and mycology ==
+{{multiple image
+ | align = right
+ | total_width = 320
+ | header =
+ | image1 = Phallus duplicatus Bosc 719417.jpg
+ | caption1 = ''Phallus duplicatus''
+ | image2 = Pulchrocladia retipora 98007710.jpg
+ | caption2 = ''Pulchrocladia retipora''
+}}
+In [[plant biology]], the perforations in a [[perforate leaf]] are also described as fenestrae, and the leaf is called a fenestrate leaf.  The [[leaf window]] is also known as a fenestra,<ref name="Beentje & Williamson 2010"/> and is a translucent structure that transmits light, as in ''[[Fenestraria]]''.
+
+Examples of fenestrate structures in the fungal kingdom include the symmetrically arranged gaps in the indusium ("skirt") of the mushroom ''[[Phallus duplicatus]]'',<ref name="Ulloa & Halin 2012"/> and the [[thallus]] of the coral lichen ''[[Pulchrocladia retipora]]''.<ref name="Stocker-Wörgötter & Elix 2006"/>
+
+== Zoology ==
+In [[zoology]], the trilobite ''[[Fenestraspis]]'' possessed extensive fenestrae in the posterior part of the body.<ref name="Holloway 2009"/> In the [[paleognathae]], there is an ilio–ischiatic fenestra.
+
+Fenestrae are also used to distinguish the three types of [[amniote]]:
+
+{{Blockquote|The ancestor of the amniotes is a primitive lizard, ''Hylonomus''. From this reptile, three groups of amniotes would evolve: anapsids, diapsids, and synapsids. These broad groupings of amniotes are most easily differentiated by the presence and number of holes in the skull behind the eye socket. Those gaps, or holes, are called fenestrae, meaning "windows." The anapsids are the most primitive members of the group. They have a complete skull, with no gaps. ... The diapsids [including lizards, dinosaurs, and birds] have two fenestrae in their skulls, one directly behind the eye socket and one just slightly above. [160] The synapsids [including mammals] have just one fenestra, behind the eye socket.<ref>Sutherland, Stuart. ''A New History of Life'': ''Course Guidebook''. Chantilly VA: The Great Courses, 2013. 160-61.</ref>}}
+
+== See also ==
+* [[Fenestron]], a shrouded tail rotor of a helicopter
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Barr's HNS 2009">{{cite book |last1=Kiernan |first1=J.A. |last2=Barr |first2=Murray Llewellyn |title=Barr's the Human Nervous System: An Anatomical Viewpoint |publisher=Wolters Kluwer Health/Lippincott Williams & Wilkins |publication-place=Philadelphia |year=2009 |isbn=978-0-7817-8256-2 |oclc=219262888 |page=320}}</ref>
+
+<ref name="Beentje & Williamson 2010">{{cite book |last1=Beentje |first1=H. |last2=Williamson |first2=J. |year=2010  |title=The Kew Plant Glossary: An Illustrated Dictionary of Plant Terms |publisher=Kew Publishing |location=Royal Botanic Gardens, Kew |page=47}}</ref>
+
+<ref name="Dorland 1994">{{cite dictionary |last=Dorland |first=W. A. Newman |title=Dorland's Illustrated Medical Dictionary |edition=28th |publisher=Saunders |publication-place=Philadelphia |year=1994 |isbn=978-0-7216-2859-2 |oclc=30948606 |page=615}}</ref>
+
+<ref name="Holloway 2009">{{cite journal |first1=David J. |last1=Holloway |first2=Maria da Gloria Pires de |last2=Carvalho |year=2009 |title=The extraordinary trilobite ''Fenestraspis'' (Dalmanitidae, Synphoriinae) from the Lower Devonian of Bolivia |journal=[[Palaeontology (journal)|Palaeontology]] |volume=52 |issue=4 |pages=933–949 |doi=10.1111/j.1475-4983.2009.00878.x |bibcode=2009Palgy..52..933H |doi-access=free}}</ref>
+
+<ref name="Krstić 1991">{{cite book |last1=Krstić |first=Radivoj V. |title=Human Microscopic Anatomy: An Atlas for Students of Medicine and Biology |publisher=Springer Berlin Heidelberg |publication-place=Berlin, Heidelberg |year=1991 |isbn=978-3-662-02676-2 |oclc=851388484 |page=56}}</ref>
+
+<ref name="Stocker-Wörgötter & Elix 2006">{{cite journal |last1=Stocker-Wörgötter |first1=Elfie |last2=Elix |first2=John A. |year=2006 |title=Morphogenetic strategies and induction of secondary metabolite biosynthesis in cultured lichen-forming Ascomycota, as exemplified by ''Cladia retipora'' (Labill.) Nyl. and ''Dactylina arctica'' (Richards) Nyl. |journal=Symbiosis |volume=40 |pages=9–20 |url=https://dalspace.library.dal.ca/bitstream/handle/10222/78197/VOLUME%2041-NUMBER%201-2006-PAGE%209.pdf?sequence=1}}</ref>
+
+<ref name="Ulloa & Halin 2012">{{cite book |last1=Ulloa |first1=Miguel |last2=Halin |first2=Richard T. |title=Illustrated Dictionary of Mycology |edition=2nd |year=2012 |publisher=The American Phytopathological Society |location=St.&nbsp;Paul, Minnesota |isbn=978-0-89054-400-6 |page=220}}</ref>
+
+}}
+
+[[Category:Anatomy]]
+[[Category:Biology]]
+[[Category:Angiology]]
+[[Category:Fungal morphology and anatomy]]
+
+[[sv:Fenestrae]]

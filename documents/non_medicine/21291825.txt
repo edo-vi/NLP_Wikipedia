@@ -1,0 +1,28 @@
+{{Short description|Epidemiologic metric}}
+'''Number needed to vaccinate''' ('''NNV''') is a metric used in the evaluation of [[vaccine]]s,<ref name="pmid15149776">{{cite journal |vauthors=Kelly H, Attia J, Andrews R, Heller RF |title=The number needed to vaccinate (NNV) and population extensions of the NNV: comparison of influenza and pneumococcal vaccine programmes for people aged 65 years and over |journal=Vaccine |volume=22 |issue=17–18 |pages=2192–2198 |date=June 2004 |pmid=15149776 |doi=10.1016/j.vaccine.2003.11.052 }}</ref><ref name="pmid19009921">{{cite journal |author=Brisson M |title=Estimating the number needed to vaccinate to prevent herpes zoster-related disease, health care resource use and mortality |journal=Can J Public Health |volume=99 |issue=5 |pages=383–386 |year=2008 |pmid=19009921 |doi= 10.1007/BF03405246|pmc=6976184 }}</ref><ref name="pmid17766517">{{cite journal |vauthors=Lewis EN, Griffin MR, Szilagyi PG, Zhu Y, Edwards KM, Poehling KA |title=Childhood influenza: number needed to vaccinate to prevent 1 hospitalization or outpatient visit |journal=Pediatrics |volume=120 |issue=3 |pages=467–472 |date=September 2007 |pmid=17766517 |doi=10.1542/peds.2007-0167 |s2cid=25894405 |url=http://pediatrics.aappublications.org/cgi/pmidlookup?view=long&pmid=17766517}}</ref> and in the determination of vaccination policy. It is defined as the average number of patients that must be vaccinated to prevent one case of disease. It is a specific application of the [[number needed to treat]] metric (NNT).
+
+==Derivation==
+NNV is the inverse of the [[Risk difference|absolute risk reduction]] of the vaccine. If the incidence in the vaccinated population is <math>I_e</math>, and the incidence in the unvaccinated population is <math>I_u</math>, then the NNV is <math>1/(I_u - I_e)</math>.
+
+For example, one study reported a number needed to vaccinate of 5206 for invasive [[pneumococcal]] disease.<ref name="pmid18433473">{{cite journal  |vauthors=Mooney JD, Weir A, McMenamin J, etal |title=The impact and effectiveness of pneumococcal vaccination in Scotland for those aged 65 and over during winter 2003/2004 |journal=BMC Infect. Dis. |volume=8|pages=53 |year=2008 |pmid=18433473 |pmc=2386805 |doi=10.1186/1471-2334-8-53 |doi-access=free }}</ref>
+
+==Significance==
+In order to determine a NNV, it is necessary to identify a specific population and a defined endpoint, because these can vary:{{cn|date=March 2022}}
+* [[Tuberculosis]] vaccination rates are much higher in Europe than in the United States.
+* When evaluating a vaccine against [[chickenpox]], it is necessary to define whether or not the endpoint would include shingles due to reactivation.
+* If evaluating a [[HIV vaccine]], the NNV may vary depending upon the expected standard of care in the absence of a vaccine, which may vary from continent to continent.
+* If an infectious disease is acute and highly lethal, there may be large differences in the impact of the vaccine upon [[Incidence (epidemiology)|incidence]] and [[prevalence]].
+
+Despite the limitations, the NNV can serve as a useful resource. For example, it can be used to report the results of computer simulations of varying vaccination strategies.<ref name="pmid15297068">{{cite journal |vauthors=Van Rie A, Hethcote HW |title=Adolescent and adult pertussis vaccination: computer simulations of five new strategies |journal=Vaccine |volume=22 |issue=23–24 |pages=3154–65 |date=August 2004 |pmid=15297068 |doi=10.1016/j.vaccine.2004.01.067 }}</ref>
+
+==See also==
+* [[Number needed to treat]]
+
+==References==
+{{reflist|2}}
+
+{{Vaccines}}
+
+[[Category:Vaccination]]
+[[Category:Medical statistics]]
+[[Category:Epidemiology]]

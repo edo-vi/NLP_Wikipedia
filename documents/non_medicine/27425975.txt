@@ -1,0 +1,22 @@
+[[File:Polarizing microscope.ogv|thumb|upright=1.2|Polarizing microscope operating principle]]
+[[File:Non-Biting Diptera Midge Larva.jpg|thumb|right|upright=1.2|Depiction of internal organs of a [[midge]] larva via [[birefringence]] and polarized light microscopy]]
+
+'''Polarized light microscopy''' can mean any of a number of [[optical microscopy]] techniques involving [[polarized light]]. Simple techniques include illumination of the sample with polarized light. Directly transmitted light can, optionally, be blocked with a polariser orientated at 90 degrees to the illumination. More complex microscopy techniques which take advantage of polarized light include [[differential interference contrast microscopy]] and [[interference reflection microscopy]]. Scientists will often use a device called a polarizing plate to convert natural light into polarized light.<ref>{{cite web |url=http://research.physics.berkeley.edu/yildiz/Teaching/PHYS250/Lecture_PDFs/polarization%20microscopy.pdf |title=Basics of Polarizing Microscopy |publisher=Olympus |access-date=15 December 2016 |archive-url=https://web.archive.org/web/20161215160659/http://research.physics.berkeley.edu/yildiz/Teaching/PHYS250/Lecture_PDFs/polarization%20microscopy.pdf |archive-date=15 December 2016 |url-status=live}}</ref>
+
+These illumination techniques are most commonly used on [[birefringent]] samples where the polarized light interacts strongly with the sample and so generating contrast with the background. Polarized light microscopy is used extensively in [[optical mineralogy]].
+
+Although the invention of the polarizing microscope is typically attributed to [[David Brewster]] around 1815, Brewster clearly acknowledges the priority of [[Henry Fox Talbot]], who published his work in 1834.<ref>{{cite book|author=David Brewster|title=A Treatise on the Microscope|url=https://books.google.com/books?id=B1yTnAEACAAJ|access-date=4 January 2021|year=2021|publisher=Thomas Allan}}</ref><ref>{{Cite journal| author = William Henry Fox Talbot | title = XLIV. Experiments on light | journal = The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science | year = 1834 | volume = 5 | issue = 29 | pages = 321–334 | doi = 10.1080/14786443408648474 | url = https://zenodo.org/record/2136490 }}</ref>
+
+==See also==
+* [[Interference colour chart|Michel-Lévy interference colour chart]]
+* [[Petrographic microscope]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://toutestquantique.fr/en/polarizing/ Polarized light microscope] (Université Paris Sud)
+
+[[Category:Geology]]
+[[Category:Optical microscopy techniques]]
+[[Category:Petrology]]

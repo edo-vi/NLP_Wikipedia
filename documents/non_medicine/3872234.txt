@@ -1,0 +1,132 @@
+{{short description|North Korean gymnast}}
+{{Distinguish|Kim Kwang-seok (disambiguation){{!}}Kim Kwang-seok|Kim Kwang Suk (singer)}}
+{{family name hatnote|Kim||lang=Korean}}
+{{Infobox gymnast
+|name            = Kim Gwang-suk
+|image           =
+|imagesize       = 
+|caption         = 
+|nickname        = 
+|country         = {{PRK}}
+|formercountry   = 
+|birth_date      = {{birth date and age|1976|2|15|df=y}} <br /> {{birth date and age|1978|2|15|df=y}} (year disputed)
+|birth_place     = 
+|hometown        = 
+|death_date      = 
+|death_place     = 
+|height          = 
+|discipline      = WAG
+|level           = Senior International
+|natlteam        = 
+|club            = 
+|gym             = 
+|collegeteam     = 
+|headcoach       = Kim Chun-phi
+|assistcoach     =
+|formercoach     =
+|choreographer   =
+|music           =
+|eponymousskills = Counter-Kim (uneven bars)
+|retired         = 1993
+|show-medals = yes
+|medaltemplates  = <!-- see [[Template:MedalRelatedTemplates]] -->
+{{MedalCompetition | [[World Artistic Gymnastics Championships|World Championships]]}}
+{{MedalGold|[[1991 World Artistic Gymnastics Championships|1991 Indianapolis]]|Uneven bars}}
+{{MedalCompetition | [[Asian Games]]}}
+{{MedalSilver|[[1990 Asian Games|1990 Beijing]]|Team}}
+{{MedalSilver|[[1990 Asian Games|1990 Beijing]]|Uneven bars}}
+{{MedalBronze|[[1990 Asian Games|1990 Beijing]]|All-around}}
+}}
+{{Infobox Korean name
+| hangul  = 김광숙
+| hanja   = 
+| rr      = Gim Gwangsuk
+| mr      = Kim Kwangsuk
+| context = North
+}}
+
+'''Kim Gwang-suk''' (alternative transliteration '''Kim Kwang-suk''', {{Korean|김광숙}}; born 15 February, year unknown; 1976 or 1978 theorized) is a [[North Korea]]n female [[gymnast]] who competed in the [[1992 Summer Olympics]]. She is known for both her exemplary [[uneven bars]] work and for her involvement in one of the most prominent [[Age controversies in gymnastics|age falsification scandals]] in gymnastics in recent years.
+
+Kim competed in several major international senior meets between 1989 and 1993, including the 1989 and 1991 World Championships, the 1990 [[Asian Games]] and the [[1992 Summer Olympics|1992 Olympics]] in [[Barcelona]]. She was the 1991 World Champion on the uneven bars, winning the event with a perfect 10.0 score and a routine that included an original release move, the Counter-Kim. Her ten would be the last to ever be awarded in World Championship competition.
+
+Due to her small stature and the fact that the North Korean Gymnastics Federation listed her given age as 15 for three consecutive years, questions arose about Kim's age and eligibility for senior competition. By at least one estimate, she was as young as 11 when she competed at the 1989 World Championships. While her real age was never ascertained, it was discovered that the Federation had submitted inconsistent birth year information for her at least three times at three separate international competitions. As a result of the falsification, the North Korean women's gymnastics team was banned from the 1993 World Championships.{{cite needed|date=September 2021}}
+
+== Gymnastics career ==
+Kim was trained by coach Kim Chun-phi<ref>{{Cite web |url=http://www.kcckp.net/en/periodic/korea/index.php?contents+1568+2006-12+58+18 |title=Profile of Hong Un-Jong, ''Pyongyang Times'', Ri Hak-Myong |access-date=2007-07-18 |archive-url=https://web.archive.org/web/20070930050437/http://www.kcckp.net/en/periodic/korea/index.php?contents+1568+2006-12+58+18 |archive-date=2007-09-30 |url-status=dead }}</ref> and was appearing on the international competitive circuit as early as 1987, when she performed at the Junior Friendship Tournament (Druzhba), winning a bronze medal on the uneven bars.<ref>https://www.youtube.com/watch?v=Um6H4CF7R4Y Home video footage of Kim at the 1987 Druzhba meet</ref><ref name="bio">[http://www.gymn-forum.net/bios/women/kim_gwang_suk.html Biography and list of results] Gymn-Forum</ref> She continued on to other international meets at both the junior and senior levels, including the 1988 Cottbus Cup, part of the World Cup circuit, where she placed a modest 17th in the all-around, and that year's Druzhba meet, where she once again placed third on bars and won an additional bronze with the North Korean team.<ref name=bio />
+
+The following year, 1989, Kim participated in the [[1989 World Artistic Gymnastics Championships|World Championships]] with the North Korean team. While she finished out of the medals on every event, her innovative uneven bars routine attracted attention. Her set would still be considered exceptionally difficult by modern standards, with intricate combinations of pirouettes and releases. Kim also performed her own original release move, a Tkatchev-front flip toward the high bar. The skill came to be known in the ''[[Code of Points (artistic gymnastics)|Code of Points]]'' as the Counter-Kim; as of the 2008 ''Code of Points,'' it was classified as a difficult 'F' element. In 1990 Kim won a silver medal on bars and finished 4th on beam at the [[Asian Games]] in [[Beijing]].
+
+Kim's efforts were finally rewarded at the [[1991 World Artistic Gymnastics Championships|1991 World Championships]], where she earned the uneven bars gold medal in event finals with a perfect 10.0 score. She was expected to challenge for bars gold at the Barcelona Olympics in 1992, however, a step on her dismount kept her in fourth place (tied with two Romanians, [[Lavinia Miloşovici]] and [[Mirela Paşca]]), just out of the medals. Her final major competition was the 1993 [[East Asian Games]], where she won the uneven bars title. Her score was initially given at 9.912, which kept her in second place behind China's Luo Li (who went on to win the uneven bars world title in 1994). North Korean team officials filed a protest and Kim's score was adjusted to 9.925, giving Kim a tie for the gold with Luo.<ref name=bio />
+
+== Age falsification scandal ==
+While the gymnastics community praised Kim's performances, they also questioned her age: Kim was tiny even by gymnastics standards, and many people believed she was too young for senior competition.
+
+At the 1991 Worlds, television commentators made several remarks about Kim's supposed age of 15.<ref name="ReferenceA">ABC-TV coverage of the 1991 World Championships event finals</ref> When Kim appeared at the Olympics the following year with missing front teeth, standing 4'4", weighing 62 pounds and claiming to be 17 years old, the skepticism grew, with several officials and coaches publicly voicing their doubts,<ref name="ReferenceB">NBC coverage of the 1992 Olympics team compulsories</ref> to the point where [[NBC]] mentioned the controversy in their television broadcasts to American audiences.<ref>NBC-TV coverage of the 1992 Olympics event finals</ref><ref name=nytnew>[https://www.nytimes.com/2008/07/27/sports/olympics/27gymnasts.html?_r=2&hp&oref=slogin&oref=slogin "Issues of Age Seem to Follow Chinese Gymnasts"], Jere Longman, Juliet Macur. ''The New York Times'', July 27, 2008</ref>
+
+It was eventually discovered that North Korean officials had falsified Kim's birth year at least three occasions, supplying different information at different competitions. The forgeries had been inconsistent at best, as Kim's age was given as 15 for three consecutive years, but at the Barcelona Olympics in July 1992, her age jumped to 17.<ref name="nytnew" /><ref name="iht">[https://web.archive.org/web/20080824173513/http://www.iht.com/articles/1996/04/19/gym.t.php "Gold Medalist and His Team May Be Barred From Olympic Games : Last Chance for a North Korean Athlete"], Christopher Clarey, ''International Herald Times'', Friday, April 19, 1996</ref> By at least one estimate, she was no older than 11 or 12 when she competed at the 1989 World Championships,<ref name="iht" /> and at the team portion of the 1992 Olympics, [[Béla Károlyi]] suggested she may have been as young as 10 at the time: he remarked, "Her [[baby teeth|milk teeth]] are falling out, which is a good indication she's not even 11."<ref name="ReferenceB" /> Kim's coaches claimed that she had lost her teeth in a training mishap several years before the Olympics,<ref name="ReferenceB"/> and this story was corroborated by photographs from past events, witnesses and video footage of Kim without teeth at the 1991 Worlds.<ref name="ReferenceA"/> However, this did nothing to explain the other mounting inconsistencies surrounding Kim's age.
+
+The FIG punished the North Korean gymnastics federation by barring their women's team from competing at the [[1993 World Artistic Gymnastics Championships|1993 World Championships]].<ref name="iht" /> Kim, however, was permitted to keep the medals she had won in international events, including her 1991 World Championships gold, as she was determined to have no involvement or knowledge in the fraud.
+
+The same year, her country's government honored her by including her in a series of [[postage stamps]] commemorating North Korean world champion athletes.<ref>[http://www.spaceandastronomystamps.com/prk.xhtml Partial list of 1993 PRK postage stamps]</ref>
+
+As of 2018, Kim's real age has never been conclusively determined, and is left blank in her FIG profile.<ref>[http://figfront.lx2.sportcentric.com/athletes?athlete%5Bfirst_name%5D=&athlete%5Blast_name%5D=kim&athlete%5Bdiscipline_id%5D=3&athlete%5Bcountry_id%5D=&athlete%5Bcode%5D=&athlete%5Bfilter_licenced%5D=0&athlete%5Bstatus%5D=&display=&athlete%5Bdisc%5D=&commit=Search# Official FIG profile for Kim Gwang Suk]{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Birth years given by the North Korean Federation ranged from 1974 to 1976, and late 1990s reports by the Korean News Service claimed that she was 14 years old in both 1989 and 1991.<ref>[http://www.kcna.co.jp/item/1998/9802/news02/20.htm "Gymnastic movements created by DPRK players"] {{webarchive|url=https://web.archive.org/web/20080929222533/http://www.kcna.co.jp/item/1998/9802/news02/20.htm |date=2008-09-29 }} Korean News Service, February 20, 1998</ref><ref>[http://www.kcna.co.jp/item/1999/9909/news09/07.htm "Korean athletes startle world"] {{webarchive|url=https://web.archive.org/web/20080929220758/http://www.kcna.co.jp/item/1999/9909/news09/07.htm |date=2008-09-29 }}, Korean News Service, September 7, 1999</ref>
+
+Some people believe Kim was born in 1976, but the more accepted consensus is that her birth year was actually 1978 or even 1979. The rationale behind this estimate is that the North Korean Federation was still supplying inconsistent birth dates for Kim in 1991 and 1992: if she had been born in 1976 or 1977, this would not have been necessary, as she would have been properly age-eligible for these events.
+
+Little is known about Kim apart from her competitive history. In April 2008, she briefly appeared in public in Pyongyang as a torchbearer during the North Korean portion of the Olympic torch relay.<ref>[https://web.archive.org/web/20140709022315/http://news.xinhuanet.com/photo/2008-04/28/content_8067565.htm North Korea torch relay coverage (in Chinese)] Qi Hengshe, Xinhuanet news service April 28, 2008</ref>
+
+== Major results ==
+* 1992 Olympics: 4th UB; 11th team; 28th AA
+* 1991 World Championships: 1st UB; 9th team; 18th AA
+* 1990 Asian Games: 2nd UB; 6th AA
+* 1990 Moscow World Stars: 1st UB; 8th AA
+* 1989 World Championships: 7th team; 14th AA
+
+== Skills ==
+'''Vault:''' Yurchenko-full twist
+
+'''Uneven bars:''' Tkatchev-Counter-Kim (original skill); 1.5 pirouette-straddled Jaeger; double tuck dismount/double layout dismount
+
+'''Balance beam:''' Back handspring-layout step out-layout step out; front aerial; back handspring-Chen; double tuck dismount
+
+'''Floor exercise:''' Full-twisting double back; double tuck; double twist
+
+===Eponymous skills===
+{|class="wikitable"
+|-
+! Apparatus !! Name !! Description !! Difficulty
+|-
+|Uneven Bars ||Counter Kim || Swing forward with forward straddled counter salto || F
+|}
+
+== See also ==
+{{Portal|North Korea}}
+* [[Sport in North Korea]]
+* [[World Artistic Gymnastics Championships – Women's uneven bars]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{sports-reference|ki/kim-gwang-suk-1}}
+
+{{NavigationWorldChampionsArtisticGymnasticsWomenUnevenBars}}
+
+{{DEFAULTSORT:Kim, Gwang-suk}}
+[[Category:Sports controversies]]
+[[Category:Olympic Games controversies]]
+[[Category:World champion gymnasts]]
+[[Category:Originators of elements in artistic gymnastics]]
+[[Category:Medalists at the World Artistic Gymnastics Championships]]
+[[Category:Gymnasts at the 1992 Summer Olympics]]
+[[Category:Olympic gymnasts for North Korea]]
+[[Category:North Korean female artistic gymnasts]]
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Asian Games medalists in gymnastics]]
+[[Category:Gymnasts at the 1990 Asian Games]]
+[[Category:Age controversies in sports]]
+[[Category:Asian Games silver medalists for North Korea]]
+[[Category:Asian Games bronze medalists for North Korea]]
+[[Category:Medalists at the 1990 Asian Games]]
+[[Category:20th-century North Korean women]]

@@ -1,0 +1,47 @@
+{{Short description|Species of bacterium}}
+{{Speciesbox
+| image = 
+| image_alt = 
+| image_caption = 
+| genus = Edwardsiella (bacterium)
+| species = ictaluri
+| authority = Hawke & al., 1981<ref>Hawke & al., 1981 Int. J. Syst. Bacteriol. 31::400</ref>
+| synonyms = 
+| synonyms_ref = 
+}}
+
+'''''Edwardsiella ictaluri''''' (also known as ''' enteric septicaemia of catfish''', '''hole in the head disease'''<ref>This term is also used for [[head and lateral line erosion]], an unrelated disease affecting many aquarium fish species.</ref> and '''ESC''') is a member of the family [[Hafniaceae]]. The bacterium is a short, [[gram negative]], [[pleomorphism (microbiology)|pleomorphic]] rod with flagella. It causes the disease enteric septicaemia of [[catfish]] (ESC), which infects a variety of fish species (including many catfish species, [[Gymnotiformes|knifefish]] and [[Barb (fish)|barbs]]). The bacteria can cause either acute [[septicaemia]] or chronic [[encephalitis]] in infected fish. Outbreaks normally occur in spring and autumn.
+
+''Edwardsiella ictaluri'' can be found in [[Asia]] and the [[United States]], being of particular economic importance in the U.S. It is not a [[zoonosis]].
+
+==Clinical signs and diagnosis==
+Acute ESC infection causes an acute septicaemia that presents as multiple [[petechia|petechial haemorrhages]] that develop into depigmented [[Ulcer (dermatology)|ulcers]]. Additional clinical signs include abnormal behavior, [[exophthalmos]], [[hemorrhagic gastroenteritis]], [[edema]] and [[ascites]]. Chronic ESC infection causes a chronic [[encephalitis]]. Clinical signs include abnormal behavior, abnormal swimming patterns, swelling and [[Ulcer (dermatology)|ulceration]] of the head and death.
+
+Any fish that survive the infection become latent [[asymptomatic carrier|carriers]] of the disease.
+
+A presumptive diagnosis can be made based on the clinical signs alone but [[Polymerase chain reaction|PCR]], indirect [[immunofluorescence]], [[bacterial culture]] and [[ELISA]] can be used to definitively diagnose the disease.
+
+==Treatment and control==
+Several [[antibiotics]] can be used to treat the disease, but there are reports of [[antibiotic resistance|resistance]] emerging. [[Vaccination]] can be used to prevent disease. Management factors such as reducing stocking density and stress should be considered.
+
+==See also==
+* [[Edwardsiella (bacterium)|Edwardsiella]]
+* [[Enterobacterales]]
+* ''[[Edwardsiella tarda]]''
+* [[Head and lateral line erosion]]
+
+==References==
+{{Reflist}}
+*''Edwardsiella ictaluri'', reviewed and published by Wikivet at http://en.wikivet.net/Edwardsiella_ictaluri, accessed 06/09/2011.
+
+==External links==
+*[http://bacdive.dsmz.de/index.php?search=4356&submit=Search Type strain of ''Edwardsiella ictaluri'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Taxonbar|from=Q5346148}}
+
+[[Category:Enterobacterales]]
+[[Category:Bacterial diseases of fish]]
+[[Category:Bacteria described in 1962]]
+
+
+{{Veterinary-med-stub}}

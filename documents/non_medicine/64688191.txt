@@ -1,0 +1,62 @@
+{{short description|Applied ethics issue}} <!-- Could be improved substantially with viable application and research data  -->
+
+[[File:KreeftbijDenOsse.jpg|thumb|Ethical questions around whether crustaceans, such as lobsters, are [[Sentience|sentient]] and can [[pain in crustaceans|experience pain]], are a topic of much debate]] 
+The '''ethics of uncertain sentience''' refers to questions surrounding the treatment of and moral obligations towards individuals whose [[sentience]]—the capacity to subjectively sense and feel—and resulting ability to experience pain is uncertain; the topic has been particularly discussed within the field of [[animal ethics]], with the [[Precautionary principle#Animal sentience precautionary principle|precautionary principle]] frequently invoked in response. 
+
+== Views ==
+=== Animal ethics ===
+[[David Foster Wallace]] in his 2005 essay "[[Consider the Lobster]]" investigated the potential sentience and capacity of [[Pain in crustaceans|crustaceans to experience pain]] and the resulting ethical implications of eating them.<ref>{{Cite journal|last=Elder|first=Maximilian Padden|date=2014|title=The Fish Pain Debate: Broadening Humanity's Moral Horizon|journal=Journal of Animal Ethics|volume=4|issue=2|pages=16–29|doi=10.5406/janimalethics.4.2.0016|jstor=10.5406/janimalethics.4.2.0016|issn=2156-5414}}</ref><ref>{{Cite magazine|last=Wallace|first=David Foster|date=August 2004|title=Consider the Lobster|url=http://www.columbia.edu/~col8/lobsterarticle.pdf|magazine=Gourmet|pages=50–64|access-date=2020-07-30}}</ref> In 2014, the philosopher Robert C. Jones explored the ethical question that Wallace raised, arguing that "[e]ven if one remains skeptical of crustacean sentience, when it comes to issues of welfare it would be most prudent to employ the precautionary principle regarding our treatment of these animals, erring on the side of caution".<ref>{{Cite book|last=Jones|first=Robert C.|url=https://rcjones.me/wp-content/uploads/2016/06/RCJ_TLC_DFW_CTL.pdf|title=Gesturing Toward Reality: David Foster Wallace and Philosophy|publisher=Bloomsbury|year=2014|isbn=978-1-4411-2835-5|editor-last=Korb|editor-first=Scott|location=New York|pages=87–106|chapter=The Lobster Considered|oclc=857981573|editor-last2=Bolger|editor-first2=Robert K.}}</ref> Maximilian Padden Elder takes a similar view regarding the capacity for [[Pain in fish|fishes to feel pain]], arguing that the "precautionary principle is the moral ethic one ought to adopt in the face of uncertainty".<ref>{{Cite journal|last=Elder|first=Maximilian Padden|date=2014|title=The Fish Pain Debate: Broadening Humanity's Moral Horizon|journal=Journal of Animal Ethics|volume=4|issue=2|pages=16–29|doi=10.5406/janimalethics.4.2.0016|jstor=10.5406/janimalethics.4.2.0016|issn=2156-5414}}</ref>
+
+In the 2015 essay "Reconsider the Lobster", [[Jeff Sebo]] quotes Wallace's discussion of the difficulty of establishing whether an animal can experience pain.<ref name=":0">{{Cite web|last=Sebo|first=Jeff|date=2015-09-09|title=Reconsider the Lobster|url=https://whatswrongcvsp.com/2015/09/09/reconsider-the-lobster/|access-date=2020-07-30|website=What's Wrong?|language=en}}</ref> Sebo calls the question of how to treat individuals of uncertain sentience, the "sentience problem" and argues that this problem which "Wallace raises deserves much more philosophical attention than it currently receives."<ref name=":0" /> Sebo asserts that there are two motivating assumptions behind the problem: "sentientism about moral status"—the idea that if an individual ''is'' sentient, that they deserve moral consideration—and "uncertainty about other minds", which refers to scientific and philosophical uncertainty about which individuals are sentient.<ref name=":0" />
+
+In response to the problem, Sebo lays out three different potential approaches: the incautionary principle, which postulates that in cases of uncertainty about sentience it is morally permissible to treat individuals as if they are not sentient; the precautionary principle, which suggests that in such cases we have a moral obligation to treat them as if they are sentient; and the expected value principle, which asserts that we are "morally required to multiply our credence that they are by the amount of moral value they would have if they were, and to treat the product of this equation as the amount of moral value that they actually have". Sebo advocates for the latter position.<ref name=":0" /><ref>{{Cite journal|last=Sebo|first=Jeff|date=2018-05-23|title=The Moral Problem of Other Minds|url=https://pdfs.semanticscholar.org/b88e/c2e4f4e2a6ae8d1b36146a5223bdaed12c4c.pdf|access-date=2020-07-30|journal=The Harvard Review of Philosophy|volume=25|pages=51–70|doi=10.5840/harvardreview20185913|s2cid=212633342}}</ref>
+
+[[Jonathan Birch (philosopher)|Jonathan Birch]], in answer to the question surrounding animal sentience, advocates for a practical framework based on the precautionary principle, arguing that the framework aligns well with conventional practices in [[animal welfare science]].<ref>{{Cite journal|last=Birch|first=Jonathan|author-link=Jonathan Birch (philosopher)|date=2017-01-01|title=Animal sentience and the precautionary principle|url=https://animalstudiesrepository.org/animsent/vol2/iss16/1|journal=Animal Sentience|volume=2|issue=16|doi=10.51291/2377-7478.1200|s2cid=37538020 |issn=2377-7478|doi-access=free}}</ref> 
+
+Simon Knutsson and Christian Munthe argue that from the perspective of [[virtue ethics]], that when it comes to animals of uncertain sentience, such as "fish, invertebrates such as crustaceans, snails and insects", that it is a "requirement of a morally decent (or virtuous) person that she at least pays attention to and is cautious regarding the possibly morally relevant aspects of such animals".<ref>{{Cite journal|last1=Knutsson|first1=Simon|last2=Munthe|first2=Christian|date=2017-04-01|title=A Virtue of Precaution Regarding the Moral Status of Animals with Uncertain Sentience|journal=Journal of Agricultural and Environmental Ethics|language=en|volume=30|issue=2|pages=213–224|doi=10.1007/s10806-017-9662-y|s2cid=149006196|issn=1573-322X}}</ref>
+
+Shelley A. Adamo argues that although the precautionary principle in relation to potential invertebrate sentience is the safest option, that it's not cost-free, as thoughtless legislation employed following the precautionary principle could be economically costly and that, as a result, we should be cautious about adopting it.<ref>{{Cite journal|last=Adamo|first=Shelley Anne|date=2016-08-01|title=Do insects feel pain? A question at the intersection of animal behaviour, philosophy and robotics|url=http://www.sciencedirect.com/science/article/pii/S0003347216300513|journal=Animal Behaviour|language=en|volume=118|pages=75–79|doi=10.1016/j.anbehav.2016.05.005|s2cid=53167462|issn=0003-3472}}</ref>
+
+=== Environmental ethics ===
+Kai Chan advocates for an [[Environmental ethics|environmental ethic]], which is a form of [[ethical extensionism]] applied to all living beings because "there is a non-zero probability of sentience and consciousness" and that "we cannot justify excluding beings from consideration on the basis of uncertainty of their sentience".<ref>{{Cite journal|last=Chan|first=Kai M.A.|date=2011-08-01|title=Ethical Extensionism under Uncertainty of Sentience: Duties to Non-Human Organisms without Drawing a Line|url=https://www.researchgate.net/publication/233645881|journal=Environmental Values|language=en|volume=20|issue=3|pages=323–346|doi=10.3197/096327111X13077055165983|hdl=2429/45342|hdl-access=free}}</ref>
+
+=== Ethics of artificial intelligence ===
+{{See also|Ethics of artificial intelligence}}
+[[Nick Bostrom]] and [[Eliezer Yudkowsky]] argue that if an artificial intelligence is sentient, that it is wrong to inflict unnecessary pain on them, in the same way that it is wrong to inflict pain on an animal, unless there are "sufficiently strong morally overriding reasons to do so".<ref name=":1">{{Citation|last1=Bostrom|first1=Nick|title=The ethics of artificial intelligence|date=2014|url=https://intelligence.org/files/EthicsofAI.pdf|work=The Cambridge Handbook of Artificial Intelligence|pages=316–334|editor-last=Frankish|editor-first=Keith|place=Cambridge|publisher=Cambridge University Press|doi=10.1017/cbo9781139046855.020|isbn=978-1-139-04685-5|access-date=2020-07-30|last2=Yudkowsky|first2=Eliezer|s2cid=151328482 |editor2-last=Ramsey|editor2-first=William M.}}</ref> They also advocate for the "Principle of Substrate Non-Discrimination", which asserts: "If two beings have the same functionality and the same conscious experience, and differ only in the substrate of their implementation, then they have the same moral status."<ref name=":1"/>
+
+=== Neuroethics ===
+{{See also|Neuroethics}}
+
+Adam J. Shriver argues for "precise, precautionary, and probabilistic approaches to sentience" and asserts that the evidence provided by neuroscience has differing relevance to each; he concludes that basic protections for animals should be guided by the precautionary principle and that although neuroscientific evidence in certain instances is not necessary to indicate that individuals of certain species require protections, "ongoing search for the neural correlates of sentience must be pursued in order to avoid harms that occur from mistaken accounts."<ref>{{Citation|last=Shriver|first=Adam J.|title=The Role of Neuroscience in Precise, Precautionary, and Probabilistic Accounts of Sentience|date=2020|url=http://www.ncbi.nlm.nih.gov/books/NBK555334/|work=Neuroethics and Nonhuman Animals|editor-last=Johnson|editor-first=L. Syd M.|series=Wellcome Trust–Funded Monographs and Book Chapters|pages=221–233|place=Cham (CH)|publisher=Springer|doi=10.1007/978-3-030-31011-0_13|isbn=978-3-030-31010-3|pmid=32223121|access-date=2020-07-30|editor2-last=Fenton|editor2-first=Andrew|editor3-last=Shriver|editor3-first=Adam|doi-access=free}}</ref> 
+
+== See also ==
+{{div col|colwidth=30em}}
+* [[Animal consciousness]]
+* [[Ethics of eating meat]]
+* [[Insects in ethics]]
+* [[Pain in animals]]
+* [[Pain in amphibians]]
+* [[Pain in cephalopods]]
+* [[Pain in invertebrates]]
+* [[Philosophical zombie]]
+* [[Sentiocentrism]]
+{{div col end}}
+
+== References ==
+<references />
+
+== Further reading ==
+* {{Cite journal|last=Chan|first=Kai M. A.|date=2011|title=Ethical Extensionism under Uncertainty of Sentience: Duties to Non-Human Organisms without Drawing a Line|url=https://www.jstor.org/stable/23048366|journal=Environmental Values|volume=20|issue=3|pages=323–346|doi=10.3197/096327111X13077055165983|jstor=23048366|hdl=2429/45342|issn=0963-2719|hdl-access=free}}
+*Jakopovich, Daniel (2021). [https://onlineacademiccommunity.uvic.ca/asri/2021/10/17/the-uks-animal-welfare-sentience-bill-excludes-the-vast-majority-of-animals-why-we-should-expand-our-moral-circle-to-include-invertebrates "The UK’s Animal Welfare (Sentience) Bill Excludes the Vast Majority of Animals: Why We Must Expand Our Moral Circle to Include Invertebrates"], ''Animals & Society Research Initiative, University of Victoria'', Canada.
+
+{{Animal rights|topics}}
+{{Animal welfare}}
+{{Ethics}}
+[[Category:Bioethics]]
+[[Category:Consciousness]]
+[[Category:Issues in animal ethics]]
+[[Category:Pain in animals]]
+[[Category:Issues in environmental ethics]]
+[[Category:Ethics of science and technology]]
+[[Category:Philosophy of artificial intelligence]]
+[[Category:Theory of mind]]

@@ -1,0 +1,124 @@
+[[File:Hannon_map-fr.svg|thumb|The Atlantic voyage of [[Hanno the Navigator]] in the 5th century BC]]
+'''Phoenician–Punic literature''' is literature written in [[Phoenician language|Phoenician]], the language of the ancient civilization of [[Phoenicia]], or in the [[Punic language]] that developed from Phoenician and was used in [[Ancient Carthage]]. It is surrounded by an aura of mystery due to the few preserved remains. All that is left is a series of inscriptions, few of which are of a purely [[Literature|literary]] nature<ref>{{Cite journal |last=Barton |first=George A |year=1901 |title=On the Pantheon of Tyre |url=https://www.jstor.org/stable/592422 |journal=Journal of the American Oriental Society |volume=22 |issue=22 |pages=115–117 |doi=10.2307/592422 |jstor=592422 |access-date=5 April 2012}}{{Blockquote|text=The comparatively few inscriptions which have been brought to light in recent years, consisting as they do of votive and temple inscriptions and grave stones, can hardly be dignified with the name of literature.}}</ref><ref name=":0">{{Cite book |last=Krahmalkov |first=Charles R. |url=https://archive.org/details/handbuchderorientalistikcharlesr.krahmalkovaphoenicianpunicgrammarhandbuchderori |title=A Phoenician-Punic Grammar |publisher=Brill |year=2001 |location=Leiden; Boston; Köln |pages=13–15}}</ref> (e.g. historical tales, poems, etc.), coins, fragments of [[Sanchuniathon]]'s ''History'' and [[Mago (agricultural writer)|Mago]]'s ''Treaty'', the Greek translation of the voyage of [[Hanno the Navigator]] and the ''[[Poenulus]]'' by [[Plautus]].<ref>{{Cite book |last=Amor Ruibal |first=Ángel María |year=2005 |title=Los problemas fundamentales de la filología comparada: su historía, su naturaleza y sus diversas relaciones científicas |url=https://books.google.com/books?id=8iFy9nGX2uEC&dq=%22literatura+fenicia%22&pg=PA496 |publisher=Consello da Cultura Galega |page=496 |language=Spanish |isbn=8496530078 |access-date=2022-06-11 |archive-date=2015-04-08 |archive-url=https://web.archive.org/web/20150408092251/http://books.google.es/books?id=8iFy9nGX2uEC&pg=PA496&lpg=PA496&dq=%22literatura%20fenicia%22&source=bl&ots=Z_E7Faj79F&sig=FnzbXNVo8eckoW1dZiSGsvvmjqQ&hl=ca&ei=_Q4STrWRKM3GtAaP6rj2Dg&sa=X&oi=book_result&ct=result&resnum=3&ved=0CC0Q6AEwAjgK#v=onepage&q=%22literatura%20fenicia%22&f=true |url-status=live }}</ref>
+
+However, it is a proven fact that both Phoenicia and Carthage had extensive libraries and that Phoenicians had a rich literary production inherited from their Canaanite past, of which works by [[Philo of Byblos]] and [[Menander of Ephesus]] are only a small part.<ref name=":1">{{Cite journal |last=Martín Ruiz |first=Juan Antonio |year=2007 |title=Los libros púnicos de Cartago: a la búsqueda de un saber perdido |url=http://independent.academia.edu/JuanAntonioMart%C3%ADnRuiz/Papers/1276014/Los_libros_punicos_de_Cartago_a_la_busqueda_de_un_saber_perdido |journal=Byrsa: Revista semestrale di arte, cultura e archeologia del mediterraneo punico |language=Spanish |publisher=Polis expresse |volume=VI |issue=1–2 |access-date=2022-06-11 |archive-date=2019-09-12 |archive-url=https://web.archive.org/web/20190912042419/https://www.academia.edu/1207733/Los_libros_p%C3%BAnicos_de_Cartago_a_la_b%C3%BAsqueda_de_un_saber_perdido |url-status=live }}</ref><ref>{{Cite web |last=Encyclopédie Larousse |year=2002 |title=littérature phénicienne |url=http://www.larousse.fr/encyclopedie/litterature/ph%C3%A9nicienne/176028# |access-date=3 May 2012 |website=Dictionnaire mondial des littératures |language=French |archive-date=4 October 2013 |archive-url=https://web.archive.org/web/20131004220129/http://www.larousse.fr/encyclopedie/litterature/ph%C3%A9nicienne/176028 |url-status=live }}</ref>
+
+== History and sources ==
+[[File:Rutas_comerciales_fenicias-es.svg|thumb|309x309px|Main Phoenician trade routes, which linked the [[metropolis]] with its [[Colony|colonies]].]]
+The Jewish historian [[Josephus|Flavius Josephus]] alludes to the Phoenician or Tyrian chronicles that he allegedly consulted to write his historical works. [[Herodotus]] also mentioned the existence of books from [[Byblos]] and a ''History of Tyre'' preserved in the temple of [[Hercules]]-[[Melqart]] in [[Tyre, Lebanon|Tyre]].<ref name=":1" /> In addition, it is possible to find some remnants of the influence exerted by certain writings of [[Ugarit]] in some [[Bible|biblical]] books, such as the [[Book of Genesis|Genesis]] or the [[Book of Ruth]], that had traces of poetic compositions of religious or political themes — with a markedly propagandistic or philosophical undertone.
+
+[[Avienius|Rufius Festus Avienius]] also alludes to old Punic records from where he would have drawn his reports on the voyage of [[Himilco]].<ref name=":1" /> Greco-Roman sources mention a number of Punic books saved from the looting and burning of Carthage by the legions of [[Scipio Africanus]] in the spring of 146 BC. In his work ''Natural History'', [[Pliny the Elder|Pliny]] indicates that after the fall of Carthage, many of these books were handed over to the [[Numidia|Numidian]] rulers and the [[Roman Senate]] ordered their translation into [[Latin]] — specifically Mago's agricultural work, establishing a commission under the leadership of Decimus Junius Pison.<ref name=":1" />
+
+According to the Byzantine Encyclopedia called ''[[Suda]]'', there was a historian of antiquity known as Charon of Carthage that wrote a collection of books: ''Lives of Illustrious Me''n, ''Lives of Illustrious Women,'' and ''Tyrants''.[[File:CarthageMap.png|thumb|Extent of Carthaginian territory before the [[First Punic War]].]]
+[[Augustine of Hippo]] (who lived between the 3rd and 4th centuries AD) considered [[Punic language|Punic]] as one of the main "[[wiktionary:sapiential|sapiential]]" languages, along with [[Hebrew language|Hebrew]], [[Canaanite languages|Canaanite]], [[Latin]] and [[Greek language|Greek]]. On Punic literature, he wrote:<blockquote>''Quae lingua si improbatur abs te, nega Punicis Libris, ut a viris doctissimus proditur, multa sapienter esse mandata memoriae'' (English: If you reject this language, you are denying what many scholars have acknowledged: many things have been wisely preserved from oblivion thanks to books written in Punic.)<ref name=":2">{{Cite web |last=Fernández Ardanaz |first=Santiago |year=2000 |title=Enculturación en el mundo neopúnico: traducción de la Biblia al neopúnico en los ss. IV-V d.C. |url=http://interclassica.um.es/var/plain/storage/original/application/63ef2c4189f3450954262cde85161f37.pdf |website=II Congreso Internacional del Mundo Púnico |pages=409–413 |language=Spanish |access-date=2022-06-11 |archive-date=2022-01-24 |archive-url=https://web.archive.org/web/20220124085019/http://interclassica.um.es/var/plain/storage/original/application/63ef2c4189f3450954262cde85161f37.pdf |url-status=live }}</ref></blockquote>To Augustine, this literature was not only ancient but also contemporary. He mentioned ''abecedaria'' and [[psalms]] composed in Punic and that both [[Donatism|Donatists]] and [[Neo-Punic]] Catholics wrote "little books in Punic" with "testimonies of the sacred scriptures". An important part of the [[Bible]] is thought to have been translated into Neo-Punic.<ref name=":2" />
+
+== Subjects ==
+
+=== Agricultural treaties ===
+This is one of the areas where the most information is available, since it is known that after the end of the [[Third Punic War]], the Roman Senate decided to translate an encyclopedic treaty on agronomy written by Mago - considered by [[Columella]] as the father of [[Agronomy]] - into Latin. This treaty comprised 28 books - of which 66 fragments have been preserved.<ref name=":3">{{Cite book |last=Cory |first=Preston |title=Cory's Ancient Fragments of the Phoenician, Carthaginian, Babylonian, Egyptian and Other Writers |publisher=Kessinger Publishing |year=2003 |isbn=0766158098 |pages=xxxiii-xxxv |chapter=On Phoenician Literature: Introduction to Sanchoniathon}}</ref> It includes topics such as [[viticulture]], [[topography]], [[veterinary medicine]], [[beekeeping]], and fruit [[arboriculture]], as well as recommendations defending the idea that the properties should not be too large and that the owner should not be absent.
+
+Mago may not have been the only Carthaginian treatisist concerned with these topics, since Columella clearly indicates that there were several other writers focusing on the subject. However, He does not specify who they might have been or the depth of their work - with the exception of one Amilcar.<ref name=":1" />
+
+=== Philosophical writings ===
+Philosophical works are likely to have been written even if there is little evidence, since it is known that in Carthage as well as in [[Gadir]] there were [[Plato|Platonic]] and [[Pythagoras|Pythagorean]] schools, currents that seem to have been widely accepted in the colonial Phoenician sphere. We only know of works by [[Moderatus of Gades|Moderatus]], of the Gaditan school, who wrote in Greek.<ref name=":1" /> A treaty on philosophy is attributed to [[Sanchuniathon]] - of which there is no record other than a simple mention.<ref name=":4">{{Cite book |last=Lynch Botta |first=Anne Charlotte |url=https://books.google.com/books?id=GEYPAQAAMAAJ&dq=%22phoenician+literature%22+OR+%22litt%C3%A9rature+ph%C3%A9nicien%22&pg=PR5 |title=Handbook of universal literature: from the best and latest authorities: designed for popular reading and as a textbook for schools and colleges |publisher=Derby & Jackson |year=1860 |location=New York |page=22 |access-date=2022-06-11 |archive-date=2016-12-16 |archive-url=https://web.archive.org/web/20161216052529/https://books.google.es/books?hl=ca&lr=&id=GEYPAQAAMAAJ&oi=fnd&pg=PR5&dq=%22phoenician+literature%22+OR+%22litt%C3%A9rature+ph%C3%A9nicien%22&ots=lLhnG4lViA&sig=hbNOVup6APtg1c4-zIPnnMKwfFY#v=onepage&q=%22phoenician%20literature%22%20OR%20%22litt%C3%A9rature%20ph%C3%A9nicien%22&f=false |url-status=live }}</ref>
+
+=== Religious writings ===
+The fragments of [[Sanchuniathon]]'s work that have been preserved form the most extensive religious text on Phoenician mythology known to date. It is a kind of ''[[Theogony]]'' that includes passages on [[cosmogony]], heroic tales, the life of the gods, and the use of rituals with [[snake]]s.<ref name=":5">{{Cite book |last=Edwards |first=M.J. |title=Philo or Sanchuniathon? A Phoenicean Cosmogony |publisher=The Classical Quarterly |others=New Series, 41 (1) |year=1991 |pages=213–220}}</ref> There is also an allusion made by [[Plutarch]] in regards to a series of sacred scrolls rescued from [[Carthage]] and hidden underground, although the veracity of this information has not been confirmed.<ref name=":1" /> Conversely, Phoenician religious literature is known to have had a profound influence on the [[Biblical canon|biblical]] account of [[Job (biblical figure)|Job]].<ref>{{Cite journal |last=Albright |first=W. F. |year=1942 |title=New Light on the Early History of Phoenician Colonization |url=http://www.jstor.org/stable/3218739 |journal=Bulletin of the American Schools of Oriental Research |issue=83 |pages=14–22 |doi=10.2307/3218739 |jstor=3218739 |s2cid=163643292 |access-date=5 April 2012 |archive-date=5 March 2016 |archive-url=https://web.archive.org/web/20160305212920/http://www.jstor.org/stable/3218739 |url-status=live }}{{Blockquote|text=[...] it must be remembered that Job is now known to have been strongly influenced by Phoenician literature.}}</ref>
+
+=== History treaties ===
+In [[The Histories (Polybius)|The Histories]] by [[Polybius]], he clearly refers to Carthaginian historians, and [[Sallust]] claimed to have consulted the Punic books of the Numidian king [[Hiempsal I|Hiempsal]].<ref name=":1" /> [[Sanchuniathon]]'s historical work, considered the most extensive work produced in Phoenician, was translated into [[Greek language|Greek]] in 2 BC, although only a long fragment has been preserved - one that primarily covers religious themes.<ref name=":4" /><ref name=":5" /> However, the authenticity of the texts attributed to Sanchuniathon has been questioned several times, without reaching a clear consensus.<ref name=":3" />
+
+There are numerous allusions in Greek literature - until after 3 BC - to a ''Cosmogony'' written by [[Mochus|Mochus of Sidon]] in 14 BC. The likely existence of biographies of [[Hannibal]] has also been noted. According to Polybius and [[Livy|Titus Livy]], Hannibal had such deeds recorded in Phoenician and Greek in 205 BC, in the temple of [[Hera]] in [[Temple of Hera Lacinia|Lacinia]], and it is probable that he was simply continuing an ancient tradition by which Carthaginian generals used to write down their heroic deeds and give them to a temple to be preserved.<ref name=":1" /> Another example of this type of literature is an inscription on the takeover of [[Agrigento|Agrigentum]] in 406 BC, of which a small fragment of a text that must have been larger is preserved:<ref name=":0" />
+{| class="wikitable" style="text-align:center"
+! scope="col" style="width: 500px;" |𐤅‏𐤉‏𐤋‏𐤊‏ 𐤓‏𐤁‏𐤌‏ 𐤀‏𐤃‏𐤍‏𐤁‏𐤏‏𐤋‏ 𐤁‏𐤍‏ 𐤂‏𐤓‏𐤎‏𐤊‏𐤍‏ 𐤄‏𐤓‏𐤁‏ 𐤅‏𐤇‏𐤌‏𐤋‏𐤊‏𐤕‏ 𐤁‏𐤍‏ 𐤇‏𐤍‏𐤀‏ 𐤄‏𐤓‏𐤁‏ 𐤏‏𐤋‏𐤔‏ 𐤅‏𐤕‏𐤌‏𐤊‏ 𐤄‏𐤌‏𐤕‏𐤀‏𐤉‏𐤕‏ 𐤀‏𐤂‏𐤓‏𐤂‏𐤍‏𐤕‏ 𐤅‏𐤔‏𐤕‏ 𐤄‏(𐤌‏)𐤕‏ 𐤔‏𐤋‏𐤌‏ 𐤃‏𐤋‏ 𐤁‏𐤏‏𐤋‏ 𐤍‏𐤅‏𐤎
+|-
+|wylk rbm ʾdnbʿl bn grskn hrb wḥmlkt bn ḥnʾ hrb ʿlš wtmk hmt ʾytʾgrgnt wšt h[m]t šlm dl bʿl nws
+|-
+|''General Idnibal, son of Gisco the Great, and Himilco, son of Hanno the Great, set out at dawn, and took Agrigentum; and they [the Agrigentines] surrendered, including those who had fled.''
+|}
+
+=== Poetry ===
+[[File:Makthar_arc_Trajan.jpg|thumb|Ruins of the arch built by [[Trajan]] in [[Maktar]] ([[Tunisia]]).]]
+Found fragments of Phoenician poems indicate that rhymed rhetorical prose and poetic narration in [[Iambic poetry|iambic]] rhythms were widely used, among other genres.<ref name=":0" />
+{| style="text-align:center"
+|{{Poem quote|text=Badnim garasth is on,
+mysyrthim, bal serm ra;
+sab siben Mycne,
+is ab syth sath syby;
+in aab sa[l]e(m) lo sal:
+«un ath ab[dach]a!»|col2=De Adnim saqué al compañero malvado
+de los Sirthis, a él, de mala fama;}}
+|{{Poem quote|text=From Adnim I brought forth the wicked fellow,
+from the Sirthis, to him, of ill fame;
+(when) our army surrounded Micne,
+then I made that enemy [my] captive;
+The enemy asked mercy for himself:
+"Spare your slave!"|sign=}}
+|-
+| colspan="2" |—Iulius Nasif, (Adnim, around 350 AD)<ref name=":0" />
+|}
+
+{| class="wikitable"
+|+Hymn to ''Ḥṭr''-Mescar, [[Kanaanäische und Aramäische Inschriften|KAI]] 144 I<br /> Punic dialect (Maktar, Tunisia)<ref name=":0" />
+| style="text-align:right" |𐤋‏𐤀‏𐤋‏𐤀‏𐤌‏ 𐤄‏𐤒‏𐤉‏𐤃‏𐤔‏ 𐤋‏𐤔‏𐤀‏𐤕‏ 𐤀‏𐤇‏𐤕‏ 𐤔‏𐤌‏𐤌‏ 
+𐤁‏𐤎‏𐤅‏𐤁‏ 𐤌‏𐤋‏𐤊‏ 𐤇‏𐤈‏𐤓‏ 𐤌‏𐤉‏𐤎‏𐤊‏𐤓‏ 𐤓‏𐤆‏𐤍‏ 𐤉‏𐤌‏𐤌‏
+
+𐤁‏𐤏‏𐤋‏ 𐤇‏𐤓‏𐤃‏𐤕‏ 𐤏‏𐤋‏ 𐤂‏𐤁‏𐤓‏𐤕‏𐤌‏
+| style="text-align:left" |lilīm iqqiddīs laset ot semim 
+Biswb mūlek Ḥṭr, Meskar rūzen yammīm
+
+Bal aradot al gubūratim
+|-
+| colspan="2" style="text-align: center;" |Exalt the name of the holy god!
+
+''Ḥṭr'', king of the land; Mescar, ruler of the seas,
+
+the one who inspires fear because of his power.
+|}
+
+=== Language and grammar ===
+A Latin manuscript, the ''Berne codex 123'', suggests Phoenician had 12 [[Part of speech|parts of speech]]: noun, pronoun, verb, adjective, adverb, preposition, conjunction, interjection, article, impersonal mood, infinitive and the gerund.<ref>{{Cite book |last=Harris |first=Zellig Shabbetai |url=https://archive.org/details/grammarphoenicia00harr |title=A Grammar of the Phoenician Language |publisher=American Oriental Society |year=1990 |isbn=0-940490-08-0 |edition=7th |series=American Oriental Series |volume=8 |location=New Haven |page=6 |chapter=Introduction}}</ref> In addition, [[Eusebius|Eusebius of Caesarea]] attributes the authorship of a treaty titled ''On the Phoenician Alphabet'' to Sanchuniathon.<ref name=":5" />
+
+=== Navigation and geography treaties ===
+Although the Phoenicians were famous as navigators and explorers, the only two accounts to have survived up to this day are the stories of [[Hanno the Navigator]] and [[Himilco]]. Hannon's original account seems to be no older than 2 BC, thus raising the question of whether it was made when Carthage was destroyed. Interestingly, Greek and Latin historiography seemed to be completely unaware of this voyage before the fall of the Punic capital.<ref name=":1" />
+
+Himilcon's journey can be traced only to some comments made by [[Avienius]], which he claims come from ancient Punic records he might have accessed. Another hypothesis is that King [[Juba II]] based his geographical knowledge of the [[Nile]]'s origins on Punic books that he kept at his court - as recorded by [[Ammianus Marcellinus|Amianus Marcellinus]] - indicating that the river's [[River source|headwaters]] were on a mountain in [[Mauritania]].<ref name=":1" />
+
+A similar thing applies to the voyages supposedly carried out by this monarch in the [[Canary Islands|Canary archipelago]], an expedition recorded by [[Pliny the Elder|Pliny]]. Although it is clear from the way Pliny describes the islands that a real voyager reached this region, discussions are currently underway as to whether this expedition was carried out by Juba II or if he merely collected a series of data he found in the Carthaginian books he inherited from his ancestors.<ref name=":1" /> In turn, [[Marinus of Tyre]] (born in 1 AD) was considered as the first [[geographer]] of his time worthy of the title of "[[scientist]]". Although his original work has disappeared, [[Ptolemy|Claudius Ptolemy]] used it extensively while writing his ''[[Geography (Ptolemy)|Geographia]]''.<ref>{{Cite book |last=Wagner |first=Carlos G. |title=Los fenicios |publisher=Akal |year=1989 |isbn=84-7600-332-3 |series=Historia del mundo antiguo: Oriente |location=Madrid |pages=58–60 |language=Spanish}}</ref>
+
+=== International and legislative treaties ===
+No direct information is available, but there is evidence that the international treaties Rome signed with Carthage were kept in the Capitol on bronze tablets, and it is to be presumed that the Punics preserved them as well. The treaty signed in 215 BC by [[Hannibal]] and [[Philip V of Macedon]] is known to have been drafted in Greek and Punic, and alluded to various Carthaginian divinities reminiscent of the treaty signed centuries before by [[Esarhaddon]] and the King of [[Tyre, Lebanon|Tyre]], a fact widely interpreted as a sign of state conservatism that could be explained only through the preservation of these documents over the centuries.<ref name=":1" />
+
+== Translated literature ==
+[[File:Plautus.jpg|thumb|[[Plautus]], Roman playwright.]]
+Many classical authors - and even a few contemporary ones - have argued that, in antiquity, only the Romans were sufficiently educated to understand and translate [[Theatre of ancient Greece|Greek plays]].<ref name=":6">{{Cite book |last=Krahmalkov |first=Charles R. |title=A Phoenician-Punic Grammar |publisher=Brill |year=2001 |location=Leiden; Boston; Köln |pages=6–12 |chapter=1. The Phoenician language}}</ref> Paradoxically, one of the few recorded translations of Greek plays into Punic is precisely in the play ''[[Poenulus]]'' by the Roman playwright [[Plautus]].<ref name=":6" />
+
+With the rise of [[Carthage]] in the 5th century BC, Phoenician became a prestigious language in the [[Mediterranean Sea|Mediterranean]], competing with [[Latin]] and [[Greek language|Greek]], which led to these translation efforts. Quoted below are two fragments from ''Poenulus'' ("The Little Punic"), a translation of the Greek play ''ὁ'' ''Καρχηδόνιος'' (''ho'' ''Karkhēdónios'', "the Carthaginian"), possibly by the poet [[Alexis (poet)|Alexis of Thurii]] (375-275 BC) in which Plautus included fragments from the Punic translation of the same play as well as from several other translations he knew of, both to amuse the audience through the foreign sounds and as a basis for puns and mistranslations:<ref name=":6" />
+{|
+|{{Blockquote|text={{versalita|Acharistocles}}: Mu? <br /> {{versalita|Milphio}}: Ponnim sycartim <br /> {{versalita|Acharistocles}}: Bal umer! Iadata?}}
+|{{Blockquote|text={{versalita|Acharistocles}}: What? <br /> {{versalita|Milphio}}:  Do you remember anything about [the] Punic [language]? <br /> {{versalita|Acharistocles}}: Not a word! Do you?}}
+|-
+| colspan="2" style="text-align: right;" |—Punic translation of ''Karkhedonios'' (by Alexis?), included in ''Poenulus'' by Plautus.<ref name=":6" />
+|}
+{|
+|{{Blockquote|text={{versalita|Megadorus}}: Neste ien. Neste dum et <br /> {{versalita|Euclio}}: Al. Anec este mem}}
+|{{Blockquote|text={{versalita|Megadorus}}: Let us drink wine; let us drink the blood of the vine. <br /> {{versalita|Euclio}}: No, I will drink water!}}
+|-
+| colspan="2" style="text-align: right;" |—Punic translation of the ''Aulularia'' by [[Menander]], included in ''Poenulus'' by Plautus.<ref name=":6" />
+|}
+
+== See also ==
+
+* [[History of Carthage]]
+* [[Phoenician alphabet]]
+* [[Punic people]]
+
+== References ==
+{{reflist}}
+
+[[Category:Literature]]
+[[Category:Phoenician language]]
+[[Category:Literature by language]]
+[[Category:Carthage]]
+[[Category:Punic language]]
+{{DEFAULTSORT:Phoenician-Punic literature}}

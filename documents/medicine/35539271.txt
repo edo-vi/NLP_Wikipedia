@@ -1,0 +1,64 @@
+{{Short description|NSAID analgesic veterinary medication}}
+{{Chembox
+| ImageFile = Cimicoxib.svg
+| ImageSize = 200px
+| PIN = 4-[4-Chloro-5-(3-fluoro-4-methoxyphenyl)-1''H''-imidazol-1-yl]benzene-1-sulfonamide
+| OtherNames = 
+| Section1 = {{Chembox Identifiers
+|  CASNo = 265114-23-6
+
+| UNII_Ref = {{fdacite|correct|FDA}}
+
+| UNII = W7FHJ107MC
+| CASNo_Ref = {{cascite|correct|CAS}}
+|  PubChem = 213053
+|  ChemSpiderID = 184745
+|  ChEBI = 76127
+| ChEMBL = 435381
+|  SMILES = O=S(=O)(c3ccc(n1c(c(Cl)nc1)c2ccc(OC)c(F)c2)cc3)N
+|  InChI = 1/C16H13ClFN3O3S/c1-24-14-7-2-10(8-13(14)18)15-16(17)20-9-21(15)11-3-5-12(6-4-11)25(19,22)23/h2-9H,1H3,(H2,19,22,23)
+|  InChIKey = KYXDNECMRLFQMZ-UHFFFAOYAQ
+|  StdInChI = 1S/C16H13ClFN3O3S/c1-24-14-7-2-10(8-13(14)18)15-16(17)20-9-21(15)11-3-5-12(6-4-11)25(19,22)23/h2-9H,1H3,(H2,19,22,23)
+|  StdInChIKey = KYXDNECMRLFQMZ-UHFFFAOYSA-N
+  }}
+| Section2 = {{Chembox Properties
+|  C=16|H=13|Cl=1|F=1|N=3|O=3|S=1
+|  Appearance = 
+|  Density = 
+|  MeltingPt = 
+|  BoilingPt = 
+|  Solubility =
+  }}
+| Section3 = {{Chembox Hazards
+|  MainHazards = 
+|  FlashPt = 
+|  Autoignition =
+  }}
+| Section6 = {{Chembox Pharmacology
+| Pharmacology_ref =
+| ATCvet = yes
+| ATCCode_prefix = M01
+| ATCCode_suffix = AH93
+  }}
+}}
+
+'''Cimicoxib''' ('''UR-8880''' trade name '''Cimalgex''') is a [[nonsteroidal anti-inflammatory drug]] (NSAID) used in [[veterinary medicine]] to treat dogs for pain and inflammation associated with [[osteoarthritis]] and for the management of pain and inflammation associated with surgery.<ref>{{cite web | url = http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/veterinary/medicines/000162/vet_med_000230.jsp&mid=WC0b01ac058008d7a8&jsenabled=true | title = European Public Assessment Report: Cimalgex (cimicoxib) | date = 17 September 2018 | publisher = European Medicines Agency}}</ref> It acts as a [[COX-2 inhibitor]].
+
+==Synthesis==
+[[File:Cimicoxib synthesis.svg|thumb|center|700px|Cimicoxib synthesis:<ref name="AlmansaAlfón2003">{{cite journal|last1=Almansa|first1=Carmen|last2=Alfón|first2=José|last3=de Arriba|first3=Alberto F.|last4=Cavalcanti|first4=Fernando L.|last5=Escamilla|first5=Ignasi|last6=Gómez|first6=Luis A.|last7=Miralles|first7=Agustí|last8=Soliva|first8=Robert|last9=Bartrolí|first9=Javier|last10=Carceller|first10=Elena|last11=Merlos|first11=Manuel|last12=García-Rafanell|first12=Julián|title=Synthesis and Structure−Activity Relationship of a New Series of COX-2 Selective Inhibitors:&nbsp; 1,5-Diarylimidazoles|journal=Journal of Medicinal Chemistry|volume=46|issue=16|year=2003|pages=3463–3475|issn=0022-2623|doi=10.1021/jm030765s|pmid=12877584}}</ref>]]
+Reaction of the imine with [[TosMIC]] in the presence of potassium carbonate leads to what may be viewed as 2+3 [[cycloaddition]] of the nitrogen analogue of a [[ketene]] to form the [[imidazole]] ring.
+==References==
+{{Reflist}}
+
+{{NSAIDs}}
+
+[[Category:COX-2 inhibitors]]
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Imidazoles]]
+[[Category:Fluoroarenes]]
+[[Category:Organochlorides]]
+[[Category:Sulfonamides]]
+
+
+{{veterinary-med-stub}}
+{{musculoskeletal-drug-stub}}

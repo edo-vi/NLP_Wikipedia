@@ -1,0 +1,48 @@
+{{Use dmy dates|date=October 2023}}
+{{Use South African English|date=October 2023}}
+{{Infobox rugby biography
+| name           = Geo Cronjé
+| image          = 
+| caption        = 
+| full_name      =
+| birth_date     = {{birth date and age|1980|07|23|df=y}}
+| birth_place    = [[Klerksdorp]], South Africa
+| death_date     =
+| death_place    =
+| height         = 6 ft 7 in
+| weight         = 252 lb
+| occupation     =
+| school         =
+| university     =
+| relatives      =
+| position       = Lock
+| repyears1      = 2003–04
+| repteam1       = {{nrut|South Africa}}
+| repcaps1       = 3
+| reppoints1     = 0
+}}
+'''Geo Cronjé''' (born 23 July 1980) is a South African former [[rugby union]] international.
+
+Cronjé, raised in [[Klerksdorp]], is the elder brother of Springbok [[Jacques Cronjé]].<ref>{{cite news |last1=Jones |first1=Chris |title=Cronje: 'Just take me as I am' |url=https://www.standard.co.uk/sport/cronje-just-take-me-as-i-am-6957750.html |work=[[Evening Standard]] |date=14 April 2012 |language=en}}</ref>
+
+A lock, Cronjé made his Springboks debut against New Zealand at Carisbrook in the [[2003 Tri Nations Series]]. His career was subsequently impacted by accusations that during a pre-World Cup camp he had refused to share a room with coloured team-mate [[Quinton Davids]] on the basis of race. He was booted from the camp as a result and omitted from the final World Cup squad. Multiple enquiries later cleared him of racism.<ref>{{cite news |title=South Africa's Cronje not guilty of racism |url=https://www.independent.ie/sport/rugby/south-africas-cronje-not-guilty-of-racism/25929213.html |work=[[Irish Independent]] |date=2 September 2003 |language=en}}</ref><ref>{{cite news |title=Springbock lock cleared of racism |url=https://www.abc.net.au/news/2004-03-10/springbock-lock-cleared-of-racism/149234 |work=[[ABC News (Australia)|ABC News]]|date=9 March 2004 |language=en-AU}}</ref>
+
+Cronjé earned two further Springboks caps in 2004. At the end of the year he signed a contract to play in England for [[Harlequin F.C.|Harlequins]] but due to a knee injury ended up being released without playing a game.<ref>{{cite news |last1=Rees |first1=Paul |title=Cronje released after no Quins games |url=https://www.theguardian.com/sport/2005/jan/27/rugbyunion.harlequinsru |work=[[The Guardian]] |date=27 January 2005}}</ref>
+
+==See also==
+*[[List of South Africa national rugby union players]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{ESPNscrum|14293}}
+
+{{DEFAULTSORT:Cronje, Geo}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:South African rugby union players]]
+[[Category:South Africa international rugby union players]]
+[[Category:Sports controversies]]
+[[Category:Rugby union locks]]
+[[Category:Rugby union players from Klerksdorp]]

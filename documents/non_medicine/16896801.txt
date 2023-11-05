@@ -1,0 +1,116 @@
+{{Short description|Cattle and pig antibiotic}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443440285
+| image = Tulathromycin.png
+
+<!--Clinical data-->
+| tradename = Draxxin, others
+| Drugs.com = {{drugs.com|international|tulathromycinn}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_category = 
+| routes_of_administration = [[Intramuscular]], [[Subcutaneous injection|subcutaneous]]
+
+<!-- Legal status -->
+| legal_AU          = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_AU_comment  =
+| legal_BR          = <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F -->
+| legal_BR_comment  =
+| legal_CA          = Rx-only
+| legal_CA_comment  = 
+| legal_DE          = <!-- Anlage I, II, III or Unscheduled -->
+| legal_DE_comment  =
+| legal_NZ          = <!-- Class A, B, C -->
+| legal_NZ_comment  =
+| legal_UK          = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_UK_comment  =
+| legal_US          = Rx-only
+| legal_US_comment  = <ref name="FDA 20210219" />
+| legal_EU          = Rx-only
+| legal_EU_comment  = <ref name="Draxxin EPAR" /><ref>{{cite web | title=Tulinovet EPAR | website=European Medicines Agency | date=17 July 2020 | url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/tulinovet | access-date=11 October 2021}}</ref><ref name="Increxxa EPAR" />
+| legal_UN          = <!-- N I, II, III, IV / P I, II, III, IV -->
+| legal_UN_comment  =
+| legal_status      = <!-- For countries not listed above -->
+
+<!-- Pharmacokinetic data -->
+| bioavailability   =
+| protein_bound     =
+| metabolism        =
+| metabolites       =
+| onset             =
+| elimination_half-life =
+| duration_of_action =
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number = 217500-96-4
+| ATCvet = yes
+| ATC_prefix = J01
+| ATC_suffix = FA94
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB11474
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 24583287
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q839I13422
+| UNII2 = 897A3KN7AP
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06258
+| KEGG2 = C21788
+
+<!-- Chemical and physical data -->
+| IUPAC_name = (2''R'',3''S'',4''R'',5''R'',8''R'',10''R'',11''R'',12''S'',13''S'',14''R'')-13-<nowiki>[[</nowiki>2,6-dideoxy-3-C-methyl-3-''Ο''-methyl-4-''C''-[(propylamino)methyl]-α-<small>L</small>-ribo-hexopyrano-syl]oxy]-2-ethyl-3,4,10-trihydroxy-3,5,8,10,12,14-hexamethyl-11-<nowiki>[[</nowiki>3,4,6-trideoxy-3-(dimethylamino)-β-<small>D</small>-xylo-hexopyranosyl]-oxy]-1-oxa-6-azacyclopentadecan-15-one
+| C=41 | H=79 | N=3 | O=12
+| SMILES = CCCNCC1(C(OC(CC1(C)OC)OC2C(C(C(CC(NC(C(C(C(OC(=O)C2C)CC)(C)O)O)C)C)(C)O)OC3C(C(CC(O3)C)N(C)C)O)C)C)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C40H77N3O12/c1-15-17-41-21-40(49)27(8)52-30(20-38(40,10)50-14)54-32-24(5)34(55-36-31(44)28(43(12)13)18-23(4)51-36)37(9,47)19-22(3)42-26(7)33(45)39(11,48)29(16-2)53-35(46)25(32)6/h22-34,36,41-42,44-45,47-49H,15-21H2,1-14H3/t22-,23-,24+,25-,26-,27+,28+,29-,30+,31-,32+,33-,34-,36+,37-,38-,39-,40+/m1/s1
+| StdInChI2 = 1S/C41H79N3O12/c1-15-17-42-22-41(50)28(8)53-31(20-39(41,10)51-14)55-33-25(5)35(56-37-32(45)29(44(12)13)18-24(4)52-37)38(9,48)19-23(3)21-43-27(7)34(46)40(11,49)30(16-2)54-36(47)26(33)6/h23-35,37,42-43,45-46,48-50H,15-22H2,1-14H3/t23-,24-,25+,26-,27-,28+,29+,30-,31+,32-,33+,34-,35-,37+,38-,39-,40-,41+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HWATWVYEWMIMSO-FROLMUNOSA-N
+| StdInChIKey2 = GUARTUJKFNAVIK-QPTWMBCESA-N
+}}
+
+'''Tulathromycin''', sold under the brand name '''Draxxin''' among others, is a [[macrolide antibiotic]] used to treat [[bovine respiratory disease]] in cattle and [[swine respiratory disease]] in pigs.<ref name="FDA 20210219">{{cite web | title=FDA Approves First Generic Tulathromycin Products for Cattle and Swine | website=U.S. [[Food and Drug Administration]] (FDA) | date=19 February 2021 | url=https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-generic-tulathromycin-products-treating-disease-certain-cattle-and-swine | access-date=4 March 2023}}</ref><ref name="Evans_2005">{{cite journal | vauthors = Evans NA | title = Tulathromycin: an overview of a new triamilide antibiotic for livestock respiratory disease | journal = Veterinary Therapeutics: Research in Applied Veterinary Medicine | volume = 6 | issue = 2 | pages = 83–95 | date = 2005 | pmid = 16094557 | doi = }}</ref><ref name="Villarino_2013">{{cite journal | vauthors = Villarino N, Brown SA, Martín-Jiménez T | title = The role of the macrolide tulathromycin in veterinary medicine | journal = Veterinary Journal | location = London, England | volume = 198 | issue = 2 | pages = 352–7 | date = November 2013 | pmid = 24268476 | doi = 10.1016/j.tvjl.2013.07.032 }}</ref>
+
+== Medical uses ==
+Tulathromycin is indicated for:
+
+Cattle: Treatment and metaphylaxis of bovine respiratory disease (BRD) associated with ''[[Mannheimia haemolytica]]'', ''[[Pasteurella multocida]]'', ''[[Histophilus somni]]'', and ''[[Mycoplasma bovis]]'' sensitive to tulathromycin.<ref name="Draxxin EPAR" />
+
+Treatment of infectious bovine keratoconjunctivitis (IBK) associated with ''[[Moraxella bovis]]'' sensitive to tulathromycin.<ref name="Draxxin EPAR" />
+
+Pigs: Treatment and metaphylaxis of swine respiratory disease (SRD) associated with ''[[Actinobacillus pleuropneumoniae]]'', ''[[Pasteurella multocida]]'', ''[[Mycoplasma hyopneumoniae]]'', ''[[Haemophilus parasuis]]'', and ''[[Bordetella bronchiseptica]]'' sensitive to tulathromycin.<ref name="Draxxin EPAR" />
+
+Sheep: Treatment of the early stages of infectious pododermatitis (foot rot) associated with virulent ''Dichelobacter nodosus'' requiring systemic treatment.<ref name="Draxxin EPAR" />
+
+== Society and culture ==
+=== Legal status ===
+Tulathromycin (brand name Draxxin) was approved for medical use in the European Union in November 2003.<ref name="Draxxin EPAR">{{cite web | title=Draxxin EPAR | website=[[European Medicines Agency]] (EMA) | date=17 September 2018 | url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/draxxin | access-date=20 August 2020}} Text was copied from this source which is © European Medicines Agency. Reproduction is authorized provided the source is acknowledged.</ref>
+
+Tulathromycin (brand names Tulissin and Tulaven) was approved for medical use in the European Union in April 2020.<ref>{{cite web | title=Tulissin EPAR | website=[[European Medicines Agency]] (EMA) | date=21 February 2020 | url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/tulissin | access-date=20 August 2020}}</ref><ref>{{cite web | title=Tulaven EPAR | website=[[European Medicines Agency]] (EMA)| date=21 February 2020| url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/tulaven | access-date=20 August 2020}}</ref>
+
+On 16 July 2020, the [[Committee for Medicinal Products for Veterinary Use]] (CVMP) adopted positive opinions, recommending the granting of marketing authorizations for the veterinary medicinal products Increxxa and Tulinovet solutions for injection for cattle, pigs and sheep.<ref name="Increxxa: Pending EC decision">{{cite web | title=Increxxa: Pending EC decision | website=European Medicines Agency | date=17 July 2020 | url=https://www.ema.europa.eu/en/medicines/veterinary/summaries-opinion/increxxa | access-date=17 July 2020}} Text was copied from this source which is © European Medicines Agency. Reproduction is authorized provided the source is acknowledged.</ref><ref name="Tulinovet: Pending EC decision">{{cite web | title=Tulinovet: Pending EC decision | website=European Medicines Agency | date=17 July 2020 | url=https://www.ema.europa.eu/en/medicines/veterinary/summaries-opinion/tulinovet | access-date=17 July 2020}} Text was copied from this source which is © European Medicines Agency. Reproduction is authorized provided the source is acknowledged.</ref> The applicant for Increxxa is Elanco GmbH.<ref name="Increxxa: Pending EC decision" /> The applicant for Tulinovet is VMD N.V.<ref name="Tulinovet: Pending EC decision" /> Increxxa was approved for veterinary use in the European Union in September 2020.<ref name="Increxxa EPAR">{{cite web | title=Increxxa EPAR | website=European Medicines Agency | date=17 July 2020 | url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/increxxa | access-date=5 March 2023}}</ref>
+
+=== Brand names ===
+It is marketed by [[Pfizer|Pfizer Inc.]] under the brand name Draxxin.<ref name="FDA 20210219" />
+
+It is marketed by [[Bimeda|Bimeda Inc.]] under the brand name Macrosyn, and by [[Merck & Co.]] under the brand name Arovyn.<ref>{{cite web |title=Arovyn |url=https://www.merck-animal-health-usa.com/species/cattle/products/arovyn |publisher=Merck |access-date=5 March 2023}}</ref>
+
+It is also sold under the brand name Increxxa.<ref name="FDA 20210219" /><ref name="Increxxa EPAR" />
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/name/tulathromycin | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Tulathromycin A }}
+
+{{Portal bar | Medicine}}
+{{GlycopeptideAntiBio}}
+
+[[Category:Macrolide antibiotics]]
+[[Category:Pfizer brands]]
+[[Category:Merck & Co. brands]]
+
+
+{{Veterinary-med-stub}}

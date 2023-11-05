@@ -1,0 +1,70 @@
+{{Short description|Hobbyist encyclopedic website maintained by Ulrich Theobald}}
+{{Multiple issues|
+{{more citations needed|date = June 2010}}
+{{Primary sources|date=December 2019}}
+}}
+{{Infobox website
+| name             = ChinaKnowledge
+| favicon          = 
+| logo             = 
+| screenshot       =
+| caption          = 
+| url              = {{URL|www.chinaknowledge.de}}
+| commercial       = non-commercial
+| type             = Informational / Hobbyist
+| registration     = 
+| author           = Dr. Ulrich Theobald
+| launch_date      = 2001
+| current_status   = 
+| revenue          = 
+}}
+
+'''Chinaknowledge''', with the subtitle "a universal guide for [[China]] studies", is an English-language hobbyist's web site that contains a wide variety of information on China and Chinese topics.  The site was founded by and is maintained by Ulrich Theobald, a Lecturer for Chinese History and Classical Chinese at the [[University of Tübingen]], where he received his doctorate in Chinese Studies in 2009.<ref>
+{{cite book
+| last1                 = Ulrich
+| first1                = Theobald
+| year                  = 2013
+| chapter               = About the Author
+| title                 = War Finance and Logistics in Late Imperial China: A Study of the Second Jinchuan Campaign (1771-1776)
+| series                = Monies, markets, and finance in East Asia, 1600-1900
+| location              = [[Leiden]]
+| publisher             = [[Brill Publishers|Brill]]
+| doi                   = 10.1163/9789004255678
+| isbn                  = 9789004255678
+| issn                  = 2210-2876
+}}</ref>
+
+The site is frequently used as a [[citation]] source for facts presented elsewhere since it is not commercial and site's author states all his sites are freely visible and copyable. However, the site's author states, "When writing papers, students should use books and not the internet."<ref name="ckabout">
+{{cite web
+|url=http://chinaknowledge.de/About/about.html
+|title=Chinaknowledge - About us
+|author=Ulrich Theobald
+|publisher=Chinaknowledge
+|accessdate=2010-06-05}}</ref>
+
+Chinaknowledge.de provides information about Chinese history and culture to a wide public, from academicians and high-school pupils to the interested "layman".<ref name="Ulrich Theobald">{{cite web
+|url=http://www.chinaknowledge.de/index.html
+|title=Chinaknowledge - home
+|author=Ulrich Theobald
+|publisher=Chinaknowledge
+|accessdate=2012-11-23}}</ref> Chinaknowledge concentrates on certain aspects insufficiently dealt with by other sources, especially traditional literature, biographies, historical terms, economic history.<ref name="Ulrich Theobald"/>
+
+The author identifies Chinaknowledge as a non-commercial endeavor and pledges that he will "not make any advertisements for profit-oriented companies on my site."<ref name="ckabout"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official|url=http://www.chinaknowledge.de/}}
+
+{{Use mdy dates|date=September 2020}}
+[[Category:German travel websites]]
+[[Category:History websites of Germany]]
+[[Category:Art websites]]
+[[Category:German literature websites]]
+[[Category:Religious websites]]
+[[Category:Internet properties established in 2001]]
+[[Category:Historiography of China]]
+
+{{reli-website-stub}}
+{{China-hist-stub}}

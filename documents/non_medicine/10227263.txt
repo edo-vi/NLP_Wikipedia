@@ -1,0 +1,22 @@
+{{short description|Questionable IV vitamin alternative therapy}}
+{{More medical citations needed|date=January 2020}}'''Myers' cocktail''' is an [[Intravenous therapy|intravenous]] (IV) vitamin therapy that lacks [[scientific evidence]] to support its use as a medical treatment.<ref>{{Cite news|url=https://www.nytimes.com/2014/12/25/style/iv-drips-touted-as-hangover-relief.html|title=IV Drips Touted as Hangover Relief|last=Ellin|first=Abby|date=2014-12-24|work=The New York Times|access-date=2020-01-14|language=en-US|issn=0362-4331}}</ref> The term, Myers' cocktail, is included in [[Quackwatch]]'s index of questionable treatments.<ref>{{cite web | url = http://www.quackwatch.org/01QuackeryRelatedTopics/treatmentindex.html | title = Index of Questionable Treatments | accessdate = 2013-01-24 | last = Barrett | first = S | authorlink = Stephen Barrett | work = [[Quackwatch]] | date = 2011-03-24 }}</ref> 
+
+The name is attributed to Baltimore physician John A. Myers. Prior to his death in 1984, Myers allegedly had administered vitamin infusions to patients.<ref name="closer-look">{{Cite web|url=https://sciencebasedmedicine.org/a-closer-look-at-vitamin-injections/|title=A closer look at vitamin injections|website=sciencebasedmedicine.org|date=24 May 2013|language=en-US|access-date=2020-01-14}}</ref> Despite claims to the contrary, the original formula is unknown; the current "Myers' cocktail" recipe was published by a physician, Alan Gaby, who took on many of Myers' patients after he died.<ref name="closer-look">{{Cite web|url=https://sciencebasedmedicine.org/a-closer-look-at-vitamin-injections/|title=A closer look at vitamin injections|website=sciencebasedmedicine.org|date=24 May 2013|language=en-US|access-date=2020-01-14}}</ref>
+
+[[naturopathy|Naturopaths]] and other practitioners of pseudoscientific medicine in the [[United States]] and [[Canada]] often administer the IV drip in clinics and health spas.<ref name="gorski-ftc">{{cite web |last1=Gorski |first1=David |title=The FTC cracks down on iV Bars for false advertising claims about its "intravenous micronutrient therapy"|url=https://sciencebasedmedicine.org/the-ftc-cracks-down-on-the-company-selling-iv-bars-for-false-advertising-claims/ |website=Science-based Medicine |access-date=20 May 2022 |date=24 September 2018}}</ref><ref>{{cite news|url=https://www.theglobeandmail.com/life/health-and-fitness/run-down-execs-and-celebs-embrace-the-vitamin-drip/article596997/|title=Run-down execs and celebs embrace the vitamin drip|last1=Verner|first1=Amy|date=12 July 2010|work=Globe and Mail|accessdate=10 July 2016}}</ref><ref>{{cite news|url=http://news.nationalpost.com/health/0801-na-vitamin-drip|title=Hooking up to an IV drip is the latest health fad, but critics say there is little proof it works|last1=Kirkey|first1=Sharon|date=21 July 2015|work=National Post|accessdate=10 July 2016}}</ref>
+
+In 2018, the US Federal Trade Commission filed a complaint against a peddler of Myers Cocktails and other IV treatments for making false health claims.<ref name="FTC-press-release">{{cite news |title=FTC Brings First-ever Action Targeting "iV Cocktail" Therapy Marketer |url=https://www.ftc.gov/news-events/news/press-releases/2018/09/ftc-brings-first-ever-action-targeting-iv-cocktail-therapy-marketer |access-date=20 May 2022 |work=Federal Trade Commission |date=20 September 2018 |language=en}}</ref>
+
+==See also==
+* [[Intravenous ascorbic acid]]
+* [[Detoxification (alternative medicine)|Detoxification in alternative medicine]]
+* [[Vitamin C megadosage]]
+
+== References ==
+{{reflist}}
+
+[[Category:Vitamins]]
+[[Category:Orthomolecular medicine]]
+[[Category:Naturopathy]]
+
+{{Alt-med-stub}}

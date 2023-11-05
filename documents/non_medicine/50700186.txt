@@ -1,0 +1,71 @@
+{{short description|Biographical database of Chinese people}}
+{{More citations needed|date=June 2016}}
+{{Infobox bibliographic database
+| title       = China Biographical Database (CBDB)
+| image       = CBDB .png
+| caption     = 
+| producer    = 
+| country     = 
+| history     = 
+| languages   = English, Chinese
+| providers   = Fairbank Center for Chinese Studies at Harvard University, Institute of History and Philology of Academia Sinica, Center for Research on Ancient Chinese History at Peking University 
+| cost        = 
+| disciplines = Humanities, Social Science
+| depth       = 
+| formats     = 
+| temporal    = 7th - 19th centuries 
+| geospatial  = China
+| number      = more than 360,000 individuals
+| updates     = 
+| p_title     = 
+| p_dates     = 
+| ISSN        = 
+| website         = {{URL|1=http://projects.iq.harvard.edu/cbdb/home}}
+| titles      =  
+}}
+
+The '''China Biographical Database (CBDB)''' is a [[relational database]] on [[history of China|Chinese]] [[historical figures]] from the 7th to 19th centuries.<ref>{{Cite web|title=China Biographical Database Project (CBDB)|url=https://projects.iq.harvard.edu/cbdb/home|access-date=2020-10-19|website=projects.iq.harvard.edu|language=en}}</ref> The database provides biographical information (name, date of birth and death, ancestral place, degrees and offices held, kinship and social associations, etc.) of approximately 360,000 individuals up until April 2015.<ref>{{cite web|url=http://projects.iq.harvard.edu/cbdb |title=China Biographical Database Project (CBDB) |website=Projects.iq.harvard.edu |date=2016-11-07 |accessdate=2016-12-11}}</ref>
+
+==History==
+CBDB was originally started by the late Chinese historian Robert M. Hartwell.<ref>{{cite book|last1=Mostern|first1=Ruth|title="Dividing the Realm in Order to Govern": The Spatial Organization of the Song State (960-1276 CE)|date=2011|publisher=Harvard University Press|location=Cambridge|page=10}}</ref> Hartwell first conceived of using a relational database to study the social and family networks of Song dynasty officials. Aware of the lack of large dataset research in social and economic history of medieval China, he took the first step to collect large sets of data himself and generate meaningful answers to historical changes through data analysis. One important legacy of Professor is program of massive data which he structured around
+#people,
+#places,
+#a bureaucratic system,
+#kinship structures and
+#contemporary modes of social association.
+
+Before his death Professor Hartwell bequeathed the program, which by then consisted of more than 25,000 individuals, a bibliographic database of over 4500 titles, and multiple geo-reference tools to the Harvard Yenching Institute.{{citation needed|date=June 2016}}
+
+Later, Michael A. Fuller, Professor of Chinese Literature at [[UC Irvine]], started to redesign the application. Professor [[Peter K. Bol]] at Harvard also has disseminated extensive digital information for quantitative analysis. As a joint project of [[Fairbank Center for Chinese Studies]] at [[Harvard University]], Institute of History and Philology of [[Academia Sinica]] (中研院歷史語言研究所), and Center for Research on Ancient Chinese History at [[Peking University]] (北京大學中國古代史研究中心), the database has been greatly expanded in temporal and coverage scope.
+
+==Sources==
+CBDB uses wide range of biographical sources to collect information about individuals. The main types of writings covered include biographical index, biography sections of official histories, funerary essays, epitaphs, local gazetteers, preface, writings, letters, and colophons in personal writing collections, and other governmental compiled records.<ref>{{cite web|last1=Fuller|first1=Michael A.|date=February 28, 2015|title=The China Biographical Database User's Guide|url=http://projects.iq.harvard.edu/files/cbdb/files/cbdb_users_guide.pdf?m=1438184400|website=China Biographical Database}}</ref>
+
+CBDB is a long-term open-ended project. It has incorporated sources from biographical indexes 傳記資料索引 for [[Song dynasty|Song]] 宋 (completed), [[Yuan dynasty|Yuan]] 元 (completed), and  [[Ming dynasty|Ming]] 明, birth-death dates for [[Qing dynasty|Qing]] 清 figures and listing of Song local officials. CBDB is also cooperating with other databases such as Ming Qing Women's Writings (MQWW), Ming Qing Name Authority, and Pers-DB Knowledge Base of [[Tang dynasty|Tang]] Persons (Kyoto) to enrich its entries.<ref>{{cite news|last1=Reviews of Internet resources for Asian Studies|title=Resource: China Biographical Database Project (CBDB) [New Release]|url=http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=h-asia&month=1101&week=a&msg=LRLNA%2BHczWkkKsdZQPINnQ&user=&pw=|issue=Jan 2011, Vol. 18, No. 1, 320|publisher=The Asian Studies WWW Monitor}}</ref>
+
+==Limitations==
+CBDB aims at extracting large amount of data from extant sources through data mining techniques. As a result, social and kinship associations, such as might be known from an individual's literary collection, and funerary biographies are not exhaustive. Because of the nature of the sources, career data (e.g. ranks and positions a person held), will be biased toward higher offices. Since the database does not require in-depth research into each individuals, factual errors and contradictory information would also be included in the entries, as long as they are from the primary source.<ref>{{cite news|title=New Approaches in Chinese Digital Humanities － CBDB and Digging into Data Workshop|url=http://www.oir.pku.edu.cn/En/html/2016/InternationalConference_0111/406.html|agency=Office of International Relations|publisher=Peking University|date=2016-01-11|access-date=2016-06-02|archive-url=https://web.archive.org/web/20160701172009/http://www.oir.pku.edu.cn/En/html/2016/InternationalConference_0111/406.html|archive-date=2016-07-01|url-status=dead}}</ref>
+
+==Geo-reference tools==
+One area in which CBDB could be used is prosopographical research.<ref>{{cite journal|last1=Gerritsen|first1=Anne|title=Prosopography and its Potential for Middle Period Research (Workshop on the Prosopography of Middle Period China: Using the China Biographical Database)|journal=[[Journal of Song-Yuan Studies]]|date=2008|volume=38|pages=161–201|doi=10.1353/sys.2008.a380505 }}</ref> By combining geographic information system (GIS) software with CBDB, patterns could be mapped out through queries generated from large datasets, for instance, who came from a certain place and what were the social and kinship connections among all those who entered government through the civil service examination from a certain place within a certain span of years, etc.<ref>{{cite web |url=https://qing_studies.press.jhu.edu/research/biography |title=China Biographical Database &#124; Qing Studies |website=Qing_studies.press.jhu.edu |date= |accessdate=2016-12-11 |archive-url=https://web.archive.org/web/20170110140724/https://qing_studies.press.jhu.edu/research/biography |archive-date=2017-01-10 |url-status=dead }}</ref> One useful geo-reference tool for the study of Chinese history is the China Historical GIS (CHGIS) project, which makes datasets of the administrative units between 221 BC and 1911 AD and major towns for the 1820–1911 period freely available. Other GIS software such as ArcGIS or MapInfo (or even GoogleEarth) are also compatible with CBDB output.
+
+[[File:Commercial tax quotas as of 1077 and the success of localities in the civil service examinations during Northern Song.jpg|thumb|Commercial tax quotas as of 1077 and the success of localities in the civil service examinations during [[Northern Song]]]]
+
+==See also==
+*[[China Historical Geographic Information System]] (CHGIS)
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* [[Peter K. Bol]], Chao-Lin Liu, and Hongsu Wang, ''Mining and Discovering Biographical Information in Difangzhi with a Language-Model-based Approach''<ref>{{cite arXiv|title=Mining and Discovering Biographical Information in Difangzhi with a Language-Model-based Approach |eprint=1504.02148 |last1=Bol |first1=Peter K. |last2=Liu |first2=Chao-Lin |last3=Wang |first3=Hongsu |year=2015 |class=cs.CL }}</ref>
+* Peter K. Bol, "The Late Robert M. Hartwell  'Chinese Historical Studies, Ltd.' Software Project," 1999<ref>{{cite web|url=http://pnclink.org/annual/annual1999/1999pdf/bol.pdf |title=The Late Robert M. Hartwell "Chinese Historical Studies, Ltd." Software Project |author=Peter Bol |website=Pnclink.org |accessdate=2016-12-11}}</ref>
+* Anne Gerritsen, "Using the CBDB for the study of women and gender? Some of the pitfalls" December 2007<ref>{{cite web |url=http://www.humanities.uci.edu/eastasian/SungYuan/Downloads/Warwick/AnneGerritsen.pdf |title=Using the CBDB for the study of women and gender? Some of the pitfalls |author=Anne Gerritsen |website=Humanities.uci.edu |accessdate=2016-12-11 |archive-url=https://web.archive.org/web/20170110140654/http://www.humanities.uci.edu/eastasian/SungYuan/Downloads/Warwick/AnneGerritsen.pdf |archive-date=2017-01-10 |url-status=dead }}</ref>
+* Fuller, Michael A. "The China Biographical Database User's Guide," February 28, 2015<ref>{{cite web|url=http://projects.iq.harvard.edu/files/cbdb/files/cbdb_users_guide.pdf?m=1438184400 |format=PDF |title=The China Biographical Database : User's Guide |author=Michael A. Fuller |date=February 28, 2015 |website=Projects.iq.harvard.edu |accessdate=2016-12-11}}</ref>
+* "Online Guide to Querying and Reporting System," Academia Sinica<ref>{{cite web|url=http://db1.ihp.sinica.edu.tw/cbdb/help_eng/systemintro.html |title=CBDB Querying and Reporting System - Online Help |website=Db1.ihp.sinica.edu.tw |date= |accessdate=2016-12-11}}</ref>
+
+[[Category:Historiography of China]]
+[[Category:Bibliographic databases and indexes]]
+[[Category:Harvard University]]
+[[Category:Academia Sinica]]
+[[Category:Peking University]]

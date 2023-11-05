@@ -1,0 +1,14 @@
+{{Short description|Phrase describing the poetry of William Wordsworth}}
+The '<nowiki/>'''egotistical sublime'''' is a phrase coined by [[John Keats]] to describe the poetry of [[William Wordsworth]] in a 1818 letter to Richard Woodhouse. The phrase expresses the underlying self-centered nature of Wordsworth's poetry, particularly his use of the narrative voice to convey his own conception of a singular truth. The egotistical sublime contrasts with Keat's perception of '[[negative capability]]' which he believed to be the ideal and exemplified by the sonnets of [[William Shakespeare]].<ref>{{Cite book |last=Baldick |first=Chris |title=Oxford Dictionary of Literary Terms |publisher=Oxford University Press |year=2015 |isbn=978-0-19-871544-3 |location=Oxford |pages=111–112, 239–240 |language=en}}</ref><ref>{{Cite web |last=Fessler |first=Leah |title=A 19th-century poet's trick for cultivating a creative mindset |url=https://qz.com/938847/john-keats-theory-of-negative-capability-can-help-you-cultivate-a-creative-mindset/ |access-date=2022-04-19 |website=Quartz |language=en}}</ref>
+
+==Other uses==
+English literary scholar, [[John Jones (academic)|John Jones]], titled his 1954 work on William Wordsworth ''The Egotistical Sublime: A History of Wordsworth's Imagination''
+
+==References==
+{{reflist}}
+
+[[Category:Literature]]
+[[Category:Romanticism]]
+
+
+{{lit-stub}}

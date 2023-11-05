@@ -1,0 +1,51 @@
+{{Infobox magazine
+| title = Townsend Letter
+| logo =
+| logo_size =
+| image_file = <!-- cover.jpg (omit the "file: prefix -->
+| image_size = <!-- (defaults to user thumbnail size if no size is stated) -->
+| image_alt =
+| image_caption =
+| editor = Jonathan Collin, MD<ref name=feuerman1997>{{cite book|last1=Feuerman|first1=Francine|last2=Handel|first2=Marsha J.|title=Alternative Medicine Resource Guide|url=https://books.google.com/books?id=MUOiz1oIjhIC&pg=PA224|year=1997|publisher=Medical Library Association|isbn=978-0-8108-3284-8|page=224}}</ref>
+| editor_title = Editor-in-Chief
+| previous_editor =
+| staff_writer =
+| photographer =
+| category = [[Alternative medicine]]<ref name="ulrichsweb">{{cite web|title=Townsend Letter|url=http://ulrichsweb.serialssolutions.com/title/246132|work=[[Ulrichsweb]]|publisher=ProQuest LLC|accessdate=August 30, 2013}}</ref>
+| frequency = Ten times per year<ref name=feuerman1997/>
+| circulation =
+| paid_circulation = 6000
+| unpaid_circulation =
+| total_circulation =
+| circulation_year =
+| publisher =
+| founder = Jonathan Collin, MD
+| founded = {{Start date|1983}}
+| firstdate = {{Start date|1983}}<ref name=feuerman1997/>
+| company =
+| country = [[United States]]<ref name=feuerman1997/>
+| based = [[Port Townsend, Washington]]<ref name=feuerman1997/>
+| language = [[English language|English]]
+| website = {{URL|www.townsendletter.com}}
+| issn = 1940-5464
+| oclc =
+}}
+'''''Townsend Letter''''', formerly '''''Townsend Letter for Doctors''''', then '''''Townsend Letter for Doctors & Patients''''', is a periodical focusing on [[alternative medicine]] which has been in circulation since 1983.<ref name=feuerman1997/><ref name=lsbu>{{cite web | title=Quick Search – Townsend letter for doctors & patients [electronic resource] | work=London South Bank University Library | url=http://encore.lsbu.ac.uk/iii/encore/record/C__Rb1401206?lang=eng | accessdate=26 December 2013 }}</ref> 
+
+The website [[Quackwatch]] has listed the ''Townsend Letter'' on its list of magazines as non-recommended and fundamentally flawed.<ref>[http://www.quackwatch.org/04ConsumerEducation/nonrecperiodicals.html Nonrecommended Periodicals], from [[Quackwatch]]. Accessed August 21, 2008.</ref>
+
+== Abstracting and indexing ==
+''Townsend Letter'' is abstracted and indexed by [[EBSCO Publishing]], [[Gale (publisher)|Gale]], and the [[British Library]].<ref name="ulrichsweb" />
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{official website|http://www.townsendletter.com/ }}
+
+[[Category:Health publications]]
+[[Category:Alternative medicine publications]]
+[[Category:Publications established in 1983]]
+
+
+{{Alt-med-stub}}

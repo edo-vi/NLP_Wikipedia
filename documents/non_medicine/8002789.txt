@@ -1,0 +1,40 @@
+{{Short description|Species of bacterium}}
+{{Italic title}}
+{{Speciesbox
+| image = Corynebacterium renale culture.jpg
+| image_caption = Blood agar plate culture of ''Corynebacterium renale''
+| taxon = Corynebacterium renale
+| authority = ([[Walter Migula|Migula]] 1900) Ernst 1906 (Approved Lists 1980)
+}}
+
+'''''Corynebacterium renale''''' is a pathogenic [[bacterium]] that causes [[cystitis]] and [[pyelonephritis]] in cattle.<ref>{{cite web | title = Bovine Cystitis and Pyelonephritis | work = The Merck Veterinary Manual | date = 2006 | url = http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/130302.htm | access-date = 2007-06-05 }}</ref>
+
+''C. renale'' is a [[Facultative anaerobic organism|facultatively anaerobic]]  [[Gram-positive]] organism, characterized by nonencapsulated, nonsporulated, immobile, straight or curved rods with a length of 1 to 8&nbsp;µm and width of 0.3 to 0.8&nbsp;µm, which forms ramified aggregations in culture (looking like "Chinese characters").
+
+The bacterium is sensitive to the majority of [[antibiotics]], such as [[penicillin]]s, [[ampicillin]], [[cephalosporin]]s, [[Quinolone antibiotic|quinolones]], [[chloramphenicol]], [[tetracycline]]s, [[cefuroxime]], and [[trimethoprim]].
+
+Due to similarities in diagnostic testing procedures ''Corynebacterium cystiditis'' may be misdiagnosed as ''Corynebacterium renale'' in beef cattle.<ref>{{Cite journal|doi=10.1111/jvim.15844|title=Clinical presentations and antimicrobial susceptibilities of Corynebacterium cystitidis associated with renal disease in four beef cattle|year=2020|last1=Smith|first1=Joe S.|last2=Krull|first2=Adam C.|last3=Schleining|first3=Jennifer A.|last4=Derscheid|first4=Rachel J.|last5=Kreuder|first5=Amanda J.|journal=Journal of Veterinary Internal Medicine|volume=34|issue=5|pages=2169–2174|pmid=32830373|pmc=7517842}}</ref>
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* {{cite journal|last1=Srivastava|first1=Preeti|title=Physiological and biochemical consequences of host-plasmid interaction - A case study with Corynebacterium renale, a multiple cryptic plasmid containing strain|journal=Plasmid|date=16 November 2010|volume=65|issue=2|pages=110–117|doi=10.1016/j.plasmid.2010.11.003|pmid=21087624}}
+*  Smith, JS, Krull, AC, Schleining, JA, Derscheid, RJ, Kreuder, AJ. Clinical presentations and antimicrobial susceptibilities of Corynebacterium cystitidis associated with renal disease in four beef cattle. J Vet Intern Med. 2020; 34: 2169– 2174. https://doi.org/10.1111/jvim.15844
+
+==External links==
+* [http://bacdive.dsmz.de/index.php?search=3116&submit=Search Type strain of ''Corynebacterium renale'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Portal bar|Biology}}
+{{Taxonbar|from=Q5173762}}
+{{Authority control}}
+
+[[Category:Corynebacterium]]
+[[Category:Gram-positive bacteria]]
+[[Category:Bacteria described in 1906]]
+[[Category:Animal bacterial diseases]]
+[[Category:Bovine diseases]]
+
+
+{{veterinary-med-stub}}
+{{actinobacteria-stub}}

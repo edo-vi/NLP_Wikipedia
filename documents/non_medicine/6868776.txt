@@ -1,0 +1,50 @@
+
+{{Infobox medical condition (new)
+| name            = Metastrongylosis
+| synonyms        =
+| image           =
+| caption         =
+| pronounce       =
+| field           =
+| symptoms        =
+| complications   =
+| onset           =
+| duration        =
+| types           =
+| causes          =
+| risks           =
+| diagnosis       =
+| differential    =
+| prevention      =
+| treatment       =
+| medication      =
+| prognosis       =
+| frequency       =
+| deaths          =
+}}
+'''Metastrongylosis''' is a [[parasitic disease]] that affects [[wild boar]]s and [[pig]]s which live outdoors.<ref name="Garcia 2013">{{cite journal |last1=García-González |first1=Ángela María |last2=Pérez-Martín |first2=Juan Enrique |last3=Gamito-Santos |first3=José Antonio |last4=Calero-Bernal |first4=Rafael |last5=Alonso |first5=María Alcaide |last6=Carrión |first6=Eva María Frontera |title=Epidemiologic study of lung parasites (''Metastrongylus'' spp.) in wild boar (''Sus scrofa'') in southwestern Spain |journal=Journal of Wildlife Diseases |date=January 2013 |volume=49 |issue=1 |pages=157–162 |doi=10.7589/2011-07-217 |doi-access=free|pmid=23307382}}</ref> It is caused by various species of roundworms of the genus ''[[Metastrongylus]]''.<ref name="Iowa">{{cite web |title=Lungworm infection (Metastrongylosis) |url=https://vetmed.iastate.edu/vdpam/FSVD/swine/index-diseases/metastrongylosis |website=Iowa State University |accessdate=2018-11-25}}</ref> A handful of cases of metastrongylosis have been reported in humans.<ref name="Caballero 2016">{{cite journal |last1=Caballero |first1=Henry |last2=Calvopina |first2=Manuel |last3=Korenaga |first3=Masataka |last4=Morita |first4=Tatsushi |title=Human pulmonary infection by the zoonotic ''Metastrongylus salmi'' nematode The first reported case in the Americas |journal=The American Journal of Tropical Medicine and Hygiene |date=5 October 2016 |volume=95 |issue=4 |pages=871–873 |doi=10.4269/ajtmh.16-0247|doi-access=free |pmid=27382078 |pmc=5062791}}</ref>
+
+''Metastrongylus'' species have a life cycle which involves [[earthworm]]s as an intermediate host.<ref name="Jackson 2007">{{cite book |last1=Jackson |first1=Peter G. G. |last2=Cockcroft |first2=Peter D. |title=Handbook of Pig Medicine |date=2007 |publisher=Saunders/Elsevier |isbn=9780702028281 |page=82 |chapter=Metastrongylosis}}</ref> Pigs root for [[earthworm]]s in [[soil]], and ingest the ''Metastrongylus'' larvae which are infesting the earthworms.<ref name="Iowa" /> The larvae migrate to the lungs, and cause the pig to cough and have difficulty breathing.<ref name="Jackson 2007" />
+
+==References==
+{{Reflist}}
+== External links ==
+{{Medical resources
+|  DiseasesDB     = 
+|  ICD10          = {{ICD10|B|83|8|b|65}}
+|  ICD9           = 
+|  ICDO           = 
+|  OMIM           = 
+|  MedlinePlus    = 
+|  eMedicineSubj  = 
+|  eMedicineTopic = 
+|  MeshID         =
+}}
+{{Helminthiases|state=collapsed}}
+
+[[Category:Swine diseases]]
+[[Category:Helminthiases]]
+[[Category:Veterinary helminthology]]
+
+
+{{Veterinary-med-stub}}

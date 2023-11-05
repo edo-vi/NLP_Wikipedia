@@ -1,0 +1,44 @@
+{{Short description|Species of bacterium}}
+{{Speciesbox
+| image =
+| genus = Mycoplasma
+| species = meleagridis
+| authority = Yamamoto ''et al.'' 1965 (Approved Lists 1980)
+}}
+
+'''''Mycoplasma meleagridis''''' is a small [[bacteria]] responsible for [[air sacculitis]] and disorders of the musculoskeletal and reproductive systems in [[Turkey (bird)|turkeys]]. These symptoms are also known as Mycoplasma air sacculitis, Mycoplasma infectious stunting, and [[Mycoplasmosis]].{{Citation needed|date=November 2020}}
+
+The infection is more severe in [[Poult|young birds]] and occurs globally wherever turkeys are reared intensively. Transmission is mainly [[Vertical transmission|vertical]] via the egg but ticks such as the [[Ixodes]] species can also be [[Tick-borne disease|vectors]].
+
+==Clinical signs and diagnosis==
+The infection is often [[subclinical]] but may appear as mild stunting.
+
+Air sacculitis appears as [[tachypnoea]], [[Rhinorrhea|nasal discharge]] and [[sneezing]].
+
+Musculoskeletal problems can lead to lameness, swelling and crooked necks.
+
+There may be a drop in egg production.
+
+The bacteria can be [[Microbiological culture|cultured]] from tissue samples or swabs and identified with [[Polymerase chain reaction|PCR]] or [[immunofluorescence]].
+
+[[ELISA]] and the Slide Agglutination Test are used for serological diagnosis.
+
+==Treatment and control==
+[[Antibiotics]] are effective at treating and preventing the infection, especially [[Tylosin]] but also [[Lincomycin]] and [[Spectinomycin]].
+
+[[Vertical transmission]] is difficult to prevent, but males can be tested before breeding and eggs can be dipped in a Tylosin bath.
+
+==References==
+*'''Mycoplasma meleagridis''', expert reviewed and published by Wikivet at http://en.wikivet.net/Mycoplasma_meleagridis accessed 07/10/2011.
+
+==External links==
+*[http://bacdive.dsmz.de/index.php?search=8610&submit=Search Type strain of ''Mycoplasma meleagridis'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Taxonbar|from=Q3869031}}
+
+[[Category:Bird diseases]]
+[[Category:Mycoplasma|meleagridis]]
+
+
+{{Veterinary-med-stub}}
+{{mollicutes-stub}}

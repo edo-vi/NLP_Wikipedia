@@ -1,0 +1,43 @@
+{{Infobox Organization
+|name         = Association of<br/> Osteopathic Directors<br/> and Medical Educators 
+|image        = Association of Osteopathic Directors and Medical Educators logo.jpg
+|image_border = 
+|size         = 275px
+|caption      = 
+|map          = 
+|msize        = 
+|mcaption     =
+|abbreviation = AODME
+|motto        = 
+|formation    = 
+|type         = [[Professional association]]
+|headquarters = [[Chicago, Illinois|Chicago]], [[Illinois|IL]]<ref>{{cite web|url=http://www.aodme.org/displaycommon.cfm?an=6 |title=Contact AODME |publisher=Association of Osteopathic Directors and Medical Educators |accessdate=19 October 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120403005003/http://www.aodme.org/displaycommon.cfm?an=6 |archivedate=3 April 2012 }}</ref>
+|location     = United States
+|membership   = 
+|language     = English
+|leader_title = President
+|leader_name =Richard LaBaere II, [[Doctor of Osteopathic Medicine|DO]], [[Master of Public Health|MPH]], FAODME<ref>{{cite web|url=http://www.aodme.org/displaycommon.cfm?an=1&subarticlenbr=75 |title=2012-2013 AODME Board of Trustees |publisher=Association of Osteopathic Directors and Medical Educators |accessdate=1 October 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120402212826/http://www.aodme.org/displaycommon.cfm?an=1&subarticlenbr=75 |archivedate=2 April 2012 }}</ref>
+|leader_title2= President-Elect
+|leader_name2=Harold Lausen, DO, FAODME, FACOFP, FAAFP
+|leader_title3 = Secretary
+|leader_name3  = Robert Cain, DO
+|leader_title4= Treasurer
+|leader_name4= Joseph Mazzola, DO
+|former name = 
+|num_staff    = 
+|budget       = 
+|website      = {{URL|http://www.aacom.org/aogme}}
+}}
+The '''Association of Osteopathic Directors and Medical Educators''' ('''AODME''') is a [[professional association]] of deans and presidents of [[Osteopathic medicine in the United States|osteopathic]] medical schools, [[Residency (medicine)|residency]] program directors, and the leadership of the [[American Association of Colleges of Osteopathic Medicine]] (AACOM).<ref>{{cite web|url=http://www.hwic.org/experts/details.php?id=2169 |archive-url=https://web.archive.org/web/20180123072827/http://www.hwic.org/experts/details.php?id=2169 |url-status=dead |archive-date=23 January 2018 |title=Association of Osteopathic Directors and Medical Educators |author= |date= |publisher=Health Workforce Information Center |accessdate=19 October 2012 }}</ref> The organization's headquarters are located in [[Chicago, Illinois]]. January 2018 marked the beginning of the integration of AODME within AACOM. The integration bridges the gap between undergraduate and graduate medical education (GME) by providing leadership for the full continuum of osteopathic medical education. As part of the integration AODME will be renamed as the Assembly of Osteopathic Graduate Medical Educators (AOGME). <ref>{{Cite web|url=http://www.aacom.org/news-and-events/news-detail/2017/11/29/aacom-and-aodme-join-forces-to-strengthen-the-full-ome-continuum|title=AACOM and AODME Join Forces to Strengthen the Full OME Continuum|website=www.aacom.org|access-date=2018-01-22}}</ref>
+
+==References==
+{{reflist}}
+
+{{Osteopathic medicine3}}
+
+{{Osteo-med-stub}}
+{{US-health-org-stub}}
+
+[[Category:Osteopathic medical associations in the United States]]
+[[Category:Medical education in the United States]]
+[[Category:Medical and health professional associations in Chicago]]

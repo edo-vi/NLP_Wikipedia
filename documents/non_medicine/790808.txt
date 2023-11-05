@@ -1,0 +1,15 @@
+{{Short description|Substances & processes originating within an organism, tissue, or cell}}
+{{For|endogeny or endogeneity in other contexts|Endogeneity (disambiguation){{!}}Endogeneity|Exogeny}}
+Endogenous substances and processes are those that originate from within a living system such as an [[organism]], [[Tissue (biology)|tissue]], or [[Cell (biology)|cell]].<ref>{{cite web|url=http://dictionary.reference.com/search?q=endogenous |title=Endogenous &#124; Define Endogenous at Dictionary.com |publisher=Dictionary.reference.com |access-date=2011-07-11}}</ref>
+
+In contrast, [[Exogeny|exogenous]] substances and processes are those that originate from outside of an organism.
+
+For example, [[estradiol]] is an endogenous [[estrogen]] [[hormone]] produced within the body, whereas [[ethinylestradiol]] is an exogenous synthetic estrogen, commonly used in [[birth control pills]].
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Wiktionary-inline|endogeny}}
+
+[[Category:Biology]]

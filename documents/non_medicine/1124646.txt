@@ -1,0 +1,164 @@
+{{About|conferences related to artificial intelligence|the peace process conferences|Dartmouth Conference}}
+{{short description|1956 scientific conference on artificial intelligence}}
+{{tone|date=June 2018}}
+{{Infobox event
+| title = Dartmouth Summer Research Project on Artificial Intelligence
+| image = 
+| image_size = 
+| image_alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| english_name = 
+| time = 
+| duration = Eight weeks
+| date = {{start date|1956}}
+| venue = [[Dartmouth College]], [[Hanover, New Hampshire|Hanover]], New Hampshire
+| location = 
+| coordinates = <!-- {{coord|LAT|LON|region:XXXX_type:event|display=inline,title}} -->
+| also known as = 
+| type = 
+| theme = 
+| cause = 
+| first reporter = 
+| budget = 
+| patron = <!-- or |patrons= -->
+| organisers = John McCarthy
+| filmed by = 
+| participants = [[Marvin Minsky]], [[Nathaniel Rochester (computer scientist)|Nathaniel Rochester]], and [[Claude Shannon]] (who proposed the workshop), with others
+| outcome = 
+| casualties1 = 
+| casualties2 = 
+| casualties3 = 
+| reported deaths = 
+| reported injuries = 
+| reported missing = 
+| reported property damage = 
+| burial = 
+| inquiries = 
+| inquest = 
+| coroner = 
+| arrests = 
+| suspects = 
+| accused = 
+| convicted = 
+| charges = 
+| verdict = 
+| convictions = 
+| publication bans = 
+| litigation = 
+| awards = 
+| url = 
+| blank_label = <!-- or |blank_data= -->
+| blank1_label = <!-- or |blank1_data= -->
+| blank2_label = <!-- or |blank2_data= -->
+| website = <!-- {{URL|example.com}} -->
+| notes = 
+}}
+
+The '''Dartmouth Summer Research Project on Artificial Intelligence''' was a 1956 summer workshop widely considered<ref>Solomonoff, R.J. "The Time Scale of Artificial Intelligence; Reflections on Social Effects", ''Human Systems Management'', Vol 5, pp. 149–153, 1985</ref><ref>Moor, J., "The Dartmouth College Artificial Intelligence Conference: The Next Fifty years", ''AI Magazine'', Vol 27, No. 4, pp. 87–89, 2006</ref><ref name="auto">Kline, Ronald R., "Cybernetics, Automata Studies and the Dartmouth Conference on Artificial Intelligence", ''IEEE Annals of the History of Computing'', October–December, 2011, IEEE Computer Society</ref> to be the founding event of [[artificial intelligence]] as a field.
+
+The project lasted approximately six to eight weeks and was essentially an extended [[brainstorming]] session. Eleven mathematicians and scientists originally planned to attend; not all of them attended, but more than ten others came for short times.
+
+== Background ==
+
+In the early 1950s, there were various names for the field of "thinking machines": [[cybernetics]], [[automata theory]], and complex [[information processing]].<ref>McCorduck, P., Machines Who Think, A.K. Peters, Ltd, Second Edition, 2004</ref> The variety of names suggests the variety of conceptual orientations.
+
+In 1955, [[John McCarthy (computer scientist)|John McCarthy]], then a young Assistant Professor of Mathematics at [[Dartmouth College]], decided to organize a group to clarify and develop ideas about thinking machines. He picked the name 'Artificial Intelligence' for the new field. He chose the name partly for its neutrality; avoiding a focus on narrow automata theory, and avoiding cybernetics which was heavily focused on analog feedback, as well as him potentially having to accept the assertive [[Norbert Wiener]] as guru or having to argue with him.<ref>Nilsson, N., The Quest for Artificial Intelligence, Cambridge University Press, 2010</ref>
+
+In early 1955, McCarthy approached the [[Rockefeller Foundation]] to request funding for a summer seminar at Dartmouth for about 10 participants. In June, he and [[Claude Shannon]], a founder of [[information theory]] then at [[Bell Labs]], met with Robert Morison, Director of Biological and Medical Research to discuss the idea and possible funding, though Morison was unsure whether money would be made available for such a visionary project.<ref>Kline, Ronald R., Cybernetics, Automata Studies and the Dartmouth Conference on Artificial Intelligence, IEEE Annals of the History of Computing, October–December, 2011, IEEE Computer Society, (citing letters, from Rockefeller Foundation Archives, Dartmouth file6, 17, 1955 etc.</ref>
+
+On September 2, 1955, the project was formally proposed by [[John McCarthy (computer scientist)|McCarthy]], [[Marvin Minsky]], [[Nathaniel Rochester (computer scientist)|Nathaniel Rochester]] and [[Claude Shannon]]. The proposal is credited with introducing the term 'artificial intelligence'.
+
+The Proposal states:<ref>McCarthy, J., Minsky, M., Rochester, N., Shannon, C.E., A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence., http://raysolomonoff.com/dartmouth/boxa/dart564props.pdf August, 1955</ref>
+{{cquote|We propose that a 2-month, 10-man study of artificial intelligence be carried out during the summer of 1956 at Dartmouth College in [[Hanover, New Hampshire]]. The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves. We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer.}}
+The proposal goes on to discuss [[computers]], [[natural language processing]], [[neural networks]], [[theory of computation]], [[abstraction]] and [[creativity]] (these areas within the field of artificial intelligence are considered still relevant to the work of the field).<ref>{{Citation | last = McCarthy | first = John | last2 = Minsky | first2 = Marvin | last3 = Rochester | first3 = Nathan | last4 = Shannon | first4 = Claude | url = http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html | title = A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence | year = 1955 | access-date = 2006-04-09 | archive-url = https://web.archive.org/web/20070826230310/http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html | archive-date = 2007-08-26 | url-status = dead }} retrieved 10:47 (UTC), 9th of April 2006</ref>
+
+On May 26, 1956, McCarthy notified Robert Morison of the planned 11 attendees:
+
+For the full period:
+: 1) [[Marvin Minsky|Dr. Marvin Minsky]] 
+: 2) [[Julian Bigelow|Dr. Julian Bigelow]]
+: 3) [[Donald MacCrimmon MacKay|Professor D.M. Mackay]]
+: 4) [[Ray Solomonoff|Mr. Ray Solomonoff]]
+: 5) [[John Henry Holland|Mr. John Holland]]
+: 6) [[John McCarthy (computer scientist)|Dr. John McCarthy]]
+
+For four weeks:
+: 7) [[Claude Shannon|Dr. Claude Shannon]]
+: 8) [[Nathaniel Rochester (computer scientist)|Mr. Nathaniel Rochester]]
+: 9) [[Oliver Selfridge|Mr. Oliver Selfridge]]
+
+For the first two weeks:
+: 10) [[Allen Newell|Dr. Allen Newell]]
+: 11) [[Herbert A. Simon|Professor Herbert Simon]]
+
+He noted, "we will concentrate on a problem of devising a way of [[Computer programming|programming]] a [[calculator]] to form concepts and to form generalizations. This of course is subject to change when the group gets together."<ref name="auto"/>
+
+The actual participants came at different times, mostly for much shorter times. Trenchard More replaced Rochester for three weeks and MacKay and Holland did not attend—but the project was set to begin. 
+ 
+Around June 18, 1956, the earliest participants (perhaps only Ray Solomonoff, maybe with Tom Etter) arrived at the Dartmouth campus in Hanover, N.H., to join John McCarthy who already had an apartment there. Solomonoff and Minsky stayed at Professors' apartments, but most would stay at the Hanover Inn.
+
+== Dates ==
+
+The Dartmouth Workshop is said to have run for six weeks in the summer of 1956.<ref>Nilsson, N., ''The Quest for Artificial Intelligence'', Cambridge University Press, 2010, p. 53 {{ISBN?}}</ref> Ray Solomonoff's notes written during the Workshop, however, say it ran for roughly eight weeks, from about June 18 to August 17.<ref>Solomonoff, R.J., "Talk", 1956 [http://raysolomonoff.com/dartmouth/boxbdart/dart56ray622716talk710.pdf URL]</ref> Solomonoff's Dartmouth notes start on June 22; June 28 mentions Minsky, June 30 mentions Hanover, N.H., July 1 mentions Tom Etter. On August 17, Solomonoff gave a final talk.<ref>[http://raysolomonoff.com/dartmouth/boxbdart/boxbdart.html Papers]</ref>
+
+== Participants ==
+
+Initially, McCarthy lost his list of attendees. Instead, after the workshop, McCarthy sent Solomonoff a preliminary list of participants and visitors plus those interested in the subject. There were 47 people listed.<ref>McCarthy, J., List, Sept., 1956; List among Solomonoff papers to be posted on website solomonof.com</ref>
+
+Solomonoff, however, made a complete list in his notes of the summer project:<ref>http://raysolomonoff.com/dartmouth/boxbdart/dart56ray812825who.pdf 1956</ref>
+
+# [[Ray Solomonoff]]
+# [[Marvin Minsky]]
+# [[John McCarthy (computer scientist)|John McCarthy]]
+# [[Claude Shannon]]
+# [[Trenchard More]]
+# [[Nathaniel Rochester (computer scientist)|Nat Rochester]]
+# [[Oliver Selfridge]]
+# [[Julian Bigelow]]
+# [[W. Ross Ashby]]
+# [[W.S. McCulloch]]
+# [[Abraham Robinson]]
+# Tom Etter
+# [[John Forbes Nash Jr.|John Nash]]
+# [[David Sayre]]
+# [[Arthur Samuel (computer scientist)|Arthur Samuel]]
+# [[Kenneth R. Shoulders]]
+# Shoulders' friend
+# Alex Bernstein
+# [[Herbert A. Simon|Herbert Simon]]
+# [[Allen Newell]] 
+
+Shannon attended Solomonoff's talk on July 10 and Bigelow gave a talk on August 15. Solomonoff doesn't mention Bernard Widrow, but apparently he visited, along with W.A. Clark and B.G. Farley.<ref name="auto"/> Trenchard mentions R. Culver and Solomonoff mentions Bill Shutz. Herb Gelernter didn't attend, but was influenced later by what Rochester learned.<ref>Nilsson, N., The Quest for Artificial Intelligence, Cambridge University Press, 2010,</ref> 
+
+Ray Solomonoff, Marvin Minsky, and John McCarthy were the only three who stayed for the full-time. Trenchard took attendance during two weeks of his three-week visit. From three to about eight people would attend the daily sessions.<ref>More, Trenchard, 1956, http://raysolomonoff.com/dartmouth/boxa/dart56more5th6thweeks.pdf</ref>
+
+== Event and aftermath ==
+
+They had the entire top floor of the Dartmouth Math Department to themselves, and most weekdays they would meet at the main math classroom where someone might lead a discussion focusing on his ideas, or more frequently, a general discussion would be held.
+
+It was not a directed group research project; discussions covered many topics, but several directions are considered to have been initiated or encouraged by the Workshop: the rise of symbolic methods,  systems focused on limited domains (early [[Expert system|expert systems]]), and deductive systems versus inductive systems. One participant, Arthur Samuel, said, "It was very interesting, very stimulating, very exciting".<ref>McCorduck, P., Machines Who Think, A.K. Peters, Ltd, Second Edition, 2004.</ref>
+
+Ray Solomonoff kept notes giving his impression of the talks and the ideas from various discussions.<ref>{{Cite web | url=http://raysolomonoff.com/dartmouth/ |title = Dartmouth AI Archives}}</ref>
+
+==See also==
+* [[Glossary of artificial intelligence]]
+* [[History of artificial intelligence]]
+* [[AI@50]]—a 50th anniversary conference, including some of the original delegates.
+
+==References==
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+{{Reflist}}
+
+==External links==
+# [https://web.archive.org/web/20081121012220/http://www.info-ab.uclm.es/cmpi/ 50 Años De La Inteligencia Artificial – Campus Multidisciplinar en Percepción e Inteligencia] – [[Albacete]] 2006 ([[Spain]]).
+
+{{Dartmouth College}}
+{{John McCarthy}}
+
+[[Category:Philosophy of artificial intelligence]]
+[[Category:History of artificial intelligence]]
+[[Category:Dartmouth College history]]
+[[Category:Artificial intelligence conferences]]
+[[Category:1956 in computing]]

@@ -1,0 +1,205 @@
+{{Short description|Disaster in Israel}}
+{{infobox
+| above = Maccabiah bridge collapse
+| abovestyle = background-color: #cc9999
+| image1 = [[File:Maccabiah bridge collapse.jpg|250px]]
+| caption1 = Rescuers search for victims from Australia's athletic delegation shortly after the collapse of the pedestrian bridge into the Yarkon River.
+| image2 ={{location map|Israel center ta
+|lat_deg=32|lat_min=06|lat_sec=6.64|lat_dir=N
+|lon_deg=34|lon_min=49|lon_sec=24.24|lon_dir=E
+|border=infobox|label={{bg|white|'''Bridge collapse'''}}|position=top
+|caption =
+}}
+| headerstyle = background-color: #cc9999
+| label2 = '''Date:'''
+| data2 = July 14, 1997
+| label3 = '''Place:'''
+| data3 = [[Yarkon River]], [[Tel Aviv]], [[Israel]]
+| label4 = '''Cause:'''
+| data4 = Faulty construction
+| label5 = '''Result:'''
+| data5 = 4 Australian athletes killed,<br /> / 60+ injured
+}}
+
+The '''Maccabiah bridge collapse''' was the catastrophic failure of a pedestrian bridge over the [[Yarkon River]] in [[Tel Aviv]], [[Israel]] on July 14, 1997. The collapse of the temporary metal and wooden structure killed four and injured more than 60 [[Australia]]n athletes and other team delegates who were visiting Israel to participate in the [[Maccabiah Games]]. One athlete died in the collapse and three died afterwards due to infections caused by exposure to the polluted river water. A subsequent investigation found that negligent shortcuts had been taken in the bridge's construction, mandatory permits and oversight had not been obtained, and the bridge's construction did not meet government requirements.
+
+Five people, including the engineer who designed the bridge and the chair of the Tel Aviv Games Organising Committee, were convicted of recklessly causing death and injury. Four served prison sentences. The fifth, the committee chairman, served a term of community service and was reappointed to a highly-paid management position in 2002. In 2004, after lengthy lawsuit delays, the deceased and the injured were awarded close to $20 million in damages. The disaster highlighted environmental problems in Israel, especially with regard to its rivers and waterways, prompting clean-up efforts. A full Australian team returned to the games in 2005 and participated in a riverside ceremony unveiling a memorial to the victims of the collapse.
+
+__TOC__
+
+==Background==
+{{Further|Maccabiah Games}}
+The Maccabiah Games, organized by [[Maccabi World Union]] (MWU) and first staged in 1932, is an athletic event held every four years in Tel Aviv, Israel, to celebrate the [[History of Israel#1897—1917: The Zionist Revolution|Zionist Revolution]], and to demonstrate the unity and athleticism of the [[Jewish people]].<ref name="Tal" /> The games include competitions for adults and for junior athletes aged 15 to 18, and are open to all Israelis and Jews from around the world.<ref name="Maccabiah" />
+
+The [[1997 Maccabiah Games|15th Maccabiah Games]], held in 1997 and billed as the third largest sporting event in the world, included 5,300 participants from 56 nations competing in 38 athletic events. The opening ceremony on July 14 at 8 p.m. (local time), held at [[Ramat Gan Stadium]] and designed to celebrate the 100th anniversary of the [[First Zionist Congress]], was attended by 50,000 people and featured hundreds of dancers, dazzling sound and light displays, and was broadcast on Israeli television. As at past games, a temporary footbridge, 60 feet long and 18 feet wide, was constructed across the nearby Yarkon River to allow competitors to march into the stadium during the ceremony from an assembly area on the other side of the river.<ref name="Tal" /><ref name="Schmemann1" /><ref name="Slater" />
+
+==Collapse==
+As scheduled during the opening ceremony, the participating athletes, teamed with their respective national delegations, began to cross the bridge and enter the stadium in alphabetical order. The second nation to cross the bridge, following the [[Austria]]n team, consisted of the 373 members of the Australian delegation. As the Australian athletes, in parallel rows of six, crossed the river, the bridge's support beams at roughly mid-span snapped, plunging around 100 of the Australians eight metres into the river below. Several of the fallen were forcibly submerged in the 1.6-metre deep river by the weight of falling athletes above them. Dozens struggled to get out of the river, and many linked arms to form a human chain to pull each other out. Some of the fallen were caught in the bridge's twisted beams.<ref name=apnews>{{cite web |url=https://apnews.com/article/dd1cbcc219fa641aa26d1d34d4e62396 |accessdate=10 September 2021| title=Two dead, 64 injured in bridge collapse at games' opening ceremony | website=Associated Press |author=DAFNA LINZER | date=16 July 1997 }}</ref><ref name="Slater" /><ref name="Tal" /><ref name="Deny" />
+
+Other athletes, bystanders, event staff, soldiers, and police leapt into the river to rescue the fallen. About 20 ambulances were rushed to the scene and helicopters with spotlights and divers were sent in to assist in rescue efforts. Due to the Yarkon River's banks being steep and muddy, rescuers had to use ropes to descend to the water's edge.<ref name=apnews/><ref>{{Cite web|url=https://www.jweekly.com/1997/07/18/maccabiah-tragedy-we-lost-the-biggest-moment-of-our-lives/|title = Maccabiah tragedy: We lost the biggest moment of our lives|date = 18 July 1997}}</ref> Inside the stadium, Israeli government officials, including [[President of Israel|President]] [[Ezer Weizman]], chose to continue with the opening ceremony, but canceled the remainder of the march of the national teams into the stadium. Israeli television maintained live coverage, switching back and forth between the frantic rescue efforts outside the stadium and the festive dancing and light shows inside.  Weizman and Israeli Prime Minister [[Benjamin Netanyahu]] departed immediately upon the end of the ceremony to visit the victims in hospital and the games were suspended for 24 hours.<ref name="Tal" /><ref name="Schmemann2" /><ref name="Slater" /><ref name="Schmemann1" />
+
+The injured were taken to nearby [[Rabin Medical Center|Beilinson Hospital]] in [[Petah Tikva]] and [[Tel Aviv Sourasky Medical Center]]. One, Gregory Small, 37, a [[Bowling|bowler]] from [[Sydney]], was dead on arrival, apparently as a result of injuries or drowning caused by the fall. The remaining survivors did not appear to have sustained life-threatening injuries. Their injuries included broken bones and water inhalation.<ref name="Tal" /><ref name="Schmemann1" /><ref name="Goldberg4" /><ref name="Small" group="n">Gregory Small is misidentified as "Smalls" in some sources. His wife, Suzanne, broke her ankle and dislocated her shoulder in the collapse. Two of the injured were police who dived into the river to rescue survivors. A male member of the table tennis team broke both of his legs. The uninjured members of the Australian team elected to remain in Israel and compete in the games.</ref>
+
+==Infections==
+[[File:Ichilov.jpg|thumb|right|Tel Aviv Medical Centre]]Within an hour or two of admission to the hospital, a number of victims began to show signs of [[asphyxia]]. Doctors discovered that an unidentified organism was attacking their [[respiratory system]]s and [[Lung|pulmonary]] blood vessels. By the next morning, seven athletes were in critical condition.<ref name="Tal" />
+
+Patrick Surkin, who ran the [[intensive care unit]] at Tel Aviv Medical Centre, wondered whether a toxin might be the culprit behind the infections. He contacted David Pargament, chief of the [[Yarkon River#Yarkon River Authority|Yarkon River Authority]], who explained that 36 hours before the collapse, [[mosquito control#Oil drip|mosquito larvicide oil]], a mixture of [[jet fuel]] and oil, had been sprayed on the surface of the Yarkon to suppress mosquitoes. Subsequent lab tests, however, found no traces of the substance in the sick athletes.<ref name="Tal" />
+
+Bowler Yetty Bennett, 50, died later that day from asphyxia. Elizabeth Sawicki, 47, a member of the delegation's [[Contract bridge|bridge]] team, died July 26 from complications from infection. Bowler Warren Zines, 54, died on August 10, 1997, of severe respiratory-tract infection at [[Sheba Medical Center]]. Zines was the fourth and final fatality from the accident.<ref name="Trounson" /><ref name="Tepperman" /><ref name="Goldberg" /><ref name="Segal2" /><ref name="Death" /><ref name="Schmemann2" />
+
+An autopsy of Zines finally identified the source of the infections as the fungus ''[[Pseudallescheria boydii]]'', a rare but serious cause of pneumonia and disseminated infection subsequent to near-drowning. This species of fungus, typically found in stagnant or polluted water, is resistant to nearly all available drug therapies.<ref name="Dolin" /> Disseminated infection can spread to the brain, kidneys, heart, and thyroid.<ref name="Tal" />
+
+After Zines' death, one athlete, tennis player Sasha Elterman, 15, remained in critical condition at Schneider Children's Medical Centre in Petah Tikva. Elterman underwent 18 surgeries in the six months after the collapse, 13 of them brain surgeries. In total, she received 28 brain surgeries and two lung operations.<ref name="Baker" /> Elterman ultimately survived her ordeal, but her lungs permanently lost 40% of their capacity and she suffered from<!-- !  check for tone !--> periodic convulsions.<ref name="Tal" /><ref name="Sentenced" /><ref name="Elterman" group="n">Sasha Elterman was born in [[Los Angeles]] and at the time had dual Australian-United States citizenship.</ref> Ten other athletes who returned to Australia shortly after the accident were admitted to hospitals with respiratory problems, but recovered.<ref name="Trounson" />
+
+==Investigations==
+Israel's deputy minister of education, [[Moshe Peled (politician)|Moshe Peled]], immediately convened a public commission, chaired by Yishai Dotan, to investigate the collapse. Israel Police also conducted its own investigation. The Dotan Commission released its findings on the 23rd of July, 1997. The commission found that the Maccabiah Games' organising committee, led by Yoram Eyal, had departed from the usual practice of paying the [[Israel Defense Forces]] (IDF) to construct the bridge. Instead, in an apparent effort to reduce costs, Eyal contracted with a company called [[Irgunit]], headed by Adam Mishori, to construct the bridge. Irgunit's traditional business was the [[Set construction|construction of props and stage sets]] for [[Theatrical scenery|theatre productions]]. The company had never designed nor built a [[bridge]].<ref name="Zycher" /><ref name="Segal1" /><ref name="Segal2" /><ref name="Tal" />
+
+Irgunit sub-contracted the bridge's construction to Baruch Karagula and Yehoshua Ben-Ezra (also known as "Ben-Ezra Construction"). The commission found that Karagula and Ezra were not licensed to build bridges, had never attempted to build a bridge, and used substandard materials in the bridge's construction. Photographs taken after the collapse showed that the bridge was constructed of rusty metal pipes bound together with wire.<ref name="Zycher" /><ref name="Segal1" /><ref name="Segal2" /><ref name="Tal" />
+
+The commission concluded that the bridge's engineer, Micha Bar-Ilan, did not submit a blueprint for the bridge, designed a bridge that was inadequate for its intended use, and did not properly supervise or coordinate the bridge's construction. The commission faulted the Maccabiah Games' organizers for poor coordination and oversight over the bridge's assembly.<ref name="Segal1" /><ref name="Segal2" />
+
+An investigation by Augustine Zycher for the [[AIJAC|Australia/Israel & Jewish Affairs Council]] reported that the IDF had employed Tamir Rowner, an experienced bridge construction engineer, to build previous bridges for the games. For the 1997 games, Maccabiah officials, apparently unwilling to pay the IDF's price of $111,000, accepted a bid from Irgunit to build the bridge for $34,750.<ref name="Zycher" /><ref name="Rowner" group="n">Rowner had already begun designing the 1997 bridge. As designed, Rowner's bridge would have been able to support 650 people at a time.</ref>
+
+According to Zycher, Mishori kept $7,700 of the payment and gave the rest to Karagula and Ben-Ezra to erect the bridge. Karagula and Ben-Ezra hired Bar-Ilan to design and oversee the bridge's construction. Bar-Ilan claimed that his bridge as designed would support 250&nbsp;kg per square metre, which did not meet Israeli government standards, which required a pedestrian bridge to support 500&nbsp;kg per square metre. In any event, the Dotan investigation found that the bridge was far weaker than what Bar-Ilan claimed. Furthermore, a municipal permit was required to construct the bridge, which Karagula and Ben-Ezra did not obtain. The municipality in which the bridge was constructed was [[Ramat Gan]]. Zvi Bar, Ramat Gan's mayor and head of the city planning division which issued construction permits, was a member of the Maccabiah committee that helped select Irgunit. Bar apparently did not ensure that Irgunit, Karagula, or Ben-Ezra obtained the necessary permit and made no effort to ensure that the bridge as constructed was safe.<ref name="Zycher" />
+
+In 1998, the [[Knesset]] commissioned an independent inquiry into the collapse, led by [[Eliezer Sandberg]].<ref name="JTA1" /> In 2000, in response to the commission's findings and after continued calls for their removal by the Australian Jewish community, MWU president Ron Bakalarz and chairman Uzi Netanel resigned.<ref name="Goldberg2" /><ref name=" JTA2" /><ref name="Bakalarz" group="n">The Knesset report stated that if Bakalarz refused to resign, then the Israeli government should cease funding the MWU. Several years later, Bakalarz was hired as general manager/chairman of the board (sources differ on title) of Kfar Maccabiah Village, the headquarters for MWU and accommodations for athletes. In 1999 the MWU also issued its own investigative report into the accident. The report was criticized by members of the Australian Jewish community, who said that it whitewashed MWU's culpability.</ref>
+
+==Criminal trial==
+[[File:Elyakim Rubinstein High court judge.JPG|thumb|right|Elyakim Rubinstein]]Based on the findings of the Dotan and police investigations, Israel's attorney general [[Elyakim Rubinstein]] brought criminal charges against Eyal, Mishori, Karagula, Ben-Ezra, and Bar-Ilan for [[Criminal negligence|causing death by negligence]] and for building without proper permits. Citing the pending indictment, Eyal resigned from the MWU.<ref name="Post" /> On March 15, 1998, in Tel Aviv [[Israeli judicial system#Magistrate courts|Magistrate Court]] all five pleaded not guilty. Final arguments in the trial were presented in October 1999.<ref name="Beck" /><ref name="Segal1" /><ref name="Segal2" /><ref name="Tal" /><ref name="Xinhua1" /><ref name="Deny" />
+
+During the trial, [[Sheba Hospital]] [[microbiologist]] Doctor Natan Keller testified that normally the Yarkon River water would not have posed a hazard to humans. Keller stated that it was the collapse of the bridge and the thrashing of the people in the water which had agitated the fungus from the river bottom where it normally resided, supporting the prosecution's argument that the pollution in the river would not have posed a risk to the athletes if the bridge had not collapsed. The defense, in turn, argued that the police should have shared responsibility in the collapse, as they had approved the building permit, were charged with limiting the number of people on the bridge to 150 at one time, and had possibly driven a police vehicle across the bridge the day before the opening ceremony.<ref name="Microbiologist" />
+
+On the 17th of April 2000, the three-judge panel of the court found all five defendants guilty of causing death by negligence. The defendants were sentenced on the 5th of June, 2000. Bar-Ilan was sentenced to one year and nine months in prison, plus a suspended sentence of 21 months. Ben-Ezra and Karagula were given 15-months in prison, plus suspended sentences of two years. Mishori served nine months in prison, plus a suspended sentence of 15 months. Eyal was sentenced to six months' community service.<ref name="Xinhua2" /><ref name="Sentenced" />
+
+==Lawsuits==
+The families of the athletes who were killed, plus Sasha Elterman and 50 others injured in the collapse, sued MWU for damages in 1999.<ref name="JTA" /> Progress in the lawsuits was initially delayed by a dispute among the parties over who should bear liability, which was resolved by the criminal court convictions in 2000. Due to the ongoing litigation, plus security concerns from the [[Second Intifada]], the Australians only sent 65 athletes to the 2001 Maccabiah games.<ref name="Labi" /><ref name="Palmer" /><ref name="Mualem" />
+
+The [[Haifa]] District Court eventually awarded the claimants almost $US20 million in compensation, with the last judgement and payment made in 2004. The court ruled that the games' insurance provider, Phoenix Insurance Company, was liable for about two-thirds of the amount, with the Israeli government responsible for the remainder.<ref name="Labi" />
+
+==Environmental issues==
+The bridge accident highlighted Israel's environmental issues, especially pollution in the nation's rivers and waterways. Said Dror Avisar, chief hydrologist for the Israel Union for Environmental Defense, shortly after the collapse, "Almost every major river inside Israel is polluted."<ref name="Trounson" /> The pollution in the waterways, including the Yarkon, was mainly due to untreated sewage and storm runoff, hazardous chemicals, industrial waste, and other pollutants."<ref name="Trounson" /><ref name="Picow" /><ref name="Vered" />
+
+[[File:Hayarkon IMG 8516.JPG|thumb|right|Yarkon River in 2010]]Embarrassed by the negative publicity about the pollution, the Israeli government, in conjunction with other national environmental-improvement initiatives, cleaned-up portions of the Yarkon River via the Yarkon River Rehabilitation and Wetlands Project. Citizens groups assisted with the endeavor, including the [[Clean Up Israel]] organization which was founded by Australian Phillip Foxman, who witnessed the 1997 disaster,<ref name="Goldberg3" /> and the [[Jewish National Fund]].<ref name="JNF" /><ref name="Rinat" /><ref name="Berman" /> In 2004, the Israeli government provided $100 million for the project.<ref name="JTA3" /> Among other measures, the local [[wastewater treatment plant]] was upgraded, a wetland was created to naturally treat wastewater, and small dams were constructed to help aerate the water to allow fish to live in more sections of the river. In addition, parks and bicycle trails were constructed along sections of the river banks.<ref name="May" /><ref name="Picow" /><ref name="Crisis" />
+
+==Aftermath and memorials==
+In 2002, MWU reinstated Yoram Eyal as an executive official and as general manager of the Kfar Maccabiah Village in Ramat Gan, with an annual salary of US$120,000.<ref name="Benjamin" /> The village served as headquarters for MWU and the athletes' village for the games. Eyal refused all requests to be interviewed by Australian media. In spite of protests from the Australian Jewish community about Eyal's continued involvement with the games, the MWU declined to separate him from the organization. When asked about Eyal's status in July 2007, MWU President Jeanne Futeran stated, "He's a good guy; he doesn't deserve to be further hassled over what happened. He's never forgiven himself; he never will forgive himself."<ref name="Goldberg2" />
+
+Australia sent a full team of 543 athletes to the Maccabiah Games in July 2005, almost a quarter of whom were present at the 1997 bridge collapse. The Australian delegation requested that Eyal not be seated in the president's box during the opening ceremony when the team entered the stadium. Although the MWU responded that Eyal had a right to attend the ceremony in an official capacity, Eyal acceded to the Australians' request.<ref name="Eyal" group="n">Eyal also resigned as MWU's representative to the Israeli Olympic committee.</ref> The Australian team declined to stay at the Maccabiah athletes' village for the duration of the 2005 games.<ref name="Baker" /><ref name="Halle" />
+
+[[File:Maccabia Br 035.jpg|thumb|right|Bridge of Remembrance]]At the 2005 games, a memorial for the victims was unveiled at the site of the collapse, including a permanent footbridge, dubbed "Bridge of Remembrance", and a stone marker with the names of those who died.<ref name="Goldberg2" /> Family members of three of the deceased attended the ceremony.<ref name="Halle1" /><ref name="Halle2" />
+
+In 2007 on the tenth anniversary of the collapse, a memorial service was held at the Bridge of Remembrance. In attendance was Australian Ambassador to Israel [[James Larsen]] and MWU Director-General Eyal Tiberger. In Australia, prayer services were held at synagogues in Melbourne, Sydney, Perth, Brisbane and the Gold Coast and a memorial made of [[Jerusalem stone]] was dedicated at Melbourne's main Jewish cemetery, where four trees were planted in memory of the deceased.<ref name="Goldberg2" /> Memorial ceremonies have since continued to be held periodically at the bridge site.<ref name="Cashman" /><ref name="KKL" />
+
+==Notes==
+{{Reflist|group="n"}}
+
+==References==
+{{Reflist|35em|refs=
+
+<ref name="Baker">{{cite web | last = Baker | first = Jordan | date = May 7, 2005 | url = http://www.smh.com.au/news/National/Mixed-emotions-at-death-bridge-return/2005/05/06/1115092690422.html | title = Mixed emotions at death bridge return | format = Newspaper article | work = [[The Sydney Morning Herald]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Beck">{{cite web | last = Beck | first = Galit Lipkis | date = April 16, 1998 | url = http://www.highbeam.com/doc/1P1-5734092.html | archive-url = https://web.archive.org/web/20121026111305/http://www.highbeam.com/doc/1P1-5734092.html | url-status = dead | archive-date = October 26, 2012 | title = Maccabiah bridge defendants deny guilt.Contractors, Eyal plead innocent to causing death by negligence in fatal bridge collapse | format = Newspaper article | work = [[Jerusalem Post]]  | access-date = 26 March 2009}}</ref>
+
+<ref name="Benjamin">{{cite web | last = Benjamin | first = Henry | date = July 28, 2002 | url = https://www.jta.org/2002/07/28/life-religion/features/families-of-maccabiah-victims-upset | title = Families of Maccabiah victims upset | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref Name="Berman">{{cite web | last = Berman | first = Daphna | date = January 21, 2005 | url = https://www.haaretz.com/1.4710046 | title = Aussie Jews Launch Fundraiser to Help Rehabilitate Yarkon | format = Newspaper article | work = [[Haaretz]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Cashman">{{cite web | last = Cashman | first = Greer Fay | date = July 13, 2017 | url = https://www.jpost.com/Israel-News/Culture/Grapevine-20th-anniversary-of-a-tragedy-caused-by-negligence-499634 | title = Grapevine: 20th anniversary of a tragedy caused by negligence | format = Newspaper article | work = [[Jerusalem Post]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Dolin">{{Cite book |title=Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases |publisher=Churchill Livingstone |year=2000 |isbn=0-443-07983-8 |editor-last=Mandell |editor-first=Gerald L. |edition=5th |volume=1 |editor-last2=Bennett |editor-first2=John E. |editor-last3=Dolin |editor-first3=Raphael|url=https://archive.org/details/isbn_0443079838|url-access=registration|page=1017 & 2773}}</ref>
+
+<ref name="Goldberg">{{cite web | last = Goldberg | first = Dan | date = July 19, 2007 | url = http://www.jewishjournal.com/world/article/wound_still_festers_10_years_after_maccabiah_games_bridge_tragedy_20070720/ | title = Wound still festers 10 years after Maccabiah Games bridge tragedy | format = News agency article | work = [[The Jewish Journal of Greater Los Angeles]] | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Goldberg2">{{cite web | last = Goldberg | first = Dan | date = July 15, 2007 | url = https://www.jta.org/2007/07/15/news-opinion/world/maccabiah-bridge-collapse-remembered | title = Maccabiah bridge collapse remembered | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Goldberg3">{{cite web | last = Goldberg | first = Dan | date = April 12, 2011 | url = https://www.jta.org/2011/04/12/news-opinion/world/clean-up-israel-founder-accused-of-illegal-dumping | title = Clean Up Israel founder accused of illegal dumping | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Goldberg4">{{cite web | last = Goldberg | first = Dan | date = August 12, 2008 | url = https://www.jta.org/2008/08/12/arts-entertainment/maccabiah-survivor-beats-the-odds | title = Maccabiah survivor beats the odds | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Maccabiah">Maccabiah Games, "[http://www.maccabiah.com/imgs/ntext/catalog/BasicRules11.pdf 18th Maccabiah Basic Regulations] {{webarchive|url=https://web.archive.org/web/20111004090233/http://www.maccabiah.com/imgs/ntext/catalog/BasicRules11.pdf |date=2011-10-04 }}," November 5, 2009.</ref>
+
+<ref Name="Halle">{{cite web | last = Halle | first = Charlotte | date = July 6, 2007 | url = https://www.haaretz.com/1.4908423 | title = Maccabiah official convicted over bridge disaster accedes to Australian demand | format = Newspaper article | work = [[Haaretz]] | access-date = 26 March 2009}}</ref>
+
+<ref Name="Halle1">{{cite web | last = Halle | first = Charlotte | date = July 8, 2005 | url = https://www.haaretz.com/1.4919379 | title = Tale of a Survivor | format = Newspaper article | work = [[Haaretz]] | access-date = 26 March 2009}}</ref>
+
+<ref Name="Halle2">{{cite web | last = Halle | first = Charlotte | date = July 8, 2005 | url = https://www.haaretz.com/1.4919538 | title = Maccabiah 2005 / Maccabiah Bridge Disaster Memorial to Be Unveiled Today | format = Newspaper article | work = [[Haaretz]] | access-date = 26 March 2009}}</ref>
+
+<ref name="JNF">{{cite web | last = KKL-JNF | date = April 6, 2011 | url = https://www.jpost.com/Green-Israel/People-and-The-Environment/JNF-Australia-Leadership-Visits-Yarkon-Restoration-Project | title = JNF Australia Leadership Visits Yarkon Restoration Project | format = Newspaper article | work = [[Jerusalem Post]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Crisis">{{cite web | date = May 10, 2009 | url = https://www.jpost.com/Green-Israel/Water-Crisis-and-the-Yarkon-River-Project-141783 | title = Water Crisis and the Yarkon River Project | format = Newspaper article | work = [[Jerusalem Post]] | access-date = 26 March 2009}}</ref>
+
+<ref name="JTA">{{cite web | last = Jewish Telegraph Agency | date = February 17, 1999 | url = https://www.jta.org/1999/02/17/archive/an-australian-woman-filed-the-first-civil-lawsuit | title = News Brief | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="JTA1">{{cite web | last = Jewish Telegraph Agency | date = June 1, 2000 | url = https://www.jta.org/2000/06/01/archive/australian-athletes-tell-of-trauma-after-97-maccabiah-games-disaster | title = Australian Athletes Tell of Trauma After '97 Maccabiah Games Disaster | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="JTA2">{{cite web | last = Jewish Telegraph Agency | date = August 7, 2000 | url = https://www.jta.org/2000/08/07/archive/the-president-of-the-maccabiah-world-union-resigned | title = News Brief | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="JTA3">{{cite web | last = Jewish Telegraph Agency | date = May 11, 2004 | url = https://www.jta.org/2004/05/11/archive/israels-government-embarked-on-a-100-million-project | title = News Brief | format = News agency article | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="KKL">{{cite web | last = KKL-JNF | date = July 21, 2013 | url = https://www.jpost.com/Green-Israel/People-And-The-Environment/KKL-JNF-Dedicates-Memorial-to-Yarkon-Maccabiah-Victims-320519 | title = KKL-JNF Dedicates Memorial to Yarkon Maccabiah Victims | format = Newspaper article | work = [[Jerusalem Post]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Labi">{{cite web | last = Labi | first = Sharon | date = February 10, 2004 | url = http://www.theage.com.au/articles/2004/02/09/1076175101285.html?from=storyrhs | title = Maccabiah victims to get final payout | format = Newspaper article | work = [[Australian Associated Press]] | access-date = 26 March 2009}}</ref>
+
+<ref Name="Vered">{{cite web | last = Levy-Barzilai | first = Vered | date = August 1, 2001 | url = https://www.haaretz.com/1.5364890 | title = Beside Ill Waters | format = Newspaper article | work = [[Haaretz]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Sentenced">{{cite web | last = Los Angeles Times | first = ([[Associated Press]]) | date = June 6, 2000 | url = http://articles.latimes.com/2000/jun/06/news/mn-37996 | title = 4 Sentenced in Fatal 1997 Bridge Collapse in Israel | format = Newspaper article | work = [[Los Angeles Times]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Microbiologist">{{cite web | last = Jerusalem Post | date = June 3, 1998 | url = http://www.encyclopedia.com/doc/1P1-7065990.html | title = Microbiologist in Maccabiah trial: Yarkon River water not harmful | format = Newspaper article | work = [[Jerusalem Post]] | access-date = 26 March 2009}}</ref>
+
+<ref name="May">{{cite web | last = May | first = Jackie | date = May 29, 2004 | url = http://www.abc.net.au/radionational/programs/archived/earthbeat/yarkon-river/3640352#transcript | title = Yarkon River | format = Radio news digest broadcast | work = [[Australian Broadcasting Corporation]] | access-date = 26 March 2009}}</ref>
+
+<ref Name="Mualem">{{cite web | last = Mualem | first = Mazal | date = July 16, 2001 | url = https://www.haaretz.com/1.5360522 | title = The Fears Came Back | format = Newspaper article | work = [[Haaretz]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Death">{{cite web | last = New York Times | date = July 27, 1997 | url = https://www.nytimes.com/1997/07/28/sports/death-tied-to-pollution.html | title = Death Tied to Pollution | format = Newspaper article | work = [[New York Times]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Deny">{{cite web | last = New York Times | date = March 16, 1998 | url = https://www.nytimes.com/1998/03/16/world/5-deny-guilt-in-bridge-fall.html | title = 5 Deny Guilt in Bridge Fall | format = Newspaper article | work = [[New York Times]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Palmer">{{cite web | last = Palmer | first = Tim | date = April 18, 2000 | url = http://www.abc.net.au/am/stories/s119526.htm | title = Five men face jail over Maccabiah Games bridge collapse | work = [[Australian Broadcasting Corporation]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Picow">{{cite web | last = Picow | first = Maurice | date = June 11, 2010 | url = https://www.jpost.com/Health-and-Sci-Tech/Science-And-Environment/Israels-rivers-Back-from-the-dead | title = Israel's rivers: Back from the dead | format = Newspaper article | work = [[Jerusalem Post]] | access-date = 26 March 2009}}</ref>
+
+<ref Name="Rinat">{{cite web | last = Rinat | first = Zafrir | date = April 27, 2009 | url = https://www.haaretz.com/1.5043370 | title = JNF Honors Memory of Australian Victims of Maccabiah Tragedy | format = Newspaper article | work = [[Haaretz]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Schmemann1">{{cite web | last = Schmemann | first = Serge | date = July 15, 1997 | url = https://www.nytimes.com/1997/07/15/world/2-die-at-games-in-israel-as-bridge-collapses.html | title = 2 Die at Games in Israel as Bridge Collapses | format = Newspaper article | work = [[New York Times]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Schmemann2">{{cite web | last = Schmemann | first = Serge | date = July 18, 1997 | url = https://www.nytimes.com/1997/07/18/world/israelis-turn-self-critical-as-mishap-kills-two.html | title = Israelis Turn Self-Critical As Mishap Kills Two | format = Newspaper article | work = [[New York Times]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Segal1">{{cite web | last = Segal | first = Naomi | date = July 25, 1997 | url = http://www.jweekly.com/article/full/6211/maccabiah-bridge-collapse-blame-falls-far-and-wide/ | title = Maccabiah bridge collapse blame falls far and wide | format = News agency article | work = [[J. The Jewish News of Northern California]] | publisher = [[Jewish Telegraphic Agency]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Segal2">{{cite web | last = Segal | first = Naomi | date = April 21, 2000 | url = http://www.jweekly.com/article/full/13065/israeli-court-convicts-five-in-maccabiah-bridge-disaster/ | title = Israeli court convicts five in Maccabiah bridge disaster | format = News agency article | work = [[J. The Jewish News of Northern California]] | publisher = [[Jewish Telegraphic Agency]]
+ | access-date = 26 March 2009}}</ref>
+
+<ref name="Slater">{{cite web | last = Slater | first = Chuck | date = August 3, 1997 | url = https://www.nytimes.com/1997/08/03/nyregion/first-hand-report-of-maccabiah-tragedy.html | title = First-Hand Report of Maccabiah Tragedy | format = Newspaper article | work = [[New York Times]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Tal">{{cite book | last = Tal | first = Alon | year = 2002 | url = https://publishing.cdlib.org/ucpressebooks/view?docId=kt6199q5jt&chunk.id=ch01&toc.depth=1&toc.id=ch01&brand=ucpress | title = Pollution in a Promised Land: An Environmental History of Israel | pages = 1–4 | publisher = University of California Press | isbn = 0-520-23428-6}}</ref>
+
+<ref name="Tepperman">{{cite web | last = Tepperman | first = Jonathan | date = August 11, 1997 | url = http://www.highbeam.com/doc/1P1-3700278.html | archive-url = https://web.archive.org/web/20121026111313/http://www.highbeam.com/doc/1P1-3700278.html | url-status = dead | archive-date = October 26, 2012 | title = Maccabiah bridge collapse claims fourth victim | format = Newspaper article | work = [[Jerusalem Post]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Trounson">{{cite web | last = Trounson | first = Rebecca | date = August 9, 1997 | url = http://articles.latimes.com/p/1997/aug/09/news/mn-20746 | title = Bridge Collapse Casts Light on Israel's Troubled Waters | format = Newspaper article | work = [[Los Angeles Times]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Post">{{cite news | date = December 22, 1997 | url = https://www.highbeam.com/doc/1P2-753871.html | archive-url = https://web.archive.org/web/20181019001705/https://www.highbeam.com/doc/1P2-753871.html | url-status = dead | archive-date = October 19, 2018 | title = Israeli Games Organizers Quit Over Bridge Collapse | format = Newspaper article | newspaper = [[Washington Post]] | access-date = 26 March 2009}}</ref>
+
+<ref name="Xinhua1">{{cite news |title= 5 Israelis Convicted in Maccabiah Bridge Disaster | type = News agency article |last= Xinhua News Agency |author-link= Xinhua News Agency |date= April 17, 2000}}</ref>
+
+<ref name="Xinhua2">{{cite news |title= Five Israelis Sentenced in Maccabiah Disaster Trial | type = News agency article|last= Xinhua News Agency|author-link= Xinhua News Agency|date= June 5, 2000}}</ref>
+
+<ref name="Zycher">{{cite web | last = Zycher | first = Augustine | date = July 25 – August 7, 1997 | url = http://www.aijac.org.au/review/1997/2210/bridge.html | title = The Bridge too far | format = Journal article | work = [[AIJAC]] (Australia/Israel Review) | access-date = 26 March 2009}}</ref>
+}}
+
+{{Portal bar|1990s|Australia|Israel}}
+{{Coord|32|6|6.64|N|34|49|24.24|E|display=title}}
+
+{{DEFAULTSORT:Maccabiah bridge collapse}}
+[[Category:1997 in Israel]]
+[[Category:1997 disasters in Israel]]
+[[Category:Transport disasters in 1997]]
+[[Category:1997 in Australia]]
+[[Category:Australia–Israel relations]]
+[[Category:Environmental issues in Israel]]
+[[Category:1997 Maccabiah Games|Bridge collapse]]
+[[Category:Bridge disasters in Israel]]
+[[Category:Bridge disasters caused by construction error]]
+[[Category:Bridge disasters caused by engineering error]]
+[[Category:Sports controversies]]
+[[Category:1997 in Israeli sport]]
+[[Category:July 1997 events in Asia]]

@@ -1,0 +1,43 @@
+{{short description|Viral disease of pigeons}}
+{{Virusbox
+| image         =
+| image_alt     =
+| image_caption =
+| parent        = Avipoxvirus
+| species       = Pigeonpox virus
+| synonyms      =
+| synonyms_ref  =
+}}
+[[File:Pigeon Pox.jpg|thumb|Typical symptoms of an infection with the pigeon pox virus]]
+'''Pigeon pox''' is a viral disease to which only [[Columbidae|pigeons]] are susceptible. It is characterized by pox scabs, which most frequently form on the featherless parts of the bird. The disease is caused by the '''Pigeon pox virus'''.  It can be transmitted by droplet infection from one animal to another, or more commonly through infected insects or the digestion of contaminated food or water.<ref>{{Cite web|title=chevita GmbH - Pocken|url=http://www.chevita.com/de/tauben/behandlungsplan/infektionen-pocken.php|access-date=2021-11-30|website=www.chevita.com}}</ref>
+
+There is a live viral [[vaccine]] available for ''Pigeon pox virus'' ([[ATCvet]] code: {{ATCvet|I01|ED01}}).
+
+== Signs and symptoms ==
+An animal infected with the pigeon pox virus may experience symptoms such as dehydration, [[uveitis]] and vision problems, reduction in egg production and behavioural differences. Such animals are described as quiet and fluffed.<ref>{{Cite book|last=Brehm|first=L.|url=http://dx.doi.org/10.5962/bhl.title.61090|title=Monographie der Papageien : oder, Vollständige Naturgeschichte aller bis jetzt bekannten Papageien mit getreuen und ausgemalten Abbildungen /|date=1842|publisher=A. Schmid|location=Jena|doi=10.5962/bhl.title.61090}}</ref> Some of the infected animals show yellow and roundish nodules with a diameter of 0,5 – 1,0&nbsp;cm under the eyelids, the beak and mouth. Lesions under the wing, the nasal area and the mouth commissure usually appear after a period of 10 – 12 days.<ref>{{Cite journal|last=Siddique, Hossain, Zinnah|date=2011|title=DETERMINATION OF HOST SPECIFICITY OF PIGEON POX AND FOWL POX VIRUSES ISOLATED FROM A FIELD OUTBREAK|url=https://www.researchgate.net/publication/261059155|journal=Bulgarian Journal of Veterinary Medicine|volume=14|pages=209–214|via=researchgate}}</ref>  These symptoms are usually divided into two main forms. The skin and mucous progression.<ref>{{Cite web|title=chevita GmbH - Pocken|url=http://www.chevita.com/de/tauben/behandlungsplan/infektionen-pocken.php|access-date=2021-11-30|website=www.chevita.com}}</ref> Some experts even suggest a division into up to 5 different categories.
+
+The animal will generally recover from the infection within 6 weeks and the virus is only on very rare occasions lethal.{{citation needed|date=November 2022}}
+
+== Diagnosis ==
+Most pigeons are diagnosed with pigeon pox due to obvious clinical signs, such as lesions on the featherless parts of their body. With that also comes the difficulty of breathing as well as tiredness and sometimes problems in swallowing.{{citation needed|date=November 2022}}
+
+To further validate the diagnosis a histological examination of a biopsy or the evaluation of vesicles liquid under an electronic microscope is used. However, a definite diagnosis can only be provided by the proof of the Pigeon Pox virus.{{citation needed|date=November 2022}}
+
+== Treatment and prevention ==
+A treatment is not possible or known and scientifically proven, but vitamin A and antibacterial substances have shown, that they can help in the prevention of the occurrence of secondary infections. It is recommended to remove bloody [[Ulcer (dermatology)|ulcers]] if they are present. The nodules should not be treated surgically or manually to prevent possible infections during the healing period.{{citation needed|date=November 2022}}
+
+Therefore, a vaccination with an [[attenuated vaccine]] such as a [[prophylaxis]] is used. Using the wing-web-method the vaccine is injected intramuscularly.<ref>{{Cite web|title=Methods of Vaccination {{!}} venkys.com|url=http://venkys.com/methods-of-vaccination/|access-date=2021-11-30|language=en-US}}</ref> This form of preventive healthcare is mostly used in healthy animals when a breakout of the illness occurs in other animals in the surrounding area.{{citation needed|date=November 2022}}
+
+== Epidemiology ==
+The virus has a worldwide frequent incidence in all free-living pigeon species, -breeds and  urban pigeons.<ref>{{Cite book|last=Brehm|first=L.|url=http://dx.doi.org/10.5962/bhl.title.61090|title=Monographie der Papageien : oder, Vollständige Naturgeschichte aller bis jetzt bekannten Papageien mit getreuen und ausgemalten Abbildungen /|date=1842|publisher=A. Schmid|location=Jena|doi=10.5962/bhl.title.61090}}</ref>
+
+==References==
+{{Reflist}}
+{{Taxonbar|from=Q7193348|from2=Q18975505}}
+
+[[Category:Bird diseases]]
+[[Category:Chordopoxvirinae]]
+
+
+{{Virus-stub}}
+{{Veterinary-med-stub}}

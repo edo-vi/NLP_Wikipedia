@@ -1,0 +1,56 @@
+{{Short description|Term used in machine learning}}
+In [[machine learning]], a '''stochastic parrot''' is a [[large language model]] that is good at generating convincing language, but does not actually understand the meaning of the language it is processing.{{sfn|Lindholm|Wahlström|Lindsten|Schön|2022|pp=322–3}}<ref name="Uddin"/> The term was coined by [[Emily M. Bender]]<ref name="Uddin">{{Cite news |date=April 20, 2023 |first=Muhammad Saad |last=Uddin |title=Stochastic Parrots: A Novel Look at Large Language Models and Their Limitations |website=Towards AI |url=https://towardsai.net/p/machine-learning/stochastic-parrots-a-novel-look-at-large-language-models-and-their-limitations |access-date=2023-05-12 |language=en-US}}</ref><ref name="Weil"/> in the 2021 [[artificial intelligence]] research paper "''On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜''"  by Bender, [[Timnit Gebru]], Angelina McMillan-Major, and [[Margaret Mitchell (scientist)|Margaret Mitchell]].<ref name=parrot-paper>{{Cite book |last1=Bender |first1=Emily M. |last2=Gebru |first2=Timnit |last3=McMillan-Major |first3=Angelina |last4=Shmitchell |first4=Shmargaret |title=Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency |chapter=On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 |date=2021-03-01 |series=FAccT '21 |location=New York, NY, USA |publisher=Association for Computing Machinery |pages=610–623 |doi=10.1145/3442188.3445922 |isbn=978-1-4503-8309-7|s2cid=232040593 |doi-access=free }}</ref>
+
+==Definition and implications==
+[[Stochastic]] means "(1) random and (2) involving chance or probability".<ref>{{cite web |title=Stochastic |website=Merriam-Webster |url=https://www.merriam-webster.com/dictionary/stochastic |access-date=2023-05-13}}</ref> A "stochastic parrot", according to Bender, is an entity "for haphazardly stitching together sequences of linguistic forms … according to probabilistic information about how they combine, but without any reference to meaning."<ref name="Weil">{{cite magazine |last=Weil |first=Elizabeth |date=March 1, 2023 |title=You Are Not a Parrot |magazine=[[New York (magazine)|New York]] |url=https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html |access-date=2023-05-12}}</ref> More formally, the term refers to "large language models that are impressive in their ability to generate realistic-sounding language but ultimately do not truly understand the meaning of the language they are processing."<ref name="Uddin"/>
+
+According to Lindholm, et. al., the analogy highlights two vital limitations:{{sfn|Lindholm|Wahlström|Lindsten|Schön|2022|pp=322–3}}
+
+{{blockquote|
+(i) The predictions made by a learning machine are essentially repeating back the contents of the data, with some added noise (or stochasticity) caused by the limitations of the model.
+
+(ii) The machine learning algorithm does not understand the problem it has learnt. It can't know when it is repeating something incorrect, out of context, or socially inappropriate.}}
+
+They go on to note that because of these limitations, a learning machine might produce results which are "dangerously wrong".{{sfn|Lindholm|Wahlström|Lindsten|Schön|2022|pp=322–3}}
+
+==Origin==
+The term was first used in the paper  "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜"  by Bender, [[Timnit Gebru]], Angelina McMillan-Major, and [[Margaret Mitchell (scientist)|Margaret Mitchell]] (using the pseudonym "Shmargaret Shmitchell").<ref name=parrot-paper/> The paper covered the risks of very [[large language model]]s, regarding their environmental and financial costs, inscrutability leading to unknown dangerous biases, the inability of the models to understand the concepts underlying what they learn, and the potential for using them to deceive people.<ref name=":8">{{Cite web|last=Haoarchive|first=Karen|date=4 December 2020|title=We read the paper that forced Timnit Gebru out of Google. Here's what it says.|url=https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/|url-status=live|access-date=19 January 2022|website=[[MIT Technology Review]]|language=en|archive-date=6 October 2021|archive-url=https://web.archive.org/web/20211006233625/https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/}}</ref>  The paper and subsequent events resulted in [[Timnit Gebru#Exit_from_Google|Gebru and Mitchell losing their jobs at Google]], and a subsequent protest by Google employees.<ref>{{Cite web |last=Lyons |first=Kim |date=5 December 2020 |title=Timnit Gebru's actual paper may explain why Google ejected her |url=https://www.theverge.com/2020/12/5/22155985/paper-timnit-gebru-fired-google-large-language-models-search-ai |website=The Verge}}</ref><ref>{{Cite web |last=Taylor |first=Paul |date=2021-02-12 |title=Stochastic Parrots |url=https://www.lrb.co.uk/blog/2021/february/stochastic-parrots |access-date=2023-05-09 |website=[[London Review of Books]] |language=en}}</ref>
+
+== Subsequent usage ==
+In July 2021, the [[Alan Turing Institute]] hosted a keynote and panel discussion on the paper.{{sfnp|Weller|2021}}  {{as of|May 2023}}, the paper has been cited in 1,529 publications.<ref>{{cite web |title=Bender: On the Dangers of Stochastic Parrots |website=[[Google Scholar]] |url=https://scholar.google.com/scholar?cluster=415069420329958137 |access-date=2023-05-12}}</ref> The term has been used in publications in the fields of law,<ref>{{cite journal |last=Arnaudo |first=Luca |title=Artificial Intelligence, Capabilities, Liabilities: Interactions in the Shadows of Regulation, Antitrust – And Family Law |date=April 20, 2023 |website=SSRN |doi=10.2139/ssrn.4424363|s2cid=258636427 }}</ref> grammar,<ref>{{cite journal |title=In the Cage with the Stochastic Parrot |first=Pete |last=Bleackley |author2=BLOOM |year=2023 |journal=Speculative Grammarian |volume=CXCII |number=3 |url=https://specgram.com/CXCII.3/07.bloom.cage.html |access-date=2023-05-13}}</ref> narrative,<ref>{{cite journal |last=Gáti |first=Daniella |title=Theorizing Mathematical Narrative through Machine Learning. |journal=[[Journal of Narrative Theory]] |volume=53 |number=1 |year=2023 |pages=139–165 |publisher=Project MUSE |doi=10.1353/jnt.2023.0003|s2cid=257207529 }}</ref> and [[humanities]].<ref>{{cite journal |last=Rees |first=Tobias |title=Non-Human Words: On GPT-3 as a Philosophical Laboratory |journal=[[Daedalus (journal)|Daedalus]] |volume=151 |number=2 |year=2022 |pages=168–82 |doi=10.1162/daed_a_01908 |jstor=48662034|s2cid=248377889 |doi-access=free }}</ref> The authors continue to maintain their concerns about the dangers of [[chatbot]]s based on large language models, such as [[GPT-4]].<ref>{{Cite web |first=Sharon |last=Goldman |date=March 20, 2023 |title=With GPT-4, dangers of 'Stochastic Parrots' remain, say researchers. No wonder OpenAI CEO is a 'bit scared' |url=https://venturebeat.com/ai/with-gpt-4-dangers-of-stochastic-parrots-remain-say-researchers-no-wonder-openai-ceo-is-a-bit-scared-the-ai-beat/ |access-date=2023-05-09 |website=VentureBeat |language=en-US}}</ref>
+
+==See also==
+*''[[1 the Road]]'' – AI-generated novel
+*[[Chinese room]]
+*[[Criticism of artificial neural networks]]
+*[[Criticism of deep learning]]
+*[[Criticism of Google]]
+*[[Cut-up technique]]
+*[[Infinite monkey theorem]]
+*[[Generative AI]]
+*[[List of important publications in computer science]]
+*[[Markov text]]
+*[[Stochastic parsing]]
+
+== References ==
+{{Reflist}}
+
+===Works cited===
+*{{cite book |last1=Lindholm |first1=A. |last2=Wahlström |first2=N. |last3=Lindsten |first3=F. |last4=Schön |first4=T. B. |year=2022 |title=Machine Learning: A First Course for Engineers and Scientists |publisher=Cambridge University Press |isbn=978-1108843607}}
+* {{cite AV media |first=Adrian |last=Weller |date=July 13, 2021 |title=On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 |type=video |url=https://www.youtube.com/watch?v=N5c2X8vhfBE |publisher=[[Alan Turing Institute]]}} Keynote by Emily Bender. The presentation was followed by a panel discussion.
+
+==Further reading==
+*{{cite book |last=Thompson |first=E. |year=2022 |title=Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It |publisher=Basic Books |isbn=978-1541600980}}
+
+== External links ==
+* "[https://commons.wikimedia.org/wiki/File:On_the_Dangers_of_Stochastic_Parrots_Can_Language_Models_Be_Too_Big.pdf On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜]" at [[Wikimedia Commons]]
+
+[[Category:Chatbots]]
+[[Category:Concepts in the philosophy of language]]
+[[Category:Concepts in the philosophy of mind]]
+[[Category:Criticism of Google]]
+[[Category:Deep learning]]
+[[Category:Large language models]]
+[[Category:Philosophy of artificial intelligence]]
+[[Category:Statistical natural language processing]]
+[[Category:Parrots]]

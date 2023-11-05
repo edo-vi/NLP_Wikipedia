@@ -1,0 +1,37 @@
+{{Short description|Species of bacterium}}
+{{Speciesbox
+| image =
+| genus = Mycoplasma
+| species = synoviae
+| authority = Olson ''et al.'' 1964 (Approved Lists 1980)
+}}
+
+'''''Mycoplasma synoviae''''' is a species of bacterium in the genus ''[[Mycoplasma]]''. It causes disease in the joints, bones and respiratory system of [[birds]]. It is found throughout the world and infection may be referred to as infectious synovitis, avian mycoplasmosis, infectious sinusitis, or mycoplasma arthritis. It is of economic importance because infection can cause a drop in egg production. The disease is most commonly seen in [[chickens]], and transmission occurs both [[Vertical transmission|vertically]] and [[Horizontal transmission|horizontally]].
+
+==Clinical signs & diagnosis==
+Common clinical signs include [[lameness]], a stiff gait, and abnormal curvature of the limbs. Respiratory and neurological signs are also reported. As mentioned, a drop in [[egg production]] often occurs.
+
+A preliminary diagnosis can be made based on history, clinical exam, and postmortem signs. [[Bacterial culture]], [[immunofluorescence]], [[Polymerase chain reaction|PCR]], [[ELISA]], or slide agglutination tests (SAT) can be used to make a more definitive diagnosis.
+
+==Treatment & control==
+''Mycoplasma synoviae'' is treated with [[antibiotics]], but resistance to some types is reported. Specific antibiotic treatment is available for [[Egg (biology)|eggs]].
+
+The disease is controlled with [[vaccination]].
+
+==See also==
+* [[Mycoplasma]]
+
+==References==
+*'''Mycoplasma synoviae''', expert reviewed and published by Wikivet at http://en.wikivet.net/Mycoplasma_synoviae, accessed 13/09/2011.
+
+==External links==
+*[http://bacdive.dsmz.de/index.php?search=8619&submit=Search Type strain of ''Mycoplasma synoviae'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Taxonbar|from=Q3869067}}
+
+[[Category:Bird diseases]]
+[[Category:Bacterial diseases]]
+[[Category:Mycoplasma|synoviae]]
+
+
+{{Veterinary-med-stub}}

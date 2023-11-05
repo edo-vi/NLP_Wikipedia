@@ -1,0 +1,175 @@
+{{Short description|Likelihood ratios used for assessing the value of performing a diagnostic test}}
+{{Distinguish|Likelihood-ratio test}}
+{{Use dmy dates|date=July 2013}}
+
+In [[evidence-based medicine]], [[likelihood ratio]]s are used for assessing the value of performing a [[diagnostic test]]. They use the [[sensitivity and specificity]] of the test to determine whether a test result usefully changes the probability that a condition (such as a disease state) exists. The first description of the use of likelihood ratios for [[decision rule]]s was made at a symposium on information theory in 1954.<ref>{{cite journal | doi = 10.1126/science.182.4116.990 | author = Swets JA. | year = 1973 | title = The relative operating characteristic in Psychology | journal =Science | volume = 182 | issue = 14116 | pages = 990–1000 | pmid = 17833780 | bibcode = 1973Sci...182..990S }}</ref> In medicine, likelihood ratios were introduced between 1975 and 1980.<ref>{{cite journal | doi = 10.1056/NEJM197507312930505 |vauthors=Pauker SG, Kassirer JP | year = 1975 | title = Therapeutic Decision Making: A Cost-Benefit Analysis | journal =NEJM | volume = 293 | issue = 5 | pages = 229–34 | pmid = 1143303 }}</ref><ref>{{cite journal | doi = 10.1148/114.3.561 |vauthors=Thornbury JR, Fryback DG, Edwards W | year = 1975 | title = Likelihood ratios as a measure of the diagnostic usefulness of excretory urogram information. | journal =Radiology | volume = 114 | issue = 3 | pages = 561–5 | pmid = 1118556 }}</ref><ref>{{cite journal |vauthors=van der Helm HJ, Hische EA | year = 1979 | title = Application of Bayes's theorem to results of quantitative clinical chemical determinations. | url = http://www.clinchem.org/content/25/6/985.long | journal =Clin Chem | volume = 25 | issue = 6 | pages = 985–8 | pmid = 445835 }}</ref>
+
+==Calculation==
+
+Two versions of the likelihood ratio exist, one for positive and one for negative test results. Respectively, they are known as the '''{{visible anchor|positive likelihood ratio}}''' (LR+, '''likelihood ratio positive''', '''likelihood ratio for positive results''') and '''{{visible anchor|negative likelihood ratio}}''' (LR–, '''likelihood ratio negative''', '''likelihood ratio for negative results''').
+
+The positive likelihood ratio is calculated as
+
+:<math> \text{LR}+ = \frac{\text{sensitivity}}{1 - \text{specificity}} </math>
+
+which is equivalent to
+
+:<math> \text{LR}+ = \frac{\Pr({T+}\mid D+)}{\Pr({T+}\mid D-)} </math>
+
+or "the probability of a person who '''has the disease''' testing positive divided by the probability of a person who '''does not have the disease''' testing positive."
+Here "''T''+" or "''T''&minus;" denote that the result of the test is positive or negative, respectively. Likewise, "''D''+" or "''D''&minus;" denote that the disease is present or absent, respectively. So "true positives" are those that test positive (''T''+) and have the disease (''D''+), and "false positives" are those that test positive (''T''+) but do not have the disease (''D''&minus;).
+
+The negative likelihood ratio is calculated as<ref name=altman>{{cite book |author1=Gardner, M. |author2=Altman, Douglas G. |title=Statistics with confidence: confidence intervals and statistical guidelines |publisher=BMJ Books |location=London |year=2000 |isbn=978-0-7279-1375-3 }}</ref>
+
+:<math> \text{LR}- = \frac{1 - \text{sensitivity}}{\text{specificity}} </math>
+
+which is equivalent to<ref name=altman/>
+
+:<math> \text{LR}- = \frac{\Pr({T-}\mid D+)}{\Pr({T-}\mid D-)} </math>
+
+or "the probability of a person who '''has the disease''' testing negative divided by the probability of a person who '''does not have the disease''' testing negative."
+
+The calculation of likelihood ratios for tests with continuous values or more than two outcomes is similar to the calculation for [[dichotomous variable|dichotomous]] outcomes; a separate likelihood ratio is simply calculated for every level of test result and is called interval or stratum specific likelihood ratios.<ref>{{cite journal | doi = 10.1067/mem.2003.274 |vauthors=Brown MD, Reeves MJ | year = 2003 | title = Evidence-based emergency medicine/skills for evidence-based emergency care. Interval likelihood ratios: another advantage for the evidence-based diagnostician | journal =Ann Emerg Med | volume = 42 | issue = 2| pages = 292–297 | pmid = 12883521 | doi-access = free }}</ref>
+
+The [[Pre- and post-test probability#Pre-test probability|pretest odds]] of a particular diagnosis, multiplied by the likelihood ratio, determines the [[Pre- and post-test probability|post-test odds]]. This calculation is based on [[Bayes' theorem]].  (Note that odds can be calculated from, and then converted to, [[probability]].)
+
+==Application to medicine==
+Pretest probability refers to the chance that an individual in a given population has a disorder or condition; this is the baseline probability prior to the use of a diagnostic test. Post-test probability refers to the probability that a condition is truly present given a positive test result. For a good test in a population, the post-test probability will be meaningfully higher or lower than the pretest probability. A high likelihood ratio indicates a good test for a population, and a likelihood ratio close to one indicates that a test may not be appropriate for a population.
+
+For a [[screening test]], the population of interest might be the general population of an area. For diagnostic testing, the ordering clinician will have observed some symptom or other factor that raises the pretest probability relative to the general population. A likelihood ratio of greater than 1 for a test in a population indicates that a positive test result is evidence that a condition is present. If the likelihood ratio for a test in a population is not clearly better than one, the test will not provide good evidence: the post-test probability will not be meaningfully different from the pretest probability. Knowing or estimating the likelihood ratio for a test in a population allows a clinician to better interpret the result.<ref>{{cite journal | doi = 10.1001/jama.247.18.2543 |vauthors=Harrell F, Califf R, Pryor D, Lee K, Rosati R | year = 1982 | title = Evaluating the Yield of Medical Tests | journal = JAMA | volume = 247 | issue = 18| pages = 2543–2546 | pmid = 7069920 }}</ref>
+
+Research suggests that physicians rarely make these calculations in practice, however,<ref name="pmid9576412">{{cite journal |vauthors=Reid MC, Lane DA, Feinstein AR |title=Academic calculations versus clinical judgments: practicing physicians' use of quantitative measures of test accuracy |journal=Am. J. Med. |volume=104 |issue=4 |pages=374–80 |year=1998 |pmid=9576412| doi = 10.1016/S0002-9343(98)00054-0}}</ref> and when they do, they often make errors.<ref name="pmid11934776">{{cite journal |vauthors=Steurer J, Fischer JE, Bachmann LM, Koller M, ter Riet G |title=Communicating accuracy of tests to general practitioners: a controlled study |journal=BMJ |volume=324 |issue=7341 |pages=824–6 |year=2002 |pmid=11934776 |pmc=100792| doi = 10.1136/bmj.324.7341.824}}</ref> A [[randomized controlled trial]] compared how well physicians interpreted diagnostic tests that were presented as either [[sensitivity (tests)|sensitivity]] and [[specificity (tests)|specificity]], a likelihood ratio, or an inexact graphic of the likelihood ratio, found no difference between the three modes in interpretation of test results.<ref name="pmid16061916">{{cite journal |vauthors=Puhan MA, Steurer J, Bachmann LM, ter Riet G |title=A randomized trial of ways to describe test accuracy: the effect on physicians' post-test probability estimates |journal=Ann. Intern. Med. |volume=143 |issue=3 |pages=184–9 |year=2005 |pmid=16061916 |doi=10.7326/0003-4819-143-3-200508020-00004}}</ref>
+
+== Estimation table ==
+This table provide examples of how changes in the likelihood ratio affects post-test probability of disease.
+{| class="wikitable"
+!Likelihood ratio
+!Approximate* change 
+in probability<ref>{{cite journal |title=Simplifying likelihood ratios |journal=Journal of General Internal Medicine |date=2002-08-01 |issn=0884-8734 |pmc=1495095 |pages=647–650 |volume=17 |issue=8 |doi=10.1046/j.1525-1497.2002.10750.x |pmid=12213147 |language=en |first=Steven |last=McGee}}</ref>
+!Effect on posttest
+Probability of disease<ref>{{cite book |last1=Henderson |first1=Mark C. |last2=Tierney |first2=Lawrence M. |last3=Smetana |first3=Gerald W. |title=The Patient History |edition=2nd |publisher=McGraw-Hill |year=2012 |isbn=978-0-07-162494-7 |page=30}}</ref>
+|-
+!Values between 0 and 1 ''decrease'' the probability of disease {{nowrap|(&minus;LR)}}
+|
+|
+|-
+|0.1
+| −45%
+|Large decrease
+|-
+|0.2
+| −30%
+|Moderate decrease
+|-
+|0.5
+| −15%
+|Slight decrease
+|-
+|1
+| −0% 
+|None
+|-
+!Values greater than 1 ''increase'' the probability of disease {{nowrap|(+LR)}}
+|
+|
+|-
+|1
+| +0% 
+|None
+|-
+|2
+| +15%
+|Slight increase
+|-
+|5
+| +30%
+|Moderate increase
+|-
+|10
+| +45%
+|Large increase
+|}
+<nowiki>*</nowiki>These estimates are accurate to within 10% of the calculated answer for all pre-test probabilities between 10% and 90%. The average error is only 4%.  For polar extremes of pre-test probability >90% and <10%, see {{pslink|Estimation of pre- and post-test probability}} section below.
+
+=== Estimation example ===
+# Pre-test probability: For example, if about 2 out of every 5 patients with [[abdominal distension]] have [[ascites]], then the pretest probability is 40%.
+# Likelihood Ratio: An example "test" is that the physical exam finding of bulging [[flank (anatomy)|flanks]] has a positive likelihood ratio of 2.0 for ascites.
+# Estimated change in probability: Based on table above, a likelihood ratio of 2.0 corresponds to an approximately +15% increase in probability. 
+# Final (post-test) probability: Therefore, bulging flanks increases the probability of ascites from 40% to about 55% (i.e., 40% + 15% = 55%, which is within 2% of the exact probability of 57%).
+
+==Calculation example==
+
+A medical example is the likelihood that a given test result would be expected in a patient with a certain disorder compared to the likelihood that same result would occur in a patient without the target disorder.
+
+Some sources distinguish between LR+ and LR&minus;.<ref name="urlLikelihood ratios">{{cite web |url=http://www.poems.msu.edu/InfoMastery/Diagnosis/likelihood_ratios.htm |title=Likelihood ratios |access-date=2009-04-04 |url-status=dead |archive-url=https://archive.today/20020820071706/http://www.poems.msu.edu/InfoMastery/Diagnosis/likelihood_ratios.htm |archive-date=20 August 2002 |df=dmy-all }}</ref> A worked example is shown below.
+{{SensSpecPPVNPV}}
+
+[[Confidence intervals]] for all the predictive parameters involved can be calculated, giving the range of values within which the true value lies at a given confidence  level (e.g. 95%).<ref>[http://www.medcalc.org/calc/diagnostic_test.php Online calculator of confidence intervals for predictive parameters]</ref>
+
+==Estimation of pre- and post-test probability==
+{{Further|Pre- and post-test probability}}
+The likelihood ratio of a test provides a way to estimate the [[pre- and post-test probabilities]] of having a condition.
+
+With ''pre-test probability'' and ''likelihood ratio'' given, then, the ''post-test probabilities'' can be calculated by the following three steps:<ref>[http://www.cebm.net/index.aspx?o=1043 Likelihood Ratios] {{Webarchive|url=https://web.archive.org/web/20101222032115/http://www.cebm.net/index.aspx?o=1043 |date=22 December 2010 }}, from CEBM (Centre for Evidence-Based Medicine). Page last edited: 1 February 2009</ref>
+
+: <math> \text{pretest odds} = \frac{\text{pretest probability}}{1 - \text{pretest probability}} </math>
+: <math> \text{posttest odds} = \text{pretest odds} \times \text{likelihood ratio} </math>
+In equation above, ''positive post-test probability'' is calculated using the ''likelihood ratio positive'', and the ''negative post-test probability'' is calculated using the ''likelihood ratio negative''.
+
+Odds are converted to probabilities as follows:<ref>[http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4441.0.55.002Explanatory+Notes5Jun+2012] from Australian Bureau of Statistics: A Comparison of Volunteering Rates from the 2006 Census of Population and Housing and the 2006 General Social Survey, Jun 2012, Latest ISSUE Released at 11:30 AM (CANBERRA TIME) 08/06/2012 </ref>
+
+:<math>\begin{align}(1)\ \text{ odds} = \frac{\text{probability}}{1-\text{probability}}   
+\end{align}</math>      
+
+multiply equation (1) by (1 − probability) 
+
+:<math>\begin{align}(2)\ \text{ probability} & = \text{odds} \times (1 - \text{probability}) \\
+& = \text{odds} - \text{probability} \times \text{odds}
+\end{align}</math>
+
+add (probability × odds) to equation (2)
+
+:<math>\begin{align}(3)\ \text{ probability} + \text{probability} \times \text{odds} & = \text{odds} \\
+\text{probability} \times (1 + \text{odds}) & = \text{odds}
+\end{align}</math>
+
+divide equation (3) by (1 + odds)
+
+:<math>\begin{align}(4)\ \text{ probability} = \frac{\text{odds}}{1 + \text{odds}}
+\end{align}</math>
+
+hence
+
+* Posttest probability = Posttest odds / (Posttest odds + 1)
+
+Alternatively, post-test probability can be calculated directly from the pre-test probability and the likelihood ratio using the equation: 
+*'''P' = P0 × LR/(1 − P0 + P0×LR)''', where P0 is the pre-test probability, P' is the post-test probability, and LR is the likelihood ratio. This formula can be calculated algebraically by combining the steps in the preceding description.
+
+In fact, ''post-test probability'', as estimated from the ''likelihood ratio'' and ''pre-test probability'', is generally more accurate than if estimated from the ''[[positive predictive value]]'' of the test, if the tested individual has a different ''pre-test probability'' than what is the ''prevalence'' of that condition in the population.
+
+===Example===
+Taking the medical example from above (20 true positives, 10 false negatives, and 2030 total patients), the ''positive pre-test probability'' is calculated as:
+
+*Pretest probability = (20 + 10) / 2030 = 0.0148
+*Pretest odds = 0.0148 / (1 − 0.0148) = 0.015
+*Posttest odds = 0.015 × 7.4 = 0.111
+*Posttest probability = 0.111 / (0.111 + 1) = 0.1 or 10%
+
+As demonstrated, the ''positive post-test probability'' is numerically equal to the ''positive predictive value''; the ''negative post-test probability'' is numerically equal to (1 − ''negative predictive value'').
+
+==Notes==
+{{notelist}}
+==References==
+{{reflist}}
+
+==External links==
+;Medical likelihood ratio repositories
+* [https://www.doclogica.com The Likelihood Ratio Database]
+* [http://www.getthediagnosis.org GetTheDiagnosis.org: A Database of Sensitivity and Specificity]
+* [http://www.thennt.com/home-lr/ The NNT: LR Home]
+
+{{Medical research studies}}
+
+[[Category:Medical statistics]]
+[[Category:Evidence-based medicine]]
+[[Category:Summary statistics for contingency tables]]

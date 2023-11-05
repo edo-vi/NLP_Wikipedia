@@ -1,0 +1,31 @@
+{{Short description|Disease of ruminant animals}}
+'''Ruminal tympany''', also known as '''ruminal bloat''', is a disease of [[ruminant]] animals, characterized by an excessive volume of gas in the [[rumen]]. Ruminal tympany may be primary, known as '''frothy bloat''', or secondary, known as '''free-gas bloat'''.<ref name ="Constable 2016">{{cite book|last1=Constable|first1=PD|last2=Hinchcliff|first2=KW|last3=Done|first3=SH|last4=Gruenberg|first4=W|title=Veterinary Medicine: A textbook of the diseases of cattle, horses, sheep, pigs and goats|date=2016|publisher=Elsevier Health Sciences|isbn=9780702070587|pages=473–482|edition=11|chapter=Chapter 8: Diseases of the alimentary tract - ruminants. Ruminal tympany (bloat)}}</ref>
+
+In the rumen, food eaten by the ruminant is [[fermentation|fermented]] by microbes. This fermentation process continually produces gas, the majority of which is expelled from the rumen by eructation ([[burp]]ing).<ref name="Reese 2013">{{cite book|last1=Reese|first1=William O|title=Functional anatomy and physiology of domestic animals|date=2013|publisher=Wiley|isbn=9781118685891|pages=359–420|edition=4th|chapter=Chapter 12: Digestion and absorption}}</ref> Ruminal [[tympany]] occurs when this gas becomes trapped in the rumen.
+
+In frothy bloat (primary ruminal tympany), the gas produced by fermentation is trapped within the fermenting material in the rumen, causing a build up of foam which cannot be released by burping.<ref name="Boden 2001">{{cite book|last1=Boden|first1=Edward|title=Black's veterinary dictionary|date=2001|publisher=A & C Black|location=London|isbn=9780713650624|pages=68–69|edition=20th|chapter=Bloat}}</ref> In cattle, the disease may be triggered after an animal eats a large amount of easily fermenting plants, such as [[legumes]], [[alfalfa]], [[red clover]], or [[white clover]].<ref name="Constable 2016" /> Some legumes, such as [[sainfoin]], [[birdsfoot trefoil]] and [[cicer milkvetch]] are not associated with causing bloat in cattle.<ref name="Majak 1995">{{cite journal|last1=Majak|first1=W|last2=Hall|first2=JW|last3=McCaughey|first3=WP|title=Pasture management strategies for reducing the risk of legume bloat in cattle|journal=Journal of Animal Science|date=May 1995|volume=73|issue=5|pages=1493–8|doi=10.2527/1995.7351493x|pmid=7665381}}{{open access}}</ref> In [[feedlot]] cattle, a diet containing a high proportion of cereal grain can lead to primary ruminal tympany.<ref name="Cheng 1998">{{cite journal|last1=Cheng|first1=KJ|last2=McAllister|first2=TA|last3=Popp|first3=JD|last4=Hristov|first4=AN|last5=Mir|first5=Z|last6=Shin|first6=HT|title=A review of bloat in feedlot cattle|journal=Journal of Animal Science|date=January 1998|volume=76|issue=1|pages=299–308|doi=10.2527/1998.761299x|pmid=9464911}}{{open access}}</ref> The main signs of bloat in cattle are distension of the left side of the abdomen, [[dyspnea]] (difficulty breathing) and severe distress. If gas continues to accumulate, the right side of the abdomen may also become distended, with death occurring in cattle within 3–4 hours after symptoms begin.<ref name="Constable 2016" />
+
+In free-gas bloat (secondary ruminal tympany), gas builds up in the rumen and cannot escape, due to blockage of the [[esophagus]].<ref name="Constable 2016" />
+
+==Treatment==
+# Removal of gases through [[trocar]] or [[cannula]]
+# Use stomach tube and remove the ruminal digesta
+# Medi oral (antifoaming agent) 10ml+250ml warm water and drench to the animal. If antifoaming agent not available, vegetable oil can be used, 400–500ml per large animal
+# [[Sodium bicarbonate]]
+# ''[[Nux vomica]]''
+# [[Antihistamine]] is used to avoid lameness. One particular sign in [[acidosis]] is lameness. Because [[lactic acid]] accumulates in the coronary band, it causes irritation; [[histamine]] is released which causes lameness, so antihistamine is used to avoid it.{{citation needed|date=February 2018}}
+
+== Cultural depictions ==
+*[[Thomas Hardy]]'s novel ''[[Far from the Madding Crowd]]'' depicts a flock of sheep suffering from bloat, which are saved by shepherd Gabriel Oak using a [[trocar]] to release the gas.
+*In the second chapter of [[James Herriot]]'s book ''[[James Herriot#Published works|All Creatures Great and Small]]''), an anxious James waits to meet his new boss, and is haunted by an urban legend of a new vet who ruined his career when he blew up a farmer's shed by lighting a match while gas was being released from a bloated cow. This same accident was portrayed in the [[All Creatures Great and Small (1978 TV series)|TV series of the same name]], but with Farmer Skerry striking a match to light his cigarette as James' colleague Tristan releases the gas. Here, the scene was played for humor instead of as a disaster.<ref>https://www.imdb.com/title/tt0509030/ {{User-generated source|certain=yes|date=March 2022}}</ref>
+
+==See also==
+* {{portal-inline|Animals}}
+
+==References==
+{{reflist}}
+
+[[Category:Ruminant diseases]]
+
+
+{{Veterinary-med-stub}}

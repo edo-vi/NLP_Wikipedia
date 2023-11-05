@@ -1,0 +1,34 @@
+The '''Veterinary Drugs Directorate''' is the [[Canada|Canadian]] body responsible for putting all "[[Veterinary medicine|veterinary]] products, such [[antimicrobials]], [[Antibiotic use in livestock#Growth stimulation|growth promotion drugs]] and [[feed additives]], through a rigorous approval process before they are licensed and sold for use" in Canada.<ref>{{cite web |title=Canada's Veterinary Drug Approval Process |url=https://www.beefresearch.ca/blog/canadas-veterinary-drug-approval-process/ |website=bcrc.ca |date=21 November 2013 |publisher=Beef Cattle Research Council}}</ref> It is part of the [[Health Products and Food Branch]] of [[Health Canada]], and exists by virtue of the ''[[Food and Drugs Act]]''. Its goal is "to protect human and animal health and the safety of Canada's food supply."<ref>{{cite web |title=Veterinary Drugs Directorate (VDD) |url=https://www.canada.ca/en/health-canada/corporate/about-health-canada/branches-agencies/health-products-food-branch/veterinary-drugs-directorate.html |website=canada.ca |publisher=Health Canada |date=2019-07-04}}</ref>
+
+==History==
+
+===AMR===
+The [[WHO]] has defined ''[[Antimicrobial resistance]]'' (AMR) as "the ability of a [[microorganism]] (like [[bacteria]], [[viruses]], and some [[parasites]]) to stop an antimicrobial (such as [[antibiotics]], [[antivirals]] and [[antimalarials]]) from working against it. As a result, standard treatments become ineffective, [[infections]] persist and may spread to other [people]."<ref name="who">{{cite web |title=Antimicrobial resistance |url=https://www.who.int/antimicrobial-resistance/en/ |website=who.int |publisher=WHO}}</ref>
+
+In 2011, [[Manisha Mehrotra]], at the time director of the human safety division within the Directorate, spoke passionately about the need to crack down on the use of antibiotics such as [[cephalosporins]] and [[fluoroquinolones]] in the Canadian meat industry because of the risk of creating [[antibiotic resistant]] strains of viruses.<ref>{{cite news |title=Crackdown on factory farm drug use urged |url=http://www.cmaj.ca/content/cmaj/early/2011/11/28/cmaj.109-4055.full.pdf |publisher=CMAJ |date=25 November 2011}}</ref>
+
+On 1 December 2018, "all medically important antimicrobials currently available [[over the counter]] for [[veterinary]] use, including those used in companion and food animals and in all dosage forms", were moved to [[Medical prescription|prescription]] status. Antimicrobials are no longer to be used for growth promotion in Canada from this date.<ref>{{cite news |title=Health Canada encourages establishment of veterinary client relationships |url=http://www.dairyproducer.ca/health-canada-encourages-establishment-of-veterinary-client-relationships/ |agency=Farmscape |publisher=dairyproducer.ca |date=5 November 2018}}</ref>
+
+==Leadership==
+The Director-General from 2005 to 2007 was [[Siddika Mithani]], who was once the President of the [[Public Health Agency of Canada]],<ref>{{cite web |title=Siddika Mithani |url=https://pm.gc.ca/eng/news/2019/02/25/siddika-mithani |website=pm.gc.ca |publisher=JUSTIN TRUDEAU, PRIME MINISTER OF CANADA |accessdate=5 July 2019|date=2019-02-25 }}</ref> and is now the President of the [[Canadian Food Inspection Agency]].<ref>{{cite web |title=The Prime Minister announces a change in the senior ranks of the Public Service |url=https://pm.gc.ca/eng/news/2019/02/25/prime-minister-announces-change-senior-ranks-public-service |website=pm.gc.ca |publisher=JUSTIN TRUDEAU, PRIME MINISTER OF CANADA |date=February 25, 2019}}</ref>
+
+The Directorate has been led since at least June 2017 by Dr. [[Mary-Jane Ireland]].<ref>{{cite news |title=Dr. Mary-Jane Ireland (Director General, Veterinary Drugs Directorate, Health Products and Food Branch, Department of Health) at the Health Committee |url=https://openparliament.ca/committees/health/42-1/61/dr-mary-jane-ireland-1/only/ |publisher=opengovernment.ca |date=13 June 2017}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:National agencies for veterinary drug regulation]]
+[[Category:Veterinary medicine in Canada]]
+[[Category:Food safety organizations]]
+[[Category:Regulators of biotechnology products]]
+[[Category:Pharmacy in Canada]]
+[[Category:Food law]]
+[[Category:Food and drink in Canada]]
+[[Category:Drug control law in Canada]]
+[[Category:Regulators of Canada]]
+[[Category:Health Canada]]
+[[Category:Animal welfare and rights in Canada]]
+
+
+{{Canada-gov-stub}}
+{{Veterinary-med-stub}}

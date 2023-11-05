@@ -1,0 +1,37 @@
+{{Infobox organization
+| name          = Canadian Osteopathic Association
+| image         =  
+| abbreviation  = COA
+| formation     = 1926
+| location      = Canada
+| company_type  = 
+| num_members   = 
+| website       = {{URL|http://www.osteopathic.ca}}
+}}
+The '''Canadian Osteopathic Association''' ('''COA''') is a professional association of [[Osteopathic medicine in Canada|osteopathic physicians in Canada]]. The COA has partnered with [[Michigan State University College of Osteopathic Medicine]] to increase the number of osteopathic physicians practising in Canada.<ref name=MSUCOMpilot />
+{{Osteopathic medicine2}}
+
+== History ==
+The COA was established in 1926.<ref>{{cite web |title=Canadian Osteopathic Association |url=https://www.osteopathic.ca/ |website=COA}}</ref> President for 2017 - 2019 is Dr. Jason Crookham, and Executive Director is Dr. James Church.<ref>{{cite web |title=Contact Listing |url=https://www.osteopathic.ca/contact-listing |website=Canadian Osteopathic Association |publisher=COA}}</ref> In 2011, the COA launched the [[Canadian Osteopathic Medical Student Association]]<ref name=MSUCOMpilot>{{cite news|last=Schierhorn|first=Carolyn|title=MSUCOM pilot program targets Canadian students for training|url=http://www.do-online.org/TheDO/?p=80661|accessdate=5 September 2012|newspaper=[[The DO]]|date=Nov 21, 2011|url-status=dead|archiveurl=https://web.archive.org/web/20120610031628/http://www.do-online.org/TheDO/?p=80661|archivedate=10 June 2012}}</ref> and it is now led by Ravi Uppal, Corey Mayer and Khashayar Farzam. In 2012, the COA partnered with Michigan State University with the goal of increasing the number of osteopathic physicians in the country.<ref>{{cite web |last1=Cody |first1=Jason |title=MSU BRINGING MORE OSTEOPATHIC PHYSICIANS TO CANADA |url=https://msutoday.msu.edu/news/2011/msu-bringing-more-osteopathic-physicians-to-canada/ |website=Michigan State University |publisher=MSU}}</ref> The COA reported advocating for osteopathic physicians to be eligible for residency positions in Canada.<ref>{{cite news |title=US DO school graduates to get new opportunities in the 2020 Canadian Match |url=https://thedo.osteopathic.org/2018/08/us-do-school-graduates-to-get-new-opportunities-in-the-2020-canadian-match/ |work=The DO |publisher=AOA |date=August 1, 2018}}</ref>
+
+== Membership ==
+Membership in the COA requires a [[Doctor of Osteopathic Medicine]] degree from a College of [[Osteopathic medicine in the United States|Osteopathic Medicine]] in the United States accredited by the [[American Osteopathic Association]].   As of 2019, there are no colleges of osteopathic medicine in Canada.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.osteopathic.ca}}]
+* [https://www.studentdo.ca// Canadian Osteopathic Medical Student Association]
+
+{{Osteopathic medicine3|state=uncollapsed}}
+
+
+{{authority control}}
+
+[[Category:Osteopathic medical associations]]
+[[Category:Organizations established in 1926]]
+[[Category:Medical associations based in Canada]]
+
+
+{{osteo-med-stub}}

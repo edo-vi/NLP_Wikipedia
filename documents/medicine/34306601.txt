@@ -1,0 +1,13 @@
+{{Italic title}}
+[[File:干川贝母.jpg|thumb|Dried ''bulbus fritillariae cirrhosae'']]
+'''''Bulbus fritillariae cirrhosae''''' ({{zh|s={{linktext|川|贝|母}}|p=chuānbèimǔ}}) is the bulb of the [[Fritillaria cirrhosa|Himalayan frillitary lily]] (''Fritillaria cirrhosa'').<ref>{{cite journal|last1=Day|first1=Peter D.|last2=Berger|first2=Madeleine|last3=Hill|first3=Laurence|last4=Fay|first4=Michael F.|last5=Leitch|first5=Andrew R.|last6=Leitch|first6=Ilia J.|last7=Kelly|first7=Laura J.|authorlink4=Michael Francis Fay|title=Evolutionary relationships in the medicinally important genus ''Fritillaria'' L. (Liliaceae)|journal=[[Molecular Phylogenetics and Evolution]]|date=November 2014|volume=80|pages=11–19|doi=10.1016/j.ympev.2014.07.024|pmid=25124097|ref={{harvid|Day et al|2014}}}}</ref> It is used extensively in [[Chinese herbology]]. For example, in the ''[[Baihe Gujin Wan]]'', it is used to "nourish [[yin and yang|yin]] of the lung, resolve phlegm and relieve cough".
+
+==References==
+{{reflist}}
+
+{{commons}}
+[[Category:Plants used in traditional Chinese medicine]]
+
+{{Alt-med-stub}}
+{{Liliales-stub}}
+{{medicinal-plant-stub}}

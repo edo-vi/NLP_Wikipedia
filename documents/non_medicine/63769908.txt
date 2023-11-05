@@ -1,0 +1,23 @@
+The '''2018–2019 Zimbabwe cholera outbreak''' began on 1 September 2018, and the last reported case occurred on 12 March 2019.<ref name=":0">ReliefWeb (2019). Zimbabwe: Cholera Outbreak - Sep 2018. [online] Available at: https://reliefweb.int/disaster/ep-2018-000150-zwe [Accessed 19 Nov. 2019].</ref> The [[Zimbabwe]]an government declared a national emergency on 6 September 2018.<ref name=":0" /> The [[cholera]] outbreak originated in [[Glen View, Harare|Glenview]], a suburb in [[Harare]], Zimbabwe's capital city, and then spread to the following provinces in Zimbabwe: [[Manicaland Province|Manicaland]], [[Mashonaland East Province|Mashonaland East]], [[Mashonaland West Province|Mashonaland West]], [[Bulawayo]], [[Mashonaland Central Province|Mashonaland Central]], [[Midlands Province|Midlands]], [[Masvingo Province|Masvingo]] and [[Matabeleland South Province|Matebeleland South]].<ref name=":0" /> The last report from the [[World Health Organization]] (WHO) Afro regional office has listed the outbreak as a closed event with the outbreak running from 6 September 2018 to 12 March 2019.<ref>World Health Organization, 2019. WHO AFRO Outbreaks and Other Emergencies, Week 26: 24–30 June 2019; Data as reported by 17:00; 30 June 2019 - Democratic Republic of the Congo [WWW Document]. ReliefWeb. URL https://reliefweb.int/report/democratic-republic-congo/who-afro-outbreaks-and-other-emergencies-week-26-24-30-june-2019 (accessed 12.2.19)</ref> They were a total of 10,730 suspected cases however the confirmed cases were only 371.
+
+There were several risk factors associated with the outbreak described by the WHO, including intermittent supplies in Harare, particularly in high-density suburbs such as Glenview, the epicenter of the outbreak.<ref name=":1">World Health Organization, 2018. WHO Cholera – Zimbabwe. WHO. URL [https://web.archive.org/web/20181011234721/http://www.who.int/csr/don/05-october-2018-cholera-zimbabwe/en/] (accessed 12.2.19)</ref> The city council was also unable to supply enough water for Harare, creating shortages due to the increasing urban population.<ref name=":1" />
+
+These shortages led to sanitation issues as people began to use unregulated wells and boreholes, leading people in Harare drinking contaminated water.<ref name=":1" /> The deteriorating [[Water supply and sanitation in Zimbabwe|sanitation infrastructure]] is leading to issues such as raw sewage flowing in areas of Harare.<ref name=":1" /> Another sanitation issue was the informal traders selling items such as fruit exacerbating the outbreak.<ref name=":1" /> Four cholera treatment centers were set up in Harare to deal with the initial outbreaking cholera.<ref name=":1" /> The WHO began a campaign to [[Cholera vaccine|vaccinate]] 1.4 million people in Harare against cholera for people living in areas at most risk of contracting the disease in October 2018.<ref>World Health Organization, 2018a. Zimbabwe to vaccinate 1.4 million people against cholera in Harare [WWW Document]. WHO | Regional Office for Africa. URL https://www.afro.who.int/news/zimbabwe-vaccinate-14-million-people-against-cholera-harare (accessed 12.2.19).</ref>
+
+To address the water supply issues in key hotspots affected by cholera through increasing water supply through water trucking, adding water tanks, and repairing existing water infrastructure.<ref name=":1" /> To address sanitation issues, items such as soap and chlorination tablets were distributed to households in hotspot areas.<ref name=":1" />
+
+== See also ==
+* [[2008 Zimbabwean cholera outbreak]]
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:2018-2019 Zimbabwe cholera outbreak}}
+[[Category:2018 disease outbreaks]]
+[[Category:2019 disease outbreaks]]
+[[Category:2018 in Zimbabwe]]
+[[Category:2019 in Zimbabwe]]
+[[Category:Cholera outbreaks]]
+[[Category:Disease outbreaks in Zimbabwe]]
+[[Category:2018 disasters in Zimbabwe]] 
+[[Category:2019 disasters in Zimbabwe]]

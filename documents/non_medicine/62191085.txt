@@ -1,0 +1,61 @@
+The '''Hunic superterrane''' is a [[terrane]] that is now attached to Europe and Asia. At the end of the [[Ordovician]] or beginning of the [[Silurian]] it separated from [[Gondwana]] and joined [[Laurasia]] at the beginning of the [[Carboniferous]], at the time of the [[Variscan orogeny]]. Rather than being a single block, there were apparently two groups of blocks, the European Hunic terranes and the Asian Hunic terranes.<ref>{{Harvnb|Muttoni|Gaetani|Kent|Sciunnach|2009|loc=Fig. 2, p. 19}}</ref><ref>{{Harvnb|Stampfli|von Raumer|Borel|2002|loc=Middle Devonian Phase, p. 272}}</ref><ref name="Stampfli-etal-2002-fig3">{{Harvnb|Stampfli|von Raumer|Borel|2002|loc=Fig. 3, pp. 268–629}}</ref>
+
+The collision with Laurasia (specifically, with the [[Kipchak Arc]]) formed what is now known as [[Kazakhstania]] according to one geological model of the ancient Earth.<ref>{{harvnb|Fielding|Frank|Isbell|2008|pages=11}}</ref>
+
+The Hunic terranes are named after the [[Huns]], since they are found in the areas that the Huns occupied.<ref>{{Harvnb|Stampfli|2000|loc=Palaeotethys, p. 3}}; "it contains most of the areas devastated by Attila!"</ref>
+
+== See also ==
+* [[Paleo-Tethys Ocean]]
+* [[Rheic Ocean]]
+
+==References==
+{{reflist}}
+
+===Sources===
+{{Refbegin}}
+* {{Cite journal | last1 = Muttoni | first1 = G. | last2 = Gaetani | first2 = M. | last3 = Kent | first3 = D. V. | last4 = Sciunnach | first4 = D. | last5 = Angiolini | first5 = L. | last6 = Berra | first6 = F. | last7 = Garzanti | first7 = E. | last8 = Mattei | first8 = M. | last9 = Zanchi | first9 = A. | title = Opening of the Neo-Tethys Ocean and the Pangea B to Pangea A transformation during the Permian | year = 2009 | journal = GeoArabia | volume = 14 | issue = 4 | pages = 17–48 | doi = 10.2113/geoarabia140417 | s2cid = 53416016 | url = http://rci.rutgers.edu/~dvk/dvk_REPRINTS/Muttoni+2009.pdf | access-date = 1 November 2015 | archive-date = 9 August 2017 | archive-url = https://web.archive.org/web/20170809034216/http://www.rci.rutgers.edu/~dvk/dvk_REPRINTS/Muttoni+2009.pdf | url-status = dead }}<!-- {{Harvnb|Muttoni|Gaetani|Kent|Sciunnach|2009}} -->
+* {{Cite journal
+ | last = Stampfli | first = G. M.
+ | title = Tethyan oceans
+ | year = 2000 | journal = Geological Society, London, Special Publications | volume = 173 | issue = 1 | pages = 1–23
+ | url = https://sp.lyellcollection.org/content/specpubgsl/173/1/1.full.pdf | access-date = 30 November 2019
+ | doi = 10.1144/GSL.SP.2000.173.01.01 | bibcode = 2000GSLSP.173....1S
+ | s2cid = 219202298
+ }}<!-- {{Harvnb|Stampfli|2000}} -->
+* {{Cite book
+ | last1 = Stampfli | first1 = G. M.
+ | last2 = von Raumer | first2 = J. F.
+ | last3 = Borel | first3 = G. D.
+ | chapter = Paleozoic evolution of pre-Variscan terranes: From Gondwana to the Variscan collision | pages = 263–280
+ | title = Variscan-Appalachian dynamics: The building of the late Paleozoic basement
+ | editor1-last = Catalán | editor1-first = M.
+ | editor2-last = Hatcher | editor2-first = R. D., Jr.
+ | editor3-last = Arenas | editor3-first = R.
+ |display-editors = 3 | editor4-last = Díaz García | editor4-first = F.
+ | year = 2002 | publisher = Geological Society of America Special Paper 364 | location = Boulder, Colorado
+ | chapter-url = http://www.unil.ch/files/live//sites/mcg/files/users/gborel/public/Peri-Gond_GSA.pdf | access-date = 1 January 2017
+ | doi = 10.1130/0-8137-2364-7.263 | isbn = 9780813723648
+ | url = http://doc.rero.ch/record/5023/files/1_raumer_pep.pdf
+ }}<!-- {{Harvnb|Stampfli|von Raumer|Borel|2002}} -->
+* {{Cite book
+|title=Resolving the Late Paleozoic Ice Age in Time and Space
+|last1=Fielding
+|first1=Christopher
+|last2=Frank
+|first2=Tracy
+|last3=Isbell
+|first3=John
+|access-date=4 November 2019
+|date=1 January 2008
+|url=https://books.google.com/books?id=FCPxDyHJ-zIC&pg=PA11
+|publisher=Geological Society of America
+|isbn=9780813724416
+}}
+{{Refend}}
+
+[[Category:Geology]]
+[[Category:Terranes]]
+[[Category:Tectonic landforms]]
+
+
+{{plate-tectonics-stub}}

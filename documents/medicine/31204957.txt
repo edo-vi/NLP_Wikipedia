@@ -1,0 +1,24 @@
+'''Long Island Veterinary Specialists''' is a [[Veterinary medicine|veterinary specialty center]] located in [[Plainview, New York|Plainview]], [[Long Island]], [[New York (state)|New York]].<ref>{{cite web|title=New York Veterinary Foundation Presents “Ask The Vet” at the 2010 Hampton Classic|url=http://www.prweb.com/releases/2010/08/prweb4379144.htm|website=PRWeb|accessdate=2017-09-14}}</ref>
+
+== History ==
+LIVS was first located in Levittown, NY and was previously called “Island Veterinary Referral.” Dr. Meyer Kaplan, veterinary surgeon and owner of Levittown Animal Hospital, and Dr. John Sapienza, veterinary ophthalmologist, formed Island Veterinary Referral in 1993. Dr. Dominic J. Marino, veterinary surgeon, and  Dr. Rada Panich, veterinary dermatologist, joined Island Veterinary Referral the same year. In June 1998, Island Veterinary Referral changed their name to Long Island Veterinary Specialists. At the time, LIVS was Long Island's first veterinary specialist center with a CT scanner and a fully equipped emergency and critical care center. The Center at LIVS contains an active [[Neurology]]/[[Neurosurgery]] department and one of the only “electronic [[brachytherapy]]” treatment facility for pet [[cancer]].<ref>{{cite web|title=About us|url=http://www.livs.org/LIVSAboutUs.htm|publisher=Long Island Veterinary Specialists|url-status=dead|archiveurl=https://web.archive.org/web/20110708053104/http://www.livs.org/LIVSAboutUs.htm|archivedate=2011-07-08}}</ref>
+
+Among the noteworthy accomplishments of Long Island Veterinary Specialists is their work with [[canine Chiari-like malformation]] and syringomyelia. The clinicians at Long Island Veterinary Specialists have made advances in the diagnosis and medical management of pets with CM as well as other abnormalities of the craniocervical junction. Some of these advances are made possible using MR imaging to evaluate and the development of a thermal camera-based screening test.<ref>{{cite web|title=Chiari|url=http://www.todaylongisland.com/CHIARI_ebook_120210.pdf|archive-url=https://web.archive.org/web/20110717065445/http://www.todaylongisland.com/CHIARI_ebook_120210.pdf|url-status=dead|archive-date=2011-07-17|website=www.todaylongisland.com}}</ref>
+
+Before the introduction of MRI, CM and SM were commonly confused with allergic skin disorders, [[degenerative disc disease]], ear infections and [[epilepsy]].<ref name="Institute">{{cite web|title=What is Chiari - diagnosis|url=http://www.caninechiariinstitute.org/patient-center/what-is-chiari/diagnosis|publisher=Canine Chiari Institute|url-status=dead|archiveurl=https://web.archive.org/web/20110708051140/http://caninechiariinstitute.org/patient-center/what-is-chiari/diagnosis|archivedate=2011-07-08}}</ref> After CM was reported in human patients, the initial research was provided for the diagnosis of animals.<ref name="Institute"/>
+
+On July 13, 2012, Dr. [[Dominic J. Marino]], Chief of Staff at Long Island Veterinary Specialists was featured in a [[New York Times]] feature story for hosting and conducting a two-day combat training course for the Air Force Pararescuers from the USAF (United States Air Force)/NYANG (New York Air National Guard), and their service canines.<ref>{{cite web|last1=Newcomer|first1=Eric P.|title=At a Long Island Animal Hospital, Learning How to Treat Military Dogs|url=https://www.nytimes.com/2012/07/14/nyregion/at-a-long-island-animal-hospital-learning-how-to-treat-military-dogs.html|website=The New York Times|date=13 July 2012}}</ref> The training session, spanning two days at the LIVS facility consisted of lectures, demonstration labs, and tactical drills to teach pararescuers how to treat canines in crisis situations.
+
+== References ==
+<references/>
+
+== External links ==
+* {{official|http://www.livs.org}}
+
+{{Coord|40|47|8|N|73|26|57|W|region:US-NY|display=title}}
+
+[[Category:Veterinary hospitals]]
+[[Category:Veterinary medicine in the United States]]
+[[Category:Plainview, New York]]
+[[Category:Buildings and structures in Nassau County, New York]]
+{{veterinary-med-stub}}

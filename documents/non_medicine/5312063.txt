@@ -1,0 +1,60 @@
+{{for|the enforcement division of the State of Hawai{{okina}}i Department of Land and Natural Resources|Hawaii Division of Conservation and Resource Enforcement}}
+{{Infobox organization
+| name          = DOCARE International
+| former name   =
+| bgcolor       = <!-- header background color -->
+| fgcolor       = <!-- header text color -->
+| image         = DOCARE International logo.jpg
+| image_border  =
+| size          =
+| alt           = logo for DOCARE
+| caption       =
+| motto         =
+| formation     = 1961
+| type          = <!-- [[Governmental organization|GO]], [[Non-governmental organization|NGO]], [[Intergovernmental organization|IGO]], [[International nongovernmental organization|INGO]], etc -->
+| status        = <!-- ad hoc, treaty, foundation, etc -->
+| purpose       = Medical
+| headquarters  =
+| location      = [[Chicago]], [[Illinois|IL]]
+| region_served = Western Hemisphere, <br>South America
+| membership    =
+| leader_title  = President
+| leader_name   = Allison L. Abraham, DO<ref name=AnnualReport2019>{{cite web |title=Annual Report 2019 - 2020 |url=http://docareintl.org/wp-content/uploads/2020/08/DOCARE_annual-report-2020_FINAL.pdf |publisher=DO International |accessdate=17 October 2020}}</ref>
+| leader_title2 = Vice President
+| leader_name2  = Shane Sergent, DO<ref name=AnnualReport2019 />
+| leader_title3 =
+| leader_name3  =
+| leader_title4 =
+| leader_name4  =
+| key_people    =
+| main_organ    = <!-- gral. assembly, board of directors, etc -->
+| parent_organization = [[American Osteopathic Association]]
+| budget        =
+| num_staff     =
+| num_volunteers =
+| website       = {{url|https://docareintl.org}}
+| remarks       =
+}}
+'''DOCARE International''' is a [[non-profit organization|non-profit]] medical outreach program that brings health care to underserved communities in remote areas of the [[Western Hemisphere]].<ref>{{cite web |url=https://docareintl.org/about-us/ |title=About DOCARE |year=2020 |publisher=DOCARE International |accessdate=17 October 2020}}</ref> DOCARE International provides health care services through permanent medical clinics and short-term outreach trips.<ref>{{cite news |last1=Samano |first1=Kate |title=DOCARE: Volunteer outreach opportunities at home and abroad |url=https://thedo.osteopathic.org/2017/04/docare-volunteer-outreach-opportunities-at-home-and-abroad/ |work=The DO |date=April 26, 2017}}</ref> DOCARE International has worked in countries such as [[Haiti]], [[Guatemala]],<ref>{{cite news|last=Tsai|first=Jeffrey Y|title=Our mission to Guatemala was grueling—and I can't wait to go back|url=http://thedo.osteopathic.org/?p=168021|newspaper=The DO|date=March 11, 2014}}</ref>  [[Nicaragua]], [[Haiti]], [[Peru]], [[India]], [[Malawi]], [[Uganda]], and [[Tanzania]].<ref>{{cite web |url=https://docareintl.org/past-trips/ |title=Past Trips |publisher=DOCARE International |accessdate=17 October 2020}}</ref>  DOCARE International operates three permanent clinics, two Guatemala (San Andrés Itzapa and Tecpán Guatemala) and one in Chacraseca, Nigaragua.<ref>{{cite news|last1=Selby|first1=Laura|title=When choosing a medical mission, continuity of care matters. Here's why.|url=http://thedo.osteopathic.org/2016/10/when-choosing-a-medical-mission-continuity-of-care-matters-heres-why/|publisher=The DO|date=October 7, 2016}}</ref><ref>{{cite news |last1=Selby |first1=Laura |title=How DOCARE's permanent clinics are making a difference in Guatemala and Nicaragua |url=https://thedo.osteopathic.org/2016/04/continuity-of-care-how-docares-permanent-clinics-are-making-a-difference-in-guatemala-and-nicaragua/ |work=The DO |date=April 7, 2016}}</ref>
+
+==History==
+DOCARE was founded by Ernest A. Allaby, [[Osteopathic medicine in the United States|D.O.]] in 1961.<ref>{{cite web |url=https://docareintl.org/about-us/ |title=History |year=2020|publisher=DOCARE International |accessdate=October 17, 2020}}</ref><ref>{{cite web|url=http://www.acofp.org/uploadedFiles/DOCARE%20and%20Medical%20Mission%20Overview.pdf |title=Medical Mission Basics: My Experience with DOCARE |author=Kelli Glasser |year=2012 |publisher=American College of Osteopathic Family Physicians |accessdate=8 November 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20140314175954/http://www.acofp.org/uploadedFiles/DOCARE%20and%20Medical%20Mission%20Overview.pdf |archivedate=14 March 2014 }}</ref> DOCARE is operated by the [[American Osteopathic Association]],<ref>{{cite web|title=Nonpractice Organizations|publisher=American Osteopathic Association|url=https://osteopathic.org/about/affiliated-organizations/nonpractice-osteopathic-organizations/|accessdate=13 October 2020}}</ref> and consists of [[Doctor of Osteopathic Medicine|osteopathic physicians]] (DO), osteopathic medical students, [[Doctor of Medicine|M.D.]] physicians, and other healthcare professionals.<ref>{{cite news|last=Ajluni |first=Peter B. |title=Do care about DOCARE |url=http://www.do-online.org/TheDO/wp-content/uploads/pdf/pub_do1207voice.pdf |accessdate=25 September 2012 |newspaper=[[The DO]] |date=December 2007 }}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+DOCARE has partnered with the [[United States Navy|US Navy]] on medical missions.<ref>{{cite web|last=Crosby |first=John |title=DOCARE International Announces Medical Missions |url=http://blogs.do-online.org/dailyreport.php?itemid=49581 |archive-url=https://archive.today/20130414152132/http://blogs.do-online.org/dailyreport.php?itemid=49581 |url-status=dead |archive-date=14 April 2013 |publisher=American Osteopathic Association |accessdate=2 November 2012 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://docareintl.org DOCARE International website]
+
+{{Coord|41.8942|-87.6190|display=title}}
+
+[[Category:Health charities in the United States]]
+[[Category:Osteopathic medical associations in the United States]]
+[[Category:Medical and health organizations based in Illinois]]
+[[Category:Organizations established in 1961]]
+[[Category:International volunteer organizations]]
+
+{{US-health-org-stub}} 
+{{Osteo-med-stub}}

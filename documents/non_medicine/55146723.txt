@@ -1,0 +1,12 @@
+{{short description|Formation of an ocean after continental rifting}}
+
+[[File:Oceanisation.png|thumb|Stages of the oceanisation process through continental rifting]]
+
+'''Oceanisation''', or '''oceanization''', is the process of formation of an [[ocean]] after continental [[rifting]]. The oceanisation is marked by the accretion of oceanic [[basalts]] between the drifting continental blocks and the incursion of marine waters and species in the [[rift]] basin.<ref>Abbate, Ernesto. Oceanisation processes and sedimentary evolution of the Northern Apennine ophiolite suite: a discussion. 1994.</ref><ref>Brunn, J. H. "Ophiolites, origins of orogens and oceanisation." Ophiolites Proceedings of the International Symposium, Cyprus. 1979.</ref> According to [[John Frederick Dewey]] in the 1960s the idea of [[continental drift]] was different to that of oceanisation which was "the mysterious [[metasomatism]] or transformation of [[continental crust]] into [[oceanic crust]]".<ref>{{Cite book |title=Plate Tectonics: An Insider's History of the Modern Theory of the Earth |last=Dewey |first=John F. |year=2003 |pages=231 |editor-last=Oreskes |editor-first=Naomi |chapter=Plate tectonics and geology, 1960 to today |editor-last2=Le Grand |editor-first2=Homer}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Geology]]
+
+{{Geology-stub}}

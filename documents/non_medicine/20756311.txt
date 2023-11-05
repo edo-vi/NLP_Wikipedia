@@ -1,0 +1,259 @@
+{{Short description|Historical Chinese concept}}
+
+During the late [[Zhou dynasty]], the inhabitants of the [[Zhongyuan|Central Plains]] began to make a '''distinction between ''Hua'' and ''Yi'' ''' ({{lang-zh|t={{linktext|華|夷|之|辨}}|p=huáyí zhībiàn}}), referred to be some historians as the '''Sino–barbarian dichotomy'''.{{sfn|Pines|2005}} They defined themselves as part of cultural and political region known as ''[[Huaxia]]'', which they contrasted with the surrounding regions home to outsiders, conventionally known as the [[Four Barbarians]] (literally, "four ''[[Dongyi|Yi]]''"). Although ''Yi'' is usually translated as "barbarian", other translations of this term in English include "foreigners",{{sfn|Morrison|1823|pp=586–587}} "ordinary others",<ref>{{harvnb|Liu|2004b|pp=10–11}} Liu believes the Chinese in early China did not originally think of ''Yi'' as a derogatory term.</ref> "wild tribes"<ref>{{cite web|first=James |last=Legge|author-link=James Legge|title= Shangshu, Tribute of Yu |url=http://ctext.org/shang-shu/tribute-of-yu|website=ctext.org}}</ref> and "uncivilized tribes".{{sfn|Mair|1998}} The ''Hua''–''Yi'' distinction asserted Chinese superiority, but implied that outsiders could become ''Hua'' by [[sinicization|adopting their culture and customs]]. These concepts were not unique to [[Ancient China]], but were also applied by the Vietnamese, Japanese, and Koreans, all of whom considered themselves at one point in history to be the "[[Little China (ideology)|Central Kingdom]]" in imitation of China.
+
+==Historical context==
+{{See also|Sinocentrism|Four Barbarians}}
+[[File:Huaxiasiyi.svg|thumb|[[Zhou dynasty]] cosmography of [[Huaxia]] and the [[Four Barbarians]].]]
+[[History of China#Ancient China|Ancient China]] was composed of a group of states that arose in the [[Yellow River]] valley.  According to historian Li Feng, during the [[Zhou dynasty]] ({{Circa|1041–771 BCE}}), the contrast between the 'Chinese' Zhou and the 'non-Chinese' [[Xirong]] or [[Dongyi]] was "more political than cultural or ethnic".<ref>{{harvnb|Li|2006|p=286}}. Li explains that "Rong" meant something like "warlike foreigners" and "Yi" was close to "foreign conquerables".</ref> Lothar von Falkenhausen argues that the perceived contrast between "Chinese" and "Barbarians" was accentuated during the [[Zhou dynasty|Eastern Zhou]] period (770–256 BCE), when adherence to Zhou rituals became increasingly recognised as a "barometer of civilisation"; a meter for sophistication and cultural refinement.{{sfn|von Falkenhausen|1999|p=544}} It is widely agreed by historians that the distinction between the ''Hua'' and the ''Yi'' emerged during that period.{{sfn|Shelach|1999|pp=222–23}}
+
+[[Gideon Shelach]] claimed that Chinese texts tended to overstate the distinction between the Chinese and their northern neighbours, ignoring many intergroup similarities.{{sfn|Shelach|1999|p=222}} Nicola di Cosmo doubted the existence of a strong demarcation between the "Zhou Universe" and "a discrete, 'barbarian', non-Zhou universe"{{sfn|Di Cosmo|2002|p=103}} and claimed that Chinese historian [[Sima Qian]] popularised this concept, writing of the "chasm that had 'always' existed between China – the Hua-Hsia [Huaxia] people – and the various alien groups inhabiting the north."{{sfn|Di Cosmo|2002|p=2}}
+
+The conclusion of the [[Warring States period]] brought the first unified Chinese state—established by the [[Qin dynasty]] in 221 BCE—who established the imperial system and [[Chinese characters#Unification: seal script, vulgar writing and proto-clerical|forcibly standardized the traditional Chinese script]], leading to the first of the distinctions between the 'refined' ''Hua'' and the increasingly marginalised ''Yi''. The [[Han dynasty]] (221 BCE–206 CE) further contributed to the divide with its creation of a persistent [[Han Chinese|Han ethnocultural identity]].{{sfn|Ebrey|Walthall|2013}}
+
+The Han Chinese civilisation [[Chinese cultural sphere|influenced]] neighbouring states [[Korea]], [[Japan]], [[Vietnam]] and [[Thailand]] and other Asian countries. Although Han Chinese superiority had only been sporadically reinforced by displays of Chinese military power, their [[Sinocentrism|Sinocentric system]] treated these countries as vassals of the [[emperor of China]], "the Son of Heaven" ({{Zh|c={{linktext|天子}}|s=|t=}}), who was in possession of the [[Mandate of Heaven]] ({{Zh|c={{linktext|天命}}|s=|t=}}), the [[Divine right of kings|divine right]] to rule. Areas outside Sinocentric influence and the divine rule of the Emperor were considered to consist of uncivilised lands inhabited by barbarians.{{sfn|Arrighi|1996}}
+
+Throughout history, Chinese frontiers had been periodically attacked by [[nomad]]ic tribes from the north, west and even south. These people were being labelled as ''barbarians'' by the Chinese who believed themselves to be more refined and who had begun to [[Civilization|build cities and live an urban life based on agriculture]]. It was in an attempt of how best to deal with this problem that the philosopher, [[Confucius]] (551–479 BCE) was prompted to formulate principles for relationships with the barbarians, briefly recorded in two of his ''[[Analects]]''.{{sfn|Chin|2007}}
+
+Although China had been trading goods to and from Europeans for centuries, it was not until the arrival of the industrialised European trade and colonialism in the 19th and 20th centuries that exposed Chinese civilisation to technological developments that had long outdated China's. As such, Chinese society was forced to undergo a modification of its traditional views of its relationships with "barbarians", and in particular could no longer regard everyone other than Chinese as objectively inferior uncultured barbarians. {{sfn|Ankerl|2000}}
+
+==China==
+Confucius lived during a time of war between Chinese states. He regarded people who did not respect [[Li (Confucianism)|the traditional value of ''li'']] as "barbarians", as he believed the workings of a civilised state should be founded on ethical conduct, which he said must stem from ''li''.  Confucius argued that a state founded on the relatively cruel social codes of conquest and warlordism was barbaric in contrast to one founded on the principles of stately righteousness. In Analect 3.5, Confucius said, "The [[Dongyi|Yi]] and [[Beidi|Di]] barbarian tribes with rulers are not as viable as the various Chinese states without them."{{sfn|Confucius|Ames|Rosemont|1999}}
+
+''The Disposition of Error'', a fifth-century tract defending [[Buddhism]], notes that when Confucius was threatening to take residence among the nine barbarian states ({{Zh|c={{linktext|九黎}}|s=|t=|labels=no}}) he said, "If a gentleman-scholar dwells in their midst, what baseness can there be among them?"<ref>[http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/dispos.html "The Disposition of Error (c. 5th Century BCE)"] City University of New York. Retrieved 11 Jan 2009</ref> An alternate translation of the philosopher's Analect 9.14 is, "Someone said: 'They are vulgar. What can you do about them?' The Master said: 'A gentleman used to live there. How could they be vulgar?'"{{sfn|Confucius|Huang|1997}} In both translations, the author is shown to believe in the superiority of the ''Hua'' culture over that of the ''Yi''.
+
+The prominent ''[[Shuowen Jiezi]]'' character dictionary (121 CE) defines ''yi'' as "level; peaceful" ({{Zh|c={{linktext|平}}|s=|t=|labels=no}}) or "people of eastern regions" ({{Zh|c={{linktext|東方|之人}}|s=|t=|labels=no}}) and does not attempt to marginalise them. This implies that the ''Hua-Yi'' distinction was not universally held.
+
+===Zhou dynasty===
+The ''[[Bamboo Annals]]'' record that the founder of Zhou, [[King Wu of Zhou]] "led the lords of the western barbarians" on a journey to conquer the [[Shang dynasty]],{{sfn|Creel|1983|p=59}} leading to the creation of the Zhou Dynasty.{{sfn|Li|Zheng|2001|p=116}} The Zhou would later contribute as much as the Shang to the ''Hua–Yi'' distinction.{{sfn|Li|Zheng|2001|p=116}}
+
+Not all Zhou regarded the Hua–Yi distinction as a [[cultural barrier]] that needed to be overcome to 'purify' China. Zhou philosopher [[Mencius]] believed that Confucian practices were universal and timeless, and thus, followed by both Hua and Yi people- "[[Emperor Shun|Shun]] was an Eastern barbarian; he was born in Chu Feng, moved to Fu Hsia, and died in Ming T'iao. [[King Wen of Zhou|King Wen]] was a Western barbarian; he was born in Ch'i Chou and died in Pi Ying. Their native places were over a [[Li (unit)|thousand ''li'']] apart, and there were a thousand years between them. Yet when they had their way in the Central Kingdoms, their actions matched like the two halves of a tally. The standards of the two sages, one earlier and one later, were identical."{{sfn|Lau tran.|1970|p=128}}<ref>''Mencius'', [https://ctext.org/mengzi/li-lou-ii "Li Lou II"] quote "孟子曰：「舜生於諸馮，遷於負夏，卒於鳴條，東夷之人也。文王生於岐周，卒於畢郢，西夷之人也。地之相去也，千有餘里；世之相後也，千有餘歲。得志行乎中國，若合符節。先聖後聖，其揆一也。」"</ref>
+
+===Jin dynasty===
+In order to alleviate the shortages of labour caused by the [[Three Kingdoms]] wars, the Jin allowed millions of "barbarian" people to reside in Jin territory. Many officials opposed this decision in the name of the ''Hua–Yi'' distinction, claiming that if the barbarians did not identify with the [[Huaxia]], they would conspire to destroy the empire.{{sfn|Li|Zheng|2001|p=381}}
+
+===Sixteen Kingdoms===
+{{Main|Uprising of the Five Barbarians|Sixteen Kingdoms}}
+
+During the [[Uprising of the Five Barbarians]] ({{Zh|c={{linktext|五胡}}|s=|t=|labels=no}}) and ravaging of [[North China]] that occurred around 310 CE, the [[Jin dynasty (266–420)|Jin dynasty]] and other ethnic Han appealed to entrenched beliefs in the Hua–Yi distinction when calling for resistance to the Wu Hu invasion and the Yi they represented.{{sfn|Li|Zheng|2001|pp=387–389}} The historians of the [[Southern dynasties]], who were all Han Chinese, portrayed the Wu Hu as barbaric.{{sfn|Li|Zheng|2001|pp=393–401}}
+
+====Ran Min's order to kill the "barbarians"====
+{{Main|Ran Min}}
+{{See also|Wei–Jie war}}
+
+In 349 or 350 CE (disputed), the Han general [[Ran Min]] seized power from the last emperor of the [[Later Zhao|Later Zhao dynasty]] and encouraged the [[Han Chinese|Han people]] to slaughter the [[Jie people]], many of whom lived in the Zhao capital of Ye. In this massacre and the wars that ensued, hundreds of thousands of Jie, [[Qiang (historical people)|Qiang]], and [[Xiongnu]] were killed. The "five barbarians" quickly unified to fight Ran Min, yet Ran Min won victory after victory. Despite his military success, however, Ran's regime was toppled in 353 CE. As a result of this period of turbulence, three of the five main "barbarian" ethnic groups in China disappeared from Chinese history.{{sfn|Li|Zheng|2001|p=401}}
+
+Ran Min continues to be a controversial figure. He is considered by some to be a hero, whereas others believe he bore extreme prejudice arising from the Hua–Yi distinction.{{sfn|Li|Zheng|2001|p=401}}
+
+===Northern Wei dynasty===
+Emperor Shaowu of [[Northern Wei]] (a state that controlled the north of China), who was of the [[Xianbei]] people attempted to eliminate ''Yi'' from his state by imposing [[Sinicization|Sinicisation]] on his people. The Xianbei language was outlawed and Xianbei people began to adopt surnames of the Han ethnicity; for example, the ruling clan of the Northern Wei originally bore the surname [[Tuoba]] but it was abandoned in favor of Yuan.{{sfn|Li|Zheng|2001|pp=456–458}}
+
+===Sui dynasty===
+In 581, the Sui emperor [[Emperor Wen of Sui|Yang Jian]] deposed the Xianbei ruler of Northern Zhou and restored Han rule over North China. This event marked the end of all power that the Xianbei and other non-Han groups had over China, and racial tension subsided.{{sfn|Li|Zheng|2001|p={{page needed|date=September 2021}}}}
+
+===Tang dynasty===
+During the [[Tang dynasty]], various ethnic groups including Koreans, Indians and Tibetans journeyed to [[Chang'an]] and other major Tang cities for business or study. These people brought their religions and customs: [[Buddhism]], [[Islam]], [[Zoroastrianism]] (''Xianjiao''), [[Manichaeism]] (''Monijiao'') and [[Syriac Christianity]] (''Jingjiao''), all of which flourished.{{sfn|Li|Zheng|2001|pp=679–687}}
+
+This cosmopolitan policy caused controversy among the literati, many of whom questioned the recommendation of the [[Kaifeng]] governor for the participation of Arab-born Li Yan-sheng in the 847 [[imperial examination]]s and several similar incidences of what they believed as incorrect racial privileging. Such was the discourse that Tang intellectual Chen An wrote an essay defending the governor's decision; ''The Heart of Being Hua'' ({{zh|t=華心|p=Huá xīn|links=no}}), which is often cited as expressing the sentiments of the "non-xenophobic" Chinese position on the Hua–Yi distinction. In the essay, Chen wrote: "If one speaks in terms of geography, then there are Hua and Yi. But if one speaks in terms of education, then there can be no such difference. For the distinction between Hua and Yi rests in the heart and is determined by their different inclinations."{{sfn|Benite|2005|pp=1–3}}
+
+A prominent Tang Confucian, [[Han Yu]], wrote in his essay ''Yuan Dao'', "When Confucius wrote the ''Chunqiu'', he said that if the feudal lords use the Yi ritual, then they should be called Yi. If they use Chinese rituals, then they should be called Chinese." Han Yu went on to lament that the Chinese of his time might all become Yi because the Tang court wanted to put Yi laws above the teachings of the former kings,<ref>{{Cite web |url=http://www.confucianism.com.cn/detail.asp?id=25097 |title="孔子之作春秋也，诸侯用夷礼，则夷之；进于中国，则中国之." |access-date=2013-03-14 |archive-date=2018-07-12 |archive-url=https://web.archive.org/web/20180712183250/http://www.confucianism.com.cn/detail.asp?id=25097 |url-status=dead }}</ref> creating the possibility that although insiders could lose their culture, outsiders could similarly gain insider culture.
+
+Arguments that excoriated the Tang's lax attitude towards foreigners were strengthened by the Yi-led [[An Lushan Rebellion]] (755–763), which propelled the Tang into decline.{{sfn|Li|Zheng|2001|pp=679–687}} An intellectual movement "to return to the pure... sources of orthodox thought and morality", including many of the concepts of the [[Classical Prose Movement]], also targeted "foreign" religions, as exemplified by Han Yu's diatribe against Buddhism. [[Emperor Wenzong of Tang]] passed decrees in line with these views, especially restricting [[Iranian religions]] and Buddhism, but this policy was relaxed by his successors.{{sfn|Gernet|1996|pp=294–295}}
+
+===Five Dynasties and Ten Kingdoms===
+The "Five Dynasties and Ten Kingdoms" was a period in which the north of China was ruled by a non-Han people, the [[Shatuo]], for three short-lived dynasties while the south was ruled by ethnic Han. Their legitimacy was recognised by the [[Song dynasty]].{{sfn|Li|Zheng|2001|pp=778–788}}
+
+===Song dynasty===
+The Song dynasty saw both an economic boom and invasion by alien states. States like the [[Liao dynasty]] and [[Western Xia]] began to take territories inhabited by large numbers of Chinese and asserted that they too were Chinese and successors to the Tang, and posed legitimacy issues for Song rule.
+
+In response to rising concerns from citizenry and claims from Yi states such as the Western Xia, Song scholars stipulated that groups like the [[Shatuo]] (whom the Song largely succeeded and who largely continued the rule of the Tang) were not barbarian or "Yi" but Chinese or "Hua" and that the Song had only descended from ruling groups that were Hua. Secondly, the Song asserted that the Liao and Western Xia, and later the [[Jin dynasty (1115–1234)|Jin]], were barbarian states despite their control of large areas of traditional Han territory because they had not inherited any mandate from a legitimate, "Hua" dynasty.{{sfn|Li|Zheng|2001|pp=823–826}}
+
+===Yuan dynasty===
+Concerns over legitimacy were not limited to the Song alone: states rose up again in the [[Yuan dynasty]], as its rulers were non-[[Han Chinese|Han]]. However, the Yuan dynasty adopted a different approach to quelling the conflict. The Yuan asserted that the Song, Liao and Jin were all legitimate; therefore all three dynasties were given their own history, as recognition of their legitimacy.
+
+Despite this, the Yuan racially segregated their people; dividing society into four categories:
+# [[Mongols]]: the ruling group and hence, the most important
+# [[Semu]] ("assorted categories"): a term for non-Chinese and non-Mongol foreigners who occupied the second slate;
+# [[Han Chinese|Han]] (漢人): a term for the Han Chinese, Jurchens, and Khitan under the rule of the Jin dynasty;
+# Southerner (南人): a term for Han Chinese under the rule of the Song dynasty.
+
+In addition, the Yuan also divided society into 10 castes, based on "desirability":{{sfn|Li|Zheng|2001|pp=920–921}}
+# High officials (官)
+# Minor officials (吏)
+# Buddhist monks (僧)
+# Taoist priests (道)
+# Physicians (医)
+# Peasants (農)
+# Hunters (獵)
+# Courtesans (妓)
+# Confucian scholars (儒)
+# Beggars (丐)
+
+The Yuan rulers were ethnic [[Mongols]] and were viewed as barbaric by the dominant Han population,{{sfn|Li|Zheng|2001|pp=920–927}} although they did not last long in [[China proper]] (from 1271 to 1368).
+
+===Ming dynasty===
+In 1368, Zhu Yuanzhang proclaimed the [[Ming dynasty]] and issued a long manifesto, in which he labeled the Yuan as barbarians who had usurped the Chinese throne, and who had inflicted atrocities such as rape and murder. He lists incidents where the Mongols massacred men in entire villages and appropriated the women. Zhu's northern military expedition had been a success; Beijing was captured in the same year and China was again governed by ethnic Han.{{sfn|Li|Zheng|2001|pp=920–924}}
+
+Although the Ming referred to the preceding Yuan as the "wild Yuan" (胡元), they also accepted the Yuan before them as a legitimate dynasty. Hongwu Emperor indicated on another occasion that he was happy to be born in the Yuan period and that the Yuan did legitimately receive the Mandate of Heaven to rule over China. In addition, one of his key advisors, Liu Ji, generally supported the idea that while the Chinese and the non-Chinese are different, they are actually equal. Liu was therefore arguing against the idea that Hua was and is superior to Yi.<ref>Zhou Songfang, "Lun Liu Ji de Yimin Xintai" (On Liu Ji's Mentality as a Dweller of Subjugated Empire) in ''Xueshu Yanjiu'' no.4 (2005), 112–117.</ref>
+
+During the [[Miao Rebellions (Ming dynasty)|Miao Rebellions]], Ming forces engaged in massive slaughter of the [[Hmong people|Hmong]] and other native ethnic groups in [[South China]]; after castrating Hmong boys to use as [[eunuch]] slaves, Chinese soldiers took Hmong women as wives and colonised the southern provinces.{{sfn|Tsai|1996|p=16}}{{sfn|Schein|2000|p=61}}{{sfn|Mote|Twitchett|1988|p=380}}<ref>{{cite book |last1=Bowman |first1=John Stewart |title=Columbia Chronologies of Asian History and Culture |date=2000 |publisher=Columbia University Press |isbn=978-0-231-11004-4 |url=https://books.google.com/books?id=pg5Qi28akwEC&pg=PA43 |language=en |page=43}}</ref>
+
+Towards the end of the Ming dynasty, Ming loyalists invoked the Hua-Yi distinction to urge the Chinese to resist the [[Manchu people|Manchu]] invaders.{{sfn|Li|Zheng|2001|pp=1018–1032}}
+
+===Qing dynasty===
+The [[Qing dynasty]]'s order that all subjects shave their forehead and braid the rest of their hair into a [[Queue (hairstyle)|queue]] was viewed as a symbolic gesture of servitude by many ethnic Han, who thought that changing their dress to the same as Yi would be contrary to the spirit of thr Hua-Yi distinction.
+
+Scholar [[Lü Liuliang]] (1629–1683), who lived through the transition between the Ming and the Manchu-led [[Qing dynasty]], refused to serve the new dynasty because he claimed that upholding the difference between Huaxia and the Yi was more important than respecting the righteous bond between minister (臣) and sovereign (君王). In 1728, failed [[Imperial examination]] candidate [[Zeng Jing (Qing dynasty)|Zeng Jing]], influenced by Lü's works, called for the overthrow of the Manchu regime. The [[Yongzheng Emperor]], whom Zeng accused of ten major crimes, took this event as an opportunity to educate the Qing's Chinese subjects. In a series of discussions with Zeng Jing, the emperor proclaimed that Chinese were not inherently superior to the barbarians. To justify his statements, he declared that King Wen, the sage king and the founder of the Zhou dynasty, was of Western Yi origin, but this did not hurt his greatness.
+
+The [[Yongzheng Emperor]] also borrowed from Han Yu, indicating that Yi can become Hua and vice versa. In addition, according to Yongzheng, both Hua and Yi were now a part of the same family under the Qing. One of the goals of the tract ''Dayi juemi lu'' (大義覺迷錄), which the Yongzheng Emperor published and distributed throughout the empire in 1730, was "to undermine the credibility of the hua/yi distinction."<ref>{{harvnb|Liu|2004a|p=84}}. Lü's original sentence was "Hua yi zhi fen da yu jun chen zhi yi" 華夷之分，大於君臣之義.</ref> However, due to the fact that this tract also helped to expose many unsavoury aspects of court life and political intrigues in the imperial government, Yongzheng's successor the [[Qianlong Emperor]] (r. 1736–1796) recalled the tracts and had them burned for the fear that it would undermine the legitimacy of the Qing empire.
+
+During the Qing, the Qing destroyed writings that criticised the Liao, Jin and Yuan using the Hua–Yi distinction.{{clarify|date=November 2011}}
+
+[[Sun Yat-sen]] also used the Hua–Yi distinction to justify the overthrow of the Qing dynasty.{{sfn|Li|Zheng|2001|p={{page needed|date=September 2021}}}}
+
+However, the Qing adopted Confucian philosophy and Han Chinese institutions to show that the Manchu rulers had received the Mandate of Heaven, while at the same time trying to retain their own indigenous culture.<ref>{{cite book |last1=Fairbank |first1=John King |last2=Goldman |first2=Merle |title=China: A New History |date=1998 |publisher=Belknap Press of Harvard University Press |isbn=978-0-674-11673-3 |pages=146–149 |url=https://books.google.com/books?id=VKztAAAAMAAJ |language=en}}</ref> Due to the Manchus' adoption of Han Chinese culture, most Han Chinese (though not all) accepted the Manchus as the legitimate rulers.
+
+===Republic of China===
+Historian [[Frank Dikötter]] (1990:420) says the Chinese "idea of 'race' (''zhong'' [種], "seed", "species", "race") started to dominate the intellectual scene" in the late 19th-century Qing dynasty and completed the "transition from cultural exclusiveness to racial exclusiveness in modern China" in the 1920s.{{sfn|Dikötter|1994|p=420}}
+
+Following the overthrow of the Qing, Sun Yat-sen allegedly went to the grave of Zhu Yuanzhang and told him that the Huaxia had been restored and the barbarians overthrown.{{Citation needed|date=August 2019}} However, after the [[Republic of China (1912–49)|Republic of China]] revolution, Sun also advocated that all ethnic groups in China were part of the Chinese family.
+
+===People's Republic of China===
+{{See also|Han chauvinism}}
+
+The PRC did not abide by the concept of the Hua-Yi distinction and recognised the Liao, Jin, Yuan, and Qing as legitimate dynasties. Initially, the [[Communist Party of China|Communist Party]] condemned all Chinese dynasties as "feudal."
+
+==Conceptualisation of the Hua–Yi distinction in the Sinosphere==
+{{Main|East Asian cultural sphere}}
+{{See also|Little China (ideology)}}
+
+===Japan===
+In ancient times Japan seems to have had a vassal relationship with China. In 57 [[Emperor Guangwu of Han]] sent an imperial seal which mentions "King of Japan" (漢委奴國王) and in 239 [[Cao Rui|Emperor Ming of Cao Wei]] sent a seal for "pro-Wei King of Japan" (親魏倭王) to Japan.<ref>{{Cite web|url=https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97/%E5%8D%B730?uselang=ja#%E5%80%AD%E4%BA%BA%E6%9D%A1|title=三國志/卷30 – Wikisource|website=zh.wikisource.org|access-date=2019-06-04}}</ref>
+
+However, in 607 [[Prince Shōtoku]] of Japan stated its perspective of being independent and equal to China in a diplomatic letter by referring to the Japanese ruler as an emperor (“日出處天子致書日沒處天子無恙云云” An emperor of where the sun rises is writing to an emperor of where the sun sets).<ref>{{Cite web|url=https://zh.wikisource.org/wiki/%E9%9A%8B%E6%9B%B8/%E5%8D%B781|title=隋書/卷81 – 维基文库，自由的图书馆|website=zh.wikisource.org|access-date=2019-06-04}}</ref><ref>{{Cite web|url=http://www.guoxue.com/shibu/24shi/suisu/sui_081.htm|title=国学原典·史部·二十四史系列·隋书·卷八十一|website=www.guoxue.com|access-date=2019-06-04}}</ref> It was taken as an insult by the Chinese emperor of the time, [[Emperor Yang of Sui]], since in Hua–Yi distinction emperor is a title for the ruler of China, but not for other foreign countries.
+
+[[Confucianism]] was introduced into Japan about at the same time as Buddhism, but it was not encouraged to be spread as much as Buddhism was.
+
+Some Japanese philosophers, like the neo-Confucianists [[Yamaga Sokō]] and [[Aizawa Seishisai]] claimed that Japan was the middle kingdom (中國 Chūgoku) instead of China.
+
+{{gallery|height=200|width=200
+|File:Umayado_Miko.jpg|[[Prince Shōtoku]], who first stated Japanese independence and equal status to China. Drawing by [[Kikuchi Yōsai]] (1781–1878).
+}}
+
+===Korea===
+
+{{gallery|height=200|width=200
+|File:2008-Korea-Seoul-Jongmyo jeryeak-04.jpg|Korean ritual dress resembles Ming [[hanfu]]
+|File:Korea-Geumgwan Jobok-01.jpg|Korean court dress resembles Ming hanfu
+|File:Parkmunsu.jpg|Joseon official dress inherited from the Ming dynasty}}
+Following the 1644 Manchu conquest, [[Joseon]] Koreans began to refer to themselves as ''[[Sojunghwa]]'' "Little China" ({{Korean|hangul=소중화|hanja=小中華}}). As the Joseon supported the Ming, they were reported to have extended a friendliness to the Ming that they did not display to the Qing dynasty.
+
+This sentiment was in large part due to the fact that Jurchens were descended from Mohe people, who were once subjects of Korean kingdoms of Goguryeo and Balhae. In addition, Jurchens were widely recognised as barbarians, as Jurchen tribes have been raiding and pillaging the northern border regions of Korean Goryeo and Joseon kingdoms for centuries. This sentiment did not disappear even after Qing completed sinicisation.
+
+Because Korea had been closely tied to Han Chinese, "barbarianism ruling China" became a major issue for discussion there.
+
+As the Ming dynasty fell, Korea was worried about its own security. This was due to previous instances in which Ming China aided Korea such as in the [[Japanese invasions of Korea (1592–98)#Intervention of Ming China|Japanese invasions of Korea (1592–98)]].<ref>{{cite web|title=Ch 12 – Japanese Invasions|url=http://koreanhistoryproject.org/Ket/C12/E1204.htm |access-date=January 12, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090403230844/http://www.koreanhistoryproject.org/Ket/C12/E1204.htm |archive-date=April 3, 2009 }}</ref> Long after the establishment of the Qing dynasty, the Joseon ruling elite and even the Joseon government continued to use the [[Chongzhen Emperor]]'s [[Chinese era name|era name]] ({{Korean|hangul=숭정기원|hanja=崇禎紀元}}) of the last Ming emperor.{{sfn|Haboush|2005|pp=131–32}} In private they referred to the Manchu Emperor as the "barbarian ruler" and Qing ambassadors as "barbarian ambassadors".<ref>{{cite news|url=http://ido.thethirdmedia.com/article/frame.aspx?turl=http%3a//ido.3mt.com.cn/article/200901/show1260552c17p1.ibod&rurl=&title=%u671D%u9C9C%u7687%u5BA4%u7684%u201C%u53CD%u6E05%u590D%u660E%u201D%u8BA1%u5212%uFF1A%u4E3A%u62A5%u63F4%u671D%u6297%u65E5%u4E4B%u6069%28%u56FE%29_%u671D%u9C9C%u7687%u5BA4%u66FE%u60F3%u201C%u53CD%u6E05%u590D%u660E%u201D%20%u6697%u5730%u6269%u5145%u519B%u961F%20---%20ido.3mt.com.cn|title=In Chinese:朝鲜皇室的"反清复明"计划：为报援朝抗日之恩|date=2009-01-24|publisher=ido.3mt.com.cn|access-date=2009-01-25}}</ref> These feelings could not be expressed as the "barbarians" held great power over Korea following their successful invasion in the [[Later Jin invasion of Joseon]] in 1627 and the [[Qing invasion of Joseon]] of 1637.
+
+Over time the Qing government exerted more power over Korea. This would eventually turn Korea into a [[hermit kingdom]] to limit foreign influence.
+
+===Ryūkyū===
+{{gallery|height=200|width=200
+|File:King Sho Shin.jpg|King [[Shō Shin]] wearing Chinese court dress
+|File:Prince Sho Kyo.JPG|Prince [[Shō Kyō]] wearing Chinese court dress
+}}
+The [[Ryukyu Kingdom]] was heavily influenced by Chinese culture, taking language, architecture, and court practices from China.{{sfn|Kerr|2000|p={{page needed|date=September 2021}}}} It also paid annual tribute to first the Ming and later Qing courts from 1374 until 1874.
+
+===Vietnam===
+{{gallery|height=180|width=180
+|File:世界人物圖卷 越南人.jpg|Le period northern Vietnamese ([[Đàng Ngoài]]) clothing in 17th century 
+|File:TranhtrieuNguyen-8.jpg|Prince [[Nguyễn Phúc Miên Thẩm]] (''Tùng Thiện Vương'') wearing Vietnamese court dress
+|File:廣南國夷官.jpg|Tây Sơn Mandarin [[Ngô Văn Sở]] wearing casual dress
+|File:Trần_Anh_Tông_TLĐSXSĐ.jpg|Emperor [[Trần Anh Tông]] in casual dress
+||Mandarin of Nguyen dynasty ,1927
+
+}}
+Vietnamese dynasties competed for primacy, adopting the same descriptive term, "central state" (''Trung Quốc'' 中國), while Chinese were "outsiders".{{sfn|Trần Quang Đức|2013|p=25}} For example, Emperor [[Gia Long]] used ''Trung Quốc'' as a name for Vietnam in 1805.{{sfn|Woodside|1971|pp=[https://books.google.com/books?id=0LgSI9UQNpwC&pg=PA18 18–]}} [[Cambodia]] was regularly called ''Cao Man'', the country of "upper barbarians".{{citation needed|date=July 2016}}
+
+In the 1800s, [[Nguyễn dynasty|Nguyễn rulers]] such as Emperor [[Minh Mạng]] claimed the legacy of Confucianism and China's Han dynasty for Vietnam. Vietnamese called themselves as ''Hán dân'' (漢民) and ''Hán nhân'' (漢人),<ref>{{cite web |date=March 2004 |title=Vietnam-Champa Relations and the Malay-Islam Regional Network in the 17th–19th Centuries |author=Danny Wong Tze Ken|url=http://kyotoreview.cseas.kyoto-u.ac.jp/issue/issue4/article_353.html |url-status=dead|archive-url=https://web.archive.org/web/20040617071243/http://kyotoreview.cseas.kyoto-u.ac.jp/issue/issue4/article_353.html |archive-date=2004-06-17}}</ref><ref>{{cite book|author=Norman G. Owen|title=The Emergence Of Modern Southeast Asia: A New History|url=https://books.google.com/books?id=py5Xh0-pw18C&q=minh+mang+han&pg=PA115|year=2005|publisher=University of Hawaii Press|isbn=978-0-8248-2890-5|pages=115–}}</ref> while they referred to ethnic Chinese as ''Thanh nhân'' (清人) or ''Đường nhân'' (唐人).{{sfn|Wook|2004|pp=[https://books.google.com/books?id=foZAdRgB-nwC&pg=PA137 137–]}} For example, Emperor [[Gia Long]] said ''Hán di hữu hạn'' (漢夷有限, "''the Vietnamese and the barbarians must have clear borders''") when differentiating between Khmer and Vietnamese.{{sfn|Wook|2004|pp=[https://books.google.com/books?id=foZAdRgB-nwC&pg=PA34 34–]}}
+
+As [[Nam tiến|Vietnam conquered territory]] from the [[Cambodia|Khmer]] and [[Laos|Lao]] kingdoms and various tribes on the [[Central Highlands (Vietnam)|Central Highlands]] such as the [[Jarai people|Jarai]] and the [[Mạ people|Mạ]], Emperor Minh Mạng implemented an acculturation integration policy directed at these peoples.{{sfn|Wook|2004|pp=[https://books.google.com/books?id=foZAdRgB-nwC&pg=PA136 136–]}} He declared, "We must hope that their barbarian habits will be subconsciously dissipated, and that they will daily become more infected by Han [Sino-Vietnamese] customs."<ref>{{cite book|author=A. Dirk Moses|title=Empire, Colony, Genocide: Conquest, Occupation, and Subaltern Resistance in World History |url=https://books.google.com/books?id=RBgoNN4MG-YC&pg=PA209|year=2008|publisher=Berghahn Books|isbn=978-1-84545-452-4|pages=209–}}</ref><ref>{{cite book|author1=Randall Peerenboom |author2=Carole J. Petersen|author3=Albert H.Y. Chen|title=Human Rights in Asia: A Comparative Legal Study of Twelve Asian Jurisdictions, France and the USA |url=https://books.google.com/books?id=2j6GNiMMc1oC&pg=PA474 |date=27 September 2006|publisher=Routledge|isbn=978-1-134-23881-1|pages=474–}}</ref>
+
+Clothing was also affected by Nguyễn policies. Lord [[Nguyễn Phúc Khoát]] ordered traditional wrapped-skirt and cross-collar clothing which is very popular in Sinosphere to be replaced by Qing and Ming-style clothing{{sfn|Woodside|1971|p=134}} although isolated hamlets in northern Vietnam continued to wear skirts until the 1920s.<ref name="Rambo2005">{{cite book|author=A. Terry Rambo|year=2005 |title=Searching for Vietnam: Selected Writings on Vietnamese Culture and Society|publisher=Kyoto University Press|isbn=978-1-920901-05-9|page=64 |url=https://books.google.com/books?id=ippuAAAAMAAJ}}</ref> The [[ao dai]] was created when [[Tuck (sewing)|tucks]], which were close fitting and compact, were added to this Chinese style in the 1920s.<ref>{{cite book|author=Anthony Reid|title=A History of Southeast Asia: Critical Crossroads|url=https://books.google.com/books?id=cETJBgAAQBAJ|date=2 June 2015|publisher=John Wiley & Sons|isbn=978-0-631-17961-0|pages=285}}</ref>
+
+Up to 1812, the 1644 Ming Datong calendar was used by the Nguyễn in Vietnam.<ref>{{cite book |last1=Batchelor |first1=Robert K. |title=London: The Selden Map and the Making of a Global City, 1549-1689 |date=2014 |publisher=University of Chicago Press |isbn=978-0226080796 |page=188 |url=https://books.google.com/books?id=giZnAgAAQBAJ&pg=PA188}}</ref>
+
+==See also==
+* [[Barbarian]]
+* [[Foreign relations of imperial China]]
+* [[Graphic pejoratives in written Chinese]]
+* [[Greater China]]
+* [[List of recipients of tribute from China]]
+* [[List of tributary states of China]]
+* [[Suzerainty]]
+* [[Tributary state]]
+* ''[[Pax Sinica]]''
+*[[Other (philosophy)]]
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* {{cite book |first=Zvi Ben-Dor |last=Benite |title=The dao of Muhammad: a cultural history of Muslims in late imperial China |url={{google books |plainurl=y |id=5LfXAAAAMAAJ}} |year=2005 |publisher=Harvard University Asia Center}}
+* {{cite book |author1=Confucius |first2=Roger T. |last2=Ames |first3=Henry |last3=Rosemont |title=The Analects of Confucius: A Philosophical Translation |url={{google books |plainurl=y |id=mRzEngEACAAJ}} |year=1999 |publisher=Ballantine Books|isbn=978-0-345-43407-4 }}
+*{{cite book|first=Guy |last=Ankerl|title=Global Communication Without Universal Civilization|url={{google books |plainurl=y |id=hzr4-09oo3MC}}|year=2000|publisher=INU PRESS|isbn=978-2-88155-004-1 }}
+*{{cite journal |last=Arrighi |first=Giovanni |year=1996 |url=http://jwsr.ucr.edu/archive/vol2/v2_nf.php |title=The Rise of East Asia and the Withering Away of the Interstate System |journal=Journal of World-Systems Research |volume=2 |issue=15 |pages=1–35 |url-status=dead |archive-date=2009-02-17 |archive-url=https://web.archive.org/web/20090217145944/http://jwsr.ucr.edu/archive/vol2/v2_nf.php}}
+*{{cite book|first=Annping|author-link=Annping Chin|last=Chin|title=The Authentic Confucius: A Life of Thought and Politics|url={{google books |plainurl=y |id=d4As4v5ZaG8C}}|date=6 November 2007|publisher=Simon and Schuster |isbn=978-1-4165-5263-5 }}
+*{{cite book|first=Herrlee Glessner |last=Creel|title=The Origins of Statecraft in China: The Western Chou Empire|url={{google books |plainurl=y |id=86E7PgAACAAJ}}|date=1983|publisher=University of Chicago Press |isbn=978-0-226-12044-7 }}
+*{{cite book|first=Nicola |last=Di Cosmo|title=Ancient China and its Enemies: The Rise of Nomadic Power in East Asian History|url={{google books |plainurl=y |id=dNGol-W5Zi0C}}|date=25 February 2002|publisher=Cambridge University Press|isbn=978-1-139-43165-1 }}
+*{{cite journal|last=Dikötter |first=Frank |year=1990 |title=Group Definition and the Idea of 'Race' in Modern China (1793-1949) |journal=Ethnic and Racial Studies |volume=13 |issue=3 |pages=420–432 |doi=10.1080/01419870.1990.9993681}}
+*{{cite book|author-link=Frank Dikötter|last=Dikötter|first=Frank|year=1994|title=The Discourse of Race in Modern China|publisher=Stanford University Press}}
+*{{cite book|first1=Patricia Buckley |last1=Ebrey|first2=Anne|last2= Walthall|title=East Asia: A Cultural, Social, and Political History|url={{google books |plainurl=y |id=QfkWAAAAQBAJ}}|date=2013 |publisher=Cengage Learning |isbn=978-1-133-60647-5}}
+*{{cite book|first=Edward L. |last=Farmer|title=Zhu Yuanzhang and Early Ming Legislation: The Reordering of Chinese Society Following the Era of Mongol Rule|url={{google books |plainurl=y |id=TCIjZ7l6TX8C}} |year=1995 |publisher=BRILL|isbn=90-04-10391-0}}
+*{{cite book|editor-first=Lynn A. |editor-last=Struve|title=Time, Temporality, and Imperial Transition: East Asia from Ming to Qing|url={{google books |plainurl=y |id=Fsv_AAAACAAJ+}}|date=2005 |publisher=Association for Asian Studies and University of Hawai'i Press|isbn=978-0-8248-2827-1 |last=Haboush |first=JaHyun Kim |chapter=Contesting Chinese Time, Nationalizing Temporal Space: Temporal Inscription in Late Choson Korea |pages=115–41}}
+*{{cite book|last1=Confucius|first2=Chichung |last2=Huang|title=The Analects of Confucius: A Literal Translation with an Introduction and Notes|url={{google books |plainurl=y |id=wqym0cOd33MC}}|year=1997 |publisher=Oxford University Press|isbn=978-0-19-506157-4 }}
+* {{cite book|first=George |last=Kerr|title=Okinawa:The History of an Island People|url={{google books |plainurl=y |id=aCfRAgAAQBAJ}}|date=2000|publisher=Tuttle Publishing|isbn=978-1-4629-0184-5}}
+*{{cite book|last=Li |first=Feng|title=Landscape and Power in Early China: The Crisis and Fall of the Western Zhou 1045–771 BC|url={{google books |plainurl=y |id=d_qOvs0WjPcC}}|date=17 August 2006|publisher=Cambridge University Press|isbn=978-1-139-45688-3 }}
+*{{cite book|last1=Li |first1=Bo |last2=Zheng |first2=Yin |title=5000 years of Chinese history |publisher=Inner Mongolian People's publishing corp|isbn=7-204-04420-7 |year=2001 }}
+<!-- -->
+*{{cite book|first=Lydia He |last=Liu|title=The Clash of Empires|url={{google books |plainurl=y |id=zxPpHkumqbEC}}|year=2004a|publisher=Harvard University Press|isbn=978-0-674-01307-0}}
+*{{cite book|first=Xiaoyuan |last=Liu|title=Frontier Passages: Ethnopolitics and the Rise of Chinese Communism, 1921-1945|url={{google books |plainurl=y |id=mpqApZWrJyIC}}|year=2004b|publisher=Stanford University Press|isbn=978-0-8047-4960-2}}
+* {{cite book |title=Mencius |first=D.C |last=Lau tran. |location=Middlesex |publisher=Penguin Books |year=1970 }}
+* {{cite book|first=Victor H. |last=Mair|title=Wandering on the Way: Early Taoist Tales and Parables of Chuang Tzu|url={{google books |plainurl=y |id=dpFnYhV_ghIC |page=315}}|year=1998|publisher=University of Hawaii Press|isbn=978-0-8248-2038-1}}
+* {{cite book|first=Robert |last=Morrison|title=A Dictionary of the Chinese Language in Three Parts,...|url={{google books |plainurl=y |id=5T4mwkCFtcoC}}|year=1823|publisher=printed at the east India Company's Press}}
+* {{cite book|first1=Frederick W. |last1=Mote|first2=Denis|last2=Twitchett|title=The Cambridge History of China: Volume 7, The Ming Dynasty, 1368–1644|url={{google books |plainurl=y |id=tyhT9SZRLS8C|page=380}} |date=26 February 1988|publisher=Cambridge University Press|isbn=978-0-521-24332-2|pages=380– }}
+* {{cite book|editor-first1=Reuven |editor-last1=Amitai|editor-first2=Michal |editor-last2=Biran |title=Mongols, Turks, and Others: Eurasian Nomads and the Sedentary World|url={{google books |plainurl=y |id=s9EmAQAAMAAJ}} |publisher=Brill|isbn=978-90-04-14096-7|last=Pines |first=Yuri |year=2005 |chapter=Beasts or humans: Pre-Imperial origins of Sino-Barbarian Dichotomy |pages=59–102}}
+*{{cite book|first=William T. |last=Rowe|title=Crimson Rain: Seven Centuries of Violence in a Chinese County|url={{google books |plainurl=y |id=OeHiHpz9SsEC}}|year=2007|publisher=Stanford University Press |isbn=978-0-8047-5496-5}}
+*{{cite book|first=Gideon |last=Shelach|title=Leadership Strategies, Economic Activity, and Interregional Interaction: Social Complexity in Northeast China|url={{google books |plainurl=y |id=n_-8NnuSwC8C}} |date=30 April 1999 |publisher=Springer US|isbn=978-0-306-46090-6 }}
+*{{cite book|first=Leo K. |last=Shin|title=The Making of the Chinese State: Ethnicity and Expansion on the Ming Borderlands|url={{google books |plainurl=y |id=DOb-4JU18UAC}}|date=3 July 2006|publisher=Cambridge University Press |isbn=978-0-521-85354-5}}
+*{{cite book|first=Ross |last=Terrill|title=The New Chinese Empire|url={{google books |plainurl=y |id=4mhOSbYlvwYC}}|year=2003|publisher=UNSW Press|isbn=978-0-86840-758-6 }}
+*{{cite book|editor-first1=Michael |editor-last1=Loewe|editor-first2=Edward L.|editor-last2= Shaughnessy |last=von Falkenhausen |first=Lothar|chapter=The Waning of the Bronze Age: Material Culture and Social Developments, 770–481 B.C.|title=The Cambridge History of Ancient China: From the Origins of Civilization to 221 BC|url={{google books |plainurl=y |id=cHA7Ey0-pbEC |page=450}}|date=13 March 1999|pages=450–544 |publisher=Cambridge University Press |isbn=978-0-521-47030-8}}
+* {{cite book|first=Louisa |last=Schein|title=Minority Rules: The Miao and the Feminine in China's Cultural Politics|url={{google books |plainurl=y |id=GomyOthrHjUC|page=61}}|year=2000|publisher=Duke University Press|isbn=0-8223-2444-X|pages=61– }}
+* {{cite book |title=Ngàn Năm Aó Mũ |author=Trần Quang Đức |publisher=Nhã Nam Publishing House |year=2013 |language=vi |trans-title=A Thousand Years Ao Hat}}
+* {{cite book|first=Shih-shan Henry |last=Tsai|title=The Eunuchs in the Ming Dynasty|url={{google books |plainurl=y |id=Ka6jNJcX_ygC|page=16}}|year=1996|publisher=SUNY Press|isbn=978-0-7914-2687-6|pages=16– }}
+* {{cite book|first=Alexander|last=Woodside|title=Vietnam and the Chinese Model: A Comparative Study of Vietnamese and Chinese Government in the First Half of the Nineteenth Century|url={{google books |plainurl=y |id=0LgSI9UQNpwC}} |year=1971|publisher=Harvard Univ Asia Center|isbn=978-0-674-93721-5}}
+* {{cite book|first=Choi Byung |last=Wook|title=Southern Vietnam Under the Reign of Minh Mạng (1820-1841): Central Policies and Local Response|url={{google books |plainurl=y |id=foZAdRgB-nwC}} |year=2004 |publisher=SEAP Publications|isbn=978-0-87727-138-3}}
+* {{cite book |first=Jacques |last=Gernet |title=A History of Chinese Civilization |url=https://archive.org/details/historyofchinese00gern |url-access=registration |year=1996 |publisher=Cambridge University Press |isbn=978-0-521-49781-7}}
+{{refend}}
+
+==Further reading==
+*'''Author? (date?)'''. "[http://www.zlunwen.com/culture/others/11402.htm Tan Sitong 'Hua-Yi zhi bian' sixiang de yanjin] {{Webarchive|url=https://web.archive.org/web/20210312014201/http://www.zlunwen.com/culture/others/11402.htm |date=2021-03-12 }}" 谭嗣同"华夷之辨"思想的演进 ["The evolution of Tan Sitong's thinking on the 'Hua-Yi distinction'"]. Retrieved on January 16, 2009. [https://translate.google.com/translate?hl=en&sl=zh-CN&u=http://www.zlunwen.com/culture/others/11402.htm&sa=X&oi=translate&resnum=5&ct=result&prev=/search%3Fq%3D%25E8%258F%25AF%25E5%25A4%25B7%25E4%25B9%258B%25E8%25BE%25A8%26start%3D50%26hl%3Den%26sa%3DN Google translation].
+*Fan Wenli 樊文礼 (2004). "[https://web.archive.org/web/20090919100048/http://www.zhongguosixiang.com/thread-7708-1-1.html 'Hua-Yi zi bian' yu Tangmo Wudai shiren de Hua-Yi guan] – shiren qunti dui Shatuo zhengquan de rentong" "华夷之辨"与唐末五代士人的华夷观–士人群体对沙陀政权的认同 ["The 'Hua-Yi distinction' and scholar-officials' view of Hua and Yi in the late Tang and Five Dynasties: their recognition of the Shatuo regime"].[https://web.archive.org/web/20120310192248/http://scholar.ilib.cn/Article.aspx?AIT=QCode&AI=ytsfxyxb-zxsh200403008&A=ytsfxyxb-zxsh200403008] ''Yantai shifan xueyuan xuebao'' (Zhexue shehui kexue ban) 烟台师范学院学报 (哲学社会科学版) ["Bulletin of the Yantai Normal Academy (Philosophy and Social Science edition)"] 21.3. {{ISSN|1003-5117}} (2004)03-0028-05. [https://translate.google.com/translate?hl=en&sl=zh-CN&u=http://www.zhongguosixiang.com/thread-7708-1-1.html&sa=X&oi=translate&resnum=9&ct=result&prev=/search%3Fq%3D%25E6%2597%25A5%25E6%259C%25AC%25E5%2592%258C%25E8%258F%25AF%25E5%25A4%25B7%25E4%25B9%258B%25E8%25BE%25A8%26hl%3Den%26sa%3DG Google translation].
+*Geng Yunzhi 耿云志 (2006). "[https://web.archive.org/web/20071102063751/http://www.zisi.net/htm/ztlw2/lxyj/2005-05-10-19729.htm Jindai sixiangshi shang de minzuzhuyi]" 近代思想史上的民族主义 ["Nationalism in modern intellectual history"]. [https://web.archive.org/web/20120310192324/http://scholar.ilib.cn/Article.aspx?AIT=QCode&AI=sxyk200606002&A=sxyk200606002 ''Shixue yuekan''] 史学月刊 ["Journal of Historical Science"] 2006.6. Retrieved on January 16, 2009. [https://translate.google.com/translate?hl=en&sl=zh-CN&u=http://www.zisi.net/htm/ztlw2/lxyj/2005-05-10-19729.htm&sa=X&oi=translate&resnum=4&ct=result&prev=/search%3Fq%3D%25E8%258F%25AF%25E5%25A4%25B7%25E4%25B9%258B%25E8%25BE%25A8%26start%3D20%26hl%3Den%26sa%3DN Google translation].
+*Guan Jiayue 關嘉耀 (2003). "[http://www2.cuhk.edu.hk/naex/nalife/issue/10-2003/20-23.htm 'Hua-Yi zhi bian' yu wenhua zhongxin zhuyi]{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}" 「華夷之辨」與文化中心主義 ["The Hua-Yi distinction and cultural centrism"] [https://translate.google.com/translate?hl=en&sl=zh-TW&u=http://www2.cuhk.edu.hk/naex/nalife/issue/10-2003/20-23.htm&sa=X&oi=translate&resnum=8&ct=result&prev=/search%3Fq%3D%25E8%258F%25AF%25E5%25A4%25B7%25E4%25B9%258B%25E8%25BE%25A8%26start%3D50%26hl%3Den%26sa%3DN Google translation].
+*He Yingying 何英莺 '''(date?)'''. "[http://www.ch.zju.edu.cn/rwxy/rbs/shuoshilunwenjiheyingying.htm Hua-Yi sixiang he Shenguo sixiang de chongtu]: lun Zhong-Ri guanxi de fazhan" 华夷思想和神国思想的冲突一一论明初中日关系的发展 [The conflict between the Hua-Yi conception and the Divine-Land conception: on China-Japan relations in the early Ming]. '''Source?''' Retrieved on February 9, 2009.
+*Huang Shijian 黄时鉴 '''(date?)'''. "[https://web.archive.org/web/20100916091023/http://www.zgchb.com.cn/article/2008/1229/article_12092.html Ditu shang de 'Tianxia guan']" 地图上的"天下观" ["The 'All-under-heaven' conception on maps"]. From ''Zhongguo cehui'' 中国测绘. [https://translate.google.com/translate?hl=en&sl=zh-CN&u=http://www.zgchb.com.cn/article/2008/1229/article_12092.html&sa=X&oi=translate&resnum=1&ct=result&prev=/search%3Fq%3D%25E8%258F%25AF%25E5%25A4%25B7%25E4%25B9%258B%25E8%25BE%25A8%26start%3D90%26hl%3Den%26sa%3DN Google translation].
+*Liu Lifu 刘立夫 and Heng Yu 恆毓 (2000). "[https://web.archive.org/web/20090213030133/http://arts.cuhk.edu.hk/~hkshp/humanities/ph74-02.txt Yi-Xia zhi bian yu Fojiao]" 夷夏之辨與佛教 ["The Yi-Xia distinction and Buddhism"]. Retrieved on January 16, 2009. [https://translate.google.com/translate?hl=en&sl=zh-TW&u=http://arts.cuhk.edu.hk/~hkshp/humanities/ph74-02.txt Google translation].
+*{{citation|last=Nylan|first=Michael|year=2012|title=Talk about 'Barbarians' in Antiquity|journal=Philosophy East and West|volume=62|issue=4|pages=580–601|url=https://muse.jhu.edu/article/488831|ref=none|doi=10.1353/pew.2012.0063|s2cid=170489808}} {{subscription required|via=[[Project MUSE]]}}
+*Pang Naiming 庞乃明 (2008). "[http://d.wanfangdata.com.cn/Periodical_qsxk200804022.aspx Guoji zhengzhi xin yinsu yu Mingchao houqi Hua-Yi zhi bian']" 国际政治新因素与明朝后期华夷之辨 ["A new factor in international politics and the Hua-Yi distinction in the late Ming dynasty"]. ''Qiushi xuekan'' 求是学刊 ["Seeking Truth"] 35.4. [https://translate.google.com/translate?hl=en&sl=zh-CN&u=http://d.wanfangdata.com.cn/Periodical_qsxk200804022.aspx Google translation].
+{{Historiography}}{{DEFAULTSORT:Hua-Yi distinction}}
+[[Category:Chinese culture]]
+[[Category:Historiography of China]]
+[[Category:Japanese culture]]
+[[Category:Korean culture]]
+[[Category:Vietnamese culture]]
+[[Category:Confucian ethics]]
+[[Category:China–Korea relations]]
+[[Category:China–Japan relations]]
+[[Category:China–Vietnam relations]]

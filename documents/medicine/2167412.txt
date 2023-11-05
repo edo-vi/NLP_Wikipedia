@@ -1,0 +1,38 @@
+{{Short description|Viral disease of Shrimp}}
+{{Virusbox
+| image = 
+| image_alt = 
+| image_caption = 
+| species = Decapod penstylhamaparvovirus 1
+| parent = Penstylhamaparvovirus
+| synonyms = Infectious hypodermal and hematopoietic necrosis virus
+| synonyms_ref = 
+}}
+
+'''Infectious hypodermal and hematopoietic necrosis''' (IHHN) is a [[Parvoviridae|parvoviral]] disease of [[Penaeidae|penaeid shrimp]] that causes mass mortality (up to 90%) among the Western blue shrimp (''[[Penaeus]] stylirostris'') and severe deformations in the Pacific white shrimp (''[[Whiteleg shrimp|P. vannamei]]''). It occurs in Pacific farmed and wild shrimp, but not in wild shrimp on the [[Atlantic Ocean|Atlantic]] coast of the Americas. The [[shrimp farm|shrimp-farming]] industry has developed several broodstocks of both ''P. stylirostris'' and ''P. vannamei'' that are [[disease resistance|resistant]] against IHHN infection.<ref>[[World Organization for Animal Health]] (OIE): ''Aquatic Manual'', 4th Ed., 2003. [http://www.oie.int/eng/normes/fmanual/A_00052.htm Section 4.1.6] {{Webarchive|url=https://web.archive.org/web/20050308125854/http://www.oie.int/eng/normes/fmanual/A_00052.htm |date=2005-03-08 }}. {{ISBN|92-9044-563-7}}.</ref>
+
+The disease is caused by a single-stranded [[DNA virus]] of the species ''Decapod pestylhamaparvovirus 1'', earlier known as IHHN virus, the smallest of the known penaeid shrimp viruses (22&nbsp;[[nanometre|nm]]).<ref>Gulf States Marine Fisheries Commission: [http://nis.gsmfc.org/nis_factsheet.php?toc_id=2 ''Non-Native Species Summaries: ''Infectious Hypodermal and Hematopoietic Necrosis Virus'' (IHHNV)''] {{Webarchive|url=https://web.archive.org/web/20050528103855/http://nis.gsmfc.org/nis_factsheet.php?toc_id=2 |date=2005-05-28 }}, 2003. Accessed June 30, 2005.</ref>
+
+==Virology==
+This virus has been classified as Penaeus stylirostris hamaparvovirus. The genome is 4.1 kilobases in length. There are three open reading frames in its genome:<ref name=Rai2011>Rai P, Safeena MP, Karunasagar I, Karunasagar I (2011) Complete nucleic acid sequence of ''Penaeus stylirostris'' hamaparvovirus (PstDNV) from India. Virus Res 158(1-2):37-45</ref>  a left non structural protein (NS1) of 2001 base pairs (bp), a mid non structural protein (NS2) of 1092 bp and a right capsid protein of 990 bp. NSI appears to be a DNA helicase with ATPase activity.
+
+The mutation rate in the genome has been estimated to be ~1.4 x 10<sup>−4</sup> substitutions/site/year.<ref name=Robles-Sikisaka2011>Robles-Sikisaka R, Bohonak AJ, McClenaghan LR Jr, Dhar AK (2010) Genetic signature of rapid IHHNV (infectious hypodermal and hematopoietic necrosis virus) expansion in wild Penaeus shrimp populations. PLoS One 5(7):e11799.
+[http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0011799 Link]</ref> This is considerably higher than the rate in the double stranded DNA viruses and similar to that found in RNA viruses. It is also similar to the rate found in other single stranded DNA viruses.
+
+==References==
+{{Reflist}}
+
+==External links==
+
+Viral zone [http://viralzone.expasy.org/all_by_species/569.html]
+
+{{Crustacean diseases}}
+
+{{Taxonbar|from=Q3346930}}
+
+[[Category:Penaeidae]]
+[[Category:Animal viral diseases]]
+[[Category:Diseases and parasites of crustaceans]]
+
+
+{{Veterinary-med-stub}}

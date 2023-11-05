@@ -1,0 +1,41 @@
+{{Short description|Species of flowering plant}}
+{{more citations needed|date=November 2015}}
+{{Italic title}}
+{{taxobox
+|name = 
+|image = 
+|image_caption = 
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Asterids]]
+|ordo = [[Lamiales]]
+|familia = [[Lamiaceae]]
+|genus = ''[[Meriandra]]'' 
+|species = '''''M. dianthera'''''
+|binomial = ''Meriandra dianthera''
+|binomial_authority = (Roth ex Roem. & Schult.) Briq.
+|synonyms_ref = <ref>{{ThePlantList|id=kew-125805|taxon=Meriandra dianthera|authority=(Roth ex Roem. & Schult.) Briq.|access-date=18 November 2015}}</ref>
+|synonyms =
+    {{Plainlist | style = margin-left: 1em; text-indent: -1em; |
+*''Meriandra abyssinica'' <small>F.Muell.</small>
+*''Meriandra bengalensis'' <small>(J.Koenig ex Roxb.) Benth.</small>
+*''Salvia bengalensis'' <small>J.Koenig ex Roxb.</small>
+*''Salvia dianthera'' <small>Roth ex Roem. & Schult.</small>
+*''Salvia stachydea'' <small>Klein ex Schult.</small>
+    }}
+}}
+
+'''''Meriandra dianthera''''', commonly known as '''Bengal sage''' and '''Bengal salvia''' (hi:कफ़ूर का पात), is a plant with a mint flavor that is cultivated for medical purposes.<ref>{{cite web | url=http://www.flowersofindia.net/catalog/slides/Bengal%20Sage.html | title=Bengal Sage | access-date=18 November 2015}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q15342424}}
+
+[[Category:Medicinal plants]]
+[[Category:Lamiaceae]]
+
+
+{{lamiaceae-stub}}
+{{alt-med-stub}}

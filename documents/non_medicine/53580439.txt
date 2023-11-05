@@ -1,0 +1,19 @@
+{{Short description|Foliation in granitoids}}
+
+[[File:Saint-Martin-de-Fressengeas Harzburgit2.jpg|right|250px|thumb|Metaharzburgite from the [[Rebière Massif]], [[Saint-Martin-de-Fressengeas]], [[Dordogne, France]]. The nearly upright magmatic (slightly South dipping) flow foliation parallels the hammer shaft.]]
+
+'''Magmatic foliation''' is a term in [[geology]], for [[Foliation (geology)|foliation]] in [[granitoid]]s that form by [[magmatic]] flow, "submagmatic flow," by high-temperature solid-state [[Deformation (geology)|deformation]] and moderate- to low-temperature solid-state deformation.<ref name="sciencedirect.com">ScienceDirect: [http://www.sciencedirect.com/science/article/pii/0191814189900746 Foliations in granitoids can form by magmatic flow, ‘submagmatic flow’, high-temperature solid-state deformation and moderate- to low-temperature solid-state deformation. A], accessdate: March 23, 2017</ref>
+
+Remember, [[granitoids]] are [[igneous rock]]s.<ref name="springer.com">Springer: [https://link.springer.com/chapter/10.1007%2F978-3-662-03000-4_10 Metamorphism of Granitoids - Springer], accessdate: March 23, 2017</ref><ref name="berkeley.edu">Granite: [https://nature.berkeley.edu/classes/eps2/wisc/granite.html metamo], accessdate: March 23, 2017</ref>
+
+==See also==
+
+* [[Foliation (geology)]]
+
+==References==
+
+{{reflist}}
+
+[[Category:Geology]]
+
+{{geology-stub}}

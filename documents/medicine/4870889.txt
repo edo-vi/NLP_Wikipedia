@@ -1,0 +1,33 @@
+{{Short description|Species of virus}}
+{{Virusbox
+| image         = 
+| image_alt     = 
+| image_caption = 
+| parent        = Varicellovirus
+| species       = Equid alphaherpesvirus 3
+| synonyms      = 
+*''Equid herpesvirus 3''<ref name="ICTV">{{cite web |title=ICTV Taxonomy |url=https://ictv.global/taxonomy |website=International Committee on Taxonomy of Viruses (ICTV) |access-date=17 January 2019 |language=en }}</ref>
+*''Equine herpesvirus 3''
+| synonyms_ref  = 
+}}
+
+'''''Equid alphaherpesvirus 3''''', formerly '''''Equine herpesvirus 3''''' (EHV-3), is a [[virus]] of the family ''[[Herpesviridae]]'' that affects [[horse]]s.
+
+==Pathology==
+It causes a disease known as '''equine coital exanthema'''.  The [[Equine Venereal Disease|disease]] is spread through direct and sexual contact, contaminated handlers and equipment, and possibly through flies carrying infected [[vaginal discharge]].<ref name=Carter>{{cite web|author1=Carter, G.R. |author2=Flores, E.F. |author3=Wise, D.J. |year=2006|title=Herpesviridae|work=A Concise Review of Veterinary Virology| url=http://www.ivis.org/advances/Carter/Part2Chap11/chapter.asp?LA=1|access-date=2006-06-08}}</ref>  EHV-3 has an [[incubation period]] of as little as two days.<ref name=Fenner_1993>{{cite book|author1=Fenner, Frank J. |author2=Gibbs, E. Paul J. |author3=Murphy, Frederick A. |author4=Rott, Rudolph |author5=Studdert, Michael J. |author6=White, David O. |title=Veterinary Virology (2nd ed.)|publisher=Academic Press, Inc|year=1993|isbn=978-0-12-253056-2}}</ref>  Signs of the disease include often painful [[pustule]]s and [[Genital ulcer|ulcerations]] of the [[vagina]], [[horse penis|penis]], [[prepuce (disambiguation)|prepuce]], and [[perineum]].  Lesions may also be seen on the lips and [[teat]]s.  Usually the only symptom seen is a decreased [[libido]] in stallions.  The lesions heal within two weeks.<ref name=Fenner_1993/>  As with other herpes viruses, the virus remains latent in the host for life.  Carrier animals can sometimes be identified by spots of pigment loss on dark skin in the genital region.
+EHV-3 is best prevented by taking note of present clinical signs and keeping infected horses isolated and breeding stock from sexual contact with other horses.  Keep the wounds clean by rinsing with clean water or saline. Antibiotic ointments should not be used on the lesions, because they are caused by a virus, and viruses are not sensitive to antibiotics. Rinsing is enough to keep the numbers of bacteria down.  It is important to always maintain good hand hygiene before and after touching the genital area in all horses, and clean instruments, as the virus can be spread by contaminated hands or equipment. Disinfect equipment and stalls that has been used for horses with clinical signs.
+
+==References==
+{{Wikispecies}}
+{{Reflist}}
+{{Herpesvirales}}
+{{Taxonbar|from=Q5384505}}
+
+{{DEFAULTSORT:Equine Herpesvirus 3}}
+[[Category:Horse diseases]]
+[[Category:Varicelloviruses]]
+[[Category:Animal viral diseases]]
+
+
+{{Virus-stub}}
+{{Veterinary-med-stub}}

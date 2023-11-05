@@ -1,0 +1,41 @@
+{{redirect|Omae|the Japanese surname|Ōmae}}
+[[File:Ubai20190901 001.jpg|thumb|Smoked plums]]
+[[File:碳燻烏梅.jpg|thumb|Smoked plums]]
+'''Smoked plum''' is the smoked fruit of [[Prunus mume|Asian plum]]s, used in East Asian cuisine and medicine. It is called '''''wūméi''''' ({{lang|zh-Hans|{{linktext|烏梅}}}}) in [[Mandarin Chinese|Mandarin]], '''''omae''''' ({{lang|ko|오매}}; {{lang|ko-Hant|烏梅}}) in Korean, '''''ubai''''' ({{lang|ja-Hani|烏梅}}; {{lang|ja-Hrkt|うばい}}) in Japanese, and '''''Ô mai ''''' in Vietnamese.
+
+==Overview==
+Smoked plums, matte black to dark brown, with a rugged surface, have a unique flavor with a sour taste.<ref name="Doo">{{Cite web|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000903636|title=omae|website=[[Doopedia]]|publisher=[[Doosan Corporation]]|language=ko|script-title=ko:오매|access-date=16 June 2017}}</ref> The fruit is spherical or oblate, around {{Convert|2-3|cm}} long and {{Convert|1.5-2|cm}} in diameter.<ref name="Kim">{{Cite book|title=Hanyakjae gambyeol dogam|last=Kim|first=Chang-Min|last2=Lee|first2=Young Jong|last3=Kim|first3=In Rak|last4=Sin|first4=Jeon-Hwi|last5=Kim|first5=Yang Il|publisher=Academy Seojeok|year=2015|isbn=9788976164865|pages=304|language=ko|script-title=ko:한약재감별도감|trans-title=Coloured Illustrations for Discrimination of Herbal Medicine|chapter=omae|script-chapter=ko:오매|chapter-url=http://terms.naver.com/entry.nhn?docId=2398369&cid=58520&categoryId=58522|access-date=16 June 2017|via=[[Naver]]}}</ref> The surface is wrinkled, with the round stem-end underside.<ref name="Kim" /> The fruit kernel is hard, olate, yellowish brown, {{Convert|1-1.4|cm}} long, {{Convert|1|cm}} wide, and {{Convert|0.5|cm}} thick, with a dotted surface.<ref name="Kim" /> The seed is flat obloid and light yellow.<ref name="Kim" />
+
+== Production ==
+Unripe plums are picked in early summer, smoked, and dried at {{Convert|40|C}}.<ref name="Hanuihak">{{Cite book|title=Hanuihak dae sajeon|publisher=Jungdam Publishing|year=1998|isbn=9788980850297|location=Seoul|language=ko|script-title=ko:한의학대사전|trans-title=The Korean medical dictionary|chapter=omae|script-chapter=ko:오매|access-date=16 June 2017|chapter-url=http://terms.naver.com/entry.nhn?docId=2340966&cid=58527&categoryId=58527|via=[[Naver]]}}</ref> 
+
+== Use ==
+=== Cuisine ===
+In China, smoked plums are used to make ''[[suānméitāng]]'', a sour plum drink.{{Cn|date=August 2021}}
+
+In Korea, smoked plums are used to make [[traditional Korean tea|traditional teas and drinks]] such as ''[[omae-cha]]'' (smoked plum tea) and ''[[jeho-tang]]'' (medicinal summer drink).{{Cn|date=August 2021}}
+
+=== Medicine ===
+Latin (pharmaceutical) name for smoked plums is '''''Mume Fructus'''''.<ref name="Kim" />
+
+In [[Traditional Korean medicine]], smoked plums are considered conductant for the liver channel, spleen channel, lung channel, and large intestine channel.<ref name="Hanuihak" /> It is used to treat ascariasis, vomiting, cough, and diarrhea.<ref name="Hanuihak" /> It is reported to relieve phlegm, inhibit intestinal motility, and fight bacteria in pharmacologic experiments.<ref name="Hanuihak" />
+
+=== Dyeing ===
+
+In Japan, the extract of smoked plums (ubai) is used as a mordant for the [[Natural dye#Technique|natural red dye derived from safflower]] (benibana).<ref>{{Cite web |url=http://www.satoyamalibrary.org/2017/07/off-beaten-kyoto-landscape-for.html |title=Off-the-beaten Kyoto: landscape for propducing "ubai", carbonized plum fruit, used as a color fixing mordant |access-date=10 August 2022 |url-status=live |archive-url=https://web.archive.org/web/20210726053802/http://www.satoyamalibrary.org/2017/07/off-beaten-kyoto-landscape-for.html |archive-date=26 July 2021 }}</ref> <ref>{{Cite web |url=https://www.japanhouselondon.uk/discover/yoshioka-dyeing-workshop/ |title=Yoshioka Dyeing Workshop |website=Japan House, London |access-date=10 August 2022 |url-status=live |archive-url=https://web.archive.org/web/20220810174658/https://www.japanhouselondon.uk/discover/yoshioka-dyeing-workshop/ |archive-date=10 August 2022 }}</ref>
+
+==See also==
+* [[List of smoked foods]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Chinese cuisine]]
+[[Category:Korean cuisine]]
+[[Category:Plum dishes]]
+[[Category:Smoked food]]
+[[Category:Traditional Korean medicine]]
+
+{{Alt-med-stub}}
+{{China-cuisine-stub}}
+{{Korea-cuisine-stub}}

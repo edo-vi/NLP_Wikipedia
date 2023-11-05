@@ -1,0 +1,60 @@
+{{Short description|Genus of herbs}}
+{{Automatic taxobox
+|image = Schizonepeta multifida 1.jpg
+|display_parents = 2
+|taxon = Schizonepeta
+|authority = (Benth.) Briq.
+|synonyms =
+}}
+
+'''''Schizonepeta''''' ('''Japanese catnip''') is a genus of [[herb]]s. It should not be confused with the true catnips of the genus ''[[Nepeta]]'' (also Lamiaceae) known for their euphoria-inducing effect on domestic cats.
+
+Used as a medicinal herb, ''Schizonepeta tenuifolia'' is cultivated chiefly in the provinces of [[Jiangsu]], [[Zhejiang]] and [[Jiangxi]], [[China]]. The above-ground parts are collected in autumn, or early winter, and dried in the shade.
+
+Its Chinese name is jing jie (荊芥) pronounced jīng jiè ([[pinyin]]). Other names include Herba seu Flos Schizonepetae Tenuifoliae, keigai (Japanese), and hyonggae (Korean).
+
+==Extracts==
+In animal studies, ''Schizonepeta tenuifolia'' extracts in high doses exhibit immunomodulation of the inflammatory response by regulating cytokine release, specifically the release of Th1 and Th2 cytokines from T cells as well as the unprimed CD4 T cells from differentiating into Th1 and Th2 cells.<ref>{{cite journal | pmid = 18549677 | year = 2008 | last1 = Kang | first1 = H | last2 = Oh | first2 = YJ | last3 = Choi | first3 = HY | last4 = Ham | first4 = IH | last5 = Bae | first5 = HS | last6 = Kim | first6 = SH | last7 = Ahn | first7 = KS | title = Immunomodulatory effect of Schizonepeta tenuifolia water extract on mouse Th1/Th2 cytokine production in-vivo and in-vitro | volume = 60 | issue = 7 | pages = 901–7 | doi = 10.1211/jpp.60.7.0012 | journal = The Journal of Pharmacy and Pharmacology| s2cid = 33574473 | doi-access = free }}</ref>  ''Schizonepeta'' also interrupts [[histamine]] release from [[mast cell]]s to inhibit allergic reactions in rats.<ref>{{cite journal |author1=Shin TY |author2=Jeong HJ |author3=Jun SM |author4=Chae HJ |author5=Kim HR |author6=Baek SH |author7=Kim HM | title = Effect of Schizonepeta tenuifolia extract on mast cell-mediated immediate-type hypersensitivity in rats | journal = Immunopharmacol Immunotoxicol | year = 1999 | volume = 21 | issue = 4 | pages = 705–715 | doi = 10.3109/08923979909007136 | pmid = 10584206}}</ref><ref>{{cite journal |author=Jim English|year=2007|title=Relieving Allergy-Induced Migraines|journal=Nutrition Review|volume=2|issue=2|url=http://www.nutritionreview.org/library/allergy.migraines.php}}</ref>{{medrs|date=June 2012}}
+
+==Chemistry==
+''Schizonepeta tenuifolia'' contains the following constituents:<ref>{{Cite journal
+ | pmid = 22072908
+| year = 2011
+| last1 = Yu
+| first1 = S
+| title = Quantitative Comparative Analysis of the Bio-Active and Toxic Constituents of Leaves and Spikes of Schizonepeta tenuifolia at Different Harvesting Times
+| journal = International Journal of Molecular Sciences
+| volume = 12
+| issue = 10
+| pages = 6635–44
+| last2 = Chen
+| first2 = Y
+| last3 = Zhang
+| first3 = L
+| last4 = Shan
+| first4 = M
+| last5 = Tang
+| first5 = Y
+| last6 = Ding
+| first6 = A
+| doi = 10.3390/ijms12106635
+| pmc = 3210999
+| doi-access = free
+}}</ref>
+:four monoterpenes: (−)-[[menthone]], (+)-[[pulegone]], (−)-[[limonene]] and (+)-[[menthofuran]] as the main bio-active and toxic constituents.
+:additional compounds: [[1-octen-3-ol]], [[3-octanone]], [[β-myrcene]], and [[β-caryophyllene]].
+
+==See also==
+*[[Catnip]] (''[[Nepeta cataria]]'')
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Taxonbar|from=Q1947403}}
+
+[[Category:Lamiaceae]]
+[[Category:Lamiaceae genera]]
+[[Category:Plants used in traditional Chinese medicine]]
+
+{{alt-med-stub}}

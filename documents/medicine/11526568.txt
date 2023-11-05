@@ -1,0 +1,35 @@
+{{short description|American fraudster who marketed snake oil as a patent medicine}}
+{{Infobox person
+| name = Clark Stanley
+| image = Clark_Stanley.jpg
+| caption = Stanley as depicted on the cover of his book ''The Life and Adventures of the American Cow-Boy. Life in the Far West by Clark Stanley, Better Known as the Rattle-Snake King''
+| birth_date = {{circa|1854}}
+| birth_place = [[Abilene, Texas|Abilene]], [[Texas]], [[United States]]
+| known_for = Source of the term "[[snake oil|snake oil salesman]]"
+}}
+
+'''Clark Stanley''' (b. {{circa|1854}} in [[Abilene, Texas]], according to himself; the town was founded in 1881) was an American herbalist and [[Quackery|quack doctor]] who marketed a "[[snake oil]]" as a [[patent medicine]], styling himself the "Rattlesnake King" until his fraudulent products were exposed in 1916, popularizing the pejorative title of the "snake oil salesman".
+
+==Career==
+[[File:Clark Stanley's Snake Oil Liniment.png|thumb|An advertisement for Clark Stanley's Snake Oil Liniment.]]
+Stanley claimed that, starting in 1879, after eleven years working as a cowboy, he studied for more than two years with a [[Hopi]] medicine man at [[Walpi, Arizona]].<ref>{{Cite book | url=https://books.google.com/books?id=Aiw-KntGPrgC&q=hopi+indians+clark+stanley&pg=PA75 |title = Rattlesnakes|isbn = 9780292770232|last1 = Frank Dobie|first1 = J.|year = 1982| publisher=University of Texas Press }}</ref><ref>{{Cite web|url=https://www.npr.org/sections/codeswitch/2013/08/26/215761377/a-history-of-snake-oil-salesmen|title=A History Of 'Snake Oil Salesmen'|website=NPR.org|date=26 August 2013 |last1=Gandhi |first1=Lakshmi }}</ref> This supposedly included learning the "secrets of snake oil".  With the help of a Boston druggist he began marketing his product at Western [[medicine show]]s.  In 1893 he and his rattlesnakes gained attention at the [[World's Columbian Exposition]] in [[Chicago, Illinois]].<ref>{{Cite web|url=https://www.npr.org/sections/codeswitch/2013/08/26/215761377/a-history-of-snake-oil-salesmen,|title=A History of 'Snake Oil Salesmen'|website=NPR |date=26 August 2013 |last1=Gandhi |first1=Lakshmi }}</ref>  Later he went on to establish production facilities in [[Beverly, Massachusetts]] and [[Providence, Rhode Island]].
+
+In 1916, subsequent to the passage of the [[Pure Food and Drug Act]] in 1906, Stanley's concoction was examined and found to be of no value. It was found to contain [[mineral oil]], a fatty compound thought to be from beef, [[capsaicin]] from chili peppers, and [[turpentine]].<ref>{{Cite book|url=https://books.google.com/books?id=-Og7AAAAYAAJ&q=%22snake+oil%22&pg=PA592|title=Service and Regulatory Announcements|last=Chemistry|first=United States Bureau of|date=1917|publisher=U.S. Government Printing Office|language=en}}</ref>  He was fined $20.00 (approximately to $470 in 2019).<ref>{{cite web |url=http://www.in2013dollars.com/1916-dollars-in-2019?amount=20 |title=Inflation Calculator |author=<!--Not stated--> |date=August 2019 |website=In2013dollars.com |access-date=4 August 2019}}</ref> The term "snake oil" would go on to become a popular [[euphemism]] for ineffective or fraudulent products, particularly those marketed as medicines or cures.
+
+==References==
+{{Reflist}}
+*{{cite web| url=http://www.enotalone.com/article/11597.html | title=The Rattlesnake King. Natural Causes: Death, Lies and Politics in America's Vitamin and Herbal Supplement Industry | author=Hurley, Dan | author-link=Dan Hurley (author) | year=2006 | archiveurl=https://web.archive.org/web/20110709165111/http://www.enotalone.com/article/11597.html | archivedate=July 9, 2011 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stanley, Clark}}
+[[Category:1850s births]]
+[[Category:American fraudsters]]
+[[Category:Cowboys]]
+[[Category:Herbalists]]
+[[Category:Patent medicine businesspeople]]
+[[Category:People from Abilene, Texas]]
+[[Category:Year of death unknown]]
+
+
+{{herbalist-stub}}

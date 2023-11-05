@@ -1,0 +1,53 @@
+{{Infobox journal
+| title         = Journal of Evidence-Based Medicine
+| image         = <!-- or |cover= -->
+| image_size    = <!-- default is 200px -->
+| alt           =
+| caption       = 
+| former_name   = <!-- or |former_names= -->
+| abbreviation  = J. Evid.-Based Med.
+| discipline    = [[Medicine]]
+| peer-reviewed =
+| language      = English
+| editor        = You-Ping Li<br>Mike Clarke
+| publisher     = [[John Wiley & Sons]]
+| country       = 
+| history       = 2008–present
+| frequency     = Quarterly
+| openaccess    = 
+| license       = 
+| impact        = 6.224
+| impact-year   = 2021
+| bluebook      =
+| mathscinet    =
+| nlm           =
+| ISSN          = <!-- up to |ISSN10= -->
+| ISSNlabel     = <!-- up to |ISSNlabel10= -->
+| eISSN         = 1756-5391
+| CODEN         = <!-- up to |CODEN10= -->
+| JSTOR         = <!-- up to |JSTOR10= -->
+| LCCN          = 2010243954
+| OCLC          = 1031869805
+| website       = https://onlinelibrary.wiley.com/journal/17565391
+| link1         = https://onlinelibrary.wiley.com/toc/17565391/current
+| link1-name    = Online access
+| link2         = https://onlinelibrary.wiley.com/loi/17565391 
+| link2-name    = Online archive
+}}
+The '''''Journal of Evidence-Based Medicine''''' is a quarterly [[peer-review]]ed [[medical journal]] covering [[evidence-based medicine]]. It was established in 2008 and is published by [[John Wiley & Sons]] on behalf of the [[Chinese Cochrane Centre]], of which it is the official English-language journal. It grew out of a decade of work by editors of the ''Chinese Journal of Evidence Based Medicine'' to create a new journal with a global audience.<ref>{{Cite journal |date=November 2008 |title=Introduction to the Journal of Evidence Based Medicine |journal=Journal of Evidence-Based Medicine |language=en |volume=1 |issue=1 |pages=1 |doi=10.1111/j.1756-5391.2008.00006.x|s2cid=70762217 |doi-access=free }}</ref> The [[editors-in-chief]] are You-Ping Li ([[West China Medical Center]]) and Mike Clarke ([[Queen’s University Belfast]]). According to the ''[[Journal Citation Reports]]'', the journal has a 2021 [[impact factor]] of 6.224, ranking it 33rd out of 172 journals in the category "Medicine, General & Internal".<ref name=WoS>{{cite book |year=2022 |chapter=Journals Ranked by Impact: Medicine, General & Internal |title=[[Journal Citation Reports|2021 Journal Citation Reports]] |publisher=[[Clarivate Analytics]] |edition=Science |series=[[Web of Science]]}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://onlinelibrary.wiley.com/journal/17565391}}
+
+[[Category:Wiley (publisher) academic journals]]
+[[Category:Academic journals established in 2008]]
+[[Category:Quarterly journals]]
+[[Category:English-language journals]]
+[[Category:Evidence-based medicine]]
+[[Category:General medical journals]]
+
+
+{{Medical-journal-stub}}

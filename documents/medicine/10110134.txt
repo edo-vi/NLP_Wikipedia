@@ -1,0 +1,30 @@
+{{Cleanup bare URLs|date=August 2022}}
+{{more citations needed|date=June 2020}}
+'''Sheng Hua Tang''' ({{zh|t=生化湯|s=生化汤|p=shēng huà tāng}}) is a [[Chinese classic herbal formula]] that stimulates blood flow and relieves pain. The herbal formula is widely used by Chinese women who after giving birth will use the formula to improve blood flow. According to the Taoist Center, this formula is the most popular post-partum formula to restore blood flow.<ref>{{Cite web |url=http://home.comcast.net/~piannone/o-s/ch-innerhist.html |title=Welcome to nginx! |access-date=2007-03-18 |archive-date=2004-01-21 |archive-url=https://archive.today/20040121042143/http://home.comcast.net/~piannone/o-s/ch-innerhist.html |url-status=dead }}</ref>
+
+==Ingredients==
+* 24g of Dang Gui ([[Angelica sinensis|Angelicae sinensis root]])
+* 9g of Chuan Xiong ([[Ligusticum striatum]] root)
+* 6-9g of Tao Ren ([[Prunus persica]] kernel)
+* 1.5g of Pao Jiang (blast fried [[Ginger|Zingiber officinale]] root)
+* 1.5g of Zhi Gan Cao (honey fried [[Glycyrrhiza uralensis]] root)
+
+==See also==
+* [[Chinese classic herbal formula]]
+* [[Chinese patent medicine]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://tcm.health-info.org/formulas/singles/Sheng%20Hua%20Tang.htm Sheng Hua Tang: Chinese herbal medicine formula]
+* [http://store.orientalpharmacy.com/newmofojiawe.html New Mother's Formula: Jia Wei Sheng Hua Tang]
+* [http://alternativehealing.org/sheng_hua_tang.htm Alternative Healing University - Sheng Hua Tang]
+* [http://home.comcast.net/~piannone/o-s/ch-innerhist.html Daoist Center: Inner History of China]
+* [http://www.fcim.edu/images/6th%20Semester%20Syllabus/Herbal%20Formulas%20II.doc Florida College of Integrative Medicine (Medicine Course)]
+* [http://www.fcim.edu/ Florida College of Integrative Medicine]
+
+[[Category:Traditional Chinese medicine pills]]
+
+
+{{alt-med-stub}}

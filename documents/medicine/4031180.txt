@@ -1,0 +1,10 @@
+'''Lagenidiosis''' is a type of infectious disease.
+
+The best known species of ''[[Lagenidium]]'' is ''Lagenidium giganteum'', a parasite of ''mosquito'' larvae used in [[biological pest control|biological control]] of mosquitoes. The disease lagenidiosis in dogs is caused by a new species of Lagenidium that has not yet been properly named.  Lagenidiosis is found in the southeastern United States in lakes and ponds. It causes progressive skin and subcutaneous lesions in the legs, groin, trunk, and near the tail. The lesions are firm nodules or ulcerated regions with draining tracts. Regional lymph nodes are usually swollen. Spread of the disease to distant lymph nodes, large blood vessels, and the lungs may occur.<ref name="Grooters_2003">{{cite journal |author=Grooters A |title=Pythiosis, lagenidiosis, and zygomycosis in small animals |journal=Vet Clin North Am Small Anim Pract |volume=33 |issue=4 |pages=695–720, v |year=2003 |pmid=12910739 |doi=10.1016/S0195-5616(03)00034-2}}</ref> An [[aneurysm]] of a [[great vessels|great vessel]] can rupture and cause sudden death.<ref name="Merck_oo">{{cite web | title=Oomycosis | work=The Merck Veterinary Manual | year=2006 | url=http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/51112.htm | accessdate=2007-02-03 }}</ref> 
+
+==References==
+{{reflist}}
+
+[[Category:Dog diseases]]
+
+{{vet-stub}}

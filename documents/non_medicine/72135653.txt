@@ -1,0 +1,36 @@
+{{Multiple issues|
+{{Notability|date=May 2023}}
+{{Confusing|date=May 2023}}
+{{More citations needed|date=May 2023}}
+}}
+{{Portal|Society}}
+In the [[digital humanities]], "'''algorithmic culture'''" is part of an emerging synthesis of  rigorous software algorithm driven design that couples [[software]], highly structured data driven design with   human oriented [[sociocultural]] attributes.{{citation needed|date=May 2023}} An early occurrence of the term is found in [[Alexander R. Galloway]]  classic [[Gaming: Essays on Algorithmic Culture]]<ref>Alexander R. Galloway (2006), Gaming: Essays on Algorithmic Culture. Minneapolis, MN: University of Minnesota Press. https://www.academia.edu/5059462/Gaming_essays_on_algorithmic_culture_A_Galloway</ref>
+
+Other definitions include [[Ted Striphas]]'<ref>Striphas, Ted. (2015. Algorithmic culture. European Journal of Cultural Studies, 18(4–5), 395–412.  https://journals.sagepub.com/doi/pdf/10.1177/1367549415577392</ref> where '''AC''' refers to the ways in which the logic of big data and large scale computation (including algorithms) alters they culture is practiced, experienced and understood."<ref>{{Cite web|url=https://www.diggitmagazine.com/wiki/algorithmic-culture|title=Algorithmic culture|date=April 20, 2018|website=Diggit Magazine}}</ref>{{clarify|date=May 2023}}. 
+ 
+A starting point for modern discussion of culture is attributed to Edward Burnett Tylor in his 1871 works on [[primitive culture]].<ref>Tylor, Edward Burnett. Primitive culture: Researches into the development of mythology, philosophy, religion, art and custom. Vol.1 & 2. J. Murray, 1871.</ref>
+
+The emergence and continuing development and convergence of [[computer]]s, [[software]], [[algorithm]]s,{{citation needed|date=May 2023}} [[human psychology]], [[digital marketing]] and other [[computational]] [[technologies]] resulted in numerous AC variants including [[recommendation algorithms]], [[Artificial intelligence|AI]] generated stories and characters, [[digital asset]]s (including creative [[Non-fungible token|NFT]]s,{{citation needed|date=May 2023}} all of which can and should be considered as algorithmic culture [[Cultural artifact|artifacts]].{{citation needed|date=May 2023}}{{according to whom|date=May 2023}} A similar process is occurring in strictly sociological interactions.{{citation needed|date=May 2023}}
+
+==Algorithmic Culture and ChatGPT==
+With the flourishing of [[Large language model|LLMs]], and particularly [[ChatGPT]], algorithmic culture is increasingly visible within the academic mainstream. [[Jill Walker Rettberg]] at the [[University of Bergen]]is exploration applications of in her works.<ref>{{Cite web|url=https://jilltxt.net/category/ai-and-algorithmic-culture/|title=AI and algorithmic culture|website=jill/txt}}</ref> Some of the examples she uses are: How to use ChatGPT to get past writer's block, and examining society's biases and cliches<ref>{{Cite web|url=https://jilltxt.net/generating-research-papers-reveals-our-cliches/|title=Generating research papers reveals our clichés|date=November 22, 2022}}</ref>
+
+[[Generative AI]], is a now prominent and fast evolving{{citation needed|date=May 2023}} component of modern algorithmic culture.{{citation needed|date=May 2023}} It is currently entering a period of accelerating growth,{{citation needed|date=May 2023}} acceptance and use, with specific algorithms and tools including [[Midjourney]] [[DALL-E]] and [[Stable Diffusion]].{{citation needed|date=May 2023}}
+
+[[ChatGPT Plus]], [[GPT-4]] are increasing their sophistication in composing music, writing teleplays, fairy tales, stories, and poems.{{citation needed|date=May 2023}} With user prompting also facilitating character specific speaking and writing styles.{{citation needed|date=May 2023}} [[NovelAI]], for example,  is an online AI-assisted story writer.{{citation needed|date=May 2023}}
+
+== References == 
+{{Reflist}}
+
+==Bibliography==
+* [https://www.worldcat.org/title/1100454974 Jonathan Cohn,  The burden of choice: Recommendations, subversion, and algorithmic culture, Rutgers University Press, 2019]
+* [https://www.worldcat.org/title/1316708299 Fernández Rovira Cristina and Santiago Giraldo Luque. Predictive Technology in Social Media. First edition First ed. CRC Press] 
+* [https://www.worldcat.org/title/1273726951 Eran Fisher, Algorithms and Subjectivity: The Subversion of Critical Knowledge. First edition First ed. Routledge 2021] 
+* [https://archive.org/details/cultureinbitsmon0000hall Gary Hall . Culture in Bits : The Monstrous Future of Theory. Continuum 2002]
+* Hallinan B and Striphas T (2014) Recommend for you:The Netflix Prize and the production of algorithmic culture.  New Media & Society. Epub ahead of print 23 June 2014.
+* [http://www.wired.com/magazine/2010/02/ff_google_algorithm/ Levy S (2010) How Google's algorithm rules the web]
+
+{{Culture}}
+
+[[Category:Culture]]
+[[Category:Philosophy of artificial intelligence]]

@@ -1,0 +1,18 @@
+{{Short description|Study and treatment of the diseases of fish}}
+[[File:NOAA fishery science center blood sample bonnethead shark pup.JPG|thumb|A blood sample being taken from a [[bonnethead]] shark pup.]]
+'''Fish medicine''' is the study and treatment of the diseases of [[fish]]. Although some practitioners work primarily with [[aquarium]] fish, this field also has important applications to [[fisheries]] management.
+
+Fish medicine is a relatively recent veterinary specialization; veterinary textbooks in the English language were not published until the early 1990s.<ref name="Rosenthal 2008">{{cite book|last1=Rosenthal|first1=Karen L.|last2=Forbes|first2=Neil A.|last3=Frye|first3=F.L.|last4=Lewbart|first4=G.A.|title=Rapid Review of Exotic Animal Medicine & Husbandry.|date=2008|publisher=CRC Press|location=London|isbn=9781840765335|pages=8-10|chapter=Introduction}}</ref> The United States does not have an official [[Veterinary specialties|specialization]] for fish medicine,<ref name="Weber 2014">{{cite journal|last1=Weber|first1=E. Scott III|title=A veterinary guide to the fish gastrointestinal tract.|journal=The Veterinary Clinics of North America. Exotic Animal Practice|date=May 2014|volume=17|issue=2|pages=123-43|doi=10.1016/j.cvex.2014.01.001|pmid=24767737}}</ref> worldwide there are several professional organizations for veterinarians interested in fish medicine, such as the World Aquatic Veterinary Medical Association, and the International Association of Aquatic Animal Medicine.<ref name="Weber 2014" />
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://www.thefishvet.com.au/ The Fish Vet]
+*[https://www.wavma.org/Aquatic-Veterinary-Educational-Meetings-Conferences-Symposia-Workshops/ World Aquatic Veterinary Medical Association]
+*[https://www.fishvets.org/ The American Association of Fish Veterinarians]
+
+[[Category:Fish medicine]]
+
+{{Veterinary-med-stub}}
+{{fishkeeping-stub}}

@@ -1,0 +1,44 @@
+{{Short description|Treatment for physical and mental impairment}}
+'''Reflex locomotion''', usually referred to as the Vojta method, is a technique for the treatment of physical and mental impairment in humans. It was discovered by [[Václav Vojta]].
+
+Based on studies of treatments for spastic{{Clarify|date=January 2023}} children for muscular disorders in the 1950s, a number of reflex points were identified which can be used to stimulate the human body to [[gait (human)#Crawls|crawl]] and turn. By applying pressure to the appropriate reflex points the major muscle groups in the body are activated, breathing becomes regulated and mental activity increases.
+
+The Vojta method is classified as alternative medicine.<ref name="compmed">{{cite web
+|work=Cochrane CAM Field
+|title=Operational Definition of CAM
+|publisher=[[University of Maryland]] School of Medicine
+|url=http://www.compmed.umm.edu/Camdef.asp |url-status=dead
+|archive-url=https://web.archive.org/web/20110616144855/http://www.compmed.umm.edu/Camdef.asp
+|archive-date=2011-06-16
+}}</ref>
+As of 1981—1986 the clinical trials could not show the clinical effect of Vojta and [[Bobath concept|Bobath]] treatments.<ref name="Piper et al, 1986">{{cite journal
+|first1=M. C. |last1=Piper |first2=V. I. |last2=Kunos |first3=D. M. |last3=Willis |author4=Mazer B. L., Ramsay M., Silver K. M.
+|title=Early Physical Therapy Effects on the High-Risk Infant. A Randomized Controlled Trial
+|journal=Pediatrics
+|year=1986
+|volume=78 |issue=2
+|pages=216–224
+|doi=10.1542/peds.78.2.216 |pmid=3526267
+|s2cid=19108215 }}</ref><ref name="d’Avignon et al., 1981">{{cite journal
+|first1=M. |last1=d’Avignon |first2=L. |last2=Norén |first3=T. |last3=Arman
+|title=Early physiotherapy ad modum Vojta or Bobath in infants with suspected neuromotor disturbance
+|journal=Neuropediatrics
+|year=1981 |volume=12 |issue=3
+|pages=232–241
+|pmid=7027073
+|doi=10.1055/s-2008-1059654 
+}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.vojta.com International Vojta Society]
+
+{{Authority control}}
+
+[[Category:Medical treatments]]
+
+
+{{treatment-stub}}
+{{alt-med-stub}}

@@ -1,0 +1,54 @@
+{{Short description|Chain of animal hospitals}}
+{{Infobox company
+| name = VCA, Inc.
+| logo = VCA Animal Hospitals logo.png
+| trade_name = VCA Animal Hospitals
+| type = [[Subsidiary]]
+| founded = {{start date and age|1986}}
+| founders = Neil Tauber<br>Robert Antin<br>Arthur Antin
+| hq_location_city = [[Los Angeles]], [[California]]
+| hq_location_country = United States
+| num_locations = 1000+ animal hospitals<br>
+| num_locations_year = 2020
+| areas_served = [[United States]] and [[Canada]]
+| revenue = {{US$}}2.1 billion
+| revenue_year = 2015
+| owner = [[Mars, Incorporated]]
+| num_employees = 27,100
+| num_employees_year = 2018
+| parent = Mars Petcare
+| subsid = Antech Diagnostics<br>Sound Technologies<br>Camp Bow Wow
+| website = {{url|http://vcahospitals.com/}}
+}}
+
+'''VCA Animal Hospitals''', incorporated as '''VCA, Inc.''', operates more than 1,000 animal hospitals in the US and Canada.<ref name="Wogan 2020">{{cite journal |last1=Wogan |first1=Lisa |title=Washington state veterinary practice ratifies union contract |url=https://news.vin.com/default.aspx?pid=210&Id=9789104 |website=Vin.com |access-date=18 September 2020 |date=August 27, 2020}}</ref> The company is based in [[Los Angeles]], and was founded in 1986.<ref>{{Cite journal|url=http://news.vin.com/vinnews.aspx?articleId=32842|title=VCA Inc.: Gentle giant or takeover threat?|last=Lau|first=Edie|date=2014-07-11|website=Vin.com|access-date=2018-11-08}}</ref> Until its acquisition by [[Mars, Incorporated|Mars]] in 2017, VCA traded on the [[NASDAQ]] under the ticker "WOOF".<ref name="Clenfield">{{Cite news|url=https://www.bloomberg.com/news/features/2017-01-05/when-big-business-happens-to-your-pet|title=The High-Cost, High-Risk World of Modern Pet Care|last=Clenfield|first=Jason|date=2017-01-05|work=Bloomberg|access-date=2018-11-08}}</ref>
+
+VCA was founded in 1986 by three health care company executives,<ref name="Larkin 2017">{{Cite news|url=https://www.avma.org/News/JAVMANews/Pages/170301a.aspx|title=Veterinarians Incorporated|last=Larkin|first=Malinda|date=2017-03-01|work=JAVMA News|access-date=2018-11-08}}</ref> Neil Tauber and brothers Robert (Bob) and Arthur (Art) Antin.<ref name="Clenfield"/><ref name="Peltz 2017" /> The name is an abbreviation of "Veterinary Centers of America." VCA acquired its first veterinary clinic, West Los Angeles Veterinary Hospital, in 1987.<ref name="Larkin 2017" />
+
+In October 2004, VCA purchased Sound Technologies,<ref name="Lau 2009">{{Cite news|url=https://news.vin.com/VINNews.aspx?articleId=13338|title=VCA Antech expands its foray into medical technology by buying Eklin|last=Lau|first=Edie|date=2009-07-11|work=VIN News Service|access-date=2018-11-08}}</ref> a company which supplied digital radiology and ultrasound equipment to veterinary hospitals.<ref>{{Cite news |title=VCA Antech, Inc. Announces Acquisition of Sound Technologies, Inc. |url=https://www.businesswire.com/news/home/20041004005436/en/VCA-Antech-Announces-Acquisition-Sound-Technologies |access-date=2018-11-08 |work=BusinessWire |date=October 4, 2004 }}</ref> In July 2009, VCA purchased diagnostic imaging company Eklin Medical Systems,<ref name="Lau 2009" /> which was combined with Sound Technologies to form Sound/Antech Imaging Services.<ref>{{Cite news|url=http://news.vin.com/vinnews.aspx?articleId=45149|title=The dark side of modern X-ray equipment|last=Lau|first=Edie|date=2017-06-08|work=VIN News Service|access-date=2018-11-08}}</ref>
+
+In 2014, VCA acquired the dog day care center Camp Bow Wow, which had about 140 franchises in the US and one in Canada<ref>{{Cite news|url=https://www.denverpost.com/2017/06/12/camp-bow-wows-westminster-office/|title=Camp Bow Wow's new corporate offices in Westminster take dog-friendly to the next level|last=Rusch|first=Emilie|date=2017-06-12|work=[[The Denver Post]]|access-date=2018-11-08}}</ref> and licensed The Barkley Pet Hotel & Day Spa brand in Westlake Village, California from Beverly Hills Pet Hotels, Inc. 
+
+On January 9, 2017, [[Mars Inc.]] announced its intention to purchase VCA for $9.1 billion, operating it as an independent unit within [[Mars Petcare]].<ref name="Peltz 2017">{{Cite news|url=https://www.latimes.com/business/la-fi-vca-mars-20170109-story.html|title=Candy maker Mars is buying L.A. animal hospital chain VCA for $7.7 billion|last=Peltz|first=James F.|date=9 January 2017|work=[[Los Angeles Times]]|access-date=10 August 2017}}</ref> VCA CEO Bob Antin remained in his position.<ref>{{Cite news|url=https://www.businessinsider.com/mars-to-buy-vca-2017-1|title=Mars is buying a pet health company for $9.1 billion|last=Crowe|first=Portia|date=9 January 2017|work=[[Business Insider]]|access-date=10 August 2017}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://vcahospitals.com/}}
+*[https://vca.com Corporate website]
+
+{{Mars, Incorporated}}
+
+{{DEFAULTSORT:Vca Animal Hospitals}}
+[[Category:Companies based in Los Angeles]]
+[[Category:Companies formerly listed on the Nasdaq]]
+[[Category:American companies established in 1986]]
+[[Category:1986 establishments in California]]
+[[Category:Veterinary medicine companies]]
+[[Category:Mars, Incorporated]]
+[[Category:2017 mergers and acquisitions]]
+[[Category:Veterinary medicine in the United States]]
+
+
+{{Veterinary-med-stub}}

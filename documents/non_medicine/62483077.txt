@@ -1,0 +1,286 @@
+{{Unreliable sources|date=November 2020}}
+{{For|periods of regional peace maintained by Chinese hegemony|Pax Sinica}}
+
+Throughout [[History of China|Chinese history]], China had multiple periods of [[Golden age (metaphor)|golden age]]. In [[Chinese historiography]], golden ages on a large scale are known as {{transl|zh|shèngshì}} ({{lang|zh-Hant|盛世}}, lit. Prosperous Era), while golden ages on a smaller scale are termed as {{transl|zh|zhìshì}} ({{lang|zh-Hant|治世}}, lit. Well-Governed Era).
+
+==List of Chinese golden ages==
+This is a list of the golden ages in the history of China, sorted by [[Dynasties in Chinese history|dynasty]].
+
+{| class="wikitable"
+|-
+!Golden age
+!Presided by
+!Period
+!Description
+|-
+!colspan="4"|[[Shang dynasty]]
+|-
+|Restoration of Pan Geng<ref name=PanGeng>{{cite book|last1=Knechtges|first1=David|last2=Xiao|first2=Tong|title=Wen Xuan or Selections of Refined Literature, Volume I: Rhapsodies on Metropolises and Capitals|year=2014|isbn=9781400857241|url=https://books.google.com/books?id=quP_AwAAQBAJ&q=pangeng+restoration&pg=PA152}}</ref><br/>{{lang|zh-Hant|盤庚中興}}
+|[[Pan Geng]]
+|1300–1292 BCE
+|Social stability following the relocation of the Shang capital to [[Yinxu|Yin]].
+|-
+|Rule of Wu Ding<ref name=WuDing>{{cite book|last1=Chen|first1=Pei Fen|title=Ancient Chinese Bronzes: In the Shanghai Museum|year=1995|isbn=9781857591149|url=https://books.google.com/books?id=NzfrAAAAMAAJ&q=reign+of+wu+ding+golden+age}}</ref><br/>{{lang|zh-Hant|武丁之治}}
+|[[Wu Ding]]
+|1250–1190 BCE
+|Peak of the Shang dynasty.
+|-
+!colspan="4"|[[Zhou dynasty]]
+|-
+|Rule of Cheng and Kang<ref name=ChengKang>{{cite book|last1=Deng|first1=Gang|title=The Premodern Chinese Economy: Structural Equilibrium and Capitalist Sterility|year=2002|isbn=9781134716562|url=https://books.google.com/books?id=YtWEAgAAQBAJ&q=reign+of+cheng+and+kang+golden+age&pg=PA152}}</ref><br/>{{lang|zh-Hant|成康之治}}
+|[[King Cheng of Zhou]]<hr/>[[King Kang of Zhou]]
+|1043–1005 BCE
+|Suppressed the [[Rebellion of the Three Guards]] and instituted the ''[[Fengjian]]'' system.
+|-
+|Restoration of King Xuan<ref name=XuanOfZhou>{{cite book|last1=Li|first1=Feng|title=Landscape and Power in Early China: The Crisis and Fall of the Western Zhou 1045–771 BC|year=2006|isbn=9781139456883|url=https://books.google.com/books?id=d_qOvs0WjPcC&q=reign+of+Xuan+of+zhou&pg=PA135}}</ref><br/>{{lang|zh-Hant|宣王中興}}
+|[[King Xuan of Zhou]]
+|828–797 BCE
+|Recovery of the society following the tyrannical rule of the [[King Li of Zhou]].
+|-
+!colspan="4"|[[Han dynasty]]
+|-
+|[[Rule of Wen and Jing]]<ref name=WenJing>{{cite book|last1=Zhao|first1=Dingxin|title=The Confucian-Legalist State: A New Theory of Chinese History|year=2015|isbn=9780190463618|url=https://books.google.com/books?id=PIGhCgAAQBAJ&q=rule+of+wen+and+jing&pg=PA274}}</ref><br/>{{lang|zh-Hant|文景之治}}
+|[[Emperor Wen of Han]]<hr/>[[Emperor Jing of Han]]
+|180–141 BCE
+|Laid the economic foundation for the subsequent [[Han–Xiongnu War|conquest of the Xiongnu]] by the [[Emperor Wu of Han]].
+|-
+|Golden Age of the Emperor Wu of Han<ref name=WuOfHan>{{cite book|last1=Zhang|first1=Qizhi|title=An Introduction to Chinese History and Culture|year=2015|isbn=9783662464823|url=https://books.google.com/books?id=1QhJCAAAQBAJ&q=rule+of+emperor+wu+of+han+golden+age&pg=PA49}}</ref><br/>{{lang|zh-Hant|漢武盛世}}
+|[[Emperor Wu of Han]]
+|141–87 BCE
+|[[Han–Xiongnu War|Pacification of the Xiongnu]], establishment of contact with the [[Western Regions]], and centralization of power. Peak of the [[Han dynasty#Western Han|Western Han]].
+|-
+|Rule of Zhao and Xuan<ref name=ZhaoXuan>{{cite book|last1=Feng|first1=Minfei|title=危世圖存：中國歷史上的15次中興|year=2016|isbn=9787516627617|url=https://books.google.com/books?id=Q1RqDwAAQBAJ&q=昭宣中兴&pg=PA39}}</ref><br/>{{lang|zh-Hant|昭宣之治}}
+|[[Emperor Zhao of Han]]<hr/>[[Emperor Xuan of Han]]
+|87–49 BCE
+|Stabilization of the society following the [[Han–Xiongnu War]], and establishment of the [[Protectorate of the Western Regions]].
+|-
+|Guangwu Restoration<ref name=Guangwu>{{cite book|last1=Tse|first1=Wicky|title=The Collapse of China's Later Han Dynasty, 25-220 CE: The Northwest Borderlands and the Edge of Empire|year=2018|isbn=9781315532318|url=https://books.google.com/books?id=-y9iDwAAQBAJ&q=restoration+of+guangwu&pg=PT19}}</ref><br/>{{lang|zh-Hant|光武中興}}
+|[[Emperor Guangwu of Han]]
+|25–57 CE
+|[[Han dynasty#Eastern Han|Restoration of the Han dynasty]] following a 16-year interregnum.
+|-
+|[[Rule of Ming and Zhang]]<ref name=MingZhang>{{cite book|title=伟大帝王与他的帝国|year=2013|isbn=9787514606553|url=https://books.google.com/books?id=8beaDwAAQBAJ&q=明章之治+汉明帝和汉章帝&pg=PT47}}</ref><br/>{{lang|zh-Hant|明章之治}}
+|[[Emperor Ming of Han]]<hr/>[[Emperor Zhang of Han]]
+|57–88 CE
+|Submission of the [[Xiongnu#Southern Xiongnu|Southern Xiongnu]].
+|-
+|Prosperity of Yongyuan<ref name=Yongyuan>{{cite web|url=https://kknews.cc/history/xlbzlao.html|title=永元之隆是一個什麼樣的盛世 為什麼很少人提起呢|access-date=1 December 2019}}</ref><br/>{{lang|zh-Hant|永元之隆}}
+|[[Emperor He of Han]]
+|92–105 CE
+|Destruction of the [[Xiongnu#Northern Xiongnu|Northern Xiongnu]]. Peak of the [[Han dynasty#Eastern Han|Eastern Han]].
+|-
+!colspan="4"|[[Jin dynasty (266–420)|Jin dynasty]]
+|-
+|[[History of the Jin dynasty (266–420)#Prosperity of the Taikang Era|Reign of Taikang]]<ref name=Taikang>{{cite book|last1=Du|first1=Youlong|title=太平盛世：歷代盛世與開明之治|year=2017|url=https://books.google.com/books?id=XAf1DQAAQBAJ&q=太康之治&pg=PT31}}</ref><br/>{{lang|zh-Hant|太康之治}}
+|[[Emperor Wu of Jin]]
+|280–289 CE
+|Reunification of China following the conquest of the [[Eastern Wu]], and economic recovery.
+|-
+!colspan="4"|[[Liu Song dynasty|Liu Song]]
+|-
+|[[Reign of Yuanjia]]<ref name=Yuanjia>{{cite book|last1=Knechtges|first1=David|last2=Chang|first2=Taiping|title=Ancient and Early Medieval Chinese Literature (Vol. I): A Reference Guide, Part One|year=2010|isbn=9789047444664|url=https://books.google.com/books?id=lfB5DwAAQBAJ&q=reign+of+yuanjia+golden+age&pg=PA587}}</ref><br/>{{lang|zh-Hant|元嘉之治}}
+|[[Emperor Wen of Song|Emperor Wen of Liu Song]]
+|424–450 CE
+|Peace and stability as a result of good governance and reforms.
+|-
+!colspan="4"|[[Northern Wei]]
+|-
+|Reforms of Xiaowen<ref name=Xiaowen>{{cite book|last1=Yu|first1=Weichao|title=A Journey Into China's Antiquity: Warring States Period, Qin Dynasty, The Western and Eastern Han Dynasties, Three Kingdoms through Western and Eastern Jin to Northern and Southern Dynasties|year=1997|isbn=9787505404830|url=https://books.google.com/books?id=tAjqAAAAMAAJ&q=reforms+of+emperor+Xiaowen+of+northern+Wei}}</ref><br/>{{lang|zh-Hant|孝文改革}}
+|[[Emperor Xiaowen of Northern Wei]]
+|471–499 CE
+|Political and cultural development following the policy of [[Sinicization]].
+|-
+!colspan="4"|[[Southern Qi]]
+|-
+|Reign of Yongming<ref name=Yongming>{{cite book|last1=Wang|first1=Shounan|title=中國通史|year=2002|isbn=9789571130354|url=https://books.google.com/books?id=b68aMtT4_2AC&q=永明之治&pg=PA223}}</ref><br/>{{lang|zh-Hant|永明之治}}
+|[[Emperor Wu of Southern Qi]]
+|482–493 CE
+|Establishment of peaceful relations with the [[Northern Wei]], promotion of domestic education, and good management of the bureaucracy.
+|-
+!colspan="4"|[[Liang dynasty]]
+|-
+|Reign of Tianjian<ref name=WuOfLiang>{{cite book|last1=Fu|first1=Lecheng|title=漢唐史論集|year=1977|isbn=9789570813821|url=https://books.google.com/books?id=tNLcCgAAQBAJ&q=梁武之治&pg=PT122}}</ref><br/>{{lang|zh-Hant|天監之治}}
+|[[Emperor Wu of Liang]]
+|464–549 CE
+|Peace and stability.
+|-
+!colspan="4"|[[Chen dynasty]]
+|-
+|Reign of Tianjia<ref name=Tianjia>{{cite web|url=https://new.qq.com/rain/a/20190914A04JZU|title=陈文帝托孤给弟弟，弟弟杀侄夺位成一代明君|access-date=1 December 2019}}</ref><br/>{{lang|zh-Hant|天嘉之治}}
+|[[Emperor Wen of Chen]]
+|559–566 CE
+|Economic recovery and prosperity following the rebellion of [[Hou Jing]].
+|-
+!colspan="4"|[[Sui dynasty]]
+|-
+|Reign of Kaihuang<ref name=Kaihuang>{{cite book|title=中國社会经济史研究|year=1986|url=https://books.google.com/books?id=LtQ3AQAAIAAJ&q=开皇之治}}</ref><br/>{{lang|zh-Hant|開皇之治}}
+|[[Emperor Wen of Sui]]
+|581–604 CE
+|Establishment of the Sui dynasty. Political stability and economic prosperity.
+|-
+!colspan="4"|[[Tang dynasty]]
+|-
+|Reign of Wude<ref name=Wude>{{cite web|url=http://m.qulishi.com/huati/wudezhizhi/|title=武德之治|access-date=1 December 2019}}</ref><br/>{{lang|zh-Hant|武德之治}}
+|[[Emperor Gaozu of Tang]]
+|618–626 CE
+|Establishment of the Tang dynasty. Political stability and economic prosperity.
+|-
+|Reign of Zhenguan<ref name=Zhenguan>{{cite book|last1=Li|first1=Xiaobing|title=China at War: An Encyclopedia: An Encyclopedia|year=2012|isbn=9781598844160|url=https://books.google.com/books?id=R7qNuIJJsNEC&q=reign+of+zhenguan&pg=PA225}}</ref><br/>{{lang|zh-Hant|貞觀之治}}
+|[[Emperor Taizong of Tang]]
+|626–649 CE
+|Good governance, development of culture and production, and strengthening of territorial boundaries.
+|-
+|Reign of Yonghui<ref name=Yonghui>{{cite book|last1=Hua|first1=Ye|title=中国历史读这本就够了|year=2012|isbn=9787999021261|url=https://books.google.com/books?id=eC18DwAAQBAJ&q=永徽之治&pg=PT306}}</ref><br/>{{lang|zh-Hant|永徽之治}}
+|[[Emperor Gaozong of Tang]]
+|649–683 CE
+|Continuation of policies introduced by the [[Emperor Taizong of Tang]]. Territorial height of the Tang dynasty.
+|-
+|Reign of Kaiyuan<ref name=Kaiyuan>{{cite book|title=Chinese Education and Society: A Journal of Translations|year=1999|url=https://books.google.com/books?id=_9aXAAAAMAAJ&q=reign+of+kaiyuan+golden+age}}</ref><br/>{{lang|zh-Hant|開元之治}}
+|[[Emperor Xuanzong of Tang]]
+|712–755 CE
+|Peak of the Tang dynasty.
+|-
+|Yuanhe Restoration<ref name=Yuanhe>{{cite book|last1=Chen|first1=Jack|last2=Schaberg|first2=David|title=Idle Talk|year=2013|isbn=9780520289772|url=https://books.google.com/books?id=k7QwDwAAQBAJ&q=restoration+of+yuanhe&pg=PA109}}</ref><br/>{{lang|zh-Hant|元和中興}}
+|[[Emperor Xianzong of Tang]]
+|805–820 CE
+|Stability following the [[An Lushan Rebellion]].
+|-
+|Huichang Restoration<ref name=Huichang>{{cite book|last1=Liu|first1=Guanqi|title=一口氣讀完大唐史|year=2018|isbn=9789865951771|url=https://books.google.com/books?id=PvtFDwAAQBAJ&q=會昌中興&pg=PT490}}</ref><br/>{{lang|zh-Hant|會昌中興}}
+|[[Emperor Wuzong of Tang]]
+|840–846 CE
+|Increase in government revenue, and consolidation of imperial influence.
+|-
+|Reign of Dazhong<ref name=Dazhong>{{cite book|last1=Bai|first1=Yang|title=通鑑(60)：大中之治：柏楊版資治通鑑|year=1988|isbn=9789573210184|url=https://books.google.com/books?id=vbO3AAAAQBAJ&q=大中之治&pg=PT6}}</ref><br/>{{lang|zh-Hant|大中之治}}
+|[[Emperor Xuanzong of Tang (9th century)|Emperor Xuanzong of Tang]]
+|846–859 CE
+|Domestic stability, and restoration of control over the [[Guiyi Circuit]].
+|-
+!colspan="4"|[[Zhou dynasty (690–705)|Wu Zhou]]
+|-
+|Continuation of the Order of Zhenguan<ref name=WuZetian>{{cite book|last1=Wen|first1=Yuan|title=一本书读通历史典故|year=2012|isbn=9787212056032|url=https://books.google.com/books?id=fEq8DwAAQBAJ&q=貞觀遺風&pg=PT22}}</ref><br/>{{lang|zh-Hant|貞觀遺風}}
+|[[Wu Zetian|Wu Zhao]]
+|690–705 CE
+|Continuation of the policies introduced during the Reign of Zhenguan.
+|-
+!colspan="4"|[[Song dynasty]]
+|-
+|Reign of Jianlong<ref name=Jianlong>{{cite book|last1=Feng|first1=Minfei|title=家天下是如何倒掉的|year=2015|isbn=9787516613009|url=https://books.google.com/books?id=jhK1DwAAQBAJ&q=建隆之治&pg=PT178}}</ref><br/>{{lang|zh-Hant|建隆之治}}
+|[[Emperor Taizu of Song]]
+|960–976 CE
+|Establishment of the Song dynasty, and conquest of the remaining [[Five Dynasties and Ten Kingdoms period#Ten Kingdoms|Ten Kingdoms]] with the exception of the [[Northern Han]].
+|-
+|Reign of Xianping<ref name=Xianping>{{cite web|url=http://www.zgls5000.net/songchao/256528.html|title=宋真宗咸平之治简介：北宋中期的辉煌盛世|access-date=1 December 2019}}</ref><br/>{{lang|zh-Hant|咸平之治}}
+|[[Emperor Zhenzong|Emperor Zhenzong of Song]]
+|997–1022 CE
+|Conclusion of the [[Chanyuan Treaty]] which heralded the start of a century-long peace with the [[Liao dynasty]].
+|-
+|Prosperous Rule of the Emperor Renzong of Song<ref name=RenzongOfSong>{{cite book|last1=Xu|first1=Bingbo|title=读史要略|year=2017|isbn=9787516630822|url=https://books.google.com/books?id=AOd0DwAAQBAJ&q=仁宗盛治&pg=PT370}}</ref><br/>{{lang|zh-Hant|仁宗盛治}}
+|[[Emperor Renzong of Song]]
+|1022–1063 CE
+|Peak of the Song dynasty.
+|-
+|Reign of Qianchun<ref name=Qianchun>{{cite book|last1=Han|first1=Han|title=讀錢記：誰把歷史藏在錢幣裡|year=2016|isbn=9789869270458|url=https://books.google.com/books?id=kiadCwAAQBAJ&q=乾淳之治&pg=PT105}}</ref><br/>{{lang|zh-Hant|乾淳之治}}
+|[[Emperor Xiaozong of Song]]
+|1162–1189 CE
+|Conclusion of the Longxing Peace Accord which heralded the start of a 40-year-long peace with the [[Jin dynasty (1115–1234)|Jin dynasty]].
+|-
+!colspan="4"|[[Liao dynasty]]
+|-
+|Restoration of the Emperor Jingzong of Liao<ref name=JingzongOfLiao>{{cite book|last1=Bai|first1=Shouyi|title=中国通史|year=2004|isbn=9787208001091|url=https://books.google.com/books?id=PzDTAAAAMAAJ&q=景宗中兴}}</ref><br/>{{lang|zh-Hant|景宗中興}}
+|[[Emperor Jingzong of Liao]]
+|969–982 CE
+|Stability and prosperity following the policy of [[Sinicization]].
+|-
+|Reign of Taiping<ref name=Taiping>{{cite web|url=http://m.gugong.net/view.php?aid=24249|title=如何评价辽圣宗耶律隆绪？他是个什么样的人？|access-date=1 December 2019}}</ref><br/>{{lang|zh-Hant|太平之治}}
+|[[Emperor Shengzong of Liao]]
+|1021–1031 CE
+|Peak of the Liao dynasty.
+|-
+!colspan="4"|[[Western Xia]]
+|-
+|Rule of Chong and Ren<ref name=ChongRen>{{cite web|url=https://m.sohu.com/n/556425688/?wscrid=32576_5|title=中国古代史上所有治世一览，远比你想象的多！|website=[[Sohu]]|access-date=1 December 2019}}</ref><br/>{{lang|zh-Hant|崇仁之治}}
+|[[Emperor Chongzong of Western Xia]]<hr/>[[Emperor Renzong of Western Xia]]
+|1086–1193 CE
+|Peak of the Western Xia.
+|-
+!colspan="4"|[[Jin dynasty (1115–1234)|Jin dynasty]]
+|-
+|Prosperous Age of Dading<ref name=Dading>{{cite book|last1=Jiang|first1=Ailin|title=治國之鏡：詩詞鏡鑒歷代改革家|year=2015|isbn=9787516615256|url=https://books.google.com/books?id=AYOXDwAAQBAJ&q=大定盛世&pg=PT287}}</ref><br/>{{lang|zh-Hant|大定盛世}}
+|[[Emperor Shizong of Jin]]
+|1161–1189 CE
+|Conclusion of the Longxing Peace Accord which heralded the start of a 40-year-long peace with the [[Song dynasty]], increase in government revenue, and good governance.
+|-
+|Reign of Mingchang<ref name=Mingchang>{{cite book|title=金戈铁马的交汇：辽西夏金|year=2006|isbn=9787807204480|url=https://books.google.com/books?id=HSC1DwAAQBAJ&q=明昌之治&pg=PT75|author1=《图说中国历史》编委会}}</ref><br/>{{lang|zh-Hant|明昌之治}}
+|[[Emperor Zhangzong of Jin]]
+|1189–1208 CE
+|Peak of the Jin dynasty; the Jin dynasty was the most powerful and prosperous state in East Asia during the time.
+|-
+!colspan="4"|[[Yuan dynasty]]
+|-
+|Prosperous Age of Zhiyuan<ref name=Zhiyuan>{{cite book|last1=Huang|first1=Dashou|title=中國通史|year=1989|url=https://books.google.com/books?id=r6Pg3QSchpwC&q=至元盛世&pg=PA614|page=614|isbn=9789571100326}}</ref><br/>{{lang|zh-Hant|至元盛世}}
+|[[Kublai Khan|Emperor Shizu of Yuan]]
+|1271–1294 CE
+|Unification of China under the Yuan dynasty, and political and economic reforms.
+|-
+|Prosperous Age of Dade<ref name=Dade>{{cite book|last1=Zhang|first1=Hong|title=元代唐诗学研究|year=2006|isbn=9787806658017|url=https://books.google.com/books?id=A6-UDwAAQBAJ&q=大德盛世+元成宗&pg=PT25}}</ref><br/>{{lang|zh-Hant|大德盛世}}
+|[[Temür Khan|Emperor Chengzong of Yuan]]
+|1295–1307 CE
+|Domestic stability, reduction of taxation, economic growth, and institutionalization of [[Confucianism]] in the government.
+|-
+!colspan="4"|[[Ming dynasty]]
+|-
+|Reign of Hongwu<ref name=Hongwu>{{cite book|last1=Li|first1=Haobai|title=大明神断：洪武元年1368|year=2018|isbn=9787201139395|url=https://books.google.com/books?id=Qkq8DwAAQBAJ&q=洪武之治&pg=PT390}}</ref><br/>{{lang|zh-Hant|洪武之治}}
+|[[Hongwu Emperor]]
+|1368–1398 CE
+|Establishment of the Ming dynasty.
+|-
+|Prosperous Age of Yongle<ref name=Yongle>{{cite book|title=Ming Tombs near Beijing: a travel guide and tour as with the best local guide|year=2012|isbn=9789949926107|url=https://books.google.com/books?id=Vq1wDwAAQBAJ&q=reign+of+yongle+golden+age&pg=PT86|last1=Stories|first1=Wander}}</ref><br/>{{lang|zh-Hant|永樂盛世}}
+|[[Yongle Emperor]]
+|1402–1424 CE
+|[[Yongle Emperor's campaigns against the Mongols|Military campaigns against the Mongols]], [[Fourth Chinese domination of Vietnam|establishment of Chinese rule in Vietnam]], and commissioning of [[Ming treasure voyages|six large-scale maritime expeditions]].
+|-
+|[[Reign of Ren and Xuan]]<ref name=RenXuan>{{cite book|last1=Porter|first1=Jonathan|title=Imperial China, 1350–1900|year=2016|isbn=9781442222939|url=https://books.google.com/books?id=MAFiCwAAQBAJ&q=reign+of+yongle+golden+age&pg=PA53}}</ref><br/>{{lang|zh-Hant|仁宣之治}}
+|[[Hongxi Emperor]]<hr/>[[Xuande Emperor]]
+|1424–1435 CE
+|Peak of the Ming dynasty.
+|-
+|New Order of Chenghua<ref name=Chenghua>{{cite book|last1=Ruan|first1=Jingdong|title=帝國的啓蒙：明朝的历史裂变|year=2018|isbn=9789575799045|url=https://books.google.com/books?id=sZOjDwAAQBAJ&q=成化新風&pg=PT58}}</ref><br/>{{lang|zh-Hant|成化新風}}
+|[[Chenghua Emperor]]
+|1464–1487 CE
+|Good governance, liberal political policies, economic prosperity, and domestic stability.
+|-
+|Hongzhi Restoration<ref name=Hongzhi>{{cite book|last1=Ruan|first1=Jingdong|title=血腥的皇权|year=2013|isbn=9787549318735|url=https://books.google.com/books?id=BKBLDwAAQBAJ&q=弘治中兴&pg=PT147}}</ref><br/>{{lang|zh-Hant|弘治中興}}
+|[[Hongzhi Emperor]]
+|1487–1505 CE
+|Economic prosperity, and domestic stability.
+|-
+|New Governance of Longqing<ref name=Longqing>{{cite book|last1=Li|first1=Lianli|title=白銀帝國：翻翻明朝的老帳|year=2013|isbn=9789573271857|url=https://books.google.com/books?id=WZvnAQAAQBAJ&q=隆慶新政&pg=PA124}}</ref><br/>{{lang|zh-Hant|隆慶新政}}
+|[[Longqing Emperor]]
+|1567–1572 CE
+|Normalization of relations with foreign adversaries, and introduction of a series of new domestic policies.
+|-
+|Wanli Restoration<ref name=Wanli>{{cite book|last1=Meyer-Fong|first1=Tobie|title=Building Culture in Early Qing Yangzhou|year=2003|isbn=9780804744850|url=https://books.google.com/books?id=u8oZSxa-kRgC&q=wanli+restoration&pg=PA130}}</ref><br/>{{lang|zh-Hant|萬曆中興}}
+|[[Wanli Emperor]]
+|1573–1582 CE
+|Implementation of reforms led by [[Zhang Juzheng]], domestic stability, and increase in government revenue.
+|-
+!colspan="4"|[[Qing dynasty]]
+|-
+|[[High Qing era]]<ref name=HighQing>{{cite book|last1=Kleutghen|first1=Kristina|title=Imperial Illusions: Crossing Pictorial Boundaries in the Qing Palaces|year=2015|isbn=9780295805528|url=https://books.google.com/books?id=_e7-CgAAQBAJ&q=high+Qing+era+golden+age&pg=PT18}}</ref><br/>{{lang|zh-Hant|康雍乾盛世}}
+|[[Kangxi Emperor]]<hr/>[[Yongzheng Emperor]]<hr/>[[Qianlong Emperor]]
+|1662–1799 CE
+|Peak of the Qing dynasty.
+|-
+
+|}
+
+==See also==
+* [[Chinese Century]]
+* [[History of China]]
+* ''[[Pax Sinica]]''
+* [[Tributary system of China]]
+
+==References==
+{{Reflist}}{{Historiography}}
+[[Category:History of Imperial China| ]]
+[[Category:Historiography of China]]

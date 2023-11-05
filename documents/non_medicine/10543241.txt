@@ -1,0 +1,23 @@
+The '''International Society of Acupuncture''' (Societe Internationale d’Acupuncture, SIA) was an international [[acupuncture]] research society, based in [[Paris]], [[France]]. It was founded by [[Roger de la Fuye]] between 1941 and 1943.<ref>{{Cite journal|last1=Lu|first1=Dominic P.|last2=Lu|first2=Gabriel P.|date=October 2013|title=An Historical Review and Perspective on the Impact of Acupuncture on U.S. Medicine and Society|journal=Medical Acupuncture|volume=25|issue=5|pages=311–316|doi=10.1089/acu.2012.0921|issn=1933-6586|pmc=3796320|pmid=24761180}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=SI5FAAAAYAAJ&q=%22International+Society+of+Acupuncture%22|title=International Scientific Organizations: A Guide to Their Library, Documentation, and Information Services|last1=Section|first1=Library of Congress International Organizations|last2=Murra|first2=Kathrine Oliver|date=1963|publisher=General Reference and Bibliography Division, Reference Department, Library of Congress|language=en}}</ref> From 1965 to 1966, SIA published ''La Revue d'acupuncture''. From 1975 to 1977, SIA published ''Revue de la Société internationale d'acupuncture''.<ref name=":0">{{Cite web|url=https://data.bnf.fr/fr/12527192/societe_internationale_d_acupuncture/|title=Société internationale d'acupuncture|website=data.bnf.fr|access-date=2019-12-12}}</ref> In 1977, the Fifth World Conference of Acupuncture of SIA was organized by the [[Japan Society of Medical Acupuncture]] and the [[Japan Acupuncture and Moxibustion Society]].<ref>{{Cite web|url=http://en.jsam.jp/contents.php/0100008Bp5U1/|title=The Japan Society of Acupuncture and Moxibustion (jsam)|website=en.jsam.jp|access-date=2019-12-12}}</ref>
+
+In addition to research, '''SIA '''was a degree-granting institution.<ref>{{Cite web|url=http://archive.macleans.ca/article/1980/10/13/a-pricking-feud-over-the-right-to-needle|title=A pricking feud over the right to needle {{!}} Maclean's {{!}} OCTOBER 13, 1980|last=Read|first=Merilyn|website=Maclean's {{!}} The Complete Archive|language=en-US|access-date=2019-12-12}}</ref>
+
+'''SIA '''has been reported to be inactive by various institutions. Estimates for the cessation of activity vary: 1984,<ref>{{Cite web|url=https://uia.org/s/or/en/1100018064|title=Société internationale d'acupuncture, {{!}} UIA Yearbook Profile {{!}} Union of International Associations|website=uia.org|access-date=2019-12-12}}</ref> and 1996<ref name=":0" /> have both been given.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{cite news|title=Quick, the Needle!|work=[[Time Magazine]]|date=1952-06-02|url=http://www.time.com/time/magazine/article/0,9171,857242,00.html|archive-url=https://web.archive.org/web/20101125182646/http://www.time.com/time/magazine/article/0,9171,857242,00.html|url-status=dead|archive-date=November 25, 2010|accessdate=2007-10-15}}
+
+
+{{authority control}}
+
+[[Category:Acupuncture organizations]]
+[[Category:International medical and health organizations]]
+[[Category:Medical associations based in France]]
+[[Category:Organizations based in Paris]]
+[[Category:Research institutes in France]]
+
+
+{{Alt-med-stub}}

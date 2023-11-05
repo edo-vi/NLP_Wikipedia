@@ -1,0 +1,105 @@
+'''Systems medicine''' is an interdisciplinary field of study that looks at the systems of the human body as part of an integrated whole, incorporating biochemical, physiological, and environment interactions. Systems medicine draws on [[systems science]] and [[systems biology]], and considers complex interactions within the human body in light of a patient's [[genomics]], behavior and environment.<ref>{{cite journal | vauthors = Federoff HJ, Gostin LO | title = Evolving from reductionism to holism: is there a future for systems medicine? | journal = JAMA | volume = 302 | issue = 9 | pages = 994–6 | date = September 2009 | pmid = 19724047 | doi = 10.1001/jama.2009.1264 }}</ref>
+
+The earliest uses of the term ''systems medicine'' appeared in 1992, in an article on systems medicine and pharmacology by T. Kamada.<ref>{{cite journal | vauthors = Kamada T | title = System biomedicine: a new paradigm in biomedical engineering | journal = Frontiers of Medical and Biological Engineering | volume = 4 | issue = 1 | pages = 1–2 | date = 1992 | pmid = 1599879 }}</ref>
+
+An important topic in systems medicine and [[systems biomedicine]] is the development of computational models that  describe disease progression and the effect of therapeutic interventions.<ref name="pmid16552630">{{cite journal | vauthors = de Winter W, DeJongh J, Post T, Ploeger B, Urquhart R, Moules I, Eckland D, Danhof M | title = A mechanism-based disease progression model for comparison of long-term effects of pioglitazone, metformin and gliclazide on disease processes underlying Type 2 Diabetes Mellitus | journal = Journal of Pharmacokinetics and Pharmacodynamics | volume = 33 | issue = 3 | pages = 313–43 | date = June 2006 | pmid = 16552630 | doi = 10.1007/s10928-006-9008-2 | s2cid = 21941015 }}</ref>
+<ref>{{cite journal | vauthors = Tiemann CA, Vanlier J, Oosterveer MH, Groen AK, Hilbers PA, van Riel NA | title = Parameter trajectory analysis to identify treatment effects of pharmacological interventions | journal = PLOS Computational Biology | volume = 9 | issue = 8 | pages = e1003166 | date = Aug 2013 | pmid = 23935478 | pmc = 3731221 | doi = 10.1371/journal.pcbi.1003166 | bibcode = 2013PLSCB...9E3166T }}</ref>
+
+More recent approaches include the redefinition of disease phenotypes based on common mechanisms rather than symptoms. These provide then therapeutic targets including network pharmacology<ref>{{cite journal | vauthors = Oettrich JM, Dao VT, Frijhoff J, Kleikers P, Casas AI, Hobbs AJ, Schmidt HH | title = Clinical relevance of cyclic GMP modulators: A translational success story of network pharmacology | journal = Clinical Pharmacology and Therapeutics | volume = 99 | issue = 4 | pages = 360–2 | date = April 2016 | pmid = 26765222 | doi = 10.1002/cpt.336 | s2cid = 40005254 | url = https://cris.maastrichtuniversity.nl/en/publications/501d0909-5e77-427a-944a-a7b3cfae2d35 }}</ref> and [[drug repositioning|drug repurposing]].<ref>{{cite journal | vauthors = Langhauser F, Casas AI, Dao VT, Guney E, Menche J, Geuss E, Kleikers PW, López MG, Barabási AL, Kleinschnitz C, Schmidt HH | title = A diseasome cluster-based drug repurposing of soluble guanylate cyclase activators from smooth muscle relaxation to direct neuroprotection | journal = npj Systems Biology and Applications | volume = 4 | issue = 1 | pages = 8 | date = 2018-02-05 | pmid = 29423274 | pmc = 5799370 | doi = 10.1038/s41540-017-0039-7 }}</ref> Since 2018, there is a dedicated scientific journal,  ''Systems Medicine''.<ref>{{Cite journal| vauthors = Baumbach J, Schmidt HH |date=2018|title=The End of Medicine as We Know It: Introduction to the New Journal, Systems Medicine|journal=Systems Medicine|volume=1|pages=1–2|doi=10.1089/sysm.2017.28999.jba|doi-access=free}}</ref>
+
+== Fundamental schools of systems medicine ==
+Essentially, the issues dealt with by systems medicine can be addressed in two basic ways, molecular (MSM) and organismal systems medicine (OSM):<ref>{{cite journal |last1=Tretter |first1=F |last2=Löffler-Stastka |first2=H |title=Medical knowledge integration and "systems medicine": Needs, ambitions, limitations and options. |journal=Medical Hypotheses |date=December 2019 |volume=133 |pages=109386 |doi=10.1016/j.mehy.2019.109386 |pmid=31541780|s2cid=202718643 }}</ref><ref name="Tretter_2021">{{cite journal |last1=Tretter |first1=F |last2=Wolkenhauer |first2=O |last3=Meyer-Hermann |first3=M |last4=Dietrich |first4=JW |last5=Green |first5=S |last6=Marcum |first6=J |last7=Weckwerth |first7=W |title=The Quest for System-Theoretical Medicine in the COVID-19 Era. |journal=Frontiers in Medicine |date=2021 |volume=8 |pages=640974 |doi=10.3389/fmed.2021.640974 |pmid=33855036|pmc=8039135 |doi-access=free }}</ref>
+
+=== Molecular systems medicine (MSM) ===
+This approach relies on [[omics]] technologies ([[genomics]], [[proteomics]], [[transcriptomics]], [[phenomics]], [[metabolomics]] etc.) and tries to understand [[Physiology|physiological]] processes and the evolution of [[disease]] in a bottom-up strategy, i.e. by simulating, synthesising and integrating the description of molecular processes to deliver an explanation of an organ system or even the organism in its whole.
+
+=== Organismal systems medicine (OSM) ===
+This branch of systems medicine, going back to the traditions of [[Ludwig von Bertalanffy]]'s [[systems theory]] and [[biological cybernetics]] is a top-down strategy that starts with the description of large, complex processing structures (i.e. [[neural network]]s, [[feedback loop]]s and other [[Network motif|motif]]s) and tries to find sufficient and necessary conditions for the corresponding functional organisation on a molecular level.
+
+A common challenge for both schools is the translation between the molecular and the organismal level. This can be achieved e.g. by affine subspace mapping and [[sensitivity analysis]], but also requires some preparative steps on both ends of the epistemic gap.<ref name="Tretter_2021"/>
+
+=== Systems Medicine Education ===
+Georgetown University is the first in the Nation to launch a MS program in Systems Medicine. It has developed a rigorous curriculum, The programs have been developed and led by Dr. Sona Vasudevan, PhD.
+
+https://systemsmedicine.georgetown.edu/
+
+== List of research groups ==
+{| class="wikitable sortable"
+|-
+! Country
+! University / Institute
+! Department / Center / Program / Network
+! Participants
+|-
+|Austria
+|[[University of Vienna]]
+|Centre for Organismal Systems Biology (COSB)<ref>{{cite web |title=Organismal Systems Biology |url=https://lifesciences.univie.ac.at/research/thematic-areas/organismal-systems-biology/ |website=lifesciences.univie.ac.at |access-date=17 April 2021 |language=en}}</ref> 
+|
+|-
+|Ireland
+|[[Royal College of Surgeons in Ireland]]
+|Medical Systems Biology<ref>{{cite web | url = http://systemsbiology.rcsi.ie/ | publisher = Royal College of Surgeons in Ireland | title = Medical Systems Biology }}</ref> 
+|
+|-
+|Luxembourg
+|[[Luxembourg Centre for Systems Biomedicine]]
+|Computational Biology group<ref>{{cite web | url = http://wwwen.uni.lu/lcsb/research/computational_biology | title = Computational Biology group | publisher = Luxembourg Centre for Systems Biomedicine }}</ref>
+|
+|-
+|Netherlands
+|[[Eindhoven University of Technology]] (TU/e)
+|Department of Biomedical Engineering, Computational Biology Group (CBio)<ref>{{cite web | url = https://www.tue.nl/en/university/departments/biomedical-engineering/research/research-groups/computational-biology/ | title = Computational Biology Group | publisher = Eindhoven University of Technology }}</ref>
+|Natal van Riel, Peter Hilbers
+|-
+|USA
+|[[Institute for Systems Biology]] (ISB)
+|
+|[[Leroy Hood]], [[Alan Aderem]], [[Ruedi Aebersold]] 
+|-
+|Germany
+|[[Helmholtz Association of German Research Centres]]
+|Department of Systems Immunology<ref>{{cite web | url=https://www.helmholtz.de/en/about_us/networks_and_cooperation/helmholtz_alliances/systems_biology/networks/systems_biology_at_the_helmholtz_centre/ | title= Systems Biology at the Helmholtz Centre for Infectious Diseases, Braunschweig | publisher = Helmholtz Centre for Infection Research }}</ref>
+|Esteban Hernandez-Vargas
+|-
+|Netherlands
+|[[Utrecht University]]
+[[University Medical Center Utrecht]]
+
+[[Maastricht University]]
+|Laboratory of Translational Immunology<ref>{{Cite web | url=http://www.umcutrecht.nl/nl/Ziekenhuis/Zorgverleners/Radstake-TRDJ | title=Radstake TRDJ}}</ref>
+Utrecht Center for Quantitative Immunology<ref>{{Cite web | url=http://theory.bio.uu.nl/ucqi/ |title = Utrecht Center for Quantitative Immunology}}</ref>
+
+Pharmacology and Personalised Medicine<ref>{{Cite web|url=https://ppm.mumc.maastrichtuniversity.nl/pharmacology-personalised-medicine-1|title=Pharmacology & Personalised Medicine {{!}} Pharmacology & Personalised Medicine|website=ppm.mumc.maastrichtuniversity.nl|language=en|access-date=2017-02-02}}</ref>
+|Prof. Timothy Radstake, 
+Dr. Aridaman Pandit
+
+Prof. Harald H.H.W. Schmidt
+|-
+|Israel
+|[[Weizmann Institute of Science]]
+|Department of Molecular Cell Biology<ref>{{Cite web|url=http://www.weizmann.ac.il/mcb/|title=Molecular Cell Biology, Weizmann Institute of Science|website=www.weizmann.ac.il|access-date=2019-05-05}}</ref>
+Systems Medicine course<ref>{{Cite web|url=https://www.weizmann.ac.il/mcb/UriAlon/download/systems-medicine-course-2019|title=Systems Medicine course 2019 {{!}} Uri Alon|website=www.weizmann.ac.il|access-date=2019-05-05}}</ref> 
+|[[Uri Alon]]<ref>{{cite journal | vauthors = Karin O, Swisa A, Glaser B, Dor Y, Alon U | title = Dynamical compensation in physiological circuits | journal = Molecular Systems Biology | volume = 12 | issue = 11 | pages = 886 | date = November 2016 | pmid = 27875241 | pmc = 5147051 | doi = 10.15252/msb.20167216 }}</ref><ref>{{cite journal | vauthors = Karin O, Alon U | title = Biphasic response as a mechanism against mutant takeover in tissue homeostasis circuits | journal = Molecular Systems Biology | volume = 13 | issue = 6 | pages = 933 | date = June 2017 | pmid = 28652282 | pmc = 5488663 | doi = 10.15252/msb.20177599 }}</ref>
+|-
+|Norway
+|Haukeland University Hospital
+|Neuro-SysMed<ref name="neurosysmed">[https://www.forskningsradet.no/prognett-fkb/Nyheter/Norges_forste_forskningssenter_for_klinisk_behandling_tildelt/1254037899980/p1254032200593 Norges første forskningssenter for klinisk behandling tildelt] {{webarchive|url=https://web.archive.org/web/20190417125308/https://www.forskningsradet.no/prognett-fkb/Nyheter/Norges_forste_forskningssenter_for_klinisk_behandling_tildelt/1254037899980/p1254032200593|date=April 17, 2019}} Annonsering 11/2018.</ref>
+|Kjell-Morten Myhr, [[Charalampos Tzoulis]]
+|-
+|}
+
+== See also ==
+* [[Biocybernetics]]
+* [[Medical cybernetics]]
+* [[Systems biology]]
+* [[Systems science]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Clinical medicine]]
+[[Category:Complex systems theory|Medicine]]
+[[Category:Concepts in alternative medicine]]
+[[Category:Evidence-based medicine]]
+[[Category:Health care]]
+[[Category:Systems theory|Medicine]]

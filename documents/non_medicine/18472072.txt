@@ -1,0 +1,77 @@
+{{short description|Qatari footballer}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox football biography
+| name = Khalid Salman
+| image =
+| fullname = Khalid Salman Al-Mahri Al-Muhannadi
+| birth_date = {{birth date and age|df=yes|1962|04|5}}
+| birth_place = [[Qatar]]
+| height = {{convert|1.78|m|ftin|0|abbr=on}}
+| years1= 1980–1998
+| clubs1= [[Al-Sadd Sports Club|Al Sadd]]
+| position = [[Midfielder]]
+| youthyears1= 1975–1980
+| youthclubs1= [[Al-Sadd Sports Club|Al Sadd]]
+| caps1=  | goals1 = 
+| nationalyears1= 1981–1991, 1998
+| nationalteam1= [[Qatar national football team|Qatar]]
+| nationalcaps1= | nationalgoals1 = 
+}}
+
+'''Khalid Salman Al-Muhannadi''' ({{lang-ar|خالد محمد سلمان المحري المهندي}}; born 5 April 1962) is a Qatari former [[Association football|footballer]], playing and scoring in [[FIFA U-20 World Cup|World Youth Championship]]s, various [[Gulf Cup of Nations|Gulf Cup]]s and the [[1984 Summer Olympics]]. He was part of a golden generation of Qatari footballers in the eighties and nineties along with [[Mansoor Muftah]], [[Ibrahim Khalfan]], [[Mahmoud Soufi]], [[Adel Khamis]] and many more. His most memorable matches include those against Brazil in the [[1981 FIFA World Youth Championship|World Youth Championship]] (he scored a hat-trick) and against France at the 1984 Olympics. He retired from football in September 1998, playing his retirement match against [[Sudan national football team|Sudan]] under national team coach Luiz Gonzaga. The match ended 1–1.<ref>{{cite web|url=http://daharchives.alhayat.com/issue_archive/Hayat%20INT/1998/9/18/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%88%D9%81%D9%88%D8%B2-%D9%83%D8%A8%D9%8A%D8%B1-%D9%84%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7.html|title=تعادل قطر والسودان وفوز كبير للامارات على ليبيا|publisher=daharchives.alhayat.com|date=19 September 1998|accessdate=29 June 2014|archive-url=https://web.archive.org/web/20150402121202/http://daharchives.alhayat.com/issue_archive/Hayat%20INT/1998/9/18/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%88%D9%81%D9%88%D8%B2-%D9%83%D8%A8%D9%8A%D8%B1-%D9%84%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7.html|archive-date=2 April 2015|url-status=dead}}</ref>
+
+==Career==
+
+===Club career===
+He played for [[Al-Sadd Sports Club|Al-Sadd]] at club level. His free-kick goal in the [[Asian Club Championship 1988-89]] final gave Al-Sadd their first Asian title.{{cn|date=November 2022}}
+
+===International career===
+Salman represented the [[Qatar national under-23 football team|Qatar olympic team]] at the 1984 Summer Olympics, and scored a brace against France, which account for the only two goals Qatar scored during the tournament. He also played for the [[Qatar national football team]] at the [[1988 AFC Asian Cup]] finals, scoring a goal in the group stage.<ref>{{cite web|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|author=Hyung-Jin Yoon|title=Asian Nations Cup 1988 Final Tournament – Full Details|url=https://www.rsssf.org/tables/88asch-det.html|date=15 August 2005}}</ref>
+
+==International goals==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 10 December 1984 || [[Former National Stadium, Singapore|National Stadium]], [[Kallang]], [[Singapore]] || {{fb|KOR}} || align=center|'''1'''–0 || align=center| 1–0 || [[1984 AFC Asian Cup]]
+|-
+| 2. || rowspan=2| 9 December 1988 || rowspan=2| [[Suheim bin Hamad Stadium]], [[Doha]], [[Qatar]] || rowspan=2| {{fb|KOR}} || align=center|'''1'''–2 || rowspan=2 align=center| 2–3 || rowspan=2| [[1988 AFC Asian Cup]]
+|-
+| 3. || align=center|'''2'''–3
+|-
+|}
+
+==Television==
+Salman works as an analyst for various Gulf sports channels, especially [[Al Kass Sports Channels|Al-Kass]], where he appears in the ''Al Majlis'' talk show.{{cn|date=November 2022}}
+
+==Ambassador for 2022 FIFA World Cup==
+Salman was selected as one of the local ambassadors for [[2022 FIFA World Cup]] and its legacy programmes.<ref>{{cite web |title=Ambassadors |url=http://www.qatar2022.pro/en/about/ambassadors/ |website=Qatar2022.pro |publisher=Supreme Committee for Delivery & Legacy |access-date=8 November 2022 |language=en}}</ref>
+
+=== Comments on homosexuality ===
+During an interview with German television channel [[ZDF]] on 8 November 2022, Salman made comments about homosexuality, saying "during the World Cup, many things would come into the country. For example, let's talk about gays. The most important thing would be that everyone would accept that they come here. But they would have to accept our rules." Salman mentioned that he has problems with children seeing gay men. He argued that children would then learn something that would be not good. He said that being gay is "[[haram]]" or forbidden, and described homosexuality as a "damage in the mind".<ref>{{cite news |title=WM-Botschafter aus Katar nennt Homosexualität »geistigen Schaden« |url=https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-botschafter-khalid-salman-nennt-homosexualitaet-in-zdf-doku-geistigen-schaden-a-fdf03fef-e89b-4d27-8947-61c9deaaa488 |work=Der Spiegel |date=8 November 2022 |language=de}}</ref><ref>{{cite news |title=WM-Botschafter zieht böse über Schwule her, dann wird ZDF-Interview abgebrochen |url=https://www.focus.de/sport/fussball/wm-botschafter-zieht-boese-ueber-schwule-her-dann-wird-zdf-interview-abgebrochen_id_178894200.html |publisher=Focus.de |date=8 November 2022}}</ref> The interview was stopped by a World Cup organizing committee press officer.<ref>{{cite news |title=World Cup ambassador: homosexuality is "damage in the mind" |url=https://apnews.com/article/world-cup-entertainment-soccer-sports-qatar-ed44b144cd5f1373a6d09efd7f979d0f |first=Kirsten |last=Grieshaber |work=AP News |date=8 November 2022 |language=en}}</ref> His comments led to massive criticism in Germany.<ref>{{cite web |title=Germany condemns Qatar World Cup ambassador who says homosexuality is 'damage in the mind' |url=https://www.euronews.com/2022/11/08/germany-condemns-qatar-world-cup-ambassador-who-says-homosexuality-is-damage-in-the-mind |website=Euronews |date=9 November 2022 |language=en}}</ref><ref>{{cite web |last=Conrad |first=Alex |title='From another millennium': German ace 'speechless' over WC ambassador's 'awful' remark |url=https://www.foxsports.com.au/football/damage-in-the-mind-world-cup-ambassador-slammed-for-shock-homosexuality-remark/news-story/ab68c9e3602ffdb5a03df6a7a498f22f |website=Fox Sports |date=10 November 2022 |language=en}}</ref> However, Salman later stated that his comments were misinterpreted and that "damage in the mind" was in relation to alcohol and not homosexuality.<ref>{{cite web|url=https://www.sbs.com.au/news/article/world-cup-ambassador-says-comments-about-homosexuality-were-misrepresented-by-german-media/t9o7sn9wg|title=|access-date=8 November 2022|website=SBS News}}</ref> <ref>{{cite web|url=https://dohanews.co/qatar-world-cup-ambassador-claims-lgbtq-remarks-taken-out-of-context/|title=Qatar World Cup ambassador claims LGBTQ remarks 'taken out of context'|access-date=10 November 2022|website=Doha News}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{FIFA player|192566|Khalid AL MOHAMEDI}}
+* {{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/sa/khaled-salmaan-1.html |archive-url=https://web.archive.org/web/20200418085154/https://www.sports-reference.com/olympics/athletes/sa/khaled-salmaan-1.html |url-status=dead |archive-date=2020-04-18 |title=Khaled Salmaan (full name: Khaled Salmaan Al-Mohamedi)}}
+* [https://web.archive.org/web/20120505232012/http://al-saddclub.net/showthread.php?t=8318 Khalid Salman – History – Al Sadd Club] {{in lang|ar}}
+
+{{Qatar squad 1984 AFC Asian Cup}}
+{{Qatar football squad 1984 Summer Olympics}}
+{{Qatar squad 1988 AFC Asian Cup}}
+
+{{DEFAULTSORT:Salman, Khalid}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:Qatar men's international footballers]]
+[[Category:1984 AFC Asian Cup players]]
+[[Category:1988 AFC Asian Cup players]]
+[[Category:Footballers at the 1984 Summer Olympics]]
+[[Category:Olympic footballers for Qatar]]
+[[Category:Al Sadd SC players]]
+[[Category:Qatar Stars League players]]
+[[Category:Men's association football midfielders]]
+[[Category:Sports controversies]]

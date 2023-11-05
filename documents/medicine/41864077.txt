@@ -1,0 +1,29 @@
+{{For| West Virginia's first African-American attorney|J. R. Clifford}}
+{{Infobox person
+| name        = John R. Clifford
+| image       = 
+| caption     = 
+| birth_date  = 
+| birth_place = [[Bowling Green, Kentucky]]
+| death_date  = 
+| death_place = 
+| occupation  = [[Veterinarian]]
+| known_for   = 
+}}
+Dr. '''John R. Clifford''' is an American [[veterinarian]]. Since 1985 he has been with [[APHIS]], [[Animal and Plant Health Inspection Service]] of the [[United States Department of Agriculture]],<ref name=aphis>[http://www.aphis.usda.gov/wps/portal/banner/aboutaphis?1dmy&urile=wcm%3apath%3a%2FAPHIS_Content_Library%2FSA_About_APHIS%2FSA_APHIS_Leadership "APHIS Leadership and Biographies"]</ref> where he held various positions including USDA Chief Veterinary Officer.<ref>{{cite web|url=http://usda.gov/wps/portal/usda/usdahome?contentid=2012/04/0132.xml |title=Statement by USDA Chief Veterinary Officer John Clifford Regarding a Detection of Bovine Spongiform Encephalopathy (BSE) in the United States &#124; USDA Newsroom |publisher=Usda.gov |date=2012-04-24 |accessdate=2014-02-06}}</ref><ref>{{cite web|title=APHIS Deputy Administrator for Veterinary Services Dr. John Clifford on World Veterinary Year 2011 |url=http://blogs.usda.gov/2011/06/23/aphis-deputy-administrator-for-veterinary-services-dr-john-clifford-on-world-veterinary-year-2011/|website=USDA Blog|publisher=USDA|accessdate=10 October 2014}}</ref> Clifford received DVM and BS degrees in animal science from the [[University of Missouri]] and before joining APHIS he was a private veterinarian.<ref name=aphis/>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clifford, John R.}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American veterinarians]]
+[[Category:Male veterinarians]]
+[[Category:United States Department of Agriculture officials]]
+[[Category:University of Missouri alumni]]
+
+
+{{Veterinary-med-stub}}

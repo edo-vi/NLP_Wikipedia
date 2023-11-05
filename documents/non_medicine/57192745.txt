@@ -1,0 +1,16 @@
+[[File:20130202 Stockholm Skärgård (34).jpg|thumb|250px|Joint valley terrain seen in wintertime [[Stockholm archipelago]].]]
+'''Joint valley landscape''' or fissure valley terrain ({{lang-sv|sprickdalslandskap, sprickdalsterräng}}) is a type of relief common in [[Fennoscandia]]. The landscape originates from the erosion of [[joint (geology)|joints]] in the [[bedrock]] which leaves out small plateaus or ridges in between.<ref name=norden1984>{{cite book |date=1984 |title=Terrängformer i Norden |publisher=Nordiska ministerrådet|language=sv |page=9 }}</ref> When the block summits in joint valley landscape are of different height it may indicate the past movement of a vertical [[fault (geology)|geological fault]].<ref name=norden1984/> 
+
+[[Karna Lidmar-Bergström]] identified joint valley landscape areas centered on [[Blekinge]], [[Bohuslän]], [[Linköping]]/[[Västervik]], [[Stockholm]] and [[Hudiksvall]]. In the last three areas the flat summits of the landscapes are parts of the [[Sub-Cambrian peneplain]]. In addition to this there is a large-scale joint valley landscape that extends from the [[High Coast]] inland.<ref name=Karna>{{cite journal |last=Lidmar-Bergströrm |first=Karna |author-link=Karna Lidmar-Bergström|date=1995 |title=Relief and saprolites through time on the Baltic Shield |journal=[[Geomorphology (journal)|Geomorphology]] |publisher=Elsevier |volume=12 |pages=45–61 }}</ref> The landscape type was first identified by [[Sten De Geer]] who in 1926 called it ''rutplatåland'' (lit. square plateau land).<ref>{{cite journal |last=De Geer |first=Sten |author-link=Sten De Geer|date=1926 |title=Norra Sveriges landforms-regioner |language=sv |journal=[[Geografiska Annaler]] |publisher=Swedish Society for Anthropology and Geography |volume=8 |pages=125-136 }}</ref><ref>{{cite book |date=1943 |title=Utredning angående Norrlands näringsliv. Förberendade undersökning verkställd av 1940 års norrlandsutredning |url=https://data.kb.se/datasets/2015/02/sou/1943/1943_39(librisid_13537711).pdf/ |location=Stockholm |publisher=Jordbruksdepartamentet |page=21 |language=sv |series=Statens offentliga utreningar|volume=39 |chapter=Regionindelning}}</ref> Joint valley landscapes are among the few places in southern Sweden where there are steep slopes in excess of 25°.<ref>{{cite book |author-last=Rudberg |author-first=Sten|chapter=Sweden|editor-last=Embleton|editor-first=C.|editor-last2=Embleton-Hamann|editor-first2=C.|date=1997 |title=Geomorphological Hazards of Europe |url=https://archive.org/details/geomorphological00embl|url-access=limited |publisher=Elsevier |page=[https://archive.org/details/geomorphological00embl/page/n467 457] |author-link=Sten Rudberg}}</ref>
+
+==Gallery==
+{{Gallery
+|File:Häggvik High Coast.JPG|Large scale joint valley landscape at [[The High Coast]], Ångermanland.
+|File:Sommenmodell.jpg|Model of the joint valley landscape around lake [[Sommen]] in [[naturum Sommen]].
+}}
+
+==References==
+{{reflist}}
+
+[[Category:Scandinavia]]
+[[Category:Geology]]

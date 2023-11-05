@@ -1,0 +1,57 @@
+{{short description|Traumatic brain injuries}}
+A [[traumatic brain injury]] (TBI) is a blow, jolt or penetration to the head that disrupts the function of the brain. Most TBIs are caused by falls, jumps, motor vehicle traffic crashes, being struck by a person or a blunt object, and assault. Student-athletes may be put at risk in school sports, creating concern about [[concussion]]s and brain injury.<ref name="mshsaa">{{cite web|title=Interscholastic School Sports Brain Injury Report|url=http://www.mshsaa.org/resources/pdf/IYSBIPreventionReport_1213v2web.pdf|website=Missouri State High School Activities Association|accessdate=28 September 2017|date=2012}}</ref> A concussion<ref name="mayo">{{cite web|title=Concussion|url=http://www.mayoclinic.org/diseases-conditions/concussion/symptoms-causes/dxc-20273155|website=Mayo Clinic|accessdate=28 September 2017}}</ref> can be caused by a direct blow to the head, or an indirect blow to the body that causes reactions in the brain. The result of a concussion is neurological impairment that may resolve spontaneously but may also have long-term consequences.
+
+== Background==
+
+Many teens engage in [[Extracurricular activity|extracurricular activities]] including sports that can pose risk of injury. Some sports that create a more significant risk of a head injury or concussion include basketball, cheerleading, soccer, and football.<ref>{{cite journal|last1=Kerr|first1=Z.Y.|title=Concussion Rates in U.S. Middle School Athletes, 2015-2016 School Year|journal=American Journal of Preventive Medicine|date=17 May 2017|pmid=28739314|doi=10.1016/j.amepre.2017.05.017|volume=53|issue=6|pages=914–918}}</ref><ref>{{cite book |last1=Graham |first1=Robert |last2=Rivara |first2=Frederick P. |last3=Ford |first3=Morgan A |last4=Spicer |first4=Carol M. |title=Sports-related concussions in youth : improving the science, changing the culture |date=2014 |publisher=National Academies Press |location=Washington, D.C. |isbn=9780309288002}}</ref>
+
+High school football accounts for a significant percentage of head injuries that result from high school sports.<ref name="mshsaa"/> While performing intense physical activity the brains' structure and functionality can be changed. This alteration in the brain may be a reason athletes in contact sports have concussions at higher. In combination with the contact and altered brain structure this can potentially lead to more severe concussions.<ref>{{cite journal |last1=Tremblay |first1=Sara |last2=Pascual-Leone |first2=Alvaro |last3=Théoret |first3=Hugo |title=A review of the effects of physical activity and sports concussion on brain function and anatomy |journal=International Journal of Psychophysiology |date=October 2018 |volume=132 |issue=Part A |pages=167–175 |doi=10.1016/j.ijpsycho.2017.09.005 |pmid=28893565 }}</ref>
+
+== Effects ==
+
+The symptoms of concussion may be physical, cognitive and emotional in nature. Symptoms vary between affected individuals, and symptoms immediately or be delayed.<ref>{{cite journal |title=Concussion recognition tool 5© |journal=British Journal of Sports Medicine |date=26 April 2017 |pages=bjsports–2017–097508CRT5 |doi=10.1136/bjsports-2017-097508CRT5|doi-access=free }}</ref>
+
+=== Short-term ===
+Possible signs of concussion that may appear in a student-athlete after a jolt to the head or body include:<ref>{{cite web|title=Heads Up to School Sports|url=https://www.cdc.gov/headsup/highschoolsports/index.html|website=Centers for Disease Control and Prevention|publisher=U.S. Department of Health & Human Services|accessdate=28 September 2017}}</ref><ref name="mayo"/>
+*a dazed appearance
+*confusion
+*forgetfulness
+*lack of confidence in actions
+*clumsiness
+*slower than normal
+*loss of consciousness
+*changes in mood, behavior, or personality, and
+*inability to remember events prior to, or after the hit
+An injured student may report any of these signs as well as sensitivity to light or sound, double vision, a headache, or other abnormal feelings. A student who has been diagnosed with a concussion may become frustrated, impatient, and angry about the situation.<ref>{{cite web|title=Concussions: What to Do|url=http://m.kidshealth.org/en/teens/concussions.html|website=Teens Health|publisher=Nemours|accessdate=28 September 2017}}</ref>
+
+=== Long-term ===
+Concussions may have consequences that are not immediately apparent. Concussions can affect sleep quality and may cause sleep patterns to become inconsistent. Some nights an individual may sleep for an extended period of time whereas in others sleep time can be short. With acute concussions, sleep occurs for longer durations when compared to subacute. These irregular sleep patterns can have major health effects by making an individual susceptible to health concerns later on  (Raikes, Schaefer, 2016, p. 2145).<ref>{{cite journal |last1=Raikes |first1=Adam |last2=Schaefer |first2=Sydney |title=Sleep Quantity and Quality during Acute Concussion: A Pilot Study |journal=Sleep |date=December 1, 2016 |volume=39 |issue=12 |pages=2141–2147 |doi=10.5665/sleep.6314 |pmid=27748242 |pmc=5103802 }}</ref> Concussions have also been shown to increase the risk for mental issues such as depression, CTE, dementia, and other cognitive issues (Guskiewicz et al., 2005).<ref>{{cite journal |last1=Guskiewicz |first1=Kevin |last2=Marshall |first2=Stephen |last3=Bailes |first3=Julian |last4=McCrea |first4=Michael |last5=Cantu |first5=Robert |last6=Randolph |first6=Christopher |last7=Jordan |first7=Barry |title=Association between Recurrent Concussion and Late-Life Cognitive Impairment in Retired Professional Football Players |journal=Neurosurgery |date=October 2005 |volume=57 |issue=4 |pages=719–726 |doi=10.1093/neurosurgery/57.4.719|pmid=16239884 }}</ref>
+
+Concussions may also have long term effects on the ability to learn and execute motor patterns. As compared to an individual with no concussions, due to damage to the brain resulting from concussion, a concussed individual may have reduced motor learning speeds and ability to progress in activity.<ref>{{cite journal |last1=Beaulieu |first1=Christelle |last2=Turcotte-Giroux |first2=Alexandre |last3=Carrier-Toutant |first3=Frédérike |last4=Brisson |first4=Benoit |last5=Jolicoeur |first5=Pierre |last6=De Beaumont |first6=Louis |title=Long-term effects of concussions on psychomotor speed and cognitive control processes during motor sequence learning |journal=Journal of Psychophysiology |date=2019 |volume=33 |issue=2 |pages=96–108 |doi=10.1027/0269-8803/a000213|s2cid=149415099 }}</ref>
+
+== Response ==
+
+Proper care for a concussed player involves providing proper medical treatment and exclusion from practices and games until the individual is cleared to play by a qualified medical professional.<ref>{{cite journal|last1=Kelly|first1=James P.|last2=Nichols|first2=John S.|last3=Filley|first3=Christopher M.|title=Concussion in Sports: Guidelines for the Prevention of Catastrophic Outcome|journal=JAMA|date=27 November 1991|volume=266|issue=20|pages=2867–2869|doi=10.1001/jama.1991.03470200079039|pmid=1942455}}</ref>
+
+After a concussion, protocols for safe return to sports practice and competition involve gradual return to play with an appropriate level of medical supervision.<ref>{{cite web |title=Returning to Sports and Activities {{!}} HEADS UP {{!}} CDC Injury Center |url=https://www.cdc.gov/headsup/basics/return_to_sports.html |website=HEADS Up |publisher=Centers for Disease Control & Prevention |language=en-us |date=12 February 2019}}</ref> To ensure player safety and reduce potential liability, school concussion plans should also have a formal system for tracking compliance, and for identifying and responding to any deviations from the plan's standards.
+
+=== Prevention ===
+Formal concussion plans that include elements of education, prevention, recognition, evaluation and management, both reduce the chance of concussion and ensure that concussions are promptly diagnosed.<ref>{{cite web|last1=Schmidt|first1=Elaine|title=Parents, coaches and doctors learn ways to prevent concussion among young football players|url=http://newsroom.ucla.edu/stories/parents-coaches-and-doctors-learn-ways-to-prevent-concussion-among-young-football-players|website=UCLA Newsroom|accessdate=28 September 2017|date=9 July 2014}}</ref><ref>{{cite web|title=Sports-Related Concussion: Understanding the Risks, Signs & Symptoms|url=https://www.healthychildren.org/English/health-issues/injuries-emergencies/sports-injuries/Pages/Sports-Related-Concussion-Understanding-the-Risks-Signs-Symptoms.aspx|website=healthychildren.org|accessdate=28 September 2017|date=21 November 2015}}</ref><ref>{{cite journal |title=Sport concussion assessment tool - 5th edition |journal=British Journal of Sports Medicine |date=26 April 2017 |pages=bjsports–2017–097506SCAT5 |doi=10.1136/bjsports-2017-097506SCAT5|doi-access=free }}</ref>
+
+Prevention efforts in high school athletics may include:
+* Conditioning, teaching and practice of techniques that reduce the chance of injury. For example, a football player who learns the proper way to tackle, spends time in the weight room, and maintains overall good health choices is more likely to avoid situations which put them in harm's way.<ref>{{cite web|title=Concussion Resources for Coaches and Athletic Trainers|url=http://concussiontreatment.com/resources/concussion-resources-for-coaches-and-athletic-trainers/|website=Sports Concussion Institute|accessdate=28 September 2017}}</ref>
+* Concussion response programs that take concussions seriously, limit the number of concussions a student may have while continuing to participate in a sport, and that monitor for recovery and residual effects of concussion.<ref name="waekerle">{{cite web|last1=Waeckerle|first1=Joseph F.|title=Concussion Management: The Team Plan|url=http://health.mo.gov/living/families/shcn/pdf/ConcussionManagement.pdf|website=Missouri Department of Health & Senior Services|accessdate=28 September 2017|date=2013}}</ref>
+
+=== Protective gear ===
+In the game of football pads and helmets are good tools but do not completely protect the player. The helmets worn in football defend against most head injuries. These injuries include things like brain bleeds, skull fractures, and possible jaw injuries. What the helmets do not protect against are mTBI or mild traumatic brain injury. This is where concussions occur. Helmets cannot protect against them because they are simply a byproduct of football. Due to the physicality of the sports, concussion or other head injuries are inevitable. For this to be changed the whole sport in its entirety will have to be changed (Bachynski, Goldberg, 2014, p 323-333).<ref>{{cite journal |last1=Bachynski |first1=KE |last2=Goldberg |first2=DS |title=Youth sports & public health: framing risks of mild traumatic brain injury in American football and ice hockey |journal=The Journal of Law, Medicine & Ethics |date=2014 |volume=42 |issue=3 |pages=323–333 |doi=10.1111/jlme.12149|pmid=25264090 |s2cid=39629829 }}</ref> But the choice to play football, in the end, is left to the families and the players themselves. If football is a sport they want to pursue, that is fine.
+
+==See also==
+*[[Concussions in American football]] 
+*[[Concussions in sports]]
+
+==References== 
+{{reflist}}
+
+[[Category:Sports injuries]]
+[[Category:Sports controversies]]
+[[Category:Concussions]]

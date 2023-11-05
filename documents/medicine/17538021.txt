@@ -1,0 +1,36 @@
+{{More citations needed|date=May 2022}}
+[[Image:PetitgrainEssentialOil.png|thumb|Petitgrain (''Citrus aurantium'' ssp. ''amara'') essential oil in a clear glass vial]]
+
+'''Petitgrain''' ({{IPA-fr|pəti gʁɛ̃|pron}}) is an [[essential oil]] that is extracted from the leaves and green twigs of the [[bitter orange]] tree (''Citrus aurantium'' ssp. ''amara'') via steam [[distillation]].<ref>{{Cite journal |last1=Taghadomi-Saberi |first1=Saeedeh |last2=Mas Garcia |first2=Sílvia |last3=Allah Masoumi |first3=Amin |last4=Sadeghi |first4=Morteza |last5=Marco |first5=Santiago |date=2018-06-13 |title=Classification of Bitter Orange Essential Oils According to Fruit Ripening Stage by Untargeted Chemical Profiling and Machine Learning |journal=Sensors (Basel, Switzerland) |volume=18 |issue=6 |pages=1922 |doi=10.3390/s18061922 |issn=1424-8220 |pmc=6021931 |pmid=29899257|bibcode=2018Senso..18.1922T |doi-access=free }}</ref> It is also known as '''petitgrain bigarade'''.<ref>{{Cite web |title=Petitgrain Bigarade - Organic |url=https://www.edenbotanicals.com/petitgrain-bigarade-organic-3043.html |access-date=2022-05-04 |website=www.edenbotanicals.com |language=en}}</ref>
+
+== Etymology ==
+Petitgrain (Fr.: “little grain”) gains its name from the fact that it used to be extracted from the unripe small green fruits of the plant.
+
+== Production ==
+Its main regions of production are [[Paraguay]] and [[France]], with the former's product being of higher odour tenacity. The oil has a greenish woody orange [[Odor|smell]] that is widely used in [[perfume]]ry and found in [[colognes]]. Though distilled from the same botanical species as [[neroli]] and [[bitter orange]] essential oil, petitgrain bigarade oil possesses its own characteristically unique aroma. The oil is distilled from the leaves and sometimes the twigs and branches of the tree, whereas neroli is distilled from the blossoms and bitter orange oil is typically cold pressed from the rinds of the fruits. Petitgrain mandarin (Petit grain Mandarine) is distilled from leaves and branches of trees producing [[Mandarin orange|mandarin]] fruit.
+
+== Chemical composition ==
+
+{| class="wikitable"
+|-
+! Oil !! style="white-space: nowrap;"|[[Binomial nomenclature|Binominal name]] !! Plant !! style="white-space: nowrap;"|Distilled parts !! Components
+|-
+| style="white-space: nowrap;"|Petitgrain bigarade || [[Bitter orange|''Citrus × aurantium'' subsp. ''amara'']] || [[Bitter orange]] ||  leaves, (twigs, branches) ||{{font|size=70%|[[Linalyl acetate]](45%), [[Linalool]](20%), [[beta-Pinene|β-Pinene]](<10%), [[Terpineol|α-Terpineol]](6%), [[Geranyl acetate]](<5%), [[Ocimene|cis-β-Ocimene]](<5%)}}
+|-
+| style="white-space: nowrap;"|Petitgrain mandarin || [[Mandarin orange|''Citrus reticulata'']] || [[Mandarin orange]] || leaves, (twigs, branches) ||{{font|size=70%|[[Methyl anthranilate]](50%), [[Terpinene|γ-Terpinene]](15%), [[Limonene]](5%), [[p-Cymene]](3%)}}
+|-
+| style="white-space: nowrap;"|Petitgrain citronnier || [[Lemon|''Citrus limon'']] || [[Lemon]] ||  leaves, (twigs, branches) ||{{font|size=70%|Limonene, [[Citral]], Geranyl acetate, [[Caryophyllene|β-caryophyllene]]}}
+|-
+|}
+
+== Use ==
+In [[perfumery]] and [[aromatherapy]] as fresh-[[scent]]ed [[essential oils]].
+
+== References ==
+{{reflist}}
+
+[[Category:Essential oils]]
+[[Category:Oranges (fruit)]]
+
+
+{{alt-med-stub}}

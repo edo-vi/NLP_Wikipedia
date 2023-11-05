@@ -1,0 +1,48 @@
+{{short description|Species of bacterium}}
+{{Italic title}}
+{{Taxobox | name = ''Riemerella anatipestifer''
+| domain = [[Bacteria]]
+| phylum = [[Bacteroidota]]
+| classis = [[Flavobacteriia]]
+| ordo = [[Flavobacteriales]]
+| familia = [[Weeksellaceae]]
+| genus = ''[[Riemerella]]''
+| species = '''''R. anatipestifer''''' 
+| binomial = '''''Riemerella anatipestifer''''' 
+| binomial_authority = (Hendrickson and Hilbert 1932) Segers et al. 1993<ref>{{cite journal |title=Species: Riemerella anatipestifer |journal=LPSN.DSMZ.de |url=https://lpsn.dsmz.de/species/riemerella-anatipestifer |language=en}}</ref>
+| type_strain =
+| subdivision = 
+| synonyms = ''Moraxella anatipestifer''<ref name=UniProt>{{cite journal |title=www.uniprot.org |url=https://www.uniprot.org/taxonomy/34085}}</ref> ''Pasteurella anapestifer''<ref name=UniProt/><br>''Pasteurella anatipestifer''<ref name=UniProt/>
+}}
+
+'''''Riemerella anatipestifer''''' is a member of the [[Flavobacteriaceae]] family. It is a Gram-negative [[bacterium]] that causes  [[septicaemia]] and death in young [[ducks]] and [[geese]] throughout the world. There are 21 known serotypes and infection is spread [[Horizontal transmission|horizontally]] between birds. Infection may be referred to as duck septicaemia, goose flu, riemerellosis, new duck disease and polyserositis.
+
+==Clinical signs and diagnosis==
+Clinical signs are most commonly seen in birds between the ages of 1–8 weeks old.
+
+Systemic infection is most common, producing a variety of clinical signs. These include [[diarrhoea]], [[pyrexia]], [[Anorexia (symptom)|anorexia]], stunted growth, respiratory signs (e.g. [[coughing]]), neurological abnormalities (e.g. convulsions), and ocular signs. These signs are rapidly followed by death in many birds. Infection may localise in chronic cases.
+
+On [[Autopsy|post-mortem]], a yellow-white [[exudate]] and congestion can be seen throughout the body.
+
+The signs seen on clinical exam and postmortem are normally sufficient to make a presumptive diagnosis. This diagnosis can be confirmed using laboratory tests such as [[bacterial culture]], [[Polymerase chain reaction|PCR]] and [[ELISA]].
+
+==Treatment and control==
+[[Antibiotics]] are the treatment of choice. The type of antibiotic selected should be determined by licensing and [[Kirby-Bauer antibiotic testing|sensitivity testing]].
+
+Both a live and inactivated [[vaccines]] are available to control the disease. Good husbandry is also an essential part of disease prevention.
+
+==References==
+{{Reflist}}
+* '''Riemerella anatipestifer''', reviewed and published by Wikivet at http://en.wikivet.net/Riemerella_anatipestifer, accessed 19/09/2011.
+
+==External links==
+*[http://bacdive.dsmz.de/index.php?search=5632&submit=Search Type strain of ''Riemerella anatipestifer'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Taxonbar|from=Q2152245}}
+
+[[Category:Poultry diseases]]
+[[Category:Bacterial diseases]]
+[[Category:Bacteria described in 1932]]
+
+
+{{Veterinary-med-stub}}

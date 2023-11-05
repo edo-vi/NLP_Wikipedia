@@ -1,0 +1,93 @@
+{{Use dmy dates|date=April 2023}} 
+{{Short description|Political controversy over the 2023 FIFA U-20 World Cup in Indonesia}}
+ 
+{{Infobox event
+| title = Removal of Indonesia as FIFA U-20 World Cup 2023 hosts
+| image =
+| caption = The official logo of the tournament before Indonesia was stripped of its hosting rights
+| map =  {{Location map+|Indonesia|float=center|caption=|places=
+{{Location map~|Indonesia|lat=-6.218687|long=106.802687|label_size=75|label=[[Jakarta]]|position=top}}
+{{Location map~|Indonesia|lat=-3.021322|long=104.789|label_size=75|label=[[Palembang]]|position=top}}
+{{Location map~|Indonesia|lat=-6.996600|long=107.529747|label_size=75|label=[[Bandung Regency|Bandung]]|position=left}}
+{{Location map~|Indonesia|lat=-7.223331|long=112.622779|label_size=75|label=[[Surabaya]]|position=top}}
+{{Location map~|Indonesia|lat=-7.555739|long=110.806445|label_size=75|label=[[Surakarta]]|position=bottom}}
+{{Location map~|Indonesia|lat=-8.546840|long=115.306355|label_size=75|label=[[Gianyar Regency|Gianyar]]|position=right}}
+}}
+| map_caption = Locations where matches were to be played at
+| native_name = Piala Dunia U-20 2023 Indonesia
+| native_name_lang = id
+| date = 30 March 2023
+| venue = Various venues in Indonesia
+| location = Indonesia
+| coordinates = 
+| also known as = Piala Dunia U-20
+| cause = Indonesia's opposition to Israel's participation in the tournament
+| result = FIFA revokes Indonesia's hosting rights and imposes a financial sanction on the Indonesian Football Association
+}} 
+
+The '''removal of Indonesia as [[2023 FIFA U-20 World Cup|FIFA U-20 World Cup 2023]] hosts''' was a [[political controversy]] that occurred in March 2023, when [[FIFA]], the world governing body of [[association football]], decided to strip Indonesia of its hosting rights for the [[2023 FIFA U-20 World Cup]], a youth football tournament that was scheduled to take place in May 2023. The decision was made due to the "current circumstances" that arose from Indonesia's opposition to [[Israel national under-20 football team|Israel]]'s participation in the tournament, citing Indonesia's pro-[[Palestinian territories|Palestine]] stance and [[Indonesia–Israel relations|lack of diplomatic ties with Israel]]. FIFA also imposed a financial sanction on the [[Football Association of Indonesia]] (PSSI) for breaching its obligations as a host country. The decision was met with disappointment and anger by many Indonesian football fans and players, who had hoped to showcase their country's passion and potential for the sport. Indonesia is scheduled to return to hosting for the [[2023 FIFA U-17 World Cup]] after Peru pulled out of hosting the event. 
+
+== Background == 
+Indonesia was awarded the hosting rights for the 2023 FIFA U-20 World Cup in October 2019, beating bids from Brazil, Peru, and a joint bid from Myanmar and Thailand.<ref>{{cite web |date=24 October 2019 |title=Indonesia to host FIFA U-20 World Cup in 2021 |url=https://www.fifa.com/u20worldcup/news/indonesia-to-host-fifa-u-20-world-cup-in-2021 |access-date=8 April 2023 |publisher=FIFA |archive-date=17 July 2023 |archive-url=https://web.archive.org/web/20230717063915/https://www.fifa.com/tournaments/mens/u20worldcup/fifa-u-20-world-cup-poland-2019 |url-status=live }}</ref> It was the first time that Indonesia would host a FIFA tournament, and the second time that Southeast Asia would host the U-20 World Cup, after Malaysia in [[1997 FIFA World Youth Championship|1997]].<ref>{{cite web |date=25 October 2019 |title=Indonesia to host U-20 World Cup in 2021 |url=https://www.thejakartapost.com/news/2019/10/25/indonesia-to-host-u-20-world-cup-in-2021.html |access-date=8 April 2023 |newspaper=The Jakarta Post }}{{Dead link|date=July 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The tournament was originally scheduled to take place from 20 May to 12 June 2021, but was postponed to May 2023 due to the [[COVID-19 pandemic]].<ref>{{cite web |date=12 May 2020 |title=FIFA U-17 Women's World Cup India and FIFA U-20 Women's World Cup Costa Rica and Panama rescheduled for early 2021 |url=https://www.fifa.com/u20worldcup/news/fifa-u-17-women-s-world-cup-india-and-fifa-u-20-women-s-world-cup-costa-rica-and-pa |access-date=8 April 2023 |website=FIFA |archive-date=17 July 2023 |archive-url=https://web.archive.org/web/20230717063843/https://www.fifa.com/tournaments/mens/u20worldcup/fifa-u-20-world-cup-poland-2019 |url-status=live }}</ref>
+
+Indonesia planned to use six venues across six provinces for the tournament, namely: [[Kapten I Wayan Dipta Stadium]] in [[Gianyar Regency]]; [[Gelora Bung Karno Stadium]] in [[Jakarta]]; [[Jalak Harupat Stadium]] in [[Bandung]]; [[Gelora Bung Tomo Stadium]] in [[Surabaya]]; [[Gelora Sriwijaya Stadium]] in [[Palembang]]; [[Manahan Stadium]] in [[Surakarta]].<ref>{{cite web |last=Bambani |first=Arfi |date=22 September 2022 |title=Six Stadiums will Serve the 2023 FIFA U-20 World Cup in Indonesia |url=https://www.theindonesia.id/news/2022/09/22/000000/six-stadiums-will-serve-the-2023-fifa-u-20-world-cup-in-indonesia |access-date=8 April 2023 |website=The Indonesia |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408172335/https://www.theindonesia.id/news/2022/09/22/000000/six-stadiums-will-serve-the-2023-fifa-u-20-world-cup-in-indonesia |url-status=live }}</ref> The stadiums were originally scheduled to be completed by December 2020, but were delayed due to the COVID-19 pandemic.
+
+== Controversy == 
+The controversy over Israel’s participation in the tournament emerged when Israel qualified as one of the five representatives of UEFA, the European football confederation, after finishing second in their group at the [[2022 UEFA European Under-19 Championship]].<ref>{{cite web |last=Thomas |first=Joshua |date=31 March 2023 |title=Where is the U-20 World Cup in 2023? FIFA pulls hosting duties from Indonesia amid Israel controversy |url=https://www.sportingnews.com/us/soccer/news/where-is-u20-world-cup-2023-host-fifa-indonesia/mt4qohsurozdjspzcahzxg3d |accessdate=8 April 2023 |website=Sporting News |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408172333/https://www.sportingnews.com/us/soccer/news/where-is-u20-world-cup-2023-host-fifa-indonesia/mt4qohsurozdjspzcahzxg3d |url-status=live }}</ref> Indonesia, which has the largest Muslim population in the world and does not have formal diplomatic relations with Israel, has been a vocal supporter of Palestinian independence and has often criticized Israel’s policies and actions in the region.<ref>{{cite web |last=Llewellyn |first=Aisyah |date=1 April 2023 |title=Stadium disaster justice loses in Indonesia U-20 World Cup furore |url=https://www.aljazeera.com/news/2023/4/1/stadium-disaster-justice-loses-in-indonesia-u-20-world-cup-furore |access-date=8 April 2023 |website=Al Jazeera |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408025918/https://www.aljazeera.com/news/2023/4/1/stadium-disaster-justice-loses-in-indonesia-u-20-world-cup-furore |url-status=live }}</ref> The issue sparked protests and statements from various local officials and groups in Indonesia, who called for the banning of Israel from the tournament or the withdrawal of Indonesia as the host. Some of them cited the preamble to the [[Constitution of Indonesia|Indonesia’s constitution]], which states that “the independence is a genuine right of all nations and any form of alien occupation should thus be erased from the earth as not in conformity with humanity and justice”.<ref>{{cite web |date=8 April 2023 |title=Indonesia's Constitution of 1945 with Amendments through 2002 (English Translation) |url=https://www.constituteproject.org/constitution/Indonesia_2002?lang=en#7.1.28.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2.2.2.2.2.2.2.2.2.2 |access-date=8 April 2023 |publisher=Constitute Project |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408172336/https://www.constituteproject.org/constitution/Indonesia_2002?lang=en#7.1.28.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2.2.2.2.2.2.2.2.2.2 |url-status=live }}</ref>
+
+== FIFA sanctions ==
+After Indonesia lost its hosting rights for the U-20 World Cup, [[FIFA]] also imposed a provisional restriction on the use of FIFA Forward development funds for PSSI. FIFA Forward is a program that provides financial and technical support for soccer development projects in each member association and confederation. FIFA said it would review the sanction after evaluating Indonesia’s plan to improve its football.<ref name="Jakarta">{{cite web |last= |first= |date=April 7, 2023 |title=FIFA freezes fund for Indonesia's soccer association after U-20 World Cup furor |url=https://www.thejakartapost.com/indonesia/2023/04/07/fifa-freezes-fund-for-indonesias-football-association-after-u-20-world-cup-furor.html |access-date=April 8, 2023 |newspaper=The Jakarta Post |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408172333/https://www.thejakartapost.com/indonesia/2023/04/07/fifa-freezes-fund-for-indonesias-football-association-after-u-20-world-cup-furor.html |url-status=live }}</ref><ref name="FIFA">{{cite web|url=https://www.fifa.com/football-development/fifa-forward/news/fifa-forward-3-0-bolsters-investment-in-football-development|title=FIFA FORWARD 3.0 bolsters investment in soccer development|website=FIFA|date=December 31, 2022|access-date=April 8, 2023|archive-date=8 April 2023|archive-url=https://web.archive.org/web/20230408172333/https://www.fifa.com/football-development/fifa-forward/news/fifa-forward-3-0-bolsters-investment-in-football-development|url-status=live}}</ref>
+
+PSSI chief [[Erick Thohir]] said the sanction would affect PSSI's operational needs and reiterated President [[Joko Widodo]]’s instruction to transform the sport, including renovating over 20 stadiums. He also said Indonesia could avoid a more severe penalty of being banned from world soccer and that this was more like a yellow card than a red card.<ref name="Jakarta" />
+
+The cancellation of the Under-20 World Cup caused anger and disappointment among fans and players in Indonesia. FIFA made the decision after PSSI canceled the draw because the governor of Bali refused to host Israel’s team. In March, protesters marched in Jakarta waving Indonesian and Palestinian flags, stating that Israel should not be allowed to participate.<ref name="Time2">{{cite magazine |last=de Guzman |first=Chad |date=April 6, 2023 |title=How Losing Out on Hosting FIFA's U-20 World Cup Impacts Indonesia |url=https://time.com/6269303/indonesia-fifa-u20-world-cup-impacts/ |access-date=April 8, 2023 |magazine=[[Time (magazine)|Time]]}}</ref><ref name="Reuters2">{{cite web |last=Widianto |first=Stanley |date=April 6, 2023 |editor-last=Sarkar |editor-first=Pritha |title=FIFA freezes fund for Indonesia's football association after U-20 World Cup furore |url=https://www.reuters.com/lifestyle/sports/fifa-freezes-fund-indonesias-football-association-after-u-20-world-cup-furore-2023-04-06/ |url-access=registration |url-status=live |archive-url=https://web.archive.org/web/20230407062208/https://www.reuters.com/lifestyle/sports/fifa-freezes-fund-indonesias-football-association-after-u-20-world-cup-furore-2023-04-06/ |archive-date=7 April 2023 |access-date=April 8, 2023 |website=Reuters}}</ref>
+
+== Opposition to Israel’s participation == 
+Several groups and individuals in Indonesia expressed their opposition to Israel’s participation in the FIFA U-20 World Cup, which was originally scheduled to be held in Indonesia from May 20 to June 11, 2023. Indonesia, a Muslim-majority nation of more than 270 million people, does not have formal diplomatic relations with Israel and [[anti Zionism|supports the cause of the Palestinians]].<ref name="cnn">{{cite web |last1=Regan |first1=Helen |last2=Jamaluddin |first2=Masrur |date=March 30, 2023 |title=FIFA strips Indonesia of U-20 World Cup after calls for Israel ban |url=https://www.cnn.com/2023/03/30/football/fifa-removes-indonesia-hosts-u20-world-cup-intl-hnk-spt/index.html |website=CNN |access-date=8 April 2023 |archive-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330105215/https://www.cnn.com/2023/03/30/football/fifa-removes-indonesia-hosts-u20-world-cup-intl-hnk-spt/index.html |url-status=live }}</ref>
+
+=== Bali governor’s request === 
+One of the main sources of opposition came from [[I Wayan Koster]], the governor of Bali, one of the six host provinces for the tournament. Koster sent a letter to Indonesia’s sports ministry in early March 2023, requesting that Israel be banned from competing in Bali. He cited the "humanitarian tragedy" in Palestine and the "violation of human rights" by Israel as reasons for his objection.<ref name="cnn" /> Koster also stated that the provincial government of Bali refused to allow the Israeli team to play in Bali. His letter sparked a crisis for the Indonesian government, as FIFA postponed the official draw for the tournament, which was supposed to take place in Bali on March 29.<ref name="NYT">{{cite news |last1=Wee |first1=Sui-Lee |last2=Mather |first2=Victor |date=March 29, 2023 |title=Anti-Israel Protests Cost Indonesia a FIFA Soccer Championship |newspaper=The New York Times |url=https://www.nytimes.com/2023/03/29/world/asia/indonesia-israel-world-cup-soccer.html |url-status=live |url-access=limited |archive-url=https://web.archive.org/web/20230401003736/https://www.nytimes.com/2023/03/29/world/asia/indonesia-israel-world-cup-soccer.html |archive-date=1 April 2023}}</ref> After the tournament was moved out of Indonesia, Koster alternated between angrily stating that the Israel-boycott movement was directed by more powerful (unnamed) leaders than himself, and whining that FIFA should have banned Israel from its competitions and resolved things that way.
+
+=== Public protests ===
+Koster’s request was supported by some conservative Muslim groups and activists, who staged protests in Indonesia’s capital Jakarta on March 20 and March 29. They carried signs and chanted slogans demanding that the government prevent Israel from participating in the tournament. They also accused FIFA of being biased and unfair in allowing Israel to qualify for the first time.<ref name="cnn" /> Some protesters also burned Israeli flags and effigies of former Israeli [[Prime Minister of Israel|Prime Minister]] [[Naftali Bennett]].
+
+=== Government response === 
+President Joko Widodo addressed the nation on March 28, reiterating Indonesia’s support for the Palestinians but also stressing the country’s obligation to follow FIFA regulations. He said that Indonesia had gone through a long bidding process to host the tournament and that it was an honor for the Indonesian people. He also urged Indonesians to respect the spirit of sportsmanship and not mix politics with sports.<ref name="NYT" /> However, his appeal failed to convince FIFA, which announced on March 29 that it had removed Indonesia as the host of the tournament due to the current circumstances. FIFA also said that sanctions against PSSI were possible.<ref name="cnn" />
+
+Governors who opposed Israel's participation in the tournament:
+{| class="wikitable"
+!Name
+!Image
+!Title
+!Opposition
+|-
+|[[I Wayan Koster]]
+|[[File:I Wayan Kostoer, Gubernur Bali.jpg|150px]]
+|[[Governor of Bali]]
+|Requested the sports ministry to ban Israel from playing in Bali; refused to allow the Israeli team to compete in Bali; cited humanitarian and human rights reasons
+|-
+|[[Ganjar Pranowo]]
+|[[File:Ganjar Pranowo, Gubernur Jateng Periode II.jpg|150px]]
+|[[Governor of Central Java]]
+|Requested the sports ministry to ban Israel from playing in Central Java; cited [https://paralegal.id/peraturan/peraturan-menteri-luar-negeri-nomor-3-tahun-2019/ Indonesian Minister of Foreign Affairs' Rule No.3 Year 2019], a regulation about regional governments' involvement in foreign relations, as the basis for his opposition
+|}
+
+Indonesian politician and member of the [[People's Representative Council]], [[Fadli Zon]] accused FIFA for applying double standards that favour Israel, despite the ongoing [[Israeli–Palestinian conflict]] that affects Palestinian football.<ref name="sindonews">{{cite news |last=Sasongko |first=Dwi |date=March 30, 2023 |title=Piala Dunia U-20 di Indonesia Batal, Fadli Zon: FIFA Terapkan Standar Ganda |work=Sindonews |url=https://nasional.sindonews.com/read/1060151/12/piala-dunia-u-20-di-indonesia-batal-fadli-zon-fifa-terapkan-standar-ganda-1680163430/10 |access-date=22 May 2023 |archive-date=22 May 2023 |archive-url=https://web.archive.org/web/20230522160435/https://nasional.sindonews.com/read/1060151/12/piala-dunia-u-20-di-indonesia-batal-fadli-zon-fifa-terapkan-standar-ganda-1680163430/10 |url-status=live }}</ref> He also referred that double standards with the prohibition of Russia participating in all FIFA competitions due to the occurring [[Russian invasion of Ukraine]].<ref name="liputan6">{{cite news |last=Lahitani |first=Sulung |date=March 31, 2023 |title=Indonesia Dicoret Jadi Tuan Rumah Piala Dunia U-20, Fadli Zon: FIFA Terapkan Standar Ganda |work=Liputan6 |url=https://www.liputan6.com/citizen6/read/5248330/indonesia-dicoret-jadi-tuan-rumah-piala-dunia-u-20-fadli-zon-fifa-terapkan-standar-ganda |access-date=22 May 2023 |archive-date=22 May 2023 |archive-url=https://web.archive.org/web/20230522153911/https://www.liputan6.com/citizen6/read/5248330/indonesia-dicoret-jadi-tuan-rumah-piala-dunia-u-20-fadli-zon-fifa-terapkan-standar-ganda |url-status=live }}</ref>
+
+== Aftermath ==
+
+== See also ==
+* [[1962 Asian Games]], another sports event hosted by Indonesia in which the Israel national team were barred from entering the country
+* [[Boycotts of Israel in sports]]
+
+== References ==
+<references />
+
+[[Category:2023 in Indonesian football]]
+[[Category:2023 FIFA U-20 World Cup]]
+[[Category:Indonesia–Israel relations]]
+[[Category:2023 controversies]]
+[[Category:Controversies in Indonesia]]
+[[Category:Islam and antisemitism]]
+[[Category:Sports controversies]]
+[[Category:March 2023 sports events in Asia]]

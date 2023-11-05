@@ -1,0 +1,40 @@
+{{Short description|Species of roundworm}}
+{{taxobox
+| regnum = [[Animal]]ia
+| phylum = [[Nematode|Nematoda]]
+| classis = [[Chromadorea]]
+| ordo = [[Rhabditida]]
+| subordo = [[Strongylida]]
+| superfamilia = [[Strongyloidea]]
+| familia = [[Chabertiidae]]
+| genus = ''Chabertia'' Railliet & Henry, 1909<ref>Sur la classification des Strongylidae. I. Metastrongylinae. A Railliet and A Henry, Compte Rendu des Séances de la Société de Biologie …, 1909</ref>
+| species = ''C. ovina''
+| binomial = ''Chabertia ovina''
+| binomial_authority = ([[Johan Christian Fabricius|Fabricius]], 1794)
+| synonyms = ''Strongylus ovina'' Fabricius 1794
+}}
+
+'''''Chabertia ovina''''', the large-mouthed bowel worm, is a species of parasitic roundworms that infects sheep, goats (occasionally cattle) and other wild ruminants. Infection of pigs are very infrequent. It is not known to be contagious to humans.
+
+The disease caused by ''Chabertia'' worms is called chabertiasis or chabertiosis.
+
+It is found worldwide but is more frequent in temperate regions.
+
+== References ==
+{{Reflist}}
+* The parasitic life cycle of Chabertia ovina (Fabricius, 1788) in sheep. RP Herd, International Journal for Parasitology, 1971, {{doi|10.1016/0020-7519(71)90014-2}}
+* The pathogenic importance of Chabertia ovina (Fabricius, 1788) in experimentally infected sheep. RP Herd, International Journal for Parasitology, 1971, {{doi|10.1016/0020-7519(71)90028-2}}
+
+== External links ==
+* [http://cal.vet.upenn.edu/projects/merial/Strongls/strong_5.htm ''Chabertia ovina'' at cal.vet.upenn.edu]
+* [https://web.archive.org/web/20161126194841/http://www.faunaeur.org/full_results.php?id=392334 ''Chabertia ovina'' at Fauna Europaea]
+
+{{Taxonbar|from=Q10447384}}
+
+[[Category:Sheep and goat diseases]]
+[[Category:Parasitic nematodes of mammals]]
+[[Category:Nematodes described in 1794]]
+[[Category:Strongylida]]
+
+
+{{veterinary-med-stub}}

@@ -1,0 +1,255 @@
+{{redirect|Shi Ji|the Three Kingdoms period general|Shi Ji (Eastern Wu)|the goddess|Shiji Niangniang}}
+{{short description|Monumental history of ancient China written in the 1st century BC}}
+{{Infobox book
+| name             = Records of the Grand Historian
+| image            = 史记.jpg
+| caption          = Printed copy by [[Zhonghua Book Company]] (1982)
+| author           = [[Sima Qian]]
+| title_orig       = {{noitalics|{{lang|zh|太史公書}}}} ({{lang|zh-Latn-pinyin|Tàishǐgōng shū}})<br/>{{noitalics|{{lang|zh|史記}}}} ({{lang|zh-Latn-pinyin|Shǐjì}})
+| country          = [[Han dynasty|Western Han China]]
+| language         = [[Classical Chinese]]
+| subject          = Ancient Chinese history
+| pub_date         = c. 91 BC
+}}
+{{Infobox Chinese
+| title = ''Records of the Grand Historian''
+| pic = Shiji (Chinese characters).svg
+| piccap = "''Shiji''" in Traditional (top) and Simplified (bottom) Chinese characters
+| picupright = 0.35
+| t = {{linktext|史|記}}
+| s = {{linktext|史|记}}
+| l = "Scribal Records"
+| p = Shǐjì
+| w = Shih<sup>3</sup>-chi<sup>4</sup>
+| mi = {{IPAc-cmn|shi|3|.|j|i|4}}
+| j = Si<sup>2</sup>-gei<sup>3</sup>
+| y = Sí-gei
+| ci = {{IPAc-yue|s|i|2|-|g|ei|3}}
+| poj = Sú-kì
+| wuu = Sy-ci
+| mc = ʂí-kì
+| oc-bs = s-rəʔ C.krəʔ-s
+| t2 = 太史公書
+| p2 = Tàishǐgōng shū
+| w2 = T'ai<sup>4</sup>-shih<sup>3</sup>-kung<sup>1</sup> shu<sup>1</sup>
+| mi2 = {{IPAc-cmn|t|ai|4|.|shi|3|.|g|ong|1|-|sh|u|1}}
+| j2 = Tai<sup>3</sup> si<sup>2</sup> gong<sup>1</sup> syu<sup>1</sup>
+| y2 = Tai sí gōng syū
+| poj2 = Thài-sú-kong su
+| l2 = "Records of the Grand Historian"
+| mc2 = tʰài ʂí kuwng sho
+| oc-bs2 = &ast;l̥ˤat-s s-rəʔ C.qˤung s-ta
+| c = 
+| altname = 
+}} 
+'''''Records of the Grand Historian''''',<!--Chinese in infobox; see WP:MOS-ZH--> also known by its [[Chinese language|Chinese]] name '''''Shiji''''', is a monumental [[Chinese historiography|history of China]] that is the first of China's [[Twenty-Four Histories|24 dynastic histories]]. The ''Records'' was written in the late 2nd century{{sbc}} to early 1st century{{sbc}} by the ancient Chinese historian [[Sima Qian]], whose father [[Sima Tan]] had begun it several decades earlier. The work covers a 2,500-year period from the age of the legendary [[Yellow Emperor]] to the reign of [[Emperor Wu of Han]] in the author's own time, and describes the world as it was known to the Chinese of the [[Western Han dynasty]].{{sfnb|Nienhauser|2011|pp = [https://books.google.com/books?id=pYM3AwAAQBAJ&q=Shiji&pg=PA486 463-464]}}
+
+The ''Records'' has been called a "foundational text in Chinese civilization".{{sfnp|Hardy|1999|p=xiii}} After [[Confucius]] and the [[Qin Shi Huang|First Emperor of Qin]], "Sima Qian was one of the creators of Imperial China, not least because by providing definitive biographies, he virtually created the two earlier figures."{{sfnp|Hardy|1999|pp=xiii, 3}} The ''Records'' set the model for all subsequent dynastic histories of China. In contrast to Western historiographical conventions, the ''Records'' do not treat history as "a continuous, sweeping narrative", but rather break it up into smaller, overlapping units dealing with famous leaders, individuals, and major topics of significance.{{sfnp|Durrant|1986|p=689}}
+
+==History==
+{{further|Chinese historiography}}
+
+The work that became ''Records of the Grand Historian'' was begun by [[Sima Tan]], who was Grand Historian ({{transl|cmn|Tàishǐ}} {{lang|zh|太史}}, also translated "Grand Scribe") of the [[Han dynasty]] court during the late 2nd century{{sbc}}. Sima Tan drafted plans for the ambitious work and left behind some fragments and notes that may have been incorporated into the final text. After his death in 110{{sbc}}, the project was continued and completed by his son and successor [[Sima Qian]], who is generally credited as the work's author.{{sfnp|Hulsewé|1993|pp=405-06}}{{sfnp|Durrant|2001|pp=502-03}} The exact date of the ''Records''{{'s}} completion is unknown. But it is certain that Sima Qian completed it by ca. 91 BC, before his death in approximately 86{{sbc}}, with one copy residing in the imperial capital of [[Chang'an]] (present-day [[Xi'an]]) and the other copy probably being stored in his home.{{sfnp|Knechtges|2014|p=897}}{{NoteTag|The postface of the ''Records'' states that the text will be stored within "a famous mountain" while a copy will be stored in the capital, hidden and awaiting "sages and gentlemen of future generations": "{{lang|zh|藏之名山，副在京師，俟後世聖人君子。}}"}}
+
+The original title of the work, as given by the author in the postface is ''Taishigongshu'' ({{lang|zh|太史公書}}), or ''Records of the Grand Historian'', although it was also known by a variety of other titles, including ''Taishigongji'' ({{lang|zh|太史公記}}) and ''Taishigongzhuan'' ({{lang|zh|太史公傳}}) in ancient times. Eventually, ''Shiji'' ({{lang|zh|史記}}), or ''Historical Records'' became the most commonly used title in Chinese. This title was originally used to refer to any general historical text, although after the [[Three Kingdoms]] period,{{NoteTag|The Three Kingdoms period scholar [[Wang Su (Cao Wei)|Wang Su]] (AD 195–256) appears to be among the earliest to apply the name ''Shiji'' to Sima Qian's work.}} ''Shiji'' gradually began to be used exclusively to refer to Sima Qian's work. In English, the original title, ''Records of the Grand Historian'' is in common use,<ref name=translated-Watson>{{cite book |title = Records of the grand historian. Han dynasty |last = Sima |first = Qian |date = December 1992 |publication-date=1993 |publisher = Columbia University Press |translator = Watson, Burton |isbn=0231081642 |edition = Rev. |location=Hong Kong |oclc=26674054 }}</ref> although ''Historical Records'',<ref>{{cite book |title = Historical records |last=Sima |first = Qian |year=1994 |publication-date=1994 |publisher=Oxford University Press |translator = Dawson, Raymond Stanley |isbn=0192831151 |location=Oxford |oclc=28799204 }}</ref> ''The Grand Scribe's Records'',<ref>{{cite book |title = The grand scribe's records |last=Sima |first = Qian |publication-date=1994 |publisher=Indiana University Press |translator1 = Nienhauser, William H. |translator2 = Cheng, Tsai Fa. |isbn=0253340217 |location=Bloomington |oclc=30508745 }}</ref> and ''Records of the Historian''<ref>{{cite book |url = https://archive.org/details/recordsofhistori0000ssum |title = Records of the historian; chapters from the Shih chi of Ssu-ma Ch'ien . |last=Sima |first = Qian |year = 1969 |publication-date=1969 |publisher=Columbia University Press |translator1 = Watson, Burton |translator2 = Takigawa, Kametarō|isbn=0231033214 |location=New York |oclc=332024 |url-access=registration }}</ref> are also used.
+
+The history of the ''Records''{{apostrophe}} early reception and circulation is not well known.{{sfnp|Kern|2010|p=102}} Several 1st-century BC authors, such as the scholar Chu Shaosun ({{lang|zh|褚少孫}}; fl. 32{{ndash}}7{{sbc}}), added interpolations to the ''Records''. These scholars may have had to reconstruct portions of the ''Records'', as ten of its original 130 chapters were lost in the Eastern Han period (AD 25{{ndash}}220) and seem to have been reconstructed later.{{sfnp|Knechtges|2014|p=897}}
+
+Beginning in the [[Northern and Southern dynasties]] (420{{ndash}}589) and the [[Tang dynasty]] (618{{ndash}}907), several scholars wrote and edited commentaries to the ''Records''.{{sfnp|Knechtges|2014|p=897}} Most 2nd-millennium editions of the ''Records'' include the commentaries of Pei Yin ({{lang|zh|裴駰}}, 5th century), [[Sima Zhen]] (early 8th century), and Zhang Shoujie ({{lang|zh|張守節}}, early 8th century).{{sfnp|Knechtges|2014|p=898}}{{sfnp|Hulsewé|1993|p=407}} The combined commentaries of these three scholars is known as the ''Sanjiazhu'' ({{lang|zh|三家注}}, "commentaries of the three experts"). The primary modern edition of the ''Records'' is the ten-volume [[Zhonghua Book Company]] edition of 1959 (revised in 1982), which is based on an edition prepared by the Chinese historian [[Gu Jiegang]] in the early 1930s and includes the ''Sanjiazhu''.{{sfnp|Hulsewé|1993|p=409}}
+
+===Manuscripts===
+There are two known surviving fragments of pre-Tang dynasty ''Records'' manuscripts, both of which are held in the [[Ishiyama-dera]] temple in [[Ōtsu]], Japan. Portions of at least nine Tang dynasty manuscripts survive: three fragments discovered among the [[Dunhuang manuscripts]] in the early 20th century, and six manuscripts preserved in Japanese temples and museums, such as the [[Kōzan-ji]] temple in [[Kyoto]] and the [[Tōyō Bunko]] museum in [[Tokyo]]. Several woodblock printed editions of the ''Records'' survive, the earliest of which date to the [[Song dynasty]] (960{{ndash}}1279).{{sfnp|Knechtges|2014|p=898}}
+
+==Contents==
+[[File:Shiji.jpg|thumb|upright|An early printed edition]] 
+{{see also|List of Records of the Grand Historian chapters}}
+
+In all, the ''Records'' is about 526,500 [[Chinese characters]] long, making it four times longer than [[Thucydides]]' ''[[History of the Peloponnesian War]]'' and longer than the [[Old Testament]].<ref>{{cite journal |last=Hardy |first=Grant |title=Can an Ancient Chinese Historian Contribute to Modern Western Theory? The Multiple Narratives of Ssu-Ma Ch'ien |journal=History and Theory |year=1994 |volume=33 |issue=1 |pages=20–38 |jstor=2505650|doi=10.2307/2505650 }}</ref>{{sfnp|Wilkinson|2012|p=708}}
+
+Sima Qian conceived and composed his work in self-contained units, with a good deal of repetition between them. His manuscript was written on [[bamboo slips]] with about 24 to 36 characters each, and assembled into bundles of around 30 slips. Even after the manuscript was allowed to circulate or be copied, the work would have circulated as bundles of bamboo slips or small groups. [[Endymion Wilkinson]] calculates that there were probably between 466 and 700 bundles, whose total weight would have been {{Convert|88|-|132|lb}}, which would have been difficult to access and hard to transport. Later copies on silk would have been much lighter, but also expensive and rare. Until the work was transferred to paper many centuries later, circulation would have been difficult and piecemeal, which accounts for many of the errors and variations in the text.{{sfnp|Wilkinson|2012|p=708}}
+
+Sima Qian organized the chapters of ''Records of the Grand Historian'' into five categories, which each comprise a section of the book.
+
+==="Basic Annals"===
+The "Basic Annals" (''běnjì'' {{lang|zh|本紀}}) make up the first 12 chapters of the ''Records'', and are largely similar to records from the ancient Chinese court chronicle tradition, such as the ''[[Spring and Autumn Annals]]''.{{sfnp|Wilkinson|2012|p=706}} The first five cover either periods, such as the [[Three Sovereigns and Five Emperors#Five Emperors|Five Emperors]], or individual dynasties, such as the [[Xia dynasty|Xia]], [[Shang dynasty|Shang]], and [[Zhou dynasty|Zhou]] dynasties.{{sfnp|Wilkinson|2012|p=706}} The last seven cover individual rulers, starting with the [[Qin Shi Huang|First Emperor of Qin]] and progressing through the first emperors of the [[Han dynasty]].{{sfnp|Wilkinson|2012|p=706}} In this section, Sima chose to also include ''de facto'' rulers of China, such as [[Xiang Yu]] and [[Empress Lü Zhi|Empress Dowager Lü]], while excluding rulers who never held any real power, such as [[Emperor Yi of Chu]] and [[Emperor Hui of Han]].{{sfnp|Watson|1958|pp=111–112}}
+
+==="Tables"===
+Chapters 13 to 22 are the "Tables" (''biǎo'' {{lang|zh|表}}), which comprise one genealogical table and nine other chronological tables.{{sfnp|Wilkinson|2012|p=706}} They show reigns, important events, and royal lineages in table form, which Sima Qian stated that he did because "the chronologies are difficult to follow when different genealogical lines exist at the same time."<ref>''Shiji'' 130: 3319, cited in {{harvp|Wilkinson|2012|p=706}}.</ref> Each table except the last one begins with an introduction to the period it covers.{{sfnp|Wilkinson|2012|p=706}}
+
+==="Treatises"===
+The "Treatises" (''shū'' {{lang|zh|書}}, sometimes called "Monographs") is the shortest of the five ''Records'' sections, and contains eight chapters (23–30) on the historical evolution of ritual, music, [[pitch pipe]]s, the calendar, astronomy, sacrifices, rivers and waterways, and financial administration.{{sfnp|Wilkinson|2012|p=706}}
+
+==="Hereditary Houses"===
+The "Hereditary Houses" (''shìjiā'' {{lang|zh|世家}}) is the second largest of the five ''Records'' sections, and comprises chapters 31 to 60. Within this section, the earlier chapters are very different in nature than the later chapters.{{sfnp|Wilkinson|2012|p=706}} Many of the earlier chapters are chronicle-like accounts of the leading states of the [[Zhou dynasty]], such as the states of [[Qin (state)|Qin]] and [[Lu (state)|Lu]], and two of the chapters go back as far as the [[Shang dynasty]].{{sfnp|Wilkinson|2012|p=706}} The later chapters, which cover the Han dynasty, contain biographies.{{sfnp|Wilkinson|2012|p=706}}
+
+==="Ranked Biographies"===
+The "Ranked Biographies" (''lièzhuàn'' {{lang|zh|列傳}}, usually shortened to "Biographies") is the largest of the five ''Records'' sections, covering chapters 61 to 130, and accounts for 42% of the entire work.{{sfnp|Wilkinson|2012|p=706}} The 69 "Biographies" chapters mostly contain biographical profiles of about 130 outstanding ancient Chinese men, ranging from the moral paragon [[Boyi and Shuqi|Boyi]] from the end of the Shang dynasty to some of Sima Qian's near contemporaries.{{sfnp|Wilkinson|2012|p=706}} About 40 of the chapters are dedicated to one particular man, but some are about two related figures, while others cover small groups of figures who shared certain roles, such as assassins, caring officials, or Confucian scholars.{{sfnp|Wilkinson|2012|p=706}} Unlike most modern biographies, the accounts in the "Biographies" give profiles using anecdotes to depict morals and character, with "unforgettably lively impressions of people of many different kinds and of the age in which they lived."{{sfnp|Wilkinson|2012|p=706}} The "Biographies" have been popular throughout Chinese history, and have provided a large number of set phrases still used in modern Chinese.{{sfnp|Wilkinson|2012|p=706}}
+
+==Style==
+[[File:Sima Qian (painted portrait).jpg|thumb|Sima Qian]]
+
+Unlike subsequent official historical texts that adopted [[Confucian]] doctrine, proclaimed the divine rights of the emperors, and degraded any failed claimant to the throne, Sima Qian's more liberal and objective prose has been renowned and followed by poets and novelists. Most volumes of ''Liezhuan'' are vivid descriptions of events and persons. Sima Qian sought out stories from those who might have closer knowledge of certain historical events, using them as sources to balance the reliability and accuracy of historical records. For instance, the material on [[Jing Ke]]'s attempt at assassinating the [[Qin Shi Huang|King of Qin]] incorporates an eye-witness account by Xia Wuju ({{lang|zh|夏無且}}), a physician to the king of [[Qin (state)|Qin]] who happened to be attending the diplomatic ceremony for Jing Ke, and this account was passed on to Sima Qian by those who knew Xia.{{sfnp|Watson|1958|pp=191, 240}}
+
+It has been observed that the diplomatic Sima Qian has a way of accentuating the positive in his treatment of rulers in the Basic Annals, but slipping negative information into other chapters, and so his work must be read as a whole to obtain full information. For example, the information that [[Emperor Gaozu of Han|Liu Bang]] (later Emperor Gaozu of Han), in a desperate attempt to escape in a chase from [[Xiang Yu]]'s men, pushed his own children off his carriage to lighten it, is not given in the emperor's biography, but in the biography of Xiang Yu. He is also careful to balance the negative with the positive, for example, in the biography of [[Empress Lü Zhi|Empress Dowager Lu]] which contains startling accounts of her cruelty, he points out at the end that, despite whatever her personal life may have been, her rule brought peace and prosperity to the country.{{sfnp|Watson|1958|pp=95–98}}
+
+==Source materials==
+Sima's family were hereditary historians to the Han emperor. Sima Qian's father [[Sima Tan]] served as Grand Historian, and Sima Qian succeeded to his position. Thus he had access to the early Han dynasty archives, edicts, and records. Sima Qian was a methodical, skeptical historian who had access to ancient books, written on [[bamboo and wooden slips]], from before the time of the Han dynasty. Many of the sources he used did not survive. He not only used archives and imperial records, but also interviewed people and traveled around China to verify information. In his first chapter, "Annals of the Five Emperors," he writes,<ref>{{cite web |url=http://ctext.org/shiji/wu-di-ben-ji |title=Annals of the Five Emperors |script-title=zh:五帝本紀 |publisher=Chinese Text Project |website=ctext.org |quote={{lang|zh|余嘗西至空桐，北過涿鹿，東漸於海，南浮江淮矣，至長老皆各往往稱黃帝、堯、舜之處，風教固殊焉，總之不離古文者近是。}}}}</ref>
+
+{{poem quote
+|text={{lang|zh|余嘗西至空桐，北過涿鹿，東漸於海，南浮江淮矣，至長老皆各往往稱黃帝、堯、舜之處，風教固殊焉，總之不離古文者近是。|size=110% }}
+
+I myself have travelled west as far as [[Kongtong Mountains|K'ung-t'ung]], north past [[Zhuolu Town|Cho-lu]], east to the sea, and in the south I have sailed the [[Yangtze River|Yangtze]] and [[Huai River]]s. The elders and old men of these various lands frequently pointed out to me the places where the [[Yellow Emperor]], [[Emperor Yao|Yao]], and [[Shun (Chinese leader)|Shun]] had lived, and in these places the manners and customs seemed quite different. In general those of their accounts which do not differ from the ancient texts seem to be near to the truth. 
+|source=Sima Qian, translation by [[Burton Watson]]{{sfnp|Watson|1958|p=183}}}}
+
+The Grand Historian used ''The Annals of the Five Emperors'' ({{lang|zh|五帝系諜}}) and the ''[[Classic of History]]'' as source materials to make genealogies from the time of the [[Yellow Emperor]] until that of the [[Gonghe (regency)|Gonghe regency]] (841–828 BC). Sima Qian often cites his sources. For example, in the first chapter, "Annals of the Five Emperors", he writes, "I have read the ''[[Spring and Autumn Annals]]'' and the ''[[Guoyu (book)|Guoyu]]''." In his 13th chapter, "Genealogical Table of the Three Ages," Sima Qian writes, "I have read all the genealogies of the kings (''dieji'' {{lang|zh|諜記}}) that exist since the time of the Yellow Emperor." In his 14th chapter, "Yearly Chronicle of the Feudal Lords", he writes, "I have read all the royal annals (''chunqiu li pudie'' {{lang|zh|春秋曆譜諜}}) up until the time of [[King Li of Zhou]]." In his 15th chapter, "Yearly Chronicle of the Six States," he writes, "I have read the Annals of [[Qin (state)|Qin]] (''qin ji'' {{lang|zh|秦記}}), and they say that the [[Quanrong]] [a barbarian tribe] defeated [[King You of Zhou]] [ca 771 BC]."
+
+In the 19th chapter, he writes, "I have occasion to read over the records of enfeoffment and come to the case of Wu Qian, the marquis of Bian...." (The father of Marquis Bian, [[Wu Rui]], was named king (wang) of [[Changsha Kingdom|Changsha]] for his loyalty to Gaozu.) In his chapter on the patriotic minister and poet [[Qu Yuan]], Sima Qian writes, "I have read [Qu Yuan's works] ''[[Li Sao]]'', ''[[Tianwen]]'' ("Heaven Asking"), ''Zhaohun'' (summoning the soul), and ''Ai Ying'' ([[Lament for Ying]])". In the 62nd chapter, "Biography of Guan and of Yan", he writes, "I have read Guan's ''Mu Min'' ({{lang|zh|牧民}} - "Government of the People", a chapter in the ''[[Guanzi (text)|Guanzi]]''), ''Shan Gao'' ("The Mountains Are High"), ''Chengma'' ([[chariot]] and horses; a long section on war and economics), ''Qingzhong'' (Light and Heavy; i.e. "what is important"), and ''Jiufu'' (Nine Houses), as well as the ''Spring and Autumn Annals of Yanzi''." In his 64th chapter, "Biography of [[Sima Rangju]]", the Grand Historian writes, "I have read Sima's Art of War." In the 121st chapter, "Biographies of Scholars", he writes, "I read the Imperial Decrees that encouraged education officials."
+[[File:Records of the Grand Historian.jpg|thumb|upright |Chapter 2, ''Annals of Xia'' (Ming dynasty edition)]]
+
+Sima Qian wrote of the problems with incomplete, fragmentary and contradictory sources. For example, he mentioned in the preface to chapter 15 that the chronicle records of the feudal states kept in the [[Zhou dynasty]]'s archive were burnt by [[Qin Shi Huang]] because they contained criticisms and ridicule of the Qin state, and that the Qin annals were brief and incomplete.<ref>{{cite web |url=https://ctext.org/shiji/liu-guo-nian-biao#n5146 |trans-title=Chronological table of the six kingdoms |script-title=zh:六國年表 |publisher=Chinese Text Project |website=ctext.org |quote={{lang|zh|秦既得意，燒天下詩書，諸侯史記尤甚，為其有所刺譏也。詩書所以復見者，多藏人家，而史記獨藏周室，以故滅。惜哉，惜哉！獨有秦記，又不載日月，其文略不具。}}}}</ref> In the 13th chapter he mentioned that the chronologies and genealogies of different ancient texts "disagree and contradict each other throughout". In his 18th chapter, Sima Qian writes, "I have set down only what is certain, and in doubtful cases left a blank."<ref name=translated-Watson/>
+
+==Reliability and accuracy==
+Scholars have questioned the historicity of legendary kings of the ancient periods given by Sima Qian. Sima Qian began the ''Shiji'' with an account of the five rulers of supreme virtue, the [[Three Sovereigns and Five Emperors|Five Emperors]], who modern scholars, such as those from the [[Doubting Antiquity School]], believe to be originally local deities of the peoples of ancient China.{{sfnp|Watson|1958|pp=16–17}} Sima Qian sifted out elements of the supernatural and fantastic which seemed to contradict their existence as actual human monarchs, and was therefore criticized for turning myths and folklore into sober history.{{sfnp|Watson|1958|pp=16–17}}
+
+However, according to [[Joseph Needham]], who wrote in 1954 on Sima Qian's accounts of the kings of the [[Shang dynasty]] (c. 1600 – c. 1050 BC): {{quote|It was commonly maintained that Ssuma Chhien [Sima Qian] could not have adequate historical materials for his account of what had happened more than a thousand years earlier. One may judge of the astonishment of many, therefore, when it appeared that no less than twenty-three of the thirty rulers' name were to be clearly found on the indisputably genuine [[Anyang]] [[oracle bones|bones]]. It must be, therefore, that Ssuma Chhien [Sima Qian] did have fairly reliable materials at his disposal—a fact which underlines once more the deep historical-mindedness of the Chinese—and that the Shang dynasty is perfectly acceptable.|Joseph Needham<ref name=needham>{{cite book |author=Needham, Joseph. |year=1954 |title=Science and Civilization in China: Volume 1, Introductory Orientations |publisher= Cambridge University Press |isbn=0-521-05799-X |url=https://books.google.com/books?id=lNXZGQVdz_gC&pg=PA88 |page=88 }}</ref>}}
+
+While the king names in Sima Qian's history of the Shang dynasty are supported by inscriptions on the oracle bones, there is, as yet, no archaeological corroboration of Sima Qian's history of the [[Xia dynasty]].
+
+There are also discrepancies of fact such as dates between various portions of the work. This may be a result of Sima Qian's use of different source texts.{{sfnp|Watson|1958|p=113}}
+
+==Transmission and supplementation by other writers==
+After ca. 91 BC, the more-or-less completed manuscript was hidden in the residence of the author's daughter, Sima Ying ({{lang|zh|司馬英}}), to avoid destruction under [[Emperor Wu of Han|Emperor Wu]] and his immediate successor [[Emperor Zhao of Han|Emperor Zhao]]. The ''Shiji'' was finally disseminated during the reign of [[Emperor Xuan of Han|Emperor Xuan]] by Sima Qian's grandson (through his daughter), Yang Yun ({{lang|zh|楊惲}}), after a hiatus of around twenty years.
+
+The changes in the manuscript of the ''Shiji'' during this hiatus have always been disputed among scholars. That the text was more or less complete by ca. 91 BC is established in the Letter to Ren'an ({{lang|zh|報任安書}}), composed in the Zhenghe ({{lang|zh|征和}}) era of Emperor Wu's reign. In this letter, Sima Qian describes his work as "spanning from the time of the Yellow Emperor to the present age and consisting of ten tables, twelve basic annals, eight treatises, thirty chapters on hereditary houses, and seventy biographies, together totaling 130 chapters."<ref>{{cite web |url=https://zh.wikisource.org/wiki/%E5%A0%B1%E4%BB%BB%E5%B0%91%E5%8D%BF%E6%9B%B8 |trans-title=Letter to Ren'an |script-title=zh:報任少卿書 |language=zh |website=Wikisource |quote={{lang|zh|報任少卿書：『上計軒轅，下至于茲，為十表，本紀十二，書八章，世家三十，列傳七十，凡百三十篇。』}}}}</ref> These numbers are likewise given in the postface to ''Shiji''.{{sfnp|Watson|1958|pp=56–67}}
+
+After his death (presumably only a few years later), few people had the opportunity to see the whole work. However, various additions were still made to it. The historian [[Liu Zhiji]] reported the names of a total of fifteen scholars supposed to have added material to the ''Shiji'' during the period after the death of Sima Qian. Only the additions by Chu Shaosun ({{lang|zh|褚少孫}}, c. 105 – c. 30 BC) are clearly indicated by adding "Mr Chu said," (Chu xiansheng yue, {{lang|zh|褚先生曰}}). Already in the first century AD, [[Ban Biao]] and [[Ban Gu]] claimed that ten chapters in ''Records of the Grand Historian'' were lacking. <!--must have been completed later .--> A large number of chapters dealing with the first century of the Han dynasty (i.e. the 2nd century BC) correspond exactly to the relevant chapters from the ''[[Book of Han]]'' (''Hanshu''). It is unclear whether those chapters initially came from the ''Shiji'' or from the ''Hanshu''. Researchers Yves Hervouet (1921–1999) and [[A. F. P. Hulsewé]] argued that the originals of those chapters of the ''Shiji'' were lost and they were later reconstructed using the corresponding chapters from the ''Hanshu''.<ref>{{cite book |author=Hulsewé, A. F. P. |year=1979 |title=China in Central Asia: The Early Stage 125 BC – AD 23: an annotated translation of chapters 61 and 96 of the History of the Former Han Dynasty |publisher=E. Brill, Leiden |pages=8–25 |isbn=90-04-05884-2 |url=https://books.google.com/books?id=HzhCAAAAIAAJ&pg=PA8 }}</ref>
+
+==Editions==
+The earliest extant copy of ''Records of the Grand Historian'', handwritten, was made during the [[Southern and Northern Dynasties]] period (420–589 AD). The earliest printed edition, called ''Shiji jijie'' ({{lang|zh|史記集解}}, literally ''Records of the Grand Historian, Collected Annotations''), was published during the [[Northern Song dynasty]]. [[Huang Shanfu]]'s edition, printed under the [[Southern Song dynasty]], is the earliest collection of the ''Sanjiazhu'' commentaries on ''Records of the Grand Historian'' ({{lang|zh|三家注}}, literally: ''The Combined Annotations of the Three Experts'').
+
+In modern times, the [[Zhonghua Book Company]] in [[Beijing]] has published the book in both [[simplified Chinese]] for mass consumption and [[traditional Chinese]] for scholarly study. The 1959 (2nd ed., 1982) ''Sanjiazhu'' edition in traditional Chinese (based upon the Jinling Publishing House edition, see below) contains commentaries interspersed among the main text and is considered to be an authoritative modern edition.
+
+The most well-known [[Book collecting|editions]] of the ''Shiji'' are:
+{| class="wikitable"
+|-
+! Year
+! Publisher
+! Printing technique
+! Notes
+|-
+|[[Southern Song dynasty]] (1127–1279)
+|[[Huang Shanfu]]
+| Block-printed
+| Abbreviated as the Huang Shanfu edition ({{lang|zh|黄善夫本}})
+|-
+| [[Ming dynasty]], between the times of the [[Jiajing Emperor|Jiajing]] and [[Wanli Emperor|Wanli]] Emperors (between 1521 and 1620)
+| The Northern and Southern [[Guozijian|Imperial Academy]]
+| Block-printed
+| published in [[Twenty-Four Histories#Books of the Twenty-Four Histories|21 Shi]]. Abbreviated as the Jian edition ({{lang|zh|监本}})
+|-
+| [[Ming dynasty]]
+| Publisher: the bibliophile [[Mao Jin]] ({{lang|zh|毛晋}}), 1599–1659) and his studio [[Ji Gu Ge]] ({{lang|zh|汲古閣}} or the Drawing from Ancient Times Studio)
+| Block-printed
+| Published in [[Twenty-Four Histories#Books of the Twenty-Four Histories|17 Shi]]. Abbreviated as the Mao Ke edition ({{lang|zh|毛刻本}}) or the Ji Gu Ge edition ({{lang|zh|汲古閣本}})
+|-
+| [[Qing dynasty]], in the time of the [[Qianlong Emperor]] (1711–1799)
+| [[Wu Yingdian]]
+|Block-printed
+| Published in the ''[[Twenty-Four Histories]]'', abbreviated as the Wu Yingdian edition ({{lang|zh|武英殿本}})
+|-
+| [[Qing dynasty]], in the time of the [[Tongzhi Emperor]] (1856–1875)
+| [[Jinling Publishing House]] (in [[Nanjing]])
+| Block-printed
+| Proofreading and copy editing done by [[Zhang Wenhu]]. Published with the ''Sanjiazhu'' commentaries, 130 volumes in total. Abbreviated as the Jinling Ju or Jinling Publishing edition ({{lang|zh|金陵局本}})
+|}
+
+==Notable translations==
+
+===English===
+* [[Herbert J. Allen]], ''Ssŭma Ch‘ien's Historical Records'', The Journal of the Royal Asiatic Society of Great Britain and Ireland, 1894, p. 269-294; 1895, p. 93-110, 601-611, [https://www.sacred-texts.com/cfu/smc/index.htm available online]. (The first English translation of the first three chapters).
+*[[Burton Watson|Watson, Burton]], trans. (1961). ''Records of the Grand Historian of China''. New York: Columbia University Press.
+**Second edition, 1993 (''Records of the Grand Historian''). Translates roughly 90 out of 130 chapters.
+***''Qin Dynasty'', {{ISBN|978-0-231-08169-6}}.
+***''Han Dynasty, Volume 1'', {{ISBN|978-0-231-08165-8}}.
+***''Han Dynasty, Volume 2'', {{ISBN|978-0-231-08167-2}}.
+* [[Yang Xianyi|Yang Hsien-yi]] and [[Gladys Yang]] (1974), ''Records of the Historians''. Hong Kong: Commercial Press.
+**Reprinted by University Press of the Pacific, 2002. Contains biographies of Confucius and Laozi. {{ISBN|978-0835106184}}
+* Raymond Stanley Dawson (1994). ''Historical Records''. New York: Oxford University Press.
+** Reprinted, 2007 (''The First Emperor : Selections from the Historical Records''). Translates only Qin-related material. {{ISBN|9780199574391}}
+* [[William H. Nienhauser, Jr.]], ed. (1994–&nbsp;). ''The Grand Scribe's Records'', 9 vols. Bloomington: Indiana University Press. Ongoing translation, and being translated out of order. As of 2020, translates 92 out of 130 chapters.
+** ''I. The Basic Annals of Pre-Han China'' (2018), {{ISBN|978-0-253-03855-5}}.
+** ''II. The Basic Annals of the Han Dynasty'' (2018), {{ISBN|978-0-253-03909-5}}.
+** ''V. part 1. The Hereditary Houses of Pre-Han China'' (2006), {{ISBN|978-0-253-34025-2}}.
+** ''VII. The Memoirs of Pre-Han China'' (1995), {{ISBN|978-0-253-34027-6}}.
+** ''VIII. The Memoirs of Han China, Part I'' (2008), {{ISBN|978-0-253-34028-3}}.
+** ''IX. The Memoirs of Han China, Part II'' (2010), {{ISBN|978-0-253-35590-4}}.
+** ''X. The Memoirs of Han China, Part III'' (2016), {{ISBN|978-0-253-01931-8}}.
+** ''XI. The Memoirs of Han China, Part IV'' (2019), {{ISBN|978-0-253-04610-9}}.
+
+===Non-English===
+*{{in lang|fr}} [[Édouard Chavannes|Chavannes, Édouard]], trans. (1895–1905). ''Les Mémoires historiques de Se-ma Ts'ien'' ''[The Historical Memoirs of Sima Qian]'', 6 vols.; rpt. (1967–1969) 7 vols., Paris: Adrien Maisonneuve. Left uncompleted at Chavannes' death. William Nienhauser calls it a "landmark" and "the standard by which all subsequent renditions... must be measured."<ref>{{cite encyclopedia|url=https://books.google.com/books?id=C1uXah12nHgC&q=Shi+Ji+Chavannes&pg=PA1283 |title=Encyclopedia of Literary Translation into English |editor-last=Classe |editor-first=Olive |page=1282 |publisher=Fitzroy Dearborn |date=2000|isbn=9781884964367 }}</ref>. Accessible online at [https://www.chineancienne.fr/traductions/se-ma-ts-ien-les-m%C3%A9moires-historiques/ Se-ma Ts'ien: Les Mémoires Historiques - Bibliothèque Chine ancienne] and [http://classiques.uqac.ca/classiques/chine_ancienne/auteurs_chinois.html La bibliothèque numérique Les Classiques des sciences sociales - Collection «Les auteur(e)s classiques» - La Chine ancienne - Les auteurs chinois]. 
+*{{in lang|fr}} [[Édouard Chavannes|Chavannes, Édouard]], [[Maxime Kaltenmark]] [[:fr:Jacques Pimpaneau|Jacques Pimpaneau]], translators. (2015) ''Les Mémoires historiques de Se-Ma Ts'ien'' ''[The Historical Memoirs of Sima Qian]'', 9 vols.; Éditions You Feng, Paris. This is the completed full translation of the ''Shiji''
+*{{in lang|ru}} full translation in 9 vols: Vyatkin, Rudolf V., trans. . ''Istoricheskie Zapiski (Shi-czi) {{lang|ru|[Исторические записки (Ши-цзи)]}}'', 8 vols. Moscow: Nauka (1972–2002); 9th volume: Vyatkin, Anatoly R., trans. (2010), Moscow: Vostochnaya literatura. This is the first complete translation into any European language. Full text available online: [https://www.vostlit.info/Texts/Dokumenty/China/I/Syma_Tsjan/index.htm Сыма Цянь. Исторические записки (Ши цзи)].
+*{{in lang|cmn}} Yang, Zhongxian {{lang|zh|杨钟贤}}; Hao, Zhida {{lang|zh|郝志达}}, eds. (1997). ''Quanjiao quanzhu quanyi quanping Shiji'' {{lang|zh|全校全注全译全评史记}} ''[Shiji: Fully Collated, Annotated, Translated, and Evaluated]'', 6 vols. Tianjin: Tianjin guji chubanshe.
+*(in Mandarin Chinese) Yang, Yanqi 杨燕起; eds. (2001). “Shi Ji Quan Yi"  史记全译, 12 vols. Guiyang: Guizhou renmin chubanshe 贵州人民出版社 .
+*(in Mandarin Chinese) Xu, Jialu 许嘉璐; An, Pingqiu 安平秋, eds. (2003). ''Ershisishi'' ''quanyi: Shiji'' 二十四史全译：史记, 2 vols. Beijing: Hanyudacidian chubanshe. 
+*{{in lang|ja}} Mizusawa, Toshitada {{lang|zh|水澤利忠}}; Yoshida, Kenkō {{lang|zh|吉田賢抗}}, trans. (1996–1998). ''Shiki'' {{lang|zh|史記}} ''[Shiji]'', 12 vols. Tokyo: Kyūko.
+*{{in lang|pl}} Mieczysław J. Künstler, trans. (2000). Sy-ma Ts'ien, ''Syn smoka. Fragmenty Zapisków historyka'', Warszawa: Czytelnik; {{ISBN|83-07-02780-2}}. Selected chapters only.
+*{{in lang|da}} Svane, Gunnar O., trans. (2007). ''Historiske Optegnelser: Kapitlerne 61-130, Biografier 1-70''. Aarhus: Aarhus Universitetsforlag.
+*{{in lang|de}} Gregor Kneussel, Alexander Saechtig, trans. (2016). ''Aus den Aufzeichnungen des Chronisten'', 3 vols. Beijing: Verlag für fremdsprachige Literatur (Foreign Languages Press); {{ISBN|978-7-119-09676-6}}.
+
+==See also==
+*''[[Twenty-Four Histories]]''
+
+== Notes ==
+{{NoteFoot}}
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+; Works cited
+{{refbegin|40em}}
+* {{cite book |last=Durrant |first=Stephen |chapter = ''Shih-chi'' {{lang|zh-Hant|史記}} |title = The Indiana Companion to Traditional Chinese Literature, Vol. 1 |location=Bloomington |publisher = Indiana University Press |editor = William H. Nienhauser Jr. |year = 1986 |oclc = 11841260 |isbn=978-0-253-32983-7 }}
+* {{cite book | first = Stephen | last = Durrant | chapter = The Literary Features of Historical Writing | editor-first = Victor H. | editor-last = Mair | editor-link = Victor H. Mair | title = The Columbia History of Chinese Literature | url = https://archive.org/details/columbiahistoryc00mair | url-access = limited | location = New York, NY | publisher = Columbia University Press | pages = [https://archive.org/details/columbiahistoryc00mair/page/n519 493]–510 | isbn = 0-231-10984-9 | year = 2001 }}
+* {{cite book |last = Hardy |first = Grant |year = 1999 |title = Worlds of Bronze and Bamboo: Sima Qian's Conquest of History |publisher = Columbia University Press |location = New York |url = https://books.google.com/books?id=BeVS1n4iTmcC |isbn = 978-0-231-11304-5 }}
+* {{cite book |first = A. F. P. | last=Hulsewé |author-link = A.F.P. Hulsewé |chapter=''Shih chi'' {{lang|zh|史記}}| editor-first=Michael | editor-last=Loewe | title = Early Chinese Texts: A Bibliographical Guide | location=Berkeley, CA | publisher=Society for the Study of Early China; University of California, Berkeley | year=1993 | pages=405–414 | isbn=1-55729-043-1 }}
+* {{cite book | first=Martin | last=Kern | chapter = Early Chinese literature, Beginnings through Western Han | pages=1–115 | editor-first=Stephen | editor-last=Owen | title=The Cambridge History of Chinese Literature, Volume 1: To 1375 | year=2010 | location = Cambridge, England | publisher = Cambridge University Press | isbn=978-0-521-11677-0 }}
+* {{cite book | first=David R. | last=Knechtges | author-link=David R. Knechtges | chapter = ''Shi ji'' {{lang|zh-Hant|史記}} | editor-first=David R. | editor-last=Knechtges | editor-last2=Chang | editor-first2=Tai-ping | title = Ancient and Early Medieval Chinese Literature, A Reference Guide: Part Two | location = Leiden | publisher=Brill | year=2014 | pages=897–904 | isbn=978-90-04-19240-9 }}
+* {{cite book | first= William | last = Nienhauser | chapter =Sima Qian and the Shiji | pages = 463–484 | title = The Oxford History of Historical Writing: Volume 1: Beginnings to AD 600 | editor-first1 = Andrew | editor1-last = Feldherr | editor2-first = Grant | editor2-last = Hardy | publisher = Oxford University Press | year = 2011 | isbn = 978-0-19-103678-1 }}
+* {{cite book |first=Burton |last = Watson |title = Ssu Ma Ch'ien Grand Historian Of China |url = https://archive.org/stream/ssumachiengrandh012602mbp |publisher=Columbia University Press |year=1958 }}
+* {{cite book | first=Endymion | last=Wilkinson |author-link=Endymion Wilkinson | title=Chinese History: A New Manual | year=2012 |location = Cambridge, MA | publisher=Harvard-Yenching Institute; Harvard University Asia Center | series=Harvard-Yenching Institute Monograph Series '''84''' | isbn=978-0-674-06715-8 | title-link=Chinese History: A New Manual }}
+{{Refend}}
+
+== Further reading ==
+* Yap, Joseph P, (2019). The Western Regions, [[Xiongnu]] and Han, from the Shiji, [[Hanshu]] and [[Hou Hanshu]]. {{ISBN|978-1792829154}}.
+
+== External links ==
+{{Wikisourcelang|zh|史記|''Records of the Grand Historian'' (in Chinese)}}
+*{{cite book |url=https://archive.org/details/ShijiClassicalAndVernacular |title=Records of the Grand Historian, Original and Modern Chinese Translation |date=2004 |publisher=Century Publishing Group |editor1=Xu Jialu ({{lang|zh|許嘉璐}}) |editor2=An Pingqiu ({{lang|zh|安平秋}}) |language=zh |via=Internet Archive}}
+*{{cite web |url=http://ctext.org/shiji |title=Shiji |script-title=zh:史記 |publisher=Chinese Text Project |language=zh, en}} {{cite web |url=http://ctext.org/shiji/ens |title=Shiji (Simplified Chinese version) |script-title=zh:史记 |publisher=Chinese Text Project |language=zh, en}}
+*[http://www.guoxue.com/shibu/24shi/shiji/sjml.htm The Original Text in its Entirety (Chinese)]
+*[http://www.chinaknowledge.de/Literature/Historiography/shiji.html CHINAKNOWLEDGE ''Shiji'' {{lang|zh|史記}} ''Records of the Grand Scribe''.]
+*[http://www.sacred-texts.com/cfu/smc/index.htm ''Ssuma Ch'ien''] at [[Internet Sacred Text Archive]]. Chapters 1–3, ''Ssuma Ch'ien's Historical Records'', translated by [[Herbert J. Allen]]:
+*# [https://archive.org/stream/journalroyalasi71irelgoog#page/n287 "Introductory Chapter"] (1894), ''Journal of the Royal Asiatic Society'' '''26''' (2): 269–295. {{doi|10.1017/S0035869X00143916}}. ([http://www.sacred-texts.com/journals/jras/1894-10.htm text])
+*# [https://archive.org/stream/journalroyalasi74irelgoog#page/n109 "The Hsia Dynasty"] (1895), ''Journal of the Royal Asiatic Society'' '''27''' (1): 93–110. {{doi|10.1017/S0035869X00022784}}. ([http://www.sacred-texts.com/journals/jras/1895-03.htm text])
+*# [https://archive.org/stream/journalroyalasi74irelgoog#page/n633 "The Yin Dynasty"] (1895), ''Journal of the Royal Asiatic Society'' '''27''' (3): 601–615. {{doi|10.1017/S0035869X00145083}}. ([http://www.sacred-texts.com/journals/jras/1895-17.htm text])
+* Part of chapter 63 ''[https://archive.org/details/sacredbooksearly12hornuoft ''The Sacred Books and Early Literature of the East'', Volume XII: Medieval China]'', ed. Charles F. Horne, 1917, pp.&nbsp;396–398.
+
+{{-}}
+{{Twenty-Four Canonical Histories}}
+{{Han Dynasty topics}}
+{{Chinese mythology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Records Of The Grand Historian}}
+
+[[Category:2nd-century BC history books]]
+[[Category:1st-century BC history books]]
+[[Category:Books about civilizations]]
+[[Category:Chinese chronicles]]
+[[Category:Han dynasty literature]]
+[[Category:Han dynasty texts]]
+[[Category:Historiography of China]]
+[[Category:Twenty-Four Histories]]

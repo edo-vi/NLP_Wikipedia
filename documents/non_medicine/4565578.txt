@@ -1,0 +1,25 @@
+In [[traditional Chinese medicine]] and [[Chinese culture]], '''''yuán qì''''' (元氣) or vital qi, innate or prenatal [[qi]]. Inborn qi (Jing 精) is differentiated from acquired qi that a person may develop or replenished over their lifetime. Further more traditionally it is said that the Kidneys are the root of qi, Left being Yuan yin and the right being Yuan [[Yin and yang|yang]]. The transportation of Yuan qi is done via the triple warmer ([[San Jiao]] 三膲) in Chinese medicine, and is associated with the adrenal glands as in western medicine.<ref>{{Cite book |last=Rosen |first=Ross |title=Heart Shock,Diagnosis and Treatment of Trauma with Shen-Hammer and Classical Chinese Medicine |publisher=Jessica Kingsley Publishers |year=2018 |isbn=9780857013309 |pages=328 |language=English}}</ref>
+
+Porkert describes the concept as "the metaphorical designation of the inborn constitution, the vital potential that is gradually used up in the course of life. It may be conserved but never replenished."
+
+The term has been used since at least the Han Dynasty, where it is found in the chapter 'Lu Li Zhi Shang/律历志上' of the History Book, 'Han Shu.'<ref>Gudai hanyu cidian bianxie zubian 2006 : Gudai Hanyi Cidian (Classical Chinese Dictionary). 2006. Beijing: Shangwu yinshuguan.</ref>
+
+==Usage in Japanese==
+
+In modern times it has come to be used in a colloquial manner in Japanese (where it is pronounced '''genki''' (元気)) to mean "healthy" or "energetic", a usage that has more recently been borrowed back into Chinese. This colloquial usage of the term forms the basis of a variety of Japanese expressions, including the standard casual greeting, '''genki desu ka''' (元気ですか), which translates to "are you well?".<ref>{{Cite web |title=元気の英訳 |url=https://eow.alc.co.jp:443/search?q=%e5%85%83%e6%b0%97&ref=sa |access-date=2023-06-12 |website=eow.alc.co.jp |language=ja}}</ref> As the equivalent of "How are you doing?" in English, it is a rhetorical question and generally answered in the affirmative.
+
+==See also==
+*[[Jing (Chinese medicine)|Jing]]
+*[[Neijia]]
+*[[Glossary of alternative medicine]]
+
+==References==
+{{Reflist}}
+*Porkert, ''The Theoretical Foundations of Chinese Medicine''  MIT Press (1974) {{ISBN|0-262-16058-7}}
+
+{{DEFAULTSORT:Yuan Qi}}
+[[Category:Traditional Chinese medicine]]
+
+
+{{china-stub}}
+{{alt-med-stub}}

@@ -1,0 +1,20 @@
+{{short description|Viral disease of goats}}
+'''Caprine arthritis encephalitis''' (CAE) is a [[Virus|viral]] disease of goats caused by a [[lentivirus]] called [[caprine arthritis encephalitis virus]]. The disease is found worldwide.<ref name="Maclachlan 2010"/>
+
+Two syndromes of CAE occur. Adult goats develop a chronic progressive [[arthritis]], whereas young goats develop a neurological syndrome, with signs of [[paresis]] or [[paralysis]].<ref name="Maclachlan 2010">{{cite book|editor1-last=Maclachlan|editor1-first=NJ|editor2-last=Dubovi|editor2-first=EJ|title=Fenner's Veterinary Virology|date=2010|publisher=Academic Press|isbn=9780128011706|pages=294–295|edition=5th|chapter=Caprine arthritis encephalitis virus}}</ref> Less commonly, [[mastitis#Other animals|mastitis]] or [[pneumonia]] may occur.<ref name="Maclachlan 2010"/>
+
+Infection is life-long, and it may be years before signs of the disease occur.<ref name="Stonos 2014">{{cite journal|last1=Stonos|first1=N|last2=Wootton|first2=SK|last3=Karrow|first3=N|title=Immunogenetics of small ruminant lentiviral infections.|journal=Viruses|date=22 August 2014|volume=6|issue=8|pages=3311–33|doi=10.3390/v6083311|pmid=25153344|pmc=4147697|doi-access=free}}</ref> The reason for the long (and variable) period of dormancy of the virus is not known.<ref name="Smith 2011">{{cite book|editor1-last=Smith|editor1-first=MC|editor2-last=Sherman|editor2-first=DM|title=Goat medicine|date=2011|publisher=John Wiley & Sons|isbn=9781119949527|edition=2nd|chapter=Caprine arthritis encephalitis (CAE) and Maedi Visna (MV)}}</ref>
+
+In goats which develop arthritis, the joints become inflamed and swollen, and the goats will slowly lose condition.<ref name="Peacock 1996">{{cite book|last1=Peacock|first1=Christie|title=Improving goat production in the tropics : a manual for development workers|url=https://archive.org/details/bub_gb_93_D6tcj1DcC|date=1996|publisher=Oxfam|location=Oxford|isbn=9780855982690|page=[https://archive.org/details/bub_gb_93_D6tcj1DcC/page/n23 208]|chapter=Caprine arthritis encephalitis}}</ref>  In some cases the goat will not be able to stand. 
+
+In goats which develop the neurological form of the disease, the onset of signs is gradual over several weeks. The hind legs are most often affected. The goat will be uncoordinated, and unable to place its feet properly, so that it "knuckles", that is, it stands with the front of its fetlock on the ground, rather than its hoof. The goat has increased difficulty standing and eventually is unable to stand.<ref name="Smith 2011" />
+
+The disease is spread to goat kids when they drink [[colostrum]] or milk from infected goats.<ref name="Peacock 1996"/> Separating goat kids from infected goats, and feeding the kids with cow's milk, or [[Pasteurization|pasteurized]] goat milk, will prevent infection.<ref name="Maclachlan 2010" /> The disease can be spread from goat to goat via direct contact and body fluids, such as saliva.<ref name="Matthews 2016"/> Blood testing goats for CAE virus before moving them into a new herd will prevent the spread of the disease.<ref name="Matthews 2016">{{cite book|last1=Matthews|first1=JG|title=Diseases of the goat|date=2016|publisher=John Wiley & Sons|isbn=9781119073529|pages=98–102|edition=4th|chapter=Caprine arthritis encephalitis}}</ref> 
+
+There is no known cure. To prevent spread of the disease, infected animals are separated from non-infected goats, or culled.<ref name="Matthews 2016"/> 
+
+== References ==
+{{Reflist}}
+
+{{Veterinary-med-stub}}
+[[Category:Sheep and goat diseases]]

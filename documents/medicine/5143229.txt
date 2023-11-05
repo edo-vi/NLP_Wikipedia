@@ -1,0 +1,10 @@
+{{Short description|Veterinary procedure}}
+
+'''Cystocentesis''' is a [[veterinary]] procedure where a needle is placed into the [[urinary bladder]] through the abdominal wall of an animal and a sample of urine is removed.<ref>{{cite web|title=Cystocentesis|url=http://www.vetmed.wsu.edu/resources/Techniques/cysto.aspx|publisher=Washington State University College of Veterinary Medicine|accessdate=5 October 2013|archive-url=https://web.archive.org/web/20131007022743/http://www.vetmed.wsu.edu/resources/Techniques/cysto.aspx|archive-date=7 October 2013|url-status=dead}}</ref> [[Diagnosis|Diagnostic]] cystocentesis is used to prevent the sample taken for [[urinalysis]] from being contaminated with bacteria, cells and debris from the lower [[urethra|urogenital tract]].<ref>{{cite web|last=Morgan|first=Rhea|title=Cystocentesis|url=http://www.wvc.vetsuite.com/Templates/ContentPages/Articles/ViewArticleContent.aspx?Id=858|publisher=Wurtsboro Veterinary Clinic|accessdate=5 October 2013|archive-url=https://web.archive.org/web/20131006222739/http://www.wvc.vetsuite.com/Templates/ContentPages/Articles/ViewArticleContent.aspx?Id=858|archive-date=6 October 2013|url-status=dead}}</ref>  Therapeutic cystocentesis may be employed to relieve pressure buildup due to urethral obstruction. Therapeutic cystocentesis is typically last resort for relief, as a greatly distended bladder is more likely to rupture when punctured. A safer method of emptying the urinary bladder in this condition is by urethral catheterization.
+
+==References==
+{{reflist}}
+
+[[Category:Veterinary procedures]]
+
+{{Veterinary-med-stub}}

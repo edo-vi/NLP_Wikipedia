@@ -1,0 +1,46 @@
+{{Short description|Species of bacterium}}
+{{more citations needed|date=September 2022}}
+{{Speciesbox
+| image =
+| genus = Mycoplasma
+| species = hyorhinis
+| authority = Switzer 1955 (Approved Lists 1980)
+}}
+
+'''''Mycoplasma hyorhinis''''' is a species of bacteria in the [[Mycoplasmataceae]] family. It is often found as a [[Commensalism|commensal]] in the [[respiratory]] tract of [[Domestic pig|pigs]], and rarely in the skin of humans. ''M. hyorhinis'' is thought to facilitate and exacerbate the development of diseases such as porcine enzootic pneumonia and porcine reproductive and respiratory syndrome (PRRS). Rarely, it may cause mycoplasma arthritis, mycoplasmal polyserositis or mycoplasma [[septicaemia]] in piglets without the involvement of other bacteria. This presents as polyarthritis or polyserositis.
+
+''M. hyorhinis'' can prevent cell death caused by [[nicotinamide phosphoribosyltransferase]] inhibitors.<ref name="pmid32130883">{{cite journal | vauthors=Shats I, Williams JG, Li X | title=Bacteria Boost Mammalian Host NAD Metabolism by Engaging the Deamidated Biosynthesis Pathway | journal= [[Cell Metabolism]] | volume=31 | issue=3 | pages=564–5791 | year=2020 | doi= 10.1016/j.cmet.2020.02.001 | pmc=7194078 | pmid=32130883}}</ref>
+
+==Clinical signs and diagnosis==
+A variety of clinical signs are seen in piglets less than 10-weeks old.
+
+[[Lameness]], [[polyserositis]] and joint swelling are the most common symptoms. A foul-smelling discharge from the ears can occur secondary to [[otitis]]. Less specific signs include poor coat quality, [[pyrexia]], cardiovascular, gastrointestinal, neurological and respiratory signs.
+
+[[Bacterial culture]], [[Immunofluorescence|immunofluorescent antibody testing (IFAT)]], [[complement fixation test]] and [[haemagglutination]] can all be used to confirm the diagnosis.
+
+==Human pathogenicity==
+There is some evidence implicating ''M. hyorhinis'' in the pathogenesis of [[scleroderma]], a chronic systemic disease of humans. One study isolated the bacteria from scleroderma patients.<ref>{{Cite web|url=https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2003077870|title = New Strains of Mycoplasma Hyorhinis as Causative Agents for Autoimmune Disease}}</ref> Another study found that injecting ''M. hyorhinis'' into mice induces a scleroderma-like autoimmune disease.<ref>{{cite journal|pmc=1809115 | pmid=15270845 | doi=10.1111/j.1365-2249.2004.02535.x | volume=137 | title=Mycoplasma infection induces a scleroderma-like centrosome autoantibody response in mice | journal=Clin Exp Immunol | pages=288–97 | last1 = Gavanescu | first1 = I | last2 = Pihan | first2 = G | last3 = Halilovic | first3 = E | last4 = Szomolanyi-Tsuda | first4 = E | last5 = Welsh | first5 = RM | last6 = Doxsey | first6 = S| year=2004 | issue=2 }}</ref> However, more research is needed to confirm or refute the link between ''M. hyorhinis'' and scleroderma.
+
+==Treatment==
+[[Antibiotics]] are the treatment of choice.
+
+==See also==
+* [[Mycoplasma]]
+
+==References==
+{{Reflist}}
+* {{cite web|url=http://en.wikivet.net/Mycoplasma_hyorhinis|publisher=Wikivet|title=''Mycoplasma hyorhinis''|accessdate=13 September 2011}}
+
+==External links==
+* [http://bacdive.dsmz.de/index.php?search=8609&submit=Search Type strain of ''Mycoplasma hyorhinis'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+{{Bacteria classification|state=collapsed}}
+
+{{Taxonbar|from=Q3869017}}
+
+[[Category:Bacterial diseases]]
+[[Category:Swine diseases]]
+[[Category:Pathogenic bacteria]]
+[[Category:Mycoplasma|hyorhinis]]
+
+
+{{Veterinary-med-stub}}

@@ -1,0 +1,12 @@
+{{orphan|date=April 2021}}
+
+'''Feline leukomyelopathy''' ('''FLM'''), is a disorder which affects non-domestic cats. The disorder causes [[Microscopic scale|microscopic]] changes in the brain and spine, causing varying degrees of rear leg weakness and difficulty walking. The disorder was identified in [[Panthera leo melanochaita|panthers]] and [[Bobcat|bobcats]] in Florida in 2019.<ref>{{cite news |last1=Gillis |first1=Chad |title=Florida panthers, bobcats showing signs of poisoning, neurological damage |url=https://www.naplesnews.com/story/news/2019/08/21/panther-florida-endangered-species-act-bobcats-neurological-disorder-damage-fish-wildlife-commission/2059982001/ |access-date=29 May 2021 |work=[[Naples Daily News]] |date=August 21, 2019}}</ref> {{as of|2021}}, the [[Florida Fish and Wildlife Conservation Commission]] (FWC), and its collaborators are continuing extensive testing to determine the cause of the disorder.<ref>{{Cite web|title=Disorder Impacting Panthers and Bobcats |url=http://myfwc.com/wildlifehabitats/wildlife/panther/disorder/|access-date=2021-04-19|website=Florida Fish And Wildlife Conservation Commission|language=en}}</ref><ref>{{Cite news |first=Chad |last=Gillis |title=What's causing neurological issues in Florida panthers?|url=https://www.heraldtribune.com/zz/news/20191230/whats-causing-neurological-issues-in-florida-panthers|access-date=2021-04-19|work=[[Sarasota Herald-Tribune]] |date=December 30, 2019}}</ref>
+
+==References==
+
+{{reflist}}
+
+[[Category:Cat diseases]]
+
+
+{{Veterinary-med-stub}}

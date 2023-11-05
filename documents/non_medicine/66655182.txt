@@ -1,0 +1,54 @@
+{{Short description| Book about vaccination}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox book
+| italic title = <!--(see above)-->
+| name = Stuck: How Vaccine Rumors Start and Why They Don't Go Away
+| image = Stuck How Vaccine Rumors Start and Why They Don't Go Away.jpg
+| alt =
+| caption =
+| author = [[Heidi Larson]]
+| illustrator =
+| cover_artist =
+| country = United Kingdom
+| language = English
+| subject = Vaccines
+| genre =
+| publisher = [[Oxford University Press]]
+| pub_date = 2020
+| media_type =
+| pages = 200<ref name="Gel2020"/>
+| isbn = 9780190077242
+| isbn_note =
+| oclc = 1121083645
+| dewey = 614.4/7
+| congress = RA638 .L37 2020
+}}
+'''''Stuck: How Vaccine Rumors Start and Why They Don't Go Away''''' (2020), published by [[Oxford University Press]] and written by the director of the [[London School of Hygiene and Tropical Medicine]]'s [[Vaccine Confidence Project]], [[Heidi Larson]], looks at what influences attitudes to [[vaccination]]. It was largely compiled before the [[COVID-19 pandemic]] and inspired by her feeling that the dialogue between scientists and the public regarding vaccines was becoming complex on a background of [[Information overload|increasing online information]].
+
+Using historical examples, from 19th century protests against [[smallpox vaccination]] to 21st-century boycotts of [[polio vaccination]] programmes, to show how [[Misinformation related to vaccination|rumours about vaccinations]] spread, the book looks chiefly at [[World Bank high-income economy|high-income countries]] and examines the factors that form opinions about vaccination.
+
+==Publication==
+''Stuck: How Vaccine Rumors Start and Why They Don't Go Away'' was published by [[Oxford University Press]] in 2020, and written by the director of the London School of Hygiene and Tropical Medicine's Vaccine Confidence Project, Heidi Larson.<ref name="Don2020">{{cite journal |last1=Donovan |first1=Joan |title=Vaccines stop diseases safely — why all the suspicion? |journal=Nature |date=22 July 2020 |volume=583 |issue=7818 |pages=680–681 |doi=10.1038/d41586-020-02192-w |bibcode=2020Natur.583..680D |language=en|doi-access=free }}</ref><ref name="And2020">{{cite news |last1=Anderson |first1=Jenny |title=She Hunts Viral Rumors About Real Viruses |url=https://www.nytimes.com/2020/10/13/health/coronavirus-vaccine-hesitancy-larson.html |access-date=5 February 2021 |work=[[The New York Times]] |date=13 October 2020|url-access=subscription}}</ref><ref name="Vaug202">{{cite journal |last1=Vaughan |first1=Adam |title=How to stop vaccine hesitancy |journal=New Scientist |date=21 November 2020 |volume=248 |issue=3309 |pages=12–13 |doi=10.1016/S0262-4079(20)32025-X |pmid=33518972 |pmc=7833418 |bibcode=2020NewSc.248...12V |issn=0262-4079|doi-access=free }}</ref> It was largely compiled before the [[COVID-19 pandemic]].<ref name="Gel2020">{{cite journal |last1=Gellin |first1=Bruce |title=Book Why vaccine rumours stick—and getting them unstuck |journal=The Lancet |date=1 August 2020 |volume=396 |doi=10.1016/S0140-6736(20)31640-8 |s2cid=220872330 |url=https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)31640-8.pdf|doi-access=free }}</ref><ref name="Ham2021">{{cite journal |last1=Hamzelou |first1=Jessica |title=Vaccine misinformation can be fatal – how can we counter it? |journal=New Scientist |date=18 November 2020 |url=https://www.newscientist.com/article/mg24833090-300-vaccine-misinformation-can-be-fatal-how-can-we-counter-it/ |access-date=15 February 2021}}</ref> It has 200 pages,<ref name="Gel2020"/> of which 127 pages cover eight chapters, which are preceded by acknowledgements, prologue and an introduction, and are followed by notes and an index.<ref name="Larson2020">{{cite book |last1=Larson |first1=Heidi |title=Stuck: How Vaccine Rumors Start and Why They Don't Go Away |date=2020 |publisher=Oxford University Press |location=New York |isbn=9780190077242 |language=English}}</ref>
+
+==Synopsis==
+The book addresses [[misinformation related to vaccination]], and asks how vaccine rumors start and why they do not go away.<ref name="Gel2020"/><ref name="Vaug202"/> Looking chiefly at [[World Bank high-income economy|high-income countries]], the book examines social, political, psychological and cultural factors that make up the various mind-sets to vaccination.<ref name="Don2020"/> Larson also uses historical examples, from 19th century protests against [[smallpox vaccination]] to 21st-century boycotts of [[polio vaccination]] programmes, to show how rumours about vaccinations spread.<ref name="Don2020"/> She writes: "Digital media has certainly contributed to the social amplification of risk, but there is no single culprit in this wave of dissent."<ref name="Don2020"/>
+
+Larson was inspired by her feeling that the dialogue between scientists and the public, regarding vaccines, was becoming complex, against a background of a [[Information overload|proliferation of online information]]. However, there is "opportunity for change", if vaccine experts can engage using [[social media]].<ref name="Das2020">{{cite journal |last1=Das |first1=Pamela |title=Heidi Larson: shifting the conversation about vaccine confidence |journal=The Lancet |date=26 September 2020 |volume=396 |issue=10255 |pages=877 |doi=10.1016/S0140-6736(20)31612-3 |pmid=32919523 |language=English |issn=0140-6736|doi-access=free }}</ref>
+
+The book concludes with a call to social media companies to take responsibility for the part their technology plays in disseminating information pertaining to vaccines, because "for vaccine uptake to increase, the public must be inspired to protect one another".<ref name="Don2020"/>
+
+==Reception==
+Released during the COVID-19 pandemic, ''[[The Lancet]]'' stated that "at a time of increasing global uncertainty, Larson's values of respecting other people's views and engaging with them will be crucial".<ref name="Das2020"/> With the challenges of misinformation surrounding [[COVID-19 vaccine]]s, [[Joan Donovan]], writing in ''[[Nature (journal)|Nature]]'', agreed with Larson's findings.<ref name="Don2020"/> The book was also reviewed in the ''[[New Scientist]]''.<ref name="Ham2021"/>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{YouTube|MM-JiQhYDbw|Heidi Larson on her book ''Stuck: How Vaccine Rumors Start – and Why They Don't Go Away'' (2020)}}
+
+{{DEFAULTSORT:Stuck: How Vaccine Rumors Start and Why They Don't Go Away}}
+[[Category:2020 non-fiction books]]
+[[Category:2020 in medicine]]
+[[Category:Vaccination]]
+[[Category:Oxford University Press books]]
+[[Category:Medical books]]

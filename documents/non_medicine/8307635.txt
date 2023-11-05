@@ -1,0 +1,38 @@
+{{Short description|Opening paragraph of an article, chapter, or other written work}}
+{{Self reference|For Wikipedia guidelines on lead sections, see [[Wikipedia:Manual of Style/Lead section]].}}
+A '''lead paragraph''' (sometimes shortened to '''lead'''; in the United States sometimes spelled '''lede''') is the opening [[paragraph]] of an article, book chapter, or other written work that summarizes its main ideas.<ref name=mavensword20001128/> Styles vary widely among the different types and genres of publications, from journalistic [[news style|news-style]] leads to a more [[encyclopaedic]] variety.
+
+==Types of leads==
+*[[News style#Lead|Journalistic leads]] emphasize grabbing the attention of the reader.<ref>{{cite book |author=Peha & Lester |title=Be a Writer: Your Guide to the Writing Life!: Proven Tips and Powerful Techniques to Help Young Writers Get Started |page=125 |publisher=Leverage Factory |year=2006 |url=https://books.google.com/books?id=YFMagLZx2vIC&dq=lede+newspaper&pg=PA125|isbn=9780977300006 }}</ref> In journalism, the failure to mention the most important, interesting or attention-grabbing elements of a story in the first paragraph is sometimes called "burying the lead". Most standard news leads include brief answers to the questions of [[5 Ws|who, what, why, when, where, and how]] the key event in the story took place. In newspaper writing, the first paragraph that summarizes or introduces the story is also called the "blurb paragraph", "teaser text" or, in the United Kingdom, the "standfirst".<ref>{{cite book |last1=Spark |first1=David |last2=Harris |first2=Geoffrey |title=Practical Newspaper Reporting |date=2010 |publisher=Sage Publications |isbn=9781473903340 |pages=89, 90, 94, 167}}</ref>
+*[[Encyclopedia]] leads tend to define the subject matter as well as emphasize the interesting points of the article.
+*[[feature story|Features]] and general articles in [[magazine]]s tend to be somewhere between journalistic and encyclopedian in style and often lack a distinct lead paragraph entirely.
+
+Leads vary enormously in length, intent and content, according to [[genre]].
+
+==Other introductions==
+{{See also|News style#Terms and structure}}
+In [[journalism]], there is the concept of an introductory or summary line or brief paragraph, located immediately above or below the headline, and typographically distinct from the body of the article.<ref name=Standfirst>{{cite web|title=Standfirst|url=http://www.doubletongued.org/index.php/dictionary/standfirst/|work=[[Double-Tongued Dictionary]]|date=15 October 2004|access-date=27 September 2010}}</ref> This can be referred to with a variety of terms, including: the ''standfirst'' (UK),<ref name=Standfirst/> ''kicker'' (US),<ref name=Standfirst/> ''bank head(line)'', ''deck'', ''dek'', or ''subhead'' (US).{{citation needed|date=October 2017}}
+
+A [[foreword]] is a piece of writing sometimes placed at the beginning of a [[book]] or other piece of [[literature]], written by someone other than the author to honour or bring credibility to the work, unlike the [[preface]], written by the author, which includes the purpose and scope of the work.<ref>{{cite web | last = Pope| first = Geoff| title = "Foreword" Versus "Forward" | work = Grammar Girl's Quick and Dirty Tips| publisher = Macmillan Holdings, LLC| date = 18 November 2010| url = https://www.quickanddirtytips.com/education/grammar/foreword-versus-forward| access-date = 8 December 2019}}</ref>
+
+==Spelling==
+The term is sometimes spelled "lede".<ref name="M-W">{{cite web |url= https://www.merriam-webster.com/dictionary/lede |title=Lede |work=Merriam-Webster Online |publisher=Encyclopædia Britannica, Inc |location=Chicago, IL, US |date=2012|access-date=2012-02-28}}</ref> The ''[[Oxford English Dictionary]]'' suggests this arose as an intentional misspelling of "lead", "in order to distinguish the word's use in instructions to printers from printable text,"<ref name="lede, n.2">{{cite web |title=lede, n.2 |url=https://www.oed.com/view/Entry/431803 |website=Oxford English Dictionary |access-date=1 July 2019}}</ref> similarly to "[[wikt:hed|hed]]" for "head(line)" and "[[wikt:dek|dek]]" for "deck". Some sources suggest the altered spelling was intended to distinguish from the use of "[[lead]]" metal strips of various thickness used to separate lines of type in 20th century typesetting.<ref>{{cite book | url=https://archive.org/details/harpelstypograph00harp_0 | page=[https://archive.org/details/harpelstypograph00harp_0/page/246 246] | quote=thin strip of metal separating lines of type. |title = Harpel's Typograph, or Book of Specimens| publisher=Self-published |last1 = Harpel|first1 = Oscar|year = 1870}}</ref><ref name="M-W bury">{{cite web |url=https://www.merriam-webster.com/words-at-play/bury-the-lede-versus-lead |title=Bury the lede or bury the lead: which is right? |website=Merriam-Webster Online}}</ref><ref name=mavensword20001128>{{cite web|url=https://www.randomhouse.com/wotd/index.pperl?date=20001128 |title=The Mavens' Word of the Day: lede |author=Carol |work=RandomHouse.com |at="Maven's Word of the Day" blog (defunct as of 2012) |publisher=Random House/Bertelsmann |location=New York |date=November 28, 2000 |access-date=2012-02-28 |url-status=dead |archive-url=https://web.archive.org/web/20120219122848/http://www.randomhouse.com/wotd/index.pperl?date=20001128 |archive-date=19 February 2012 }}{{tertiary}}</ref> However, the spelling "lede" first appears in journalism manuals only in the 1980s, well after lead typesetting's heyday.<ref name=Owens20110918>{{cite web|url=http://howardowens.com/lede-vs-lead/ |title=lede-vs-lead |author=Owens, Howard |work=HowardOwens.com |publisher=Owens Press |location=New York |date=September 18, 2011 |access-date=2016-06-28 }}</ref><ref name="Metz1977">{{cite book|author=William Metz|title=Newswriting: from lead to "30"|url=https://books.google.com/books?id=3IxbAAAAMAAJ|year=1977|publisher=Prentice-Hall|isbn=978-0-13-617514-8|page=62}}</ref><ref name="Lyons1965">{{cite book|author=Louis Martin Lyons|title=Reporting the news: selections from Nieman reports|url=https://books.google.com/books?id=VuJZAAAAMAAJ|year=1965|publisher=Belknap Press of Harvard University Press|page=286}}</ref><ref name="Hyde2008">{{cite book|author=Grant Milnor Hyde|title=Newspaper Editing - A Manual for Editors, Copyreaders and Students of Newspaper Desk Work|url=https://books.google.com/books?id=9n381QZO_qYC|date=November 2008|publisher=Read Books|isbn=978-1-4437-2632-0}}</ref><ref name="Miller1962">{{cite book|author=Carl G. Miller|title=Modern Journalism|url=https://books.google.com/books?id=deEMAQAAIAAJ|year=1962|publisher=Holt, Rinehart and Winston|page=33|isbn=9780030027307}}</ref><ref name="Mott2000">{{cite book|author=Frank Luther Mott|title=American Journalism: A History of Newspapers in the United States Through 250 Years, 1690–1940|url=https://books.google.com/books?id=MithFeTSzTwC|year=2000|publisher=Routledge/Thoemmes Press|isbn=978-0-415-22893-0}}</ref> The earliest appearance of "lede" cited by the OED is 1951.<ref name="lede, n.2"/> According to [[Grammarist]], "lede" is "mainly journalism jargon".<ref>{{cite web |url =https://grammarist.com/usage/lead-lede/|website=Grammarist.com |title=Lead vs. lede|date=28 March 2011 |access-date =8 December 2019}}</ref>
+
+==See also==
+* [[Abstract (summary)]]
+* [[Editorial]] (also known as a "leader" in British English)
+* [[Introduction (writing)]]
+* [[Inverted pyramid (journalism)]]
+* [[Nut graph]]
+* [[Opening sentence]]
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* {{Wiktionary-inline|lede}}
+
+[[Category:Copy editing]]
+[[Category:Journalism terminology]]
+[[Category:Literature]]
+[[Category:Writing]]

@@ -1,0 +1,17 @@
+{{Short description|Ratio of dark colored to light colored minerals in a rock}}
+'''Color index''' is a [[geology|geological term]], an indicator of the types of [[minerals]] present, and the specific type of [[Rock (geology)|rock]]. The color index of an [[igneous rock]] is a measure of the ratio of dark colored, or [[mafic]], minerals to light colored, or [[felsic]], minerals.<ref name="thisoldearth.net">Igneous Rock Color Index: [http://www.thisoldearth.net/Igneous-Rocks_color.cfm Igneous Rock Color Index], accessdate: March 21, 2017</ref>
+
+Speaking broadly, mineral colour points out the [[specific gravity]] of the mineral, as minerals that are lighter in color tend to be less [[density|dense]]. Darker minerals typically tend to contain more of relatively heavy [[Chemical element|element]]s, notably [[iron]], [[magnesium]], and [[calcium]].<ref name="britannica.com">Britannica.com: [https://www.britannica.com/science/color-index-igneous-rock colour index | igneous rock | Britannica.com], accessdate: March 21, 2017</ref>
+
+==References==
+{{Reflist}}
+
+==External links and references==
+
+*[https://www.britannica.com/science/color-index-igneous-rock britannica.com reference]
+*[https://www.mindat.org/glossary/color_index Another link]
+
+[[Category:Geology]]
+
+
+{{geology-stub}}

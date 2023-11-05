@@ -1,0 +1,92 @@
+{{Short description|Book on historiography of modern China by Paul Cohen}}
+{{Infobox book
+| italic title =  <!--(see above)-->
+| name = Discovering History in China
+| image = Discovering History in China.jpg
+| image_size = 
+| caption = 
+| alt = 
+| author = [[Paul Cohen (historian)|Paul A. Cohen]]
+| title_orig = 
+| orig_lang_code = 
+| title_working = 
+| translator = 
+| illustrator = 
+| cover_artist = 
+| country = USA
+| language = English
+| series = 
+| subject = [[Historiography of China]]
+| genre = 
+| published = 1984; reprinted 2010
+| media_type = 
+| pages = 
+| awards = 
+| isbn = 9780231151924
+| oclc = 
+| dewey = 
+| congress = 
+| preceded_by = 
+| followed_by = 
+| wikisource = 
+| exclude_cover = 
+}}
+'''''Discovering History in China: American Historical Writing on the Recent Chinese Past''''' is a book by [[Paul Cohen (historian)|Paul A. Cohen]] introducing the ideas behind American histories of China since 1840. It was published by [[Columbia University Press]] in 1984 and reprinted with a new preface in 2010.
+
+Cohen presents a sympathetic critique of the dominant paradigms associated with [[John K. Fairbank]] and the historians he trained which shaped the field of [[Area Studies]] after World War II: "China's response to the West" (or "impact-response") and "Tradition and Modernity," which were popular in the 1950s, and Imperialism, which became fashionable in the 1960s in response to American involvement in Vietnam. Cohen, himself trained by Fairbank, sees these paradigms as placing China in a passive role and not being capable of change without a Western impact.
+
+==Cohen's critique==
+Cohen prefaces the book by explaining  “People who are not historians sometimes think of history as the facts about the past. Historians are supposed to know otherwise.... As times change, concerns shift... each generation of historians must rewrite the history written by the preceding generation.”{{sfnb|Cohen|2010|p = ix}}  Up through World War II, he continues, “American writing tended to stress those aspects which the West itself had been most immediately concerned," an intellectual bias which “equated modern with  Western with important; for many Americans of this era, even educated ones, Westernized China and modern China were indistinguishable.”{{sfnb|Cohen|2010| p = 1}} 
+:My real quibble in this book is not with the disciplined, descriptive, application of terms like imperialism, impact, response, or even modern to specific, precisely delimited processes or phenomena that have emerged in the past century or so of Chinese history; what I object to is the use of these concepts as broad, overarching intellectual constructs purporting to tell us what was important –  and by implication not important –  about an entire period of historical time.{{sfnb|Cohen|2010| p = 4}}
+
+Chapter 1, "The Problem with 'China's Response to the West,'" focuses on the "impact and response" framework made popular by [[Teng Ssu-yu]] and Fairbank's 1954 volume of annotated translations,  ''[[China's Response to the West]]''. Chapter 2, "Moving Beyond 'Tradition and Modernity'" focuses on [[Joseph R. Levenson]], [[Mary C. Wright]], and [[Albert Feuerwerker]], all trained by Fairbank. Cohen is particularly doubtful about the analysis of Joseph Levenson, in such early books as ''Liang Ch'i-chao and the Mind of Modern China'' (Harvard University Press, 1954), which assumed that Confucianism and modernity were incompatible and that the traditional order had to be torn down before a modern one could be built up. Likewise Mary Wright, in ''The Last Stand of Chinese Conservatism'' concluded that for China after the [[Taiping Rebellion]],  “the obstacles to successful adaptation to the modern world were not imperialist aggression, Manchu rule, mandarin stupidity, or the accidents of history, but nothing less than the constituent elements of the Confucian system itself.”{{sfnb|Cohen|2010| p = 79}}
+
+Chapter 3. "Imperialism: Reality or Myth?" does not see the concept "imperialism" as a useful tool.
+
+Chapter 4. "Toward a China-Centered History of China" calls for "China-centered history of China" and praises scholarship of the 1970s which shows how to do it.{{sfnb|Cohen|2010|pp= 149-198}}
+
+Cohen returned to the problems of historical writing in his {{cite book |year = 1997 |title = History in Three Keys: The Boxers as Event, Experience, and Myth |publisher = Columbia University Press| location = New York |isbn = 978-0231106504|ref = none}}
+
+==Reception==
+Harriet Zurndorfer's history of western Sinology called the work a "revealing book" and an "insider's discussion" which traces how scholars can move beyond these "Western-centric paradigms" towards a "China-centered" history based on "how the Chinese themselves experienced and wrote about it."{{sfnb|Zurndorfer|1995| p = 38}} Reviews in professional journals for the most part greeted the book. Albert Feuerwerker, writing in the ''[[Journal of Asian Studies]]'' praised Cohen but objected to  "what I believe to be an undue defensiveness" in the analysis of what Cohen calls "the intellectual imperialism" of American historians, and an "excessive gravity" in treating "jejeune political tracts as 'paradigms'" in the chapter on imperialism."{{sfnb|Feuerwerker|1985| p = 579}} Dennis Duncanson was skeptical:  "there is regrettably little novelty to stimulate reflection in this less than comprehensive survey," and did not agree with  "finding fault with other people's 'perceptions'."{{sfnb|Duncanson|1985| p= 131 }}
+
+==Editions and translations==
+* {{cite book |last = Cohen |first = Paul A. |year = 1984|url  = https://books.google.com/books?id=4uQ3FMG0_mMC&q=Discovering+History+in+China:+American+Historical+Writing+on+the+Recent+Chinese+Past | title = Discovering History in China: American Historical Writing on the Recent Chinese Past|publisher = Columbia University Press| location = New York |isbn = 9780231151924|ref = none}}
+*{{cite book |last = Cohen |first = Paul A. |author-mask = 2|year = 2010|url = https://books.google.com/books?id=zzLhbITD4bgC | title = Discovering History in China: American Historical Writing on the Recent Chinese Past |publisher = Columbia University Press| location = New York |isbn = 9780231151924}} 
+* Sato Shin'ichi, tr., Chi no teikokushugi: Orientizumu to Chugoku zo (Intellectual Imperialism: Orientalism and the image of China) (Heibonsha, Tokyo, 1988). 
+*Lin Tongqi, tr., Zhonghua, Beijing, 1989; expanded edition, Zhonghua, 2005
+* Daoxiang Publishing, Taipei, 1991; Lianjing, Taipei, 1991
+* Korean: Sansae Publishing Co., Seoul, 2003) <ref>[http://www.wellesley.edu/sites/default/files/assets/departments/history/files/cohen-cv.pdf Curriculum vitae]</ref>
+
+== References and further reading==
+* {{cite journal |last =Cohen  |first = Paul A. |title =Our Proper Concerns as Historians of China: A Reply to Michael Gasster |journal =The American Asian Review |volume =6 |issue = 1 |pages =1–24
+|date =1988 }}
+* {{cite journal |last =Cohen |first = Paul A |author-mask = 2|title =Cultural China: Some Definitional Issues |journal =Philosophy East and West |volume= 43|issue = 3|pages =557–563 |date =1993 |jstor = 1399582|doi = 10.2307/1399582 }}
+* {{cite journal |last =Duncanson  |first = Dennis |title = (Review) |journal =Journal of the Royal Asiatic Society |series=New Series |volume =117 |issue = 1 |pages =131–132 |date =1985 |url = http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=5708844&fileId=S0035869X00155510
+|doi = 10.1017/S0035869X00155510 |s2cid = 161287140 |access-date = 11 September 2014}} 
+* {{cite journal |last =Feuerwerker |first = Albert |author-link = Albert Feuerwerker |title = (Review) |journal =The Journal of Asian Studies |volume =44 |issue = 3 |pages =579–580 |date =1985 |url = http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=6909352&fileId=S002191180006705X 
+  |doi = 10.2307/2056276 |jstor = 2056276 |s2cid = 162458670 }}
+* {{cite journal |last =Gasster, Michael  |title =Discovering China in the History: Some Comments on Paul Cohen's Discovering History in China |journal =The American Asian Review |date =1987 }}
+* {{cite journal |last =Lu, Hanchao  |title =A Double-Sided Mirror: On Paul Cohen's Discovering History in China |journal =The Chinese Historical Review |volume =14
+|issue = 2 |pages =189–191 |date =2007 |doi = 10.1179/tcr.2007.14.2.189 |s2cid =143605546 }}
+* {{cite journal|last =van de Ven  |first =Hans |title =Recent Studies of Modern Chinese History |journal =Modern Asian Studies
+|volume =30 |issue = 2 |pages =225–269 |date =1996 |doi = 10.1017/S0026749X00016462
+|s2cid =146237017 }}
+* {{cite journal
+|last =Xia |first = Mingfang |title =Modern Chinese History without "Modernity": Paul A. Cohen's Three Dogmas and the Logical Contradictions of the "China-Centred Approach" |journal =Journal of Modern Chinese History |volume =1 |issue = 1 |pages =53–68 |date =2007 
+|doi = 10.1080/17535650701521114
+|s2cid = 143834418 }} 
+* Harriet Zurndorfer, (1988) (Review) ''T'oung Pao'' Second Series, Vol. 74, Livr. 1/3 (1988), pp.&nbsp;150–154 [https://www.jstor.org/stable/4528410].
+* {{cite book |last = Zurndorfer  |first =  Harriet |author-mask = 2|year = 1995 |title = China Bibliography: A Research Guide to Reference Works About China Past and Present |publisher = E.J. Brill; reprint Honolulu: University of Hawa'i Press, 1999| location = Leiden; New York|url=https://books.google.com/books?id=uu5zn7-ImJoC |isbn = 978-9004102781}}
+
+==Notes==
+{{Reflist|2}}
+
+== External links ==
+* [https://web.archive.org/web/20120704114252/http://www.morbid-romantic.net/2011/05/14/book-review-discovering-history-in-china-by-paul-a-cohen/ Review]
+{{Portal bar|China}}
+
+<!--- Categories --->
+[[Category:1984 non-fiction books]]
+[[Category:Historiography of China]]
+[[Category:History books about China]]

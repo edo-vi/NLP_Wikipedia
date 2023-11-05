@@ -1,0 +1,61 @@
+[[Image:Ausopen margaret court arena medium.jpg|thumbnail|300px|Margaret Court Arena in 2005 at the Australian Open before its renovation and change of court surface. Rod Laver Arena, the centre court, in the background.]]
+The '''Extreme Heat Policy''' is a rule pertaining to the [[Australian Open]] ([[tennis]]). It was introduced in 1998 after consultation with a number of tennis players. Its current iteration was first implemented in 2019 and uses a scale of 1 to 5 that accounts for the physiological variances between adults, wheelchair and junior athletes while also taking into account the four climate factors – air temperature, radiant heat or the strength of the sun, humidity and wind speed – which affect a player’s ability to disperse heat from their body.
+
+==Changes for 2015==
+
+Following severe criticism of the handling of the [[2014 Australian Open]], organisers increased the temperature threshold from the 2003 level of {{cvt|35|to|40|°C}} and increased the [[wet-bulb globe temperature]] (WBGT) threshold from the 2003 level of {{cvt|28|to|32.5|°C|0}} to allow for more continuous play and fewer stoppages in the future.<ref name="apnewsarchive.com">{{cite web| url = https://apnews.com/3bfc62ed047546232185b206ab066848| title = Australian Open Unveils New Policy}}</ref>
+
+WBGT charts show that the new threshold may not be triggered even if the temperature reaches {{cvt|50|°C}} when there is no humidity.<ref>{{cite web| url = http://www.chrononhotonthologos.com/misc/hyg-wbgt-x.png| title = Reference at www.chrononhotonthologos.com}}</ref>
+
+When the policy is implemented, matches will now be halted after an even number of games in the set, rather than at the conclusion of the set.
+
+There will also be a retractable roof available on [[Margaret Court Arena]] for the first time.
+
+==History==
+In 1988, Rod Laver Arena opened making the Australian Open the first Grand Slam to feature a retractable roof. The initial heat policy allowed for the roof to be closed when the temperature rose above {{cvt|39|°C}} or at the referee's discretion when the temperature rose above {{cvt|35|°C}}, but only for daytime matches and only once all singles matches could be scheduled inside Rod Laver Arena.<ref name="nytimes.com">{{cite news| url = https://www.nytimes.com/1997/01/21/sports/australian-open-hits-the-roof-as-the-temperatures-soar.html| title = Australian Open Hits the Roof as the Temperatures Soar - The New York Times| newspaper = The New York Times| date = 21 January 1997| last1 = Finn| first1 = Robin}}</ref><ref>{{cite web| url = https://apnews.com/7974ddbcfa586ca208507922765687bc| title = Australian Open comes in out of the heat}}</ref> This effectively meant that the heat policy could only go in effect in the quarterfinals or later in the tournament.
+
+Officials considered closing the roof for the final in 1993 due to a temperature of {{cvt|40|°C}},<ref>{{cite web| url = http://articles.latimes.com/1993-01-31/sports/sp-1174_1_australian-open| title = Archives - Los Angeles Times| website = [[Los Angeles Times]]| date = 31 January 1993}}</ref> but [[Jim Courier]] threatened to boycott the match unless the roof remained open.<ref>{{cite web| url = http://www.australianopen.com/en_AU/event_guide/history/draws/1993_MS_1.html| title = Home {{!}} Australian Open}}</ref>
+
+The heat rule was first invoked during the quarterfinal round in 1997.<ref name="nytimes.com"/>
+
+In 1998, a new policy was implemented calling for play on all courts to be stopped if the temperature reached {{cvt|40|°C}}. This was later changed in 2002 to {{cvt|38|°C}}.
+
+The 2002 women's final was played in {{cvt|35|°C}} heat, which triggered a 10-minute break between the 2nd and 3rd sets but no halt in play.<ref>{{cite web| url = http://sportsillustrated.cnn.com/tennis/2002/australian_open/news/2002/01/25/ausopen_day13_ap/| title = Reference at sportsillustrated.cnn.com}}</ref>
+
+Beginning with the 2003 tournament the policy was changed to {{cvt|35|°C}} and a WBGT of {{cvt|28|°C}}.<ref name="apnewsarchive.com"/>
+
+The new policy was invoked on January 20, 2003 on a day when the temperature reached {{cvt|37|°C}} and the WBGT reached the {{cvt|28|°C}} mark.<ref>{{cite web| url = http://www.theage.com.au/articles/2003/01/20/1042911328214.html| title = Quirks in heat policy are exposed| date = 21 January 2003}} </ref> Play was halted for the minimum 2 hours.
+
+After the extreme heat policy was invoked in consecutive years in 2006 and 2007, the policy was again changed starting in 2008 to allow matches in progress to be halted at the conclusion of the set.  Prior to that a match already underway had to be completed.  The policy was further changed in 2008 to allow play to be stopped only at the discretion of the tournament referee, rather than relying solely on temperature and WBGT calculations.<ref>{{Cite web |url=http://www.tenniscountry.com/blog/2007/12/in_the_heat_of_a_tennis_match.html |title=Tennis Country: In the Heat of a Tennis Match |access-date=2014-01-16 |archive-url=https://web.archive.org/web/20140118195544/http://www.tenniscountry.com/blog/2007/12/in_the_heat_of_a_tennis_match.html |archive-date=2014-01-18 |url-status=dead }}</ref>
+
+The policy was invoked several times in 2009, the hottest tournament to date with an average temperature of {{cvt|34.7|°C}}.<ref>{{cite web|url=http://au.sports.yahoo.com/tennis/news/article/-/20804692/extreme-heat-forces-rare-aussie-open-suspension/ |title=Extreme heat forces rare Aussie Open suspension - Yahoo!7 Sport |accessdate=2014-01-16 |url-status=dead |archiveurl=https://web.archive.org/web/20140201183339/http://au.sports.yahoo.com/tennis/news/article/-/20804692/extreme-heat-forces-rare-aussie-open-suspension/ |archivedate=2014-02-01 }}</ref>
+
+The policy was invoked on day 2 of the 2023 tournament was temperatures reached 98 degrees Fahrenheit with a feel of 101 degrees Fahrenheit. Play was suspended on all courts that did not have a roof.
+
+==Criticism==
+===2014===
+The extreme heat policy came under criticism during the [[2014 Australian Open]] after ballboys, attendants in the stands, and players were suffering various heat-related illnesses due to four consecutive days with highs between {{cvt|41.5|and|43.9|°C}}, but organizers claimed the humidity remained low enough on all but one day for the policy not to be enforced; tournament referee Wayne McKewen said that "While conditions were hot and uncomfortable, the relatively low level of humidity ensured that conditions never deteriorated to a point where it was necessary to invoke the extreme heat policy".<ref>{{cite web|url = https://www.theguardian.com/sport/2014/jan/14/australian-open-slammed-inhumane-conditions-heat-tennis|title= Australian Open slammed for 'inhumane' conditions in extreme heat|date=15 January 2014|work=Guardian|accessdate=15 January 2014}}</ref> [[Frank Dancevic]], who began to hallucinate and collapse during his 6–7<sup>(12–14)</sup>, 3–6, 4–6 loss to [[Benoît Paire]], described the conditions as "inhumane" while severely criticising the policy, and [[Andy Murray]] voiced his concerns about people's safety, stating that "it only takes one bad thing to happen". [[Ivan Dodig]], who also collapsed and was forced to retire, said afterwards that he feared he might die in the extreme conditions.<ref>{{cite news| url = https://www.bbc.co.uk/sport/tennis/25741891| title = Australian Open 2014: Ivan Dodig 'feared he might die' in heat - BBC Sport| work = BBC Sport}}</ref> Nine players retired during the second day, while [[Daniel Gimeno-Traver]] carried off a ball boy who fainted during his match and [[Peng Shuai]] was amongst many throughout the tournament that required medical attention. [[Jo-Wilfried Tsonga]] and [[Caroline Wozniacki]] noted that their shoes and water bottles were beginning to melt in the conditions,<ref name="burlington">{{cite web|url=http://www.burlingtonfreepress.com/usatoday/article/4471083&usatref=sportsmod |archive-url=https://archive.today/20140116031103/http://www.burlingtonfreepress.com/usatoday/article/4471083&usatref=sportsmod |url-status=dead |archive-date=16 January 2014 |title=Players, officials affected by Australian Open heat |date=14 January 2014 |work=Burlington Free Press |accessdate=16 January 2014 }}</ref> while [[Serena Williams]] and [[Victoria Azarenka]] said that the heat was affecting their play.
+
+[[Roger Federer]], however, agreed with the referee's decision, saying that adequate training and preparation should be enough to cope with the weather. [[Gilles Simon]], who was injured prior to the tournament, took a similar view and said that the heat improved his game.<ref name="burlington"/>
+
+On the second day of the tournament the temperature reached {{cvt|42.2|°C}}.  On the third day it reached {{cvt|41.5|°C}}.  On the fourth day it reached {{cvt|43.3|°C}}.  On the fifth day it reached {{cvt|43.9|°C}} with 6% humidity.  Play continued uninterrupted for the second, third, and fifth days and was stopped for 4 hours on the fourth day.<ref>{{cite news |url=https://www.bbc.com/sport/0/tennis/25755065 |title=Australian Open: Medical officer defends extreme heat policy |website=BBC |date=16 January 2014 |access-date=30 January 2022}}</ref>  For many players the stoppage was closer to 3 hours because they had to complete the set in progress even after the policy went into effect.  On Rod Laver Arena, Maria Sharapova and Karin Knapp had to complete a 3rd set that lasted nearly 2 hours and 18 games.  On the third day 970 fans had been treated for heat exhaustion.<ref>{{cite web| url = http://www.skynews.com.au/topstories/article.aspx?id=942452| title = Sky News Australia {{!}} Skynews.com.au — Australian News Headlines & World News Online from the best award winning journalists}}</ref>
+
+While the exact WBGT on these days has not been revealed by the organizers, it is clear that had the earlier 1998 policy been still in effect play would have been halted all 4 days once the temperature exceeded 40 degrees Celsius.
+
+The extreme heat resulted in a record number of 9 withdraws in the first round.<ref>{{cite web| url = https://www.theguardian.com/sport/2014/jan/15/australian-open-2014-heat-withdrawals| title = Heat-hit Australian Open suffers record number of pullouts in first round {{!}} Australian Open 2014 {{!}} The Guardian| website = [[TheGuardian.com]]| date = 15 January 2014}}</ref>
+
+===Spectator lawsuit===
+On January 24, 2015, the ''[[Herald Sun]]'' reported that Susan Carman sued the Melbourne & Olympic Parks Trust for failing to close the roof at [[Hisense Arena]] during [[Andy Murray]]'s second round match in the [[2013 Australian Open]]. The temperature that day reached {{cvt|40|°C}}. Carman says she fell down the stairs while seeking shade.<ref>{{cite web| url = http://www.heraldsun.com.au/news/law-order/hot-and-bothered-fan-suing-tennis-chiefs-for-not-providing-shade/story-fni0fee2-1227195190813| title = Reference at www.heraldsun.com.au}} </ref>
+
+==See also==
+{{Portal|Tennis|Australia}}
+*[[Australian Open]]
+
+==References==
+{{reflist}}
+
+{{Australian Open championships}}
+
+[[Category:Australian Open (tennis)|Extreme heat policy]]
+[[Category:Sports controversies]]
+[[Category:Tennis culture]]

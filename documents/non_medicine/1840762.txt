@@ -1,0 +1,53 @@
+{{Short description|Ancient isolated water body}}
+{{Redirect|Water mining|extraterrestrial water and ice mining|In situ resource utilization#Water}}
+'''Fossil water''' or '''paleowater''' is an ancient body of water that has been contained in some undisturbed space, typically groundwater in an [[aquifer]], for millennia. Other types of fossil water can include [[subglacial lake]]s, such as Antarctica's [[Lake Vostok]], and even ancient water on other planets.
+
+[[UNESCO]] defines ''fossil [[groundwater]]'' as<ref name=":0">{{Cite web|title = Non-renewable groundwater resources: a guidebook on socially-sustainable management for water-policy makers; 2006 |url=http://www.unesco.org/ulis/cgi-bin/ulis.pl?catno=146997&set=005671D42B_3_346&gp=1&lin=1&ll=1 |website=unesco.org |access-date = 2015-12-16}}</ref>
+{{quote | water that [[Infiltration (hydrology)|infiltrated]] usually millennia ago and often under climatic conditions different from the present, and that has been stored underground since that time. | Dr Karin Kemper | Non-Renewable Groundwater Resources: A guidebook socially-sustainable management for water-policy makers, UNESCO 2006}}
+
+Determining the time since water infiltrated usually involves analyzing [[isotopic signature]]s. Determining "fossil" status—whether or not that particular water has occupied that particular space since the distant past—involves modeling the flow, [[Groundwater recharge|recharge]], and losses of aquifers, which can involve significant uncertainty. Some aquifers are hundreds of meters deep and underlie vast areas of land. Research techniques in the field are developing quickly and the scientific knowledge base is growing. In the cases of many aquifers, research is lacking or disputed as to the age of the water and the behavior of the water inside the aquifer.<ref>{{Cite web |title=Deep Water: Researchers find more below than previously thought |url=https://news.usask.ca/articles/research/2021/deep-water-researchers-find-more-below-than-previously-thought.php |access-date=2023-05-09 |website=News |language=en}}</ref><ref>{{Cite journal |last=McIntosh |first=Jennifer C. |last2=Ferguson |first2=Grant |date=2021-03-16 |title=Deep Meteoric Water Circulation in Earth's Crust |url=https://onlinelibrary.wiley.com/doi/10.1029/2020GL090461 |journal=Geophysical Research Letters |language=en |volume=48 |issue=5 |doi=10.1029/2020GL090461 |issn=0094-8276}}</ref>
+
+== Renewability ==
+Large, prolific aquifers (notably the [[Nubian Sandstone Aquifer System]] and the [[Ogallala Aquifer]]) containing fossil water are of significant socio-economic value. Fossil water is extracted from these aquifers for many human purposes, notably, [[agriculture]], [[Industrial sector|industry]], and consumption. In [[arid region]]s, some aquifers containing available and usable water receive little to no significant recharge, effectively making groundwater in those aquifers a [[non-renewable resource]]. Extraction rates greater than recharge rates result in lowering of the water table and can lead to [[groundwater depletion]]. Extraction of non-renewable groundwater resources is referred to as groundwater "mining" because of their finite nature.<ref>{{Cite web|title=Glossary of Hydrologic Terms |url=http://www.nws.noaa.gov/om/hod/SHManual/SHMan014_glossary.htm |website=nws.noaa.gov |access-date = 2015-12-16}}</ref>
+
+== General geology ==
+Aquifers are typically composed of semi-[[porous rock]] or unconsolidated material whose pore space has been filled with water. In the relatively rare cases of confined aquifers, an impermeable geologic layer (e.g. [[clay]] or [[Caliche|calcrete]]) encloses an aquifer, isolating the water within, sometimes for millennia. More commonly, fossil water is found in arid or semi-arid regions where the climate was significantly more humid in recent geologic history. In some semi-arid regions, the majority of precipitation evaporates before it can infiltrate and result in any significant [[aquifer recharge]].
+
+Most fossil groundwater has been estimated to have originally infiltrated within the [[Holocene]] and [[Pleistocene]] (10,000–40,000 years ago). Some fossil groundwater is associated with the melting of ice in the time since the [[Last Glacial Maximum|last glacial maximum]]. Dating of groundwater relies on measuring concentrations of certain stable isotopes, including {{chem|3|H}} ([[tritium]]) and {{chem|18|O}} ([[Isotopes of oxygen|"heavy" oxygen]]), and comparing values with known concentrations of the [[Geologic time scale|geologic past]].<ref name=":0" />
+
+Fossil water can potentially dissolve and absorb a number of ions from its host rock. [[Salinity]] in groundwater can be higher than seawater.<ref>"Groundwater Information Sheet: Salinity". CA State Water Resources Control Board. http://www.waterboards.ca.gov/gama/docs/coc_salinity.pdf</ref> In some cases, some form of treatment is required to make these waters suitable for human use. Saline fossil aquifers can also store significant quantities of [[petroleum|oil]] and<ref>{{Cite news|url = http://newsok.com/|title = Reading the Rock|last = Wilmoth|first = Adam|date = 2015-11-29|work = The Oklahoman|access-date = 2015-12-21|via = m.newsok.com/article/5463442}}</ref> [[natural gas]].<ref>{{Cite web|title=The Basics of Underground Natural Gas Storage - U.S. Energy Information Administration |url=https://www.eia.gov/naturalgas/storage/basics |website=eia.gov |access-date=2015-12-16}}</ref>
+
+== Notable bodies of fossil water ==
+
+=== Ogallala Aquifer ===
+{{Main|Ogallala Aquifer}}
+The Ogallala or High Plains Aquifer sits under 450,000&nbsp;km<sup>2</sup> of 8 states of the United States of America. It is one of the largest [[Fresh water|freshwater]] deposits in the world. The aquifer is composed of unconsolidated [[Alluvium|alluvial]] deposits. Groundwater in this aquifer has been dated to have been deposited in the humid time following the last glacial maximum.<ref>{{Cite book|title = Environmental Science|url = https://archive.org/details/environmentalsci0000mcki_y4n3|url-access = registration|publisher = Jones & Bartlett Publishers|date = 2012-07-01|isbn = 9781449628338|first = Michael L.|last = McKinney|first2 = Robert|last2 = Schoch|first3 = Logan|last3 = Yonavjak}}</ref> In much of the aquifer's area, an impermeable layer of calcrete prevents precipitation from infiltrating. In other regions of the aquifer, some relatively small rates of recharge have been measured.<ref>{{Cite web|title = Groundwater depletion in the United States (1900–2008)|url = https://pubs.er.usgs.gov/publication/sir20135079|website = pubs.er.usgs.gov|access-date = 2015-12-16}}</ref>
+
+The aquifer supplies water for the many people who live above it and for widespread agricultural uses. In many areas, the water table has dropped drastically due to heavy extraction. Depletion rates are not stabilizing; in fact, they have been increasing in recent decades.<ref>{{Cite web|title = USGS High Plains Aquifer WLMS: Generalized geology and hydrogeology|url = http://ne.water.usgs.gov/ogw/hpwlms/hydsett.html|website = ne.water.usgs.gov|access-date = 2015-12-16}}</ref>[[File:ManMadeRiverLibya-7A.jpg|thumb|300px|Transport of pipe segments for the [[Great Manmade River]] in [[Libya]]: a network of pipes that supplies [[water]] from the [[Nubian Sandstone Aquifer System]].]]
+
+=== Nubian Sandstone Aquifer System ===
+{{Main|Nubian Sandstone Aquifer System}}
+The Nubian Sandstone Aquifer System is located in northeastern Africa, under the nations of Sudan, Libya, Egypt, and Chad, covering about 2,000,000&nbsp;km<sup>2</sup>. It is largely composed of many hydraulically interconnected [[sandstone]] aquifers. Some parts of the system are considered to be confined, if somewhat leaky, due to impermeable layers such as marine shales. The water was deposited between 4,000 and 20,000 years ago, varying by specific locality.<ref>{{Cite journal|title = Groundwater Resources of the Nubian Aquifer System|last = Thorweihe|first = Ulf|date = 1998|journal = [[Sahara and Sahel Observatory]]}}</ref>
+
+The water in the Nubian Sandstone Aquifer System is of high importance to the people living above it, and has been for millennia. In modern times, as demand increases, avoiding rapid depletion and international conflict will depend on careful cross-boundary monitoring and planning. Libya and Egypt are currently planning development projects to withdraw significant amounts of the aquifer's fossil water for use.
+
+Other fossil aquifers have been identified throughout Northern Africa as well.
+
+=== Kalahari Desert aquifers ===
+The [[Kalahari Desert]] is in central southern Africa (Botswana, Namibia, and South Africa). Geology of the area includes significant [[karst]] formations. Most of the precipitation in the region evaporates before it can contribute to significant recharge of the aquifers below. Whether or not the region's aquifers receive any significant recharge has long been the subject of debate and research.<ref>{{Cite journal|title = Groundwater recharge in the Kalahari, with reference to paleo-hydrologic conditions|journal = Journal of Hydrology|date = 2000-11-30|pages = 110–123|volume = 238|issue = 1–2|doi = 10.1016/S0022-1694(00)00325-5|first = J. J.|last = de Vries|first2 = E. T.|last2 = Selaolo|first3 = H. E.|last3 = Beekman}}</ref> In the northern region of the Kalahari, a deep aquifer in Cave sandstone was found to have isotopic signatures that suggested it had been confined with little to no leakage for long periods of time.<ref>{{Cite journal|title = Northern Kalahari groundwaters: Hydrologic, istopic and chemical studies at Orapa, Botswana|journal = Journal of Hydrology|pages = 203–234|volume = 34|issue = 3–4|doi = 10.1016/0022-1694(77)90132-9|first = E.|last = Mazor|first2 = B.Th.|last2 = Verhagen|first3 = J.P.F.|last3 = Sellschop|first4 = M.T.|last4 = Jones|first5 = N.E.|last5 = Robins|first6 = L.|last6 = Hutton|first7 = C.M.H.|last7 = Jennings|year = 1977}}</ref>
+
+==See also==
+{{Portal|Water}}
+* [[Artesian aquifer]]
+* [[Water scarcity]]
+* [[Water pollution]]
+**[[Groundwater contamination]]
+* [[Overdrafting]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Hydrology]]
+[[Category:Geology]]

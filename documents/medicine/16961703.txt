@@ -1,0 +1,129 @@
+{{Short description|COX-2 selective NSAID veterinary drug}}
+{{Use American English|date=August 2022}}
+{{Use dmy dates|date=August 2022}}
+{{Infobox drug
+| Verifiedfields = changed
+| verifiedrevid = 443742691
+| image = Firocoxib.svg
+| alt = 
+| image2 = Firocoxib-3D-spacefill.png
+| alt2 = Firocoxib molecule
+
+<!-- Clinical data -->
+| pronounce = 
+| tradename = Equioxx, Previcox
+| Drugs.com = {{drugs.com|vet|equioxx-injection}}<br />{{drugs.com|vet|previcox-firocoxib-chewable-tablets}}
+| MedlinePlus = 
+| DailyMedID = Firocoxib
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_AU_comment = 
+| pregnancy_category = 
+| routes_of_administration = [[Oral administration|By mouth]]
+| class = 
+| ATCvet = yes
+| ATC_prefix = M01
+| ATC_suffix = AH90
+| ATC_supplemental = 
+
+<!-- Legal status -->
+| legal_AU = S4
+| legal_AU_comment = 
+| legal_BR = <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F -->
+| legal_BR_comment = 
+| legal_CA          = Rx-only
+| legal_CA_comment  = 
+| legal_DE = <!-- Anlage I, II, III or Unscheduled -->
+| legal_DE_comment = 
+| legal_NZ = <!-- Class A, B, C -->
+| legal_NZ_comment = 
+| legal_UK = POM
+| legal_UK_comment = 
+| legal_US = Rx-only
+| legal_US_comment = <ref name="Equioxx FDA label">{{cite web | title=Equioxx- firocoxib tablet, chewable | website=DailyMed | date=14 July 2020 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3f891a61-ce58-4cc1-97e2-a161907ea8eb | access-date=2 August 2022 | archive-date=3 August 2022 | archive-url=https://web.archive.org/web/20220803063530/https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3f891a61-ce58-4cc1-97e2-a161907ea8eb | url-status=live }}</ref><ref>{{cite web | title=Equioxx- firocoxib paste | website=DailyMed | date=24 February 2022 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17db1d7d-3683-4030-9039-296a882cc072 | access-date=2 August 2022 | archive-date=3 August 2022 | archive-url=https://web.archive.org/web/20220803063531/https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17db1d7d-3683-4030-9039-296a882cc072 | url-status=live }}</ref><ref name="Previcox FDA label">{{cite web | title=Previcox- firocoxib tablet, chewable | website=DailyMed | date=23 July 2020 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e6d96ec6-04a4-4986-ac9d-82aa79b28bd4 | access-date=2 August 2022 | archive-date=3 August 2022 | archive-url=https://web.archive.org/web/20220803063530/https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e6d96ec6-04a4-4986-ac9d-82aa79b28bd4 | url-status=live }}</ref>
+| legal_EU = Rx-only
+| legal_EU_comment = <ref name="Equioxx EPAR">{{cite web | title=Equioxx EPAR | website=European Medicines Agency | url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/equioxx | access-date=2 August 2022 | archive-date=25 April 2022 | archive-url=https://web.archive.org/web/20220425005842/https://www.ema.europa.eu/en/medicines/veterinary/EPAR/equioxx | url-status=live }}</ref><ref name="Previcox EPAR">{{cite web | title=Previcox EPAR | website=European Medicines Agency | url=https://www.ema.europa.eu/en/medicines/veterinary/EPAR/previcox | access-date=2 August 2022 | archive-date=31 July 2021 | archive-url=https://web.archive.org/web/20210731052019/https://www.ema.europa.eu/en/medicines/veterinary/EPAR/previcox | url-status=live }}</ref>
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV -->
+| legal_UN_comment = 
+| legal_status = Veterinary use only
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| metabolites = 
+| onset = 
+| elimination_half-life = 
+| duration_of_action = 
+| excretion = 
+
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 189954-96-9
+| CAS_supplemental = 
+| PubChem = 208910
+| IUPHAR_ligand = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB09217
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 181008
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Y6V2W4S4WT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03712
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 76136
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 69998
+| NIAID_ChemDB = 
+| PDB_ligand = 
+| synonyms = 
+
+<!-- Chemical and physical data -->
+| IUPAC_name = 3-(Cyclopropylmethoxy)-5,5-dimethyl-4-(4-methylsulfonylphenyl)furan-2-one
+| C=17 | H=20 | O=5 | S=1 
+| SMILES = O=C2OC(C(=C2\OCC1CC1)\c3ccc(cc3)S(=O)(=O)C)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H20O5S/c1-17(2)14(12-6-8-13(9-7-12)23(3,19)20)15(16(18)22-17)21-10-11-4-5-11/h6-9,11H,4-5,10H2,1-3H3
+| StdInChI_comment = 
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FULAPETWGIGNMT-UHFFFAOYSA-N
+| density = 
+| density_notes = 
+| melting_point = 
+| melting_high = 
+| melting_notes = 
+| boiling_point = 
+| boiling_notes = 
+| solubility = 
+| sol_units = 
+| specific_rotation = 
+}}
+
+'''Firocoxib''' sold under the brand names '''Equioxx''' and '''Previcox''' among others, is a [[nonsteroidal anti-inflammatory drug]] of the [[COX-2 inhibitor]] (coxib) class, approved for use in horses (Equioxx) and for use in dogs (Previcox).<ref name="Equioxx FDA label" /><ref name="Previcox FDA label" /><ref name="Rangel-Nava_2019">{{cite journal | vauthors = Rangel-Nava A, Ramírez-Uribe JM, Recillas-Morales S, Ibancovichi-Camarillo JA, Venebra-Muñoz A, Sánchez-Aparicio P | title = Pharmacological Regulation in the USA and Pharmacokinetics Parameters of Firocoxib, a Highly Selective Cox-2, by Pain Management in Horses | journal = Journal of Equine Veterinary Science | volume = 77 | issue = | pages = 36–42 | date = June 2019 | pmid = 31133314 | doi = 10.1016/j.jevs.2019.02.007 | s2cid = 86530623 }}</ref> Firocoxib was the first COX-2 inhibitor approved by the U.S. [[Food and Drug Administration]] for horses.<ref>{{cite web | url = http://www.thehorse.com/ViewArticle.aspx?ID=9896 | title = New NSAID Equioxx (firocoxib) Approved by USEF | date = 2 July 2007 | access-date = 18 April 2008 | work = The Horse | archive-date = 18 May 2011 | archive-url = https://web.archive.org/web/20110518185548/http://www.thehorse.com/ViewArticle.aspx?ID=9896 | url-status = live }}</ref> Firocoxib is not intended or approved for use in human medicine.<ref name="Equioxx FDA label" /><ref name="Previcox FDA label" /><ref name="Equioxx EPAR" /><ref name="Previcox EPAR" /><ref>[http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Scientific_Discussion/veterinary/000142/WC500065936.pdf Equioxx] {{Webarchive|url=https://web.archive.org/web/20141221071942/http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Scientific_Discussion/veterinary/000142/WC500065936.pdf |date=21 December 2014 }}, European Medicines Agency</ref>
+
+Firocoxib manufactured by Merial was approved for veterinary use in the United States for dogs in July 2004,<ref name="FDA 20220607" /> and for horses in July 2007 as an oral paste (EQUIOXX) and July 2016 as tablets.<ref>{{Cite web |date=2007-07-01 |title=Merial launches first firocoxib for horses |url=https://www.dvm360.com/view/merial-launches-first-firocoxib-horses |access-date=2023-10-03 |website=DVM 360 |language=en}}</ref><ref name="FDA 20220801" /> 
+
+Firocoxib is also available as a [[generic medication]] for horses<ref name="FDA 20220801">{{cite web | title=FDA Approves the First Generic Firocoxib Tablets for Horses | website=U.S. [[Food and Drug Administration]] (FDA) | date=1 August 2022 | url=https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-generic-firocoxib-tablets-horses | access-date=2 August 2022 | archive-date=3 August 2022 | archive-url=https://web.archive.org/web/20220803051550/https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-generic-firocoxib-tablets-horses | url-status=live }}</ref> and for dogs.<ref name="FDA 20220607">{{cite web | title=FDA Approves the First Generic Firocoxib Tablets for Dogs | website=U.S. Food and Drug Administration | date=7 June 2022 | url=https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-generic-firocoxib-chewable-tablets-dogs | access-date=2 August 2022 | archive-date=3 August 2022 | archive-url=https://web.archive.org/web/20220803052501/https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-generic-firocoxib-chewable-tablets-dogs | url-status=live }}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{cite web | url = https://druginfo.nlm.nih.gov/drugportal/name/firocoxib | publisher = U.S. National Library of Medicine | work = Drug Information Portal | title = Firocoxib }}
+
+{{NSAIDs}}
+{{Prostanoidergics}}
+{{Portal bar | Medicine}}
+
+[[Category:Dog medications]]
+[[Category:Equine medications]]
+[[Category:Furanones]]
+[[Category:Benzosulfones]]
+[[Category:COX-2 inhibitors]]
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Ethers]]
+[[Category:Cyclopropyl compounds]]
+
+
+{{veterinary-med-stub}}
+{{musculoskeletal-drug-stub}}

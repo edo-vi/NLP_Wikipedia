@@ -1,0 +1,112 @@
+{{Short description|Historian of China (1855–1934)}}
+{{Infobox academic
+| honorific_prefix   = <!-- see [[MOS:HONOURIFIC]] -->
+| name               = Hosea Ballou Morse
+| honorific_suffix   = 
+| image              = 
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = <!-- {{birth date| 1934 |2|13}}  -->
+| birth_place        = [[Nova Scotia]], [[British North America]]
+| death_date         = {{death date and age|1934 |2|13| 1855  |7| 18}}
+| death_place        = 
+| death_cause        = 
+| region             = 
+| nationality        = Canadian-American
+| citizenship        = 
+| residence          = 
+| other_names        = 
+| occupation         = customs official, diplomat, historian
+| period             = 
+| known_for          = 
+| title              = 
+| boards             = <!--board or similar positions extraneous to main occupation-->
+| spouse             = 
+| children           = 
+| parents            =
+| relatives          =
+| awards             = <!--notable national level awards only-->
+| website            = 
+| education          = 
+| alma_mater         = [[Harvard University]]
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third party source-->
+| era                = 
+| discipline         = International relations, economic history, [[numismatics]]
+| sub_discipline     = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces         = <!--full-time positions only, not student positions-->
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = [[John K. Fairbank]]
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+'''Hosea Ballou Morse''' (18 July 1855 – 13 February 1934) was a British North America-born British customs official and historian of China. He served in the Chinese [[Chinese Maritime Customs Service|Imperial Maritime Custom Service]] from 1874 to 1908, but is best known for his scholarly publications after his retirement, most prominently ''The International Relations of the Chinese Empire'', a three volume chronicle of the relations of the [[Qing dynasty]] with Western countries, and ''The Chronicles of the East India Company Trading to China, 1635–1834''.
+
+Morse descended from [[New England]] stock although for five generations his family lived in [[Nova Scotia]], where he was born.<ref name=fairbank95>{{cite book |last1=Fairbank |first1=John King |last2=Coolidge |first2=Martha Henderson |last3=Smith |first3=Richard J. |title=H. B. Morse, Customs Commissioner and Historian of China |date=1995 |publisher=University Press of Kentucky |isbn=978-0-8131-7104-3 |url=https://books.google.com/books?id=Ems-Rn6HgrUC |language=en}}</ref><ref>Fairbank, Coolidge & Smith (1995) state on page 7 that Hosea's great-grandfather was David Chipman Morse (1777-1843), his grandfather was Constant Church Morse (1800-1880) who was married to Frances Sangster Morse (1810-1883), and his father was Albert David Morse (1832-1900), who "lived in several parts of Nova Scotia" and in [[South Brookfield, Nova Scotia]], met and married Mercy Dexter Park on July 5, 1854.</ref> 
+The family returned to Medford, Massachusetts when Morse was young. He attended [[Boston Latin School]] and graduated from  [[Harvard College]] in 1874, where he was a member of [[Phi Beta Kappa]]. He married Annie Josephine Welsford in London on February 8, 1881. The couple had no children of their own. After Morse's retirement, they lived in Surrey, England, and during World War I he became a British citizen. He was granted an honorary LL.D. from [[Western Reserve University]] in 1913 and an Honorary LL.D. from Harvard in his Fiftieth Reunion year, 1924. He died in on February 13, 1934, in [[Surrey]], England.
+
+==Maritime Customs Service==
+In his senior year of college, Morse and three of his Harvard classmates were recruited to join the [[Chinese Maritime Customs Service|Imperial Maritime Custom Service]] under Sir [[Robert Hart (China)|Robert Hart]], who had headed the Service since 1860. Morse was at first stationed in Shanghai, where he studied the northern dialect, [[Mandarin Chinese|Mandarin]], for an hour each day before breakfast, and then served in [[Peking]]. His spoken Chinese became good enough for interpreting day-to-day business, but he could not read well enough to handle a wide variety of texts. He was posted to [[Tientsin]] in 1877, doing extra duty for the [[Northern Chinese Famine of 1876–79| Northern Chinese Famine]] of that winter and the following summer. When posted to the London office of the [[HM Customs and Excise|Customs Service]], he met Annie Josephine Welsford&nbsp;– "Nan"&nbsp;– who had been born in Brooklyn to British parents. They were married in 1881. While in London, Morse also joined the [[Royal Asiatic Society]] and met a number of the leading Orientalists of the time. On the couple's subsequent posting to Tientsin, Nan took an almost instant dislike to China and the Chinese, though it is not clear how this affected her husband's attitudes. Morse was involved under [[Li Hongzhang]]'s direction, in the diplomacy surrounding the [[Sino-French War]] of 1885 for which he received the Order of the Double Dragon, third division, second class.<ref>John King Fairbank, Martha Henderson Coolidge and Richard J. Smith. ''H. B. Morse, Customs Commissioner and Historian of China''. Lexington: University Press of Kentucky,  1995. {{ISBN|0-8131-1934-0}}, 18–20, 26–27, 55.</ref>
+
+In the following years Morse helped to audit and supervise the [[China Merchants' Steam Navigation Company]], a joint venture between Chinese officials and merchants. He worked with [[Sheng Xuanhuai]], but ran into trouble negotiating the political currents. Upon his resignation from the company in 1877, he was reassigned to Shanghai, where he supervised the Statistical Department. In the North China Branch of the [[Royal Asiatic Society]], he found himself one of some two hundred and fifty members, most of whom worked for the Customs Service, and soon became one of the most productive. He and Nan were sent to [[Pakhoi]] (Mandarin: Beihai), on the north coast of the [[Gulf of Tonkin]], in 1889, and then on a two-year leave in the United States. Their next posting was to [[Tamsui District|Tamsui]] in [[Taiwan]], where he was an important witness to the [[Japanese invasion of Taiwan (1895)|Japanese invasion of Taiwan]] in 1895. He then served in Pakhoi once more, [[Youzhou]], [[Hunan]], and [[Hankow]]. Poor health forced him to take leave from 1900–1903, but he returned to the Customs Service to head the Statistical Service from 1904 to 1908. He retired from the Customs Service in 1908.<ref>Fairbank, ''H.B. Morse'', 61–62, 69–92.</ref>
+
+==Second career: Morse the scholar and his role in the study of China==
+Upon his retirement in 1908, rather than return to [[New England]], which his wife disliked almost as much as China, the couple took up residence in [[Surrey]], England. In 1909 he turned down feelers from the American government to become [[List of ambassadors of the United States to China|Ambassador to China]]. During the [[First World War]], he became a [[British citizen]] (as he had been born in a British colony). He traveled frequently to the United States, and kept up relations with his Harvard classmates, including [[Charles Franklin Thwing]], president of [[Western Reserve University]]. A long-time smoker, he died of pneumonia in February, 1934.
+
+Morse published his first large work in 1908, the year of his retirement, ''The Trade and Administration of the Chinese Empire''. The first volume of ''The International Relations of the Chinese Empire'' came out in 1910 (the third and last volume in 1918). Articles in magazines and journals included "A Short Lived Republic," which recounted his resistance to the 1895 [[First Sino-Japanese War|takeover of Taiwan]] by Japan and the attempt to establish an [[Republic of Taiwan (1895)|independent nation]].<ref>''The New China Review'' (March 1919), cited in Fairbank, ''H.B. Morse'',</ref> His novel, ''In the Days of the Taipings'' drew on the material in Volume II of ''International Relations'' to portray the viewpoints of both foreigners and of the [[Taiping rebellion|Taiping]] leaders who rebelled against the dynasty which Morse had served. His most ambitious project was the massive documentary study of the [[British East India Company]] based on records in London's India Office, ''Chronicles of the East India Company.'' He had first contemplated the study in 1919, and was able to carry it out only because the India Office  allowed him to remove the record books and ledgers and work on them at home. He scrupulously summarized and edited some two hundred years of trade and commercial relations of the Company, giving historians a lasting documentary.
+
+Western study of China was changing, however. [[John K. Fairbank]] went to Morse for scholarly guidance in 1929 and considered himself a disciple. He wrote that although the older scholar lived through the decades of foreign imperialism and the collapse of the Qing empire, his historical work "avoids the obtrusive chauvinism of the Western treaty port community of that period." He recalled that "to me, as to other beginners, he offered generous encouragement and wise counsel."<ref>John King Fairbank, ''Trade and Diplomacy on the China Coast: The Opening of the Treaty Ports, 1842–1854'' (Cambridge, MA: Harvard University Press,  1953;Reprinted: 1964), dedication.</ref> Fairbank characterized ''The International Relations of the Chinese Empire'' as "the most comprehensive history of modern China" in its time, but added that it was "foreign-documented bluebook history," that is, diplomatic history which described foreign wars and treaties&nbsp;– "what was done in and to China by foreigners." He noted that in the 1930s, a new generation of China specialists (including himself) chose to explore and emphasize the Chinese part of the story and what he called "[[China's Response to the West (book)|China's response to the West]]."<ref>Quoted in Paul Cohen, ''Discovering History in China: American Historical Writing on the Recent Chinese Past'' (New York, London:: Columbia University Press,  1984), p. 102.</ref> That is, the new focus was on China, not the West. Fairbank noted that Morse "records the criticisms.... but gives little indication of the more positive side of the Confucian tradition, including its effort to maintain the ideals of loyalty and public service, and its capacity for reform." Morse, moreover, was isolated from Chinese colleagues because of his wife's strong dislike of them—by having few Chinese friends, he was "flying on one wing." Morse had neither the documents from the Chinese archives nor the conceptual tools of later scholars. Although he supplied chapter and verse for foreign aggression in China, "imperialism" was not mentioned as such.<ref>Fairbank, H.B. Morse, 222–223, 226.</ref> Nevertheless, even today there is still no other English language survey of China's diplomatic relations in the nineteenth century. ''International Relations'' was a sourcebook basic to such Marxist surveys as [[Hu Sheng]]'s [[Imperialism and Chinese Politics]] (1952) and a Chinese translation  was published in Beijing in 1957. The recent opening of archives in China has made available Maritime Commission documents which are not available outside that country, and Morse's contributions will be further revised.
+
+Morse's knowledge of [[Ancient Chinese coinage|Chinese money]] (from hands-on experience in the Customs) was excellent, and his works on Chinese money and Chinese numismatics remain essential references. Morse's personal collection of Chinese coins was acquired by the [[British Museum]] in the 1880s.<ref>[[Helen Wang]], "A Short History of Chinese Numismatics in European Languages", in ''Early China'' Vol.35, Jan 2013, pp 403-437.</ref>
+
+==Major works==
+*—, ''The Currency of China''. Shanghai: Kelly & Walsh. 1906.
+*—, ''[https://archive.org/details/gildsofchinawith00mors The Gilds of China]'' (1st ed 1909 / 2nd ed 1932). London: Longmans, Green, and Co.
+*—,  ''The International Relations of the Chinese Empire''. London: Longmans, Green, and Co., 1910–1918. 3 v.
+::[https://archive.org/details/internationalrel19101mors Volume I: The Period of Conflict, 1834–1860]
+::[https://archive.org/details/internationalrel02mors Volume II: The Period of Submission, 1861–1893]
+::[https://archive.org/details/internationalrel03mors Volume III: The Period of Subjection, 1894–1911]
+*—, ''The Trade and Administration of China'' (1st ed 1908 / 2nd ed 1913 / [https://archive.org/details/cu31924023255999 3rd ed 1920]). London: Longmans, Green and Co.
+*—, ''The Chronicles of the East India Company Trading to China, 1635–1834''. Oxford: The Clarendon Press. 1926–1929. 5 v. ([https://archive.org/details/in.ernet.dli.2015.80805 Vol. 1] / [https://hdl.handle.net/2027/mdp.39015066061162 Vol. 2] / [https://archive.org/details/in.ernet.dli.2015.73362 Vol. 3] / [https://archive.org/details/in.ernet.dli.2015.533212 Vol. 4] / [https://hdl.handle.net/2027/coo.31924052145988 Vol. 5])
+*—, ''In the Days of the Taipings, Being the Recollections of Ting Kienchang''. Salem, Mass: The Essex Institute, 1927. A novel.
+*—,  and [[Harley Farnsworth MacNair]], ''Far Eastern International Relations''. Boston, New York: Houghton Mifflin, 1931. Rpr. Russell & Russell, 1967.
+*—, Huiwen Zhang tr., ''Zhonghua Di Guo Dui Wai Guan Xi Shi''. Beijing: Sheng huo, du shu Xin hua, 1957. Translation of ''International Relations''.
+*—, Harley Farnsworth MacNair, (Zengyi Yao, tr.) ''Yuan Dong Guo Ji Guan Xi Shi''. Shanghai: Shanghai shu dian chu ban she, 1998.  {{ISBN|7-80622-412-2}}.
+
+==References==
+{{Reflist}}
+
+==External links==
+*Bowra, C. A. V.. "[https://www.jstor.org/stable/25200935 Obituary Notices: Hosea Ballou Morse]". ''Journal of the Royal Asiatic Society of Great Britain and Ireland''. 2 (1934): 425–430.
+*Smith, Richard J. "Morse, Hosea Ballou (1855–1934)". ''Oxford Dictionary of National Biography'' (2004 ed.). Oxford University Press. {{doi|10.1093/ref:odnb/54361}}.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Morse, Hosea Ballou}}
+[[Category:1855 births]]
+[[Category:1934 deaths]]
+[[Category:American expatriates in China]]
+[[Category:American sinologists]]
+[[Category:Boston Latin School alumni]]
+[[Category:Harvard College alumni]]
+[[Category:Historians of China]]
+[[Category:Historiography of China]]
+[[Category:American numismatists]]
+[[Category:Chinese numismatics]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:Canadian people of American descent]]

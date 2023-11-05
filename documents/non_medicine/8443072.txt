@@ -1,0 +1,34 @@
+[[File:Stepped tank.JPG|thumb|A water tank with a stepped profile at [[Hampi]], a [[UNESCO World Heritage Site]] in [[Karnataka]], [[India]]]]
+A '''stepped profile''' describes the edge of something that has a series of defined steps.<ref>{{cite conference |url=https://www.telaztec.com/Resources/ICHAztecWalesJuly06.pdf |last=Cowan |first=James J. |title=Advances in holographic replication with the Aztec structure |conference=7th International Symposium on Display Holography |year=2006}}</ref> It has applications in architecture, construction, [[Profile (engineering)|engineering]], and geology.
+
+==Applications==
+===Architecture and construction===
+In [[building design]] a stepped profile is used to reduce the visual impact of, or airborne noise around a building.<ref>{{cite book |url=https://books.google.com/books?id=Gc15AgAAQBAJ&pg=PA63 |page=63 |title=The Modern Airport Terminal: New Approaches to Airport Architecture |first=Brian |last=Edwards |year=2004 |isbn=9781134537648 |publisher=[[Taylor & Francis]]}}</ref><ref>{{cite book |url=https://books.google.com/books?id=bi5dDwAAQBAJ&pg=PA62 |page=62 |title=Greener Buildings: Environmental Impact of Property |first=Stuart |last=Johnson |year=1993 |isbn=9781349227525 |publisher=[[Macmillan Education]]}}</ref><ref>{{cite book |title=The Making of an African Building: The Mpumalanga Provincial Government Complex |page=32 |isbn=9780620282949 |year=2001 |publisher=MPTS Architectural Library |url=https://books.google.com/books?id=9bUVAQAAIAAJ}}</ref> A stepped profile is also used to calculate seismic and wind loads in multi-story building design.<ref>{{cite book |url=https://books.google.com/books?id=IJ0tCwAAQBAJ&pg=PA54 |page=54 |title=Energy Audits and Improvements for Commercial Buildings |first=Ian M. |last=Shapiro |year=2016 |isbn=9781119084167 |publisher=[[Wiley (publisher)|Wiley]]}}</ref>
+
+The [[Spillway#Stepped spillway|spillway]] from a [[dam]] can have a stepped profile, which dissipates energy from the released water.<ref>{{cite journal |first=H. |last=Chanson |title=History of stepped channels and spillways: a rediscovery of the "wheel" |journal=Canadian Journal of Civil Engineering |year=1995 |volume=22 |issue=2 |pages=247–259 |doi=10.1139/l95-034|url=https://espace.library.uq.edu.au/view/UQ:9293/ARTI_10.pdf }}</ref>
+
+===Engineering===
+In engineering, a stepped profile may be used on a [[bearing (mechanical)|bearing]] surface to reduce friction between the moving parts.<ref>{{cite journal |author1=Wróblewski, E. |author2=Iskra, A. |author3=& Babiak, M |year=2017 |title=Geometrical structures of the stepped profile bearing surface of the piston |journal=Procedia Engineering |volume=192 |pages=965–970 |doi=10.1016/j.proeng.2017.06.166 |publisher=[[Elsevier]]|doi-access=free }}</ref>
+
+===Geology===
+A [[mountain]] with a stepped profile has a number of [[denudation]] terraces caused by erosion.<ref>{{cite book |url=https://books.google.com/books?id=3E6qBAAAQBAJ&pg=PA64 |page=64 |title=Landforms of High Mountains |author1=Alexander Stahr |author2=Ewald Langenscheidt |year=2014 |isbn=9783642537158 |publisher=[[Springer Berlin Heidelberg]]}}</ref>
+
+A [[river]] with a stepped profile has a step-like variation in its gradient along its length.<ref>{{cite book |url=https://books.google.com/books?id=QWDQ7ezcjbcC |page=79 |title=A view of the river |author=Luna Bergere Leopold |year=1994 |isbn=9780674937321 |publisher=[[Harvard University Press]]}}</ref> This may be caused by changes in the height of the underlying bedrock.<ref>{{cite book |url=https://books.google.com/books?id=L2ZFVunPMPwC&pg=PT409 |page=409 |title=Geomorphology and River Management: Applications of the River Styles Framework |author1=Gary J. Brierley |author2=Kirstie A. Fryirs |year=2013 |isbn=9781118685303 |publisher=[[Wiley (publisher)|Wiley]]}}</ref>
+
+==Notable examples==
+* [[Altar Mountain]], a mountain in [[Victoria Land]], [[Antarctica]]
+* [[Drapers' Gardens]], an office block in the [[City of London]], [[United Kingdom]]
+* [[Cairn of Barnenez]], a neolithic monument in [[Brittany]], [[France]]
+
+==See also==
+* [[Setback (architecture)]]
+* [[Spillway#Stepped spillway|Stepped spillway]]
+
+==References==
+{{reflist}}
+
+
+[[Category:Architectural elements]]
+[[Category:Engineering]]
+[[Category:Geology]]
+[[Category:Metalworking terminology]]

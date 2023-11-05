@@ -1,0 +1,137 @@
+{{Short description|Hierarchy of complex structures and systems within biological sciences}}
+{{Redirect2|Hierarchy of life|Levels of organization|the hierarchical ordering and organization of all organisms|Taxonomy (biology){{!}}Biological classification|the evolutionary hierarchy of organisms and interspecial relationships|Phylogenetic tree}}
+{{Use British English|date=January 2014}}
+
+[[File:Shimmering bees drive hornet away.ogv|thumb|A population of bees shimmers in response to a predator.]]
+
+'''Biological organisation''' is the organisation of [[complex system|complex]] [[biology|biological]] [[structure]]s and [[system]]s that define [[life]] using a [[reductionism|reductionistic]] approach.<ref name="Solomon intro">{{harvnb|Solomon|Berg|Martin|2002|pp=9&ndash;10}}</ref> The traditional hierarchy, as detailed below, extends from [[atom]]s to [[biosphere]]s. The higher levels of this scheme are often referred to as an '''ecological organisation''' concept, or as the [[Branches of science|field]],  [[#Fundamentals|hierarchical ecology]].
+
+Each level in the hierarchy represents an increase in organisational [[wikt:complexity|complexity]], with each "object" being primarily composed of the previous level's basic unit.<ref>{{harvnb|Pavé|2006|p=40}}</ref> The basic principle behind the organisation is the concept of ''[[emergence]]''—the properties and functions found at a hierarchical level are not present and irrelevant at the lower levels.
+
+The biological organisation of life is a fundamental premise for numerous areas of [[scientific method|scientific]] [[research]], particularly in the [[medicine|medical sciences]]. Without this necessary degree of organisation, it would be much more difficult—and likely impossible—to apply the study of the effects of various [[phenomenon|physical]] and [[chemistry|chemical]] phenomena to [[disease]]s and [[physiology]] (body function). For example, fields such as [[cognitive neuroscience|cognitive]] and [[behavioral neuroscience]] could not exist if the brain was not composed of specific types of cells, and the basic concepts of [[pharmacology]] could not exist if it was not known that a change at the cellular level can affect an entire organism. These applications extend into the [[ecology|ecological]] levels as well. For example, [[DDT]]'s direct [[insecticide|insecticidal]] effect occurs at the [[Cell (biology)#Subcellular components|subcellular]] level, but affects higher levels up to and including multiple [[ecosystem]]s. Theoretically, a change in one [[atom]] could change the entire [[biosphere]].
+
+==Levels==
+{{See also|Integrative level}}
+[[File:Levels of Organization.svg|thumb|The simplest unit in this hierarchy is the atom, like oxygen. Two or more atoms is a molecule, like a dioxide. Many small molecules may combine in a chemical reaction to make up a macromolecule, such as a phospholipid. Multiple macromolecules form a cell, like a club cell. A group of cells functioning together as a tissue, for example, Epithelial tissue. Different tissues make up an organ, like a lung. Organs work together to form an organ system, such as the Respiratory System. All of the organ systems make a living organism, like a lion. A group of the same organism living together in an area is a population, such as a pride of lions. Two or more populations interacting with each other form a community, for example, lion and zebra populations interacting with each other.  Communities interacting not only with each other but also with the physical environment encompass an ecosystem, such as the Savanna ecosystem. All of the ecosystems make up the biosphere, the area of life on Earth.]]
+The simple standard biological organisation scheme, from the lowest level to the highest level, is as follows:<ref name="Solomon intro"/>
+
+{|class="wikitable"
+|-
+| colspan="3" style="vertical-align:middle;text-align:left" |''For levels smaller than atoms see  [[Subatomic particle]]''
+|-
+| rowspan="3" style="vertical-align:middle;text-align:left" | ''Acellular level<br>and<br>Pre-cellular level'' || [[Atom]]s ||
+|-
+| [[Molecule]] || | Groups of atoms
+|-
+| [[Biomolecular complex]] || Groups of (bio)molecules
+|-
+| style="vertical-align:bottom;text-align:left" | ''Sub-cellular level''  || [[Organelle]] || Functional groups of biomolecules, biochemical reactions and interactions
+|-
+| style="vertical-align:bottom;text-align:left" | ''Cellular level'' || [[cell (biology)|Cell]] || Basic unit of all life and the grouping of organelles
+|-
+| style="vertical-align:bottom;text-align:left" | ''Super-cellular level<BR>(Multicellular level)'' || [[tissue (biology)|Tissue]] || Functional groups of cells
+|-
+| rowspan="2" | || [[organ (biology)|Organ]] || Functional groups of tissues
+|-
+| [[Organ system]] || Functional groups of organs
+|-
+| rowspan="6" | ''Ecological levels''  || [[Organism]] || The basic living system, a functional grouping of the lower-level components, including at least one cell
+|-
+| [[Population]] || Groups of organisms of the same [[species]]
+|-
+| [[community (ecology)|Community]] <br/>(or [[biocoenosis]]) || [[Biological interaction|Interspecific]] groups of interacting populations
+|-
+| [[Ecosystem]] || Groups of organisms from all biological [[domain (biology)|domain]]s in conjunction with the physical ([[abiotic]]) environment
+|-
+| [[Biome]] || Continental scale (climatically and geographically contiguous areas with similar climatic conditions) grouping of ecosystems.
+|-
+| [[Biosphere]] or <br/>[[Earth's spheres|Ecosphere]] || All life on Earth or all life plus the physical (abiotic) environment<ref name="Huggett1999">{{harvnb|Huggett|1999}}</ref>
+
+|-
+| colspan="3" style="vertical-align:middle;text-align:left" |''For levels larger than Biosphere or Ecosphere, see [[Earth's location in the Universe]]''
+|-
+|}
+
+More complex schemes incorporate many more levels. For example, a molecule can be viewed as a grouping of [[chemical element|elements]], and an atom can be further divided into [[subatomic particle]]s (these levels are outside the scope of biological organisation). Each level can also be broken down into its own hierarchy, and specific types of these biological objects can have their own hierarchical scheme. For example, [[genome]]s can be further subdivided into a hierarchy of [[gene]]s.<ref>{{Harvnb|Pavé|2006|p=39}}</ref>
+
+Each level in the hierarchy can be described by its lower levels. For example, the organism may be described at any of its component levels, including the atomic, molecular, cellular, histological (tissue), organ and organ system levels. Furthermore, at every level of the hierarchy, new functions necessary for the control of life appear. These new roles are not functions that the lower level components are capable of and are thus referred to as ''[[Emergence#Emergent properties and processes|emergent properties]]''.
+
+Every organism is organised, though not necessarily to the same degree.<ref>{{harvnb|Postlethwait|Hopson|2006|p=7}}</ref> An organism can not be organised at the [[histological]] (tissue) level if it is not composed of tissues in the first place.<ref>{{cite journal | last1 = Witzany | first1 = G | year = 2014 | title = Biological Self-organization | journal = International Journal of Signs and Semiotic Systems | volume = 3 | issue = 2| pages = 1–11 | doi = 10.4018/IJSSS.2014070101 }}</ref>
+
+==Emergence of biological organisation==
+Biological organisation is thought to have emerged in the early [[RNA world hypothesis|RNA world]] when [[RNA]] chains began to express the basic conditions necessary for natural selection to operate as conceived by [[Charles Darwin|Darwin]]: heritability, variation of type, and competition for limited resources. [[Fitness (biology)|Fitness]] of an RNA replicator (its per capita rate of increase) would likely have been a function of adaptive capacities that were intrinsic (in the sense that they were determined by the nucleotide sequence) and the availability of resources.<ref name="Bernstein">{{cite journal | last1 = Bernstein | first1 = H | last2 = Byerly | first2 = HC | last3 = Hopf | first3 = FA | last4 = Michod | first4 = RA | last5 = Vemulapalli | first5 = GK | year = 1983 | title = The Darwinian Dynamic | journal = Quarterly Review of Biology | volume = 58 | issue = 2| pages = 185–207 | doi=10.1086/413216| jstor = 2828805 | s2cid = 83956410 }}</ref><ref name="Michod">Michod RE. (2000) Darwinian Dynamics: Evolutionary Transitions in Fitness and Individuality. Princeton University Press, Princeton, New Jersey {{ISBN|0691050112}}</ref> The three primary adaptive capacities may have been (1) the capacity to replicate with moderate fidelity (giving rise to both heritability and variation of type); (2) the capacity to avoid decay; and (3) the capacity to acquire and process resources.<ref name=Bernstein /><ref name =Michod /> These capacities would have been determined initially by the folded configurations of the RNA replicators (see "[[Ribozyme]]") that, in turn, would be encoded in their individual nucleotide sequences. Competitive success among different RNA replicators would have depended on the relative values of these adaptive capacities. Subsequently, among more recent organisms competitive success at successive levels of biological organisation, presumably continued to depend, in a broad sense, on the relative values of these adaptive capacities.
+
+== Fundamentals ==
+Empirically, a large proportion of the (complex) biological systems we observe in nature exhibit hierarchical structure. On theoretical grounds we could expect complex systems to be hierarchies in a world in which complexity had to evolve from simplicity. [[Systems theory|System]] hierarchies analysis performed in the 1950s,<ref>{{harvnb|Evans|1951}}</ref><ref>{{harvnb|Evans|1956}}</ref> laid the empirical foundations for a [[Branches of science|field]] that would be, from the 1980s, '''hierarchical ecology'''.<ref>{{harvnb|Margalef|1975}}</ref><ref>{{harvnb|O'Neill|1986}}</ref><ref>{{harvnb|Wicken|Ulanowicz|1988}}</ref><ref>{{harvnb|Pumain|2006}}</ref><ref>{{harvnb|Jordan|Jørgensen|2012}}</ref>
+
+The theoretical foundations are summarized by thermodynamics.
+When [[biological systems]] are modeled as [[physical system]]s, in its most general abstraction, they are [[Thermodynamic system#Open system|thermodynamic open systems]] that exhibit [[self-organization|self-organised]] behavior,<ref>{{Cite book|url=|title= Thermodynamics of Complex Systems: Principles and applications. |last= Pokrovskii |first=Vladimir|language=English | publisher= IOP Publishing, Bristol, UK.|year=2020|isbn=|pages=}}</ref> and the [[Set theory|set/subset]] relations between [[dissipative structures]] can be characterized in a hierarchy.
+
+A simpler and more direct way to explain the fundamentals of the "hierarchical organisation of life", was introduced in [[Ecology]] by [[Howard T. Odum|Odum]] and others as the "[[Herbert A. Simon|Simon]]'s hierarchical principle";<ref>{{harvnb|Simon|1969|pp=192–229}}</ref> Simon<ref>Simon's texts at {{doi|10.1207/S15327809JLS1203_4}}, [http://polaris.gseis.ucla.edu/pagre/simon.html polaris.gseis.ucla.edu/pagre/simon]  {{webarchive|url=https://web.archive.org/web/20150705161014/http://polaris.gseis.ucla.edu/pagre/simon.html |date=July 5, 2015 }} or [http://johncarlosbaez.wordpress.com/2011/08/29/hierarchical-organization-and-biological-evolution-part-1/ johncarlosbaez/2011/08/29 transcriptions] {{webarchive|url=https://web.archive.org/web/20150531145800/https://johncarlosbaez.wordpress.com/2011/08/29/hierarchical-organization-and-biological-evolution-part-1/ |date=2015-05-31 }}</ref> emphasized that hierarchy "''emerges almost inevitably through a wide variety of evolutionary processes, for the simple reason that <u>hierarchical structures are stable</u>''".
+
+To motivate this deep idea, he offered his "parable" about imaginary watchmakers.
+
+:{|
+!Parable of the Watchmakers
+|-
+|
+There once were two watchmakers, named Hora and Tempus, who made very fine watches. The phones in their workshops rang frequently; new customers were constantly calling them. However, Hora prospered while Tempus became poorer and poorer. In the end, Tempus lost his shop. What was the reason behind this?
+
+The watches consisted of about 1000 parts each. The watches that Tempus made were designed such that, when he had to put down a partly assembled watch (for instance, to answer the phone), it immediately fell into pieces and had to be reassembled from the basic elements.
+
+Hora had designed his watches so that he could put together subassemblies of about ten components each. Ten of these subassemblies could be put together to make a larger sub-assembly. Finally, ten of the larger subassemblies constituted the whole watch. Each subassembly could be put down without falling apart.
+|}
+
+==See also==
+{{Div col}}
+* [[Abiogenesis]]
+* [[Cell theory]]
+* [[Cellular differentiation]]
+* [[Composition of the human body]]
+* [[Evolution of biological complexity]]
+* [[Evolutionary biology]]
+* [[Gaia hypothesis]]
+* [[Hierarchy theory]]
+* [[Holon (philosophy)]]
+* [[Human ecology]]
+* [[Level of analysis]]
+* [[Living systems]]
+* [[Self-organization]]
+* [[Spontaneous order]]
+* [[Structuralism (biology)]]
+* [[Timeline of the evolutionary history of life]]
+{{div col end}}
+
+==Notes==
+{{Reflist|30em}}
+
+===References===
+* {{Citation|last=Evans|year=1951|first=F. C.|title=Ecology and urban areal research|journal=Scientific Monthly|issue=73}}
+* {{Citation|last=Evans|year=1956|first=F. C.|title=Ecosystem as basic unit in ecology |pmid=17793430|doi=10.1126/science.123.3208.1127|volume=123|journal=Science|issue=3208|pages=1127–8|bibcode=1956Sci...123.1127E}}
+* {{cite journal|last1=Huggett|first1=R. J.|title=Ecosphere, biosphere, or Gaia? What to call the global ecosystem. ECOLOGICAL SOUNDING|journal=Global Ecology and Biogeography|volume=8|issue=6|year=1999|pages=425–431|issn=1466-822X|doi=10.1046/j.1365-2699.1999.00158.x}}
+* {{Citation|last1=Jordan|last2=Jørgensen|year=2012|first1=F.|first2=S. E.|title=Models of the Ecological Hierarchy: From Molecules to the Ecosphere|isbn=9780444593962}}
+* {{Citation|last=Margalef|year=1975|first=R.|title=External factors and ecosystem stability|doi=10.1007/BF02505181|volume=37|journal=Schweizerische Zeitschrift für Hydrologie|pages=102–117|s2cid=20521602}}
+* {{Citation|last=O'Neill|year=1986|first=R. V.|title=A Hierarchical Concept of Ecosystems|isbn=0691084378|url-access=registration|url=https://archive.org/details/hierarchicalconc00onei}}
+* {{Citation|last=Pavé|year=2006 | title=Biological and Ecological Systems Hierarchical organization|first=Alain |encyclopedia=Hierarchy in Natural and Social Sciences |editor=Pumain, D. |publisher=[[Springer-Verlag]] |location=[[New York, New York]]  |isbn=978-1-4020-4126-6}}
+* {{Citation|last1=Postlethwait |first1=John H. |last2=Hopson |first2=Janet L. |title=Modern Biology |publisher=[[Holt, Rinehart and Winston]] |year=2006 |isbn=0-03-065178-6}}
+* {{Citation|last=Pumain|year=2006|first=D.|title=Hierarchy in Natural and Social Sciences|isbn=978-1-4020-4127-3}}
+* {{Citation|last=Simon |year=1969 |first=H. A. |title=The architecture of complexity|encyclopedia=The Sciences of the Artificial |publisher=[[MIT Press]] |location=[[Cambridge, Massachusetts|Cambridge]], Massachusetts}}
+* {{Citation |title=Biology |edition=6th |last1=Solomon |first1=Eldra P. |last2=Berg |first2=Linda R. |last3=Martin |first3=Diana W. |publisher=[[Brooks/Cole]] |isbn=0-534-39175-3 |lccn=2001095366 |year=2002}}
+* {{Citation|last1=Wicken|last2=Ulanowicz|year=1988|first1=J. S.|first2=R. E.|title=On quantifying hierarchical connections in ecology|doi=10.1016/0140-1750(88)90066-8|volume=11|journal=Journal of Social and Biological Systems|issue=3|pages=369–377}}
+
+==External links==
+*{{wikibooks-inline|links= [[b:Human Physiology/Cell physiology|Cell physiology]] (in ''[[b:Human Physiology|Human Physiology]]'')}}
+*{{wikibooks-inline|links= [[b:General Biology/Getting Started/Introduction#Characteristics of life|Characteristics of life]] and [[b:General Biology/Getting Started/Matter#The Nature of Molecules|the nature of molecules]] (in ''[[b:General Biology|General Biology]]'')}}
+*{{wikibooks-inline|links= [[b:Ecology/Biosphere organization|organization within the biosphere]] (in ''[[b:Ecology|Ecology]]'')}}
+* [https://web.archive.org/web/20111015234223/http://johncarlosbaez.wordpress.com/2011/08/29/hierarchical-organization-and-biological-evolution-part-1/ 2011's theoretical/mathematical discussion].
+
+{{Biological organization}}
+{{Nature nav}}
+{{Portal bar|Biology|Earth sciences|Environment}}
+
+[[Category:Life]]
+[[Category:Articles containing video clips]]
+[[Category:Biology]]
+[[Category:Hierarchy]]
+[[Category:Emergence]]
+[[Category:Levels of organization (Biology)]]

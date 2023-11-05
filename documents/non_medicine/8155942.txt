@@ -1,0 +1,28 @@
+{{Short description|Species of single-celled organism}}
+{{Speciesbox
+| taxon = Eimeria stiedae
+| authority = (Lindemann, 1895)
+}}
+
+'''''Eimeria stiedae''''' is a species of ''[[Eimeria]]'' that causes hepatic [[coccidiosis]] in [[rabbits]].<ref name=criver>{{cite web |url=http://www.criver.com/files/pdfs/infectious-agents/rm_ld_r_rabbit_coccidiosis.aspx |title=Rabbit coccidiosis |accessdate=27 June 2016 |publisher=Charles River |url-status=dead |archiveurl=https://web.archive.org/web/20160314092707/http://www.criver.com/files/pdfs/infectious-agents/rm_ld_r_rabbit_coccidiosis.aspx |archivedate=14 March 2016 }}</ref> It was observed for the first time by [[Antonie van Leeuwenhoek]] in 1674.
+
+==Life cycle==
+The rabbits ingest sporulated [[oocysts]].<ref name=criver/> Sporulated oocysts contain [[sporozoites]] that hatch and travel via the [[hepatic portal vein]] to the liver, and eventually penetrate the [[bile duct]] [[epithelium]], where they undergo asexual reproduction known as [[schizogony]]. Rupture of the schizont consequently causes epithelial cell rupture and death. Merozoites will penetrate other cells and create more merozoites for one to several rounds. Eventually, a  merozoite becomes a male [[microgamecyte]] and asexually reproduces in epithelial cells. A ruptured microgamecyte infects a cell with the female [[macrogamecyte]] and through sexual reproduction create a [[zygote]]. The zygote develops a protective shell before expulsion in the bile excreation and then the feces as an oocyst.<ref name=ADDL>{{cite web|url=https://www.addl.purdue.edu/newsletters/2000/fall/finaldx.shtml |accessdate=27 June 2016 |title=Fall 2000 Newsletter - Final Diagnosis - Hepatic coccidiosis |author=Jan Lacey |publisher=Indiana Animal Disease Diagnostic Laboratory}}</ref>
+
+==Pathogenesis and pathology==
+The schizonts in the bile duct cause bile duct [[hyperplasia]], and blockage of bile ducts leading to [[hepatomegaly]] and hence [[Jaundice|icterus]]. Due to liver failure, the abdomen will be distended with fluid.<ref name=ADDL/>
+
+==Diagnosis==
+The presence of oocysts on [[fecal flotation]] or [[impression smear]] of the liver are diagnostic for [[coccidiosis]]. The prepatent period is 18 days; sporulation occurs after three days.<ref name=criver/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q15078733}}
+
+[[Category:Conoidasida]]
+[[Category:1674 in science]]
+
+
+{{Apicomplexa-stub}}
+{{Veterinary-med-stub}}

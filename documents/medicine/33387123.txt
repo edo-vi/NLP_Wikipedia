@@ -1,0 +1,32 @@
+'''''[[Streptococcus]]''''' species are the cause of opportunistic infections in [[poultry]] leading to acute and chronic conditions in affected birds. Disease varies according to the Streptococcal species but common presentations include [[septicaemia]], [[peritonitis]], [[salpingitis]] and [[endocarditis]].
+
+Common species affecting poultry include:
+* ''S. gallinaceus'' in broiler chickens
+* ''S. gallolyticus'' which is a pathogen of racing pigeons and turkey poults
+* ''[[Streptococcus dysgalactiae|S. dysgalactiae]]'' in broiler chickens
+* ''[[S. mutans]]'' in geese
+* ''S. pluranimalium'' in broiler chickens
+* ''[[Streptococcus zooepidemicus|S. equi subsp. zooepidemicus]]'' in chickens and turkeys
+* ''[[S. suis]]'' in psittacine birds
+__TOC__
+==Diagnosis==
+[[Post-mortem]] findings include friable internal organs, abdominal effusion and evidence of sepsis in the joints, heart valves and brain.<ref name="WikiVet">[http://en.wikivet.net/Streptococcus_%26_Enterococcus_Infections_-_Poultry Streptococcus and Enterococcus infections - Poultry] expert reviewed and published by [[WikiVet]], accessed 12 October 2011.</ref>
+
+Bacteria can usually be [[microbiological culture|cultured]] from tissues collected at necropsy or identified by microscope examination.<ref name="WikiVet"/>
+
+==Treatment and control==
+The organism should be cultured and antibiotic sensitivity should be determined before treatment is started. [[Amoxycillin]] is usually effective in treating streptococcal infections.<ref name="WikiVet"/>
+
+[[Biosecurity]] protocols and good hygiene are important in preventing the disease.<ref name="WikiVet"/>
+
+[[Vaccination]] is available against ''S. gallolyticus'' and can also protect pigeons.<ref name="WikiVet"/>
+
+==References==
+{{reflist}}
+
+[[Category:Streptococcal infections]]
+[[Category:Poultry diseases]]
+
+
+{{Veterinary-med-stub}}
+{{Streptococcaceae-stub}}

@@ -1,0 +1,21 @@
+{{Infobox medical condition (new)
+| name            = Hypotonic-hyporesponsive episode (HHE)
+| symptoms        = [[Hypotonia]], hyporesponsiveness, [[pallor]], [[cyanosis]].<ref name="tide">{{cite web|url=http://tide.musc.edu/childhood_immunizations/hhe.pdf|title=Hypotonic, hyporesponsive episode (HHE)|date=7 January 2006|accessdate=2018-01-24}}</ref><ref name="aappublications"/>
+| onset           = 1 minute to 48 hours post-vaccination.<ref name="tide" />
+| duration        = 1 minute to 14 days (median 10 hours).<ref name="tide" />
+| causes          = [[Vaccination]], most commonly [[pertussis vaccine]].<ref name="tide" />
+| diagnosis       = Based on symptoms.<ref name="tide" /><ref name="academia.edu">{{cite journal|url=https://www.academia.edu/21414587|title=Hypotonic-hyporesponsive episode (HHE) as an adverse event following immunization in early childhood: Case definition and guidelines for data collection, analysis, and presentation &#124; Jan Bonhoeffer|journal=Vaccine|accessdate=2018-02-01|last1=Bonhoeffer|first1=Jan}}</ref>
+| differential    = [[Vasovagal syncope]], seizure
+| prevention      = Those who experience an HHE after pertussis vaccination may avoid further pertussis vaccines.<ref name="tide" /><ref name="cdc">{{cite web|url=https://www.cdc.gov/vaccines/pubs/pinkbook/pert.html#other|title=Pinkbook &#124; Pertussis &#124; Epidemiology of Vaccine Preventable Diseases|website=CDC|accessdate=2018-01-24}}</ref>
+| treatment       = Usually resolves on its own, management involves checking the airway, breathing, and circulation, and hospitalization for observation and to rule out other conditions.<ref>{{Cite web|url=http://www.medsafe.govt.nz/profs/puarticles/8.htm|title = Hypotonic-Hyporesponsive Episodes to Immunisation}}</ref><ref name="tide" /><ref name="aappublications2">{{cite journal|url=http://pediatrics.aappublications.org/content/106/4/e52|title=Hypotonic–Hyporesponsive Episodes Reported to the Vaccine Adverse Event Reporting System (VAERS), 1996–1998 &#124; ELECTRONIC ARTICLE|journal=Pediatrics|date=October 2000|volume=106|issue=4|pages=e52|accessdate=2018-01-24|last1=Duvernoy|first1=Tracy S.|last2=Braun|first2=M. Miles|doi=10.1542/peds.106.4.e52|pmid=11015547|s2cid=12743062}}</ref>
+| deaths          = None reported
+}}
+A '''hypotonic-hyporesponsive episode''' (HHE) is defined as sudden onset of [[hypotonia|poor muscle tone]], [[hyporesponsiveness|reduced consciousness]], and [[pallor|pale]] or [[cyanosis|bluish skin]] occurring within 48 hours after [[vaccination]], most commonly [[pertussis vaccination]].<ref name="aappublications">{{cite journal|url=http://pediatrics.aappublications.org/content/106/4/e52|title=Hypotonic–Hyporesponsive Episodes Reported to the Vaccine Adverse Event Reporting System (VAERS), 1996–1998 &#124; ELECTRONIC ARTICLE|journal=Pediatrics|date=October 2000|volume=106|issue=4|pages=e52|accessdate=2018-01-22|last1=Duvernoy|first1=Tracy S.|last2=Braun|first2=M. Miles|doi=10.1542/peds.106.4.e52|pmid=11015547|s2cid=12743062}}</ref> An HHE is estimated to occur after 1 in 4,762 to 1 in 1,408 doses of whole cell pertussis vaccine, and after 1 in 14,286 to 1 in 2,778 doses of acellular pertussis vaccine.<ref name="academia.edu"/>
+
+==References==
+{{reflist}}
+
+[[Category:Vaccination]]
+[[Category:Symptoms and signs: Nervous system]]
+
+{{Symptom-stub|}}

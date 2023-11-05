@@ -1,0 +1,39 @@
+{{Short description|Zàng organ in traditional Chinese medicine}}
+{{For| the biological description|Spleen}}
+
+The '''Spleen''' ({{zh|c=脾 |p=pí}}) is one of the [[zang-fu|zàng]] organs stipulated by [[traditional Chinese medicine]] (TCM).<ref>{{Cite web|title=TCM: Understanding The Role Of The Spleen|url=https://www.euyansang.com.sg/en/tcm%3A-understanding-the-role-of-the-spleen/eystcmorgans5.html|access-date=2022-02-18|website=www.euyansang.com.sg}}</ref> It is a functionally defined entity and not equivalent to the anatomical organ of the same name.<ref>{{Cite journal|last=Wu|first=Xie-Ning|date=1998-02-15|title=Current concept of Spleen-Stomach theory and Spleen deficiency syndrome in TCM|journal=World Journal of Gastroenterology|volume=4|issue=1|pages=2–6|doi=10.3748/wjg.v4.i1.2|issn=1007-9327|pmc=4767755|pmid=11819216 |doi-access=free }}</ref>
+
+==In the context of the zang-fu concept==
+As a zàng, the Spleen is considered to be a [[Yin and yang|yin]] organ. Its associated yang organ is the [[Stomach (Chinese medicine)|Stomach]]. Both Spleen and Stomach are attributed to the [[Wuxing (Chinese philosophy)|Earth element]].
+
+Regarding its stipulated functions, the Spleen
+*governs "transportation and absorption" ({{lang|zh|运化}}, {{zh|p=yùn-huà}}), i.e. the extraction of jīng weī ({{lang|zh|精微}}, lit. "essence bits", usually translated with ''food essence'', sometimes also called jīng qì [{{lang|zh|精气}}, ''essence qi''])<ref>{{lang|zh|中医世家}} 2006, chapter 3.2.1.1.</ref> – and water – from food and drink, and the successive distribution of it to the other zàng organs.
+**the jīng weī constitutes a large part of the body's acquired [[Qi#Role in traditional Chinese medicine|qì]] (the other part coming from breathing, by facilitation of the Lung zàng). In this spirit, the Spleen is also called "root of the postnatal" ({{lang|zh|后天之本}}, {{zh|p=hoùtiān zhī běn}})<ref>{{lang|zh|中医世家}} 2006, chapter 3, lead</ref> – as opposed to the congenital qì, which is stored by the Kidney zàng. The Spleen absorbs jīng weī from the food after it has been preprocessed by the Stomach and the Small Intestine, and then distributes it to the whole body, especially upwards to the Lung and Heart, where jīng weī is transformed into qì and xuě (blood). Thus, TCM also describes the Spleen as the source of "production and mutual transformation" ({{lang|zh|生化}}, {{zh|p=shēng-huà}})<ref>{{lang|zh|中医世家}} 2006, chapter 3, lead</ref> of qì and xuě.
+**the Spleen distributes the water extracted from the food and distributes it to the whole of the body, especially to the Lung and Kidney zàng, and thus assists the body's water metabolism.
+*"contains" ({{lang|zh|统}}, {{zh|p=tǒng}})<ref>{{lang|zh|中医世家}} 2006, chapter 3, lead</ref> the blood inside the vessels (this is also one of the functions of qì<ref>{{cite web |url=http://www.zgxl.net/sljk/imgbody/zyrt/qi.htm |script-title=zh:气 |author={{lang|zh|郭卜乐}} |date=24 October 2009 |access-date=2 December 2010 |language=Chinese |trans-title=Qi |url-status=dead |archive-url=https://web.archive.org/web/20090108191112/http://www.zgxl.net/sljk/imgbody/zyrt/qi.htm |archive-date=8 January 2009 }}</ref>)
+*governs muscles and limbs
+*opens into the lips (and mouth)
+*houses the ''[[Yi (Confucianism)|yì]]'' ({{lang|zh|意}}, "thinking")
+*governs pondering ({{lang|zh|思}}, {{zh|p=sī}})<ref>{{cite web |url=http://www.wisdomsea.com/thread-413-1-1.html |script-title=zh:中医理论:基础理论:第二节 内伤病因:一、七情:（二）七情与脏腑气血的关系 |author={{lang|zh|阵雨}} |date=15 December 2009 |access-date=20 December 2010 |language=Chinese |trans-title=TCM theory – Basic theory – Chapter 2: Internal causes of disease – 1. The Seven Emotions – 1.2. The relations between the Seven Emotions, the zang-fu, and qi and blood |url-status=dead |archive-url=https://web.archive.org/web/20101010131856/http://www.wisdomsea.com/thread-413-1-1.html |archive-date=10 October 2010 }}</ref>
+Its associated body fluid is saliva.<br />
+The Spleen's function (i.e., the Spleen-qì) is said to be strongest between 9 and 11am.  
+When the Spleen is functioning well, digestion will be good, the muscles will be strong and circulation will be efficient.  Dysfunction of the Spleen typically presents as diarrhea, malnutrition, edema, weak/atrophic muscles, greasy taste in the mouth, or excessive bleeding and prolapse.<ref>Cultural China 2007</ref> The Spleen is especially weakened by the [[Pathogenic Factor ''Dampness'']] and overthinking.
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{lang|zh|中医世家}} (2006-07-18), [http://www.zysj.com.cn/lilunshuji/jichulilun/44-3-1.html#m0-0 "{{lang|zh|第一节 五脏}}"], ''{{lang|zh|中医基础理论}}'', retrieved 2010-12-18
+*Cultural China (2007), [https://web.archive.org/web/20110314201959/http://kaleidoscope.cultural-china.com/en/118Kaleidoscope4651.html "Chinese Medicine : Basic Zang Fu Theory"], ''Kaleidoscope → Health'', retrieved 2010-12-21
+
+== Further reading ==
+* {{cite book|title=Acupuncture and Related Techniques in Physical Therapy|editor1=Val Hopwood |editor2=Maureen Lovesey |editor3=Sara Mokone |chapter=Introduction to Traditional Chinese Medicine theory|author=Val Hopwood|publisher=Elsevier Health Sciences|year=1997|isbn=9780443055935|page=11}}
+* {{cite book|title=Acupuncture|author=Christopher M. Norris|pages=17&ndash;18|publisher=Elsevier Health Sciences|year=2001|isbn=9780750651738}}
+
+{{Traditional Chinese medicine}}
+
+[[Category:Traditional Chinese medicine]]
+[[Category:Spleen (anatomy)]]
+
+
+{{Alt-med-stub}}

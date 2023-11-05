@@ -1,0 +1,36 @@
+{{Short description|Ineffective herbal cancer treatment}}
+'''Carctol''' is an ineffective cancer treatment made by mixing eight Indian herbs.<ref name="cruk">{{cite web | title=About Cancer | website=Cancer Research UK | date=30 August 2017 | url=https://www.cancerresearchuk.org/about-cancer | access-date=8 August 2018|quote=there isn't any scientific evidence to prove that it is safe or works as a treatment for any type of illness}}</ref> First promoted in 1968 by Nandlal Tiwari,<ref name="cruk" /> it gained widespread popularity in United Kingdom.<ref name="ernst" />
+
+Carctol has been aggressively marketed as being able to treat cancer and reduce the side-effects of [[chemotherapy]]. However, there is no [[Hierarchy of evidence|medical evidence]] that it has any benefits whatsoever for people with cancer.<ref name=cruk/>
+
+==Background==
+
+Carctol is a herbal dietary supplement marketed with claims it is based on traditional [[ayurvedic medicine]].<ref name=cruk/> Its ingredients include ''[[Hemidesmus indicus]]'', ''[[Tribulus terrestris]]'', ''[[Piper cubeba]]'', ''[[Ammani vesicatoria]]'', ''[[Lepidium sativum]]'', ''[[Blepharis edulis]]'', ''[[Smilax china]]'', and ''[[Rheum australe]]'' ([[Synonym (taxonomy)|syn.]] ''R.&nbsp;emodi'').<ref name=cruk/>
+
+It was In 2009, [[Edzard Ernst]] wrote that it was still promoted in the [[United Kingdom]]; public relations companies hired by its sellers had garnered it wide coverage on the web and,<ref name=ernst/> according to the ''[[British Medical Journal]]'', in the media generally.<ref>{{cite journal|doi=10.1136/bmj.329.7469.804|pmc=521016|title=PR coup for herbal cancer drug|year=2004|last1=Marks|first1=N.|journal=BMJ|volume=329|issue=7469|pages=804}}</ref>
+
+==Criticism==
+
+Edzard Ernst has noted a complete absence of any form of scientific evidence to assert that carctol is any beneficial to cancer patients.<ref name=ernst>{{cite journal|doi=10.1159/000193025|title=Carctol: Profit before Patients? | year=2009 | last1=Ernst | first1=Edzard | authorlink=Edzard Ernst | journal=Breast Care | volume=4 | pages=31–33 | pmid=20877681 | issue=1 | pmc=2942009}}</ref> A few studies about the chemical composition of carctol along with inconclusive surveys of patients who used it were noted to be published in non-peer reviewed journals.<ref name="ernst" />
+
+[[Cancer Research UK]] say of carctol, "available scientific evidence does not support its use for the treatment of cancer in humans".<ref name="cruk" /> 
+
+[[Harriet A. Hall]] includes carctol among the biologically-based remedies promoted by [[naturopath]]s. Hall laments that frauds and [[quackery|quacks]] persistently try to take advantage of the vulnerability of cancer patients.<ref name=hall>{{cite journal|doi=10.1179/1743291X12Y.0000000009|title=CAM for cancer: Preying on desperate people?|year=2012|last1=Hall|first1=Harriet A.| authorlink = Harriet A. Hall | journal=Progress in Palliative Care|volume=20|issue=5|pages=295–299|s2cid=72796644}}</ref>
+
+==See also==
+*[[List of ineffective cancer treatments]]
+*[[Naturopathy]]
+
+==References==
+{{Reflist}}
+{{pseudoscience}}
+{{Fraud}}
+
+[[Category:Alternative cancer treatments]]
+[[Category:Alternative medicine]]
+[[Category:Health fraud products]]
+[[Category:Patent medicines]]
+[[Category:Pseudoscience]]
+
+
+{{alt-med-stub}}

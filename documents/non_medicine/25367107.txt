@@ -1,0 +1,63 @@
+{{Short description|Virus that causes pox lesions in quokka}}
+{{Virusbox
+|image         =
+|image_caption =
+|image_alt     =
+|taxon         = Quokkapox virus
+}}
+
+'''Quokkapox virus''' (QPV), also known as '''quokka poxvirus''', '''marsupial papillomavirus''', or '''marsupialpox virus''',<ref>{{Cite book
+  | last = Mahy
+  | first = Brian W. J.
+  | title = The dictionary of virology
+  | publisher = Elsevier
+  | date = October 2008
+  | pages = 393
+  | url = https://books.google.com/books?id=ksSkuSLzXJsC
+  | isbn = 978-0-12-373732-8}}</ref> is a [[DNA virus#Group I: dsDNA viruses|dsDNA virus]] that causes [[quokkapox]].  It is unclear whether this [[virus]] is its own [[species]] or a member of another species.<ref name=ICTV>{{cite web|author1=<!-- not stated -->|title=ICTV 9th Report (2011)|url=https://ictv.global/report_9th/dsDNA/poxviridae|website=ICTV|access-date=30 September 2017|location=Leiden|language=en|date=2011|quote=List of other related viruses which may be members of the subfamily Chordopoxvirinae but have not been approved as species Quokka poxvirus}}</ref>  It primarily infects the [[quokka]], which is one of only four [[Macropodidae|macropodid]] [[marsupial]]s to get pox [[lesion]]s.  The lesions can mainly be seen on the tail, and can be up to {{convert|5|cm}} in diameter.<ref>{{Cite book
+  | last = Williams
+  | first = Elizabeth S.
+  |author2=Ian K. Barker
+   | title = Infectious diseases of wild mammals
+  | publisher = Blackwell Publishing
+  | year = 2001
+  | pages = 180
+  | url = https://books.google.com/books?id=I62ZO_-4cjwC
+  | doi = 10.1002/9780470344880.fmatter
+  | isbn = 978-0-8138-2556-4}}</ref>
+
+Because the [[quokka]] host primarily lives on isolated islands in [[Western Australia]], the range of the virus is limited as well.  It was first described in 1972 from samples taken on [[Rottnest Island]].<ref>{{Cite journal
+  | last1 = Papadimitriou
+  | first1 = J. M.
+  | author-link = J. M. Papadimitriou
+  | first2=R. B. |last2=Ashman
+  | title = A Poxvirus in a Marsupial Papilloma
+  | journal = Journal of General Virology
+  | volume = 16
+  | issue = 1
+  | pages = 87–89
+  | date = July 1972
+  | pmid = 5049081
+  | url = http://vir.sgmjournals.org/cgi/content/abstract/16/1/87
+  | doi = 10.1099/0022-1317-16-1-87
+  | doi-access = free
+  }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Wikispecies-inline|Quokkapox virus|''quokkapox virus''}}
+{{Taxonbar|from=Q7272848}}
+
+[[Category:Poxviruses]]
+[[Category:Chordopoxvirinae]]
+[[Category:Animal viral diseases]]
+[[Category:Virus-related cutaneous conditions]]
+[[Category:Species described in 1972]]
+[[Category:Infraspecific virus taxa]]
+[[Category:Marsupial diseases]]
+
+
+{{Virus-stub}}
+{{Veterinary-med-stub}}

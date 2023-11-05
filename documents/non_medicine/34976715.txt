@@ -1,0 +1,53 @@
+{{Short description|Traditional Chinese face reading}}
+{{multiple issues|
+{{refimprove|date=December 2021}}
+{{unreliable sources|date=December 2021}}
+{{full citations needed|date=December 2021}}
+}}
+{{Alternative medicine sidebar|traditional}}
+'''Mien shiang''' ({{zh|c={{linktext|面|相}}|p=miànxiàng}} meaning face ({{transl|zh|mien}}) reading ({{transl|zh|shiang}})) is a [[physiognomic]] and [[fortune-telling]] practice in [[Chinese culture]] and [[traditional Chinese medicine]] which purports to determine aspects of person's character, personality, and (future) health by analyzing their face according to the five phases (''"[[Wuxing (Chinese philosophy)|wu xing]]"''). The five phases (namely [[Wood (wuxing)|wood]], [[Fire (wuxing)|fire]], [[Earth (wuxing)|earth]], [[Metal (wuxing)|metal]], and [[Water (wuxing)|water]]) are metaphors devised by ancient [[Chinese philosophy|Chinese philosopher]]s to explain the relationship, interaction, and ongoing change of everything in the universe.<ref name="mien" /> In recent times the art of face reading has become more popular and schools that teach {{transl|zh|mien shiang}} more wide spread.{{cn|date=December 2021}}
+
+==Historical records==
+There are early written records of {{transl|zh|mien shiang}}. In [[Book of Rites]], it writes, "Those who look up are arrogant; Those who look down are worried; Those who look sideways are sly". After [[Gou Jian]] ({{lang|zh|勾践}}) of [[Yue (state)|Yue]] ({{circa|470 BCE}}) settled the [[Wu (state)|State of Wu]], [[Fan Li]] ({{lang|zh|范蠡}}) (536–488 BCE) knew that Gou Jian had a "long neck and sharp upper lips", which meant they could face hardship together but not enjoy peace together.<ref>{{Cite book|title=Records of the Grand Historian of China |script-title=zh:史记‧越王勾践世家}}</ref> Fan Li later fled with [[Xi Shi]] ({{lang|zh|西施}}) to the [[Qi (state)|State of Qi]] and changed their names to lead a new life. Another historical example in which Mien Shiang was used was [[Wang Anshi]] ({{lang|zh|王安石}}) of [[Song Dynasty]]. Wang's eyes resembled those of ox, and his head shaped like those of tigers.<ref>{{Cite book|title=History of Song |script-title=zh:宋史·萧注传}}</ref> It was said{{by whom|date=December 2021}} that if Wang could stare straight at the sun, he had a face with good fortune ({{lang|zh|贵相}}).{{cn|date=December 2021}}
+
+==''Mien shiang'' terminology==
+The words below are a description of {{transl|zh|mien shiang}} terminology, such as "three parts of one's face" ({{lang|zh|三停}}) which includes the upper part ({{lang|zh|上停}}), middle part ({{lang|zh|中停}}), and lower part ({{lang|zh|下停}}).
+
+# [[Yin-Yang]] ({{lang|zh|陰陽}})
+# Three parts of one's face ({{lang|zh|三停}}) are the upper part, middle part, and lower part. <ref>{{Cite book|title=The Complete Writing on Spiritual View of the Body |script-title=zh:神相全编}}{{complete citation needed|date=December 2021}}</ref>
+# Upper part ({{lang|zh|上停}}) is area between the forehead between the hairline and eyebrows. This section represents the fortune between ages 10 to 20, which is one's youth.
+# Middle part ({{lang|zh|中停}}) is the area between the eyebrows and the bottom of the nose. This section represents the fortune between ages 20 to 40, which is one's adult years.
+# Lower part ({{lang|zh|下停}}) is the area between the bottom of the nose to the chin. This section represents the fortune after ages 40, which is one's older adult years.<ref>{{Cite web|url=https://www.theworldofchinese.com/2013/07/face-your-fate/|url-status=dead|archive-url=https://web.archive.org/web/20210213221006/https://www.theworldofchinese.com/2013/07/face-your-fate/|archive-date=13 February 2021|title=Face your Fate|date=2013-07-29|website=The World of Chinese|access-date=2019-12-08}}</ref>
+# Five organs on one's face ({{lang|zh|五官}}) includes one's ears, eyebrows, eyes, nose, and mouth.
+# Face Shape ({{lang|zh|面型}}) includes ten major kinds: ''You'' ({{lang|zh|由}}), ''Jia'' ({{lang|zh|甲}}), ''Shen'' ({{lang|zh|申}}), ''Tian'' ({{lang|zh|田}}), ''Tong'' ({{lang|zh|同}}), ''Wang'' ({{lang|zh|王}}), ''Yuan'' ({{lang|zh|圓}}), ''Mu'' ({{lang|zh|目}}), ''Yong'' ({{lang|zh|用}}), and ''Feng'' ({{lang|zh|風}}).
+# Twelve Houses ({{lang|zh|十二宮}}) includes the 12 basic parts on one's face that represent different aspects of life. They are the life house ({{lang|zh|命宮}}), wealth house ({{lang|zh|財帛宮}}), sibling house ({{lang|zh|兄弟宮}}), marriage house ({{lang|zh|夫妻宮}}), children house ({{lang|zh|子女宮}}), health house ({{lang|zh|疾危宮}}), travelling house ({{lang|zh|遷移宮}}), assistant house ({{lang|zh|奴僕宮}}), career house ({{lang|zh|官祿宮}}), property house ({{lang|zh|田宅宮}}), fortune & emotion house ({{lang|zh|福德宮}}), and parents house ({{lang|zh|父母宮}}). 
+# Wrinkle ({{lang|zh|紋}}), scar ({{lang|zh|痕}}), mole ({{lang|zh|痣}}), speckle ({{lang|zh|斑}}).
+# Nei Shiang ({{lang|zh|內相}}) is the internal aspect of the body including shoulders, waist, back, chest, abdomen, umbilicus, forearms, limbs, neck, breasts (for women), and others.
+# Gu Shiang ({{lang|zh|骨相}}) is bone reading, including the skull and the bones in the body.
+# Dong Shiang ({{lang|zh|動相}}) is the individual's movement, including walking ({{lang|zh|行相}}), sitting and standing ({{lang|zh|坐立相}}), eating ({{lang|zh|食相}}), lying ({{lang|zh|臥相}}), crying ({{lang|zh|哭相}}), and laughing ({{lang|zh|笑相}}).
+# Sheng Shiang ({{lang|zh|聲相}}) is the sounds that one makes.
+
+==See also==
+* [[Metoposcopy]]
+* [[Physiognomy]]
+* [[Phrenology]]
+
+==References==
+{{reflist
+|refs=
+<ref name="mien">{{cite web
+|url=http://mienshiang.com/ 
+|title=The Mien Shiang Institute: Chinese/Taoist Face Reading 
+|publisher=Mienshiang.com 
+|access-date=2012-03-05
+}}{{unreliable source|date=December 2021}}</ref>
+}}
+
+[[Category:Chinese culture]]
+[[Category:Divination]]
+[[Category:Physiognomy]]
+[[Category:Taoist practices]]
+[[Category:Traditional Chinese medicine]]
+
+{{china-stub}}
+{{alt-med-stub}}

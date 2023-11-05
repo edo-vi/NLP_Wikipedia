@@ -1,0 +1,162 @@
+{{short description|US law}}
+{{Infobox U.S. legislation
+| shorttitle = Patient Safety and Quality Improvement Act of 2005
+| longtitle = A bill to amend title IX of the Public Health Service Act to provide for the improvement of patient safety and to reduce the incidence of events that adversely effect patient safety.
+| acronym = PSQIA
+| enacted by = 109th
+| effective date = July 29, 2005
+| cite public law = {{USPL|109|41}}
+| cite statutes at large = 
+| acts amended = [[Public Health Service Act]]
+| title amended = 42
+| sections created = 
+| sections amended = {{usctc|42|6A|VII}}
+| leghisturl = https://www.congress.gov/bill/109th-congress/senate-bill/544
+| introducedin = Senate
+| introducedbill = {{USBill|109|S.|544}}
+| introducedby = [[Jim Jeffords]] ([[Independent Politician|I]]–[[Vermont|VT]])
+| introduceddate = March 8, 2005
+| committees = Senate Health, Education, Labor, and Pensions; House Energy and Commerce Subcommittee on Health
+| passedbody1 = Senate
+| passeddate1 = July 21, 2005
+| passedvote1 = Unanimous consent
+| passedbody2 = House
+| passedas2 = <!-- used if the second body changes the name of the legislation -->
+| passeddate2 = July 27, 2005
+| passedvote2 = [http://clerk.house.gov/evs/2005/roll434.xml 428–3]
+| agreedbody3 = <!-- used when the other body agrees without going into committee -->
+| passedbody3 = 
+| conferencedate = 
+| passeddate3 = 
+| passedvote3 = 
+| passedbody4 = 
+| passeddate4 = 
+| passedvote4 = 
+| agreeddate3 = <!-- used when the other body agrees without going into committee -->
+| agreedvote3 = <!-- used when the other body agrees without going into committee -->
+| agreedbody4 = <!-- used if agreedbody3 further amends legislation -->
+| agreeddate4 = <!-- used if agreedbody3 further amends legislation -->
+| agreedvote4 = <!-- used if agreedbody3 further amends legislation -->
+| signedpresident = [[George W. Bush]]
+| signeddate = July 29, 2005
+| amendments = 
+| unsignedpresident = 
+| vetoedpresident = 
+}}
+{{Healthcare in the United States}}
+The '''Patient Safety and Quality Improvement Act''' of 2005<ref name="theact">[http://www.gpo.gov/fdsys/pkg/PLAW-109publ41/pdf/PLAW-109publ41.pdf Patient Safety and Quality Improvement Act]</ref> (PSQIA): {{USPL|109|41}}, [[Title 42 of the United States Code|42 U.S.C.]]&nbsp;[https://www.law.cornell.edu/uscode/42/usc_sup_01_42_10_6A_20_VII_30_C.html ch. 6A subch. VII part C], established a system of [[patient safety organization]]s and a national patient safety database. To encourage reporting and broad discussion of adverse events, [[near miss (safety)|near miss]]es, and dangerous conditions, it also established [[privilege (evidence)|privilege]] and confidentiality protections for Patient Safety Work Product (as defined in the act). The PSQIA was introduced by Sen. [[Jim Jeffords]] [I-VT]. It passed in the Senate July 21, 2005 by unanimous consent, and passed the House of Representatives on July 27, 2005, with 428 Ayes, 3 Nays, and 2 Present/Not Voting.<ref name="govtrack">[http://www.govtrack.us/congress/bill.xpd?bill=s109-544 S. 544 (109th) — Patient Safety and Quality Improvement Act of 2005 (GovTrack.us)]</ref>
+
+<br />
+<!-- The lead should establish significance, include mention of notable criticism or controversies, and be written in a way that makes readers want to know more. The appropriate length of the lead depends on that of the article, but should be no more than four paragraphs. -->
+
+== Context for the passage of the Act ==
+
+The [[Notice of proposed rulemaking]]<ref name="nprm">[http://edocket.access.gpo.gov/2008/pdf/E8-2375.pdf Patient Safety and Quality Improvement — Proposed Rule, Federal Register February 12, 2008, pages 8112–8183.]</ref> for this law describes the reason Congress passed it.
+
+{{quote|Much of the impetus for this legislation can be traced to the publication of the landmark report, "[[To Err Is Human (report)|To Err is Human]]",<ref name="toerr">{{Cite book| isbn = 978-0-309-06837-6| editor-last = Kohn| editor-first = Linda T.| editor2-last = Corrigan| editor2-first = Janet M.| editor3-last = Donaldson| editor3-first = Molla S.| title = To Err is Human—Building a Safer Health System| publisher = [[National Academies Press]]| year = 2000| location = Washington, D. C.| pages = 312| url = http://www.nap.edu/catalog.php?record_id=9728}}</ref> by the [[Institute of Medicine]] in 1999 (Report). The Report cited studies that found that at least 44,000 people and potentially as many as 98,000 people die in U. S. hospitals each year as a result of preventable [[medical error]]s. Based on these studies and others, the Report estimated that the total national costs of preventable [[adverse event]]s, including lost income, lost household productivity, permanent and temporary disability, and health care costs to be between $17 billion and $29 billion, of which health care costs represent one-half. One of the main conclusions was that the majority of medical errors do not result from individual [[Recklessness (law)|recklessness]] or the actions of a particular group; rather, most errors are caused by faulty systems, processes, and conditions that lead people to make mistakes or fail to prevent adverse events. Thus, the Report recommended mistakes can best be prevented by designing the health care system at all levels to improve safety—making it harder to do something wrong and easier to do something right.
+
+As compared to other high-risk industries, the [[Health care system#United States|health care system]] is behind in its attention to ensuring basic safety. The reasons for this lag are complex and varied. Providers are often reluctant to participate in quality review activities for fear of liability, professional sanctions, or injury to their reputations. Traditional state-based legal protections for such health care quality improvement activities, collectively known as [[Medical peer review|peer review]] protections, are limited in scope: They do not exist in all States; typically they only apply to peer review in hospitals and do not cover other health care settings, and seldom enable health care systems to pool data or share experience between facilities. If peer review protected information is transmitted outside an individual hospital, the peer review privilege for that information is generally considered to be waived. This limits the potential for aggregation of a sufficient number of patient safety events to permit the identification of patterns that could suggest the underlying causes of risks and hazards that then can be used to improve patient safety.}}
+
+== Summary of the act's major sections ==
+
+=== Definitions ===
+
+''Patient Safety Organization'' (PSO) must certify that it supports the requirements in the PSQIA and be [http://www.pso.ahrq.gov/listing/psolist.htm listed] on the [[Agency for Healthcare Research and Quality]] (AHRQ) web site.
+
+The definition of ''Patient Safety Work Product'' (PSWP) is quite broad. Patient safety work product includes any data, reports, records, memoranda, analyses (such as [[root cause analysis|root cause analyses]]), or written or oral statements (or copies of any of this material), which are assembled or developed by a provider for reporting to a PSO and are reported to a PSO; or are developed by a patient safety organization for the conduct of patient safety activities; and which could result in improved patient safety, [[health care quality]], or health care outcomes; or which identify or constitute the deliberations or analysis, or identify the fact of reporting pursuant to a patient safety evaluation system (42 USC 299b-21(7)(A)).
+
+However, patient safety work product does not include a patient's [[medical record]], billing and discharge information, or any other original patient or provider records; nor does it include information that is collected, maintained, or developed separately, or exists separately, from a patient safety evaluation system.
+
+=== Privilege and confidentiality protections ===
+
+Patient Safety Work Product must not be disclosed, except in very specific circumstances and subject to very specific restrictions.
+
+Note: the Patient Safety Activities Exception is the most common one that providers and PSOs will be working with.
+
+Permitted Disclosures
+
+* Patient Safety Activities — PSWP may be disclosed:
+** Between the Provider and the PSO — i.e.:
+*** From the provider to the PSO, for Patient Safety Activities, and
+*** From the PSO to the disclosing provider, for Patient Safety Activities
+** To a contractor of a Provider or a PSO
+*** For contracted Patient Safety Activities
+*** Contractor may not further disclose, except back to the contracted provider or PSO
+** Among affiliated providers, for Patient Safety Activities
+*** From one PSO to another PSO or another provider, if
+**** Direct identifiers (which are defined in the regulations) of any providers, affiliated organizations, corporate parents, subsidiaries, practice partners, employers, members of the workforce, or household members of such providers are removed; and
+**** With respect to any Individually identifiable health information within the PSWP, a limited data set (also defined by regulation) is produced
+* Business operations — A provider or PSO may disclose to attorneys, accountants or other professionals for business operations purposes.
+** Further disclosure (except back to the contracting entity) is prohibited
+* Authorized by identified providers — Disclosure is permitted if all identified providers authorize the disclosure.
+** Authorization must be in writing, signed by the provider, and
+** Must state the nature and scope of the disclosure
+* Accrediting bodies (e.g., [[Joint Commission|The Joint Commission]]) — PSWP may be (but is not required to be) disclosed to an accrediting body if:
+** Any identified provider agrees to the disclosure; or
+** Direct identifiers of any provider (or affiliated organizations, corporate parents, subsidiaries, practice partners, employers, members of the workforce, or household members) are removed
+* Nonidentifiable PSWP — May be disclosed
+** The regulations set out specific requirements for "nonidentification."
+* Research — This exception allows disclosure to researchers conducting certain types of research projects. If protected health information is involved, the [[Health Insurance Portability and Accountability Act|HIPAA]] privacy and security rules also apply.
+* [[Food and Drug Administration (United States)|Food and Drug Administration]] (FDA) — PSWP may be disclosed to the FDA
+** By a provider concerning an FDA-regulated product or activity,
+** By an entity required to report to the FDA about the quality, safety, or effectiveness of an FDA-regulated product or activity, or
+** By a contractor acting on behalf of the FDA or entity for these purposes
+* Law enforcement — PSWP may be disclosed to law enforcement personnel
+** If the information relates to an event that either constitutes the commission of a crime, or for which the disclosing person reasonably believes constitutes the commission of a crime, provided that the disclosing person believes, reasonably under the circumstances, that the patient safety work product that is disclosed is necessary for criminal law enforcement purposes
+* Criminal proceedings — But only after a court makes an ''[[in camera]]'' (in closed chambers) determination that:
+** The PSWP contains evidence of a criminal act;
+** The PSWP is material to the proceedings; and
+** The PSWP is not reasonably available from any other source
+* Disclosure to permit equitable relief for reporting individuals — This exception allows use of PSWP by individuals who claim they have been the victim of an adverse employment action because the individual reported information to a PSO (either directly to the PSO or with the intent of having it reported to the PSO)
+** There must be a "protective order" issued by the court or administrative tribunal to protect the confidentiality of PSWP used in the proceeding
+
+Violations & Enforcement
+
+* An individual who knowingly or recklessly violates the confidentiality provisions is subject to a [[civil penalty]] of up to $10,000 for each act constituting such violation.
+* [[Safe harbor (law)|Safe Harbor]] — a provider whose workforce member discloses PSWP is not deemed to have violated the Act if that workforce member disclosure does not include written or oral statements that:
+** Assess the quality of care of an identifiable provider, or
+** Describe or pertain to one or more actions or failures to act by an identifiable provider
+
+: Note: the individual workforce member of the provider would still be subject to possible penalties if the disclosure is knowing or reckless. This safe harbor does not apply to the PSO itself — i.e., a PSO workforce member's disclosure is attributable to the PSO.
+
+The Act is enforced by the Secretary of [[United States Department of Health and Human Services|Health and Human Services]]
+
+* PSWP may be disclosed to (and the Secretary may require disclosure of PSWP) to investigate or determine compliance with the Patient Safety Act or with HIPAA.
+
+=== Network of patient safety databases ===
+[https://www.ahrq.gov/npsd/what-is-npsd/index.html What is the Network of Patient Safety Databases?]
+
+=== Patient Safety Organization certification and listing ===
+
+[[Media:Listedpso.jpg|Listed PSO logo]]: only officially listed PSOs may display this logo.
+
+[[File:Listedpso.jpg|alt=Listed PSO logo|Only officially listed PSOs may display this logo.]]
+
+== See also ==
+* [[Medical error]]
+* [[Patient safety]]
+* [[Listed Patient Safety Organization]]
+* [[Safety engineering]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{Cite journal |doi=10.1177/1527154407313467 |pmid=18337431 |year=2007 |last1=Mattie |first1=A. |last2=Ben-Chitrit |first2=R. |title=Patient safety legislation: a look at health policy development |volume=8 |issue=4 |pages=251–261 |journal=[[Policy, Politics, & Nursing Practice]] |s2cid=206742883}}
+* [http://www.chpso.org/providerpol/chpsowppr.pdf White paper describing interaction of PSQIA and California laws]
+* {{Cite journal| doi = 10.1177/1062860608319673| pmid = 18658105| year = 2008| last1 = Clancy | first1 = C. M.| title = New patient safety organizations lower roadblocks to medical error reporting| volume = 23| issue = 4| pages = 318–321| journal = American Journal of Medical Quality  | s2cid = 39420910}}
+* {{Cite report | title      = Patient Safety Organizations: Hospital Participation, Value, and Challenges (OEI-01-17-00420) | url        = https://oig.hhs.gov/oei/reports/oei-01-17-00420.asp | year       = 2019 | publisher  = United States Office of Inspector General | access-date = 25 September 2019 }}
+* {{Cite journal| pmid = 17849674| year = 2007| last1 = Vemula| first1 = R| last2 = Robyn Assaf| first2 = R| last3 = Al-Assaf| first3 = AF| title = Making the Patient Safety and Quality Improvement Act of 2005 work| volume = 29| issue = 4| pages = 6–10| journal = Journal for Healthcare Quality| doi = 10.1111/j.1945-1474.2007.tb00199.x| s2cid = 31365980}}
+
+== External links ==
+* [https://pso.ahrq.gov/faq AHRQ FAQ for the Patient Safety and Quality Improvement Act]
+* [https://pso.ahrq.gov/listed Listed Patient Safety Organizations]
+* [https://web.archive.org/web/20110129060350/https://psoppc.org/web/patientsafety PSO Common Formats]
+
+{{DEFAULTSORT:Patient Safety}}
+[[Category:Acts of the 109th United States Congress]]
+[[Category:Evidence-based medicine]]
+[[Category:Healthcare in the United States]]
+[[Category:Patient safety]]
+[[Category:Safety]]
+[[Category:United States federal health legislation]]

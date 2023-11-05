@@ -1,0 +1,35 @@
+{{italic title}}
+The '''''Shitong''''' ({{zh|c=史通|p=Shǐtōng|l=Generality of Historiography}}) is the first [[Chinese language|Chinese-language]] work about [[historiography]] compiled by [[Liu Zhiji]] between 708 and 710. The book describes the general pattern of the past official dynastic historiography on structure, method, order of arrangement, sequence, caption and commentary back to the pre-[[Qin Dynasty|Qin]] era. 
+
+It contains about 88,000 words including Liu's commentaries, which divided into 39 inner chapters and 13 outer chapters, 3 of the inner chapters had been lost since the times of [[Ouyang Xiu]], while the rests managed to survive. The inner chapters which are a principal part of the book provided information on the types, forms, rules, layout, the collecting of historical materials, outline, and the principle of historiography. The outer chapters describe the official system of the historiographer, origin and development of histories, and the success and failure of past [[historian]]s.
+
+The copies of [[Song Dynasty]] are no longer available, while the reprinted editions of [[Ming Dynasty]] can still be seen. The oldest are the 1535 edition by Lu Shen, the most complete version of them being the 1577 edition by Zhang Zhixiang, which was published by Zhonghua Shuju in 1961.
+
+In comparison with other contemporary Chinese works, the ''Shitong'' have several notable innovations in ideas and content, including:<ref>Nguyễn Thanh Hà (2009), Mười nhà sử học nổi tiếng Trung Quốc (Ten notable Chinese historians), Nhà xuất bản Văn hóa thông tin, p. 52-53 (in Vietnamese)</ref>
+* The ''Shitong'' rejected the idea of [[fatalism]] and stated that the successes or failures of dynasties was not determined by heaven's fate, but by the personality and quality of the dynasty's members themselves.
+* The ''Shitong'' rejected the idea of using results as the only criteria to assess the people.
+* The ''Shitong'' rejected the idea of Sinocentrism and Han Chinese chauvinism, and advocated the healthy skepticism about the established conceptions and ideas which was not always correct or indisputable.
+
+==See also==
+
+*[[Chinese historiography]]
+
+== References ==
+{{Reflist}}
+{{refbegin}}
+* Tang, Qinfu (2001). ''History of Chinese Historiography''. Taiyuan: Shanxi Education Press. {{ISBN|7-5440-2111-4}}. pp.&nbsp;215-217.
+* Li, Wenli. ''[http://www.cqvip.com/QK/90405X/200605/22895497.html?SUID=EGBNBFDHDNCBCOPIBOLGEMCBCDOIPNFP Liu Zhiji Shitong Tixian De Biandao Sixiang He Biandao Yuanze (The Editing Thought and Principle in Liu Zhiji's Shitong)]''. ''Tangdu Journal''. 2006.5. pp.&nbsp;34-36. ISSN 1001-0300.
+* Qu, Lintong, [https://web.archive.org/web/20070929095809/http://203.72.198.245/web/Content.asp?ID=52400&Query=1 ''Shitong'' ("Generality of Historiography")]. ''[[Encyclopedia of China]]'' (1st ed.).
+{{refend}}
+
+==External links==
+* [http://www.chinaknowledge.de/Literature/Historiography/shitong.html ''Shitong'' "All about Historiography"] — Chinaknowledge.de.
+
+[[Category:Historiography of China]]
+[[Category:Chinese history texts]]
+[[Category:8th-century history books]]
+[[Category:Tang dynasty literature]]
+[[Category:8th-century Chinese books]]
+
+
+{{china-hist-book-stub}}

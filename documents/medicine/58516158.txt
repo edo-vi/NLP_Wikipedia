@@ -1,0 +1,38 @@
+{{Short description|Food safety incident in Australia and Singapore}}
+{{Use Australian English|date=September 2018}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox civilian attack
+| title            = 2018 Australian rockmelon listeriosis outbreak
+| image            = Cantaloupes.jpg
+| caption          = The outbreak was traced to rockmelons grown in the Riverina region of New South Wales.
+| location         = [[Australia]], [[Singapore]]
+| date             = January–March 2018
+| fatalities       = 6
+| injuries         = 18
+}}
+The '''2018 Australian rockmelon listeriosis outbreak''' was an outbreak of [[Listeriosis]], caused by the bacteria ''[[Listeria monocytogenes]]'', later traced to [[rockmelon]] (also known as cantaloupe) grown by Rombola Family Farms<ref name="abc">{{cite news |url=https://www.abc.net.au/news/2018-10-11/listeria-rockmelon-report-finds-outbreak-caused-dust-storms/10365636 |title=Rockmelon listeria investigation finds outbreak that killed seven largely caused by dust storms |last=Jasper |first=Clint |newspaper=ABC News |date=October 11, 2018 |access-date=August 3, 2020}}</ref> in the [[Riverina]] region of [[New South Wales]], Australia.{{cn|date=June 2021}}
+
+The outbreak killed six people and infected a further 16 in Australia and infected two more in [[Singapore]], who had consumed rockmelon imported from Australia.{{cn|date=January 2021}}
+__TOC__
+==Outbreak==
+The NSW Food Authority began investigating a link between an outbreak of Listeriosis and the consumption of rockmelon in January 2018. NSW Health first issued a public warning on 28 February.<ref>{{cite news |last1=Dow |first1=Aisha |last2=Clun |first2=Rachel |date=28 February 2018 |title=Two people have died in national outbreak of listeria linked to rockmelon supplier |url=https://www.smh.com.au/national/national-outbreak-of-listeria-linked-to-rockmelon-supplier-20180228-p4z26u.html |work=[[Sydney Morning Herald]] |location=[[Sydney]] |access-date=18 September 2017}}</ref> This prompted the Australian Melon Association to warn consumers to either dispose of, or return the place of purchase, any rockmelons purchased prior to 28 February.<ref>{{cite news |author=<!--Staff writer(s); no by-line.--> |title=Australians told to throw out rockmelon after two deaths in listeria outbreak |url=https://www.theguardian.com/australia-news/2018/mar/01/australians-told-to-throw-out-rockmelon-after-two-deaths-in-listeria-outbreak |work=[[The Guardian]] |location=[[Sydney]] |date=28 February 2018 |access-date=18 September 2018}}</ref>
+
+The outbreak was ultimately determined to be due to [[duststorm]] conditions in the area. <ref name="abc"/>
+
+==See also==
+* [[Food safety in Australia]]
+
+==References==
+{{reflist}}
+
+[[Category:2018 disasters in Australia|Rockmelon]]
+[[Category:2018 scandals]]
+[[Category:Food safety in Australia]]
+[[Category:Food safety scandals]]
+[[Category:Cantaloupe]]
+[[Category:March 2018 events in Australia]]
+[[Category:2018 disease outbreaks]]
+[[Category:Scandals in Australia]]
+[[Category:Listeriosis outbreaks]]
+
+{{epidemic-stub}}

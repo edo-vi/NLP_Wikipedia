@@ -1,0 +1,21 @@
+{{short description|Protozoan disease of animals}}
+'''Besnoitiosis''' is a [[protozoa]]n disease of the skin, [[subcutis]], blood vessels, mucous membranes, and other tissues" of animals.<ref name="Merck">{{cite web|title=Besnoitiosis: Introduction|url=http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/50500.htm|website=Merck Veterinary Manual}}</ref> It "is endemic in tropical and sub-tropical regions with high infection rate but low mortality"; however, it is rare in other regions.<ref name="Free">{{cite web|title=Besnoitiosis|url=http://medical-dictionary.thefreedictionary.com/besnoitiosis|website=The Free Dictionary}}</ref>
+
+The causative organisms of the cutaneous disease, and the affected animals include:<ref name="Merck"/><ref name="Free"/>
+* ''[[Besnoitia besnoiti]]'' in [[cattle]] (swelling of the lymph nodes, subcutaneous swellings, diarrhea, abortion and infertility)
+* ''[[Besnoitia bennetti]]'' in [[horse]]s and [[donkey]]s (characterized by a widespread, serious dermatitis)
+* ''[[Besnoitia jellisoni]]''  and ''[[Besnoitia wallacei|B. wallacei]]'' in [[rodent]]s
+* ''[[Besnoitia tarandi]]'' in [[reindeer]] and [[caribou]]
+* ''[[Besnoitia darlingi]]'' in [[lizard]]s, [[opossum]]s, and [[snake]]s
+* ''[[Besnoitia sauriana]]'' in lizards
+* Viscerotropic strains of ''[[Besnoitia besnoiti|B.besnoiti]]'' in African antelope
+* An unidentified ''[[Besnoitia]]'' species in [[goat]]s in [[Iran]], [[New Zealand]], and [[Kenya]]
+
+==References==
+{{reflist}}
+
+[[Category:Veterinary protozoology]]
+[[Category:Protozoal diseases]]
+
+
+{{veterinary-med-stub}}

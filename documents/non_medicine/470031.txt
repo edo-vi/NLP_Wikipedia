@@ -1,0 +1,30 @@
+{{short description|Remarkable or characteristic story}}
+{{for|the 1989 film|Anecdote (film){{!}}''Anecdote'' (film)}}
+An '''anecdote'''<ref>{{cite book|last=Cuddon|first=J. A.|title=Penguin Dictionary of Literary Terms and Literary Theory Third Ed.|year=1992|publisher=Penguin Books|location=London|pages=42}}</ref><ref>Oxford Dictionary's definition of an anecdote</ref> is "a story with a point",<ref>{{harvnb|Epstein|1989|pp=xix}}</ref> such as to communicate an abstract idea about a person, place, or thing through the concrete details of a short narrative or  to characterize by delineating a specific [[wikt:quirk|quirk]] or trait.<ref>{{cite book|last=Epstein|first=Lawrence|title=A Treasury of Jewish Anecdotes|url=https://archive.org/details/treasuryofjewish00epst |url-access=registration |year=1989|publisher=Jason Aronson|location=Northvale, NJ|pages=xix| isbn=9780876688908 }}</ref> Occasionally [[humor]]ous, anecdotes differ from [[joke]]s because their primary purpose is not simply to provoke [[laughter]] but to reveal a truth more general than the brief tale itself.{{cn|date=May 2021}}
+
+Anecdotes may be real or fictional;<ref>{{cite book|last=Kennedy |first=X. J.|title=Handbook of Literary Terms, Third Ed.|year=2005|publisher=Pearson Education|location=Upper Saddle River, NJ|pages=8}}</ref> the anecdotal digression is a common feature of literary works<ref>{{harvnb|Cuddon|1992|p=42}}</ref> and even oral anecdotes typically involve subtle exaggeration and dramatic shape designed to entertain the listener.<ref>{{cite book |contributor-first=Jürgen |contributor-last=Hein |contribution=Die Anekdote |last=Knörrich |first=Otto |title=Formen der Literatur in Einzeldarstellungen |year=1981 |publisher=Alfred Kröner|location=Stuttgart|pages=15}}</ref> An anecdote is always presented as the recounting of a real incident involving actual people and usually in an identifiable place. In the words of [[Jürgen Hein]], they exhibit "a special realism" and "a claimed historical dimension".<ref>{{harvnb|Hein|1981|p=15}}</ref>
+
+== Etymology and usage ==
+The word ''anecdote'' (in [[Ancient Greek|Greek]]: ἀνέκδοτον "unpublished", literally "not given out") comes from [[Procopius of Caesarea]], the biographer of Emperor [[Justinian I]] ({{reign | 527 | 565}}). Procopius produced {{circa | 550 CE}} a work entitled {{lang|grc|Ἀνέκδοτα}} (''Anekdota'', variously translated as ''Unpublished Memoirs'' or as ''Secret History''), which consists primarily of a collection of short incidents from the private life of the [[Byzantine Empire| Byzantine]] court. Gradually, the term "anecdote" came to be applied<ref>Its first appearance in English is of 1676 (''[[OED]]'').</ref> to any short tale used to emphasize or illustrate whatever point an author wished to make. In the context of Greek, [[Estonian language| Estonian]], [[Lithuanian language| Lithuanian]], [[Bulgarian language| Bulgarian]] and [[Russian humor]], an anecdote refers to any short humorous story without the need of factual or biographical origins.
+
+== As evidence ==
+{{Main|Anecdotal evidence}}
+
+Anecdotal evidence is an informal account of [[evidence]] in the form of an anecdote. The term is often used in contrast to [[scientific evidence]], as evidence that cannot be investigated using the [[scientific method]]. The problem with arguing based on anecdotal evidence is that anecdotal evidence is not necessarily typical; only statistical evidence can determine how typical something is. Misuse of anecdotal evidence is an [[informal fallacy]].
+
+When used in [[advertising]] or promotion of a product, service, or idea, anecdotal evidence is often called a [[testimonial]]. The term is also sometimes used in a legal context to describe certain kinds of testimony. [[Psychologist]]s have found that people are more likely to remember notable examples than the typical example.<ref>{{cite journal |last1=Graesser |first1=A.C. |last2=Hauft-Smith |first2=K. |last3=Cohen |first3=A.D. |last4=Pyles |first4=L.D. |title=Structural Components of Reading Time |journal=Journal of Verbal Learning and Verbal Behavior |date=1980 |volume=19 |issue=2 |pages=135–51|doi=10.1016/S0022-5371(80)90132-2 }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* "[[wikt:anecdote|anecdote]]" at [[wikt:Main Page|Wiktionary]]
+* {{cite EB9 |wstitle=Anecdote |volume=2  |page=24  |short=x}}
+* {{cite EB1911 |wstitle=Anecdote |volume=2 |page=2 |short=x}}
+
+{{Authority control}}
+
+[[Category:Literature]]
+[[Category:Short story types]]
+[[Category:Folklore]]
+[[Category:Traditional stories]]

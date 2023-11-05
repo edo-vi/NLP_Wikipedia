@@ -1,0 +1,1535 @@
+{{short description|American professional golfer}}
+{{pp-move|small=yes}}
+{{Use mdy dates|date=May 2021}}
+{{Use American English|date= July 2021}}
+{{Infobox golfer
+| name              = Phil Mickelson
+| image             = Phil Mickelson 15.jpg
+| caption           = Mickelson at the [[2018 U.S. Open (golf)|2018 U.S. Open]] at [[Shinnecock Hills Golf Club|Shinnecock Hills]]
+| fullname          = Philip Alfred Mickelson
+| nickname          = Lefty
+| birth_date        = {{Birth date and age|1970|6|16}}
+| birth_place       = [[San Diego]], [[California]], U.S.
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|1970|6|16}} -->
+| death_place       =
+| height            = 6 ft 3 in<ref name=PGA-profile/>
+| weight            = {{convert|200|lb|kg st|abbr=on}}
+| nationality       = {{USA}}
+| residence         = 
+| spouse            = {{marriage|Amy McBride|1996}}
+| children          = 3
+| college           = [[Arizona State Sun Devils#Golf|Arizona State University]]
+| yearpro           = 1992
+| retired           = <!-- Year retired -->
+| tour              = [[LIV Golf]]
+| extour            = [[PGA Tour]]<br>[[PGA Tour Champions]]
+| prowins           = 57
+| pgawins           = 45 ([[List of golfers with most PGA Tour wins|Tied 8th all time]])
+| eurowins          = 11
+| japwins           = <!-- Number of Japan Golf Tour wins -->
+| asiawins          = 1
+| sunwins           = 1
+| auswins           = 1
+| nwidewins         = <!-- Number of Nationwide Tour wins -->
+| chalwins          = 1
+| champwins         = 4
+| seneurowins       = <!-- Number of European Seniors Tour wins -->
+| otherwins         = 4
+| majorwins         = 6
+| masters           = '''Won''': [[2004 Masters Tournament|2004]], [[2006 Masters Tournament|2006]], [[2010 Masters Tournament|2010]]
+| usopen            = 2nd/T2: [[1999 U.S. Open (golf)|1999]], [[2002 U.S. Open (golf)|2002]], [[2004 U.S. Open (golf)|2004]], [[2006 U.S. Open (golf)|2006]], [[2009 U.S. Open (golf)|2009]], [[2013 U.S. Open (golf)|2013]]
+| open              = '''Won''': [[2013 Open Championship|2013]]
+| pga               = '''Won''': [[2005 PGA Championship|2005]], [[2021 PGA Championship|2021]]
+| wghofid           = phil-mickelson
+| wghofyear         = 2012
+| award1            = [[Haskins Award]]
+| year1             = 1990, 1991, 1992
+| award2            = Jack Nicklaus Award
+| year2             = 1990, 1991, 1992
+| awardssection     = <!-- location of awards page or section -->
+}}
+'''Philip Alfred Mickelson''' (born June 16, 1970) is an American professional [[golf]]er  who currently plays in the [[LIV Golf League]]. He has won 45 events on the [[PGA Tour]], including six [[Men's major golf championships|major championships]]: three [[Masters Tournament|Masters]] titles ([[2004 Masters Tournament|2004]], [[2006 Masters Tournament|2006]], [[2010 Masters Tournament|2010]]), two [[PGA Championships]] ([[2005 PGA Championship|2005]], [[2021 PGA Championship|2021]]),<ref>{{ cite web |url=http://i.pga.com/pga/images/events/2005/pgachamp/pdf/totalpurse.pdf |title=The 87th PGA Championship |publisher=[[PGA of America]] |date=August 15, 2005 |access-date=October 16, 2013}}</ref> and one [[The Open Championship|Open Championship]] ([[2013 Open Championship|2013]]).<ref>{{cite news |url=http://www.theopen.com/en/News/LatestNews/2013/07/Mickelson-presscon.aspx |title=Mickelson's "Peaceful" Day |publisher=The Open |date=July 21, 2013 |access-date=October 16, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131016172203/http://www.theopen.com/en/News/LatestNews/2013/07/Mickelson-presscon.aspx |archive-date=October 16, 2013 }}</ref> With his win at the [[2021 PGA Championship]], Mickelson became the oldest major championship winner in history at the age of 50 years, 11 months, and 7 days.<ref name="Oldest major"/> He is nicknamed '''Lefty''', as he plays [[left-handed]].
+
+Mickelson is one of 17 players in the history of golf to win at least three of the four majors.<ref>{{cite web |title=The Lost Major: Golfers to win three legs of the Career Grand Slam |url=https://golftoday.co.uk/golfers-to-win-three-of-the-four-majors/ |work=GolfToday |date= March 18, 2019|access-date=August 9, 2020}}</ref> He has won every major except the [[U.S. Open (golf)|U.S. Open]], in which he has finished runner-up a record six times.<ref>{{cite news |last=Pingue |first=Frank |title=Golf-Six-times runner-up Mickelson gets exemption into U.S. Open |url=https://nationalpost.com/pmn/health-pmn/golf-six-times-runner-up-mickelson-gets-exemption-into-u-s-open |access-date=August 9, 2020 |work=National Post |date=June 25, 2020}}</ref> In 2022, Mickelson became the only golfer who has won 3 (or more) of the 4 majors to join the Saudi-backed [[LIV Golf]] tour, leaving his PGA Tour membership of 30 years.
+ 
+Mickelson has spent more than 25 consecutive years in the top 50 of the [[Official World Golf Ranking]].<ref>{{cite news |last1=Gray |first1=Will |title=Mickelson's streak hits 25 years inside OWGR top 50 |url=https://www.golfchannel.com/news/phil-mickelsons-streak-hits-25-years-inside-owgr-top-50 |access-date=November 27, 2018 |work=Golf Channel |date=November 26, 2018 }}</ref> He has spent [[List of male golfers who have been in the world top 10|over 700 weeks in the top 10]],<ref>{{cite web |url=http://www.golfrankingstats.com/ |title=Official World Golf Ranking Advanced Statistics |work=Golfrankingstats.com |date=July 14, 2013 |access-date=July 22, 2013}}</ref> has reached a career-high world ranking of No. 2 several times and is a life member of the PGA Tour. Although naturally [[right-handed]], he is known for his [[left-handed]] swing, having learned it by mirroring his right-handed father's swing.<ref name=PGA-profile/> He was inducted into the [[World Golf Hall of Fame]] in 2012.<ref>{{cite news |url=http://www.pgatour.com/news/2011/11/10/mickelson-wghof.html |title=World Golf Hall of Fame to induct Mickelson in 2012 |publisher=PGA Tour |date=November 10, 2011 |access-date=July 25, 2013}}</ref>
+
+==Early life==
+Philip Alfred Mickelson was born on June 16, 1970, in [[San Diego]], [[California]],<ref>{{cite web|url=http://philmickelson.com/about-phil/bio/ |title=Bio |date=February 11, 2013 |access-date=April 12, 2015}}</ref> to parents Philip Mickelson Sr., an [[airline]] [[Aviator|pilot]] and former [[naval aviator]],<ref name=phsr>{{cite news |url=https://www.usatoday.com/sports/columnist/oconnor/2005-08-15-oconnor-mickelson_x.htm |newspaper=USA Today |title=Phil Sr. prepared son for greatness |date=August 15, 2005 |access-date=July 30, 2013}}</ref> and Mary Santos.<ref>{{cite web|url=http://search.ancestry.com/cgi-bin/sse.dll?rank=1&new=1&MSAV=0&gss=angs-c&gsfn=Philip+Alfred&gsln=Mickelson&uidh=fk7&pcat=34&h=11558221&recoff=7+8+9&db=cabirth1905&indiv=1&ml_rpos=4 |title=California Birth Index, 1905-1995 |publisher=Ancestry.com}}</ref> He was raised there and in [[Scottsdale, Arizona]]. Mickelson has Portuguese, Swedish, and Sicilian ancestry.<ref name="ancestry">{{cite web|url=https://golf.com/news/tournaments/us-open-phil-mickelson-pebble-beach-grandpa-caddie-family/|title=Phil Mickelson's grandfather was a Pebble Beach caddie, the first chapter of a fascinating life|date=June 6, 2019|work=golf.com}}</ref> His maternal grandfather, Alfred Santos (also Mickelson's middle name) was a [[caddie]] at [[Pebble Beach Golf Links]] and took Phil to play golf as a child.<ref name="ancestry"/> 
+
+Although otherwise right-handed, he played golf left-handed since he learned by watching his right-handed father swing, mirroring his style.<ref name="PGA-profile">{{cite web |url=http://www.pgatour.com/content/pgatour/players/player.01810.phil-mickelson.html/profile |title=Phil Mickelson – Profile |publisher=PGA Tour |access-date=March 5, 2017}}</ref> Mickelson began golf under his father's instruction before starting school. Phil Sr.'s work schedule as a commercial pilot allowed them to play together several times a week and young Phil honed his creative short game on an extensive practice area in their San Diego backyard.<ref name="phsr" /> Mickelson graduated from the [[University of San Diego High School]] in 1988.
+
+==Amateur career==
+Mickelson attended [[Arizona State University]] in [[Tempe, Arizona|Tempe]] on a golf [[Athletic scholarship|scholarship]] and became the face of amateur golf in the [[United States]]; he captured three [[NCAA Division I Men's Golf Championships|NCAA]] individual championships and three [[Haskins Award]]s (1990, 1991, 1992) as the outstanding collegiate golfer. With three individual NCAA championships, he shares the record for most individual NCAA championships alongside [[Ben Crenshaw]]. Mickelson also led the [[Arizona State Sun Devils#Golf|Sun Devils]] to the NCAA team title in 1990. Over the course of his collegiate career, he won 16 tournaments.<ref>{{cite web |url=http://www.thesundevils.com/ViewArticle.dbml?DB_LANG=C&DB_OEM_ID=30300&ATCLID=208248708 |title=Arizona State Sun Devils profile |access-date=July 30, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131203074843/http://www.thesundevils.com/ViewArticle.dbml?DB_LANG=C&DB_OEM_ID=30300&ATCLID=208248708 |archive-date=December 3, 2013 }}</ref>
+
+Mickelson was the second collegiate golfer to earn first-team [[All-American]] honors all four years. In 1990, he also became the first with a left-handed swing to win the [[U.S. Amateur]] title, defeating high school teammate Manny Zerman 5 and 4 in the 36-hole final at [[Cherry Hills Country Club|Cherry Hills]], south of [[Denver]].<ref name=mclamti>{{cite news |url=https://news.google.com/newspapers?id=P0NWAAAAIBAJ&pg=5454%2C6807020 |work=Eugene Register-Guard |location=(Oregon) |agency=Associated Press |title=Mickelson claims Amateur title |date=August 27, 1990 |page=5B}}</ref> Mickelson secured perhaps his greatest achievement as an amateur in January 1991, winning his first [[PGA Tour]] event, the [[Northern Telecom Open]], in [[Tucson, Arizona|Tucson]],<ref name=amhides>{{cite news |url=https://news.google.com/newspapers?id=kPIzAAAAIBAJ&pg=7001%2C2969192 |work=Eugene Register-Guard |location=(Oregon) |agency=Associated Press |title=Amateur makes history in desert |date=January 14, 1991 |page=2B}}</ref><ref name=ammckls>{{cite news |url=https://news.google.com/newspapers?id=22APAAAAIBAJ&pg=2949%2C6742139 |work=The Bulletin |location=(Bend, Oregon) |agency=Associated Press |title=Amateur Mickelson triumphs over PGA pros |date=January 14, 1991 |page=D2}}</ref> making him one of the few golfers to [[List of golfers with PGA wins as an amateur|win a PGA Tour event as an amateur]] in the history of the PGA Tour. At age 20, he was only the sixth amateur to win a tour event and the first in over five years after [[Scott Verplank]] at the [[Western Open]] in August 1985. Other players to accomplish this feat include [[Doug Sanders]] (1956 [[Canadian Open (golf)|Canadian Open]]) and [[Gene Littler]] (1954 [[San Diego Open (golf)|San Diego Open]]).<ref>{{cite web |title=Who Was the Last Amateur to Win on the PGA Tour, European Tour and LPGA Tour? |url=http://golf.about.com/od/faqs/f/lastamwinner.htm |work=About.com |first=Brent |last=Kelley |access-date=July 30, 2013}}</ref> With five holes remaining, Mickelson led by a stroke, but made a triple-bogey and was then three strokes behind. The leaders ahead of him then stumbled, and he birdied 16 and 18 to win by a stroke.<ref name=amhides/> To date,<!-- January 2018--> it is the most recent win by an amateur at a PGA Tour event.
+
+That April, Mickelson was the low amateur at the [[1991 Masters Tournament|Masters Tournament]] in [[Augusta, Georgia]]. With his two-year PGA Tour exemption from the Tucson win, he played in several tour events in [[1992 PGA Tour|1992]] while an amateur but failed to make a cut.
+
+==Professional career==
+===1992–2003: Trying for first major win===
+Mickelson graduated from ASU in June 1992 and quickly turned professional. He bypassed the tour's qualifying process ([[PGA Tour Qualifying Tournament|Q-School]]) because of his 1991 win in Tucson, which earned him a two-year exemption. In [[1992 PGA Tour|1992]], Mickelson hired [[Jim "Bones" Mackay]]<ref>{{cite news |last=McCabe |first=Jim |title=Dash and carry: Mickelson caddy makes the rounds |newspaper=[[The Boston Globe]] |date=August 31, 2008 |url=http://www.boston.com/sports/golf/articles/2008/08/31/dash_and_carry/ |access-date=July 30, 2013}}</ref> as his caddy. He won many PGA Tour tournaments during this period, including the [[Byron Nelson Golf Classic]] and the [[WGC-Bridgestone Invitational|World Series of Golf]] in [[1996 PGA Tour|1996]],<ref>{{cite news |title=Phil Mickelson won a PGA Tour event as an amateur on this day 30 years ago |url=https://golfweek.usatoday.com/2021/01/13/phil-mickelson-amateur-pga-tour-win-1991/ |work=Golfweek |date=13 January 2021}}</ref> the [[AT&T Pebble Beach National Pro-Am]] in [[1998 PGA Tour|1998]], the [[Colonial National Invitation]] in [[2000 PGA Tour|2000]], and the [[Greater Hartford Open]] in [[2001 PGA Tour|2001]] and again in [[2002 PGA Tour|2002]].
+
+He appeared as himself in a non-speaking role in the 1996 film ''[[Tin Cup]]'', starring [[Kevin Costner]]. His 2000 [[Buick Invitational]] win ended [[Tiger Woods]]'s streak of six consecutive victories on the PGA Tour. After the win, Mickelson said, "I didn't want to be the bad guy. I wasn't trying to end the streak per se. I was just trying to win the golf tournament."<ref>{{cite book |title=The Gigantic Book of Golf Quotations |editor-first=Jim |editor-last=Apfelbaum |year=2007 |publisher=Skyhorse Publishing |isbn=978-1-60239-014-0}}</ref> Although he had performed very well in the majors up to the end of the [[2003 PGA Tour|2003 season]] (17 top-ten finishes, and six second- or third-place finishes between 1999 and 2003), Mickelson's inability to win any of them led to him frequently being described as the "best player never to win a major".<ref name=SI>{{cite magazine |first=Jack |last=McCallum |url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1026476/index.htm |title=Major Issues |magazine=Sports Illustrated |date=August 19, 2002 |access-date=July 30, 2013}}</ref>
+
+===2004–2006: First three major wins===
+[[File:Phil Mickelson, Open 2006.jpg|thumb|upright|Mickelson at [[The Open Championship]] in [[2006 Open Championship|2006]] at [[Royal Liverpool Golf Club, Hoylake|Hoylake]]]]
+Mickelson's first [[Men's major golf championships|major championship]] win came in his thirteenth year on the PGA Tour in [[2004 PGA Tour|2004]], when he secured victory in the [[2004 Masters Tournament|Masters]] with an {{convert|18|ft|adj=on}} birdie putt on the final hole. [[Ernie Els]] was the runner-up at a stroke back; the two played in different pairs in the final round and had traded birdies and eagles on the back nine.<ref>{{cite news |url=https://www.usatoday.com/story/sports/golf/2013/04/06/masters-10-memorable-shots-phil-mickelson-leaps-in-2004/2057709/ |title=Masters shots to remember: Finally, they get their Phil |newspaper=USA Today |date=April 6, 2013 |access-date=July 30, 2013}}</ref> In addition to getting the "majors monkey" off his back, Mickelson was now only the third golfer with a left-handed swing to win a major; the others being [[New Zealand]]er [[Sir Bob Charles]], who won [[The Open Championship]] in [[1963 Open Championship|1963]], and [[Canadians|Canadian]] [[Mike Weir]], who won The Masters in [[2003 Masters Tournament|2003]]. (Like Mickelson, Weir is a right-hander who plays left-handed.) A fourth left-handed winner is natural southpaw [[Bubba Watson]], the Masters champion in [[2012 Masters Tournament|2012]] and [[2014 Masters Tournament|2014]].
+
+Prior to the [[Ryder Cup]] in [[2004 Ryder Cup|2004]], Mickelson was dropped from his long-standing contract with Titleist/Acushnet Golf after an incident when he left a voicemail message for a [[Callaway Golf]] executive. In it, he praised their driver and golf ball and thanked them for their help in getting some equipment for his brother. This message was played to all of their salesmen, and eventually found its way back to Titleist. He was then let out of his multi-year deal with [[Titleist]] 16 months early and signed on with Callaway Golf. He endured a great deal of ridicule and scrutiny from the press and fellow Ryder Cup members for his equipment change so close to the Ryder Cup matches. He faltered at the 2004 Ryder Cup with a {{nowrap|1-3-0}} record but refused to blame the sudden change in equipment or his practice methods for his performance.<ref>{{cite news|url=http://www.thegolfchannel.com/core.aspx?page=15110&dv=6616763&select=14242 |title=Business Edge: Mickelson, Callaway Sign Endorsement Deal |first=Adam |last=Barr |work=[[Golf Channel]] |date=September 7, 2004 |access-date=November 20, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20071106032959/http://www.thegolfchannel.com/core.aspx?page=15110&dv=6616763&select=14242 |archive-date=November 6, 2007 }}</ref>
+
+In November 2004, Mickelson tallied his career-low for an 18-hole round: a 59 at the [[PGA Grand Slam of Golf]] at Poipu Bay Golf Course in [[Hawaii]]. The [[2005 PGA Tour|following year]], Mickelson captured his second major at the [[2005 PGA Championship|PGA Championship]] at [[Baltusrol Golf Club|Baltusrol]] in a Monday final-round conclusion due to inclement weather the previous day. On the 18th hole, Mickelson hit one of his trademark soft pitches from deep greenside rough to within {{convert|18|in}} of the cup and made his birdie to finish at a 4-under-par total of 276, one shot ahead of [[Steve Elkington]] and [[Thomas Bjørn]]. Mickelson captured his third major title the [[2006 PGA Tour|following spring]] at the [[2006 Masters Tournament|Masters]]. He won his second green jacket after shooting a 3-under-par final round, winning by two strokes over runner-up [[Tim Clark (golfer)|Tim Clark]].<ref>{{cite news |url=http://www.golf.com/tour-and-news/master-craftsman-mickelson-captures-second-green-jacket |title=Master Craftsman: Mickelson captures second green jacket |work=Golf.com |date=October 14, 2008 |access-date=July 30, 2013}}</ref> This win propelled him to 2nd place in the [[Official World Golf Ranking]] (his career best), behind Woods, and ahead of [[Vijay Singh]] and [[Retief Goosen]].
+
+===2006: Collapse on final hole at the U.S. Open===
+After winning two majors in a row heading into the [[2006 U.S. Open (golf)|U.S. Open]] at [[Winged Foot]], Mickelson was bidding to join [[Ben Hogan]] and [[Tiger Woods]] as the only players to win three consecutive majors (not necessarily in the same calendar year). Mickelson was the joint leader going into the final round, but he was part of a wild finish to the tournament, in which he made major mistakes on the final hole and ended up in a tie for second place at +6 (286), one shot behind [[Geoff Ogilvy]].
+
+Mickelson bogeyed the 16th hole. On the 17th hole, with the lead at +4, he missed the fairway to the left, and his drive finished inside a garbage can, from which he was granted a free drop; he parred the hole. He had a one-shot lead and was in the last group going into the final hole.
+
+Needing a par on the 18th hole for a one-shot victory, Mickelson continued with his aggressive style of play and chose to hit a driver off the tee; he hit his shot well left of the fairway (he had hit only two of thirteen fairways previously in the round). The ball bounced off a corporate hospitality tent and settled in an area of trampled-down grass that was enclosed with trees. He decided to go for the green with his second shot, rather than play it safe and pitch out into the fairway. His ball then hit a tree and did not advance more than {{convert|50|yd}}. His next shot plugged into the left greenside bunker. He was unable to get up and down from there, resulting in a double bogey and costing him a chance of winning the championship outright or getting into an 18-hole playoff with Ogilvy.<ref>{{cite news |title=Phil's Phailure will hurt for a while |url=http://sports.espn.go.com/espn/columns/story?columnist=wojciechowski_gene&id=2490682 |work=ESPN |date=June 25, 2006 |first=Gene |last=Wojciechowski |access-date=July 30, 2013}}</ref>
+
+After his disappointing finish, Mickelson said: "I'm still in shock. I still can't believe I did that. This one hurts more than any tournament because I had it won. Congratulations to Geoff Ogilvy on some great play. I want to thank all the people that supported me. The only thing I can say is I'm sorry."<ref>{{cite news |title=Ogilvy grabs U.S. Open when Mickelson, Montgomerie stumble |url=http://usatoday30.usatoday.com/sports/golf/pga/2006-06-18-us-open_x.htm?POE=SPOISVA |newspaper=USA Today |first=Tom |last=Spousta |date=June 20, 2006 |access-date=July 30, 2013}}</ref> He was even more candid when he said: "I just can't believe I did that. I'm such an idiot."<ref>{{cite web |url=https://www.youtube.com/watch?v=JiYW9KWBAek |title=Phil Mickelson Calls Himself an Idiot |website=[[YouTube]] |access-date=July 30, 2013}}</ref><ref>{{cite news |url=https://www.bloomberg.com/apps/news?pid=newsarchive&sid=aEkRo8qmlT5o |title=Mickelson, With Loss at U.S. Open, Apologizes as Golf 'Idiot' |first=Michael |last=Buteau |date=June 19, 2006 |access-date=July 30, 2013 |work=Bloomberg}}</ref>
+
+===2006–2008===
+[[File:Phil Mickelson at 2007 Barclays Singapore Open.jpg|thumb|upright|left|Mickelson at 2007 Barclays Singapore Open.]]
+
+During the third round of the 2006 [[Ford Championship at Doral]], Mickelson gave a spectator $200 after his wayward tee shot at the par-5 10th broke the man's watch.<ref>{{cite magazine |url=http://sportsillustrated.cnn.com/2006/golf/03/04/lefty.doral/?section=si_latest |title=Tips appreciated |agency=SportsTicker |magazine=[[Sports Illustrated]] |date=March 4, 2006 |access-date=July 30, 2013}}</ref> Mickelson also has shown other signs of appreciation. In 2007 after hearing the story of retired NFL player, [[Conrad Dobler]], and his family on [[ESPN]] explaining their struggles to pay medical bills, Mickelson volunteered to pay tuition for Holli Dobler, Conrad Dobler's daughter, at [[Miami University]] in [[Oxford, Ohio]].<ref>{{cite news |url=http://sports.espn.go.com/golf/columns/story?columnist=verdi_bob&id=2756572 |title=Mickelson gives to Dobler family |last=Verdi |first=Bob |work=ESPN |date=February 14, 2007 |access-date=July 30, 2013}}</ref>
+
+Frustrated with his driving accuracy, Mickelson made the decision in April 2007 to leave longtime swing coach, Rick Smith. He then began working with [[Butch Harmon]], a former coach of [[Tiger Woods]] and [[Greg Norman]]. On May 13, Mickelson came from a stroke back on the final round to shoot a three-under 69 to win [[2007 Players Championship|The Players Championship]] with an 11-under-par 277.
+
+In the [[2007 U.S. Open (golf)|U.S. Open]] at [[Oakmont Country Club|Oakmont]] in June, Mickelson missed the cut (by a stroke) for the first time in 31 majors after shooting 11 over par for 36 holes. He had been hampered by a wrist injury that was incurred while practicing in the thick rough at Oakmont a few weeks before the tournament.
+
+On September 3, 2007, Mickelson won the [[Deutsche Bank Championship]], which is the second [[FedEx Cup]] playoff event. On the final day, he was paired with Tiger Woods, who ended up finishing two strokes behind Mickelson in a tie for second. It was the first time that Mickelson was able to beat Woods while the two stars were paired together on the final day of a tournament. The next day Mickelson announced that he would not be competing in the third FedEx Cup playoff event. The day before his withdrawal, Mickelson said during a television interview that PGA Tour Commissioner, [[Tim Finchem]], had not responded to advice he had given him on undisclosed issues.<ref>{{cite news |title=Mickelson Won't Play In BMW Championship |newspaper=The Washington Post |date=September 5, 2007 |url=https://www.washingtonpost.com/wp-dyn/content/article/2007/09/04/AR2007090401775.html |access-date=July 30, 2013}}</ref>
+
+In 2008, Mickelson won the [[Crowne Plaza Invitational at Colonial]] with a −14, one shot ahead of [[Tim Clark (golfer)|Tim Clark]] and [[Rod Pampling]]. Mickelson shot a first-round 65 to start off the tournament at −5. He ended the day tied with [[Brett Wetterich]], two shots behind leader, [[Johnson Wagner]].<ref>{{cite web |url=http://www.pgatour.com/news/2008/05/22/notebook052208.html |title=Crowne Plaza Invitational at Colonial: First-Round Notebook |publisher=PGA Tour |date=May 22, 2008 |first=Stewart |last=Moore |access-date=July 30, 2013}}</ref> Mickelson shot a second-round 68, and the third round 65, overall, being −12 for the first three rounds.<ref>{{cite web |url=http://espn.go.com/golf/leaderboard?tournamentId=430 |title=Crowne Plaza Invitational at Colonial leaderboard |work=ESPN |date=May 25, 2008 |access-date=July 30, 2013}}</ref> On the final hole, after an absolutely horrendous tee shot, he was in thick rough with trees in his way. Many players would have punched out and taken their chances at making par from the fairway with a good wedge shot. Instead, Mickelson pulled out a high-lofted wedge and hit his approach shot over a tree, landing on the green where he one-putted for the win.<ref>{{cite web |url=http://www.pgatour.com/news/2008/05/25/colonialap.html |title=Birdie on 72nd hole gives Mickelson win at Colonial |date=May 25, 2008 |publisher=[[PGA Tour]] |access-date=July 30, 2013}}</ref>
+
+In a ''[[Men's Vogue]]'' article, Mickelson recounted his effort to lose {{convert|20|lb|spell=in}} with the help of trainer Sean Cochran. "Once the younger players started to come on tour, he realized that he had to start working out to maintain longevity in his career," Cochran said.<ref>{{cite web |url=http://www.golftipshome.com/regaining-his-stride-how-phil-mickelson-did-it/ |title=How Phil Mickelson regained his stride |publisher=Golf Tips Home |access-date=November 26, 2014}}</ref> Mickelson's regimen consisted of increasing flexibility and power, eating five smaller meals a day, aerobic training, and carrying his own golf bag.<ref>{{cite magazine |url=http://www.mensvogue.com/health/slideshows/2008/08/phil-mickelson |title=Phil Mickelson's weight loss workout |magazine=Men's Vogue |date=August 2008 |archive-url=https://web.archive.org/web/20080818125621/http://www.mensvogue.com/health/slideshows/2008/08/phil-mickelson |archive-date=August 18, 2008}}</ref>
+
+Mickelson was inducted into the National Italian American Sports Hall of Fame in 2008.<ref>{{cite web |title=National Italian American Sports Hall of Fame – Phil Mickelson |url=http://www.niashf.org/inductees/phil-mickelson/ |access-date=July 30, 2013}}</ref>
+
+===2009===
+Mickelson won his first [[2009 PGA Tour|2009]] tour event when he defended his title at the [[Northern Trust Open]] at [[Riviera Country Club|Riviera]], one stroke ahead of [[Steve Stricker]]. The victory was Mickelson's 35th on tour; he surpassed [[Vijay Singh]] for second place on the current PGA Tour wins list. A month later, he won his 36th, and his first [[World Golf Championship]], at the [[2009 WGC-CA Championship|WGC-CA Championship]] with a one-stroke win over [[Nick Watney]].
+
+On May 20, it was announced that his wife Amy was diagnosed with [[breast cancer]], and Mickelson announced that he would suspend his PGA Tour schedule indefinitely. She would begin treatment with major surgery as early as the following two weeks. Mickelson was scheduled to play the [[HP Byron Nelson Championship]] May 21–24, and to defend his title May 28–31 at the [[Crowne Plaza Invitational at Colonial]], but withdrew from both events.<ref>{{cite web |url=http://www.golf.com/ap-news/mickelsons-season-hold-wife-diagnosed-breast-cancer |title=Mickelson's season on hold as wife diagnosed with breast cancer |first=Cameron |last=Morfit |date=June 20, 2009 |work=Golf.com |access-date=July 30, 2013}}</ref> During the final round of the 2009 [[BMW PGA Championship]], fellow golfer and family friend [[John Daly (golfer)|John Daly]] wore bright pink trousers in support of Mickelson's wife.<ref>{{cite web |url=http://tsn.ca/golf/story/?id=279781 |title=Daly Wears Pink in Final Round in Honour of Amy Mickelson |publisher=TSN |date=May 24, 2009 |access-date=July 30, 2013}}</ref> Also, the next Saturday, at the [[Crowne Plaza Invitational at Colonial]], a "Pink Out" event was hosted, and the PGA Tour players all wore pink that day, to support the Mickelson family.
+
+On May 31, Mickelson announced that he would return to play on the PGA Tour in June at the [[St. Jude Classic]] and the [[U.S. Open (golf)|U.S. Open]], since he had heard from the doctors treating his wife that her cancer had been detected in an early stage.<ref>{{cite news |title=Report: Mickelson to play June 11 |work =ESPN |date=June 1, 2009 |url=http://sports.espn.go.com/golf/news/story?id=4222629 |access-date=July 30, 2013}}</ref> Mickelson shot a final round 70 at the [[2009 U.S. Open (golf)|2009 U.S. Open]] and recorded his fifth runner-up finish at the [[U.S. Open (golf)|U.S. Open]]. He shared the lead after an eagle at the 13th hole, but fell back with bogeys on 15 and 17; [[Lucas Glover]] captured the championship.
+
+On July 6, it was announced that his mother Mary was diagnosed with breast cancer and would have surgery at the same hospital where his wife was treated.<ref>{{cite web |url=http://www.pgatour.com/news/2009/07/06/mickelson_motherap.html |title=Mickelson's mother has breast cancer |publisher=PGA Tour |date=July 6, 2009 |access-date=July 30, 2013}}</ref> After hearing the news that his mother had been diagnosed with breast cancer, Mickelson took another leave of absence from the tour, missing [[2009 Open Championship|The Open Championship]] at [[Turnberry (golf course)|Turnberry]]. On July 28, Mickelson announced he would return in August at the [[2009 WGC-Bridgestone Invitational|WGC-Bridgestone Invitational]], the week before the [[2009 PGA Championship|PGA Championship]] at [[Hazeltine National Golf Club]].
+
+In September, Mickelson won [[The Tour Championship]] for the second time in his career. He entered the final round four strokes off the lead, but shot a final round 65 to win the event by three strokes over [[Tiger Woods]].<ref>{{cite news |url=http://news.bbc.co.uk/sport2/hi/golf/8277883.stm |title=Mickelson wins Tour Championship |date=September 27, 2009 |work=BBC Sport |access-date=July 30, 2013}}</ref> With the win, Mickelson finished the season second behind Woods in the 2009 [[FedEx Cup]] standings.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/golf/uspga/6238807/Phil-Mickelson-wins-US-Tour-Championship-as-Tiger-Woods-pockets-10-million.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/golf/uspga/6238807/Phil-Mickelson-wins-US-Tour-Championship-as-Tiger-Woods-pockets-10-million.html |archive-date=January 12, 2022 |url-access=subscription |url-status=live |title=Phil Mickelson wins US Tour Championship as Tiger Woods pockets $10 million |date=September 28, 2009 |newspaper=The Daily Telegraph |location=London |access-date=July 30, 2013}}{{cbignore}}</ref>
+
+On November 8, Mickelson won the [[2009 WGC-HSBC Champions|WGC-HSBC Champions]] by one shot over [[Ernie Els]] in [[Shanghai]].<ref>{{cite news |url=http://news.bbc.co.uk/sport2/hi/golf/8349005.stm |title=Mickelson holds off Els in China |date=November 8, 2009 |work=BBC Sport |access-date=July 30, 2013}}</ref>
+
+===2010: Third Masters win===
+In [[2010 PGA Tour|2010]], Mickelson won the [[2010 Masters Tournament|Masters Tournament]] on April 11 with a 16-under-par performance, giving him a three-stroke win over [[Lee Westwood]]. The win marked the third Masters victory for Mickelson and his fourth major championship overall.<ref>{{cite news |url=https://www.usatoday.com/sports/golf/masters/2010-04-11-the-masters_N.htm |title=Mickelson seizes the moment, captures Masters for third time |date=April 11, 2010 |newspaper=USA Today |first=Steve |last=DiMeglio |access-date=July 30, 2013}}</ref> Critical to Mickelson's win was a dramatic run in the third round on Saturday in which Mickelson, trailing leader Westwood by five strokes as he prepared his approach shot to the 13th green, proceeded to make eagle, then to hole-out for eagle from 141 yards at the next hole, the par-4 14th, then on the next, the par-5 15th, to miss eagle from 81 yards by mere inches. After tapping in for birdie at 15, Mickelson, at −12, led Westwood, at −11, who had bogeyed the 12th hole and failed to capitalize on the par-5 13th, settling for par.
+
+Westwood recaptured a one-stroke lead by the end of the round, but the momentum carried forward for Mickelson into round 4, where he posted a bogey-free 67 to Westwood's 71. No other pursuer was able to keep pace to the end, though [[K. J. Choi]] and [[Anthony Kim]] made notable charges. For good measure, Mickelson birdied the final hole and memorably greeted his waiting wife, Amy, with a prolonged hug and kiss.<ref>{{cite news |url=https://www.nytimes.com/2010/04/12/sports/golf/12golf.html?ref=sports |title=Mickelson Captures His Third Masters Title |date=April 11, 2010 |newspaper=The New York Times |first=Larry |last=Dorman |access-date=July 30, 2013}}</ref>
+
+For many fans, Mickelson's finish in the tournament was especially poignant, given that Amy had been suffering from breast cancer during the preceding year. Mary Mickelson, Phil's mother, was also dealing with cancer. CBS Sports announcer [[Jim Nantz]]'s call of the final birdie putt, "That's a win for the family," was seen by many as capturing the moment well.<ref>{{cite news |url=http://www.golfdigest.com/golf-tours-news/golf-masters/2010-04/golf-masters-ap-0411 |title=Third Time's A Charm |date=April 11, 2010 |work=Golf Digest |access-date=July 30, 2013}}</ref>
+
+[[Tiger Woods]] had a dramatic return to competitive play after a scandal-ridden 20-week absence; he was in close contention throughout for the lead and finished tied with Choi for 4th at −11. Mickelson and others showed exciting play over the weekend, and the 2010 Masters had strong television ratings in the United States, ranking third all-time to Woods's historic wins in 1997 and 2001.<ref>{{cite news |url=http://sports.espn.go.com/golf/masters10/news/story?id=5078765 |title=Masters Ratings Climb 36 Percent |work=ESPN |date=April 12, 2010 |agency=Associated Press |access-date=July 30, 2013}}</ref> Mickelson's win left him second only to Woods in major championships among his competitive contemporaries, moving him ahead of [[Ernie Els]], [[Vijay Singh]], and [[Pádraig Harrington]], with three major championships each.
+
+====Remainder of 2010====
+Mickelson, one of the favorites for the [[2010 U.S. Open (golf)|U.S. Open]] at [[Pebble Beach Golf Links|Pebble Beach]], shot 75 and 66 on Thursday and Friday to sit two shots off the lead. However, two weekend scores of 73 gave him a T4 finish. During the remainder of the 2010 season, Mickelson had multiple opportunities to become the number one player in the [[Official World Golf Ranking|world rankings]] following the travails of Tiger Woods. However, a string of disappointing finishes by Mickelson saw the number one spot eventually go to Englishman [[Lee Westwood]].
+
+In the days leading up to the [[2010 PGA Championship|PGA Championship]] at [[Whistling Straits]], Mickelson announced he had been diagnosed with [[psoriatic arthritis]]. He added that he had started medical treatment and had become a [[Vegetarianism|vegetarian]] in hopes of aiding his recovery. He maintained that both his short- and long-term prognosis were good, that the condition should have no long-term effect on his golfing career, and that he felt well. He also stated that the arthritis may go into permanent remission after one year of medical treatment. He went on to finish the championship T12, five shots behind winner [[Martin Kaymer]].
+
+===2011===
+Mickelson started his [[2011 PGA Tour|2011 season]] at the [[Farmers Insurance Open]] at [[Torrey Pines Golf Course]]. He shot {{nowrap|67–69–68}} and was tied for the 54 hole lead with [[Bill Haas]]. Mickelson needed to hole out on the 18th hole for eagle from 74 yards to force a playoff with [[Bubba Watson]]. He hit it to 4 feet and Watson won the tournament.
+
+On April 3, Mickelson won the [[Shell Houston Open]] with a 20-under-par, three-stroke win over [[Scott Verplank]]. Mickelson rose to No. 3 in the world ranking, while [[Tiger Woods]] fell to No. 7. Mickelson had not been ranked above Woods since the week prior to the [[1997 Masters Tournament]].
+
+At [[2011 Open Championship|The Open Championship]], Mickelson recorded just his second top-ten finish in 18 tournaments by tying for second with [[Dustin Johnson]]. His front nine 30 put him briefly in a tie for the lead with eventual champion [[Darren Clarke]]. However, putting problems caused him to fade from contention toward the end, to finish in a tie for second place.
+
+===2012: 40th career PGA Tour win ===
+Mickelson made his [[2012 PGA Tour|2012]] debut at the [[Humana Challenge]] and finished tied for 49th. He missed the cut at the [[Farmers Insurance Open]] after shooting rounds of 77 and 68. In the final round of the [[AT&T Pebble Beach National Pro-Am]], Mickelson rallied from six shots back, winning the tournament by two strokes with a final-round score of 8-under 64 and a four-round total of 269.<ref>{{cite news |title=Phil Mickelson wins at Pebble Beach |url=http://espn.go.com/golf/story/_/id/7568923/phil-mickelson-roars-tiger-woods-win-pebble-beach |work=ESPN |agency=Associated Press |date=February 13, 2012 |access-date=July 30, 2013}}</ref> The win marked his 40th career victory on the PGA Tour. The following week at [[Riviera Country Club]], Mickelson lost the [[Northern Trust Open]] in a three-way playoff.<ref>{{cite news |url=http://espn.go.com/golf/story/_/id/7592952/bill-haas-edges-phil-mickelson-keegan-bradley-second-playoff-hole |title=Bill Haas wins at Riviera in playoff |date=February 20, 2012 |work=ESPN |agency=Associated Press |access-date=July 30, 2013}}</ref> He had held the lead or a share of it from day one until the back nine on Sunday when [[Bill Haas]] posted the clubhouse lead at seven under par. Mickelson holed a 27-foot birdie putt on the final regulation hole to force a playoff alongside Haas and [[Keegan Bradley]]. Haas however won the playoff with a 40-foot birdie putt on the second playoff hole. The second-place finish moved Mickelson back into the world's top 10.<ref>{{cite web |url=http://dps.endavadigital.net/owgr/doc/content/archive/2012/owgr07f2012.pdf |title=Official World Golf Ranking, Week 7, 2012 |publisher=OWGR |date=February 19, 2012 |access-date=July 30, 2013}}</ref>
+
+Mickelson finished tied for third at the [[2012 Masters Tournament|Masters]]. After opening the tournament with a two-over-par 74, he shot 68–66 in the next two rounds and ended up one stroke behind leader [[Peter Hanson]] by Saturday night. Mickelson had a poor start to his fourth round, scoring a triple-bogey when he hit his ball far to the left of the green on the par-3 4th hole, hitting the stand and landing in a bamboo plant. This ended up being Mickelson's only score over par in the whole round, and he ended with a score of eight-under overall. Earlier in the tournament, he received widespread praise for being present to watch [[Jack Nicklaus]], [[Arnold Palmer]], and [[Gary Player]] hit the ceremonial opening tee-shots, nearly seven hours before Mickelson's own tee time.<ref>{{cite news |url=http://www.post-gazette.com/stories/sports/golf/mickelson-takes-in-ceremonial-shots-630143/ |title=Mickelson takes in ceremonial shots |first=Gerry |last=Dulac |newspaper=Pittsburgh Post-Gazette |date=April 6, 2012 |access-date=July 30, 2013}}</ref>
+
+Mickelson made a charge during the final round at the [[HP Byron Nelson Championship]], but bogeyed the 17th and 18th, finishing T-7th. He then withdrew from the [[Memorial Tournament]], citing mental fatigue, after a first-round 79. Mickelson was paired with [[Tiger Woods]] and [[Bubba Watson]] at the [[2012 U.S. Open (golf)|U.S. Open]].<ref>{{Cite web |title=Groupings & Starting Times 112th U.S. Open Championship |publisher=USGA |url=http://2012.usopen.com/en_US/scoring/groupings/round1.html |access-date=2022-03-02}}</ref> He fought to make the cut and finished T-65th. After taking a couple of weeks off, he played in the [[Greenbrier Classic]]. Putting problems meant a second straight missed cut at the Greenbrier and a third missed cut at [[The Open Championship|2012 Open Championship]], shooting 73-78 (11 over par). He finished T-43rd at the [[WGC-Bridgestone Invitational]]. He then finished T-36th at the [[2012 PGA Championship|PGA Championship]].
+
+To start the [[2012 FedEx Cup Playoffs]], Mickelson finished T38 at [[The Barclays]], +1 for the tournament. He tied with Tiger Woods, [[Zach Johnson]], and five other players. In this tournament, he started using the claw putting grip on the greens.<ref>{{cite news |url=https://sports.yahoo.com/news/mickelson-goes-claw-234203968--golf.html |title=Mickelson goes to the claw |work=Yahoo! Sports|first=Doug |last=Ferguson |agency=Associated Press |date=August 31, 2012 |access-date=July 30, 2013}}</ref> At the next event, the [[Deutsche Bank Championship]], he finished the tournament with a −14, tied for 4th with [[Dustin Johnson]].<ref name=season>{{cite web |url=http://www.pgatour.com/players/player.01810.phil-mickelson.html/season/#uber |title=Phil Mickelson – Season |publisher=PGA Tour |access-date=July 30, 2013}}</ref> At the [[BMW Championship (PGA Tour)|BMW Championship]], Mickelson posted a −16 for the first three rounds, one of those rounds being a −8, 64. On the final day, Mickelson shot a −2, 70, to finish tied for 2nd, with [[Lee Westwood]], two shots behind leader, and back-to-back winner, [[Rory McIlroy]].<ref name=season/> At the [[Tour Championship]], he ended up finishing tied for 15th.<ref name=season/> He went on to have a 3–1 record at the [[Ryder Cup]]; however, the USA team lost the event.
+
+===2013===
+Mickelson began the [[2013 PGA Tour|2013 season]] in January by playing in the [[Humana Challenge]], where he finished T37 at −17.<ref name=season/> His next event was the following week in his home event near [[San Diego]] at the [[Farmers Insurance Open]]. Mickelson endured a disappointing tournament, finishing T51, shooting all four rounds in the 70s.
+
+In the first round of the Waste Management [[Phoenix Open]], Mickelson tied his career-low round of 60. He made seven birdies in his first nine holes and needed a birdie on the 18th hole to equal the PGA Tour record of 59. However, his 25-foot birdie putt on the final hole lipped out, resulting in him missing out by a single shot on making only the sixth round of 59 in PGA Tour history. Mickelson led the tournament wire-to-wire and completed a four-shot win over [[Brandt Snedeker]] for his 41st PGA Tour victory and 3rd Phoenix Open title. Mickelson's score of 28-under-par tied Mark Calcavecchia's tournament scoring record.<ref>{{cite web |url=http://www.azcentral.com/sports/golf/phoenixopen/articles/20130203phil-mickelson-win-phoenix-open-ties-tournament-scoring-record.html |title=Phil Mickelson wins Phoenix Open, ties tournament scoring record |first=John |last=Davis |work=azcentral.com |date=February 4, 2012 |access-date=July 30, 2013}}</ref> He also moved back inside the world's top 10 after falling down as far as number 22.
+
+====Sixth runner-up finish at the U.S. Open====
+At the [[2013 U.S. Open (golf)|U.S. Open]] at [[Merion Golf Club|Merion]], Mickelson entered the final round leading by one stroke after rounds of {{nowrap|67-72-70 (−1)}} over the first three days, but he started the final round by three-putting the 3rd and 5th holes for double-bogeys to fall out of the lead. He regained the lead at the par-4 10th when he holed his second shot from the rough for an eagle. However, a misjudgment at the short par-3 13th saw him fly the green and make a bogey to slip one behind leader [[Justin Rose]]. Another bogey followed at the 15th, before narrowly missing a birdie putt on the 16th that would have tied Rose. Mickelson could not make a birdie at the 17th and after a blocked drive on the 18th, he could not hole his pitch from short of the green, which led to a final bogey.
+
+Mickelson ended up finishing tied for second with [[Jason Day]], two strokes behind Justin Rose. It was the sixth runner-up finish of Mickelson's career at the U.S. Open, an event record and only behind [[Jack Nicklaus]]'s seven runner-up finishes at [[The Open Championship]].<ref>{{cite news |url=http://www1.skysports.com/golf/us-open/story/14640/8779755 |title=Justin rose wins first major at 2013 U.S. Open as Mickelson finishes second |work=Sky Sports |date=June 16, 2013 |access-date=June 19, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130620124552/http://www1.skysports.com/golf/us-open/story/14640/8779755 |archive-date=June 20, 2013 }}</ref> After the event, Mickelson called the loss heartbreaking and said "this is tough to swallow after coming so close... I felt like this was as good an opportunity I could ask for and to not get it... it hurts."<ref>{{cite news |url=http://espn.go.com/golf/usopen13/story/_/id/9393366/2013-us-open-justin-rose-wins-phil-mickelson-second-again |title=Phil Mickelson finishes second at 2013 U.S. Open |work=ESPN |first=Bob |last=Harig |date=June 16, 2013 |access-date=June 19, 2013}}</ref> It was also Father's Day, which happened to be his birthday.
+
+====Fifth major title at the Open Championship====
+The week before [[2013 Open Championship|The Open Championship]], Mickelson warmed up for the event by winning his first tournament on British soil at the <!--Aberdeen Asset Management-->[[Scottish Open (golf)|Scottish Open]] on July 14, after a sudden-death playoff against [[Branden Grace]]. After this victory, Mickelson spoke of his confidence ahead of his participation in the following week's major championship. Mickelson said: "I've never felt more excited going into The Open. I don't think there's a better way to get ready for a major than playing well the week before and getting into contention. Coming out on top just gives me more confidence."<ref>{{cite news |last=McLean |first=Euan |title=Scottish Open: Fabulous Phil Mickelson breaks his hoodoo |url=http://www.dailyrecord.co.uk/sport/golf/scottish-open-2013-fabulous-phil-2054425 |newspaper=Daily Record |location=Glasgow |date=July 15, 2013 |access-date=July 16, 2013}}</ref>
+
+The following week, Mickelson won his fifth major title on July 21 at the [[2013 Open Championship|Open Championship]] (often referred to as the British Open) [[Muirfield|Muirfield Golf Links]] in [[Scotland]]; the Open Championship is the oldest of the four major tournaments in professional golf. This was the first time in history that anyone had won both the Scottish Open and The Open Championship in the same year.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/golf/theopen/10193872/The-Open-2013-Phil-Mickelson-wins-fifth-major-title-to-win-142nd-Open-at-Muirfield-by-three-strokes.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/golf/theopen/10193872/The-Open-2013-Phil-Mickelson-wins-fifth-major-title-to-win-142nd-Open-at-Muirfield-by-three-strokes.html |archive-date=January 12, 2022 |url-access=subscription |url-status=live |title=Phil Mickelson wins fifth major title to win 142nd Open at Muirfield by three strokes |first=James |last=Corrigan |newspaper=[[The Daily Telegraph]] |date=July 21, 2013 |access-date=July 22, 2013 |location=London}}{{cbignore}}</ref> Mickelson birdied four of the last six holes in a brilliant final round of 66 to win the title by three strokes.<ref>{{cite web |url=http://espn.go.com/golf/theopen/story/_/id/9496665/phil-mickelson-wins-open-championship-1st-brilliant-66 |title=Lefty captures Claret Jug, 5th major |date=July 21, 2013 |work=ESPN |first= Bob |last=Harig |access-date=July 22, 2013 }}</ref> He shed tears on the 18th green after completing his round. Mickelson later said: "I played arguably the best round of my career, and shot the round of my life. The range of emotions I feel are as far apart as possible after losing the U.S. Open. But you have to be resilient in this game."<ref>{{cite news |title=The Open 2013: Phil Mickelson cards superb 66 to win at Muirfield |url=https://www.bbc.co.uk/sport/0/golf/23397191 |work=BBC Sport |first=Rob |last=Hodgetts |date=July 21, 2013 |access-date=July 21, 2013}}</ref> In an interview before the 2015 Open, Mickelson said, "Two years removed from that win, I still can't believe how much it means to me."<ref>{{cite news |url=https://news.yahoo.com/mickelson-relives-british-open-victory-muirfield-173850620.html |title=Mickelson relives British Open victory at Muirfield |work=Yahoo News |agency=Associated Press |first=Steve |last=Douglas |date=July 12, 2015}}</ref>
+
+===2014 and 2015: Inconsistent form and close calls in majors===
+[[File:Players Championship - 2014 - Phil Mickelson (14162065051).jpg|thumb|Mickelson at the [[2014 Players Championship]].]]
+Mickelson missed the cut at the [[2014 Masters Tournament|Masters]] for the first time since 1997. He failed to contend at the [[2014 U.S. Open (golf)|U.S. Open]] at Pinehurst in his first bid to complete the career grand slam. Mickelson's lone top-10 of the PGA Tour season came at the year's final major, the [[2014 PGA Championship|PGA Championship]] at [[Valhalla Golf Club|Valhalla]]. Mickelson shot rounds of 69-67-67-66 to finish solo second, one shot behind world number one [[Rory McIlroy]].
+
+Prior to the [[2015 Masters Tournament|2015 Masters]], Mickelson's best finish in [[2015 PGA Tour|2015]] was a tie for 17th. At the Masters, Mickelson shot rounds of {{nowrap|70-68-67-69}} to finish tied for second with [[Justin Rose]], four shots behind champion [[Jordan Spieth]]. The second-place finish was Mickelson's tenth such finish in a major, placing him second all-time only to [[Jack Nicklaus]] in that regard.
+
+At [[2015 Open Championship|The Open Championship]], Mickelson shot rounds of {{nowrap|70-72-70}} and was eight shots behind, outside the top forty. In the final round, Mickelson birdied the 15th hole to move to 10 under and within two of the lead. After a missed {{convert|10|ft|adj=on}} birdie putt on 16, Mickelson hit his drive on the infamous Road Hole (17th) at the famed [[Old Course at St Andrews]] onto a second-floor balcony of the Old Course Hotel. The out-of-bounds drive lead to a triple-bogey 7 that sent Mickelson tumbling out of contention.
+
+Later in the year, it was announced that Mickelson would leave longtime swing coach Butch Harmon, feeling as though he needed to hear a new perspective on things.<ref>{{Cite web |title=Mickelson, Harmon part ways |url=https://www.pgatour.com/news/2015/11/04/phil-mickelson-butch-harmon-part-ways.html |access-date=2022-03-02 |publisher=PGA Tour}}</ref>
+
+===2016: New swing coach===
+After leaving Butch Harmon, Mickelson hired Andrew Getson of Grayhawk Golf Club in Scottsdale, Arizona, to serve as his new swing coach. The two worked together heavily in the 2015 offseason to get Mickelson's swing back.
+
+Under Getson's guidance, Mickelson made his [[2016 PGA Tour|2016]] debut at the [[CareerBuilder Challenge]]. He shot rounds of {{nowrap|68-65-66-68}} to finish in a tie for third place at 21-under-par. It was only Mickelson's fifth top-five finish since his win at the 2013 Open Championship. The third-place finish was Mickelson's highest finish in his first worldwide start of a calendar year since he won the same event to begin the 2004 season.
+
+At the [[AT&T Pebble Beach Pro-Am]], Mickelson shot rounds of {{nowrap|68-65-66-72}} to finish in solo second place, a shot behind [[Vaughn Taylor]]. Mickelson lipped out a five-foot birdie putt to force a playoff on the 72nd hole. He entered the final round with a two-stroke lead, his first 54-hole lead since the 2013 U.S. Open and was seeking to end a winless drought dating back 52 worldwide events to the 2013 Open Championship.<ref>{{cite magazine |url=http://www.bunkered.co.uk/golf-news/phil-mickelson-falls-agonisingly-short-at-pebble |title=Phil Mickelson falls agonisingly short at Pebble |date=February 15, 2016 |magazine=bunkered |first=Martin |last=Inglis}}</ref>
+
+Mickelson shot a 63 in the opening round of [[2016 Open Championship|The Open Championship]] at [[Royal Troon Golf Club|Royal Troon]]. The round set a new course record and matched the previous major championship record for lowest round. Mickelson had a {{convert|15|ft|adj=on}} birdie putt that narrowly missed on the final hole to set a new major championship scoring record of 62.<ref>{{cite news |url=https://www.theguardian.com/sport/live/2016/jul/14/the-open-2016-day-one-live |title=The Open 2016: day one – as it happened |date=July 14, 2016 |newspaper=The Guardian |first1=Scott |last1=Murray |first2=Stuart |last2=Goodwin |access-date=July 15, 2016}}</ref> He followed this up with a 69 in the second round for a 10 under par total and a one-shot lead over [[Henrik Stenson]] going into the weekend. In the third round, Mickelson shot a one-under 70 for a total of 11 under par to enter the final round one shot back of Stenson. Despite Mickelson's bogey-free 65 in the final round, Stenson shot 63 to win by three shots. Mickelson finished 11 strokes clear of 3rd place, a major championship record for a runner-up. Mickelson's 267 total set a record score for a runner-up in the British Open, and only trails Mickelson's 266 at the 2001 PGA Championship as the lowest total by a runner-up in major championship history.
+
+===2017: Recovery from surgeries===
+In the fall of 2016, Mickelson had two sports hernia surgeries. Those in the golf community expected him to miss much time recovering, however his unexpected return at the [[CareerBuilder Challenge]] was a triumphant one, leading to a T-21 finish. The next week, in San Diego, he narrowly missed an eagle putt on the 18th hole on Sunday that would have got him to 8-under par instead posting −7 {{nowrap|(71-72-67-71)}} to finish T14 at the [[Farmers Insurance Open]]. The following week, at the Waste Management [[Phoenix Open]], which he has won three times, he surged into contention following a Saturday 65. He played his first nine holes in 4-under 32 and sending his name to the top of the leaderboard. However, his charge faltered with bogeys at 11, 12, 14, 15, and a double bogey at the driveable 17th hole. He stumbled with a final round 71, still earning a T-16 finish, for his sixth straight top-25 finish on tour.
+
+Mickelson came close to winning again at the [[FedEx St. Jude Classic]] where he had finished in second place the previous year to [[Daniel Berger (golfer)|Daniel Berger]]. He started the final round four strokes behind leaders but he quickly played himself into contention. Following a birdie at the 10th hole he vaulted to the top of leaderboard but found trouble on the 12th hole. His tee shot carried out of bounds and his fourth shot hit the water, so he had to make a long putt to salvage triple-bogey. He managed to get one shot back, but he finished three shots behind winner Berger, in ninth place, for the second straight year.
+
+Two weeks later he withdrew from the U.S. Open to attend his daughter's high school graduation. A week later, his longtime caddie Jim (Bones) Mackay left Mickelson in a mutual agreement.<ref>{{cite magazine |url=http://www.bunkered.co.uk/golf-news/phil-mickelson-and-caddie-bones-part-ways |title=Phil Mickelson and caddie Bones part ways |date=June 20, 2017 |magazine=bunkered |first=Martin |last=Inglis}}</ref> Mickelson then missed the cut at both [[2017 Open Championship|The Open Championship]] and the [[2017 PGA Championship|PGA Championship]].
+
+On September 6, days after posting his best finish of the season of T6 at the [[Dell Technologies Championship]], Mickelson was named as a captain's pick for the [[2017 Presidents Cup|Presidents Cup]].<ref>{{cite magazine |url=http://www.bunkered.co.uk/golf-news/phil-mickelson-gets-captains-pick-for-presidents-cup |title=Phil Mickelson gets captain's pick for Presidents Cup |date=September 7, 2017 |magazine=bunkered |first=Martin |last=Inglis}}</ref> This maintained a streak of 23 consecutive USA teams in the Presidents Cup and Ryder Cup, dating back to 1994.
+
+===2018–2019: Winless streak ends===
+On March 4, 2018, Mickelson ended a winless drought that dated back to 2013, by capturing his third WGC championship at the [[2018 WGC-Mexico Championship|WGC-Mexico Championship]], with a final-round score of 66 and a total score of −16. Mickelson birdied two of his last four holes and had a lengthy putt to win outright on the 72nd hole, but tied with [[Justin Thomas]]. He defeated Thomas on the first extra hole of a sudden-death playoff with a par. After Thomas had flown the green, Mickelson had a birdie to win the playoff which lipped out. Thomas however could not get up and down for par, meaning Mickelson claimed the championship. The win was Mickelson's 43rd on the PGA Tour and his first since winning the [[2013 Open Championship]].<ref>{{cite news |last1=Kukreti |first1=Shobhit |title=Phil Mickelson lauds Tiger Woods joining the PGA Tour policy board as a player director - "Awesome news" |url=https://www.sportskeeda.com/golf/news-phil-mickelson-lauds-tiger-woods-joining-pga-tour-policy-board-player-director-awesome-news |work=Sportskeeda |date=2 August 2023 |language=en-us}}</ref> He also became the oldest winner of a WGC event, at age 47.<ref>{{cite news |url=https://www.usatoday.com/story/sports/golf/2018/03/04/phil-mickelson-wins-playoff-in-mexico-ends-long-drought/111093854/ |title=Phil Mickelson wins playoff in Mexico, ends long drought |date=March 4, 2018 |newspaper=USA Today |agency=Associated Press |access-date=March 6, 2018}}</ref> He also became the oldest winner of a WGC event, at age 47.<ref>{{cite news |url=https://www.usatoday.com/story/sports/golf/2018/03/04/phil-mickelson-wins-playoff-in-mexico-ends-long-drought/111093854/ |title=Phil Mickelson wins playoff in Mexico, ends long drought |date=March 4, 2018 |newspaper=USA Today |agency=Associated Press |access-date=March 6, 2018}}</ref>
+
+In the third round of the [[2018 U.S. Open (golf)|2018 U.S. Open]], Mickelson incurred a two-stroke penalty in a controversial incident on the 13th hole when he hit his ball with intent while it was still moving. He ended up shooting 81 (+11). His former coach Butch Harmon thought Mickelson should have been disqualified.<ref>{{cite web |title=US Open: Butch Harmon reflects on Phil Mickelson's penalty incident |url=http://www.skysports.com/golf/news/12040/11407962/butch-harmon-feels-phil-mickelson-should-have-withdrawn-from-us-open |publisher=Sky Sports |first=Keith |last=Jackson |date=June 17, 2018 |access-date=June 17, 2018}}</ref><ref>{{cite news |url=https://www.theguardian.com/sport/2018/jun/20/phil-mickelson-apologizes-hitting-moving-ball |title=Phil Mickelson says he's sorry for hitting moving ball during US Open |date=June 20, 2018 |newspaper=The Guardian |agency=Press Association |access-date=June 21, 2018}}</ref>
+
+Mickelson was a captain's pick for Team USA at the [[2018 Ryder Cup]], held in Paris between September 28 and 30.<ref>{{cite magazine |url=https://www.golfdigest.com/story/no-surprises-tiger-woods-phil-mickelson-and-bryson-dechambeau-named-to-us-ryder-cup-team |title=No surprises: Tiger Woods, Phil Mickelson and Bryson DeChambeau named to U.S. Ryder Cup team |magazine=Golf Digest |first=John |last=Strege |date=September 4, 2018}}</ref> Paired with [[Bryson DeChambeau]] in the Friday afternoon foursomes, they lost 5 and 4 to Europe's [[Sergio García]] and [[Alex Norén]]. In the Sunday singles match, Mickelson lost 4 and 2 to [[Francesco Molinari]], as Team USA slumped to a 17.5 to 10.5 defeat.<ref>{{cite news |url=https://www.theguardian.com/sport/2018/sep/30/ryder-cup-2018-europe-win-usa-golf |title=Ryder Cup 2018: Europe rout USA to exceed Thomas Bjørn's wildest dreams |newspaper=The Guardian |first=Ewan |last=Murray |date=September 30, 2018}}</ref>
+
+On November 23, 2018, Mickelson won the pay-per-view event, Capital One's The Match. This was a $9,000,000 winner-takes-all match against [[Tiger Woods]] at [[Shadow Creek Golf Course]] in [[Las Vegas]]. Mickelson needed four extra holes to beat Woods, which he did by holing a four-foot putt after Woods missed a seven-foot putt on the 22nd hole.<ref>{{cite web |url=https://www.pga.com/news/golf-buzz/tiger-woods-phil-mickelson-match-score-highlights-results |publisher=PGA of America |date=November 23, 2018 |title=Phil Mickelson beats Tiger Woods in The Match on 22nd hole |first=Wayne |last=Staats}}</ref>
+
+In his third start of the 2019 calendar year, Mickelson won the [[AT&T Pebble Beach Pro-Am]], shooting a bogey-free final round 65 to defeat [[Paul Casey]] by three strokes. The win was Mickelson's 44th career title on the PGA Tour, and his fifth at Pebble Beach, tying [[Mark O'Meara]] for most victories in the event.<ref>{{cite news |last=Porter |first=Kyle |title=2019 Pebble Beach Pro-Am leaderboard, grades: Phil Mickelson takes home record fifth title |url=https://www.cbssports.com/golf/news/2019-pebble-beach-pro-am-leaderboard-grades-phil-mickelson-takes-home-record-fifth-title/ |work=CBS Sports |date=February 11, 2019 |access-date=February 11, 2019}}</ref> At 48 years of age, he also became the oldest winner of that event.
+
+===2020: PGA Tour season and PGA Tour Champions debut===
+[[File:Phil Mickelson 2020 Farmers Open.jpg|left|thumb|Mickelson at [[Torrey Pines Golf Course|Torrey Pines]] in January 2020]]
+In December 2019, Mickelson announced via Twitter that "after turning down opportunities to go to the Middle East for many years" he would play in the 2020 [[Saudi International (golf)|Saudi International]] tournament on the [[European Tour]] and would miss [[Waste Management Phoenix Open]] for the first time since 1989. However, his decision to visit and play in Saudi Arabia was criticized{{by whom|date=March 2021}} for getting lured by millions of dollars and ignoring the continuous human rights abuses in the nation.<ref>{{cite magazine |url=https://www.bunkered.co.uk/golf-news/phil-mickelson-hits-out-at-critics-of-his-saudi-appearance |title=Phil Mickelson hits out at critics of his Saudi appearance |first=Michael |last=McEwan |date=December 3, 2019|access-date=December 3, 2019 |magazine=bunkered}}</ref> Mickelson went on to finish the February 2020 event tied for third.<ref>{{Cite news |title=2020 Saudi International Powered by SBIA |url=https://www.golfchannel.com/tours/european-tour/2020/saudi-international-powered-sbia |access-date=2022-03-02 |work=Golf Channel}}</ref>
+
+Mickelson finished 3rd at the 2020 [[AT&T Pebble Beach Pro-Am]] and tied for 2nd in the [[2020 WGC-FedEx St. Jude Invitational|WGC-FedEx St. Jude Invitational]]. Mickelson was the first player over 50 to finish in the top five of a World Golf Championship event. He was ultimately eliminated from the [[2020 FedEx Cup Playoffs|FedEx Cup Playoffs]] following [[The Northern Trust]] at [[TPC Boston]] in August 2020. One week later, Mickelson made his debut on the [[PGA Tour Champions]]. He won the Charles Schwab Series at Ozarks National in his first tournament after becoming eligible for PGA Tour Champions on his 50th birthday on June 16, 2020. He was the 20th player to win their debut tournament on tour.<ref>{{cite magazine |url=https://golfweek.usatoday.com/lists/20-golfers-who-won-pga-tour-champions-debut/ |title=The 20 golfers who won their PGA Tour Champions debuts |magazine=Golfweek |first=Todd |last=Kelly |date=August 26, 2020}}</ref> Mickelson's 191 stroke total tied the PGA Tour Champions all-time record for a three-day event.
+
+In October 2020, Mickelson won the [[Dominion Energy Charity Classic]] in Virginia. It was his second win in as many starts on the PGA Tour Champions.<ref>{{cite web |url=https://www.tsn.ca/mickelson-wins-in-richmond-to-got-2-for-2-on-senior-tour-1.1540535 |agency=The Canadian Press |website=www.tsn.ca |date=October 18, 2020 |access-date=October 18, 2020 |title=Mickelson wins in Richmond; Weir places 2nd}}</ref>
+
+===2021: The oldest major champion===
+In February 2021, Mickelson was attempting to become the first player in PGA Tour Champions history to win his first three tournaments on tour. However, he fell short in the [[Cologuard Classic]], finishing in a T-20 position with a score of 4 under par.<ref>{{cite magazine |url=https://www.golfdigest.com/story/phil-mickelson-s-bid-for-a-pga-tour-champions-record-ends--prema/amp |title=Phil Mickelson's bid for a PGA Tour Champions record ends prematurely |magazine=Golf Digest |first=John |last=Strege |date=February 28, 2021}}</ref>
+
+In May 2021, Mickelson held the 54-hole lead at the [[2021 PGA Championship|PGA Championship]] at the [[Kiawah Island Golf Resort]] in [[South Carolina]], leading [[Brooks Koepka]] by one shot with one day to play. He shot a final-round 73 to capture the tournament, defeating Koepka and [[Louis Oosthuizen]] by two strokes, becoming the oldest major champion; at 50.<ref name="Oldest major">{{Cite news|last=Pietruszkiewicz |first=Nick |date=May 23, 2021 |title=How Phil Mickelson stunned golf by becoming the oldest major champion |url=https://www.espn.com/golf/story/_/id/31497332/how-phil-mickelson-stunned-golf-becoming-oldest-major-champion |access-date=May 23, 2021 |work=ESPN}}</ref> As Mickelson walked down the fairway following an excellent second shot from the left rough on the 18th hole, thousands of fans engulfed him, with him walking towards the hole constantly tipping his hat and giving the [[thumbs up]] to the crowd as they cheered. However, the massive tumult of people meant playing partner [[Brooks Koepka]] was stranded in the sea of people, and with difficulties, he managed to reach the green to finish the hole. Mickelson eventually emerged from the crowd and two-putted for par, finishing the tournament at 6-under, besting the field by two strokes.<ref>{{cite web |url=https://www.bbc.com/sport/golf/57224082 |title=US PGA Championship: Phil Mickelson becomes oldest major winner with sixth title |date=May 23, 2021 |work=BBC Sport |access-date=May 24, 2021}}</ref>
+
+In October 2021, Mickelson won for the third time in four career starts on the PGA Tour Champions. Mickelson shot a final round 4-under-par 68 to win the inaugural Constellation Furyk & Friends over [[Miguel Ángel Jiménez]] in [[Jacksonville, Florida]].<ref>{{cite magazine |url=https://www.si.com/golf/news/phil-mickelson-wins-furyk-friends-for-third-senior-victory-in-four-starts |agency=Associated Press |magazine=Sports Illustrated  |title=Phil Mickelson Wins Furyk & Friends for Third Senior Victory in Four Starts |date=October 10, 2021 |access-date=October 11, 2021}}</ref>
+
+In November 2021, Mickelson won the season-ending [[Charles Schwab Cup Championship]] in [[Phoenix, Arizona]], with a final round six-under par 65. This victory was Mickelson's fourth win in six career starts on [[PGA Tour Champions]].<ref>{{cite web |url=https://golf.com/news/phil-mickelson-wins-remarkable-pga-tour-champions/ |website=Golf.com |first=Josh |last=Berhow |date=November 14, 2021 |access-date=November 14, 2021 |title=Phil Mickelson continues remarkable PGA Tour Champions run with another victory}}</ref>
+
+===2022: LIV Golf===
+Mickelson told a journalist that despite [[Saudis|Saudi Arabian]]s being "scary motherfuckers" who had murdered journalist [[Jamal Khashoggi]] and executed gay people, he supported the Saudi-backed [[LIV Golf]] because it offered an opportunity to reshape the PGA Tour.<ref name="Saudi">{{Cite news |last=VanHaaren |first=Tom |date=February 24, 2022 |title=Inside how Phil Mickelson's challenge of the PGA Tour backfired so quickly and what comes next |url=https://www.espn.com/golf/story/_/id/33354910/this-was-failed-coup-how-phil-mickelson-challenge-pga-tour-backfired-quickly-comes-next |work=[[ESPN]] |access-date=February 28, 2022}}</ref> In response to these comments, Mickelson lost sponsors [[Amstel Light]] and [[KPMG]].<ref name="Saudi" /> Mickelson announced he would be stepping away from golf to spend time with his family and would miss the [[2022 Masters Tournament]].<ref name="Saudi" /> In May, he also decided to withdraw from the [[2022 PGA Championship|PGA Championship]]<ref>{{Cite news |title=Mickelson withdraws from PGA Championship |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/golf/61442619 |access-date=2022-05-15}}</ref> which he won in 2021.<ref>{{Cite web |title=Phil Mickelson withdraws from 2022 PGA Championship field as reigning champion continues hiatus |url=https://www.cbssports.com/golf/news/phil-mickelson-withdraws-from-2022-pga-championship-field-as-reigning-champion-continues-hiatus/ |access-date=2022-05-13 |work=CBS Sports}}</ref> On June 6, 2022, LIV Golf CEO [[Greg Norman]] announced that Mickelson will play in the first event on the [[LIV Golf Invitational Series]] beginning on June 9, 2022.<ref>{{Cite news |date=2022-06-06 |title=Mickelson added to field for LIV Golf's first event |url=https://www.espn.com/golf/story/_/id/34048152/phil-mickelson-added-field-first-saudi-backed-liv-golf-invitational-beginning-thursday-london |work=ESPN |first=Mark |last=Schlabach |access-date=2022-06-06}}</ref> On June 9, 2022, the first day of the [[LIV Golf Invitational London]], the [[PGA Tour]] suspended Mickelson and 16 other current and former tour members for participating in a conflicting event without permission from the tour.<ref>{{cite news |last=Schlabach |first=Mark |title=PGA Tour suspends LIV golfers from all events |url=https://www.espn.com/golf/story/_/id/34063037/pga-tour-suspends-all-players-taking-part-first-liv-golf-tournament |work=ESPN |access-date=9 June 2022 |date=9 June 2022}}</ref>
+
+===2023===
+At the [[2023 Masters Tournament]], Mickelson made what many viewed as the performance of the tournament, beginning the final day ten shots off of the lead, and finishing in tied second. Shooting a 65, Mickelson equaled his lowest score at Augusta almost 27 years ago. In the last seven holes, he scored five birdies and two pars.
+
+==Playing style ==
+As a competitor, Mickelson's playing style is described by many as "aggressive" and highly social.<ref name=SI/><ref>{{cite web|url=http://www.majorschampionships.com/masters/2010/news/mcallister041110.cfm |title=For Mickelson, style produces substance – and a third Green Jacket |publisher=PGA Tour |first=Mike |last=McAllister |date=April 11, 2013 |access-date=July 30, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120324052940/http://www.majorschampionships.com/masters/2010/news/mcallister041110.cfm |archive-date=March 24, 2012 }}</ref><ref>{{cite web |url=http://www.pgatour.com/news/2009/05/05/tuesdaytranscriptphil.html |title=What they said: Phil Mickelson |publisher=PGA Tour |date=May 5, 2009 |access-date=July 30, 2013}}</ref> His strategy toward difficult shots (bad lies, obstructions) would tend to be considered risky.<ref>{{cite book |url=https://books.google.com/books?id=8WVYkr450WMC&q=phil+mickelson+attitude |title=Endurance: Winning Life's Majors the Phil Mickelson Way |first=David |last=Magee |publisher=John Wiley & Sons |year=2005 |isbn=978-0-471-72087-4 |access-date=July 30, 2013}}</ref>
+
+Mickelson has also been characterized by his powerful and sometimes inaccurate [[Wood (golf)|driver]], but his excellent short game draws the most positive reviews, most of all his daring "Phil [[flop shot|flop]]" shot in which a big swing with a high-lofted wedge against a tight lie flies a ball high into the air for a short distance.<ref>{{cite web |url=http://playerstowelblog.com/golf-tips-the-flop-shot/ |title=Golf Tips – The Flop Shot |work=PlayersTowel.com |date=April 20, 2012 |access-date=July 30, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130513230655/http://playerstowelblog.com/golf-tips-the-flop-shot/ |archive-date=May 13, 2013 }}</ref>
+
+In his prime, Mickelson was usually in the top 10 in scoring, and he led the PGA Tour in birdie average as recently as 2013.<ref>{{cite web |title=Phil Mickelson – Career |url=http://www.pgatour.com/players/player.01810.phil-mickelson.html/career |publisher=PGA Tour |access-date=May 1, 2015}}</ref>
+
+==Earnings and endorsements==
+Although ranked second on the PGA Tour's all-time money list<ref>{{Cite web |title=Career Money Leaders |url=https://www.pgatour.com/stats/stat.110.html |access-date=2022-03-02 |publisher=PGA Tour}}</ref> of tournament prize money won, Mickelson earns far more from endorsements than from prize money. According to one estimate<ref>{{cite magazine |url=http://sportsillustrated.cnn.com/more/specials/fortunate50/ |title=Ranking the 50 highest-earning athletes in the U.S. |magazine=Sports Illustrated |first=Jonah |last=Freedman |access-date=July 30, 2013}}</ref> of 2011 earnings (comprising salary, winnings, bonuses, endorsements, and appearances), Mickelson was then the second-highest paid athlete in the United States, earning an income of over $62 million, $53 million of which came from endorsements. In 2015, ''[[Forbes]]'' estimated Mickelson's annual income was $51 million.<ref>{{cite magazine |year=2015 |title=Phil Mickelson |url=https://www.forbes.com/profile/phil-mickelson/ |magazine=[[Forbes]] |access-date=April 29, 2016}}</ref> Major companies which Mickelson currently endorses are [[ExxonMobil]] (Mickelson and wife Amy started a teacher sponsorship fund with the company), [[Rolex]], and [[Mizzen+Main]]. Mickelson's sponsorship with Callaway Golf is currently "paused" and will be re-evaluated at a later date.<ref>{{Cite magazine |title=Callaway, Workday join other companies in distancing themselves from Phil Mickelson |url=https://www.golfdigest.com/story/mickelson-sponsors-2022 |access-date=2022-03-02 |magazine=Golf Digest}}</ref> After being diagnosed with [[psoriatic arthritis]] in 2010, Mickelson was treated with [[Enbrel]] and began endorsing the drug. He has been previously sponsored by [[Titleist]], [[KPMG]], [[Workday, Inc.|Workday]], [[Bearing Point]], [[Barclays]], [[Amstel Light]] and [[Ford Motor Company|Ford]].
+
+In 2022, Mickelson lost a significant number of sponsors including KPMG, Amstel Light, and Workday after comments he made about the Saudi-backed golf league, [[LIV Golf]]. In an interview, he stated that Saudis are "scary motherfuckers to get involved with... We know they killed [''[[Washington Post]]'' reporter and U.S. resident Jamal] [[Jamal Khashoggi|Khashoggi]] and have a horrible record on human rights. They execute people over there for being gay. Knowing all of this, why would I even consider it? Because this is a once-in-a-lifetime opportunity to reshape how the PGA Tour operates."<ref>{{cite news |url=https://www.espn.com/golf/story/_/id/33372397/callaway-pauses-relationship-phil-mickelson-wake-golfer-controversial-comments |title=Callaway pauses relationship with Phil Mickelson; Workday cuts ties with golfer after comments |work=[[ESPN]] |first=Mark |last=Schlabach |date=February 25, 2022 |access-date=February 28, 2022}}</ref><ref>{{cite news |url=https://www.npr.org/2022/02/23/1082549969/phil-mickelson-saudi-arabiagolf |title=Phil Mickelson apologizes for controversial comments about a Saudi-backed golf league |work=[[NPR]] |first=Becky |last=Sullivan |date=February 23, 2022 |access-date=February 28, 2022}}</ref>
+
+==Business==
+As a businessman, Mickelson is the co-founder of [[For Wellness]] with Dave Phillips, who is [[Jon Rahm]]'s coach and also co-founder of the Titleist Performance Institute. The company sells functional food and beverage products, including the supplement that Mickelson adds to his coffee <ref>{{cite magazine |title=Inside the Coffee Company That Helped Phil Mickelson Slim Down |magazine=Sports Illustrated |first=Ken |last=Klavon |url=https://www.si.com/golf/news/inside-the-coffee-company-that-helped-phil-mickelson-slim-down |date=October 22, 2022 |access-date=13 April 2023}}</ref>
+
+==Insider trading settlement==
+
+On May 30, 2014, ''[[The Wall Street Journal]]'' reported that the FBI and [[U.S. Securities and Exchange Commission]] (SEC) were investigating Mickelson and associates of his for [[insider trading]] in [[Clorox]] and [[Dean Foods]] stock.<ref>{{cite news |url=https://online.wsj.com/articles/fbi-sec-probe-trading-of-carl-icahn-billy-walters-phil-mickelson-1401492772 |title=FBI, SEC Probe Trading of Carl Icahn, Billy Walters, Phil Mickelson |newspaper=The Wall Street Journal |first1=Susan |last1=Pulliam |first2=Michael |last2=Rothfeld |date=May 30, 2014}}</ref><ref>{{cite news |url=https://www.usatoday.com/story/money/business/2014/05/30/wsj-report-carl-icahn-phil-mickelson-william-billy-walters-insider-trading-probe/9791365/ |title=Report: FBI, SEC probe Icahn, Mickelson and Walters |newspaper=USA Today |first=Beth |last=Belton |date=May 30, 2014}}</ref> Mickelson denied any wrongdoing.<ref>{{cite news |url=http://www.businessweek.com/news/2014-05-31/icahn-says-he-s-never-out-given-inside-information |archive-url=https://web.archive.org/web/20140601102241/http://www.businessweek.com/news/2014-05-31/icahn-says-he-s-never-out-given-inside-information |url-status=dead |archive-date=June 1, 2014 |title=Report: Icahn Says He's Never Out Given Inside Information |newspaper=Businessweek |first=Trish |last=Regan |date=May 31, 2014}}</ref> The initial investigation concluded without any charges related to Clorox. However, Mickelson was still under investigation for trades in Dean Foods from which he profited more than $931 thousand.<ref name="cbs">{{cite news |url=http://www.cbsnews.com/news/phil-mickelson-role-in-insider-trading-probe-overstated-report-says/ |title=Report: Mickelson role in insider trading probe overstated |work=CBS News |date=June 12, 2014}}</ref><ref>{{Cite magazine |title=Billy Walters, gambler tied to Phil Mickelson, sentenced to prison after insider-trading conviction |url=https://www.golfdigest.com/story/billy-walters-gambler-tied-to-phil-mickelson-sentenced-to-prison-after-insider-trading-conviction |access-date=June 12, 2023 |magazine=Golf Digest |first=Ryan |last=Herrington |date=July 27, 2017}}</ref> On May 19, 2016, Mickelson was named as a relief defendant in a SEC complaint alleging insider trading but avoided criminal charges in a parallel case brought in the Federal District Court for the [[United States District Court for the Southern District of New York|Southern District of New York]].<ref>{{cite journal |last=Smyth |first=David |title=Phil Mickelson is Very Glad United States v. Newman is the Law in the Second Circuit |url=http://www.natlawreview.com/article/phil-mickelson-very-glad-united-states-v-newman-law-second-circuit |access-date=May 28, 2016 |journal=The National Law Review |date=May 20, 2016}}</ref> The action results from trades in [[Dean Foods]] in 2012 in conjunction with confidential information provided by Thomas Davis, a former director of Dean Foods Company, who tipped his friend and "professional sports bettor" [[Billy Walters (gambler)|Billy Walters]].<ref name="cbs" />
+
+The SEC alleged that Walters told Mickelson material, nonpublic information about Dean Foods,<ref>{{Cite web |title=SEC Announces Insider Trading Charges in Case Involving Sports Gambler and Board Member |url=https://www.sec.gov/news/pressrelease/2016-92.html |access-date=2022-03-02 |publisher=U.S. Securities and Exchange Commission |date=May 19, 2016}}</ref> and the SEC fined Mickelson the equivalent of the $931,000 profit he made from trading Dean Foods stock as well as interest of $105,000.<ref>{{cite journal |last1=Fischer |first1=Douglas H. |last2=Moreno |first2=Joseph V. |last3=Wharton (Clayton) |first3=Kendra |title=DOJ's Failure to Charge Phil Mickelson Illustrates Difficulties in Charging Outsider Tippees with Insider Trading |journal=The National Law Review |date=May 24, 2016 |url=http://www.natlawreview.com/article/doj-s-failure-to-charge-phil-mickelson-illustrates-difficulties-charging-outsider |access-date=May 28, 2016}}</ref> In 2017, Walters was [[Insider trading#United States|convicted]] of making $40 million on Davis's private information from 2008 to 2014 by a federal jury. At that time, it was also noted that Mickelson had "once owed nearly $2 million in gambling debts to" Walters.<ref>{{cite news |last1=Moynihan |first1=Colin |first2=Liz |last2=Moyer |url=https://www.nytimes.com/2017/04/07/business/dealbook/william-t-walters-famed-sports-bettor-is-guilty-in-insider-trading-case.html |title=William T. Walters, Famed Sports Bettor, Is Guilty in Insider Trading Case |newspaper=The New York Times |date=April 7, 2017 |access-date=April 7, 2017}}</ref>
+
+==Amateur wins==
+[[File:MickelsonTPCAwardCeremony.jpg|right|thumb|Mickelson with commissioner [[Tim Finchem]] after winning the [[2007 Players Championship]]]]
+*1980 [[Junior World Golf Championships]] (Boys 9–10)<ref>{{cite web |url=http://www.juniorworldgolf.com/node/21?pg=1980 |title=Callaway Junior World Golf Championships – 1980 Champions |publisher=Junior World Golf |access-date=July 30, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20110421043200/http://www.juniorworldgolf.com/node/21?pg=1980 |archive-date=April 21, 2011 }}</ref>
+*1989 [[NCAA Division I Men's Golf Championships|NCAA Division I Championship]]
+*1990 [[Pac-10]] Championship, [[NCAA Division I Men's Golf Championships|NCAA Division I Championship]], [[U.S. Amateur]], [[Porter Cup]]
+*1991 [[Western Amateur]]
+*1992 [[NCAA Division I Men's Golf Championships|NCAA Division I Championship]]
+
+==Professional wins (57)==
+===PGA Tour wins (45)===
+{| class="wikitable" style="font-size:95%;"
+|- style="background:#eee;"
+|'''Legend'''
+|- style="background:#e5d1cb;"
+| Major championships (6)
+|-  style="background:#f2ecce;"
+| Players Championships (1) 
+|- style="background:#dfe2e9;"
+| World Golf Championships (2)
+|- style="background:thistle;"
+| Tour Championships/FedEx Cup playoff events (3)
+|- 
+| Other PGA Tour (33)
+|}
+{| class="wikitable" style="font-size:95%;"
+!No.!!Date!!Tournament!!Winning score!!Margin of<br>victory!!Runner(s)-up
+|-
+|align=center|1
+|align=right|Jan 13, [[1991 PGA Tour|1991]]
+|[[Northern Telecom Open]]<br>(as an amateur)
+|−16 (65-71-65-71=272)
+|1 stroke
+|{{flagicon|USA}} [[Tom Purtzer]], {{flagicon|USA}} [[Bob Tway]]
+|-
+|align=center|2
+|align=right|Feb 21, [[1993 PGA Tour|1993]]
+|[[Buick Invitational of California]]
+|−10 (75-69-69-65=278)
+|4 strokes
+|{{flagicon|USA}} [[Dave Rummells]]
+|-
+|align=center|3
+|align=right|Aug 22, 1993
+|[[The International (golf)|The International]]
+|45 pts (11-7-11-16=45)
+|8 points
+|{{flagicon|USA}} [[Mark Calcavecchia]]
+|-
+|align=center|4
+|align=right|Jan 9, [[1994 PGA Tour|1994]]
+|[[Mercedes Championships]]
+|−12 (70-68-70-68=276)
+|Playoff
+|{{flagicon|USA}} [[Fred Couples]]
+|-
+|align=center|5
+|align=right|Jan 22, [[1995 PGA Tour|1995]]
+|[[Northern Telecom Open]] (2)
+|−19 (65-66-70-68=269)
+|1 stroke
+|{{flagicon|USA}} [[Jim Gallagher Jr.]], {{flagicon|USA}} [[Scott Simpson (golfer)|Scott Simpson]]
+|-
+|align=center|6
+|align=right|Jan 14, [[1996 PGA Tour|1996]]
+|[[Nortel Open]] (3)
+|−14 (69-66-71-67=273)
+|2 strokes
+|{{flagicon|USA}} [[Bob Tway]]
+|-
+|align=center|7
+|align=right|Jan 27, 1996
+|[[Phoenix Open]]
+|−15 (69-67-66-67=269)
+|Playoff
+|{{flagicon|USA}} [[Justin Leonard]]
+|-
+|align=center|8
+|align=right|May 12, 1996
+|[[GTE Byron Nelson Golf Classic]]
+|−15 (67-65-67-66=265)
+|2 strokes
+|{{flagicon|AUS}} [[Craig Parry]]
+|-
+|align=center|9
+|align=right|Aug 25, 1996
+|[[NEC World Series of Golf]]
+|−6 (70-66-68-70=274)
+|3 strokes
+|{{flagicon|USA}} [[Billy Mayfair]], {{flagicon|USA}} [[Steve Stricker]],<br>{{flagicon|USA}} [[Duffy Waldorf]]
+|-
+|align=center|10
+|align=right|Mar 23, [[1997 PGA Tour|1997]]
+|[[Bay Hill Invitational]]
+|−16 (72-65-70-65=272)
+|3 strokes
+|{{flagicon|AUS}} [[Stuart Appleby]]
+|-
+|align=center|11
+|align=right|Aug 3, 1997
+|[[Sprint International (golf)|Sprint International]] (2)
+|48 pts (14-13-12-9=48)
+|7 points
+|{{flagicon|AUS}} [[Stuart Appleby]]
+|-
+|align=center|12
+|align=right|Jan 11, [[1998 PGA Tour|1998]]
+|[[Mercedes Championships]] (2)
+|−17 (68-67-68-68=271)
+|1 stroke
+|{{flagicon|USA}} [[Mark O'Meara]], {{flagicon|USA}} [[Tiger Woods]]
+|-
+|align=center|13
+|align=right|Aug 17, 1998
+|[[AT&T Pebble Beach National Pro-Am]]
+|−14 (65-70-67=202)*
+|1 stroke
+|{{flagicon|USA}} [[Tom Pernice Jr.]]
+|-
+|align=center|14
+|align=right|Feb 13, [[2000 PGA Tour|2000]]
+|[[Buick Invitational]] (2)
+|−18 (66-67-67-70=270)
+|4 strokes
+|{{flagicon|JPN}} [[Shigeki Maruyama]], {{flagicon|USA}} [[Tiger Woods]]
+|-
+|align=center|15
+|align=right|Apr 2, 2000
+|[[BellSouth Classic]]
+|−11 (67-69-69=205)*
+|Playoff
+|{{flagicon|USA}} [[Gary Nicklaus]]
+|-
+|align=center|16
+|align=right|May 21, 2000
+|[[MasterCard Colonial]]
+|−12 (67-68-70-63=268)
+|2 strokes
+|{{flagicon|USA}} [[Stewart Cink]], {{flagicon|USA}} [[Davis Love III]]
+|- style="background:thistle;"
+|align=center|17
+|align=right|Nov 5, 2000
+|[[The Tour Championship]]
+|−13 (67-69-65-66=267)
+|2 strokes
+|{{flagicon|USA}} [[Tiger Woods]]
+|-
+|align=center|18
+|align=right|Feb 11, [[2001 PGA Tour|2001]]
+|[[Buick Invitational]] (3)
+|−19 (68-64-71-66=269)
+|Playoff
+|{{flagicon|USA}} [[Frank Lickliter]], {{flagicon|USA}} [[Davis Love III]]
+|-
+|align=center|19
+|align=right|Jul 1, 2001
+|[[Canon Greater Hartford Open]]
+|−16 (67-68-61-68=264)
+|1 stroke
+|{{flagicon|USA}} [[Billy Andrade]]
+|-
+|align=center|20
+|align=right|Jan 20, [[2002 PGA Tour|2002]]
+|[[Bob Hope Chrysler Classic]]
+|−30 (64-67-70-65-64=330)
+|Playoff
+|{{flagicon|USA}} [[David Berganio Jr.]]
+|-
+|align=center|21
+|align=right|Jun 23, 2002
+|[[Canon Greater Hartford Open]](2)
+|−14 (69-67-66-64=264)
+|1 stroke
+|{{flagicon|USA}} [[Jonathan Kaye]], {{flagicon|USA}} [[Davis Love III]]
+|-
+|align=center|22
+|align=right|Jan 25, [[2004 PGA Tour|2004]]
+|[[Bob Hope Chrysler Classic]] (2)
+|−30 (68-63-64-67-68=330)
+|Playoff
+|{{flagicon|USA}} [[Skip Kendall]]
+|- style="background:#e5d1cb;"
+|align=center|23
+|align=right|Apr 11, 2004
+|'''[[2004 Masters Tournament|Masters Tournament]]'''
+|−9 (72-69-69-69=279)
+|1 stroke
+|{{flagicon|RSA}} [[Ernie Els]]
+|-
+|align=center|24
+|align=right|Feb 6, [[2005 PGA Tour|2005]]
+|[[FBR Open]] (2)
+|−17 (73-60-66-68=267)
+|5 strokes
+|{{flagicon|USA}} [[Scott McCarron]], {{flagicon|USA}} [[Kevin Na]]
+|-
+|align=center|25
+|align=right|Feb 13, 2005
+|[[AT&T Pebble Beach National Pro-Am]] (2)
+|−19 (62-67-67-73=269)
+|4 strokes
+|{{flagicon|CAN}} [[Mike Weir]]
+|-
+|align=center|26
+|align=right|Apr 4, 2005
+|[[BellSouth Classic]] (2)
+|−8 (74-65-69=208)*
+|Playoff
+|{{flagicon|IND}} [[Arjun Atwal]], {{flagicon|USA}} [[Rich Beem]],<br>{{flagicon|USA}} [[Brandt Jobe]], {{flagicon|ESP}} [[José María Olazábal]]
+|- style="background:#e5d1cb;"
+|align=center|27
+|align=right|Aug 15, 2005
+|'''[[2005 PGA Championship|PGA Championship]]'''
+|−4 (67-65-72-72=276)
+|1 stroke
+|{{flagicon|DEN}} [[Thomas Bjørn]], {{flagicon|AUS}} [[Steve Elkington]]
+|-
+|align=center|28
+|align=right|Apr 2, [[2006 PGA Tour|2006]]
+|[[BellSouth Classic]] (3)
+|−28 (63-65-67-65=260)
+|13 strokes
+|{{flagicon|USA}} [[Zach Johnson]], {{flagicon|ESP}} [[José María Olazábal]]
+|- style="background:#e5d1cb;"
+|align=center|29
+|align=right|Apr 9, 2006
+|'''[[2006 Masters Tournament|Masters Tournament]]''' (2)
+|−7 (70-72-70-69=281)
+|2 strokes
+|{{flagicon|RSA}} [[Tim Clark (golfer)|Tim Clark]]
+|-
+|align=center|30
+|align=right|Feb 11, [[2007 PGA Tour|2007]]
+|[[AT&T Pebble Beach National Pro-Am]] (3)
+|−20 (65-67-70-66=268)
+|5 strokes
+|{{flagicon|USA}} [[Kevin Sutherland]]
+|- style="background:#f2ecce;"
+|align=center|31
+|align=right|May 13, 2007
+|[[2007 Players Championship|The Players Championship]]
+|−11 (67-72-69-69=277)
+|2 strokes
+|{{flagicon|ESP}} [[Sergio García]]
+|- style="background:thistle;"
+|align=center|32
+|align=right|Sep 3, 2007
+|[[Deutsche Bank Championship]]
+|−16 (70-64-68-66=268)
+|2 strokes
+|{{flagicon|USA}} [[Arron Oberholser]], {{flagicon|USA}} [[Brett Wetterich]],<br>{{flagicon|USA}} [[Tiger Woods]]
+|-
+|align=center|33
+|align=right|Feb 17, [[2008 PGA Tour|2008]]
+|[[Northern Trust Open]]
+|−12 (68-64-70-70=272)
+|2 strokes
+|{{flagicon|USA}} [[Jeff Quinney]]
+|-
+|align=center|34
+|align=right|May 26, 2008
+|[[Crowne Plaza Invitational at Colonial]] (2)
+|−14 (65-68-65-68=266)
+|1 stroke
+|{{flagicon|RSA}} [[Tim Clark (golfer)|Tim Clark]], {{flagicon|AUS}} [[Rod Pampling]]
+|-
+|align=center|35
+|align=right|Feb 22, [[2009 PGA Tour|2009]]
+|[[Northern Trust Open]] (2)
+|−15 (63-72-62-72=269)
+|1 stroke
+|{{flagicon|USA}} [[Steve Stricker]]
+|- style="background:#dfe2e9;"
+|align=center|36
+|align=right|Mar 15, 2009
+|[[2009 WGC-CA Championship|WGC-CA Championship]]
+|−19 (65-66-69-69=269)
+|1 stroke
+|{{flagicon|USA}} [[Nick Watney]]
+|- style="background:thistle;"
+|align=center|37
+|align=right|Sep 27, 2009
+|[[The Tour Championship]] (2)
+|−9 (73-67-66-65=271)
+|3 strokes
+|{{flagicon|USA}} [[Tiger Woods]]
+|- style="background:#e5d1cb;"
+|align=center|38
+|align=right|Apr 11, [[2010 PGA Tour|2010]]
+|'''[[2010 Masters Tournament|Masters Tournament]]''' (3)
+|−16 (67-71-67-67=272)
+|3 strokes
+|{{flagicon|ENG}} [[Lee Westwood]]
+|-
+|align=center|39
+|align=right|Apr 3, [[2011 PGA Tour|2011]]
+|[[Shell Houston Open]]
+|−20 (70-70-63-65=268)
+|3 strokes
+|{{flagicon|USA}} [[Chris Kirk]], {{flagicon|USA}} [[Scott Verplank]]
+|-
+|align=center|40
+|align=right|Feb 12, [[2012 PGA Tour|2012]]
+|[[AT&T Pebble Beach National Pro-Am]] (4)
+|−17 (70-65-70-64=269)
+|2 strokes
+|{{flagicon|KOR}} [[Charlie Wi]]
+|-
+|align=center|41
+|align=right|Feb 3, [[2013 PGA Tour|2013]]
+|[[Waste Management Phoenix Open]] (3)
+|−28 (60-65-64-67=256)
+|4 strokes
+|{{flagicon|USA}} [[Brandt Snedeker]]
+|- style="background:#e5d1cb;"
+|align=center|42
+|align=right|Jul 21, 2013
+|'''[[2013 Open Championship|The Open Championship]]'''
+|−3 (69-74-72-66=281)
+|3 strokes
+|{{flagicon|SWE}} [[Henrik Stenson]]
+|- style="background:#dfe2e9;"
+|align=center|43
+|align=right|Mar 4, [[2017–18 PGA Tour|2018]]
+|[[2018 WGC-Mexico Championship|WGC-Mexico Championship]] (2)
+|−16 (69-68-65-66=268)
+|Playoff
+|{{flagicon|USA}} [[Justin Thomas]]
+|- 
+|align=center|44
+|align=right|Feb 11, [[2018–19 PGA Tour|2019]]
+|[[AT&T Pebble Beach Pro-Am]] (5)
+|−19 (65-68-70-65=268)
+|3 strokes
+|{{flagicon|ENG}} [[Paul Casey]]
+|- style="background:#e5d1cb;"
+|align=center|45
+|align=right|May 23, [[2020–21 PGA Tour|2021]]
+|'''[[2021 PGA Championship|PGA Championship]]''' (2)
+|−6 (70-69-70-73=282)
+|2 strokes
+|{{flagicon|USA}} [[Brooks Koepka]], {{flagicon|ZAF}} [[Louis Oosthuizen]]
+|}
+<small>''<nowiki>*</nowiki>Note: Tournament shortened to 54 holes due to weather.''</small>
+
+'''PGA Tour playoff record (8–4)'''
+{| class="wikitable" style="font-size:95%;"
+!No.!!Year!!Tournament!!Opponent(s)!!Result
+|- style="background:#d0f0c0;"
+|align=center|1
+|[[1994 PGA Tour|1994]]
+|[[Mercedes Championships]]
+|{{flagicon|USA}} [[Fred Couples]]
+|Won with par on second extra hole
+|- style="background:#d0f0c0;"
+|align=center|2
+|[[1996 PGA Tour|1996]]
+|[[Phoenix Open]]
+|{{flagicon|USA}} [[Justin Leonard]]
+|Won with birdie on third extra hole
+|- style="background:#d0f0c0;"
+|align=center|3
+|[[2000 PGA Tour|2000]]
+|[[BellSouth Classic]]
+|{{flagicon|USA}} [[Gary Nicklaus]]
+|Won with birdie on first extra hole
+|- style="background:#F2C1D1;"
+|align=center|4
+|2000
+|[[GTE Byron Nelson Classic]]
+|{{flagicon|USA}} [[Davis Love III]], {{flagicon|SWE}} [[Jesper Parnevik]]
+|Parnevik won with par on third extra hole<br>Mickelson eliminated by birdie on second hole
+|- style="background:#d0f0c0;"
+|align=center|5
+|[[2001 PGA Tour|2001]]
+|[[Buick Invitational]]
+|{{flagicon|USA}} [[Frank Lickliter]], {{flagicon|USA}} [[Davis Love III]]
+|Won with double-bogey on third extra hole<br>Love eliminated by par on second hole
+|- style="background:#d0f0c0;"
+|align=center|6
+|[[2002 PGA Tour|2002]]
+|[[Bob Hope Chrysler Classic]]
+|{{flagicon|USA}} [[David Berganio Jr.]]
+|Won with birdie on first extra hole
+|- style="background:#d0f0c0;"
+|align=center|7
+|[[2004 PGA Tour|2004]]
+|[[Bob Hope Chrysler Classic]]
+|{{flagicon|USA}} [[Skip Kendall]]
+|Won with birdie on first extra hole
+|- style="background:#d0f0c0;"
+|align=center|8
+|[[2005 PGA Tour|2005]]
+|[[BellSouth Classic]]
+|{{flagicon|IND}} [[Arjun Atwal]], {{flagicon|USA}} [[Rich Beem]],<br>{{flagicon|USA}} [[Brandt Jobe]], {{flagicon|ESP}} [[José María Olazábal]]
+|Won with birdie on fourth extra hole<br>Olazábal eliminated by par on third hole<br>Atwal and Jobe eliminated by par on first hole
+|- style="background:#F2C1D1;"
+|align=center|9
+|[[2007 PGA Tour|2007]]
+|[[Nissan Open]]
+|{{flagicon|USA}} [[Charles Howell III]]
+|Lost to par on third extra hole
+|- style="background:#F2C1D1;"
+|align=center|10
+|[[2008 PGA Tour|2008]]
+|[[FBR Open]]
+|{{flagicon|USA}} [[J. B. Holmes]]
+|Lost to birdie on first extra hole
+|- style="background:#F2C1D1;"
+|align=center|11
+|[[2012 PGA Tour|2012]]
+|[[Northern Trust Open]]
+|{{flagicon|USA}} [[Keegan Bradley]], {{flagicon|USA}} [[Bill Haas]]
+|Haas won with birdie on second extra hole
+|- style="background:#d0f0c0;"
+|align=center|12
+|[[2017–18 PGA Tour|2018]]
+|[[2018 WGC-Mexico Championship|WGC-Mexico Championship]]
+|{{flagicon|USA}} [[Justin Thomas]]
+|Won with par on first extra hole
+|}
+
+===European Tour wins (11)===
+{| class="wikitable" style="font-size:95%;"
+|- style="background:#eee;"
+|'''Legend'''
+|- style="background:#e5d1cb;"
+|Major championships (6)
+|- style="background:#dfe2e9;"
+|World Golf Championships (3)
+|- 
+|Other European Tour (2)
+|}
+{| class="wikitable" style="font-size:95%;"
+!No.!!Date!!Tournament!!Winning score!!Margin of<br>victory!!Runner(s)-up
+|- style="background:#e5d1cb;"
+|align=center|1
+|align=right|Apr 11, [[2004 European Tour|2004]]
+|'''[[2004 Masters Tournament|Masters Tournament]]'''
+|−9 (72-69-69-69=279)
+|1 stroke
+|{{flagicon|ZAF}} [[Ernie Els]]
+|- style="background:#e5d1cb;"
+|align=center|2
+|align=right|Aug 15, [[2005 European Tour|2005]]
+|'''[[2005 PGA Championship|PGA Championship]]'''
+|−4 (67-65-72-72=276)
+|1 stroke
+|{{flagicon|DNK}} [[Thomas Bjørn]], {{flagicon|AUS}} [[Steve Elkington]]
+|- style="background:#e5d1cb;"
+|align=center|3
+|align=right|Apr 9, [[2006 European Tour|2006]]
+|'''[[2006 Masters Tournament|Masters Tournament]]''' (2)
+|−7 (70-72-70-69=281)
+|2 strokes
+|{{flagicon|ZAF}} [[Tim Clark (golfer)|Tim Clark]]
+|-
+|align=center|4
+|align=right|Nov 11, 2007<br>([[2008 European Tour|2008 season]])
+|[[HSBC Champions]]<sup>1</sup>
+|−10 (68-66-68-76=278)
+|Playoff
+|{{flagicon|ENG}} [[Ross Fisher]], {{flagicon|ENG}} [[Lee Westwood]]
+|- style="background:#dfe2e9;"
+|align=center|5
+|align=right|Mar 15, [[2009 European Tour|2009]]
+|[[2009 WGC-CA Championship|WGC-CA Championship]]
+|−19 (65-66-69-69=269)
+|1 stroke
+|{{flagicon|USA}} [[Nick Watney]]
+|- style="background:#dfe2e9;"
+|align=center|6
+|align=right|Nov 8, 2009
+|[[2009 WGC-HSBC Champions|WGC-HSBC Champions]]<small>{{efn|The [[2009 WGC-HSBC Champions]] was an unofficial [[PGA Tour]] event, therefore Mickelson's win is only considered official on the [[European Tour]].}}</small> (2)
+|−17 (69-66-67-69=271)
+|1 stroke
+|{{flagicon|ZAF}} [[Ernie Els]]
+|- style="background:#e5d1cb;"
+|align=center|7
+|align=right|Apr 11, [[2010 European Tour|2010]]
+|'''[[2010 Masters Tournament|Masters Tournament]]''' (3)
+|−16 (67-71-67-67=272)
+|3 strokes
+|{{flagicon|ENG}} [[Lee Westwood]]
+|-
+|align=center|8
+|align=right|Jul 14, [[2013 European Tour|2013]]
+|[[Aberdeen Asset Management Scottish Open]]
+|−17 (66-70-66-69=271)
+|Playoff
+|{{flagicon|ZAF}} [[Branden Grace]]
+|- style="background:#e5d1cb;"
+|align=center|9
+|align=right|Jul 21, 2013
+|'''[[2013 Open Championship|The Open Championship]]'''
+|−3 (69-74-72-66=281)
+|3 strokes
+|{{flagicon|SWE}} [[Henrik Stenson]]
+|- style="background:#dfe2e9;"
+|align=center|10
+|align=right|Mar 4, [[2018 European Tour|2018]]
+|[[2018 WGC-Mexico Championship|WGC-Mexico Championship]] (2)
+|−16 (69-68-65-66=268)
+|Playoff
+|{{flagicon|USA}} [[Justin Thomas]]
+|- style="background:#e5d1cb;"
+|align=center|11
+|align=right|May 23, [[2021 European Tour|2021]]
+|'''[[2021 PGA Championship|PGA Championship]]''' (2)
+|−6 (70-69-70-73=282)
+|2 strokes
+|{{flagicon|USA}} [[Brooks Koepka]], {{flagicon|ZAF}} [[Louis Oosthuizen]]
+|}
+<sup>1</sup>Co-sanctioned by the [[Asian Tour]], [[Sunshine Tour]] and [[PGA Tour of Australasia]]
+
+'''European Tour playoff record (3–1)'''
+{| class="wikitable" style="font-size:95%;"
+!No.!!Year!!Tournament!!Opponent(s)!!Result
+|-style="background:#F2C1D1;"
+|align=center|1
+|[[2007 European Tour|2007]]
+|[[Barclays Scottish Open]]
+|{{flagicon|FRA}} [[Grégory Havret]]
+|Lost to par on first extra hole
+|-style="background:#D0F0C0;"
+|align=center|2
+|[[2008 European Tour|2007]]
+|[[HSBC Champions]]
+|{{flagicon|ENG}} [[Ross Fisher]], {{flagicon|ENG}} [[Lee Westwood]]
+|Won with birdie on second extra hole
+|-style="background:#D0F0C0;"
+|align=center|3
+|[[2013 European Tour|2013]]
+|[[Aberdeen Asset Management Scottish Open]]
+|{{flagicon|ZAF}} [[Branden Grace]]
+|Won with birdie on first extra hole
+|-style="background:#D0F0C0;"
+|align=center|4
+|[[2018 European Tour|2018]]
+|[[2018 WGC-Mexico Championship|WGC-Mexico Championship]]
+|{{flagicon|USA}} [[Justin Thomas]]
+|Won with par on first extra hole
+|}
+
+===Challenge Tour wins (1)===
+{| class="wikitable" style="font-size:95%;"
+!No.!!Date!!Tournament!!Winning score!!Margin of<br>victory!!Runner-up
+|-
+|align=center|1
+|align=right|May 9, [[1993 Challenge Tour|1993]]
+|[[Tournoi Perrier de Paris (Challenge Tour)|Tournoi Perrier de Paris]]
+|−13 (72-71-66-66=275)
+|1 stroke
+|{{flagicon|AUS}} [[Steve Elkington]]
+|}
+
+===Other wins (4)===
+{| class="wikitable" style="font-size:95%;"
+!No.!!Year!!Tournament!!Winning score!!Margin of<br>victory!!Runner-up
+|-
+|align=center|1 || align=right|Jul 9, 1996 || [[Ernst Championship]] || −9 (68-65=133) || Playoff || {{flagicon|USA}} [[Fred Couples]]
+|-
+|align=center|2 || align=right|Jul 6, 2004 || [[Telus Skins Game]] || align=center|$140,000 || $45,000 || {{flagicon|USA}} [[John Daly (golfer)|John Daly]]
+|-
+|align=center|3 || align=right|Nov 24, 2004 || [[PGA Grand Slam of Golf]] || −17 (68-59=127) || 5 strokes || {{flagicon|FJI}} [[Vijay Singh]]
+|-
+|align=center|4
+|align=right|Nov 23, 2018
+|[[The Match: Tiger vs. Phil]]
+|colspan=2 align=center|22 holes
+|{{flagicon|USA}} [[Tiger Woods]]
+|}
+
+'''Other playoff record (1–1)'''
+{| class="wikitable" style="font-size:95%;"
+!No.!!Year!!Tournament!!Opponent(s)!!Result
+|-style="background:#F2C1D1;"
+|align=center|1
+|1994
+|[[Fred Meyer Challenge]]<br>(with {{flagicon|USA}} [[Ben Crenshaw]])
+|{{flagicon|USA}} [[John Cook (golfer)|John Cook]] and {{flagicon|USA}} [[Mark O'Meara]]
+|Lost to par on second extra hole
+|-style="background:#D0F0C0;"
+|align=center|2
+|1996
+|[[Ernst Championship]]
+|{{flagicon|USA}} [[Fred Couples]]
+|Won with eagle on first extra hole
+|}
+
+===PGA Tour Champions wins (4)===
+{| class="wikitable" style="font-size:95%;"
+|- style="background:#eee;"
+|'''Legend'''
+|- style="background:thistle"
+| Charles Schwab Cup playoff events (1)
+|- 
+| Other PGA Tour Champions (3)
+|}
+{| class="wikitable" style="font-size:95%;"
+!No.!!Date!!Tournament!!Winning score!!Margin of<br>victory!!Runner-up
+|-
+|align=center|1
+|align=right|Aug 26, [[2020–21 PGA Tour Champions season|2020]]
+|[[Charles Schwab Series at Ozarks National]]
+|−22 (61-64-66=191)
+|4 strokes
+|{{flagicon|USA}} [[Tim Petrovic]]
+|-
+|align=center|2
+|align=right|Oct 18, 2020
+|[[Dominion Energy Charity Classic]]
+|−17 (68-66-65=199)
+|3 strokes
+|{{flagicon|CAN}} [[Mike Weir]]
+|-
+|align=center|3
+|align=right|Oct 10, [[2020–21 PGA Tour Champions season|2021]]
+|[[Constellation Furyk & Friends]]
+|−15 (66-67-68=201)
+|2 strokes
+|{{flagicon|ESP}} [[Miguel Ángel Jiménez]]
+|-style="background:thistle"
+|align=center|4
+|align=right|Nov 14, 2021
+|[[Charles Schwab Cup Championship]]
+|−19 (65-67-68-65=265)
+|1 stroke
+|{{flagicon|NZL}} [[Steven Alker]]
+|}
+
+==Major championships==
+
+===Wins (6)===
+{|class="wikitable"
+!Year!!Championship!!54 holes!!Winning score!!Margin!!Runner(s)-up
+|- style="background:#d0f0c0;"
+| [[2004 Masters Tournament|2004]] ||[[Masters Tournament]] ||Tied for lead ||−9 (72-69-69-69=279) ||1 stroke ||{{flagicon|RSA}} [[Ernie Els]]
+|- style="background:thistle;"
+| [[2005 PGA Championship|2005]] ||[[PGA Championship]] ||Tied for lead ||−4 (67-65-72-72=276) ||1 stroke ||{{flagicon|DNK}} [[Thomas Bjørn]], {{flagicon|AUS}} [[Steve Elkington]]
+|- style="background:#d0f0c0;"
+| [[2006 Masters Tournament|2006]] ||[[Masters Tournament]] (2) ||1 shot lead ||−7 (70-72-70-69=281)  ||2 strokes ||{{flagicon|RSA}} [[Tim Clark (golfer)|Tim Clark]]
+|- style="background:#d0f0c0;"
+| [[2010 Masters Tournament|2010]] ||[[Masters Tournament]] (3) || 1 shot deficit ||−16 (67-71-67-67=272)  ||3 strokes ||{{flagicon|ENG}} [[Lee Westwood]]
+|- style="background:#abcdef;"
+| [[2013 Open Championship|2013]] ||[[The Open Championship]] ||5 shot deficit ||−3 (69-74-72-66=281) ||3 strokes||{{flagicon|SWE}} [[Henrik Stenson]]
+|- style="background:thistle;"
+| [[2021 PGA Championship|2021]] ||[[PGA Championship]] (2) ||1 shot lead ||−6 (70-69-70-73=282) ||2 strokes ||{{flagicon|USA}} [[Brooks Koepka]], {{flagicon|RSA}} [[Louis Oosthuizen]]
+|}
+
+===Results timeline===
+''Results not in chronological order in 2020.''
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !! 1990 !! 1991 !! 1992 !! 1993 !! 1994 !! 1995 !! 1996 !! 1997 !! 1998 !! 1999
+|-
+|align=left|[[Masters Tournament]]
+|style="background:#eeeeee;"|
+|T46<sub>LA</sub>
+|style="background:#eeeeee;"|
+|T34
+|style="background:#eeeeee;"|
+|style="background:yellow;"|T7
+|style="background:yellow;"|3
+|CUT
+|T12
+|style="background:yellow;"|T6
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|T29<sub>LA</sub>
+|T55<sub>LA</sub>
+|CUT
+|style="background:#eeeeee;"|
+|T47
+|style="background:yellow;"|T4
+|T94
+|T43
+|style="background:yellow;"|T10
+|style="background:yellow;"|2
+|-
+|align=left|[[The Open Championship]]
+|style="background:#eeeeee;"|
+|T73
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|CUT
+|T40
+|T41
+|T24
+|79
+|CUT
+|-
+|align=left|[[PGA Championship]]
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:yellow;"|T6
+|style="background:yellow;"|3
+|CUT
+|style="background:yellow;"|T8
+|T29
+|T34
+|T57
+|}
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !! 2000 !! 2001 !! 2002 !! 2003 !! 2004 !! 2005 !! 2006 !! 2007 !! 2008 !! 2009
+|-
+|align=left|[[Masters Tournament]]
+|style="background:yellow;"|T7
+|style="background:yellow;"|3
+|style="background:yellow;"|3
+|style="background:yellow;"|3
+|style="background:lime;"|'''[[2004 Masters Tournament|1]]'''
+|style="background:yellow;"|10
+|style="background:lime;"|'''[[2006 Masters Tournament|1]]'''
+|T24
+|style="background:yellow;"|T5
+|style="background:yellow;"|5
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|T16
+|style="background:yellow;"|T7
+|style="background:yellow;"|2
+|T55
+|style="background:yellow;"|2
+|T33
+|style="background:yellow;"|T2
+|CUT
+|T18
+|style="background:yellow;"|T2
+|-
+|align=left|[[The Open Championship]]
+|T11
+|T30
+|T66
+|T59
+|style="background:yellow;"|3
+|T60
+|T22
+|CUT
+|T19
+|style="background:#eeeeee;"|
+|-
+|align=left|[[PGA Championship]]
+|style="background:yellow;"|T9
+|style="background:yellow;"|2
+|T34
+|T23
+|style="background:yellow;"|T6
+|style="background:lime;"|'''[[2005 PGA Championship|1]]'''
+|T16
+|T32
+|style="background:yellow;"|T7
+|73
+|}
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !! 2010 !! 2011 !! 2012 !! 2013 !! 2014 !! 2015 !! 2016 !! 2017 !! 2018
+|-
+|align=left|[[Masters Tournament]]
+|style="background:lime;"|'''[[2010 Masters Tournament|1]]'''
+|T27
+|style="background:yellow;"|T3
+|T54
+|CUT
+|style="background:yellow;"|T2
+|CUT
+|T22
+|T36
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|style="background:yellow;"|T4
+|T54
+|T65
+|style="background:yellow;"|T2
+|T28
+|T64
+|CUT
+|style="background:#eeeeee;"|
+|T48
+|-
+|align=left|[[The Open Championship]]
+|T48
+|style="background:yellow;"|T2
+|CUT
+|style="background:lime;"|'''[[2013 Open Championship|1]]'''
+|T23
+|T20
+|style="background:yellow;"|2
+|CUT
+|T24
+|-
+|align=left|[[PGA Championship]]
+|T12
+|T19
+|T36
+|T72
+|style="background:yellow;"|2
+|T18
+|T33
+|CUT
+|CUT
+|}
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eeeeee;"
+!align="left"|Tournament
+!2019!!2020!!2021!!2022!!2023
+|-
+|align=left|[[Masters Tournament]]
+|T18
+|T55
+|T21
+|style="background:#eeeeee;"|
+|style="background:yellow;"|T2
+|-
+|align=left|[[PGA Championship]]
+|T71
+|T71
+|style="background:lime;"|'''[[2021 PGA Championship|1]]'''
+|style="background:#eeeeee;"|
+|T58
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|T52
+|CUT
+|T62
+|CUT
+|CUT
+|-
+|align=left|[[The Open Championship]]
+|CUT
+|style="background:#eeeeee;"|NT
+|CUT
+|CUT
+|CUT
+|}
+{{legend|lime|Win}}
+{{legend|yellow|Top 10}}
+{{legend|#eeeeee|Did not play}}
+<span style="font-size:87%;">LA</span> = Low amateur<br>
+CUT = missed the half-way cut<br>
+"T" = tied<br>
+NT = No tournament due to [[COVID-19 pandemic]]
+
+===Summary===
+{| class=wikitable style=text-align:center
+!Tournament !! Wins !! 2nd !! 3rd !! Top-5 !! Top-10 !! Top-25 !! Events !! Cuts made
+|-
+|align=left|[[Masters Tournament]]         || 3 || 2 || 5 || 12 || 16 || 21 || 30 || 27
+|-
+|align=left|[[PGA Championship]]           || 2 || 2 || 1 ||  5 || 10 || 15 || 30 || 27
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]] || 0 || 6 || 0 ||  8 || 10 || 12 || 32 || 26
+|-
+|align=left|[[The Open Championship]]      || 1 || 2 || 1 ||  4 ||  4 || 11 || 29 || 20
+|-
+!Totals                                    !! 6 !! 12 !! 7 !! 29 !! 40 !! 59 !! 121 !! 100
+|}
+*Most consecutive cuts made – 30 (1999 PGA – 2007 Masters)
+*Longest streak of top-10s – 5 (2004 Masters – 2005 Masters)
+
+==The Players Championship==
+===Wins (1)===
+{|class="wikitable"
+!Year!!Championship!!54 holes!!Winning score!!Margin!!Runner-up
+|- style="background:#f2ecce;"
+| [[2007 Players Championship|2007]] || [[The Players Championship]] || 1 shot deficit || −11 (67-72-69-69=277) || 2 strokes || {{flagicon|ESP}} [[Sergio García]]
+|}
+
+===Results timeline===
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eeeeee;"
+!align="left"|Tournament
+!1992
+!1993
+!1994
+!1995
+!1996
+!1997
+!1998
+!1999
+|-
+|align=left|[[The Players Championship]]
+|CUT
+|CUT
+|style="background:#eeeeee;"|
+|T14
+|T33
+|CUT
+|style="background:yellow;"|T8
+|T32
+|}
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eeeeee;"
+!align="left"|Tournament
+!2000
+!2001
+!2002
+!2003
+!2004
+!2005
+!2006
+!2007
+!2008
+!2009
+|-
+|align=left|[[The Players Championship]]
+|CUT
+|T33
+|T28
+|style="background:#eeeeee;"|
+|style="background:yellow;"|T3
+|T40
+|T14
+|style="background:lime;"|'''1'''
+|T21
+|T55
+|}
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eeeeee;"
+!align="left"|Tournament
+!2010
+!2011
+!2012
+!2013
+!2014
+!2015
+!2016
+!2017
+!2018
+!2019
+|-
+|align=left|[[The Players Championship]]
+|T17
+|T33
+|T25
+|CUT
+|CUT
+|CUT
+|CUT
+|T41
+|CUT
+|CUT
+|}
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eeeeee;"
+!align="left"|Tournament
+!2020!!2021
+|-
+|align=left|[[The Players Championship]]
+|style="background:#eeeeee;"|C
+|T35
+|}
+{{legend|lime|Win}}
+{{legend|yellow|Top 10}}
+{{legend|#eeeeee|Did not play}}
+CUT = missed the halfway cut<br>
+"T" indicates a tie for a place<br>
+C = Canceled after the first round due to the [[COVID-19 pandemic]]
+
+==World Golf Championships==
+===Wins (3)===
+{| class="wikitable"
+!Year!!Championship!!54 holes!!Winning score!!Margin!!Runner-up
+|- style="background:#ffd6d6;"
+|[[2009 WGC-CA Championship|2009]]
+|[[WGC-CA Championship]]
+|Tied for lead
+|−19 (65-66-69-69=269)
+|1 stroke
+|{{flagicon|USA}} [[Nick Watney]]
+|- style="background:#d3ffca;"
+|[[2009 WGC-HSBC Champions|2009]]
+|[[WGC-HSBC Champions]]
+|2 shot lead
+|−17 (69-66-67-69=271)
+|1 stroke
+|{{flagicon|ZAF}} [[Ernie Els]]
+|- style="background:#ffd6d6;"
+|[[2018 WGC-Mexico Championship|2018]]
+|[[WGC-Mexico Championship]] (2)
+|2 shot deficit
+|−16 (69-68-65-66=268)
+|Playoff
+|{{flagicon|USA}} [[Justin Thomas]]
+|}
+
+===Results timeline===
+''Results not in chronological order prior to 2015.''
+{| class="wikitable" style="text-align:center;"
+!Tournament!!1999!!2000!!2001!!2002!!2003!!2004!!2005!!2006!!2007!!2008!!2009!!2010!!2011!!2012!!2013!!2014!!2015!!2016!!2017!!2018!!2019
+|-
+|align="left"|[[WGC-Championship|Championship]]
+|T40
+|style="background:#eeeeee;"|
+|NT<sup>1</sup>
+|T23
+|T38
+|style="background:#eeeeee;"|
+|T29
+|style="background:#eeeeee;"|
+|T23
+|T20
+| style="background:lime;"|'''[[2009 WGC-CA Championship|1]]'''
+|T14
+|T55
+|T43
+|style="background:yellow;"|T3
+|T16
+|T31
+|style="background:yellow;"|5
+|style="background:yellow;"|T7
+|style="background:lime;"|'''[[2018 WGC-Mexico Championship|1]]'''
+|T39
+|-
+|align="left"|[[WGC-Match Play|Match Play]]
+|style="background:yellow;"|R16
+|R64
+|style="background:#eeeeee;"|
+|R64
+|style="background:yellow;"|R16
+|style="background:yellow;"|QF
+|style="background:yellow;"|R16
+|style="background:yellow;"|R16
+|R32
+|R32
+|style="background:yellow;"|R16
+|style="background:#eeeeee;"|
+|R32
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|T18
+|style="background:yellow;"|QF
+|T17
+|T40
+|-
+|align="left"|[[WGC-Invitational|Invitational]]
+|style="background:yellow;"|2
+|style="background:yellow;"|T4
+|style="background:yellow;"|T8
+|style="background:yellow;"|T9
+|T23
+|T43
+|T51
+|T54
+|T46
+|style="background:yellow;"|T4
+|T58
+|T46
+|T48
+|T43
+|T21
+|T15
+|T63
+|T27
+|T39
+|T24
+|57
+|-
+|align="left"|[[WGC-HSBC Champions|Champions]]
+|colspan=10 style="background:#D3D3D3;"|
+| style="background:lime;"|'''[[2009 WGC-HSBC Champions|1]]'''
+|T41
+|style="background:#eeeeee;"|
+|style="background:yellow;"|T2
+|14
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|T15
+|style="background:#eeeeee;"|
+|T28
+|}
+{| class="wikitable" style="text-align:center;"
+!Tournament !! 2020!!2021
+|-
+|align="left"|[[WGC-Championship|Championship]]
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|-
+|align="left"|[[WGC-Match Play|Match Play]]
+|NT<sup>2</sup>
+|style="background:#eeeeee;"|
+|-
+|align="left"|[[WGC-Invitational|Invitational]]
+|style="background:yellow;"|T2
+|T17
+|-
+|align="left"|[[WGC-HSBC Champions|Champions]]
+|NT<sup>2</sup>
+|NT<sup>2</sup>
+|}
+<sup>1</sup>Cancelled due to [[September 11 attacks|9/11]]<br>
+<sup>2</sup>Cancelled due to [[COVID-19]] pandemic<br>
+{{legend|lime|Win}}
+{{legend|yellow|Top 10}}
+{{legend|#eeeeee|Did not play}}
+QF, R16, R32, R64 = Round in which player lost in match play<br>
+"T" = tied<br>
+NT = No Tournament<br>
+Note that the HSBC Champions did not become a WGC event until 2009.
+
+==PGA Tour career summary==
+{| class="wikitable" style="text-align:center"
+!Season!!Wins (Majors)!!Earnings ($)!!Rank<ref>{{cite web |url=http://www.pgatour.com/stats/stat.109.html |title=Official Money |publisher=PGA Tour |access-date=October 2, 2020}}</ref>
+|-
+|[[1991 PGA Tour|1991]] || 1 || 0<sup>†</sup> || {{n/a}}
+|-
+|[[1992 PGA Tour|1992]] || 0 || 171,714 || 90
+|-
+|[[1993 PGA Tour|1993]] || 2 || 628,735 || 22
+|-
+|[[1994 PGA Tour|1994]] || 1 || 748,316 || 15
+|-
+|[[1995 PGA Tour|1995]] || 1 || 655,777 || 28
+|-
+|[[1996 PGA Tour|1996]] || 4 || 1,697,799 || style="background:yellow;"|2
+|-
+|[[1997 PGA Tour|1997]] || 2 || 1,225,390 || 11
+|-
+|[[1998 PGA Tour|1998]] || 2 || 1,837,246 || style="background:yellow;"|6
+|-
+|[[1999 PGA Tour|1999]] || 0 || 1,722,681 || 14
+|-
+|[[2000 PGA Tour|2000]] || 4 || 4,746,457 || style="background:yellow;"|2
+|-
+|[[2001 PGA Tour|2001]] || 2 || 4,403,833 || style="background:yellow;"|2
+|-
+|[[2002 PGA Tour|2002]] || 2 || 4,311,971 || style="background:yellow;"|2
+|-
+|[[2003 PGA Tour|2003]] || 0 || 1,623,137 || 38
+|-
+|[[2004 PGA Tour|2004]] || 2 (1) || 5,784,823 || style="background:yellow;"|3
+|-
+|[[2005 PGA Tour|2005]] || 4 (1) || 5,699,605 || style="background:yellow;"|3
+|-
+|[[2006 PGA Tour|2006]] || 2 (1) || 4,256,505 || style="background:yellow;"|6
+|-
+|[[2007 PGA Tour|2007]] || 3 || 5,819,988 || style="background:yellow;"|2
+|-
+|[[2008 PGA Tour|2008]] || 2 || 5,118,875 || style="background:yellow;"|3
+|-
+|[[2009 PGA Tour|2009]] || 3 || 5,332,755 || style="background:yellow;"|3
+|-
+|[[2010 PGA Tour|2010]] || 1 (1) || 3,821,733 || style="background:yellow;"|6
+|-
+|[[2011 PGA Tour|2011]] || 1 || 3,763,488 || 12
+|-
+|[[2012 PGA Tour|2012]] || 1 || 4,203,821 || style="background:yellow;"|8
+|-
+|[[2013 PGA Tour|2013]] || 2 (1) || 5,495,793 || style="background:yellow;"|4
+|-
+|[[2014 PGA Tour|2014]] || 0 || 2,158,019 || 38
+|-
+|[[2015 PGA Tour|2015]] || 0 || 2,154,200 || 38
+|-
+|[[2016 PGA Tour|2016]] || 0 || 4,022,628 || 12
+|-
+|[[2017 PGA Tour|2017]] || 0 || 2,102,599 || 45
+|-
+|[[2018 PGA Tour|2018]] || 1 || 4,595,187 || 13
+|-
+|[[2019 PGA Tour|2019]] || 1 || 2,440,221 || 39
+|-
+|[[2020 PGA Tour|2020]] || 0 || 1,493,908 || 60
+|-
+|[[2021 PGA Tour|2021]] || 1 (1) || 2,707,199 || 70 
+|-
+!Career* !! 45 (6) !! 94,814,452 !! style="background:yellow;"|2<ref>{{cite web |url=http://www.pgatour.com/stats/stat.110.html |title=Career Money Leaders |publisher=PGA Tour |access-date=October 13, 2021}}</ref>
+|}
+<nowiki>*</nowiki> As of 2021 season.<br>
+<sup>†</sup> Mickelson won as an amateur in 1991 and therefore did not receive any prize money.
+
+==U.S. national team appearances==
+'''Amateur'''
+*[[Walker Cup]]: [[1989 Walker Cup|1989]], [[1991 Walker Cup|1991]] (winners)
+*[[Eisenhower Trophy]]: [[1990 Eisenhower Trophy|1990]]
+
+'''Professional'''
+*[[Presidents Cup]]: [[1994 Presidents Cup|1994]] (winners), [[1996 Presidents Cup|1996]] (winners), [[1998 Presidents Cup|1998]], [[2000 Presidents Cup|2000]] (winners), [[2003 Presidents Cup|2003]] (tie), [[2005 Presidents Cup|2005]] (winners), [[2007 Presidents Cup|2007]] (winners), [[2009 Presidents Cup|2009]] (winners), [[2011 Presidents Cup|2011]] (winners), [[2013 Presidents Cup|2013]] (winners), [[2015 Presidents Cup|2015]] (winners), [[2017 Presidents Cup|2017]] (winners)
+*[[Ryder Cup]]: [[1995 Ryder Cup|1995]], [[1997 Ryder Cup|1997]], [[1999 Ryder Cup|1999]] (winners), [[2002 Ryder Cup|2002]], [[2004 Ryder Cup|2004]], [[2006 Ryder Cup|2006]], [[2008 Ryder Cup|2008]] (winners), [[2010 Ryder Cup|2010]], [[2012 Ryder Cup|2012]], [[2014 Ryder Cup|2014]], [[2016 Ryder Cup|2016]] (winners), [[2018 Ryder Cup|2018]]
+*[[Alfred Dunhill Cup]]: [[1996 Dunhill Cup|1996]] (winners)
+*[[Wendy's 3-Tour Challenge]] (representing PGA Tour): 1997 (winners), 2000 (winners)
+*[[World Cup (men's golf)|World Cup]]: [[2002 WGC-World Cup|2002]]
+
+{| class="wikitable" style="text-align:center"
+|+President Cup points record
+!1994!!1996!!1998!!2000!!2003!!2005!!2007!!2009!!2011!!2013!!2015!!2017!! Total
+|-
+| 3 || 1.5 || 1 || 3 || 0 || 4 || 3 || 4.5 || 3 || 2.5 || 3.5 || 3.5 || '''32.5'''
+|}
+{|class="wikitable" style="text-align:center"
+|+Ryder Cup points record
+!1995 !! 1997 !! 1999 !! 2002 !! 2004 !! 2006 !! 2008 !! 2010 !! 2012 !! 2014 !! 2016 !! 2018 !! Total
+|-
+| 3 || 2 || 2 || 2.5 || 1 || 0.5 || 2 || 1 || 3 || 2 || 2.5 || 0 || '''21.5'''
+|}
+
+==See also==
+{{Portal|Biography}}
+* [[List of golfers with most European Tour wins]]
+* [[List of golfers with most PGA Tour wins]]
+* [[List of men's major championships winning golfers]]
+* ''[[Monday Night Golf]]''
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Phil Mickelson}}
+*{{official website|http://www.philmickelson.com/}}
+*{{PGATour player|01810}}
+*{{EuroTour player|9118}}
+*{{OWGR|1547}}
+*[http://www.oncoursewithphil.com/ On Course With Phil]
+*{{Charlie Rose view|7213}}
+*{{NYTtopic|people/m/phil_mickelson}}
+
+{{navboxes
+|title=Phil Mickelson in the [[Men's major golf championships|major championships]]
+|list1=
+{{The Masters champions}}
+{{The Open champions}}
+{{US PGA Champions}}
+}}
+{{navboxes
+|title=Phil Mickelson in the [[Ryder Cup]]
+|list1=
+{{1995 United States Ryder Cup team}}
+{{1997 United States Ryder Cup team}}
+{{1999 United States Ryder Cup team}}
+{{2002 United States Ryder Cup team}}
+{{2004 United States Ryder Cup team}}
+{{2006 United States Ryder Cup team}}
+{{2008 United States Ryder Cup team}}
+{{2010 United States Ryder Cup team}}
+{{2012 United States Ryder Cup team}}
+{{2014 United States Ryder Cup team}}
+{{2016 United States Ryder Cup team}}
+{{2018 United States Ryder Cup team}}
+}}
+{{navboxes
+|title=Phil Mickelson in the [[Presidents Cup]]
+|list1=
+{{1994 United States Presidents Cup team}}
+{{1996 United States Presidents Cup team}}
+{{1998 United States Presidents Cup team}}
+{{2000 United States Presidents Cup team}}
+{{2003 United States Presidents Cup team}}
+{{2005 United States Presidents Cup team}}
+{{2007 United States Presidents Cup team}}
+{{2009 United States Presidents Cup team}}
+{{2011 United States Presidents Cup team}}
+{{2013 United States Presidents Cup team}}
+{{2015 United States Presidents Cup team}}
+{{2017 United States Presidents Cup team}}
+}}
+{{World Golf Championships winners|s|||s}}
+{{Players Championship champions}}
+{{U.S. Amateur champions}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mickelson, Phil}}
+[[Category:American male golfers]]
+[[Category:PGA Tour golfers]]
+[[Category:PGA Tour Champions golfers]]
+[[Category:LIV Golf players]]
+[[Category:Ryder Cup competitors for the United States]]
+[[Category:Sports controversies]]
+[[Category:Winners of men's major golf championships]]
+[[Category:Arizona State Sun Devils men's golfers]]
+[[Category:Left-handed golfers]]
+[[Category:World Golf Hall of Fame inductees]]
+[[Category:Golfers from Scottsdale, Arizona]]
+[[Category:Golfers from San Diego]]
+[[Category:University of San Diego High School alumni]]
+[[Category:American people of Italian descent]]
+[[Category:American people of Portuguese descent]]
+[[Category:American people of Swedish descent]]
+[[Category:1970 births]]
+[[Category:Living people]]

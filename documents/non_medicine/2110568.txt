@@ -1,0 +1,17 @@
+{{Short description|Works dismissed as not literary}}
+'''Paraliterature''' comprises written works dismissed as not [[literary fiction|literary]]. It includes commercial fiction, popular fiction, [[pulp magazine|pulp fiction]], [[comic book]]s and, most notably, [[genre fiction]] with works of [[science fiction]], [[fantasy]], [[Mystery fiction|mystery]] and others.<ref>{{Cite web|url=https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100305318|title=Paraliterature - Oxford Reference|website=www.oxfordreference.com|language=en|access-date=2019-09-03}}</ref><ref>{{Cite book|url=https://www.oxfordreference.com/view/10.1093/acref/9780199208272.001.0001/acref-9780199208272|title=The Oxford Dictionary of Literary Terms|last=Baldick|first=Chris|date=2008-01-01|publisher=Oxford University Press|isbn=9780199208272|language=en-US|doi=10.1093/acref/9780199208272.001.0001}}</ref><sup>:361</sup> 
+
+The term was originally used in French literary studies to 'designate a phenomenon characteristic of the age of mass communications - the fantastic spread of a mass literature', and as early as 1970 a special collection of critical articles on paraliterature appeared in France.<ref>{{Cite journal|last=Kantorovich|first=Vladimir|date=1974|title=The Cultivation of Artistic Taste|url=https://www.tandfonline.com/doi/full/10.2753/RSL1061-1975100388|journal=Soviet Studies in Literature|language=en|volume=10|issue=3|pages=88–116|doi=10.2753/RSL1061-1975100388|issn=0038-5875}}</ref><sup>:95-96</sup> Art critic and scholar [[Rosalind E. Krauss|Rosalind Krauss]] brought the term to prominence In the United States through her text 'Poststructuralism and the "Paraliterary"' (1980).<ref name=":0">{{Cite journal|last=Krauss|first=Rosalind|date=1980|title=Poststructuralism and the "Paraliterary"|journal=October|volume=13|pages=36–40|doi=10.2307/3397700|issn=0162-2870|jstor=3397700}}</ref> Krauss argues the paraliterary is 'the space of debate, quotation, partisanship, betrayal, reconciliation; but it is not the space of unity, coherence, or resolution that we think of as constituting the work of literature.'<ref name=":0" /><sup>:37</sup> She links the paraliterary to postmodern literature, noting 'it is not surprising that the medium of a postmodernist literature should be the critical text wrought into a paraliterary form.'<ref name=":0" /><sup>:37</sup>
+
+On the term "paraliterature", [[Ursula K. Le Guin]] commented that "it exists. What I'm saying is that I don't want to ''perpetuate'' this division. So I would always put it in quotes, or do something to show that I'm rejecting a word that I have to use".<ref>{{Cite book|url=https://books.google.com/books?id=XJHVjH2hz50C|title=Conversations with Ursula K. Le Guin|last=Freedman|first=Carl Howard|date=2008|publisher=Univ. Press of Mississippi|isbn=9781604730944|language=en}}</ref><sup>:182</sup> 
+
+== See also ==
+*[[Gray literature]]
+*[[Paracinema]]
+*[[List of books considered the best]]
+
+==Notes==
+{{reflist}}
+
+{{Authority control}}
+[[Category:Literature]]

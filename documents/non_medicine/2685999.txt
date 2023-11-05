@@ -1,0 +1,206 @@
+{{See also|Philosophy of artificial intelligence}}
+{{short description|System that takes physical patterns and combines them into structures and manipulates them}}
+<ref name=":0" />A '''physical symbol system''' (also called a [[formal system]]) takes physical patterns (symbols), combining them into structures (expressions) and manipulating them (using processes) to produce new expressions.
+
+The '''physical symbol system hypothesis''' ('''PSSH''') is a position in the [[philosophy of artificial intelligence]] formulated by [[Allen Newell]] and [[Herbert A. Simon]]. They wrote:
+{{Quotation|"A physical symbol system has the [[sufficient|necessary and sufficient means]] for general intelligent action."<ref name=NS>{{Harvnb|Newell|Simon|1976|p=116}} and {{Harvnb|Russell|Norvig|2003|p=18}}</ref>|[[Allen Newell]] and [[Herbert A. Simon]]}}
+This claim implies both that human thinking is a kind of symbol manipulation (because a symbol system is necessary for intelligence) and that machines can be intelligent (because a symbol system is [[sufficient]] for intelligence).{{sfn|Nilsson|2007|p=1}}
+
+The idea has philosophical roots in [[Hobbes]] (who claimed reasoning was "nothing more than reckoning"), [[Gottfried Wilhelm Leibniz|Leibniz]] (who attempted to create a logical calculus of all human ideas),  [[David Hume|Hume]] (who thought perception could be reduced to "atomic impressions") and even [[Immanuel Kant|Kant]] (who analyzed all experience as controlled by formal rules).<ref name=":0">{{Harvnb|Dreyfus|1979|p=156}}, {{Harvnb|Haugeland|pp=15&ndash;44}}</ref> The latest version is called the [[computational theory of mind]], associated with philosophers [[Hilary Putnam]] and [[Jerry Fodor]].<ref>{{Harvnb|Horst|2005}}</ref>
+
+== Examples ==
+
+Examples of physical symbol systems include:
+* [[Formal logic]]: the symbols are words like "and", "or", "not", "for all x" and so on. The expressions are statements in formal logic which can be true or false.  The processes are the rules of logical deduction.
+* [[Elementary algebra|Algebra]]: the symbols are "+", "×", "''x''", "''y''", "1", "2", "3", etc. The expressions are equations. The processes are the rules of algebra, that allow one to manipulate a mathematical expression and retain its truth.
+* [[Chess]]: the symbols are the pieces, the processes are the legal chess moves, the expressions are the positions of all the pieces on the board.
+* A [[computer]] running a [[Computer program|program]]: the symbols and expressions are data structures, the process is the program that changes the data structures.
+
+The physical symbol system hypothesis claims that both of these are also examples of physical symbol systems:
+* Intelligent human thought: the symbols are encoded in our brains. The expressions are [[thought]]s. The processes are the mental operations of thinking.
+* English language: the symbols are words. The expressions are sentences. The processes are the mental operations that enable speaking, writing or reading.
+
+== Evidence for the hypothesis == 
+
+Two lines of evidence suggested to [[Allen Newell]] and [[Herbert A. Simon]] that "symbol manipulation" was the essence of both human and machine intelligence: psychological experiments on human beings and the development of [[artificial intelligence]] programs.
+
+=== Psychological experiments and computer models ===
+{{See also|Cognitive science|computational cognition}}
+
+Newell and Simon carried out [[Psychology|psychological]] experiments that showed that, for difficult problems in logic, planning or any kind of "puzzle solving", people carefully proceeded step-by-step, considering several different possible ways forward, selected the most promising one, backing up when the possibility hit a dead end. Each possible solution was visualized with symbols, such as words, numbers or diagrams. This was "symbol manipulation" -- the people were iteratively exploring a [[formal system]] looking for a matching pattern that solved the puzzle.{{sfn|Newell|Shaw|Simon|1958}}{{sfn|McCorduck|2004|pp=450–451}}{{sfn|Crevier|1993|pp=258–263}} Newell and Simon were able to simulate the step by step problem solving skills of people with computer programs; they created programs that used the same algorithms as people and were able to solve the same problems. 
+
+This type of research, using both experimental psychology and computer models, was called "[[computational cognition|cognitive simulation]]" by [[Hubert Dreyfus]].{{sfn|Dreyfus|1979|pp=130&ndash;148}} Their work was profoundly influential: it contributed to the [[cognitive revolution]] of the 1960s, the founding of the field of [[cognitive science]] and [[cognitivism (psychology)|cognitivism]] in psychology. 
+
+This line of research suggested that human problem solving consisted primarily of the manipulation of high-level symbols.
+
+=== Artificial intelligence programs in the 1950s and 60s ===
+{{See also|Symbolic AI}}
+
+In the early decades of AI research there were many very successful programs that used high-level symbol processing. These programs were very successful, demonstrating skills that many people at the time had assumed were impossible for machines, such as solving [[Word problem (mathematics education)|algebra word problem]]s ([[STUDENT (computer program)|STUDENT]]), proving theorems in logic ([[Logic Theorist]]), learning to play competitive checkers ([[Arthur Samuel (computer scientist)|Arthur Samuel]]'s checkers), and communicating in natural language ([[ELIZA]], [[SHRDLU]]).{{sfn|McCorduck|2004|pp=243–252}}{{sfn|Crevier|1993|pp=52–107}} {{sfn|Russell|Norvig|2021|pp=19–21}}
+ 
+The success of these programs suggested that symbol processing systems could simulate any intelligent action.
+
+== Clarifications ==
+
+The physical symbol systems hypothesis becomes trivial, incoherent or irrelevant unless we recognize a distinction between "digitized signals" and "symbols", between [[weak AI|"narrow" AI]] and [[artificial general intelligence|general intelligence]] and between [[consciousness]] and intelligent behavior.
+
+=== Semantic symbols vs. dynamic signals === 
+
+The physical symbol system hypothesis is only interesting if we restrict the "symbols" to things that have a recognizable [[Meaning (semiotics)|meaning]] or [[denotation]] and can be [[compositionality|composed]] with other symbols to create more complex symbols, like  <nowiki><dog></nowiki> and <nowiki><tail></nowiki>. It doesn't apply to the simple abstract 0s and 1s in the memory of a digital computer or the stream of 0s and 1s passing through the perceptual apparatus of a robot. It also doesn't apply to matrixes of unidentified numbers, such as those used in [[artificial neural network|neural network]]s or [[support vector machine]]s. These may technically be symbols, but it is not always possible to determine exactly what the symbols are standing for. This is not what Newell and Simon had in mind, and the argument becomes trivial if we include them.
+
+[[David Touretzky]] and [[Dean Pomerleau]] consider what would follow if we interpret the "symbols" in the PSSH to be binary digits of digital hardware. In this version of the hypothesis, no distinction is being made between "symbols" and "signals". Here the physical symbol system hypothesis asserts merely that intelligence can be ''digitized''. This is a weaker claim. Indeed, [[David Touretzky|Touretzky]] and [[Dean Pomerleau|Pomerleau]] write that if symbols and signals are the same thing, then  "[s]ufficiency is a given, unless one is a dualist or some other sort of mystic, because physical symbol systems are [[Turing completeness|Turing-universal]]."<ref name=TouretzkyPomerleau1994/> The widely accepted [[Church&ndash;Turing thesis]] holds that any [[Turing completeness|Turing-universal]] system can simulate any conceivable process that can be digitized, given enough time and memory. Since any digital computer is [[Turing completeness|Turing-universal]], any digital computer can, in theory, simulate anything that can be digitized to a sufficient level of precision, including the behavior of intelligent organisms. The necessary condition of the physical symbol systems hypothesis can likewise be finessed, since we are willing to accept almost any signal as a form of "symbol" and all intelligent biological systems have signal pathways.<ref name=TouretzkyPomerleau1994>
+Reconstructing Physical Symbol Systems
+David S. Touretzky and Dean A. Pomerleau
+Computer Science Department
+Carnegie Mellon University
+Cognitive Science 18(2):345&ndash;353, 1994.
+https://www.cs.cmu.edu/~dst/pubs/simon-reply-www.ps.gz
+</ref>
+
+The same issue applies to the unidentified numbers that appear in the matrixes of a [[artificial neural network|neural network]] or a [[support vector machine]]. These programs are using the same mathematics as a digitial simulation of a [[dynamical system]], and is better understood as "dynamic system" than a "physical symbol system". [[Nils John Nilsson|Nils Nilsson]] wrote: "any physical process can be simulated to any desired degree of accuracy on a symbol-manipulating computer, but an account of such a simulation in terms of symbols, instead of signals, can be unmanageably cumbersome."{{sfn|Nilsson|2007|p=10}}
+
+=== General intelligence vs. "narrow" intelligence ===
+
+The PSSH refers to "general intelligent action" -- that is, to ''every'' activity that we would consider "intelligent". Thus it is the claim that [[artificial general intelligence]] can be achieved using ''only'' symbolic methods. It does not refer to "[[weak AI|narrow]]" applications. 
+
+[[Artificial intelligence]] research has succeeded in developing many programs that are capable of intelligently solving particular problems. However, AI research has so far not been able to produce a system with [[artificial general intelligence]] -- the ability to solve a variety of novel problems, as human do. 
+Thus, the criticism of the PSSH refers to the limits of AI in the future, and does not apply to any current research or programs.
+
+=== Consciousness vs. intelligent action ===
+
+The PSSH refers to "intelligent action" -- that is, the ''behavior'' of the machine -- it does not refer to the "mental states", "mind", "consciousness", or the "experiences" of the machine. "Consciousness", as far as neurology can determine, is not something that can deduced from the behavior of an agent: it is always possible that the machine is ''simulating'' the experience of consciousness, without actually experiencing it, similar to the way a perfectly written fictional character might simulate a person with consciousness. 
+
+Thus, the PSSH is not relevant to positions which refer to "mind" or "consciousness", such as [[John Searle]]'s [[Chinese Room#Strong AI|Strong AI hypothesis]]:
+{{Blockquote|
+The appropriately programmed computer with the right inputs and outputs would thereby have a mind in exactly the same sense human beings have minds.{{sfn|Searle|1999|p={{Page needed|date=February 2012}}}}{{sfn|Dennett|1991|p=435}}}}
+
+== Evidence against the hypothesis ==
+[[Nils Nilsson (researcher)|Nils Nilsson]] has identified four main "themes" or grounds in which the physical symbol system hypothesis has been attacked.{{sfn|Nilsson|p=1}}
+#The "erroneous claim that the [physical symbol system hypothesis] lacks [[symbol grounding]]" which is presumed to be a requirement for general intelligent action. 
+#The common belief that AI requires non-symbolic processing (that which can be supplied by a connectionist architecture for instance).
+#The common statement that the brain is simply not a computer and that "computation as it is currently understood, does not provide an appropriate model for intelligence".
+#And last of all that it is also believed in by some that the brain is essentially mindless, most of what takes place are chemical reactions and that human intelligent behaviour is analogous to the intelligent behaviour displayed for example by ant colonies.
+
+=== Evidence the brain does not always use symbols ===
+
+If the human brain does not use symbolic reasoning to create intelligent behavior, then the necessary side of the hypothesis is false, and human intelligence is the counter-example. 
+
+==== Dreyfus ====
+{{Main|Dreyfus' critique of AI}}
+[[Hubert Dreyfus]] attacked the necessary condition of the physical symbol system hypothesis, calling it "the psychological assumption" and defining it thus:
+* ''The mind can be viewed as a device operating on bits of information according to formal rules.''<ref>{{Harvnb|Dreyfus|1979|p=156}}</ref>
+Dreyfus refuted this by showing that human intelligence and expertise depended primarily on unconscious instincts rather than conscious symbolic manipulation. Experts solve problems quickly by using their intuitions, rather than step-by-step trial and error searches. Dreyfus argued that these unconscious skills would never be captured in formal rules.<ref name=D>{{Harvnb|Dreyfus|1972}}, {{Harvnb|Dreyfus|1979}}, {{Harvnb|Dreyfus|Dreyfus|1986}}. See also {{Harvnb|Crevier|1993|pp=120–132}} and {{Harvnb|Hearn|2007|pp=50&ndash;51}}</ref>
+
+==== Tversky and Kahnemann ====
+{{Main|Thinking Fast and Slow}}
+{{expand section|date=July 2023}}
+
+==== Embodied cognition ====
+{{Main|Embodied cognition}}
+
+[[George Lakoff]], [[Mark Turner (cognitive scientist)|Mark Turner]] and others have argued that our abstract skills in areas such as [[mathematic]]s, [[ethic]]s and [[philosophy]] depend on unconscious skills that derive from the body, and that conscious symbol manipulation is only a small part of our intelligence.{{citation needed|date=July 2023}}
+
+=== Evidence that symbolic AI can't efficiently generate intelligence for all problems ===
+
+It is impossible to prove that symbolic AI will ''never'' produce general intelligence, but if we can not find an efficient way to solve particular problems with symbolic AI, this is evidence that the sufficient side of the PSSH is unlikely to be true. 
+
+==== Intractability ====
+{{Main|Intractable problem}}
+{{expand section|date=July 2023}}
+
+==== Common sense knowledge, frame, qualification and ramification problems ====
+{{expand section|date=July 2023}}
+
+==== Moravec's paradox ==== 
+{{Main|Moravec's paradox}}
+{{expand section| date = July 2023}}
+
+=== Evidence that sub-symbolic or neurosymbolic AI programs can generate intelligence ===
+If sub-symbolic AI programs, such as [[deep learning]], can intelligently solve problems, then this is evidence that the necessary side of the PSSH is false. 
+
+If hybrid approaches that combine symbolic AI with other approaches can efficiently solve a wider range of problems than either technique alone, this is evidence that the necessary side is true and the sufficiency side is false. 
+
+==== Brooks ====
+{{Main|Artificial intelligence, situated approach}}
+[[Rodney Brooks]] of [[MIT]] was able to build robots that had superior ability to move and survive without the use of symbolic reasoning at all. Brooks (and others, such as [[Hans Moravec]]) discovered that our most basic skills of motion, survival, perception, balance and so on did not seem to require high-level symbols at all, that in fact, the use of high-level symbols was more complicated and less successful.
+
+In a 1990 paper [http://people.csail.mit.edu/brooks/papers/elephants.pdf Elephants Don't Play Chess], robotics researcher [[Rodney Brooks]] took direct aim at the physical symbol system hypothesis, arguing that symbols are not always necessary since "the world is its own best model. It is always exactly up to date. It always has every detail there is to be known. The trick is to sense it appropriately and often enough."<ref>{{Harvnb|Brooks|1990|p=3}}</ref>
+
+==== Connectionism and deep learning ====
+In 2012 [[AlexNet]], a [[deep learning]] network, outperformed all other programs in classifying images on [[ImageNet]] by a substantial margin. In the years since, [[deep learning]] has proved to be much more successful in many domains than symbolic AI.{{citation needed|date=July 2023}}
+
+==== Hybrid AI ====
+{{Main|Neurosymbolic AI}}
+{{expand section|date=July 2023}}
+
+=== Symbol grounding ===
+{{Main|Symbol grounding problem}}
+{{expand-section|date=July 2023}}
+
+== See also ==
+* [[Artificial intelligence, situated approach]]
+* Artificial philosophy
+
+== Notes ==
+{{reflist}}
+
+== References ==
+
+* {{Citation | first = Rodney | last = Brooks | title = Elephants Don't Play Chess | journal = Robotics and Autonomous Systems | volume=6 | issue = 1–2 | year =1990 | pages = 3–15 | author-link=Rodney Brooks | url=http://people.csail.mit.edu/brooks/papers/elephants.pdf | accessdate=2007-08-30 | doi = 10.1016/S0921-8890(05)80025-9| citeseerx = 10.1.1.588.7539 }}.
+* {{Citation | last =Cole | first= David | contribution =The Chinese Room Argument | title= The Stanford Encyclopedia of Philosophy | date = Fall 2004 | editor-first = Edward N. | editor-last = Zalta | url=http://plato.stanford.edu/archives/fall2004/entries/chinese-room/ }}.
+* {{Crevier 1993}}
+* {{Citation
+| last=Dennett | first=Daniel | author-link=Daniel Dennett
+| year=1991
+| title=Consciousness Explained | title-link=Consciousness Explained 
+| publisher=The Penguin Press
+| isbn= 978-0-7139-9037-9
+}}
+* {{Citation | last = Dreyfus | first = Hubert  | title = What Computers Can't Do | year =1972 | publisher = MIT Press | location = New York | authorlink = Hubert Dreyfus | isbn = 978-0-06-011082-6 | title-link = What Computers Can't Do  }}
+* {{Citation | last = Dreyfus | first = Hubert  | title = What Computers ''Still'' Can't Do | year =1979 | publisher = MIT Press | location = New York | authorlink = Hubert Dreyfus }}.
+* {{Citation | last1 = Dreyfus | first1 = Hubert | last2 = Dreyfus | first2 = Stuart | year = 1986 | title = Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer | publisher = Blackwell | location = Oxford, U.K. | authorlink = Hubert Dreyfus }}
+*{{Citation | last=Gladwell |first=Malcolm | title=Blink: The Power of Thinking Without Thinking| location=Boston | publisher=Little, Brown | year=2005 | isbn= 978-0-316-17232-5 |authorlink= Malcolm Gladwell|title-link=Blink (book) }}.
+* {{Citation | first = John | last = Haugeland | year = 1985 | title = Artificial Intelligence: The Very Idea | publisher=MIT Press| location= Cambridge, Mass. | author-link = John Haugeland}}.
+* {{Citation | last = Hobbes | title = Leviathan | year = 1651 |author-link=Hobbes| title-link = Leviathan (Hobbes book) }}.
+* {{Citation | last = Horst | first= Steven | contribution =The Computational Theory of Mind | title= The Stanford Encyclopedia of Philosophy | date = Fall 2005 | editor-first = Edward N. | editor-last = Zalta | url = http://plato.stanford.edu/archives/fall2005/entries/computational-mind/ }}.
+* {{Citation | first = Ray | last = Kurzweil | title = The Singularity is Near | year = 2005 | publisher = Viking Press | location = New York | authorlink = Ray Kurzweil | isbn=978-0-670-03384-3| title-link = The Singularity is Near }}.
+* {{Citation | last1 = McCarthy | first1 = John | last2 = Minsky | first2 = Marvin | last3 = Rochester | first3 = Nathan | last4 = Shannon | first4 = Claude | url = http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html | title = A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence | year = 1955 | author-link = John McCarthy (computer scientist) | author2-link = Marvin Minsky | author3-link = Nathan Rochester | author4-link = Claude Shannon | url-status = dead | archiveurl = https://web.archive.org/web/20080930164306/http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html | archivedate = 2008-09-30 }}.
+* {{citation 
+| last1 = Newell | first1 = A.    | author-link1 = Allen Newell
+| last2 = Shaw   | first2 = J. C. | author-link2 = J. C. Shaw
+| last3 = Simon  | first3 = H. A. | author-link3 = Herbert A. Simon
+| year = 1958
+| title = Elements of a theory of human problem solving
+| journal = Psychological Review
+| volume = 65 | issue = 3
+| pages = 151–166
+| url = https://doi.org/10.1037/h0048495
+}}
+* {{Citation | last1 = Newell | first1 = Allen | last2 = Simon | first2=H. A. | year = 1963 | contribution=GPS: A Program that Simulates Human Thought| title=Computers and Thought | editor-last= Feigenbaum | editor-first= E.A. |editor2-last= Feldman |editor2-first= J. |publisher= McGraw-Hill | author-link=Allen Newell|location= New York | authorlink2 = Herbert A. Simon}}
+* {{Citation | doi = 10.1145/360018.360022 | last1 = Newell | first1 = Allen | last2 = Simon | first2=H. A. | year = 1976 | title=Computer Science as Empirical Inquiry: Symbols and Search |volume= 19 | pages = 113–126 | journal = Communications of the ACM| author-link=Allen Newell | authorlink2=Herbert A. Simon|issue=3| doi-access = free }}
+* {{Citation 
+| last = Nilsson | first = Nils | author-link=Nils Nilsson (researcher) 
+| title= The Physical Symbol System Hypothesis: Status and Prospects 
+| year=2007 
+| work= 50 Years of AI, Festschrift, LNAI 4850 
+| editor-last=Lungarella | editor-first=M. 
+| pages=9–17 
+| publisher=Springer 
+| url=https://ai.stanford.edu/%7Enilsson/OnlinePubs-Nils/PublishedPapers/pssh.pdf
+}}
+* {{Citation
+ |last      = Searle | first = John | author-link = John Searle
+ |year      = 1999
+ |title     = Mind, language and society
+ |publisher = Basic Books |location  = New York, NY
+ |isbn      = 978-0-465-04521-1
+ |oclc      = 231867665
+ |url       = https://archive.org/details/mindlanguagesoci00sear
+}}
+* {{Citation | last = Turing | first = Alan | title = Computing machinery and intelligence | journal = Mind | volume = LIX | issue = 236 | date = October 1950 | pages = 433–460 | url = http://loebner.net/Prizef/TuringArticle.html | authorlink = Alan Turing | doi = 10.1093/mind/LIX.236.433 | url-status = dead | archiveurl = https://web.archive.org/web/20080702224846/http://loebner.net/Prizef/TuringArticle.html | archivedate = 2008-07-02 }}
+
+{{DEFAULTSORT:Physical Symbol System}}
+[[Category:Cognitive science]]
+[[Category:Philosophy of artificial intelligence]]
+[[Category:Formal systems]]
+[[Category:Cognitive modeling]]

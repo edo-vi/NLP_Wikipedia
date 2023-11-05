@@ -1,0 +1,583 @@
+{{short description|Russian swimmer}}
+{{family name hatnote|Mikhailovich|Rylov|lang=Eastern Slavic}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox swimmer
+| name           = Evgeny Rylov
+| image          = Evgeny Rylov 2021.jpg
+| image_size     = <!-- Only for images narrower than 220 pixels -->
+| alt            = 
+| caption        = Rylov in 2021
+| fullname       = Evgeny Mikhailovich Rylov
+| nicknames      =
+| national_team  = {{RUS}}
+| strokes        = [[Backstroke]], [[freestyle swimming]] 
+| club           = [[Energy Standard|Energy Standard International Swim Club]] (former)<ref name="Keith22Mar2022"/>
+| coach          = Andrey Shishin<ref name=r1/>
+| birth_date     = {{Birth date and age|1996|9|23|df=y}}<ref name=r1/>
+| birth_place    = [[Novotroitsk]], Russia<ref name=r1>{{cite web |url=https://olympics.com/tokyo-2020/olympic-games/en/results/swimming/athlete-profile-n1431532-rylov-evgeny.htm |title=RYLOV Evgeny |url-status=dead |work=Tokyo 2020 Olympics |publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games]] |archive-url=https://web.archive.org/web/20210915133046/https://olympics.com/tokyo-2020/olympic-games/en/results/swimming/athlete-profile-n1431532-rylov-evgeny.htm |archive-date=2021-09-15}}</ref>
+| height         = 1.85 m
+| weight         = 78 kg
+| show-medals    = 
+| medaltemplates = 
+{{MedalCount | total=yes
+|[[Summer Olympic Games|Olympic Games]] | 2 | 1 | 1
+|[[FINA World Aquatics Championships|World Championships (LC)]] | 2 | 3 | 3
+|[[FINA World Swimming Championships (25 m)|World Championships (SC)]] | 3 | 2 | 2
+|[[LEN European Aquatics Championships|European Championships (LC)]] | 4 | 3 | 1
+|[[European Short Course Swimming Championships|European Championships (SC)]] | 0 | 0 | 1
+}}
+{{MedalCountry | {{flagicon|RUS|roc-olympics}} [[Russian Olympic Committee|ROC]] }}
+{{MedalOlympic}}
+{{MedalGold | [[Swimming at the 2020 Summer Olympics|2020 Tokyo]] | [[Swimming at the 2020 Summer Olympics – Men's 100 metre backstroke|100 m backstroke]]}}
+{{MedalGold | 2020 Tokyo | [[Swimming at the 2020 Summer Olympics – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalSilver|2020 Tokyo|[[Swimming at the 2020 Summer Olympics – Men's 4 × 200 metre freestyle relay|4×200 m freestyle]]}}
+{{MedalCountry | {{flag|Russia}} }}
+{{MedalOlympic}}
+{{MedalBronze|[[2016 Summer Olympics|2016 Rio de Janeiro]]|[[Swimming at the 2016 Summer Olympics – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalCompetition | [[FINA World Aquatics Championships|World Championships (LC)]]}}
+{{MedalGold|[[2017 World Aquatics Championships|2017 Budapest]]|[[Swimming at the 2017 World Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalGold|[[2019 World Aquatics Championships|2019 Gwangju]]|[[Swimming at the 2019 World Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalSilver|2019 Gwangju|[[Swimming at the 2019 World Aquatics Championships – Men's 50 metre backstroke|50 m backstroke]]}}
+{{MedalSilver|2019 Gwangju|[[Swimming at the 2019 World Aquatics Championships – Men's 100 metre backstroke|100 m backstroke]]}}
+{{MedalSilver|2019 Gwangju|[[Swimming at the 2019 World Aquatics Championships – Men's 4 × 100 metre freestyle relay|4×100 m freestyle]]}}
+{{MedalBronze | [[2015 World Aquatics Championships|2015 Kazan]] | [[Swimming at the 2015 World Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalBronze | 2017 Budapest | [[Swimming at the 2017 World Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 m medley]]}}
+{{MedalBronze|2019 Gwangju|[[Swimming at the 2019 World Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 m medley]]}}
+{{MedalCompetition|[[FINA World Swimming Championships (25 m)|World Championships (SC)]]}}
+{{MedalGold|[[2018 FINA World Swimming Championships (25 m)|2018 Hangzhou]]|[[2018 FINA World Swimming Championships (25 m) – Men's 50 metre backstroke|50 m backstroke]]}}
+{{MedalGold|2018 Hangzhou|[[2018 FINA World Swimming Championships (25 m) – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalGold|2018 Hangzhou|[[2018 FINA World Swimming Championships (25 m) – Men's 4 × 50 metre medley relay|4×50 m medley]]}}
+{{MedalSilver|2018 Hangzhou|[[2018 FINA World Swimming Championships (25 m) – Men's 4 × 50 metre freestyle relay|4×50 m freestyle]]}}
+{{MedalSilver|2018 Hangzhou|[[2018 FINA World Swimming Championships (25 m) – Men's 4 × 100 metre freestyle relay|4×100 m freestyle]]}}
+{{MedalBronze|2018 Hangzhou|[[2018 FINA World Swimming Championships (25 m) – Mixed 4 × 50 metre freestyle relay|4×50 m mixed freestyle]]}}
+{{MedalBronze|2018 Hangzhou|[[2018 FINA World Swimming Championships (25 m) – Mixed 4 × 50 metre medley relay|4×50 m mixed medley]]}}
+{{MedalCompetition|[[LEN European Aquatics Championships|European Championships (LC)]]}}
+{{MedalGold|[[2018 European Aquatics Championships|2018 Glasgow]]|[[Swimming at the 2018 European Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalGold|2018 Glasgow|[[Swimming at the 2018 European Aquatics Championships – Men's 4 × 100 metre freestyle relay|4×100 m freestyle]]}}
+{{MedalGold|[[2020 European Aquatics Championships|2020 Budapest]]|[[Swimming at the 2020 European Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]]}}
+{{MedalGold|2020 Budapest|[[Swimming at the 2020 European Aquatics Championships – Men's 4 × 100 metre freestyle relay|4×100 m freestyle]]}}
+{{MedalSilver|2018 Glasgow|[[Swimming at the 2018 European Aquatics Championships – Men's 100 metre backstroke|100 m backstroke]]}}
+{{MedalSilver|2018 Glasgow|[[Swimming at the 2018 European Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 m medley]]}}
+{{MedalSilver|2020 Budapest|[[Swimming at the 2020 European Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 m medley]]}}
+{{MedalBronze|2020 Budapest|[[Swimming at the 2020 European Aquatics Championships – Mixed 4 × 200 metre freestyle relay|{{nowrap|4×200 m mixed freestyle}}]]}}
+{{MedalCompetition|[[European Short Course Swimming Championships|European Championships (SC)]]}}
+{{MedalBronze|[[2021 European Short Course Swimming Championships|2021 Kazan]]|4×50 m freestyle}}
+{{MedalCompetition | [[Summer Youth Olympics]]}}
+{{MedalGold | [[Swimming at the 2014 Summer Youth Olympics|2014 Nanjing]] | [[Swimming at the 2014 Summer Youth Olympics – Boys' 50 metre backstroke|50 m backstroke]]}}
+{{MedalGold | 2014 Nanjing | [[Swimming at the 2014 Summer Youth Olympics – Boys' 100 metre backstroke|100 m backstroke]]}}
+{{MedalGold | 2014 Nanjing | [[Swimming at the 2014 Summer Youth Olympics – Boys' 4 × 100 metre medley relay|4×100 m medley]]}}
+{{MedalSilver | 2014 Nanjing | [[Swimming at the 2014 Summer Youth Olympics – Boys' 200 metre backstroke|200 m backstroke]]}}
+}}
+
+'''Evgeny Mikhailovich Rylov''' ({{lang-rus|Евгений Михайлович Рылов||jɪvˈɡʲenʲɪj ˈrɨləf}}; born 23 September 1996) is a Russian competitive [[Swimming (sport)|swimmer]] and Olympic champion specializing in [[backstroke]] events. He won three gold medals at the [[2014 Summer Youth Olympics]] in [[Nanjing]], and a bronze medal at his senior international debut at the [[2015 World Aquatics Championships|2015 World Championships]] in [[Kazan]].<ref name=rylov-bronze>{{cite news|title=Рылов напомнил России о медалях|trans-title=Rylov reminded Russia about the medals|language=ru|url=http://www.gazeta.ru/sport/2015/08/07/a_7673489.shtml|publisher=[[Gazeta.ru]]|date=7 August 2015|access-date=10 August 2015}}</ref> He also won a bronze medal at the [[Swimming at the 2016 Summer Olympics|2016 Summer Olympics]] in [[Rio de Janeiro]] and a gold medal at the [[Swimming at the 2017 World Aquatics Championships|2017 World Championships]] in Budapest, both were in the 200 metre backstroke event. In 2018, at the [[2018 FINA World Swimming Championships (25 m)|2018 World Short Course Championships]], he won gold medals in the [[2018 FINA World Swimming Championships (25 m) – Men's 200 metre backstroke|200 metre backstroke]] and [[2018 FINA World Swimming Championships (25 m) – Men's 50 metre backstroke|50 metre backstroke]]. At the [[2019 World Aquatics Championships|2019 World Championships]], he won a gold medal in the [[Swimming at the 2019 World Aquatics Championships – Men's 200 metre backstroke|200 metre backstroke]], silver medal in the [[Swimming at the 2019 World Aquatics Championships – Men's 100 metre backstroke|100 metre backstroke]], and silver medal in the [[Swimming at the 2019 World Aquatics Championships – Men's 50 metre backstroke|50 metre backstroke]]. He won the gold medal in the [[Swimming at the 2020 Summer Olympics – Men's 100 metre backstroke|100 metre backstroke]] and [[Swimming at the 2020 Summer Olympics – Men's 200 metre backstroke|200 metre backstroke]] at the [[2020 Summer Olympics]] in [[Tokyo]].<ref>{{cite news| url = https://www.reuters.com/lifestyle/sports/swimming-russian-rylov-wins-gold-mens-100-metres-backstroke-2021-07-27/| title = Swimming-Russian Rylov wins gold in men's 100 metres backstroke {{!}} Reuters| newspaper = Reuters| date = 27 July 2021}} </ref>
+
+==Background==
+Rylov's father Mikhail Rylov is a former footballer, who now serves as a coach. In childhood he tried playing association football, but chose instead swimming.<ref>[https://sport24.ru/news/other/2021-07-27-yevgeniy-rylov-biografiya-olimpiada-2021-tokio-rylov-stal-olimpiyskim-chempionom-plavaniye Пловец Рылов вернул золото Олимпиады в Россию, но слушает только зарубежную музыку. Что нужно о нем знать]. sport24.ru. 27 July 2021</ref> He is a staff [[police sergeant]] of the [[Moscow Oblast Police]] of the town district of [[Lobnya]].<ref>[https://mvdmedia.ru/news/ofitsialnyy-predstavitel/starshiy-serzhant-politsii-evgeniy-rylov-zavoeval-zolotuyu-medal-xxxii-letnikh-olimpiyskikh-igr-v-to/ Старший сержант полиции Евгений Рылов завоевал золотую медаль XXXII летних Олимпийских игр в Токио]. mvdmedia.ru. 27 July 2021</ref> He competes for the [[Moscow Oblast]] region in Russian competitions.<ref name="RSF16Apr2023h"/>
+
+==Career==
+===2014 Summer Youth Olympics===
+Rylov first established himself on the world scene at the [[2014 Summer Youth Olympics]] in [[Nanjing, China]], where he achieved a total of four medals, three golds and one silver, and broke two [[List of junior world records in swimming|world junior records]]. In the [[Swimming at the 2014 Summer Youth Olympics – Boys' 100 metre backstroke|100 metre backstroke]], Rylov shared the top prize with Italy's [[Simone Sabbioni]] in a matching time of 54.24 seconds.<ref>{{cite news|title=Youth Olympic Games: Liliana Szilagyi Vaults to 3rd in World in 200 Fly|url=http://www.swimmingworldmagazine.com/news/youth-olympic-games-day-two-finals-live-recap/|publisher=[[Swimming World Magazine]]|date=18 August 2014|access-date=23 September 2014}}</ref> On 20 August, he put up a sterling effort of 25.09 seconds to crush the world junior record and pick up his second gold of the meet in the [[Swimming at the 2014 Summer Youth Olympics – Boys' 50 metre backstroke|50 metre backstroke]], touching out Greece's [[Apostolos Christou]] by 0.35 of a second.<ref name=rylov-wjr>{{cite news|title=Youth Olympic Games: World Junior Records Bonanza on Night Four|url=http://www.swimmingworldmagazine.com/news/youth-olympic-games-world-junior-records-bonanza-on-night-four/|publisher=[[Russian News Agency TASS]]|date=20 August 2014|access-date=10 August 2015}}</ref><ref>{{cite news|title=Russian swimmer Rylov wins gold at 2014 Youth Olympics in China|url=http://tass.ru/en/sports/745856|publisher=[[Swimming World Magazine]]|date=20 August 2014|access-date=10 August 2015}}</ref> Less than an hour later, Rylov and his teammates [[Anton Chupkov]], Aleksandr Sadovnikov, and Filipp Shopin led throughout the race to capture the [[Swimming at the 2014 Summer Youth Olympics – Boys' 4 × 100 metre medley relay|{{nowrap|4×100 metre}} medley relay]] title in a world junior record-breaking time of 3:38.02.<ref name=rylov-wjr/><ref>{{cite news|title=Nanjing provides perfect springboard for Rio|url=http://www.olympic.org/news/swimming-men-nanjing-provides-perfect-springboard-for-rio/237765|publisher=[[Swimming World Magazine]]|date=3 October 2014|access-date=10 August 2015}}</ref> On the final night of the Games, Rylov added a silver to his medal tally, this time in the [[Swimming at the 2014 Summer Youth Olympics – Boys' 200 metre backstroke|200 metre backstroke]] with a time of 1:57.08, losing the title and his chance of breaking another record to China's Li Guangyuan by 14-hundredths of a second.<ref>{{cite news|title=Youth Olympic Games: World Junior Record Bonanza on Final Night|url=http://www.swimmingworldmagazine.com/news/youth-olympic-games-world-junior-record-bonanza-on-final-night/|publisher=[[Swimming World Magazine]]|date=22 August 2014|access-date=10 August 2015}}</ref> Additionally, he helped achieve a fourth-place finish in the [[Swimming at the 2014 Summer Youth Olympics – Mixed 4 × 100 metre freestyle relay|4×100 metre mixed freestyle relay]] on the first day of competition in 3:32.15 and a fourth-place finish on the third day of competition in the [[Swimming at the 2014 Summer Youth Olympics – Boys' 4 × 100 metre freestyle relay|4×100 metre freestyle relay]] in 3:25.01.<ref name="OTA25Aug2014">[http://mat1.gtimg.com/nanjing2014/resultsbook/Results_Book_SW_V2.0.pdf "Nanjing 2014 Youth Olympic Games: Official Results Book Swimming"]. ''[[Omega Timing]]''; ''[[Atos]]''. Version 2.0. 25 August 2014. Retrieved 29 March 2022.</ref>
+
+===2015 World Championships===
+{{MedalTableTop|name=no|header=[[Swimming at the 2015 World Aquatics Championships|2015 World Long Course Championships]]}}
+{{MedalBronze| [[Swimming at the 2015 World Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]] | 1:54.60 (NR) }}
+{{MedalBottom}}
+
+When [[Russia]] hosted the [[2015 World Aquatics Championships]] in [[Kazan]], Rylov charged his way to round out the podium with a third-place and [[List of Russian records in swimming|Russian record]] time of 1:54.60 in the [[Swimming at the 2015 World Aquatics Championships – Men's 200 metre backstroke|200 metre backstroke]].<ref name=rylov-bronze/><ref name="SW7Aug2015">{{cite news|title=Mitch Larkin Breaks American Streak in 200 Back at 2015 FINA World Championships|url=http://www.swimmingworldmagazine.com/news/mitch-larkin-breaks-american-streak-in-200-back-at-2015-fina-world-championships//|last=Brien|first=Taylor|publisher=[[Swimming World Magazine]]|date=7 August 2015|access-date=10 August 2015}}</ref> Earlier in the Championships, he posted a time of 53.23 seconds to place seventh in the final of the [[Swimming at the 2015 World Aquatics Championships – Men's 100 metre backstroke|100 metre backstroke]], finishing 0.57 seconds behind the bronze medalist in the event [[Matt Grevers]] of the [[United States]].<ref>{{cite news|title=Mitchell Larkin Clips Top Field For 100 Back Title at 2015 FINA World Championships|url=http://www.swimmingworldmagazine.com/news/mitchell-larkin-clips-top-field-for-100-back-title-at-2015-fina-world-championships/|last=Marsteller|first=Jason|publisher=[[Swimming World Magazine]]|date=4 August 2015|access-date=10 August 2015}}</ref> He also placed fifth in the [[Swimming at the 2015 World Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 metre medley relay]], contributing a split of 53.21 seconds for the backstroke leg to help achieve a finals relay time of 3:30.90.<ref name="FINA9Aug2015f4100mr">[[FINA]] (9 August 2015). [https://www.omegatiming.com/File/00010F020000042F02FFFFFFFFFFFF02.pdf "16th FINA World Championships Kazan (RUS): Men's 4x100m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 17 May 2022.</ref>
+
+===2016 Summer Olympics===
+{{see also|Swimming at the 2016 Summer Olympics}}
+{{MedalTableTop|name=no|header=[[Swimming at the 2016 Summer Olympics|2016 Summer Olympics]]}}
+{{MedalBronze| [[Swimming at the 2016 Summer Olympics – Men's 200 metre backstroke|200 m backstroke]] | 1:53.97 (ER) }}
+{{MedalBottom}}
+
+At the Russian Championships in April 2016, Rylov broke the [[List of European records in swimming|European record]] in the 200 metre backstroke with a time of 1:54.21.<ref name="SV21Apr2016">{{cite web|title=Evgeny Rylov Confines Kawecki's Euro 200 Back Standard To History in 1:54.2|url=http://www.swimvortex.com/evgeny-rylov-confines-kaweckis-euro-200-back-standard-to-history-in-154-2/|publisher=Swimvortex|date=21 April 2016|access-date=21 April 2016|archive-date=4 August 2017|archive-url=https://web.archive.org/web/20170804053114/http://www.swimvortex.com/evgeny-rylov-confines-kaweckis-euro-200-back-standard-to-history-in-154-2/|url-status=dead}}</ref> Approximately four months later, at the [[2016 Summer Olympics]] in [[Rio de Janeiro]], [[Brazil]], he broke the European record again with a time of 1:53.97 and won the bronze medal in the [[Swimming at the 2016 Summer Olympics – Men's 200 metre backstroke|200 metre backstroke]].<ref>{{Cite web|title=Evgeny RYLOV|url=https://olympics.com/en/athletes/evgeny-rylov|access-date=2021-10-03|website=Olympics.com}}</ref> In the [[Swimming at the 2016 Summer Olympics – Men's 100 metre backstroke|100 metre backstroke]], he placed sixth in the final with a time of 52.74 seconds.<ref name="ESPN2016OG100bk">[https://www.espn.com/olympics/summer/2016/results/_/discipline/39/event/301 "2016 Summer Olympics Results - Swimming: Men's 100m Backstroke"]. ''[[ESPN]]''. 7 August 2016. Retrieved 28 March 2022.</ref> For the [[Swimming at the 2016 Summer Olympics – Men's 4 × 100 metre medley relay|4×100 metre medley relay]], he split a 52.90 for the backstroke leg of the relay to help achieve a fourth-place finish in 3:31.30 with finals relay teammates [[Anton Chupkov]]&nbsp;(breaststroke), [[Aleksandr Sadovnikov]]&nbsp;(butterfly), and [[Vladimir Morozov (swimmer)|Vladimir Morozov]]&nbsp;(freestyle).<ref name="Mendes19Aug16">Mendes, Rodrigo (19 August 2016). [https://library.olympic.org/Default/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?parentDocumentId=165312&documentId=165357 "Rio 2016 Swimming 6 - 13: Results Book"]. ''[[Omega Timing]]''; ''[[Atos]]''. Version 1.1. Retrieved 28 March 2022.</ref>
+
+===2017===
+At 2017 Russian Championships in April, he lowered his own 200 metre backstroke European record for the third time with a time of 1:53.81 before tying the Russian record in the 50 metre backstroke with a time of 24.52 seconds less than one hour later.<ref name="Dobysheva13Apr2017">{{Cite web|last=Dobysheva|first=Maria|date=13 April 2017|title=Evgeny Rylov Sets European Record On Day Four Of Russian Nationals|url=https://www.swimmingworldmagazine.com/news/evgeny-rylov-sets-european-record-day-four-russian-nationals/|access-date=3 October 2021|website=[[Swimming World]]|language=en-US}}</ref>
+
+====2017 World Championships====
+{{MedalTableTop|name=no|header=[[Swimming at the 2017 World Aquatics Championships|2017 World Long Course Championships]]}}
+{{MedalGold| [[Swimming at the 2017 World Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]] | 1:53.61 (ER) }}
+{{MedalBronze| [[Swimming at the 2017 World Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 m medley]] | 3:29.76 (NR) }}
+{{MedalBottom}}
+
+At the [[2017 World Aquatics Championships|World Aquatics Championships]], held in July 2017 at [[Danube Arena]] in [[Budapest]], [[Hungary]], Rylov broke his own [[List of European records in swimming|European record]] once again in the [[Swimming at the 2017 World Aquatics Championships – Men's 200 metre backstroke|200 metre backstroke]] with a time of 1:53.61, winning the gold medal and defeating the silver medalist in the event, and 2016 Olympic champion in the event, [[Ryan Murphy (swimmer)|Ryan Murphy]] of the United States by 0.60 seconds in the process.<ref name="Lepesant28Jul2017">{{cite web|title=Men's 200 Back Final In Budapest With Rylov-Murphy-Pebley|url=https://swimswam.com/race-video-mens-200-back-final-budapest-rylov-murphy-pebley/|last=Lepesant|first=Anne|publisher=[[SwimSwam]]|date=28 July 2017|access-date=28 July 2017}}</ref> This was the first long course world championships gold medal won by a Russian male swimmer in an individual event since 2003.{{fact|date=March 2022}} For the [[Swimming at the 2017 World Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 metre medley relay]] on the final day of swimming competition, he split a 52.89 for the backstroke leg of the relay in the final to contribute to a bronze medal-win in a Russian record time of 3:29.76 with finals relay teammates [[Kirill Prigoda]] (breaststroke), [[Aleksandr Popkov]] (butterfly), and Vladimir Morozov (freestyle).<ref name="FINA30Jul2017">[[FINA]] (30 July 2017). [https://www.omegatiming.com/File/000111010A0105F704FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Men's 4x100m Medley Relay Final Results Summary"]. ''[[Omega Timing]]''. Retrieved 16 May 2022.</ref>
+
+===2018===
+====2018 European Championships====
+At the [[2018 European Aquatics Championships]] in [[Glasgow]], [[Scotland]] in August, Rylov won the gold medal in the [[Swimming at the 2018 European Aquatics Championships – Men's 200 metre backstroke|200 metre backstroke]] with a European record and [[List of European Championships records in swimming|Championships record]] time of 1:53.36.<ref name="LEN8Aug2018f200bk">[[LEN]] (8 August 2018). [http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM200MBA------------FNL-000100--_73A1%201.0.pdf "European Aquatics Championships Swimming Glasgow 2018: Results 200m Backstroke Men Final"]. ''Microplus Informatica''. Retrieved 17 May 2022.</ref><ref name="Rieder8Aug2018">Rieder, David (8 August 2018). [https://www.swimmingworldmagazine.com/news/evgeny-rylov-throws-down-european-record-153-36-in-200-back/ "Evgeny Rylov Throws Down European Record 1:53.36 in 200 Back"]. ''[[Swimming World]]''. Retrieved 17 May 2022.</ref> He won his first gold medal of the Championships five days earlier in the [[Swimming at the 2018 European Aquatics Championships – Men's 4 × 100 metre freestyle relay|4×100 metre freestyle relay]], leading-off the relay in 48.62 seconds to help finish first in 3:12.23.<ref name="LEN3Aug2018f4100fr">[[LEN]] (3 August 2018). [http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM4X100MFR----------FNL-000100--_73B1%201.0.pdf "European Aquatics Championships Swimming Glasgow 2018: Results 4x100m Freestyle Relay Men Final"]. ''Microplus Informatica''. Retrieved 17 May 2022.</ref> For the [[Swimming at the 2018 European Aquatics Championships – Men's 100 metre backstroke|100 metre backstroke]], he won the silver medal with a time of 52.74 seconds in the final, finishing 0.21 seconds behind gold medalist in the event [[Kliment Kolesnikov]], also of Russia.<ref name="LEN6Aug2018f100bk">[[LEN]] (6 August 2018). [http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM100MBA------------FNL-000100--_73A1%201.0.pdf "European Aquatics Championships Swimming Glasgow 2018: Results 100m Backstroke Men Final"]. ''Microplus Informatica''. Retrieved 17 May 2022.</ref> In the [[Swimming at the 2018 European Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 metre medley relay]], he swam a 52.66 for the backstroke portion of the relay in the preliminary heats before being substituted out for Kliment Kolesnikov in the final and winning a silver medal for his efforts when the finals relay finished second in 3:32.03.<ref name="LEN9Aug2018h4100mr">[[LEN]] (9 August 2018). [http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM4X100MMD----------HEAT--------_74B%201.0.pdf "European Aquatics Championships Swimming Glasgow 2018: Results 4x100m Medley Relay Men Preliminary"]. ''Microplus Informatica''. Retrieved 17 May 2022.</ref><ref name="LEN9Aug2018f4100mr">[[LEN]] (9 August 2018). [http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM4X100MMD----------FNL-000100--_73B1%201.1.pdf "European Aquatics Championships Swimming Glasgow 2018: Results 4x100m Medley Relay Men Final"]. ''Microplus Informatica''. Retrieved 17 May 2022.</ref>
+
+====2018 World Short Course Championships====
+{{MedalTableTop|name=no|header=[[2018 FINA World Swimming Championships (25 m)|2018 World Short Course Championships]]}}
+{{MedalGold| [[2018 FINA World Swimming Championships (25 m) – Men's 50 metre backstroke|50 m backstroke]] | 22.58 (NR) }}
+{{MedalGold| [[2018 FINA World Swimming Championships (25 m) – Men's 4 × 50 metre medley relay|4×50 m medley]] | 1:30.54 }}
+{{MedalGold| [[2018 FINA World Swimming Championships (25 m) – Men's 200 metre backstroke|200 m backstroke]] | 1:47.02 }}
+{{MedalSilver| [[2018 FINA World Swimming Championships (25 m) – Men's 4 × 100 metre freestyle relay|4×100 m freestyle]] | 3:03.11 (h) }}
+{{MedalSilver| [[2018 FINA World Swimming Championships (25 m) – Men's 4 × 50 metre freestyle relay|4×50 m freestyle]] | 1:22.22 (NR) }}
+{{MedalBronze| [[2018 FINA World Swimming Championships (25 m) – Mixed 4 × 50 metre freestyle relay|4×50 m mixed freestyle]] | 1:28.73 (h) }}
+{{MedalBronze| [[2018 FINA World Swimming Championships (25 m) – Mixed 4 × 50 metre medley relay|4×50 m mixed medley]] | 1:37.33 (h) }}
+{{MedalBottom}}
+
+On the first day of competition at the [[2018 FINA World Swimming Championships (25 m)|2018 World Short Course Swimming Championships]] in [[Hangzhou]], [[China]] in December, Rylov won a silver medal in the [[2018 FINA World Swimming Championships (25 m) – Men's 4 × 100 metre freestyle relay|4×100 metre freestyle relay]], swimming a 46.09 for the lead-off leg of the relay in the prelims heats before being substituted out for [[Vladislav Grinev]] in the final, where the finals relay placed second with a 3:03.11.<ref name="FINA11Dec2018h">[[FINA]] (11 December 2018). [https://www.omegatiming.com/File/000112010C0101F701FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Men's 4x100m Freestyle Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref><ref name="FINA11Dec2018f">[[FINA]] (11 December 2018). [https://www.omegatiming.com/File/000112010C0101F704FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Men's 4x100m Freestyle Final Results"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref> The second day, he won a bronze medal as part of the [[2018 FINA World Swimming Championships (25 m) – Mixed 4 × 50 metre freestyle relay|4×50 metre mixed freestyle relay]], contributing a lead-off split time of 21.21 seconds in the prelims heats to help qualify the relay to the final ranking second, where it when on to finish in third-place with a 1:28.73.<ref name="FINA12Dec2018h">[[FINA]] (12 December 2018). [https://www.omegatiming.com/File/000112010C0301F601FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Mixed 4x50m Freestyle Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref><ref name="FINA12Dec2018f">[[FINA]] (12 December 2018). [https://www.omegatiming.com/File/000112010C0301F604FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Mixed 4x50m Freestyle Final Results"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref> In the [[2018 FINA World Swimming Championships (25 m) – Mixed 4 × 50 metre medley relay|4×50 metre mixed medley relay]] the following day, he swam a 23.18 for the backstroke leg of the relay in the prelims heats, was substituted out and Kliment Kolesnikov substituted in for the finals relay, and won a bronze medal when the finals relay placed third in 1:37.33.<ref name="FINA13Dec2018hr">[[FINA]] (13 December 2018). [https://www.omegatiming.com/File/000112010C0305F601FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Mixed 4x50m Medley Relay Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref><ref name="FINA13Dec2018fr">[[FINA]] (13 December 2018). [https://www.omegatiming.com/File/000112010C0305F604FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Mixed 4x50m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref>
+
+Day four of competition, Rylov anchored the [[2018 FINA World Swimming Championships (25 m) – Men's 4 × 50 metre freestyle relay|4×50 metre freestyle relay]] in the final to help achieve a silver medal victory in a new Russian record time of 1:22.22, splitting a time of 20.37 seconds, which was the third-fastest split time in the final heat behind [[Ryan Held]] of the [[United States]], who split a 20.25, and [[Chad le Clos]] of [[South Africa]], who split a 20.31.<ref name="FINA14Dec2018fr">[[FINA]] (14 December 2018). [https://www.omegatiming.com/File/000112010C0101F604FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Men's 4x50m Freestyle Final Results"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref> Later in the same session, he won the gold medal in the [[2018 FINA World Swimming Championships (25 m) – Men's 50 metre backstroke|50 metre backstroke]] with a Russian record time of 22.58 seconds.<ref name="FINA14Dec2018f50bk">[[FINA]] (14 December 2018). [https://www.omegatiming.com/File/000112010C0102EB04FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Men's 50m Backstroke Final Results"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref><ref name="Sutherland14Dec2018">Sutherland, James (14 December 2018). [https://swimswam.com/rylov-moves-to-2-all-time-breaks-russian-record-in-50-back/ "Rylov Moves To #2 All-Time, Breaks Russian Record In 50 Back"]. ''[[SwimSwam]]''. Retrieved 28 March 2022.</ref><ref name="BBCS14Dec2018">[https://www.bbc.com/sport/swimming/46571269 "Shane Ryan wins 50m backstroke bronze at World Short Course Championships"]. ''[[BBC Sport]]''. 14 December 2018. Retrieved 28 March 2022.</ref><ref name="TASS14Dec2018">[https://tass.com/sport/1036130 "Russian swimmer Rylov wins 50m backstroke gold at FINA World Championships in China"]. ''[[TASS]]''. 14 December 2018. Retrieved 28 March 2022.</ref><ref name="USAS14Dec2018">[https://www.usaswimming.org/deck-pass-mobile/news/news-landing-page/2018/12/14/dressel-medals-twice-to-lead-team-usa-at-fina-world-championships-(25m) "Dressel Medals Twice to Lead Team USA at FINA World Championships (25m)"]. ''[[USA Swimming]]''. 14 December 2018. Retrieved 28 March 2022.</ref> His time moved him up in rankings to the second-fastest performer in the event all-time, only behind world record holder [[Florent Manaudou]].<ref name="Sutherland14Dec2018"/> In the final of the [[2018 FINA World Swimming Championships (25 m) – Men's 4 × 50 metre medley relay|4×50 metre medley relay]] the following day, he swam the fastest freestyle leg in the field with a time of 20.22 seconds, helping win the gold medal with a finals relay time of 1:30.54.<ref name="FINA15Dec2018fr">[[FINA]] (15 December 2018). [https://www.omegatiming.com/File/000112010C0105F604FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Men's 4x50m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref><ref name="Neidigh15Dec2018">Neidigh, Lauren (15 December 2018). [https://swimswam.com/2018-sc-worlds-day-5-finals-live-recap/ "2018 SC Worlds: Day 5 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 28 March 2022.</ref> On the sixth and final day, he won the gold medal in the [[2018 FINA World Swimming Championships (25 m) – Men's 200 metre backstroke|200 metre backstroke]] with a time of 1:47.02, finishing 0.32 seconds ahead of the silver medalist, Ryan Murphy, and 1.23 seconds ahead of the bronze medalists, [[Radosław Kawęcki]] and [[Mitch Larkin]].<ref name="FINA16Dec2018f200bk">[[FINA]] (16 December 2018). [https://www.omegatiming.com/File/000112010C0102EE04FFFFFFFFFFFF01.pdf "14th FINA World Swimming Championships (25m) Hangzhou (CHN): Men's 200m Backstroke Final Results"]. ''[[Omega Timing]]''. Retrieved 28 March 2022.</ref><ref name="Sica16Dec2018">Sica, James (16 December 2018). [https://www.swimmingworldmagazine.com/news/evgeny-rylov-tracks-down-murphy-on-final-50-to-win-sc-200-back-title/ "Evgeny Rylov Tracks Down Murphy On Final 50 To Win SC 200 Back Title"]. ''[[Swimming World]]''. Retrieved 28 March 2022.</ref><ref name="EFE16Dec2018">[https://www.efe.com/efe/english/sports/russia-s-evgeny-rylov-wins-gold-of-men-200m-backstroke/50000266-3844289 "Russia's Evgeny Rylov wins gold of men's 200m backstroke"]. ''[[EFE]]''. 16 December 2018. Retrieved 28 March 2022.</ref>
+
+===2019===
+====2019 World Championships====
+{{MedalTableTop|name=no|header=[[Swimming at the 2019 World Aquatics Championships|2019 World Long Course Championships]]}}
+{{MedalGold| [[Swimming at the 2019 World Aquatics Championships – Men's 200 metre backstroke|200 m backstroke]] | 1:53.40 }}
+{{MedalSilver| [[Swimming at the 2019 World Aquatics Championships – Men's 4 × 100 metre freestyle relay|4×100 m freestyle]] | 3:09.97 }}
+{{MedalSilver| [[Swimming at the 2019 World Aquatics Championships – Men's 100 metre backstroke|100 m backstroke]] | 52.67 }}
+{{MedalSilver| [[Swimming at the 2019 World Aquatics Championships – Men's 50 metre backstroke|50 m backstroke]] | 24.49 }}
+{{MedalBronze| [[Swimming at the 2019 World Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 m medley]] | 3:28.81 (NR) }}
+{{MedalBottom}}
+
+At the [[2019 World Aquatics Championships|World Aquatics Championships]] in [[Gwangju]], [[South Korea]] in July 2019, he defended the World Championships title in the [[Swimming at the 2019 World Aquatics Championships – Men's 200 metre backstroke|200 metre backstroke]].<ref>[https://rsport.ria.ru/20190726/1556910948.html Евгений Рылов завоевал золото чемпионата мира на 200-метровке на спине]</ref><ref name="NBCS2019wc">[https://www.nbcsports.com/video/2019-world-swimming-championships-evgeny-rylov-wins-mens-200m-back "2019 World Swimming Championships: Rylov takes gold in men's 200m back"]. ''[[NBC Sports]]''. Retrieved 29 March 2022.</ref> He also won silver medals in the [[Swimming at the 2019 World Aquatics Championships – Men's 50 metre backstroke|50 metre backstroke]], finishing 0.06 seconds behind gold medalist [[Zane Waddell]] of South Africa with a 24.49, and the [[Swimming at the 2019 World Aquatics Championships – Men's 100 metre backstroke|100 metre backstroke]], where he swam a 52.67 to finish 24-hundredths of a second behind gold medalist [[Xu Jiayu]] of China.<ref name="FINA28Jul2019f50bk">[[FINA]] (28 July 2019). [https://www.omegatiming.com/File/00011301070102EB04FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Men's 50m Backstroke Final Results"]. ''[[Omega Timing]]''. Retrieved 29 March 2022.</ref><ref name="FINA23Jul2019f100bk">[[FINA]] (23 July 2019). [https://www.omegatiming.com/File/00011301070102EC04FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Men's 100m Backstroke Final Results"]. ''[[Omega Timing]]''. Retrieved 29 March 2022.</ref><ref name="OT21Jul2019">OlympicTalk (21 July 2019). [https://olympics.nbcsports.com/2019/07/21/swimming-world-championships-results/ "2019 World Swimming Championships results"]. ''[[NBC Sports]]''. Retrieved 29 March 2022.</ref><ref name="Rutherford28Jul2019">Rutherford, Peter (28 July 2019). [https://www.reuters.com/article/us-swimming-world-wrap-idUSKCN1UN0J9 "Swimming: Incredible Scott split helps Britain to medley relay gold"]. ''[[Reuters]]''. Retrieved 29 March 2022.</ref> With his three individual medals, he became the first male swimmer to win a medal in all three backstroke distances at a single [[FINA World Aquatics Championships|World Aquatics Championships]].{{fact|date=March 2022}} In the final of the [[Swimming at the 2019 World Aquatics Championships – Men's 4 × 100 metre freestyle relay|4×100 metre freestyle relay]], he swam the second-fastest split in the field with a 47.02 for the anchor leg of the relay, which was just four-hundredths of a second faster than the 47.06 swum by third-fastest [[Kyle Chalmers]] of [[Australia]] and sixteen-hundredths of a second slower than the 46.86 swum by [[Zach Apple]] of the United States, and contributed to a silver medal-winning finish in 3:09.97.<ref name="FINA21Jul2019f4100fr">[[FINA]] (21 July 2019). [https://www.omegatiming.com/File/00011301070101F704FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Men's 4×100m Freestyle Final Results"]. ''[[Omega Timing]]''. Retrieved 29 March 2022.</ref> For the [[Swimming at the 2019 World Aquatics Championships – 4 × 100 metre mixed medley relay|4×100 metre mixed medley relay]], Rylov swam the backstroke leg of the relay in the final, helping achieve a fourth-place finish in a Russian record time of 3:40.78 with a split of 51.97 seconds.<ref name="FINA24Jul2019f4100mmr">[[FINA]] (24 July 2019). [https://www.omegatiming.com/File/00011301070305F704FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Mixed 4x100m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 29 March 2022.</ref><ref name="Sutherland24Jul2019">Sutherland, James (24 July 2019). [https://swimswam.com/russians-italians-lower-national-records-in-mixed-medley-relay-final/ "Russians, Italians Lower National Records In Mixed Medley Relay Final"]. ''[[SwimSwam]]''. Retrieved 17 May 2022.</ref> His time of 51.97 seconds for the lead-off leg of the relay was faster than the Russian record of 52.44 seconds he set in the semifinals of the 100 metre backstroke, however it did not count as a new record as times from mixed gender events do not count for individual gender records.<ref name="Sutherland24Jul2019"/><ref name="FINA22Jul2019sf100bk">[[FINA]] (22 July 2019). [https://www.omegatiming.com/File/00011301070102EC02FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Men's 100m Backstroke Semifinal Results Summary"]. ''[[Omega Timing]]''. Retrieved 17 May 2022.</ref> As part of the [[Swimming at the 2019 World Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 metre medley relay]], he split the fastest backstroke leg in the final with a 52.57 to help win the bronze medal in a Russian record time of 3:28.81.<ref name="FINA28Jul2019f4100mr">[[FINA]] (28 July 2019). [https://www.omegatiming.com/File/00011301070105F704FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Men's 4x100m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 29 March 2022.</ref>
+
+====2019 International Swimming League====
+In the Autumn of 2019, he was member of the inaugural [[International Swimming League]] swimming for the [[Energy Standard]] International Swim Club, who won the team title in Las Vegas, Nevada, in December.<ref>{{Cite web|url=https://isl.global/club-rosters/|title=Club Rosters – International Swimming League|language=en-US|access-date=2020-04-17}}</ref> He won the 100 metre backstroke with and 200 metre backstroke events at both the Budapest and London matches after winning just the 100 metre backstroke in Naples.<ref>{{Citation|title=2019 International Swimming League|date=2020-04-17|url=https://en.wikipedia.org/w/index.php?title=2019_International_Swimming_League&oldid=951503304|work=Wikipedia|language=en|access-date=2020-04-17}}</ref>
+
+===2021===
+At the 2021 Russian Championships in April, Rylov set a new 100 metre backstroke [[List of Russian records in swimming|Russian record]] with a time of 52.12 seconds before setting a new 200 metre backstroke European record with a time of 1:53.23 three days later.<ref name="rssruERrc2021">{{Cite web|title=Чемпионат России - SPLASH Meet Manager 11|url=https://russwimming.ru/upload/live/4R_LC_2021/index.html#|access-date=2021-10-03|website=russwimming.ru}}</ref><ref name="Byrnes8Apr2021">Byrnes, Liz (8 April 2021). [https://www.swimmingworldmagazine.com/news/rylov-sets-european-200-back-record-of-153-23-chikunova-wins-200br-efimova-locked-out/ "Evgeny Rylov Sets European 200 Back Record Of 1:53.23; Goes Fifth All-Suits"]. ''[[Swimming World]]''. Retrieved 29 March 2022.</ref><ref name="Sutherland8Apr2021">Sutherland, James (8 April 2021). [https://swimswam.com/evgeny-rylov-lowers-own-european-russian-200-back-records-in-153-23/ "Evgeny Rylov Lowers Own European, Russian 200 Back Records In 1:53.23"]. ''[[SwimSwam]]''. Retrieved 29 March 2022.</ref>
+
+====2020 European Championships====
+On the first day of swimming competition at the [[2020 European Aquatics Championships]], held in Budapest, Hungary in May, Rylov won a gold medal as part of the [[Swimming at the 2020 European Aquatics Championships – Men's 4 × 100 metre freestyle relay|4×100 metre freestyle relay]], splitting 48.61 for the anchor leg of the relay in the prelims heats to help advance the relay to the final ranking fourth, where the finals relay finished first in a time of 3:10.41.<ref name="LEN17May2021h4100fr">[[LEN]] (17 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MFR----------HEAT--------_74B%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 4x100m Freestyle Men Preliminary"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref><ref name="LEN17May2021f4100fr">[[LEN]] (17 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MFR----------FNL---------_73B2%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 4x100m Freestyle Men Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref> The next day, he won a bronze medal in the [[Swimming at the 2020 European Aquatics Championships – Mixed 4 × 200 metre freestyle relay|4×200 metre mixed freestyle relay]] again for his efforts in the prelims heats, this time swimming a time of 1:48.76 for the second leg of the prelims relay to help advance the relay to the final ranking sixth before the finals relay placed third in a time of 7:31.54.<ref name="LEN18May2021h4200fr">[[LEN]] (18 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMX4X200MFR----------HEAT--------_74B%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 4x200m Freestyle Mixed Preliminary"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref><ref name="LEN18May2021f4200fr">[[LEN]] (18 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMX4X200MFR----------FNL-000100--_73B1%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 4x200m Freestyle Mixed Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref> In the [[Swimming at the 2020 European Aquatics Championships – Men's 100 metre backstroke|100 metre backstroke]] on the third and fourth days of competition, Rylov was the highest ranking swimmer representing Russia, placing eighth overall with a time of 53.51 seconds in the final.<ref name="LEN20May2021f100bk">[[LEN]] (20 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM100MBA------------FNL-000100--_73A1%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 100m Backstroke Men Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref> On days five and six of competition, he competed in the [[Swimming at the 2020 European Aquatics Championships – Men's 200 metre backstroke|200 metre backstroke]], ultimately winning the gold medal and European title with a time of 1:54.46 in the final, finishing less than two-tenths of a second ahead of silver medalist [[Luke Greenbank]] of [[Great Britain]].<ref name="LEN22May2021f200bk">[[LEN]] (22 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM200MBA------------FNL-000100--_73A1%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 200m Backstroke Men Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref><ref name="TASS22May2021">[https://tass.com/sport/1292707 "Russia's Rylov wins gold in 200-meter backstroke event at European Aquatics Championship"]. ''[[TASS]]''. 22 May 2021. Retrieved 18 May 2022.</ref> The seventh and final day of competition, he won a silver medal for his prelims efforts on the [[Swimming at the 2020 European Aquatics Championships – Men's 4 × 100 metre medley relay|4×100 metre medley relay]], helping advance the relay to the final ranking sixth with a backstroke split of 53.44 in the prelims heats before the finals relay finished second with a time of 3:29.50.<ref name="LEN23May2021h4100mr">[[LEN]] (23 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MMD----------HEAT--------_74B%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 4x100m Medley Men Preliminary"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref><ref name="LEN23May2021f4100mr">[[LEN]] (23 May 2021). [http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MMD----------FNL-000100--_73B1%201.0.pdf "Hungary 2020 European Aquatics Championships Swimming: Results 4x100m Medley Men Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref>
+
+====2020 Summer Olympics====
+{{see also|Swimming at the 2020 Summer Olympics}}
+{{MedalTableTop|name=no|header=[[Swimming at the 2020 Summer Olympics|2020 Summer Olympics]]}}
+{{MedalGold| [[Swimming at the 2020 Summer Olympics – Men's 100 metre backstroke|100 m backstroke]] | 51.98 (ER) }}
+{{MedalGold| [[Swimming at the 2020 Summer Olympics – Men's 200 metre backstroke|200 m backstroke]] | 1:53.27 (OR) }}
+{{MedalSilver| [[Swimming at the 2020 Summer Olympics – Men's 4 × 200 metre freestyle relay|4×200 m freestyle]] | 7:01.81 }}
+{{MedalBottom}}
+
+At the [[2020 Summer Olympics]] in [[Tokyo]], [[Japan]], held in 2021 due to the [[COVID-19 pandemic]], he claimed gold medals in the [[Swimming at the 2020 Summer Olympics – Men's 100 metre backstroke|100 metre backstroke]] and [[Swimming at the 2020 Summer Olympics – Men's 200 metre backstroke|200 metre backstroke]] respectively, breaking the 100 metre backstroke European record with a time of 51.98 and the 200 metre backstroke [[List of Olympic records in swimming|Olympic record]] with a time of 1:53.27.<ref>{{Cite web|title=Team ROC's Rylov wins second Olympic gold in Tokyo|url=https://tass.com/sport/1320935|access-date=2021-10-03|website=TASS}}</ref><ref name="Race26Jul2021">Race, Retta (26 July 2021). [https://swimswam.com/rylov-takes-down-100back-european-record-en-route-to-gold/ "Rylov Takes Down 100 Back European Record En Route To Gold"]. ''[[SwimSwam]]''. Retrieved 17 May 2022.</ref><ref name="IOC1Aug2021"/> He became Russia's first indoor Olympic swimming champion in 25 years.<ref>{{Cite web|date=2021-07-27|title=Russia Wins First Olympic Pool Gold Since 1996 To Break Legendary U.S. Streak|url=https://swimswam.com/russia-wins-first-olympic-pool-gold-since-1996-to-break-legendary-u-s-streak/|access-date=2021-10-03|website=SwimSwam|language=en-US}}</ref>
+
+Rylov also won a silver medal in [[Swimming at the 2020 Summer Olympics – Men's 4 × 200 metre freestyle relay|4×200 metre freestyle relay]] together with his finals relay teammates, splitting a 1:45.26 for the third leg of the relay.<ref name="Lepesant28Jul2021">Lepesant, Anne (28 July 2021). [https://swimswam.com/tokyo-relay-splits-gbr-dominates-mens-4x200-free-with-3-of-the-6-fastest-legs/ "Tokyo Relay Splits: GBR Dominates Men's 4×200 Free With 3 Of The 6 Fastest Legs"]. ''[[SwimSwam]]''. Retrieved 25 March 2022.</ref> In addition to events he medaled in, he helped achieve a fourth-place finish in the [[Swimming at the 2020 Summer Olympics – Men's 4 × 100 metre medley relay|4×100 metre medley relay]] in 3:29.22 and a seventh-place finish in the [[Swimming at the 2020 Summer Olympics – Mixed 4 × 100 metre medley relay|4×100 metre mixed medley relay]] in 3:42.45, swimming the backstroke leg of each relay in the final.<ref name="IOC1Aug2021">[[Omega Timing]]; [[Atos]] (1 August 2021). {{cite web |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_B99_SWM-------------------------------.pdf |title=Swimming Results Book |work=Tokyo 2020 Olympics |publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games]] |access-date=28 March 2022 |url-status=dead |archive-url=https://web.archive.org/web/20210807054827/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_B99_SWM-------------------------------.pdf |archive-date=2021-08-07}}</ref>
+
+Stoloto conducted a poll to determine the best Russian athlete of the 2020 Summer Olympics, with Evgeny Rylov placing first and winning the award.{{citation needed|date=August 2023}}
+
+====2021 International Swimming League====
+Rylov was the [[Most valuable player|MVP]] of the 9th match in the regular season of [[2021 International Swimming League|ISL season 3]] in 2021.<ref>{{Cite web|date=2021-09-24|title=ISL Match 9, Day 2: Evgeny Rylov Is MVP As Dominant Energy Standard Remain Unbeaten|url=https://www.swimmingworldmagazine.com/news/isl-match-9-day-2-evgeny-rylov-is-mvp-as-dominant-energy-standard-remain-unbeaten/|access-date=2021-10-03|website=Swimming World News|language=en-US}}</ref>
+
+====2021 European Short Course Championships====
+In November, at the [[2021 European Short Course Swimming Championships]] in [[Kazan]], Rylov won a bronze medal in the 4×50 metre freestyle relay on day one, splitting a 20.99 for the third leg of the relay to contribute to the finals relay time of 1:23.35.<ref name="LEN2Nov2021f450fr">[[LEN]] (2 November 2021). [http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM4X50MFR-----------FNL-000100--_73B1%201.0.pdf?x=17:59:06 "2021 European Short Course Swimming Championships Kazan (RUS): Results 4x50m Freestyle Men Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref> On the second day, he placed 20th in the preliminary heats of the 50 metre freestyle with a time of 21.61 seconds.<ref name="LEN3Nov2021h50fr">[[LEN]] (3 November 2021). [http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM50MFR-------------HEAT--------_74A%201.0.pdf?x=18:01:03 "2021 European Short Course Swimming Championships Kazan (RUS): Results 50m Freestyle Men Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref> The following day, he placed fourth in the preliminary heats of the 100 metre backstroke, not advancing to the semifinals as he was not one of the two fastest swimmers representing Russia with his time of 50.55 seconds.<ref name="LEN4Nov2021h100bk">[[LEN]] (4 November 2021). [http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM100MBA------------HEAT--------_74A%201.0.pdf?x=18:02:01 "2021 European Short Course Swimming Championships Kazan (RUS): Results 100m Backstroke Men Preliminary"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref> Day five, he ranked fourth in the semifinals of the 200 metre backstroke with a time of 1:51.73 before withdrawing from competing in the final of the event on the final day of competition.<ref name="LEN6Nov2021sf200bk">[[LEN]] (6 November 2021). [http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM200MBA------------SFNL--------_74A%201.0.pdf?x=18:02:49 "2021 European Short Course Swimming Championships Kazan (RUS): Results 200m Backstroke Men Semi-Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref><ref name="LEN7Nov2021f200bk">[[LEN]] (7 November 2021). [http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM200MBA------------FNL-000100--_73A1%201.0.pdf?x=18:04:36 "2021 European Short Course Swimming Championships Kazan (RUS): Results 200m Backstroke Men Final"]. ''Microplus Informatica''. Retrieved 18 May 2022.</ref>
+
+===2022===
+On 18 March 2022, Rylov participated in the [[2022 Moscow rally|Moscow rally]] in support of the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].<ref>{{cite news |title=Большунов, Рылов, сестры Аверины, Тарасова и Морозов, Синицина и Кацалапов участвуют в митинге «Za мир без нацизма! Zа Россию! Zа Президентa!» в Лужниках |url=https://www.sports.ru/skiing/1107687090-bolshunov-rylov-sestry-averiny-tarasova-i-morozov-siniczina-i-kaczalap.html |work=sports.ru |date=18 March 2022 |language=ru}}</ref><ref name="Keith19Mar2022">Keith, Braden (19 March 2022). [https://swimswam.com/russian-olympic-swimmer-rylov-appears-at-large-pro-war-rally-in-moscow/ "Russian Olympic Swimmer Rylov Appears At Large Pro-War Rally In Moscow"]. ''[[SwimSwam]]''. Retrieved 27 March 2022.</ref> His swimwear sponsor at the time of the rally, [[Speedo]], terminated their endorsement deal with Rylov in response to his participation in the rally.<ref name="Rieder21Mar2022">Rieder, David (21 March 2022). [https://www.swimmingworldmagazine.com/news/evgeny-rylov-appears-at-rally-supporting-russian-invasion-of-ukraine/ "Evgeny Rylov Appears at Rally Supporting Russian Invasion of Ukraine; Speedo Pulls Sponsorship"]. ''[[Swimming World]]''. Retrieved 27 March 2022.</ref><ref name="Sutherland21Mar2022">Sutherland, James (21 March 2022). [https://swimswam.com/speedo-ends-sponsorship-deal-with-russian-gold-medalist-evgeny-rylov/ "Speedo Ends Sponsorship Deal With Russian Gold Medalist Evgeny Rylov"]. ''[[SwimSwam]]''. Retrieved 27 March 2022.</ref><ref name="LathamCoyle23Mar2022">Latham-Coyle, Harry (23 March 2022). [https://www.independent.co.uk/sport/olympics/swimming/speedo-russian-swimmer-donation-putin-rally-b2042375.html "Speedo ditch Russian Olympic swimmer after appearance at pro-Putin rally and donate fee to refugees"]. ''[[The Independent]]''. Retrieved 28 March 2022.</ref><ref name="Ronald23Mar2022">Ronald, Issy (23 March 2022). [https://www.cnn.com/2022/03/22/sport/evgeny-rylov-speedo-russia-ukraine-spt-intl/index.html "Olympic Champion Evgeny Rylov loses Speedo deal after attending Putin rally"]. ''[[CNN]]''. Retrieved 27 March 2022.</ref><ref name="Perry25Mar2022">Perry, Dwight (25 March 2022). [https://www.seattletimes.com/sports/sideline-chatter-guess-having-to-wear-off-brand-speedos-will-teach-him/ "Sideline Chatter: Guess having to wear off-brand Speedos will teach him"]. ''[[The Seattle Times]]''. Retrieved 27 March 2022.</ref> He was also subsequently suspended from the Energy Standard International Swimming Club of the [[International Swimming League]] along with all other support staff and athletes from Russia.<ref name="Keith22Mar2022">Keith, Braden (22 March 2022). [https://swimswam.com/isls-energy-standard-suspends-all-russian-athletes-support-staff/ "ISL's Energy Standard Suspends All Russian Athletes & Support Staff"]. ''[[SwimSwam]]''. Retrieved 27 March 2022.</ref> Later in the same week, he withdrew from competing at the [[2022 World Aquatics Championships]] and [[FINA]] announced his participation in the rally was under investigation in regards to potentially violating FINA rules.<ref name="Sutherland23Mar2022">Sutherland, James (23 March 2022). [https://swimswam.com/olympic-gold-medalist-evgeny-rylov-pulls-out-of-2022-world-championships/ "Olympic Gold Medalist Evgeny Rylov Pulls Out Of 2022 World Championships"]. ''[[SwimSwam]]''. Retrieved 27 March 2022.</ref><ref name="FINA23Mar2022">[https://www.fina.org/news/2547346/press-release-fina-bureau-meets-makes-further-decisions-on-russian-and-belarusian-athletes-and-event-hosting "PRESS RELEASE | FINA Bureau meets, makes further decisions on Russian and Belarusian athletes and event hosting"]. ''[[FINA]]''. 23 March 2022. Retrieved 27 March 2022.</ref><ref name="SI23Mar2022">[https://www.si.com/olympics/2022/03/23/russian-athletes-backlash-attending-putin-rally-evgeny-rylov-speedo-sponsorship "Olympic Gold Medalist Evgeny Rylov Loses Sponsorship, Among Russian Athletes Under Investigation After Attending Vladimir Putin Rally"]. ''[[Sports Illustrated]]''. 23 March 2022. Retrieved 27 March 2022.</ref> On 20 April 2022, he received a nine-month suspension by FINA "from all competitions and activities organized or sanctioned by FINA, including any International Competition on the FINA World Aquatic Calendar".<ref name="FINA21Apr2022">[https://www.fina.org/news/2584646/press-release-fina-bureau-meets-acknowledges-decision-to-suspend-russian-swimmer-evgeny-rylov "PRESS RELEASE | FINA Bureau meets, acknowledges decision to suspend Russian swimmer Evgeny Rylov"]. ''[[FINA]]''. 21 April 2022. Retrieved 21 April 2022.</ref> Prior to this individualized ban for his participation in the rally, he was subjected to a blanket ban on 3 March 2022 by the European governing body for aquatic sports, [[LEN]], which banned all Russian and Belarusians athletes and officials from taking part and competing at LEN competitions until further notice.<ref name="LEN3Mar2022">[http://www.len.eu/?p=19198 "LEN agrees not to invite Russian and Belarusian teams and supports Ukrainian athletes"]. ''[[LEN]]''. 3 March 2022. Retrieved 31 October 2022.</ref> While he competed at non-FINA and non-LEN events during the year, such as the Russian Championships, his times did not count for world rankings nor world records.<ref name="Keith23Apr2022">Keith, Braden (23 April 2022). [https://swimswam.com/russia-confirms-that-suspended-rylov-will-be-allowed-at-russian-championships/ "Russia Confirms that Suspended Rylov Will Be Allowed at Russian Championships"]. ''[[SwimSwam]]''. Retrieved 6 November 2022.</ref> In April 2023, the ban on Russian and Belarusian athletes at [[World Aquatics]] (formerly FINA) events was extended indefinitely.<ref name="WAqua5Apr2023">[https://www.worldaquatics.com/news/3137952/press-release-world-aquatics-bureau-meets-discusses-the-status-of-athletes-from-russia-and-belarus "PRESS RELEASE | World Aquatics Bureau meets, discusses the status of athletes from Russia and Belarus"]. ''[[World Aquatics]]''. 5 April 2023. Retrieved 17 April 2023.</ref>
+
+At the multi-country and multi-sport 2022 Russian Solidarity Games segment in November 2022, with swimming competition held in Kazan and conducted in short course metres, Rylov won the bronze medal in the 100 metre backstroke with a time of 50.03 seconds on day three of competition, 21 November.<ref name="Athletistic21Nov2022">[https://athletistic.com/other-sports/137719.html "Markova, Kameneva, Semyaninov and Girev won the Czech Republic in swimming as part of the Friendship Games"]. ''athletistic.com''. 21 November 2022. Retrieved 12 March 2023.</ref> Two days later, in his first final of the day, he placed fourth in the 50 metre freestyle with a time of 21.41 seconds.<ref name="RSF23Nov2022">[https://russwimming.ru/upload/live/4R_SC_2022/ResultList_122F_us.pdf "Event 122 Men, 50m Freestyle Men 23.11.2022"]. ''Russian Swimming Federation''. 23 November 2022. Retrieved 12 March 2023.</ref> Later in the same session, he won the bronze medal in the 50 metre backstroke in a time of 23.16 seconds, which was 1.05 seconds behind gold medalist Kliment Kolesnikov who swam 0.11 seconds faster than the world record in the event.<ref name="Sutherland23Nov2022">Sutherland, James (23 November 2022). [https://swimswam.com/kolesnikovs-wr-russian-records-from-surkova-kameneva-highlight-day-4-in-kazan/ "Kolesnikov's WR, Russian Records From Surkova & Kameneva Highlight Day 4 In Kazan"]. ''[[SwimSwam]]''. Retrieved 12 March 2023.</ref> On day seven of seven, he won a gold medal in the 200 metre backstroke, finishing in 1:50.32.<ref name="Athletistic25Nov2022">[https://athletistic.com/other-sports/139649.html "Kameneva set a Russian record in the 50m freestyle at the Friendship Games"]. ''athletistic.com''. 25 November 2022. Retrieved 12 March 2023.</ref>
+
+===2023===
+{{MedalTableTop|name=no|header=[[2023 Russian National Swimming Championships|2023 Russian Championships (LC)]]}}
+{{MedalGold| 200 m backstroke | 1:55.50 }}
+{{MedalSilver| 100 m backstroke | 53.21 }}
+{{MedalBronze| 50 m backstroke | 24.66 }}
+{{MedalBottom}}
+Rylov entered to compete at the [[2023 Russian National Swimming Championships|2023 Russian National Championships]], held in April at the [[Palace of Water Sports]] in Kazan.<ref name="Nuoto14Apr2023">[https://www.nuoto.com/2023/04/14/in-arrivo-i-campionati-nazionali-di-russia-dal-17-aprile-in-gara-kolesnikov-chikunova-prigoda-rylov/ "In arrivo i Campionati Nazionali di Russia. Dal 17 aprile in gara Kolesnikov, Chikunova, Prigoda, Rylov …"] (in Italian). ''nuoto.com''. 14 April 2023. Retrieved 16 April 2023.</ref> On day one, he ranked fourth in the semifinals of the 100 metre backstroke with a 53.69 and qualified for the final the following day.<ref name="RSF16Apr2023">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_203S.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 203 Мужчины, 100m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 16 April 2023. Retrieved 16 April 2023.</ref> Earlier in the day, he ranked sixth in the preliminaries with a time of 54.82 seconds to qualify for the semifinals.<ref name="RSF16Apr2023h">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_3.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 3 Мужчины, 100m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 16 April 2023. Retrieved 16 April 2023.</ref> On the second evening, he won the silver medal with a time of 53.21 seconds, which was 0.67 seconds slower than gold medalist Kliment Kolesnikov.<ref name="RSF17Apr2023">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_103F.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 103 Мужчины, 100m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 17 April 2023. Retrieved 17 April 2023.</ref> The third morning session, he finished in 25.05 seconds in the preliminaries of the 50 metre backstroke, advancing to the semifinals ranking fourth.<ref name="RSF18Apr2023">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_17.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 17 Мужчины, 50m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 18 April 2023. Retrieved 18 April 2023.</ref> In the evening semifinals, he achieved a time of 24.89 seconds to qualify for the final ranking fourth.<ref name="RSF18Apr2023sf">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_217S.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 217 Мужчины, 50m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 18 April 2023. Retrieved 18 April 2023.</ref> The following evening, he won the bronze medal, finishing 0.54 seconds behind the gold medalist with a 24.66.<ref name="RSF19Apr2023">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_117F.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 117 Мужчины, 50m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 19 April 2023. Retrieved 19 April 2023.</ref>
+
+On the morning of day six of six, Rylov ranked first in the preliminaries of the 200 metre backstroke with a time of 1:58.23 and qualified for the final.<ref name="RSF21Apr2023">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_36.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 36 Мужчины, 200m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 21 April 2023. Retrieved 22 April 2023.</ref> In the final, held in the evening session later the same day, he won the gold medal in the 200 metre backstroke with a time of 1:55.50.<ref name="RSF21Apr2023f">[https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_136F.pdf "ЧЕМПИОНАТ РОССИИ 2023: Дистанция 136 Мужчины, 200m На спине Мужчины"] (in Russian). ''Russian Swimming Federation''. 21 April 2023. Retrieved 22 April 2023.</ref><ref name="Athletistic21Apr2023">[https://athletistic.com/other-sports/253476.html "Rylov won the gold medal of the Russian swimming championship in the 200 m backstroke and other results of the day"]. ''athletistic.com''. 21 April 2023. Retrieved 22 April 2023.</ref>
+
+==International championships==
+===Long course metres (50 m pool)===
+{| class="sortable wikitable"
+! Meet
+! class="unsortable"|50 back
+! class="unsortable"|100 back
+! class="unsortable"|200 back
+! class="unsortable"|4×100 free
+! class="unsortable"|4×200 free
+! class="unsortable"|4×100 medley
+! class="unsortable"|4×100 mixed free
+! class="unsortable"|4×200 mixed free
+! class="unsortable"|4×100 mixed medley
+|- bgcolor="#DDDDDD"
+| colspan="10" align="center"| '''Junior level'''
+|-
+| style="background:#f0e68c| [[Swimming at the 2014 Summer Youth Olympics|YOG 2014]] || align="center"|{{Gold1}} || align="center"|{{Gold1}} || align="center"|{{Silver2}} || align="center"|4th || {{n/a}} || align="center"|{{Gold1}} || align="center"|4th || {{n/a}} || style="background:#f0e68c| 
+|- bgcolor="#DDDDDD"
+| colspan="10" align="center"| '''Senior level'''
+|-
+| [[Swimming at the 2015 World Aquatics Championships|WC 2015]] || style="background:#fdffe7"| || align="center"|7th || align="center"|{{Bronze3}} || style="background:#fdffe7| || style="background:#fdffe7| || align="center"|5th || style="background:#fdffe7| || {{n/a}} || style="background:#fdffe7| 
+|-
+| style="background:#f0e68c"| [[Swimming at the 2016 Summer Olympics|OG 2016]] || {{n/a}} || align="center"|6th || align="center"|{{Bronze3}} || style="background:#f0e68c| || style="background:#f0e68c| || align="center"|4th || {{n/a}} || {{n/a}} || {{n/a}} 
+|-
+| [[Swimming at the 2017 World Aquatics Championships|WC 2017]] || style="background:#fdffe7| || style="background:#fdffe7| || align="center"|{{Gold1}} || style="background:#fdffe7| || style="background:#fdffe7| || align="center"|{{Bronze3}} || style="background:#fdffe7| || {{n/a}} || style="background:#fdffe7| 
+|-
+| style="background:#ccccff| [[2018 European Aquatics Championships|EC 2018]] || style="background:#fdffe7| || align="center"|{{Silver2}} || align="center"|{{Gold1}} || align="center"|{{Gold1}} || style="background:#fdffe7| || align="center"|{{Silver2}}{{ref label|a|a|a}} || style="background:#fdffe7| || style="background:#fdffe7| || style="background:#fdffe7| 
+|-
+| [[Swimming at the 2019 World Aquatics Championships|WC 2019]] || align="center"|{{Silver2}} || align="center"|{{Silver2}} || align="center"|{{Gold1}} || align="center"|{{Silver2}} || style="background:#fdffe7| || align="center"|{{Bronze3}} || style="background:#fdffe7| || {{n/a}} || align="center"|4th 
+|-
+| style="background:#ccccff"| [[2020 European Aquatics Championships|EC 2020]] || style="background:#fdffe7| || align="center"|8th || align="center"|{{Gold1}} || align="center"|{{Gold1}}{{ref label|a|a|a}} || style="background:#fdffe7| || align="center"|{{Silver2}}{{ref label|a|a|a}} || style="background:#fdffe7| || align="center"|{{Bronze3}}{{ref label|a|a|a}} || style="background:#fdffe7| 
+|-
+| style="background:#f0e68c| [[Swimming at the 2020 Summer Olympics|OG 2020]] || {{n/a}} || align="center"|{{Gold1}} || align="center"|{{Gold1}} || style="background:#f0e68c| || align="center"|{{Silver2}} || align="center"|4th || {{n/a}} || {{n/a}} || align="center"|7th 
+|}
+:{{note label|a|a|a}} Rylov swam only in the prelims heats.
+
+===Short course metres (25 m pool)===
+{| class="sortable wikitable"
+! Meet
+! class="unsortable"|50 free
+! class="unsortable"|50 back
+! class="unsortable"|100 back
+! class="unsortable"|200 back
+! class="unsortable"|4×50 free
+! class="unsortable"|4×100 free
+! class="unsortable"|4×50 medley
+! class="unsortable"|4×50 mixed free
+! class="unsortable"|4×50 mixed medley
+|-
+| [[2018 FINA World Swimming Championships (25 m)|WC 2018]] || style="background:#fdffe7| || align="center"|{{Gold1}} || style="background:#fdffe7"| || align="center"|{{Gold1}} || align="center"|{{Silver2}} || align="center"|{{Silver2}}{{ref label|a|a|a}} || align="center"|{{Gold1}} || align="center"|{{Bronze3}}{{ref label|a|a|a}} || align="center"|{{Bronze3}}{{ref label|a|a|a}} 
+|-
+| style="background:#ccccff"| [[2021 European Short Course Swimming Championships|EC 2021]] || align="center"|20th || style="background:#fdffe7| || align="center"|4th (h) || align="center"|4th (sf) || align="center"|{{Bronze3}} || {{n/a}} || style="background:#fdffe7| || style="background:#fdffe7| || style="background:#fdffe7| 
+|}
+:{{note label|a|a|a}} Rylov swam only in the prelims heats.
+
+==Career best times==
+===Long course metres (50 m pool)===
+{| class="wikitable"
+|-
+! Event
+! Time
+! Meet
+! Date
+! Location
+! Notes
+! Ref
+|-
+| 50&nbsp;m backstroke
+| style="text-align:center;" | '''24.49'''
+| [[2019 World Aquatics Championships]]
+| 28 July 2019
+| [[Gwangju]], [[South Korea]]
+| 
+| style="text-align:center;" | <ref name="FINA28Jul2019f50bk"/>
+|-
+| 100&nbsp;m backstroke
+| style="text-align:center;" | '''51.98'''
+| [[2020 Summer Olympics]]
+| 27 July 2021
+| [[Tokyo]], [[Japan]]
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="IOC1Aug2021"/>
+|-
+| 200&nbsp;m backstroke
+| style="text-align:center;" | '''1:53.23'''
+| 2021 Russian Championships
+| 8 April 2021
+| [[Kazan]]
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="rssruERrc2021"/><ref name="Byrnes8Apr2021"/><ref name="Sutherland8Apr2021"/>
+|}
+{{Swimmingrecordlegend|ER=yes|NR=yes|nation=Russian}}
+
+===Short course metres (25 m pool)===
+{| class="wikitable"
+|-
+! Event
+! Time
+! Meet
+! Date
+! Location
+! Notes
+! Ref
+|-
+| 50&nbsp;m backstroke
+| style="text-align:center;" | '''22.58'''
+| [[2018 FINA World Swimming Championships (25 m)|2018 World Short Course Championships]]
+| 14 December 2018
+| [[Hangzhou]], [[China]]
+| Former '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINA14Dec2018f50bk"/><ref name="Sutherland14Dec2018"/>
+|-
+| 100&nbsp;m backstroke
+| style="text-align:center;" | '''48.88'''
+| 2020 Russian Short Course Championships
+| 15 December 2020
+| [[Saint Petersburg]]
+| 
+| style="text-align:center;" | <ref name="FINAprofileresults">[https://www.fina.org/athletes/1003730/- "Evgeny Rylov: Results"]. ''[[FINA]]''. Retrieved 29 March 2022.</ref>
+|-
+| 200&nbsp;m backstroke
+| style="text-align:center;" | '''1:46.37'''
+| [[2020 International Swimming League]]
+| 21 November 2020
+| [[Budapest]], [[Hungary]]
+| 
+| style="text-align:center;" | <ref name="ISL21Nov2020r200bk">[[International Swimming League|ISL]] (21 November 2020). [https://www.omegatiming.com/File/000114020F0102EE04FFFFFFFFFFFF01.pdf "2020 ISL Final: Men's 200m Backstroke Results"]. ''[[Omega Timing]]''. Retrieved 29 March 2022.</ref>
+|}
+{{Swimmingrecordlegend|NR=yes|nation=Russian}}
+
+==Continental and national records==
+===Long course metres (50 m pool)===
+{| class="wikitable sortable"
+|-
+! No.
+! Event
+! Time
+! 
+! Meet
+! Location
+! Date
+! Type
+! Status
+! {{Abbr|Ref|Reference(s)}}
+|-
+| 1
+| 200&nbsp;m backstroke
+| style="text-align:center;" | '''1:54.60'''
+| 
+| [[2015 World Aquatics Championships]]
+| [[Kazan]]
+| 7 August 2015
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="SW7Aug2015"/>
+|-
+| 2
+| 200&nbsp;m backstroke (2)
+| style="text-align:center;" | '''1:54.21'''
+| 
+| 2016 Russian Championships
+| [[Moscow]]
+| 21 April 2016
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="SV21Apr2016"/>
+|-
+| 3
+| 200&nbsp;m backstroke (3)
+| style="text-align:center;" | '''1:53.97'''
+| 
+| [[2016 Summer Olympics]]
+| [[Rio de Janeiro]], [[Brazil]]
+| 11 August 2016
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="Dobysheva13Apr2017"/>
+|-
+| 4
+| 200&nbsp;m backstroke (4)
+| style="text-align:center;" | '''1:53.81'''
+| 
+| 2017 Russian Championships
+| Moscow
+| 13 April 2017
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="Dobysheva13Apr2017"/>
+|-
+| 5
+| 50&nbsp;m backstroke
+| style="text-align:center;" | '''24.52'''
+| 
+| 2017 Russian Championships
+| Moscow
+| 13 April 2017
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="Dobysheva13Apr2017"/>
+|-
+| 6
+| 200&nbsp;m backstroke (5)
+| style="text-align:center;" | '''1:53.61'''
+| 
+| [[2017 World Aquatics Championships]]
+| [[Budapest]], [[Hungary]]
+| 28 July 2017
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="Lepesant28Jul2017"/>
+|-
+| 7
+| 4×100&nbsp;m medley
+| style="text-align:center;" | '''3:29.76'''
+| 
+| 2017 World Aquatics Championships
+| Budapest, Hungary
+| 30 July 2017
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="FINA30Jul2017"/>
+|-
+| 8
+| 200&nbsp;m backstroke (6)
+| style="text-align:center;" | '''1:53.36'''
+| 
+| [[2018 European Aquatics Championships]]
+| [[Glasgow]], [[Scotland]]
+| 8 August 2018
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="LEN8Aug2018f200bk"/><ref name="Rieder8Aug2018"/>
+|-
+| 9
+| 100&nbsp;m backstroke
+| style="text-align:center;" | '''52.44'''
+| '''sf'''
+| [[2019 World Aquatics Championships]]
+| [[Gwangju]], [[South Korea]]
+| 22 July 2019
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="Sutherland24Jul2019"/><ref name="FINA22Jul2019sf100bk"/>
+|-
+| 10
+| 4×100&nbsp;m mixed medley
+| style="text-align:center;" | '''3:40.78'''
+| 
+| 2019 World Aquatics Championships
+| Gwangju, South Korea
+| 24 July 2019
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | '''Current'''
+| style="text-align:center;" | <ref name="FINA24Jul2019f4100mmr"/><ref name="Sutherland24Jul2019"/>
+|-
+| 11
+| 4×100&nbsp;m medley (2)
+| style="text-align:center;" | '''3:28.81'''
+| 
+| 2019 World Aquatics Championships
+| Gwangju, South Korea
+| 28 July 2019
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | '''Current'''
+| style="text-align:center;" | <ref name="FINA28Jul2019f4100mr"/>
+|-
+| 12
+| 100&nbsp;m backstroke (2)
+| style="text-align:center;" | '''52.12'''
+| 
+| 2021 Russian Championships
+| Kazan
+| 5 April 2021
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="rssruERrc2021"/>
+|-
+| 13
+| 200&nbsp;m backstroke (7)
+| style="text-align:center;" | '''1:53.23'''
+| 
+| 2021 Russian Championships
+| Kazan
+| 8 April 2021
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | '''Current'''
+| style="text-align:center;" | <ref name="Byrnes8Apr2021"/><ref name="Sutherland8Apr2021"/>
+|-
+| 14
+| 100&nbsp;m backstroke (3)
+| style="text-align:center;" | '''51.98'''
+| 
+| [[2020 Summer Olympics]]
+| [[Tokyo]], [[Japan]]
+| 27 July 2021
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | '''Current'''
+| style="text-align:center;" | <ref name="Race26Jul2021"/><ref name="IOC1Aug2021"/>
+|}
+{{swimmingrecordlegend|ER=yes|NR=yes|nation=Russian}}
+
+===Short course metres (25 m pool)===
+{| class="wikitable sortable"
+|-
+! No.
+! Event
+! Time
+! Meet
+! Location
+! Date
+! Type
+! Status
+! {{Abbr|Ref|Reference(s)}}
+|-
+| 1
+| 4×50&nbsp;m freestyle
+| style="text-align:center;" | '''1:22.22'''
+| [[2018 FINA World Swimming Championships (25 m)|2018 World Short Course Championships]]
+| [[Hangzhou]], [[China]]
+| 14 December 2018
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | '''Current'''
+| style="text-align:center;" | <ref name="FINA14Dec2018fr"/>
+|-
+| 2
+| 50&nbsp;m backstroke
+| style="text-align:center;" | '''22.58'''
+| 2018 World Short Course Championships
+| Hangzhou, China
+| 14 December 2018
+| style="text-align:center;" | '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="FINA14Dec2018f50bk"/><ref name="Sutherland14Dec2018"/><ref name="TASS14Dec2018"/>
+|}
+{{swimmingrecordlegend|NR=yes|nation=Russian}}
+
+==See also==
+{{div col}}
+*[[List of multiple Olympic gold medalists at a single Games]]
+*[[List of Youth Olympic Games gold medalists who won Olympic gold medals]]
+*[[List of World Swimming Championships (25 m) medalists (men)]]
+*[[List of European records in swimming]]
+*[[Chronological summary of the 2020 Summer Olympics]]
+*[[World and Olympic records set at the 2020 Summer Olympics]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{World Aquatics}}
+* {{Olympics.com|org_archive=20200531045858}}
+* {{Olympedia}}
+* [http://result.nanjing2014.org/IRS/ENG/ZB/ZBB101A_YO2014SW@@@@@@@ENG_number=22272.htm Nanjing 2014 Profile]
+* [http://www.eurosport.co.uk/swimming/evgeny-rylov_prs430287/person.shtml Eurosport Bio]
+
+{{s-start}}
+{{s-ach|rec}}
+{{succession box|before={{flagicon|FRA}} [[Camille Lacourt]]|title=[[List of European records in swimming|Men's 100 metre backstroke<br />European record holder (long course)]]|years=27 July 2021 – 20 June 2022|after={{flagicon|ITA}} [[Thomas Ceccon]]}}
+{{succession box|before={{flagicon|POL}} [[Radosław Kawęcki]]|title=[[List of European records in swimming|Men's 200 metre backstroke<br />European record holder (long course)]]|years=21 April 2016 – present|after=''Incumbent''}}
+{{s-end}}
+
+{{Navboxes|list=
+{{Footer Olympic Champions 100 m Backstroke Men}}
+{{Footer Olympic Champions 200 m Backstroke Men}}
+{{Footer World LC Champions 200m Backstroke Men}}
+{{Footer World SC Champions 50m Backstroke Men}}
+{{Footer World SC Champions 200m Backstroke Men}}
+{{Footer World SC Champions 4x50m Medley Men}}
+{{Footer European Champions 200m Backstroke Men}}
+{{Footer European Champions 4x100m Freestyle Men}}
+{{Footer Olympic Champions Swimming 50m Backstroke Boys}} 
+{{Footer Olympic Champions Swimming 100m Backstroke Boys}} 
+{{Footer Olympic Champions Swimming 4 × 100m Medley Relay Boys}}
+}}
+
+{{DEFAULTSORT:Rylov, Evgeny}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Sports controversies]]
+[[Category:Swimming controversies]]
+[[Category:Russian male swimmers]]
+[[Category:Olympic swimmers for Russia]]
+[[Category:Swimmers at the 2016 Summer Olympics]]
+[[Category:Swimmers at the 2020 Summer Olympics]]
+[[Category:Swimmers at the 2014 Summer Youth Olympics]]
+[[Category:World Aquatics Championships medalists in swimming]]
+[[Category:Male backstroke swimmers]]
+[[Category:People from Novotroitsk]]
+[[Category:Olympic gold medalists for Russia]]
+[[Category:Olympic bronze medalists for Russia]]
+[[Category:Olympic bronze medalists in swimming]]
+[[Category:Medalists at the 2016 Summer Olympics]]
+[[Category:Medalists at the 2020 Summer Olympics]]
+[[Category:European Aquatics Championships medalists in swimming]]
+[[Category:Youth Olympic gold medalists for Russia]]
+[[Category:Russian police officers]]
+[[Category:Olympic silver medalists for Russia]]
+[[Category:Olympic silver medalists in swimming]]
+[[Category:Olympic gold medalists for the Russian Olympic Committee athletes]]
+[[Category:Olympic silver medalists for the Russian Olympic Committee athletes]]
+[[Category:Sportspeople from Orenburg Oblast]]

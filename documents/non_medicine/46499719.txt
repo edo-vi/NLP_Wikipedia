@@ -1,0 +1,45 @@
+{{Short description|Species of bacterium}}
+{{Speciesbox
+| image =
+| genus = Mycoplasma
+| species = agassizii
+| authority = Brown et al. 2001
+| synonyms =
+}}
+
+'''''Mycoplasma agassizii ''''' is a [[species]] of [[bacteria]] in the genus ''Mycoplasma''. This [[genus]] of [[bacteria]] lacks a [[cell wall]] around their [[cell membrane]].<ref name=Sherris>{{cite book | author = Ryan KJ, Ray CG (editors) | title = Sherris Medical Microbiology | pages=409–12 |edition = 4th | publisher = McGraw Hill | year = 2004 | isbn = 0-8385-8529-9}}</ref> Without a cell wall, they are unaffected by many common [[antibiotics]] such as [[penicillin]] or other [[beta-lactam]] antibiotics that target cell wall synthesis. Mycoplasma are the smallest bacterial cells yet discovered,<ref>{{cite book|title=Infectious Diseases of the Female Genital Tract |url=https://archive.org/details/infectiousdiseas00swee_0 |url-access=registration | publisher=Lippincott Williams & Wilkins, 2009| author = Richard L. Sweet, Ronald S. Gibbs|year=1985 |isbn=9780683080384 }}</ref> can survive without oxygen and are typically about 0.1&nbsp;[[µm]] in diameter.
+
+Cultures are available from the Mollicutes Culture Collection (Curators Dr. J.K. Davis and M.K. Davidson, University of Florida).<ref name="Parte"/>
+This mycoplasma species was originally isolated from a species of desert tortoise ''[[Gopherus agassizii]]'' which was named for by [[Louis Agassiz]].<ref name="Parte"/><ref name=Brown2001>{{cite journal|last1=Brown|first1=M. B|last2=Brown|first2=D. R|last3=Klein|first3=P. A.|last4=McLaughin|first4=G. S.|last5=Schumacher|first5=I. M.|last6=Jacobson|first6=E. R.|last7=Adams|first7=H. P.|last8=Tully|first8=J. G.|title=''Mycoplasma agassizii'' sp. nov., isolated from the upper respiratory tracct of the desert tortoise (''Gopherus agassizzii'') and the gopher tortoise (''Gopherus polyphemus'')|journal=International Journal of Systematic and Evolutionary Microbiology|date=2001|volume=51|issue=2|pages=413–418|url=http://ijs.sgmjournals.org/content/51/2/413.long|access-date=23 April 2015|doi=10.1099/00207713-51-2-413|pmid=11321087|doi-access=free}}</ref>
+
+Since its discovery, it has been recovered from other species of tortoises:{{cn|date=February 2023}}
+* ''[[Geochelone chilensis]]'' or Chaco tortoise
+* ''[[Geochelone pardalis]]'' or Leopard tortoise
+* ''[[Geochelone elegans]]'' or Indian star tortoise
+* ''[[Geochelone forstenii]]'' or Travancore tortoise
+* ''[[Geochelone sulcate]]'' or African spurred tortoise
+* ''[[Gopherus agassizii]]'' or desert  tortoise
+* ''[[Gopherus polyphemus]]'' or Gopher tortoise
+* ''[[Indotestudo]]'' species
+* ''[[Terrapene carolina bauri]]'' or Florida box turtle
+* ''[[Testudo graeca]] graeca'' or Spur-thighed tortoise
+* ''Testudo graeca ibera'' or Spur-thighed tortoise <ref name="Brown2001"/>
+
+The type strain is PS6 = ATCC 700616 = CCUG 53180 and available from the Mollicutes Culture Collection, University of Florida.<ref name="Parte">{{cite web | title = Mycoplasma |publisher=LPSN, LPSN| url = https://lpsn.dsmz.de/genus/mycoplasma | access-date = 2015-04-20 | first = A. C. | last = Parte }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://bacdive.dsmz.de/strain/154344 Type strain of ''Mycoplasma agassizii'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Taxonbar|from=Q3868952}}
+
+[[Category:Bacteria described in 2001]]
+[[Category:Animal bacterial diseases]]
+[[Category:Pathogenic bacteria]]
+[[Category:Mycoplasma|agassizii]]
+
+
+{{firmicutes-stub}}
+{{Veterinary-med-stub}}

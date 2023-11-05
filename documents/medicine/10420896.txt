@@ -1,0 +1,39 @@
+{{For|the general use|Veterinary medicine}}
+{{Use dmy dates|date=April 2022}}
+[[Image:AnimalHealthlogo.png|right|frame|Animal Health Logo]]'''Animal Health''' was a UK government [[executive agency]] primarily responsible for ensuring that farmed animals in [[Great Britain]] were healthy, disease-free and well looked after.
+
+One of its key roles was to implement government policies aimed at preventing - or managing - outbreaks of serious animal diseases, and in doing so support the farming industry, protect the welfare of farmed animals and safeguard public health from animal borne disease.
+
+In England and Wales it also worked to protect public health by ensuring that dairy hygiene and egg production standards were met.
+
+It also regulated the trade in endangered species through [[CITES]].
+
+Previously Animal Health was known as [[State Veterinary Service]].
+
+The Scottish arm of the organisation was a member of [[SEARS (Scotland's Environmental and Rural Services)]].
+
+On 1 April 2011 it merged with the [[Veterinary Laboratories Agency]] to form the [[Animal Health and Veterinary Laboratories Agency]].<ref>{{cite news |url= http://www.defra.gov.uk/ahvla/about-us/ |title= About us |publisher= Defra |access-date= 2012-04-22 |archive-url= https://web.archive.org/web/20120419111138/http://www.defra.gov.uk/ahvla/about-us/ |archive-date= 2012-04-19 |url-status= dead }}</ref>
+
+==See also==
+* [[Veterinary medicine]]
+* [[National Office of Animal Health]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070506053602/http://www.defra.gov.uk/animalhealth/ Official website]
+
+{{Defra (United Kingdom)}}
+{{Agriculture in the United Kingdom}}
+
+{{authority control}}
+
+[[Category:Defunct executive agencies of the United Kingdom government]]
+[[Category:Agricultural organisations based in the United Kingdom]]
+[[Category:Veterinary organizations]]
+[[Category:Veterinary medicine in the United Kingdom]]
+
+
+{{UK-org-stub}}
+{{veterinary-med-stub}}

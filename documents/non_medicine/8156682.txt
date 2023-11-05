@@ -1,0 +1,20 @@
+{{Short description|Species of single-celled organism}}
+{{Speciesbox
+| image =
+| genus = Eimeria
+| species = necatrix
+| authority = Johnson, 1930 
+}}
+
+'''''Eimeria necatrix''''' is a species of ''[[Eimeria]]'' that causes  very severe intestinal [[coccidiosis]] in older [[poultry]] characterized by congestion, hemorrhage, necrosis of the  intestine and bloody feces. Very large [[schizont]]s can be seen as white or yellow dots and [[oocysts]] can be found occasionally in the [[cecum|ceca]].<ref>{{cite web|url=http://www.merckvetmanual.com/mvm/poultry/coccidiosis/overview_of_coccidiosis_in_poultry.html |accessdate=27 June 2016 |title=Overview of Coccidiosis in Poultry |publisher=The Merck Veterinary Manual}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3486910}}
+
+[[Category:Conoidasida]]
+
+
+{{Apicomplexa-stub}}
+{{Veterinary-med-stub}}

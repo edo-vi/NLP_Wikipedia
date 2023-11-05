@@ -1,0 +1,42 @@
+{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox person
+| name        = Ann Boyce
+| image       = 
+| alt         = 
+| caption     = 
+| birth_name  = Ann Cave
+| birth_date  = {{Birth date|df=y|1827|11|20}}
+| birth_place = Sydney
+| death_date  = {{Death date and age|df=y|1914|2|28|1827|11|20}}
+| death_place = [[Motueka]], New Zealand
+| nationality = New Zealand
+| other_names = 
+| known_for   = pioneer, herbalist
+| occupation  = 
+}}
+'''Ann Boyce''' (20 November 1827 – 28 February 1914) was a New Zealand founding mother and herbalist. She was born Ann Cave in Sydney, Australia, on 20 November 1827. In 1837 she came to [[Port Underwood]] in Marlborough, New Zealand, with her family. She married William Boyce when she was 16 or less, and they lived in the Nelson area, and later [[Motueka]]. She had 13 children.<ref name="DNZB Boyce">{{DNZB|title=Ann Boyce|first= Katherine W.|last= Orr|id=1b28|accessdate=23 April 2017}}</ref><ref name=Obituary>{{cite web |title=Mrs. Ann Botce |
+website=paperspast.natlib.govt.nz | url=https://paperspast.natlib.govt.nz/newspapers/TC19140318.2.99.3 | access-date=3 August 2023}}</ref>
+Boyce had close contact with [[Māori people]] from the time she came to New Zealand. In Motueka, she was known as a herbalist especially knowledgeable about the medicinal use of plants, and provided medical assistance to Māori.<ref name="DNZB Boyce" />
+
+She died at Motueka on 28 February 1914 aged 87, having outlived her husband by nearly 19 years.<ref name="DNZB Boyce" /><ref name=Obituary />
+
+She was written about in a two-page story by her granddaughter [[Flora Park Cave Spurdle]] called "Tales my grandmother told me".<ref>{{cite encyclopedia |url= http://www.teara.govt.nz/en/biographies/1b28/sources |title=Boyce, Ann |encyclopedia=Te Ara Encyclopedia of New Zealand |first= Katherine W. |last=Orr. |date=12 October 2010 |access-date=11 September 2012}}</ref>
+
+Boyce's parents were Samuel Cave and [[Susannah Noon]], both sent to New South Wales from England as convicts. Noon was only a young girl when she was transported in 1811. An account of her life and those of the other women on the convict ship [[Friends (1799 ship)|''Friends'']], ''The Girl Who Stole Stockings'', was published in October 2015.<ref>{{Cite book|title = The Girl Who Stole Stockings|last = Hardie|first = Elsbeth|publisher = Australian Teachers of Media Inc. (ATOM)|year = 2015|isbn = 9781876467241|location = Melbourne, Australia}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Boyce, Ann}}
+[[Category:1827 births]]
+[[Category:1914 deaths]]
+[[Category:Australian emigrants to New Zealand]]
+[[Category:Herbalists]]
+[[Category:19th-century New Zealand women]]
+
+
+{{NewZealand-bio-stub}}
+{{herbalist-stub}}

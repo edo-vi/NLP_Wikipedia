@@ -1,0 +1,55 @@
+{{Infobox hospital
+| name = New Bolton Center
+| org/group = [[University of Pennsylvania School of Veterinary Medicine]]
+| logo = 
+| logo_size = 250
+| image = <!-- preferably photo of the main building or entrance -->
+| image_size =  <!-- image size or width in pixels (225 matches default map_size) -->
+| alt = <!-- alternative text for image, see [[WP:ALT]] -->
+| caption = <!-- text displayed below image -->
+| map_type = Pennsylvania
+| relief = yes
+| map_size = <!-- map size or width in pixels (do not include "px"); default is 225 -->
+| map_alt = <!-- alternative text for map image, see WP:ALT for details -->
+| map_caption = Location of New Bolton Center in [[Pennsylvania]]
+| location = <!-- optional – displayed before region, state, country -->
+| region = [[Kennett Square, Pennsylvania]], U.S.
+| state = 
+| country = 
+| coordinates = {{coord|39.86893|-75.75482|type:edu_region:US-PA|format=dms|display=inline,title}}
+| healthcare = <!-- UK: NHS; AU/CA: Medicare; ELSE free-form text, e.g. Private -->
+| funding = <!-- use: Non-profit, For-profit, Government, Public – will generate links -->
+| type = [[Veterinary hospital]]
+| affiliation = [[University of Pennsylvania]]
+| patron = <!-- the individual who acts as the hospital patron -->
+| network = <!-- hospital network, non-owner -->
+| standards = <!-- optional if no national standards -->
+| speciality = <!-- if devoted to a speciality (i.e. not a broad spectrum); ONLY displayed if type=Specialist or type=Teaching -->
+| founded = 1958
+| closed = <!-- if defunct, please also add to Category:Defunct hospitals -->
+| demolished = <!-- if demolished at a different time from closure -->
+| website = {{URL|https://www.vet.upenn.edu/veterinary-hospitals/NBC-hospital}}
+| other_links = <!-- link(s) to related articles -->
+| module = <!-- or 'embedded' or 'nrhp' -->
+}}
+
+'''New Bolton Center''' is the [[University of Pennsylvania School of Veterinary Medicine]]'s 700 acre campus in [[Kennett Square, Pennsylvania|Kennett Square]], [[Pennsylvania]].  It is home to one of the busiest large animal teaching [[Veterinary medicine|veterinary]] clinics in the nation. Since 1958, it has been located at the former [[South Brook Farm]].<ref name="arch">{{cite web| url = https://www.dot7.state.pa.us/ce/SelectWelcome.asp| title = National Historic Landmarks & National Register of Historic Places in Pennsylvania| publisher = CRGIS: Cultural Resources Geographic Information System| format = Searchable database}} ''Note:'' This includes {{cite web| url = https://www.dot7.state.pa.us/ce_imagery/phmc_scans/H096882_01H.pdf| title = Pennsylvania Historic Resource Survey Form: South Brook Farm| access-date = 2012-12-16| author = George E. Thomas| date= June 1991}}</ref> Founded in 1964 with contributions from equestrienne [[Esther D. du Pont|Esther du Pont Thouron]] and others, each year the George D. Widener Hospital for Large Animals (named for horseman [[George D. Widener Jr.]]) sees more than 4,000 patient visits, and its Field Service sees more than 31,000 patient visits. In addition to its role as one of the nation's preeminent equine surgical facilities, New Bolton Center includes hospital facilities for the care of large/ food animals, including equids, bovids, camelids, small ruminants, and swine. The campus also contains diagnostic laboratories, cooperated with the Pennsylvania Animal Diagnostic System (PADLS) serving the animal agriculture industry as well as the monitoring of emerging and infectious disease.<ref>{{cite web | url=https://www.vet.upenn.edu/veterinary-hospitals/NBC-hospital/diagnostic-laboratories/new-bolton-center-padls | title=Penn Vet &#124; New Bolton Center PADLS }}</ref> Prior to the opening of "New" Bolton Center in 1952, the old Bolton Mansion in Levittown was the site of the farm for the School of Veterinary Medicine.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+* {{official website|http://www.vet.upenn.edu/veterinary-hospitals/NBC-hospital}}
+* [http://www.vet.upenn.edu Penn Veterinary Medicine]
+* [http://boltonmansion.org/ Bolton Mansion]
+
+{{Penn}}
+
+[[Category:Widener family]]
+[[Category:Eclipse Award winners]]
+[[Category:University of Pennsylvania]]
+[[Category:Buildings and structures in Chester County, Pennsylvania]]
+
+
+{{Veterinary-med-stub}}

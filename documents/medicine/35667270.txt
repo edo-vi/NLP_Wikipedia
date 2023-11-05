@@ -1,0 +1,41 @@
+[[File:Jean Ruel03.jpg|thumb|{{center|Title page woodcut of ''Veterinariae medicinae''}}]]
+
+'''Jean Ruel''' (1474 – 24 September 1537), also known as '''Jean Ruelle''' or '''Ioannes Ruellius''' in its Latinised form, was a French physician and botanist noted for the 1536 publication in Paris of ''De Natura Stirpium'', a [[Renaissance]] treatise on botany.<ref>''Landmarks of Botanical History'' - Edward Lee Greene</ref>
+
+Ruel was born in [[Soissons]].  He was self-taught in Greek and Latin, and studied medicine, graduating in 1508, or, according to other sources in 1502. In 1509 he became physician to [[Francis I of France|Francis I]], devoted himself at the same time to a study of botany and pharmacology. He was a professor at the [[University of Paris]], and a large part of his academic career was given to an analysis of [[Dioscorides]]' [http://www.botanicus.org/title/b13165008 ''De Materia Medica''], of which he published a Latin translation in 1516. Ruel's three-volume ''De Natura Stirpium'', which was published without illustrations, was intended partly as a gloss to the ancient writers.<ref>{{Cite web|url=http://www.summagallicana.it/lessico/r/Ruel%20Jean.htm|title=Ruel Jean}}</ref> In it he described in great detail not only the habit and habitat, but also the smell and taste of each plant, producing a list in French of a large number of plant names.
+
+Although some of his works were compilations or translations of previous authors, they represent the first attempt to popularise botany. His 1530 book ''Hippiatrika'' or ''Veterinariae medicinae'', commissioned by Francis I, is a Latin collation of all that was written in Greek of Veterinary Medicine. Ruel also produced [[Anatomical Fugitive Sheet|anatomical fugitive sheets]] of a man and woman in 1539. These sheets were constructed of hinged layers which could be lifted so that [http://film.wellcome.ac.uk:15151/mediaplayer.html?fug_288-4&pw=524ph=600 internal human anatomy] was revealed. Ruell translated a large number of works into Latin, such as the last two volumes of [[Joannes Actuarius]]' ''De Methodo Medendi'', which he published under the title ''De Medicamentorum Compositione'' in 1539.
+
+After the death of Ruel's wife, [[Étienne de Poncher]] the Bishop of Paris, appointed Ruel as canon at [[Notre Dame de Paris]] on 12 December 1526, enabling him to pursue his studies. Ruel died in [[Paris]] and was buried in Notre-Dame. [[Charles Plumier]], the noted Marseilles botanist named the genus ''[[Ruellia]]'' in his honour.
+
+In 1753, botanist [[Carl Linnaeus]] published in his book [[Species Plantarum]] ''Ruellia'', a genus of [[flowering plant]]s commonly known as ''ruellias'' or ''wild petunias'', in the [[Acanthaceae]]family and the name honours Jean Ruel.<ref>{{cite web |url=http://www.ars-grin.gov/cgi-bin/npgs/html/splist.pl?10578 |title=GRIN Species Records of ''Ruellia'' |work=Germplasm Resources Information Network |publisher=United States Department of Agriculture |access-date=2011-05-20}}</ref>
+Then in 1889, botanist [[C.B.Clarke]] published  ''[[Ruelliopsis]]'', a genus of [[flowering plant]]s from South Africa belonging to the family [[Acanthaceae]] and whose name also honours Jean Ruel.<ref>{{cite web |title=''Ruelliopsis'' C.B.Clarke {{!}} Plants of the World Online {{!}} Kew Science |url=https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:883-1 |website=Plants of the World Online |access-date=20 May 2021 |language=en}}</ref>
+
+==Works==
+* ''Roßartzney : zwey nützliche, sehr gute Bücher von mancherley Gebrechen der Roß unnd anderer arbeitsamen Thieren''. Ruel, Jean [Hrsg.]. Gerlach, Nürmberg 1575 [http://nbn-resolving.de/urn:nbn:de:hbz:061:2-171304 Digital edition] by the [[University and State Library Düsseldorf]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.sil.si.edu/digitalcollections/herbals/Titles_chron.cfm Renaissance Herbals]
+* [http://openn.library.upenn.edu/Data/0007/html/lehigh_codex_014.html Lehigh Codex 14 Varii artis veterinariae scriptores graeci at OPenn]
+* {{Internet Archive author |sname=Jean Ruel}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ruel, Jean}}
+[[Category:16th-century French botanists]]
+[[Category:French scholars]]
+[[Category:Herbalists]]
+[[Category:16th-century French physicians]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:People from Soissons]]
+[[Category:16th-century French writers]]
+[[Category:16th-century male writers]]
+[[Category:1474 births]]
+[[Category:1537 deaths]]
+[[Category:French male writers]]
+
+
+{{herbalist-stub}}

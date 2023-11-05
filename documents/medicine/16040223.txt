@@ -1,0 +1,49 @@
+{{Infobox journal
+| title = Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen
+| cover = 
+| formernames = Zeitschrift für ärztliche Fortbildung und Qualitätssicherung
+| language = German, English
+| discipline = [[Health care|Healthcare]]
+| abbreviation = Z. Evidenz Fortbild. Qual. Gesundheitswes.
+| editor = [[Gabriele Meyer]]
+| publisher = [[Elsevier]]
+| country = Germany
+| history = 1904-present
+| website = http://www.zefq.de
+| ISSN = 1865-9217
+| LCCN = 2008243979
+}}
+
+'''''Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen''''' (English: '''''The Journal of Evidence and Quality in Health Care''''') is a bilingual German and English language [[Peer Review|peer-reviewed]] [[medical journal]] published by [[Elsevier|Elsevier Germany]].
+It was established in 1904 as the ''Zeitschrift für ärztliche Fortbildung'' (''German Journal for Continuous Medical Education'') by [[Ernst von Bergmann]]. 
+ZEFQ is the organ of various organisations working in the fields of [[evidence-based medicine]], [[patient empowerment]], [[patient safety]], and [[quality management]] in healthcare:.<ref>German Network for Evidence based Medicine [http://www.ebm-netzwerk.de/was-wir-tun/publikationen/zefq About the German Journal for Evidence and Quality in Health Care]</ref> Among these are:
+* [[Association of the Scientific Medical Societies in Germany]] (AWMF), 
+* [[Federal Joint Committee (Germany)|Federal Joint Committee]] (G-BA), 
+* [[German Agency for Quality in Medicine]] (AEZQ),
+* [[German Coalition for Patient Safety]] (APS)
+* [[Cochrane Collaboration|German Cochrane Centre]], 
+* [[German Network for Evidence Based Medicine]] (DNEbM), 
+* [[IQWIG|Institute for Quality and Efficiency in Healthcare]] (IQWIG), 
+* [[Guidelines International Network]] (G-I-N),
+*  AQUA-Institute on Applied Quality Improvement and Research in Health Care,<ref>AQUA-Institute: [http://www.aqua-institut.de/en/home/index.html About AQUA]</ref>
+* Drug Commission of the German Medical Association (AkdAE),<ref>AkdAE: [http://www.akdae.de/en/index.html About AkdAE]</ref>
+* German Society for Quality Management in Healthcare (GQMG),<ref>GQMG: [http://www.gqmg.de/ Homepage]</ref>
+* Medical Advisory Service of the German Health Insurance (MDS),<ref>MDS: [http://www.mds-ev.de/ Homepage]</ref>
+
+ZEFQ's [[editor in chief]] was [[Günter Ollenschläger]] from 1995 until 12/2015, succeeded by [[Gabriele Meyer]]
+
+==See also==
+* [[List of periodicals published by Elsevier]]
+
+== References ==
+<references/>
+
+== External links ==
+* {{Official website|http://www.zefq.de}}
+
+{{DEFAULTSORT:Zeitschrift Fur Evidenz, Fortbildung Und Qualitat Im Gesundheitswesen}}
+[[Category:German-language journals]]
+[[Category:Publications established in 1904]]
+[[Category:General medical journals]]
+[[Category:Elsevier academic journals]]
+[[Category:Evidence-based medicine]]

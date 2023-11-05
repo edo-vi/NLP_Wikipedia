@@ -1,0 +1,49 @@
+{{Short description|Veterinary drug}}
+{{redirect|Advantix|Kodak film format|Advanced Photo System}}
+{{Infobox drug
+| drug_name         =
+| type              = combo
+| component1        = Imidacloprid
+| class1            = [[Insecticide]]
+| component2        = Permethrin
+| class2            = [[Pyrethroid]] insecticide
+| component3        = Pyriproxyfen
+| class3            = Insecticide
+<!-- Clinical data -->
+| pronounce         =
+| tradename         = K9 Advantix II
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A/B1/B2/B3/C/D/X -->
+| pregnancy_US      = <!-- A/B/C/D/X -->
+| pregnancy_category= 
+| legal_AU          = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_BR =  <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F-->
+| legal_BR_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_NZ = <!--Class A, B, C -->
+| legal_status      = 
+| routes_of_administration = 
+<!-- Identifiers -->
+| CAS_number        = 
+| ATCvet            = 
+| ATC_prefix        = <!-- 'none' if uncategorised -->
+| ATC_suffix        = 
+| PubChem           = 
+| DrugBank          = 
+}}
+
+'''Imidacloprid/permethrin/pyriproxyfen''', sold under the trade name '''K9 Advantix II''', is a [[Combination drug|combination]] [[insecticide]] product for dogs, used for the treatment and prevention of an array of common external [[parasites]]. It is effective against [[fleas]], [[ticks]], [[chewing lice]] and [[mosquitoes]].<ref name="KochTorres2012">{{cite book| vauthors = Koch SN, Torres SM, Plumb DC |title=Canine and Feline Dermatology Drug Handbook|date=1 May 2012|publisher=John Wiley & Sons|isbn=978-1-4051-9896-7|pages=336–337}}</ref> The active ingredients are [[imidacloprid]], [[permethrin]], and [[pyriproxyfen]]. This product is toxic to cats,<ref>{{cite book| vauthors = Bill RL |title=Clinical Pharmacology and Therapeutics for Veterinary Technicians|date=2017|publisher=Elsevier Inc|location=St Louis, Missouri|isbn=978-0-323-08679-0|page=278|edition=4th|chapter=Current (2016) flea and tick products used in small animals (major U.S. brands)}}</ref> and it is not recommended to use it on dogs which share an environment with cats.<ref name="KochTorres2012" /> The product is applied onto the skin; administration of the product into the mouth can cause adverse effects.<ref>{{cite book| vauthors = Wanamaker BP, Massey KL |title=Applied pharmacology for veterinary technicians|date=2015|publisher=Elsevier Inc|location=St Louis, Missouri|isbn=978-0-323-18662-9|page=226|edition=5th|chapter=Imidacloprid, Imidacloprid with Permethrin, and Imidaclopride with Moxidectin}}</ref>
+
+The product is designed for topical use and should be applied directly to the skin, ideally at the base of the neck or between the shoulder blades where the dog cannot easily lick it off. The application should ensure that the product reaches the skin and not just the hair, for optimal effectiveness.<ref>{{Cite web |title=Permethrin Cream for Scabies |url=https://www.clickpharmacy.co.uk/permethrin |access-date=2023-08-25 |website=ClickPharmacy}}</ref> After application, the ingredients spread across the skin and coat, providing comprehensive protection.
+
+==References==
+{{Reflist}}
+
+[[Category:Dog medications]]
+[[Category:Combination antibiotics]]
+{{Veterinary-med-stub}}

@@ -1,0 +1,36 @@
+{{Short description|Species of bacterium}}
+{{Speciesbox
+| image =
+| genus = Mycoplasma
+| species = agalactiae
+| authority = (Wroblewski 1931) Freundt 1955
+| synonyms = *Microbe de l'agalaxie contagieuse" Bridré and Donatien 1923 *"Anulomyces agalaxiae" (sic) Wroblewski 1931 *"Borrelomyces agalactiae" (Wroblewski 1931) Turner 1935 *"Capromyces agalactiae" (Wroblewski 1931) Sabin 1941 *"Pleuropneumonia agalactiae" (Wroblewski 1931) Tulasne and Brisou 1955 *"Asterococcus agalactiae" (Wroblewski 1931) Prévot 1961.
+}}
+
+'''''Mycoplasma agalactiae '''''is a [[species]] of [[bacteria]] in the genus ''[[Mycoplasma]]''. This [[genus]] of [[bacteria]] lacks a [[cell wall]] around their [[cell membrane]].<ref name=Sherris>{{cite book | editor = Ryan KJ, Ray CG | title = Sherris Medical Microbiology | pages=409–12 |edition = 4th | publisher = McGraw Hill | year = 2004 | isbn = 978-0-8385-8529-0}}</ref> Without a cell wall, they are unaffected by many common [[antibiotics]] such as [[penicillin]] or other [[beta-lactam]] antibiotics that target cell wall synthesis.<ref>{{Cite web |date=2017-05-07 |title=4.4D: Mycoplasmas and Other Cell-Wall-Deficient Bacteria |url=https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/04%3A_Cell_Structure_of_Bacteria_Archaea_and_Eukaryotes/4.04%3A_Cell_Walls_of_Prokaryotes/4.4D%3A_Mycoplasmas_and_Other_Cell-Wall-Deficient_Bacteria |access-date=2023-06-06 |website=Biology LibreTexts |language=en}}</ref> Mycoplasma are the smallest bacterial cells yet discovered, can survive without oxygen and are typically about 0.1–0.3 [[µm]] in diameter.<ref>{{Cite journal |last1=Benedetti |first1=Francesca |last2=Curreli |first2=Sabrina |last3=Zella |first3=Davide |date=4 September 2020 |title=Mycoplasmas–Host Interaction: Mechanisms of Inflammation and Association with Cellular Transformation |journal=[[Microorganisms]] |language=en |volume=8 |issue=9 |pages=1351 |doi=10.3390/microorganisms8091351 |issn=2076-2607 |pmc=7565387 |pmid=32899663 |doi-access=free }}</ref>
+
+It is the main agent of contagious agalactia, a syndrome causing clinical signs of mastitis, conjunctivitis, and arthritis in small ruminants.<ref>{{Cite web |title=Contagious Agalactia in Small Ruminants - Reproductive System |url=https://www.merckvetmanual.com/reproductive-system/contagious-agalactia/contagious-agalactia-in-small-ruminants |access-date=2023-06-06 |website=Merck Veterinary Manual |language=en-US}}</ref> It can be present in their [[milk]].<ref name="TolaAngioi1997">{{cite journal|last1=Tola|first1=S.|last2=Angioi|first2=A.|last3=Rocchigiani|first3=A. M.|last4=Idini|first4=G.|last5=Manunta|first5=D.|last6=Galleri|first6=G.|last7=Leori|first7=G.|title=Detection of Mycoplasma agalactiae in sheep milk samples by polymerase chain reaction|journal=Veterinary Microbiology|volume=54|issue=1|year=1997|pages=17–22|issn=0378-1135|doi=10.1016/S0378-1135(96)01269-2|pmid=9050167}}</ref><ref name="Chávez GonzálezBascuñana1995">{{cite journal|last1=Chávez González|first1=Yleana R.|last2=Bascuñana|first2=Carlos Ros|last3=Bölske|first3=Göran|last4=Mattsson|first4=Jens G.|last5=Molina|first5=Carmen Fernández|last6=Johansson|first6=Karl-Erik|title=In vitro amplification of the 16S rRNA genes from Mycoplasma bovis and Mycoplasma agalactiae by PCR|journal=Veterinary Microbiology|volume=47|issue=1–2|year=1995|pages=183–190|issn=0378-1135|doi=10.1016/0378-1135(95)00058-I|pmid=8604550}}</ref> At least eleven strains of this species have been characterized.<ref name="SolsonaLambert1996">{{cite journal|last1=Solsona|first1=Michel|last2=Lambert|first2=Maurice|last3=Poumarat|first3=François|title=Genomic, protein homogeneity and antigenic variability of Mycoplasma agalactiae|journal=Veterinary Microbiology|volume=50|issue=1–2|year=1996|pages=45–58|issn=0378-1135|doi=10.1016/0378-1135(95)00200-6|pmid=8810007}}</ref> In serious outbreaks with infections with this pathogen, whole herds have been lost.<ref name="DaMassaWakenell1992">{{cite journal|last1=DaMassa|first1=A. J.|last2=Wakenell|first2=P. S.|last3=Brooks|first3=D. L.|title=Mycoplasmas of Goats and Sheep|journal=Journal of Veterinary Diagnostic Investigation|volume=4|issue=1|year=1992|pages=101–113|issn=1040-6387|doi=10.1177/104063879200400126|pmid=1554763|doi-access=free}}</ref>
+
+The type strain is strain PG2 = CIP 59.7 = NCTC 10123.<ref name=Parte>{{cite web | title = Mycoplasma |publisher=LPSN, LPSN| url = https://lpsn.dsmz.de/genus/mycoplasma | access-date = 2015-04-17 | first = A. C. | last = Parte }}</ref>
+
+==See also==
+* [[Veterinary pathology]]
+* [[Mastitis]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://bacdive.dsmz.de/strain/137382 Type strain of ''Mycoplasma agalactiae'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+
+{{Taxonbar|from=Q3868950}}
+
+[[Category:Bacteria described in 1955]]
+[[Category:Animal bacterial diseases]]
+[[Category:Pathogenic bacteria]]
+[[Category:Sheep and goat diseases]]
+[[Category:Mycoplasma|agalactiae]]
+
+
+{{firmicutes-stub}}
+{{Veterinary-med-stub}}

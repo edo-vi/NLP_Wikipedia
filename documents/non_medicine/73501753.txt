@@ -1,0 +1,20 @@
+{{Short description|Hypothetical future with AI-designed laws}}
+A '''legal singularity''' is a hypothetical future point in time beyond which the [[law]] is much more completely specified,<ref name=":0">{{Cite book |last=Aidid |first=Abdi |url=https://www.worldcat.org/oclc/1348635469 |title=The legal singularity : how artificial intelligence can make law radically better |date=2023 |others=Benjamin Alarie |isbn=978-1-4875-2941-3 |location=Toronto |oclc=1348635469}}</ref> with human lawmakers and other legal actors being supported by rapid technological advancements and [[artificial intelligence]] (AI), leading to a vast reduction in legal uncertainty.<ref name=":1">{{Cite journal |last=Alarie |first=Benjamin |date=2016 |title=The Path of the Law: Toward Legal Singularity |url=https://www.ssrn.com/abstract=2767835 |journal=SSRN Electronic Journal |language=en |doi=10.2139/ssrn.2767835 |hdl=1807/88159 |issn=1556-5068|hdl-access=free }}</ref>
+
+The legal singularity is based on the idea that as AI systems become more advanced, they will be capable of processing and analyzing vast amounts of legal data and case law more quickly and accurately than humans.<ref name=":1" /> This could potentially lead to a situation where AI systems become the primary legal decision-makers, and humans are relegated to a more supervisory role.<ref>{{Cite journal |last=Weber |first=Robert |date=2021 |title=Will the "Legal Singularity" Hollow Out Law's Normative Core? |journal=Michigan Technology Law Review |volume=27 |issue=1 |pages=97 |doi=10.36645/mtlr.27.1.will |s2cid=208278485 |issn=2688-5484|doi-access=free }}</ref><ref>{{Cite journal |last1=Alarie |first1=Benjamin |last2=Niblett |first2=Anthony |last3=Yoon |first3=Albert |date=2016 |title=Regulation by Machine |url=http://www.ssrn.com/abstract=2878950 |journal=SSRN Electronic Journal |language=en |doi=10.2139/ssrn.2878950 |hdl=1807/88153 |issn=1556-5068|hdl-access=free }}</ref>
+
+There is much debate around whether the legal singularity is possible or desirable among legal scholars, ethicists, and AI researchers.<ref>Markou, Christopher and Deakin, Simon F., Is Law Computable? From Rule of Law to Legal Singularity (April 30, 2020). University of Cambridge Faculty of Law Research Paper, Available at SSRN: https://ssrn.com/abstract=3589184 or http://dx.doi.org/10.2139/ssrn.3589184</ref><ref>{{Cite journal |last=Cobbe |first=Jennifer |date=2019 |title=Legal Singularity and the Reflexivity of Law |url=https://www.ssrn.com/abstract=3858474 |journal=SSRN Electronic Journal |language=en |doi=10.2139/ssrn.3858474 |issn=1556-5068}}</ref><ref>Robert F. Weber, Will the "Legal Singularity" Hollow Out Law's Normative Core?, 27 Mich. Tech. L. Rev. 97 (2020). Available at: https://repository.law.umich.edu/mtlr/vol27/iss1/4</ref><ref>{{Cite journal |last=Pasquale |first=Frank A. |date=2018-03-06 |title=A Rule of Persons, Not Machines: The Limits of Legal Automation |url=https://papers.ssrn.com/abstract=3135549 |language=en |location=Rochester, NY|ssrn=3135549 }}</ref> While some see it as a potential way to improve legal efficiency and reduce bias,<ref name=":0" /> others are concerned about the potential for AI systems to lead to decisions that violate fundamental human rights or perpetuate existing inequalities.<ref>{{Cite journal |last=Hildebrandt |first=Mireille |date=2018-01-01 |title=Law as computation in the era of artificial legal intelligence: Speaking law to the power of statistics |url=https://utpjournals.press/doi/10.3138/utlj.2017-0044 |journal=University of Toronto Law Journal |language=en |volume=68 |issue=supplement 1 |pages=12–35 |doi=10.3138/utlj.2017-0044 |issn=0042-0220}}</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Hypothetical technology]]
+[[Category:Applications of artificial intelligence]]
+[[Category:Singularitarianism]]
+[[Category:Existential risk from artificial general intelligence]]
+[[Category:Philosophy of artificial intelligence]]
+
+
+{{Law-stub}}
+{{Tech-stub}}
+{{Future-stub}}

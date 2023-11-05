@@ -1,0 +1,39 @@
+{{Short description|Species of virus}}
+{{Paraphyletic group
+| auto = virus
+| parent = Mastadenovirus
+| includes =
+* ''Porcine mastadenovirus A''
+* ''Porcine mastadenovirus B''
+* ''Porcine mastadenovirus C''
+| excludes = All other mastadenoviruses
+}}
+
+'''Porcine adenovirus''' (aka pADV 1-5 or pADV A-C) is a virus in the family ''[[Adenoviridae]]''. It causes mild gastrointestinal diseases in [[pig]]s and is thought to contribute to multifactorial porcine respiratory diseases complexes.<ref>{{cite book |title=Veterinary Medicine : A Textbook of the Diseases of Cattle, Horses, Sheep, Pigs and Goats |isbn=978-0-7020-5246-0 |page=241 |edition=Edition 11|last1=Constable |first1=Peter D. |last2=Hinchcliff |first2=Kenneth W. |last3=Done |first3=Stanley H. |last4=Gruenberg |first4=Walter |date=22 December 2016 |publisher=Elsevier }}</ref> Several strains of the virus can be found worldwide, and transmission occurs [[Horizontal transmission|horizontally]] by the [[Fecal–oral route|fecal-oral route]].
+
+==Clinical signs==
+Infection is often [[subclinical]], and when clinical signs are seen they are mild and short-lived.{{cn|date=October 2022}}
+
+Gastrointestinal signs such as [[diarrhoea]], [[Anorexia (symptom)|anorexia]] and [[dehydration]] are most commonly seen in [[Domestic pig|piglets]]. Reproductive signs such as [[abortion]] can be seen in adult [[Suidae|sows]].{{cn|date=October 2022}}
+
+Respiratory signs such as coughing can be seen if the infection is part of a multifactorial respiratory disease complex.{{cn|date=October 2022}}
+
+==Diagnosis and treatment==
+[[Histology]], [[virus isolation]], [[electron microscopy]], [[immunoperoxidase]] and [[Immunofluorescence|immunofluorescent staining]], [[immunodiffusion]], [[Complement fixation tests|complement fixation]], virus neutralisation and [[ELISA]] can all be used to confirm diagnosis.{{cn|date=October 2022}}
+
+Generally no treatment is required.{{cn|date=October 2022}}
+
+==See also==
+* [[Bovine adenovirus]]
+
+==References==
+{{Reflist}}
+* Porcine Adenovirus, reviewed and published by [[WikiVet]] at http://en.wikivet.net/Porcine_Adenovirus, accessed 16/09/2011.
+
+{{Taxonbar|from=Q7229998}}
+
+[[Category:Animal viral diseases]]
+[[Category:Adenoviridae]]
+
+
+{{Veterinary-med-stub}}

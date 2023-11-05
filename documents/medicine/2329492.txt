@@ -1,0 +1,20 @@
+{{Short description|Veterinary specialty concerning reproduction}}
+'''Theriogenology''' is a specialty of [[veterinary medicine]] concerned with animal reproduction. This includes the [[physiology]] and [[pathology]] of male and female reproductive systems of animals and the clinical practice of [[veterinary obstetrics]], [[gynecology]], [[andrology]] and assisted reproductive technologies (ART). Theriogenologists are veterinarians with advanced training in [[animal reproduction]] like [[semen analysis]], evaluation and processing, [[Animal breeding|breeding]] soundness,  [[In vitro fertilisation|IVF]], [[embryo transfer]] and obstetrics.  In the [[United States]], all theriogenologists are board-certified by the American College of Theriogenologists.
+
+==See also==
+*[[Artificial insemination#Artificial insemination in livestock and pets|Artificial insemination in livestock and pets]]
+*[[Animal sexual behavior]]
+
+== Sources ==
+* {{cite book | last=Dorland | first=W. A. Newman | title=Dorland's Illustrated Medical Dictionary. | publisher=Saunders/Elsevier | publication-place=Philadelphia, PA | date=2012 | isbn=978-1-4160-6257-8 | oclc=706780870 |page=1914}}
+
+== External links ==
+* [http://www.therio.org/ Society for Theriogenology]
+* [http://www.theriogenology.org/ American College of Theriogenologists]
+
+{{Veterinary medicine}}
+
+[[Category:Theriogenology| ]]
+
+
+{{Veterinary-med-stub}}

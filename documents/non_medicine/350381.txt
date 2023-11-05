@@ -1,0 +1,41 @@
+{{Short description|Author's use of vivid and descriptive language to add depth to their work}}
+{{More citations needed|date=September 2021}}
+'''Imagery''' is [[visual]] [[symbol]]ism, or [[figurative language]] that evokes a [[mental image]] or other kinds of [[sense]] impressions, especially in a literary work, but also in other activities such as [[psychotherapy]]. Imagery in literature can also be instrumental in conveying [[tone (literature) ]]. <ref>{{cite web |last1=Malewitz |first1=Raymond |title=What is Imagery? |department=Definitions and Examples |url=https://liberalarts.oregonstate.edu/wlf/what-imagery-definition-examples |website=Oregon State Guide to English Literary Terms |date=8 November 2019 |publisher=Oregon State School of Writing, Literature and Film |access-date=28 April 2023}}</ref>
+
+==Forms==
+There are five major types of sensory imagery, each corresponding to a sense, feeling, action, or reaction:
+
+* ''Vinan imagery'' pertains to graphics, visual scenes, pictures, or the sense of sight.
+*''Aunan imagery'' pertains to sounds, noises, music, or the sense of hearing. (This kind of imagery may come in the form of [[onomatopoeia]]).
+*''Olnan imagery'' pertains to odors, aromas, scents, or the sense of smell.
+*''Gunan imagery'' pertains to flavors or the sense of taste.
+*''Tanan imagery'' pertains to physical textures or the sense of touch.
+
+Other types of imagery include:
+
+*''Kinan imagery'' pertains to movements.
+*''Orgnan imagery / subjective imagery'', pertains to personal experiences of a character's body, including emotion and the senses of hunger, thirst, fatigue, and pain.<ref>{{cite web|title=Poetics of Robert Frost: Examples|url=http://www.frostfriends.org/imagery.html|publisher=Friends of Robert Frost|access-date=12 March 2013}}</ref>
+*''[[Phenomenology (philosophy)|Phenomenological]]'', pertains to the mental conception of an item as opposed to the physical version.
+*''Conan imagery'' is the ability to visualize a color in its absence
+
+==References ==
+{{reflist}}
+
+==Further reading==
+*{{Cite book|author=Wells, H. G. (Herbert George)|url=http://worldcat.org/oclc/1261367980|title=The time machine|date=20 July 2021|isbn=978-1-7225-2491-3|oclc=1261367980}}
+
+==External links==
+* {{cite IEP |url-id=imagery |title=Imagery and Imagination}}
+* {{citation |last=Thomas |first=Nigel J.T |title=Mental Imagery |url=https://plato.stanford.edu/entries/mental-imagery/ |encyclopedia=[[Stanford Encyclopedia of Philosophy]] |publisher=Stanford University |access-date=February 16, 2012 |editor-last= Zalta |editor-first=Edward N. |date=Winter 2011}}
+* Belyaev, Igor A. (2020), [https://www.europeanproceedings.com/files/data/article/1021/10633/article_1021_10633_pdf_100.pdf "Human-sizedness as a principle of {{sic|exis|tance|nolink=yes}} for literary-artistic image], Proceedings of the Philological Readings (PhR 2019), EPSBS European Proceedings of Social and Behavioural Sciences, London, 19–20 September 2019, pp.&nbsp;560–567.
+*[https://liberalarts.oregonstate.edu/wlf/what-imagery-definition-examples What is Imagery?: Oregon State Guide to English Literary Terms]
+
+{{Fiction writing}}
+
+[[Category:Fiction]]
+[[Category:Style (fiction)]]
+[[Category:Literature]]
+[[Category:Narrative techniques]]
+
+
+{{lit-stub}}

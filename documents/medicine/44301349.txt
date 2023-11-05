@@ -1,0 +1,23 @@
+{{Orphan|date=August 2016}}
+
+'''Point of care medical information summaries''' are defined as "web-based medical compendia specifically designed to deliver predigested, rapidly accessible, comprehensive, periodically updated, and evidence-based information" to healthcare providers.<ref>{{cite journal|last1=Banzi|first1=R|last2=Liberati|first2=A|last3=Moschetti|first3=I|last4=Tagliabue|first4=L|last5=Moja|first5=L|title=A review of online evidence-based practice point-of-care information summary providers.|journal=Journal of Medical Internet Research|date=7 July 2010|volume=12|issue=3|pages=e26|pmid=20610379|doi=10.2196/jmir.1288|pmc=2956323|doi-access=free}}</ref>
+
+== Products ==
+*[[BMJ Best Practice]]
+*[[DynaMed]]
+*[[UpToDate]]
+
+== See also ==
+*[[Clinical decision support system]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Evidence-based medicine]]
+[[Category:Medical databases]]
+[[Category:Medical websites]]
+[[Category:Online databases]]
+[[Category:Health informatics]]
+
+
+{{health-informatics-stub}}

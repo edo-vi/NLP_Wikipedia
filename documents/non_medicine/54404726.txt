@@ -1,0 +1,11 @@
+'''Polyherbal formulation (PHF)''' is the use of more than one [[herb]] in a [[medicinal]] preparation.  The concept is found in [[Ayurveda|Ayurvedic]] and other [[traditional medicine|traditional medicinal systems]] where multiple herbs in a particular [[ratio]] may be used in the treatment of [[illness]].<ref>{{cite journal |pmc=4127824 |title=Polyherbal formulation: Concept of ayurveda|author1=Subramani Parasuraman |author2=Gan Siaw Thing |author3=Sokkalingam Arumugam Dhanaraj |journal=Pharmacogn. Rev. |date=2014 |volume= 8|issue=16|pages= 73–80|doi= 10.4103/0973-7847.134229 |pmid= 25125878 }}</ref> It is used in these systems for the treatment of many [[disease]]s, including [[diabetes]].{{cn|date=May 2022}} Historically, the Ayurvedic literature “Sarangdhar Samhita” dated centuries ago in 1300 A. D. has highlighted the concept of polyherbalism in this ancient medicinal system. In the traditional system of Indian medicine, plant formulations and combined extracts of plants are chosen rather than individual ones. It is known that Ayurvedic herbals are prepared in a number of dosage forms, in which mostly all of them are PHF. Due to synergism, polyherbalism confers some benefits which is not available in single herbal formulation. 
+
+==References==
+{{Reflist}}
+
+[[Category:Ayurveda]]
+[[Category:Herbs]]
+[[Category:South Asian traditional medicine]]
+
+
+{{alt-med-stub}}

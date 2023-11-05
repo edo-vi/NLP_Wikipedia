@@ -1,0 +1,182 @@
+{{short description|Period from the fourth to the sixth centuries}}
+{{about|the period of widespread migrations in Europe during the first millennium AD|prehistoric migrations|History of human migration|seasonal periods of human migrations|seasonal human migration|seasonal periods of animal migrations|animal migration}}
+{{Redirect2|Barbarian invasion|Barbarian invasions|the 2003 Canadian film|The Barbarian Invasions}}
+{{Infobox
+| above    = Invasions of the Roman Empire
+| image    = [[File:Invasions of the Roman Empire 1.png|300px|Basic view of second- to fifth-century migrations (see also [[:File:World 820.png|map of the world in 820]])|alt=Map of Europe, with colored lines denoting migration routes]]
+| caption  =
+| header1  =
+| label1   = {{Nowrap|Other names}}
+| data1    =
+| header2  =
+| label2   = Time
+| data2    = 300–800 AD (greatest estimate)<ref>Allgemein Springer (2006), der auch auf alternative Definitionen außerhalb der ''[[communis opinio]]'' hinweist. Alle Epochengrenzen sind letztlich nur ein Konstrukt und vor allem durch Konvention begründet. Vgl. auch Stefan Krautschick: ''Zur Entstehung eines Datums. 375 – Beginn der Völkerwanderung''. In: ''[[Klio (Zeitschrift)|Klio]]'' 82, 2000, S. 217–222 sowie Stefan Krautschick: ''Hunnensturm und Germanenflut: 375 – Beginn der Völkerwanderung?'' In: ''[[Byzantinische Zeitschrift]]'' 92, 1999, S. 10–67.</ref>
+| header3  =
+| label3   = Place
+| data3    = Europe and the [[Mediterranean Sea|Mediterranean]] [[region]]
+| header4  =
+| label4   = Event
+| data4    = Tribes invading the [[Fall of the Western Roman Empire|declining Roman Empire]]
+}}
+
+The '''Migration Period''', also known as the '''Barbarian Invasions''', was a period in [[History of Europe|European history]] marked by large-scale migrations that saw the [[fall of the Western Roman Empire]] and subsequent settlement of its former territories by various tribes, and the establishment of the [[barbarian kingdoms|post-Roman kingdoms]].<ref>{{Cite web |title=History of Europe - Barbarian Migrations, Invasions {{!}} Britannica |url=https://www.britannica.com/topic/history-of-Europe/Barbarian-migrations-and-invasions |access-date=2023-08-12 |website=www.britannica.com |language=en}}</ref>
+
+The term refers to the important role played by the migration, invasion, and settlement of various tribes, notably the [[Franks]], [[Goths]], [[Alemanni]], [[Alans]], [[Huns]], [[early Slavs]], [[Pannonian Avars]], [[Bulgars]] and [[Hungarians|Magyars]] within or into the territories of the [[Roman Empire]] and Europe as a whole. The period is traditionally taken to have begun in AD&nbsp;375 (possibly as early as 300) and ended in 568.<ref>Halsall, Guy. ''Barbarian Migrations and the Roman West, 376–568''. Cambridge University Press, 2007.</ref> Various factors contributed to this phenomenon of migration and invasion, and their role and significance are still widely discussed.
+
+Historians differ as to the dates for the beginning and ending of the Migration Period. The beginning of the period is widely regarded as the invasion of Europe by the Huns from Asia in about 375 and the ending with the [[Kingdom of the Lombards|conquest of Italy by the Lombards]] in 568,<ref>For example, Halsall, (2008), ''Barbarian Migrations and the Roman West, 376–568''</ref> but a more loosely set period is from as early as 300 to as late as 800.<ref>[https://books.google.com/books?id=FYO7UBBhWKIC&pg=PA5 "The Migration period (fourth to eighth century)"], p.5 ''Migration Art, A.D. 300-800'', 1995, Metropolitan Museum of Art, ed. Katharine Reynolds Brown, {{ISBN|0870997505}}, 9780870997501</ref> For example, in the 4th century a very large group of Goths was settled as ''[[foederati]]'' within the Roman [[Balkans]], and the Franks were settled south of the [[Rhine]] in Roman [[Gaul]]. In 406 a particularly large and unexpected [[crossing of the Rhine]] was made by a group of [[Vandals]], Alans and [[Suebi]]. As central power broke down in the Western Roman Empire, the military became more important but was dominated by men of [[Barbarian kingdoms|barbarian]] origin.
+
+There are contradictory opinions as to whether the fall of the Western Roman Empire was a result of an increase in migrations, or both the breakdown of central power and the increased importance of non-Romans resulted in internal Roman factors. Migrations, and the use of non-Romans in the military, were known in the periods before and after, and the [[Byzantine Empire|Eastern Roman Empire]] adapted and continued to exist until the [[fall of Constantinople]] to the [[Ottoman Empire|Ottomans]] in 1453. The fall of the Western Roman Empire, although it involved the establishment of competing barbarian kingdoms, was to some extent managed by the eastern emperors.
+
+The migrants comprised war bands or tribes of 10,000 to 20,000 people.<ref name="Heather2003">{{cite book|author=Peter Heather|title=The Visigoths from the Migration Period to the Seventh Century: An Ethnographic Perspective|url=https://books.google.com/books?id=4MADmH2eaGIC&pg=PA54|year=2003|publisher=Boydell & Brewer Ltd|isbn=978-1-84383-033-7|page=54}}</ref> Immigration was common throughout the time of the Roman Empire,<ref>Giovanni Milani-Santarpia, [http://www.mariamilani.com/ancient_rome/immigration_roman_empire.htm "Immigration Roman Empire"], MariaMilani.com</ref> but over the course of 100 years, the migrants numbered not more than 750,000 in total,{{citation needed|date=July 2020}} compared to an average 40&nbsp;million population of the Roman Empire at that time. The first migrations of peoples were made by [[Germanic peoples|Germanic tribes]] such as the Goths (including the [[Visigoths]] and the [[Ostrogoths]]), the Vandals, the [[Anglo-Saxons]], the Lombards, the Suebi, the [[Frisii]], the [[Jutes]], the [[Burgundians]], the Alemanni, the [[Sciri]] and the Franks; they were later pushed westward by the Huns, the Avars, the Slavs and the Bulgars.<ref>Bury, J. B., ''The Invasion of Europe by the Barbarians'', Norton Library, 1967.</ref> Later invasions, such as the [[Vikings]], the [[Normans]], the [[Varangians]], the Hungarians, the [[Moors]], the [[Romani people|Romani]], the [[Turkic peoples|Turks]], and the [[Mongols]] also had significant effects (especially in [[North Africa]], the [[Iberian Peninsula]], [[Anatolia]] and [[Central Europe|Central]] and [[Eastern Europe]]).
+
+== Chronology ==
+{{see|Pre-modern human migration}}
+=== Germanic tribes prior to migration ===
+{{further|Proto-Germanic|Pre-Roman Iron Age (Northern Europe)|Marcomannic Wars}}
+
+[[Germanic peoples]] moved out of southern [[Scandinavia]] and northern Germany<ref>{{cite web |title=Anatolien war nicht Ur-Heimat der indogermanischen Stämme |url=http://www.eurasischesmagazin.de/artikel/Anatolien-war-nicht-Ur-Heimat-der-indogermanischen-Staemme/20040313 |access-date=2016-02-03 |publisher=Eurasischesmagazin.de}}</ref><ref>Wolfram Euler, Konrad Badenheuer; "Sprache und Herkunft der Germanen: Abriss des Protogermanischen vor der Ersten Lautverschiebung"; 2009; {{ISBN|3-9812110-1-4|978-3-9812110-1-6}}</ref> to the adjacent lands between the [[Elbe]] and [[Oder]] after 1000&nbsp;BC. The first wave moved westward and southward (pushing the resident [[Celts]] west to the [[Rhine]] around 200&nbsp;BC), moving into [[southern Germany]] up to the Roman provinces of [[Gaul]] and [[Cisalpine Gaul]] by 100&nbsp;BC, where they were stopped by [[Gaius Marius]] and later by [[Julius Caesar]]. It is this western group which was described by the Roman historian [[Tacitus]] (AD&nbsp;56–117) and Julius Caesar (100–44&nbsp;BC). A later wave of Germanic tribes migrated eastward and southward from Scandinavia, between 600 and 300&nbsp;BC, to the opposite coast of the [[Baltic Sea]], moving up the [[Vistula]] near the [[Carpathian Mountains]]. During [[Tacitus]]' era they included lesser-known tribes such as the [[Tencteri]], [[Cherusci]], [[Hermunduri]] and [[Chatti]]; however, a period of federation and intermarriage resulted in the familiar groups known as the [[Alemanni]], [[Franks]], [[Saxons]], [[Frisians]] and [[Thuringii|Thuringians]].<ref>Bury, Invasion, Ch. 1.</ref>
+
+=== First wave ===
+{{further|Roman Iron Age (Northern Europe)}}
+{{See also|Ostrogoths|Visigoths|Burgundians|Alans|Lombards|Angles (tribe)|Saxons|Jutes|Suebi|Alemanni|Gepids|Vandals}}
+[[File:Bracteate from Funen, Denmark (DR BR42).jpg|thumb|upright|A Migration Period Germanic gold [[bracteate]] depicting a bird, horse, and stylized human head with a [[Suebian knot]]]]
+
+The first wave of invasions, between AD&nbsp;300 and 500, is partly documented by Greek and Latin historians but is difficult to verify archaeologically. It puts Germanic peoples in control of most areas of what was then the [[Western Roman Empire]].{{sfn|Halsall|2006a|p=51}}
+
+The [[Thervingi|Tervingi]] crossed the [[Danube]] into Roman territory after a clash with the [[Huns]] in 376. Some time later in [[Marcianopolis]], the escort to their leader [[Fritigern]] was killed while meeting with [[Lupicinus (comes per Thracias)|Lupicinus]].{{Sfn |Wolfram|2001|pp=127ff.}} The Tervingi rebelled, and the Visigoths, a group derived either from the Tervingi or from a fusion of mainly [[Goths|Gothic]] groups, eventually invaded Italy and [[Sack of Rome (410)|sacked Rome in 410]] before settling in Gaul. Around 460, they founded the [[Visigothic Kingdom]] in Iberia. They were followed into Roman territory first by a confederation of [[Heruli]]an, [[Rugii|Rugian]], and [[Sciri|Scirian]] warriors under [[Odoacer]], that deposed [[Romulus Augustulus]] in 476, and later by the [[Ostrogoths]], led by [[Theodoric the Great]], who settled in Italy. 
+
+In [[Gaul]], the Franks (a fusion of western [[List of ancient Germanic peoples|Germanic tribes]] whose leaders had been aligned with Rome since the 3rd century) entered Roman lands gradually during the 5th century, and after consolidating power under [[Childeric I|Childeric]] and his son [[Clovis I|Clovis's]] decisive victory over [[Syagrius]] in 486, established themselves as rulers of northern Roman Gaul. Fending off challenges from the Alemanni, Burgundians, and Visigoths, the [[Francia|Frankish kingdom]] became the nucleus of what would later become France and Germany. 
+
+The initial [[Anglo-Saxon settlement of Britain]] occurred during the 5th century, when [[Roman Britain|Roman control of Britain]] had come to an end.{{Sfn|Dumville|1990}} The Burgundians settled in northwestern Italy, Switzerland and Eastern France in the 5th century.
+
+=== Second wave ===
+{{See also|Early Slavs|Slavic migrations to the Balkans|Pannonian Avars|Magyars|Bulgars}}
+[[File:The origin and dispersion of Slavs in the 5-10th centuries.png|thumb|Migration of [[early Slavs]] in Europe between the 5th–10th centuries]]
+[[File:Old Great Bulgaria and migration of Bulgarians.png|thumb|Migration and settlement of the [[Bulgars]] during the 6th–7th centuries AD]]
+[[File:Pair of radiate-head bow brooches, Slavic, 2 of 2, c. 600-650 AD, copper alloy, gilding - Morgan Library & Museum - New York City - DSC06620.jpg|thumb|upright|Slavic [[Fibula (brooch)|fibula brooch]] made of [[copper]] dating back to the Migration Period, {{Circa|600}}-650 AD]] 
+
+Between AD&nbsp;500 and 700, Slavic tribes settled more areas of central Europe and pushed farther into southern and eastern Europe, gradually making the eastern half of Europe predominantly Slavic.<ref name=kob530>Zbigniew Kobyliński. "The Slavs" in Paul Fouracre. ''The New Cambridge Medieval History'', pp.&nbsp;530–537</ref> Additionally, [[Turkic peoples|Turkic]] tribes such as the Avars and later [[Ugric languages|Ugric]] Magyars became involved in this second wave. In AD&nbsp;567, the Avars and the [[Lombards]] destroyed much of the [[Gepids|Gepid Kingdom]]. The Lombards, a Germanic people, settled in Italy with their Herulian, Suebian, Gepid, Thuringian, Bulgar, [[Sarmatians|Sarmatian]] and [[Saxons|Saxon]] allies in the 6th century.<ref name="DBI">Bertolini 1960, pp. 34–38.</ref><ref>Schutz 2002, p. 82</ref> They were later followed by the [[Bavarian dynasty|Bavarians]] and the Franks, who conquered and ruled most of Italy.
+
+The Bulgars, originally a nomadic group probably from [[Central Asia]], occupied the [[Pontic–Caspian steppe|Pontic steppe]] north of [[Caucasus]] since the 2nd century, but later, pushed by the [[Khazars]], the majority of them migrated west and dominated [[Byzantine Empire|Byzantine]] territories along the [[First Bulgarian Empire|lower Danube]] in the 7th century. From that time the demographic picture of the [[Balkans]] changed permanently, becoming predominantly Slavic, while pockets of native people survived in the mountains of the Balkans.<ref>Fine, John Van Antwerp (1983), ''The Early Medieval Balkans'', University of Michigan Press, {{ISBN|0-472-08149-7}}, p. 31.</ref><ref>The Miracles of Saint Demetrius</ref>
+
+During the early [[Arab–Byzantine wars|Byzantine–Arab Wars]], [[Rashidun army|Arab armies]] attempted to invade southeast Europe via [[Anatolia|Asia Minor]] during the late 7th and early 8th centuries but were defeated at the [[siege of Constantinople (717–718)]] by the joint forces of Byzantium and the Bulgars. During the [[Arab–Khazar wars|Khazar–Arab Wars]], the [[Khazars]] stopped the [[Early Muslim conquests|Arab expansion]] into Europe across the Caucasus (7th and 8th centuries). At the same time, the Moors (consisting of [[Arabs]] and [[Berbers]]) invaded Europe via [[Gibraltar]] ([[Umayyad conquest of Hispania|conquering Hispania]] from the Visigothic Kingdom in 711), before being halted by the Franks at the [[Battle of Tours]] in Gaul. These battles broadly demarcated the frontiers between [[Christendom]] and [[Muslim world|Islam]] for the next millennium. The following centuries saw the Muslims successful in [[History of Islam in southern Italy|conquering most of Sicily]] from the Christians by 902.
+
+The [[Hungarian conquest of the Carpathian Basin]] from around AD&nbsp;895 and the following [[Hungarian invasions of Europe]] and the [[Viking expansion]] from the late 8th century conventionally mark the last large movements of the period. Christian missionaries [[Christianization#Christianization of Europe (6th–9th centuries)|gradually converted]] the non-Islamic newcomers and integrated them into the Christendom. 
+
+== Discussions ==
+=== Barbarian identity ===
+{{Main|Barbarians}}
+
+Analysis of barbarian [[Cultural identity|identity]] and how it was created and expressed during the Barbarian Invasions has elicited discussion among scholars. [[Herwig Wolfram]], a historian of the Goths,<ref>Wolfram, Thomas J. Dunlap, tr. ''History of the Goths'' (1979) 1988:5</ref> in discussing the equation of ''migratio gentium'' with ''{{lang|de|Völkerwanderung}}'', observes that {{ill|Michael Ignaz Schmidt|de|lt=Michael Schmidt}} introduced the equation in his 1778 history of the Germans. Wolfram observed that the significance of ''[[gens]]'' as a biological community was shifting, even during the [[early Middle Ages]] and that "to complicate matters, we have no way of devising a terminology that is not derived from the concept of [[nationhood]] created during the [[French Revolution]]".
+
+The "primordialistic"<ref>Anthony D. Smith, ''The Ethnic Origins of Nations'' (Oxford, 1966) pp. 6ff., coined the term to separate these thinkers from those who view ethnicity as a situational construct, the product of history, rather than a cause, influenced by a variety of political, economic and cultural factors.</ref> paradigm prevailed during the 19th century. Scholars, such as German linguist [[Johann Gottfried Herder]], viewed tribes as coherent biological (racial) entities, using the term to refer to discrete ethnic groups.{{sfn|Geary|2006|p=29}} He also believed that the ''Volk'' were an organic whole, with a core identity and spirit evident in art, literature and language. These characteristics were seen as intrinsic, unaffected by external influences, even conquest.{{sfn|Kulikowski|2007|p=46}} Language, in particular, was seen as the most important expression of ethnicity. They argued that groups sharing the same (or similar) language possessed a common identity and ancestry.<ref>That was influenced by the 'family tree' model (''{{lang|de|Stammbaun}}'') of linguistics in that relationships between related languages were seen to be the result of derivation from a [[common descent|common ancestor]]. The model still is very influential in linguistics</ref> This was the [[Romanticism|Romantic]] ideal that there once had been a single German, Celtic or Slavic people who originated from a common homeland and spoke a [[lingua franca|common tongue]], helping to provide a [[conceptual framework]] for [[political movement]]s of the 18th and 19th centuries such as [[Pan-Germanism]] and [[Pan-Slavism]].{{sfn|Kulikowski|2007|p=46}}
+
+From the 1960s, a reinterpretation of archaeological and historical evidence prompted scholars, such as Goffart and Todd, to propose new models for explaining the construction of barbarian identity. They maintained that no sense of shared identity was perceived by the ''Germani'';<ref name="Halsall 2008 17">{{harvtxt|Halsall|2008|p=17}}</ref><ref>{{harvtxt|Todd|pp=8–10}} There is no indication that the Germani possessed a feeling that they were a "separate people, nation, or group of tribes"</ref>{{sfn|Geary|2006|p=29}} a similar theory having been proposed for Celtic and Slavic groups.<ref>For example, ''The Celtic World'', Miranda Green (1996), p. 3 and ''The Making of the Slavs''. Floring Curta (2001)</ref>
+
+A theory states that the primordialist mode of thinking was encouraged by a ''[[prima facie]]'' interpretation of [[Greco-Roman world|Graeco-Roman]] sources, which grouped together many tribes under such labels as ''Germanoi'', ''Keltoi'' or ''Sclavenoi'', thus encouraging their perception as distinct peoples. Modernists argue that the uniqueness perceived by specific groups was based on common political and [[economic interest]]s rather than biological or racial distinctions. Indeed, on this basis, some schools of thought in recent scholarship urge that the concept of ''Germanic'' peoples be jettisoned altogether.<ref name ="Halsall 2008 24">{{harvtxt|Halsall|2008|p=24}}</ref><ref>{{harvtxt|Friedrich & Harland|2020|}}</ref>
+
+The role of language in constructing and maintaining group identity can be ephemeral since large-scale language shifts occur commonly in history.<ref>''Archaeology and Language: Correlating Archaeological and Linguistic Hypotheses''. "The Eurasian Spread Zone and the Indo-European Dispersal." [[Johanna Nichols]]. p. 224</ref> Modernists propose the idea of "imagined communities"; the barbarian polities in late antiquity were social constructs rather than unchanging lines of blood kinship.{{sfn|Kulikowski|2007|p=48}} The process of forming tribal units was called "[[ethnogenesis]]", a term coined by [[Soviet Union|Soviet]] scholar [[Yulian Bromley]].<ref>{{harvtxt |Halsall|2008|p=15}}</ref> The [[Vienna School of History|Austrian school]] (led by [[Reinhard Wenskus]]) popularized this idea, which influenced medievalists such as Herwig Wolfram, [[Walter Pohl]] and [[Patrick J. Geary]].<ref name="Halsall 2008 17" /> It argues that the stimulus for forming tribal polities was perpetuated by a small nucleus of people, known as the ''{{lang|de|Traditionskern}}'' ("kernel of tradition"), who were a military or aristocratic elite. This core group formed a standard for larger units, gathering adherents by employing amalgamative metaphors such as kinship and aboriginal commonality and claiming that they perpetuated an ancient, divinely-sanctioned lineage.<ref name="harvtxt|Geary|2003|p = 77">{{harvtxt|Geary|2003|p=77}}</ref>
+
+<blockquote>The common, track-filled map of the ''{{lang|de|Völkerwanderung}}'' may illustrate such [a] course of events, but it misleads. Unfolded over long periods of time, the changes of position that took place were necessarily irregular&nbsp;... (with) periods of emphatic discontinuity. For decades and possibly centuries, the tradition bearers idled, and the tradition itself hibernated. There was ample time for forgetfulness to do its work.{{sfn|Wood|2006|p=97}}</blockquote>
+
+=== Viewpoints ===
+{{Blockquote
+|text=''Völkerwanderung'' is a German word, borrowed from German historiography, that refers to the early migrations of the Germanic peoples. In a broader sense it can mean the mass migration of whole tribes or ethnic groups.
+|source=Bell-Fialkoff, Andrew. ''The Role of Migration'', p. 15
+}}
+[[File:East-Hem 100ad.jpg|thumb|270px|Location of [[Xiongnu]] and other steppe nations in 100 AD. Some historians believe that the [[Huns]] originated from the Xiongnu.]]
+Rather than "invasion", German and Slavic scholars speak of "migration" (see {{lang-de|Völkerwanderung}}, {{lang-cs|Stěhování národů}}, {{lang-sv|folkvandring}} and {{lang-hu|népvándorlás}}), aspiring to the idea of a dynamic and "wandering [[Indo-European languages|Indo-Germanic]] people".{{sfn|Halsall|2006b|p=236}}
+
+In contrast, the standard terms in French and Italian historiography translate to "barbarian invasions", or even "barbaric invasions" ({{lang-fr|Invasions barbares}}, {{lang-it|Invasioni barbariche}})
+
+Historians have postulated several explanations for the appearance of "barbarians" on the Roman frontier: climate change, weather and crops, [[population pressure]], a "primeval urge" to push into the Mediterranean, the construction of the [[Great Wall of China]] causing a "domino effect" of tribes being forced westward, leading to the Huns falling upon the Goths who, in turn, pushed other Germanic tribes before them.<ref>Wright, David Curtis (1997). "The Hsiung-Nu-Hun Equation Revisited". ''Eurasian Studies Yearbook''. 69: 77–112.</ref> In general, French and Italian scholars have tended to view this as a catastrophic event, the destruction of a civilization and the beginning of a "Dark Age" that set Europe back a millennium.{{sfn|Halsall|2006a|p=35}} In contrast, German and English historians have tended to see Roman–Barbarian interaction as the replacement of a "tired, effete and decadent Mediterranean civilization" with a "more virile, martial, Nordic one".{{sfn|Halsall|2006a|p=35}}
+[[File:Barbarian invasions from 3rd century.png|thumb|270px|Barbarian invasions against the Roman Empire in the 3rd&nbsp;century]]
+The scholar [[Guy Halsall]] has seen the barbarian movement as the result of the fall of the Roman Empire, not its cause.{{sfn|Halsall|2006a|p=35}} Archaeological discoveries have confirmed that Germanic and Slavic tribes were settled agriculturalists who were probably merely "drawn into the politics of an empire already falling apart for quite a few other causes".{{sfn|Heather|2006|p=247}} Goffart argues that the process of settlement was connected to ''hospitalitas'', the Roman practice of quartering soldiers among the civilian population. The Romans, by granting land and the right to levy taxes to allied (Germanic) armies, hoped to reduce the financial burdens of the empire.<ref>{{cite book |last1=Henri J. M. Claessen, Jarich Gerlof Oosten |title=Ideology and the Formation of Early States |date=1996 |publisher=BRILL |isbn=9789004104709 |page=222}}</ref> The [[Crisis of the Third Century]] caused significant changes within the Roman Empire in both its western and its eastern portions.<ref>{{harvtxt|Curta|2001|p=120}} "[T]he archaeological evidence of late fourth- and fifth-century barbarian graves between the Rhine and Loire suggests that a process of small-scale cultural and demographic change took place on both sides of the Roman frontier. Can we envisage Roman-Slavic relations in a similar way?"</ref> In particular, economic fragmentation removed many of the political, cultural and economic forces that had held the empire together.{{sfn|Halsall|2006a|p=42}}
+
+The rural population in Roman provinces became distanced from the metropolis, and there was little to differentiate them from other peasants across the Roman frontier. In addition, Rome increasingly used foreign mercenaries to defend itself. That "barbarisation" parallelled changes within [[Barbaricum]]. To this end, noted linguist Dennis Howard Green wrote, "the first centuries of our era witness not merely a progressive Romanisation of barbarian society, but also an undeniable barbarisation of the Roman world."{{sfn|Green|1998|p=143}} 
+
+For example, the Roman Empire played a vital role in building up barbarian groups along its frontier. Propped up with imperial support and gifts, the armies of allied barbarian chieftains served as buffers against other, hostile, barbarian groups. The disintegration of Roman [[economic power]] weakened groups that had come to depend on Roman gifts for the maintenance of their own power. The arrival of the Huns helped prompt many groups to invade the provinces for economic reasons.{{sfn|Halsall|2006a|p=49}}
+
+[[File:Europe and the Near East at 476 AD.png|thumb|270px|[[Barbarian kingdoms]] and peoples after the end of the [[Western Roman Empire]] in 476 AD]]
+The nature of the barbarian takeover of former Roman provinces varied from region to region. For example, in [[Aquitaine]], the provincial administration was largely self-reliant. Halsall has argued that local rulers simply "handed over" military rule to the [[Ostrogoths]], acquiring the identity of the newcomers.{{sfn|Halsall|2006a|p=51}} In [[Gaul]], the collapse of imperial rule resulted in anarchy: the Franks and [[Alamanni|Alemanni]] were pulled into the ensuing "power vacuum",{{sfn|Halsall|2006a|p=50}} resulting in conflict. In Spain, local aristocrats maintained independent rule for some time, raising their own armies against the [[Vandals]]. Meanwhile, the Roman withdrawal from lowland England resulted in conflict between [[Saxons]] and the [[Celtic Britons|Brittonic]] chieftains (whose centres of power retreated westward as a result). The [[Eastern Roman Empire]] attempted to maintain control of the Balkan provinces despite a thinly-spread imperial army relying mainly on local militias and an extensive effort to refortify the Danubian ''[[Limes (Roman Empire)|limes]]''. The ambitious fortification efforts collapsed, worsening the impoverished conditions of the local populace and resulting in colonization by Slavic warriors and their families.<ref>{{harvtxt|Curta|2001|pp=120–180}}</ref>
+
+Halsall and Noble have argued that such changes stemmed from the breakdown in Roman political control, which exposed the weakness of local Roman rule. Instead of large-scale migrations, there were military takeovers by small groups of warriors and their families, who usually numbered only in the tens of thousands. The process involved active, conscious decision-making by Roman provincial populations.
+
+The collapse of centralized control severely weakened the sense of Roman identity in the provinces, which may explain why the provinces then underwent dramatic cultural changes even though few barbarians settled in them.{{sfn|Halsall|2006a|pp=50–52}} Ultimately, the Germanic groups in the [[Western Roman Empire]] were accommodated without "dispossessing or overturning indigenous society", and they maintained a structured and hierarchical (but attenuated) form of Roman administration.{{sfn|Heather|2006|p=251}}
+
+Ironically, they lost their unique identity as a result of such an  accommodation and were absorbed into Latinhood. In contrast, in the east, Slavic tribes maintained a more "spartan and egalitarian"<ref>{{harvtxt|Barford|2001|p=46}}</ref> existence bound to the land "even in times when they took their part in plundering Roman provinces".<ref>{{harvtxt|Pohl1998|p=20}}</ref> Their organizational models were not Roman, and their leaders were not normally dependent on Roman gold for success. Thus they arguably had a greater effect on their region than the Goths, the Franks or the [[Saxons]] had on theirs.<ref>{{harvtxt|Geary|2003|p=146}}</ref>
+
+=== Ethnicity ===
+Based on the belief that particular types of artifacts, elements of personal adornment generally found in a funerary context, are thought to indicate the [[ethnicity]] of the person buried, the "Culture-History" school of archaeology assumed that archaeological cultures represent the ''{{lang|de|[[Urheimat]]}}'' (homeland) of tribal polities named in historical sources.<ref>{{harvtxt|Pohl|1998|pp=17–23}}</ref> As a consequence, the shifting extensions of material cultures were interpreted as the expansion of peoples.{{sfn|Kulikowski|2007|p=61}}
+
+Influenced by [[social constructionism|constructionism]], process-driven archaeologists rejected the [[culture-historical archaeology|culture-historical]] doctrine{{sfn|Kulikowski|2007|p=61}} and marginalized the discussion of ethnicity altogether and focused on the intragroup dynamics that generated such material remains. Moreover, they argued that adoption of new cultures could occur through trade or internal political developments rather than only military takeovers.
+
+== Depiction in media ==
+* ''[[Terry Jones' Barbarians]]'', a 4-part TV documentary series first broadcast on BBC 2 in 2006
+* ''[[Rome: Total War: Barbarian Invasion]]'' and ''[[Total War: Attila]]'', strategy games by ''[[The Creative Assembly]]''
+* ''[[Barbarians (miniseries)]]'', a documentary miniseries on [[History (U.S. TV channel)|The History Channel]]
+
+== See also ==
+* [[Bond event]]
+* [[Dark Ages (historiography)]]
+* [[Environmental migrant]]
+* [[Genetic history of the British Isles]]
+* [[Late antiquity|Late Antiquity]]
+* [[Medieval demography]]
+* [[Migration Period art]]
+* [[Five Barbarians]] and [[Sixteen Kingdoms]]
+* [[Hephthalite Empire]]
+* [[Immigration]]
+* [[Turkic migration]]
+* [[Middle Ages]]
+{{notelist}}
+
+== References ==
+{{Reflist|20em}}
+
+== Bibliography ==
+{{refbegin|30em|indent=yes}}
+* {{Cite book|last = Barford|first = Paul M|year = 2001|publisher = Cornell University Press|title = The Early Slavs: Culture and Society in Early Medieval Eastern Europe|isbn = 0-8014-3977-9}}
+* {{Cite book|editor-last=Bell-Fialkoff|editor-first=Andrew|title=The Role of Migration in the History of the Eurasian Steppe: Sedentary Civilization vs. 'Barbarian' and Nomad (Role Migrant History Eurasian Step)|publisher=Macmillan|location=Basingstoke|isbn=978-1-349-61839-2|year=2000}}
+* Börm, Henning (2013), ''Westrom. Von Honorius bis Justinian'', [[Kohlhammer Verlag]], {{ISBN|978-3-17-023276-1}}
+* {{Cite book|last=Curta|first=Florin|author-link=Florin Curta|title=The Making of the Slavs: History and Archaeology of the Lower Danube Region, c. 500–700|year=2001|location=Cambridge|publisher=Cambridge University Press|url=https://books.google.com/books?id=rcFGhCVs0sYC|isbn=978-1-139-42888-0}}
+* {{Cite book|last=Curta|first=Florin|author-link=Florin Curta|title=Southeastern Europe in the Middle Ages, 500–1250|year=2006|location=Cambridge|publisher=Cambridge University Press|url=https://archive.org/details/southeasterneuro0000curt|url-access=registration|isbn=978-0-521-81539-0}}
+* {{Cite book|last = Dumville|first = David|year = 1990|title = Histories and pseudo-histories of the insular Middle Ages|place = Aldershot, Hampshire|publisher = Variorum}}
+* Friedrich, Matthias and Harland, James M., eds. (2020): Interrogating the "Germanic": A Category and its Use in Late Antiquity and the Early Middle Ages. De Gruyter. {{ISBN|978-3-11-069976-0}}.
+* {{Cite book|last = Geary|first = Patrick|year = 2003|publisher = Princeton Paperbacks|title = Myth of Nations. The Medieval Origins of Europe|isbn = 0-691-11481-1|url-access = registration|url = https://archive.org/details/mythofnationsmed0000gear}}
+* {{Cite book|last=Geary|first=Patrick|chapter=The crisis of European identity|title=From Roman Provinces to Medieval Kingdoms|year=2006|editor=Thomas F.X. Noble|place=New York and London |publisher=Routledge|isbn=0-415-32742-3}}
+* {{cite book | last1 = Green | first1 = D. H. | author-link1 = Dennis Howard Green | year = 1998 | title = [[Language and history in the early Germanic world]] | location = Cambridge and New York | publisher = Cambridge University Press| isbn = 978-0-521-79423-7}}
+* {{Cite book|last=Halsall|first=Guy|chapter=The Barbarian invasions|year=2006a|editor=Paul Fouracre|publisher=Cambridge University Press|title=The New Cambridge Medieval History, Vol. 1: c. 500 – c. 700|isbn = 0-521-36291-1}}
+* {{Cite book|last=Halsall|first=Guy|chapter=Movers and shakers: the barbarians and the fall of Rome|title=From Roman Provinces to Medieval Kingdoms|year=2006b|editor=Thomas F.X. Noble|place=New York and London |publisher=Routledge|isbn=0-415-32742-3}}
+* {{Cite book|last = Halsall|first = Guy|year = 2008|publisher = Cambridge University Press|title = Barbarian Migrations and the Roman West, 376–568|isbn = 978-0-521-43491-1}}
+* {{Cite book|last = Heather|first = Peter J|year = 1998|publisher = Wiley-Blackwell|title = The Goths|isbn = 0-631-20932-8}}
+* {{Cite book|last=Heather|first=Peter|chapter=Foedera and foederati of the fourth century|title=From Roman Provinces to Medieval Kingdoms|year=2006|editor=Thomas F.X. Noble|place=New York and London |publisher=Routledge|isbn=0-415-32742-3}}
+* Kleineberg, A.; Marx, Chr.; Knobloch, E.; Lelgemann, D.: Germania und die Insel Thule. Die Entschlüsselung von Ptolemaios' "Atlas der Oikumene". WBG 2010. {{ISBN|978-3-534-23757-9}}.
+* {{cite book|last = Kulikowski|first = Michael|year = 2007|publisher = Cambridge University Press|title = Rome's Gothic Wars: From the Third Century to Alaric|isbn = 978-0-521-84633-2}}
+* {{Cite book|editor-last= Noble|editor-first=Thomas F.X.|title = From Roman Provinces to Medieval Kingdoms|year = 2006|publisher = Routledge|isbn = 0-415-32742-3}}
+* {{Cite book|last1 = Pohl|first1 = Walter|year = 1998|editor1-last = Little|editor1-first = Lester K|editor2-last = Rosenwein|editor2-first = Barbara|publisher = Wiley-Blackwell|title = Debating the Middle Ages: Issues and Readings|chapter = Conceptions of Ethnicity in Early Medieval Studies|isbn = 1-57718-008-9|chapter-url-access = registration|chapter-url = https://archive.org/detail/debatingmiddleag0000unse}}
+* {{Cite book|last = Todd|first = Malcolm|publisher = Blackwell Publishing|title = The Early Germans|isbn = 0-631-19904-7|date = 1996-02-12}}
+* {{Cite book|last = Wolfram|first = Herwig|year = 2001|title = Die Goten. Von den Anfängen bis zur Mitte des sechsten Jahrhunderts|location = München|publisher = C. H. Beck}}
+* {{cite book|last=Wood|first=Ian|chapter=Defining the Franks: Frankish origins in early medieval historiography|title=From Roman Provinces to Medieval Kingdoms|year=2006|editor=Thomas F.X. Noble|place=New York and London|publisher=Routledge|isbn=0-415-32742-3}}
+{{refend}}
+
+== External links ==
+* {{Commons category-inline|Migration period}}
+
+{{Barbarian kingdoms}}
+{{Timeline of the history of Scandinavia}}
+{{Germanic peoples}}
+{{Middle Ages}}
+{{History of Europe}}
+{{Authority control}}
+[[Category:Historical migrations]]
+[[Category:Migration Period| ]]
+[[Category:Historiography]]
+[[Category:Germanic history]]
+[[Category:Indo-European history]]
+[[Category:Germanic archaeology]]
+[[Category:1st millennium in Europe]]
+[[Category:1st millennium in Asia]]
+[[Category:1st millennium in Africa]]
+[[Category:Historical eras]]
+[[Category:Dark ages]]

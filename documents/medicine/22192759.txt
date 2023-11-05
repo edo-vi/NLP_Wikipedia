@@ -1,0 +1,52 @@
+'''Lois Privor-Dumm''' is an expert in the field of vaccine introduction.  She is especially recognized for her work with new vaccine introduction, which has included strategies to accelerate access in [[low-income country|low]] and [[middle-income countries]], policy research, advocacy, communications and large country introduction.
+
+She has worked with countries in all income groups and has leveraged her experiences in high and middle income countries to contribute to the significant recent improvements in access in low and low-middle income countries. She currently serves as the Director of Alliances & Information at the International Vaccine Access Center (IVAC) at the [[Johns Hopkins Bloomberg School of Public Health]]. Her  team conducts advocacy and communications for child health, coordination of the World Pneumonia Day Coalition and working with large countries such as India and Nigeria to provide technical assistance in the form of advocacy and communications, evidence synthesis, stakeholder mapping and research to help countries develop strategies to address the barriers to decision making and implementation for new vaccines.{{citation needed|date=March 2012}}
+
+Her team has worked closely with a variety of stakeholders in India and Nigeria and is focused on building both high-level political and grassroots support. She is currently leading projects in India and Nigeria made possible through grants from the [[GAVI Alliance]] and [[Bill & Melinda Gates Foundation]].{{cn|date=July 2023}}
+
+She is a member of the GAVI Large Country Task Team and the PDP Access Steering Committee and has worked on a number of access related projects dealing with economics and financing, supply, distribution and demand forecasting in addition to her work with advocacy, communications and policy.<ref>{{cite web|url=http://www.jhsph.edu/ivac |title=IVAC - International Vaccine Access Center - Johns Hopkins Bloomberg School of Public Health |publisher=Jhsph.edu |date= |accessdate=2012-08-04}}</ref><ref>{{cite web |url=http://www.gavialliance.org |title=GAVI Alliance |publisher=GAVI Alliance |date= |accessdate=2012-08-04 |archive-url=https://web.archive.org/web/20140820234029/http://www.gavialliance.org/ |archive-date=2014-08-20 |url-status=dead }}</ref><ref>{{cite web|url=http://www.gatesfoundation.org/Pages/home.aspx |title=Bill & Melinda Gates Foundation |publisher=Gatesfoundation.org |accessdate=October 13, 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20121012112446/http://www.gatesfoundation.org/Pages/home.aspx |archivedate=October 12, 2012 }}</ref>
+
+==Background and education==
+Ms. Privor-Dumm holds an International MBA (IMBA), formerly Masters in International Business (MIBS), from the [[University of South Carolina]] and completed her studies and internship in Brussels, Belgium. She completed her undergraduate studies at the [[University at Albany]] in Business Administration (Finance) and Spanish.{{citation needed|date=March 2012}}
+
+==Early career==
+Ms. Privor-Dumm spent years in the vaccine industry working for Wyeth, where she helped lead efforts to launch [[Prevnar]] (pneumococcal conjugate vaccine) in the US, achieving unprecedented uptake of a new pediatric vaccine.  Following the successful US experience, she worked as Commercial Director for the Latin American countries to introduce pneumococcal and meningococcal vaccines.  Later she worked as Senior Director for Commercial Operations in Europe, the Middle East, and Africa providing guidance to countries to build awareness about Wyeth's vaccines and pharmaceuticals in the scientific community, supporting efforts with policy makers regarding the introduction of new vaccines and providing marketing and operational expertise to support ongoing business.  She also worked at GlaxoSmithkline as director for global commercial strategy for various projects.{{citation needed|date=March 2012}}
+
+==Johns Hopkins Bloomberg School of Public Health==
+In 2005, she joined The Johns Hopkins Bloomberg School of Public Health to lead Communications & Strategy for the Hib Initiative, a GAVI-funded project with an aim to accelerate and sustain decisions regarding Hib vaccines to help prevent meningitis and pneumonia in children. Now serving as Director of Alliances and Information for IVAC, she has been cited as an expert for different global vaccine campaigns and been involved in research and promotion of vaccine awareness. She has been interviewed by Developments Magazine<ref>{{cite web|author=Heart Internet |url=http://www.developments.org.uk/articles/health-benefits/ |title=Web Hosting, Reseller Hosting & Domain Names from Heart Internet |publisher=Developments.org.uk |date= |accessdate=2012-08-04}}</ref> and African Press International<ref>{{cite web|url=http://africanpress.wordpress.com/2009/08/22/gambia-pneumococcal-immunization-campaign-underway/ |title=GAMBIA: Pneumococcal immunization campaign underway « African Press International (API) |publisher=Africanpress.wordpress.com |date=2009-08-22 |accessdate=2012-08-04}}</ref> about the availability of pneumonia related vaccines in African countries.
+
+Ms. Privor-Dumm has also worked on different communication tools regarding the availability of vaccines in developing countries<ref>{{cite web|url=http://www.jhsph.edu/vaccineinitiative/about/Our_People/JHVI_Vaccine_Day_2008_Posters |title=JHVI Vaccine Day 2008 Posters |publisher=Jhsph.edu |date= |accessdate=2012-08-04}}</ref> in order to raise awareness about the value of pneumococcal and Hib vaccinations to prevent pneumonia and reach [[Millennium Development Goals]] 4 by 2015.<ref>[http://preventpneumo.org/documents/isppd6/COMMS_POSTER_3.pdf "Perceptions of New Vaccines in Six Countries."] {{webarchive|url=https://web.archive.org/web/20110727185143/http://preventpneumo.org/documents/isppd6/COMMS_POSTER_3.pdf |date=2011-07-27 }} Preventpneumo.org.</ref>
+
+==Research==
+
+===AVI-TAC===
+The mission of the Accelerated Vaccine Introduction Initiative (AVI) is to save lives, prevent disease and promote health through timely and equitable access to new and underused
+vaccines. Together, AVI partners serve to:
+* Empower countries to make evidence-based decisions on new and underused vaccines.
+* Support successful country introduction and sustained use of new and underused vaccines.
+* Contribute analyses and assess impact of GAVI Alliance (GAVI) policies that influence accelerated introduction of new and underused vaccines.
+* Ensure sufficient supply of new and underused vaccines of assured quality and meeting  programmatic needs of developing countries.{{citation needed|date=March 2012}}
+
+The Accelerated Vaccine Initiative Technical Advisory Consortium (AVI TAC) supports the achievement of AVI objectives through its leadership in creating the evidence base, advocating for evidence-driven decision-making, and building platform capacity that can be used to accelerate the introduction of future vaccines.{{cn|date=March 2022}}
+
+==Publications==
+* {{cite journal |pages=7123–9 |doi=10.1016/j.vaccine.2010.07.028 |title=Supporting new vaccine introduction decisions: Lessons learned from the Hib Initiative experience |year=2010 |last1=Hajjeh |first1=R.A. |last2=Privor-Dumm |first2=L. |last3=Edmond |first3=K. |last4=o’Loughlin |first4=R. |last5=Shetty |first5=S. |last6=Griffiths |first6=U.K. |last7=Bear |first7=A.P. |last8=Cohen |first8=A.L. |last9=Chandran |first9=A. |last10=Schuchat |first10=A. |last11=Mulholland |first11=E.K. |last12=Santosham |first12=M. |journal=Vaccine |volume=28 |issue=43 |pmid=20659515|display-authors=8 }}
+* {{cite journal |doi=10.1016/j.vaccine.2010.11.090 |title=Rethinking the benefits and costs of childhood vaccination: The example of the Haemophilus influenzae type b vaccine |year=2011 |last1=Bärnighausen |first1=Till |last2=Bloom |first2=David E. |last3=Canning |first3=David |last4=Friedman |first4=Abigail |last5=Levine |first5=Orin S. |last6=o’Brien |first6=Jennifer |last7=Privor-Dumm |first7=Lois |last8=Walker |first8=Damian |journal=Vaccine |volume=29 |issue=13 |pages=2371–80 |pmid=21159324}}
+* {{cite journal |doi=10.4161/hv.6.12.13076 |title=A policy framework for accelerating adoption of new vaccines |year=2010 |last1=Levine |first1=Orin S. |last2=Hajjeh |first2=Rana |last3=Wecker |first3=John |last4=Cherian |first4=Thomas |last5=o’Brien |first5=Katherine L. |last6=Knoll |first6=Maria Deloria |last7=Privor-Dumm |first7=Lois |last8=Kvist |first8=Hans |last9=Nanni |first9=Angeline |last10=Bear |first10=Allyson P. |last11=Santosham |first11=Mathuram |journal=Human Vaccines |volume=6 |issue=12 |pages=1021–4 |pmid=21150269 |pmc=3060382|display-authors=8 }}
+* {{cite journal |pages=7117–22 |doi=10.1016/j.vaccine.2010.07.074 |title=Global use of Haemophilus influenzae type b conjugate vaccine |year=2010 |last1=Ojo |first1=Linda R. |last2=o’Loughlin |first2=Rosalyn E. |last3=Cohen |first3=Adam L. |last4=Loo |first4=Jennifer D. |last5=Edmond |first5=Karen M. |last6=Shetty |first6=Sharmila S. |last7=Bear |first7=Allyson P. |last8=Privor-Dumm |first8=Lois |last9=Griffiths |first9=Ulla K. |last10=Hajjeh |first10=Rana |journal=Vaccine |volume=28 |issue=43 |pmid=20691265|display-authors=8 |url=https://zenodo.org/record/1259433 }}
+* [http://www.prb.org/Articles/2006/HibVaccineCouldReduceMajorChildhoodDiseases.aspx Hib Vaccine Could Reduce Major Childhood Diseases]
+* [http://www.disruptivewomen.net/author/lprivordumm/ Getting life-saving vaccines to those who need it most: the nuanced solution for access]
+* [https://web.archive.org/web/20091128031402/http://www.hsph.harvard.edu/pgda/Working%20Papers/2009/PGDA_WP_45.pdf The Economic Case for Expanding Vaccination Coverage of Children]
+* [http://www.disruptivewomen.net/author/lprivordumm/ What Happiness Looks Like: A Chance for Change on World Pneumonia Day]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Privor-Dumm, Lois}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:Vaccination]]
+[[Category:University at Albany, SUNY alumni]]
+[[Category:University of South Carolina alumni]]

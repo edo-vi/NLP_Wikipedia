@@ -1,0 +1,39 @@
+{{infobox medical equipment
+| name         = Cohesive bandage
+| acronym      = Coban
+| synonym      = Self-adhering bandage
+| image        = 
+| caption      = 
+| alt          = 
+| image_size   = 
+| specialty    = <!-- from Wikidata, can be overwritten -->
+| intervention = 
+| MedlinePlus  = 
+| eMedicine    = 
+| inventor     = 
+| invention date = 
+| manufacturer = 
+| related      = 
+}}
+A '''self-adhering bandage''' or '''cohesive bandage''' ('''coban''')<ref>Dorland's Dictionary of Medical Acronyms and Abbreviations, 7e</ref> is a type of [[bandage]] or wrap that [[Cohesion (chemistry)|coheres]] to itself but does not [[Adhesion|adhere]] well to other surfaces. 
+
+"Coban" by [[3M]] is commonly used as a wrap on limbs because it will stick to itself and not loosen. Due to its elastic qualities, coban is often used as a [[compression bandage]].<ref>{{cite book |title=Dermatology |date=2018 |publisher=Elsevier |pages=2462–2477 |edition=4}}</ref>
+
+It is used both on [[human]]s and animals. For animal use, it is marketed under a variety of [[trade name]]s such as "Vetrap" by [[3M]]. It is commonly used on [[horse]]s and other animals because it will not stick to [[hair]] so it is easily removed.<ref>{{cite web |last1=Crabbe |first1=Barb |title=Wrap Right! |url=https://horseandrider.com/health-and-advice/wrap-25717 |website=Horse&Rider |date=29 October 2014 |accessdate=23 April 2019 |language=en}}</ref><ref>{{cite web |title=Equine First Aid - Bandaging a Horse |url=https://www.horsejournals.com/horse-care/illness-injury/prevention/equine-first-aid-bandaging-horse |website=Horse Journals |accessdate=23 April 2019 |language=en |date=16 March 2015}}</ref><ref>{{cite web |last1=Barakat |first1=Christine |title=How to Wrap a Hoof Injury |url=https://equusmagazine.com/management/how-to-wrap-a-hoof-injury-8195 |website=The Horse Owner's Resource |accessdate=23 April 2019 |language=en}}</ref><!-- all three sources here can be used to expand this section of the article, if needed-->
+
+==See also==
+* [[Elastic therapeutic tape]]
+* [[Elastic bandage]]
+* [[Buddy wrapping]]
+* [[Athletic taping]]
+* [[Horse leg protection]]
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Self Adhering Bandage}}
+[[Category:Medical dressings]]
+
+
+{{medical-equipment-stub}}
+{{veterinary-med-stub}}

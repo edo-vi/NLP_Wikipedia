@@ -1,0 +1,55 @@
+'''Erlong Zuoci Wan''' ({{zh|s=耳聋左慈丸|t=耳聾左慈丸}}) is a brownish-black honeyed pill used in [[Traditional Chinese medicine]] to "replenish the kidney and subdue hyperactivity of the liver". It is used in cases where there is "deficiency of yin of the liver and the kidney marked by tinnitus, impairment of hearing, dizziness and blurred vision".<ref>State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People's Republic of China (Volume I)". Chemical Industry Press. {{ISBN|7-117-06982-1}}.</ref> It is sweet and slightly sour in taste.
+
+==Chinese classic herbal formula==
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+|Magnetitum (calcined)
+|磁石(煅)
+|  20 
+|-
+|[[Radix Rehmanniae Preparata]]
+|熟地黄
+| 160 
+|-
+|Fructus [[Cornus|Corni]] (processed)
+|山茱萸 (制)
+| 80 
+|-
+|Cortex [[Tree peony|Moutan]]
+|牡丹皮
+| 60 
+|-
+|Rhizoma [[Dioscorea|Dioscoreae]]
+| 山药
+| 80 
+|-
+|[[Wolfiporia extensa|Poria]]
+|茯苓
+| 60 
+|-
+|Rhizoma [[Alismatales|Alismatis]]
+|泽泻
+| 60 
+|-
+|Radix [[Bupleurum|Bupleuri Marginati]]
+|竹叶柴胡
+|20
+|}
+
+==See also==
+* [[Chinese classic herbal formula]]
+* [[Bu Zhong Yi Qi Wan]]
+
+==References==
+{{reflist}}
+
+{{Medicinal herbs & spices}}
+
+[[Category:Traditional Chinese medicine pills]]
+
+
+{{alt-med-stub}}

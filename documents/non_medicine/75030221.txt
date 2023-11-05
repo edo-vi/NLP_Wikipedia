@@ -1,0 +1,34 @@
+{{short description|Fossiliferous limestone from County Durham, England}}
+{{Use dmy dates|date=October 2023}}
+{{Use British English|date=October 2023}}
+[[File:Frosterley marble detail.JPG|200px|Fossil [[crinoid]]s in polished Frosterley Marble.|thumb]]
+
+'''Frosterley Marble''' is a black, [[bitumen|bituminous]] [[coral]]iferous limestone containing fossil [[crinoids]] of the [[Lower Carboniferous]] (Mississippian ), some 325 million years ago.<ref name="ncl-co-curate">{{cite web |url=https://co-curate.ncl.ac.uk/resources/view/44975/ |title=Frosterley Marble (Great Limestone, Mississippian; Rogerley Quarry, England) |publisher=University of Newcastle |access-date=11 October 2023}}</ref><ref name="lawrence">{{cite report |url=https://www.durham.gov.uk/media/3683/County-Durham-Geodiversity-Audit/pdf/CountyDurhamGeodiversityAudit.pdf |title=Durham Geodiversity Audit |last1=Lawrence |first1=D.J.D. |last2=Vye |first2=C.L. |last3=Young |first3=B.|publisher=Durham County Council |year=2004 |access-date=11 October 2023}}</ref>{{rp|40}}  It outcrops in [[Weardale]], [[County Durham]], England, including near the village of [[Frosterley]] whence it is named.
+
+==Geology==
+Unlike a true [[marble]], it is not a [[metamorphic rock]], but is so-called because it can take a fine polish. Concentrations of such corals as ''[[Dibunophyllum bipartitum]]'' and of [[brachiopod]] remains contribute to its attractiveness when sections are polished.<ref>Stone et al 2010 ''British Regional Geology: Northern England'' (5th edition) (Keyworth, Nottingham: British Geological Survey) pp238-254</ref><ref name="lawrence" />{{rp|40}}
+
+==Use==
+It is cut and polished for use as ornate stone, and was much desired for church decoration, particularly during the Middle Ages.<ref>{{cite web |url=https://weardalemuseum.org.uk/news-frosterley-marble-to-come-to-museum |title=Frosterley Marble Font to Come to the Museum |publisher=Weardale Museum |date=15 April 2020 |access-date=11 October 2023}}</ref> The decorative columns found in [[Durham Cathedral]] date from about 1350. It has been used as far afield as India, as the base of the pulpit in [[St. Thomas Cathedral, Mumbai]].<ref name="npvm">{{cite web |url=https://npvm.archaeologicalpractice.co.uk/objects/15/index.htm |title=Frosterley Marble |publisher=North Pennines AONB Partnership |year=2015 |access-date=11 October 2015}}</ref><ref>{{cite web |url=https://altogetherarchaeology.org/ReportsRD-Part1Counter.php |title=North Pennines Archaeological Research Framework: Part 1. Resource Assessment |publisher=Altogether Archaeology |year=2021 |access-date=11 October 2023}}</ref>
+
+==See also==
+*[[Geology of County Durham]]
+*{{annotated link|List of decorative stones}}
+*{{annotated link|List of types of marble}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Frosterley Marble}}
+* [https://archaeologydataservice.ac.uk/archives/view/stones_ahrb_2005/cfm/Public/details/RockDetails.cfm?RockCode=FROSTE Stone in Archaeology database]
+
+{{UK-geology-stub}}
+
+[[Category:Geology]]
+[[Category:Limestone]]
+[[Category:Geology of County Durham]]
+[[Category:Carboniferous geology]]
+[[Category:Sculpture materials]]
+[[Category:Stone (material)]]
+[[Category:Lists of rocks]]

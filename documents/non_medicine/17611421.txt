@@ -1,0 +1,25 @@
+The '''Geologic Calendar''' is a scale in which the [[geological timespan]] of the [[Earth]] is mapped onto a calendrical year; that is to say, the ''day one'' of the [[Earth]] took place on a geologic January 1 at precisely midnight, and today's date and time is December 31 at midnight.<ref name="Kentucky Geological Survey">{{cite web|title=The Geological Time Scale v.3|url= http://www.uky.edu/KGS/education/geologictimescale.pdf|date=2011|author= [[Kentucky Geological Survey]] |access-date=2013-06-03|publisher=Kentucky Geological Survey}}</ref> On this calendar, the inferred appearance of the first living single-celled organisms, [[prokaryote]]s, occurred on a geologic February 25 around 12:30{{nbsp}}pm to 1:07{{nbsp}}pm,<ref name="Geologic History Compressed into 1 Calendar Year">{{cite web|title=Geologic History Compressed into 1 Calendar Year|url=http://www.timetoast.com/timelines/63215|date=2010|access-date=2013-06-03|publisher=[http://www.timetoast.com time toast.com]}}</ref> dinosaurs first appeared on December 13, the first flower plants on December 22 and the first primates on December 28 at about 9:43{{nbsp}}pm. The first [[anatomically modern humans]] did not arrive until around 11:48&nbsp;p.m. on New Year's Eve, and all of human history since the [[Holocene|end of the last ice-age]] occurred in the last 82.2 seconds before midnight of the new year. 
+
+A variation of this analogy instead compresses Earth's 4.6 billion year-old history into a single day: While the Earth still forms at midnight, and the present day is also represented by midnight, the first life on Earth would appear at 4:00{{nbsp}}am,  dinosaurs would appear at 10:00{{nbsp}}pm, the first flowers 10:30{{nbsp}}pm, the first primates 11:30{{nbsp}}pm, and modern humans would not appear until the last two seconds of 11:59{{nbsp}}pm. 
+
+A third analogy, created by University of Washington paleontologist Peter Ward and astronomer Donald Brownlee, who are both famous for their Rare Earth hypothesis, for their book ''[[The Life and Death of Planet Earth]]'', alters the calendar so it includes the Earth's future leading up to the Sun's death in the next 5 billion years. As a result, each month now represents 1 of 12 billion years of the Earth's life. According to this calendar, the first life appears in January, and the first animals first appeared in May, with the present day taking place on May 18, even though the Sun won't destroy Earth until December 31, all animals will die out by the end of May.
+
+Use of the geologic calendar as a conceptual aid dates back at least to the mid 20th century, for example in Richard Carrington's 1956 book ''A Guide to Earth History''<ref name="Carrington">{{cite book |last=Carrington |first=Richard |date=1956 |title=A Guide to Earth History |url=https://archive.org/details/in.gov.ignca.18308/page/63/mode/2up |publisher=Penguin Books |page=64-65}}</ref> and Gove Hambidge's 1941 chapter in the book ''Climate and Man''.<ref name="Hambidge">{{cite book |last=Hambidge |first=Gove |date=1941 |title=Climate and Man |url=https://archive.org/details/yoa1941/page/7/mode/2up |page=7}}</ref> Some authors also used a similar imaginative device of compressing the entire history of the human species to a shorter period, whether a single year as in Ramsay Muir's 1940 book ''Civilization and Liberty,''<ref name="Muir">{{cite book |last=Muir |first=Ramsey |date=1940 |title=Civilization and Liberty |url=https://archive.org/details/in.ernet.dli.2015.184542/page/n13/mode/2up |publisher=Jonathan Cape |page=15}}</ref> or fifty-year span as in James Harvey Robinson's 1921 book ''The Mind in the Making''.<ref name="Robinson">{{cite book |last=Robinson |first=James Harvey |date=1921 |title=The Mind in the Making |url=https://archive.org/details/mindinmakingrela00robi/page/82/mode/2up |publisher=Harper & Brothers Publishing |page=82-83}}</ref>
+
+==See also==
+*[[Cosmic Calendar]]
+*[[Calendar]]
+
+==References==
+{{reflist}}
+
+{{Chronology}}
+
+[[Category:Units of time]]
+[[Category:Physical cosmology]]
+[[Category:Time in astronomy]]
+[[Category:Geology]]
+
+
+{{geology-stub}}
+{{time-stub}}

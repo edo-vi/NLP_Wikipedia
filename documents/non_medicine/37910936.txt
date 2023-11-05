@@ -1,0 +1,30 @@
+{{Short description|Saliva produced first thing in the morning}}
+'''Fasting spittle'''&nbsp;– [[saliva]] produced first thing in the morning, before breakfast&nbsp;– has been used to treat a wide variety of diseases for many hundreds of years. Spittle cures are usually considered to be more effective if [[fasting]] spittle is used.{{sfnp|Roud|2006|loc=wart cures: fasting spittle|ps=none}}
+
+An early recorded use of spittle as a cure comes from the [[Gospel of Mark|Gospel of St Mark]], believed to have been written in about 70&nbsp;AD:
+{{bq|text=And they bring unto him [Jesus] one that was deaf, and had an impediment in his speech&nbsp;... And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue; and saith unto him, Ephphatha, that is, Be opened. {{bibleverse||Mark|7:32–5}}}}
+Writing at about the same time as Mark, the Roman [[natural philosopher]] [[Pliny the Elder|Pliny]] commented in his ''[[Natural History (Pliny)|Natural History]]'' that fasting spittle was efficacious in the treatment of [[ophthalmia]], and that the fasting spittle of a woman was particularly beneficial for treating bloodshot eyes.{{r|OpieTatem}}
+
+==References==
+
+===Citations===
+{{reflist|refs=
+
+<ref name="OpieTatem">
+{{citation |editor1-last=Opie |editor1-first=Iona |editor2-last=Tatem |editor2-first=Moira |contribution=SPITTLE cures (usually 'fasting spittle') |title=A Dictionary of Superstitions |year=1996 |publisher=Oxford University Press |edition=online |url=http://www.oxfordreference.com/views/ENTRY.html?subview=Main&entry=t72.e133 |access-date=12 December 2012}} {{subscription required}}
+</ref>
+
+}}
+
+===Bibliography===
+{{refbegin}}
+*{{citation |last=Roud |first=Steve |title=The Penguin Guide to the Superstitions of Britain and Ireland |year=2006 |publisher=Penguin |isbn=978-0-14-051512-1}}
+{{refend}}
+
+[[Category:Folklore]]
+[[Category:Alternative medicine]]
+[[Category:Saliva]]
+
+
+{{folklore-stub}}
+{{alt-med-stub}}

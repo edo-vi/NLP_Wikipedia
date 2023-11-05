@@ -1,0 +1,59 @@
+{{Infobox beverage
+| name         = ''Gugi-cha''
+| image        =
+| caption      = ''Gugija-cha'' (goji berry tea)
+| type         = [[Herbal tea]]
+| abv          = 
+| proof        = 
+| manufacturer = 
+| distributor  = 
+| origin       = [[China]]
+| introduced   = 
+| discontinued = 
+| colour       = 
+| flavour      = 
+| ingredients  = [[Lycium chinense|Goji]] berries or leaves
+| variants     = 
+| related      = 
+| website      =
+| region       =
+}}
+{{Infobox Korean name
+| title      = Korean name
+| hangul     = {{lang|ko|구기차}}
+| hanja      = {{lang|ko-Hant|枸杞茶}}
+| rr         = gugi-cha
+| mr         = kugi-ch'a
+| koreanipa  = {{IPA-ko|ku.ɡi.tɕʰa|}}
+| othername1 = Goji berry tea
+| hangul1    = {{lang|ko|구기자차}}
+| hanja1     = {{lang|ko-Hant|枸杞子茶}}
+| rr1        = gugija-cha
+| mr1        = kugija-ch'a
+| koreanipa1 = {{IPA-ko|ku.ɡi.dʑa.tɕʰa|}}
+| othername2 = Goji leaf tea
+| hangul2    = {{lang|ko|구기엽차}}
+| hanja2     = {{lang|ko-Hant|枸杞葉茶}}
+| rr2        = gugiyeop-cha
+| mr2        = kugiyŏp-ch'a
+| koreanipa2 = {{IPA-ko|ku.ɡi.jʌp̚.tɕʰa|}}
+}}
+'''''Gugi-cha''''' ({{Korean|hangul=구기차|hanja=枸杞茶|labels=no}}) or '''goji tea''' is a traditional Chinese/Korean tea made from dried [[Lycium chinense|goji]] berries or leaves.<ref name="Doo">{{Cite web|url=https://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000717281|title=Gugi-cha|website=[[Doopedia]]|publisher=[[Doosan Corporation]]|language=ko|script-title=ko:구기차|access-date=21 August 2017}}</ref> Traditionally, the tea was made with young [[Lycium chinense|goji]] leaves.<ref name="Mun">{{Cite web|url=http://encykorea.aks.ac.kr/Contents/Index?contents_id=E0005676|title=Gugi-cha|last=문|first=범수|website=[[Encyclopedia of Korean Culture]]|publisher=[[Academy of Korean Studies]]|language=ko|script-title=ko:구기차|access-date=21 August 2017}}</ref> Today, mature leaves or, more commonly, berries are used.<ref name="Doo" /><ref name="Mun" /> The tea made with berries may be called '''''gugija-cha''''' ({{Korean|hangul=구기자차|hanja=枸杞子茶|labels=no}}) or '''goji berry tea''', while the tea made with leaves is referred to as '''''gugiyeop-cha''''' ({{Korean|hangul=구기엽차|hanja=枸杞葉茶|labels=no}}) or '''goji leaf tea'''.<ref name="Doo" />
+
+== Preparation ==
+Tea using berries is prepared with around {{Convert|20-25|g|abbr=on}} of dried goji berries simmered in two cups of water, wth various possible flavorings or sweeteners added.<ref name="Mun" /> Leaf tea may be prepared with around {{Convert|2-3|g|abbr=on}} of dried leaves  infused in a cup of hot water.<ref name="Mun" />
+
+== See also ==
+* ''[[Omija-cha]]''
+
+== References ==
+{{Reflist|30em}}
+
+[[Category:Herbal tea]]
+[[Category:Chinese tea]]
+[[Category:Korean tea]]
+[[Category:Traditional Chinese medicine]]
+
+{{alt-med-stub}}
+{{tea-stub}}
+{{Korea-cuisine-stub}}

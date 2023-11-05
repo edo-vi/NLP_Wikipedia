@@ -1,0 +1,53 @@
+{{Infobox magazine
+| title = 
+| logo = 
+| logo_size = 
+| image_file = The DO logo.jpg
+| image_size = <!-- (defaults to user thumbnail size if no size is stated) -->
+| image_alt = 
+| image_caption = 
+| editor = Vania Manipod, DO
+| editor_title = 
+| previous_editor = 
+| staff_writer = 
+| photographer = 
+| category = 
+| frequency = Monthly
+| circulation = Online publication
+| publisher = [[American Osteopathic Association]]
+| founder = 
+| founded = 
+| firstdate = 1927
+| company = 
+| country = United States
+| based = Chicago
+| language = 
+| website = {{URL|http://thedo.osteopathic.org/}}
+| issn = 
+| oclc = 
+}}
+'''''The DO''''' is a monthly online [[magazine]] published by the [[American Osteopathic Association]].<ref>{{cite web |title=News & Publications |url=http://www.osteopathic.org/inside-aoa/news-and-publications/Pages/default.aspx |publisher=American Osteopathic Association |accessdate=20 November 2012}}</ref><ref>{{cite web |title=American Osteopathic Association - AOA |url=http://www.healthfinder.gov/orgs/hr0256.htm |publisher=U.S. Department of Health and Human Services |accessdate=12 August 2012}}</ref> According to its website, the magazine "contains news of the osteopathic profession and its members, articles of professional and personal interest to osteopathic physicians (D.O.) and osteopathic medical students, legislative developments, meeting coverage, clinical updates, and an extensive listing of osteopathic continuing medical education programs."
+
+The title of the magazine refers to the initials of the degree held by [[Osteopathic medicine in the United States|osteopathic physicians in the United States]], the [[Doctor of Osteopathic Medicine]] (D.O.) degree.
+
+The magazine was established in April 1927 as ''The Forum of Osteopathy'' and obtained its current title in September 1960.<ref name=AOApublications>{{cite web |url=http://history.osteopathic.org/publications.shtml |title=Publications Communicate Osteopathic Theory and Practice |year=2006 |publisher=American Osteopathic Association |accessdate=April 19, 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120516001301/http://history.osteopathic.org/publications.shtml |archivedate=May 16, 2012 }}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|http://thedo.osteopathic.org/}}
+
+{{Osteopathic medicine3|state=collapsed}}
+
+{{DEFAULTSORT:Do, The}}
+[[Category:Monthly magazines published in the United States]]
+[[Category:Osteopathic medicine]]
+[[Category:Professional and trade magazines]]
+[[Category:Magazines established in 1927]]
+[[Category:Online magazines published in the United States]]
+[[Category:Health magazines]]
+[[Category:Magazines published in Chicago]]
+
+
+{{osteo-med-stub}}

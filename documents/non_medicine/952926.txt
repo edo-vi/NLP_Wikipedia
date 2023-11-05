@@ -1,0 +1,170 @@
+{{Short description|American philosopher}}
+{{Infobox philosopher
+| name              = Hubert Dreyfus
+| image             = Hubert Dreyfus.jpg
+| caption           = Dreyfus in 2011
+| birth_name        = Hubert Lederer Dreyfus 
+| birth_date        = {{Birth date|1929|10|15}}
+| birth_place       = [[Terre Haute, Indiana|Terre Haute]], [[Indiana]], US
+| death_date        = {{Death date and age|2017|4|22|1929|10|15}}
+| death_place       = [[Berkeley, California|Berkeley]], [[California]], US
+| alma_mater        = [[Harvard University]]
+| spouse            = Geneviève Boissier-Dreyfus<ref name=":4" />
+| school_tradition  = {{hlist | [[Continental philosophy]] | [[Phenomenology (philosophy)|phenomenology]] | [[existentialism]]}}
+| institutions      = {{ubl | [[Massachusetts Institute of Technology]] | [[University of California, Berkeley]]}}
+| thesis_title      = Husserl's Phenomenology of Perception
+| thesis_year       = 1964
+| doctoral_students = {{hlist | [[Fernando Flores]] | [[Charles Guignon]] | [[Mark Wrathall]]}}
+| notable_students  = [[Eric Kaplan]]
+| main_interests    = {{hlist | [[Philosophy of literature]] | [[philosophy of psychology]] | [[philosophy of artificial intelligence]]}}
+| notable_ideas     = {{hlist | [[Dreyfus' critique of artificial intelligence]] | [[postcognitivism]] | [[Martin Heidegger]]'s [[hermeneutic realism]]<ref>Hubert L. Dreyfus, Mark A. Wrathall (eds.), ''Heidegger Reexamined: Truth, realism, and the history of being'', Routledge, 2002, pp. 245, 274, 280</ref><ref>{{Cite book|url=http://www.oxfordscholarship.com/view/10.1093/oso/9780198796220.001.0001/oso-9780198796220-chapter-5|title=Heidegger's Hermeneutic Realism (1991)|date=2017-07-20|publisher=Oxford University Press|editor-last=Wrathall|editor-first=Mark A.|volume=1|language=en|doi=10.1093/oso/9780198796220.003.0005|isbn=978-0-19-879622-0}}</ref>}}
+| influences        = {{flatlist|
+* [[Martin Heidegger|Heidegger]]
+* [[Maurice Merleau-Ponty|Merleau-Ponty]]
+* [[Michel Foucault|Foucault]]
+}}
+| influenced        = {{flatlist|
+* [[Philosophy of artificial intelligence]]
+* [[Patricia Benner]]
+* [[Taylor Carman]]
+* [[John Haugeland]]
+* [[Sean Dorrance Kelly]]
+* [[John Richardson (philosopher)|John Richardson]]
+* [[Richard Rorty]]
+* [[John Searle]]
+* [[Charles Taylor (philosopher)|Charles Taylor]]
+* [[Iain Thomson]]
+* [[Mark Wrathall]]
+}}
+| doctoral_advisor = 
+}}
+
+'''Hubert Lederer Dreyfus''' ({{IPAc-en|ˈ|d|r|aɪ|f|ə|s}} {{respell|DRY|fəs}}; October 15, 1929 – April 22, 2017) was an American [[philosopher]] and professor of philosophy at the [[University of California, Berkeley]]. His main interests included [[Phenomenology (philosophy)|phenomenology]], [[existentialism]] and the philosophy of both [[psychology]] and [[literature]], as well as the philosophical implications of [[artificial intelligence]]. He was widely known for his [[exegesis]] of [[Martin Heidegger]], which critics labeled "Dreydegger".<ref>{{cite book|url=https://books.google.com/books?id=-SC3jDXHXRkC&pg=PA203|title=Heidegger in America|last=Woessner|first=Martin|date=2011|publisher=Cambridge University Press|isbn=978-0-521-51837-6|page=203}}</ref>
+
+Dreyfus was featured in [[Tao Ruspoli]]'s film ''[[Being in the World]]'' (2010)'',''<ref>{{Cite web|url=https://www.brooklynfilmfestival.org/film-detail?fid=1048|title=BEING IN THE WORLD by Tao Ruspoli @ Brooklyn Film Festival|language=en-US|access-date=2019-10-04}}</ref> and was among the philosophers interviewed by [[Bryan Magee]] for the [[BBC Television]] series ''[[The Great Philosophers]]'' (1987)''.''<ref name=":10" />
+
+The ''[[Futurama]]'' character [[Professor Hubert Farnsworth|Professor ''Hubert'' Farnsworth]] is partly named after him, writer [[Eric Kaplan]] having been a former student.<ref name=":4">{{Cite news|url=https://news.berkeley.edu/2017/04/24/hubert-dreyfus/|title=Hubert Dreyfus, preeminent philosopher and AI critic, dies at 87|last=Anwar|first=Yasmin|date=2017-04-25|website=Berkeley News|language=en-US|access-date=2019-04-15}}</ref>
+
+==Life and career==
+Dreyfus was born on 15 October 1929, in [[Terre Haute, Indiana]], to Stanley S. and Irene (Lederer) Dreyfus.<ref name=":0">{{Cite news|url=https://www.nytimes.com/2017/05/02/us/hubert-dreyfus-dead-philosopher-of-artificial-intelligence.html|title=Hubert L. Dreyfus, Philosopher of the Limits of Computers, Dies at 87|last=Grimes|first=William|date=2017-05-02|work=The New York Times|access-date=2019-04-15|language=en-US|issn=0362-4331}}</ref><ref name=":2">"[https://www.encyclopedia.com/arts/educational-magazines/dreyfus-hubert-lederer-1929 Dreyfus, Hubert L(ederer) 1929-.]" [[Contemporary Authors]], New Revision Series.  ''[[Encyclopedia.com]].'' 22 Aug. 2019</ref>
+
+He attended [[Harvard University]] from 1947.<ref name=":1">{{Cite book|title=Heidegger, authenticity, and modernity|date=2000|publisher=MIT Press|others=Dreyfus, Hubert L., Wrathall, Mark A., Malpas, J. E.|isbn=9780262286459|location=Cambridge, Massachusetts|chapter=Introduction|oclc=62157918|chapter-url=https://books.google.com/books?id=RsGbAf8Exp0C&pg=PA1}}</ref> With a senior honors thesis on ''Causality and Quantum Theory'' (for which [[W. V. O. Quine]] was the main examiner)<ref name=":1" /> he was awarded a [[BA Degree|BA]] ''[[Latin honors#North America|summa cum laude]]'' in 1951<ref name=":2" /> and joined [[Phi Beta Kappa]].<ref name=":5" /> He was awarded an [[Master of Arts|MA]] in 1952.<ref name=":2" /><ref name=":5" /> He was a Teaching Fellow at Harvard in 1952-1953 (as he was again in 1954 and 1956).<ref name=":6">{{Cite web|url=http://sophos.berkeley.edu/dreyfus/html/fullcv.html|title=Professor Hubert Dreyfus Long form CV|website=sophos.berkeley.edu|access-date=2019-08-23|archive-date=2019-08-22|archive-url=https://web.archive.org/web/20190822193446/http://sophos.berkeley.edu/dreyfus/html/fullcv.html|url-status=dead}}</ref> Then, on a Harvard Sheldon traveling fellowship, Dreyfus studied at the [[University of Freiburg]] over 1953–1954.<ref name=":5" /> During this time he had an interview with [[Martin Heidegger]].<ref name=":1" /> [[Sean D. Kelly]] records that Dreyfus found the meeting 'disappointing.'<ref name=":8" /> Brief mention of it was made by Dreyfus during his 1987 [[BBC]] interview with [[Bryan Magee]] in remarks that are revealing of both his and Heidegger's opinion of the work of [[Jean-Paul Sartre]].<ref>{{Cite book|url=https://archive.org/details/greatphilosopher00mage/page/275|title=The Great Philosophers: An Introduction to Western Philosophy|last=Magee|first=Bryan|date=1988|publisher=Oxford University Press|isbn=9780192822017|location=Oxford, New York|pages=[https://archive.org/details/greatphilosopher00mage/page/275 275]|ol=2043183M|quote=Sartre started out as a Husserlian, and as a phenomenologist he wrote a good novel called ''[[Nausea (novel)|Nausea]]'', which is a first-person description of a person's world breaking down. Then he read Heidegger and was converted to what he thought was Heideggerian existentialism. But as a Husserlian and a Frenchman he felt he had to fix up Heidegger and make him more Cartesian. So he starts with the individual conscious subject, but writes about Death, Anxiety, lnauthenticity, Being and Nothing - all the things that Heidegger talks about. The result, ''[[Being and Nothingness]]'', is a brilliant misunderstanding of ''[[Being and Time]]''. If the story that we've been telling is right, Heidegger was precisely trying to free us from our Cartesian assumptions. When I went to visit Heidegger he had ''Being and Nothingness'' on his desk, in German translation, and I said, 'So you're reading Sartre?, and he responded, 'How can I even begin to read this muck?' (His word was 'Dreck'.) That's pretty strong, but I think accurate, since if you treat Heidegger as if he were talking about subjects you turn him back into Husserl.|ol-access=free}}</ref><ref name=":10">[[Magee, Bryan]], Dreyfus, Hubert L. [https://www.youtube.com/watch?v=KR1TJERFzp0&t=2393 ''Bryan Magee talks to Hubert Dreyfus about Husserl, Heidegger and modern existentialism''.] [via [[YouTube]]] ''[[The Great Philosophers]]'' BBC (1987)</ref>
+
+Between 1956 and 1957, Dreyfus undertook research at the [[Institute of Philosophy, KU Leuven#Husserl-Archives Leuven|Husserl Archives]] at the [[Catholic University of Leuven (1835–1968)|University of Louvain]] on a [[Fulbright Program|Fulbright Fellowship]].<ref name=":5" /> Towards the end of his stay, his first (jointly authored) paper "Curds and Lions in [[Don Quixote|Don Quijote]]" would appear in print.<ref name=":8" /><ref>{{Cite journal|last1=Dreyfus|first1=Hubert L.|last2=Broderick|first2=James H.|date=1957-06-01|title=Curds and Lions in Don Quijote a Study of Chapter 17, Book II|journal=Modern Language Quarterly|language=en|volume=18|issue=2|pages=100–106|doi=10.1215/00267929-18-2-100|issn=0026-7929}}</ref> After acting as an instructor in philosophy at [[Brandeis University]] (1957–1959),<ref name=":2" /><ref name=":6" /> he attended the [[École normale supérieure (Paris)|Ecole Normale Supérieure, Paris]], on a French government grant (1959–1960).<ref name=":5" />
+
+From 1960, first as an instructor, then as an [[Assistant professor|assistant]] and then [[associate professor]], Dreyfus taught philosophy at the [[Massachusetts Institute of Technology]] (MIT).<ref name=":2" /> In 1964, with his dissertation ''Husserl's Phenomenology of Perception'', he obtained his [[Doctor of Philosophy|PhD]] from Harvard.<ref name=":5">{{Cite book|title=The Dictionary of Modern American Philosophers|last=Shook|first=John R.|publisher=Thoemmes Continuum|year=2005|isbn=9781849723589|location=Bristol|chapter=Dreyfus, Hubert Lederer (1929–)|oclc=276357640|chapter-url=https://books.google.com/books?id=Ijpj1tB3Qr0C&pg=PA665}}</ref><ref>{{Cite thesis|title=Husserl's phenomenology of perception: from transcendental to existential phenomenology|date=1963|language=en|first=Hubert L|last=Dreyfus|oclc=18179097}}</ref> (Due to his knowledge of Husserl, [[Dagfinn Føllesdal]] sat on the thesis committee but he has asserted that Dreyfus "was not really my student.")<ref name=":3">[http://www.carlkorsnes.com/publications.html Korsnes, C]. 2016, [https://filosofisksupplement.no/wp-content/uploads/Identitet-F%C3%B8llesdal.pdf ''A Matter of Perspective: Interview with Dagfinn Føllesdal''], ''[[Filosofisk Tidskrift|Filosofisk]] supplement'', 2/2015</ref>  That same year, his co-translation (with his first wife) of ''Sense and Non-Sense'' by [[Maurice Merleau-Ponty]] was published.<ref name=":0" />
+
+Also in 1964, and whilst still at [[MIT]], he was employed as a consultant by the [[RAND Corporation]] to review the work of [[Allen Newell]] and [[Herbert A. Simon]] in the field of [[artificial intelligence]] (AI).<ref name=":1" /> This resulted in the publication, in 1965, of the "famously combative" ''[[Alchemy and Artificial Intelligence]]'', which proved to be the first of a series of papers and books attacking the AI field's claims and assumptions.<ref>{{Cite book|title=Risks of Artificial Intelligence|others=Chapter by Stuart Armstrong, Kaj Sotala, Seán Ó hÉigeartaigh|year=2015|isbn=978-1498734837|editor-last=Müller|editor-first=Vincent C.|editor-link=Vincent C. Müller|location=Boca Raton, FL|chapter=Errors, Insights, and Lessons of Famous Artificial Intelligence Predictions: And What They Mean for the Future|publisher=CRC Press - Chapman & Hall|doi=10.1201/b19187|oclc=921182846|chapter-url=https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf|url = https://philpapers.org/rec/MLLROA-3}}</ref><ref name=":7">{{Cite journal|url=https://www.rand.org/pubs/papers/P3244.html|title=Alchemy and Artificial Intelligence|last=Dreyfus|first=Hubert L.|date=1965|website=www.rand.org|language=en|access-date=2019-08-23}}</ref> The first edition of ''What Computers Can't Do'' would follow in 1972, and this critique of AI (which has been translated into at least ten languages) would establish Dreyfus's public reputation.<ref name=":1" /> However, as the editors of his ''[[Festschrift]]'' noted: "the study and interpretation of [[Continental philosophy|'continental']] philosophers... came first in the order of his philosophical interests and influences."<ref name=":1" />
+
+[[File:Hubert Lederer Dreyfus, August, 1976.jpg|thumb|Dreyfus (left) outside his Berkeley home in 1976.]]
+;Berkeley
+In 1968, although he had been granted [[Academic tenure|tenure]], Dreyfus left [[MIT]] and became an associate professor of philosophy at the [[University of California at Berkeley|University of California, Berkeley]]<ref name=":2" /><ref name=":5" /> (winning, that same year, the [[E. Harris Harbison|Harbison]] Prize for Outstanding Teaching).<ref name=":4" /> In 1972 he was promoted to full professor.<ref name=":2" /><ref name=":5" /> Though Dreyfus retired from his chair in 1994, he continued as professor of philosophy in the Graduate School (and held, from 1999, a joint appointment in the rhetoric department).<ref name=":4" /> And he continued to teach philosophy at [[UC Berkeley]] until his last class in December 2016.<ref name=":4" />
+
+Dreyfus was elected a fellow of the [[American Academy of Arts and Sciences]] in 2001.<ref name="AAAS">{{cite web|url=http://www.amacad.org/publications/BookofMembers/ChapterD.pdf|title=Book of Members, 1780-2010: Chapter D|publisher=American Academy of Arts and Sciences|archive-url=https://web.archive.org/web/20180809114018/http://www.amacad.org/publications/BookofMembers/ChapterD.pdf|archive-date= 2018-08-09 |access-date= 2011-04-19 }}</ref>  He was also awarded an honorary doctorate for "his brilliant and highly influential work in the field of artificial intelligence" and his interpretation of twentieth century continental philosophy by Erasmus University.<ref name=":4" />
+
+Dreyfus died on April 22, 2017.<ref name=":0" /><ref name=":8">{{Cite web|url=http://dailynous.com/2017/04/24/hubert-dreyfus-1930-2017/|title=Hubert Dreyfus (1929-2017)|last=Kelly|first=Sean D.|author-link=Sean D. Kelly|date=2017-04-24|editor-last=Weinberg|editor-first=Justin|website=[[Daily Nous]]|language=en-US|access-date=2019-04-15}}</ref>
+
+His younger brother and sometimes collaborator, [[Stuart Dreyfus]], is a professor emeritus of industrial engineering and operations research at the [[University of California, Berkeley]].
+
+== Dreyfus' criticism of AI ==
+{{Main|Hubert Dreyfus's views on artificial intelligence}}
+
+Dreyfus' critique of [[artificial intelligence]] (AI) concerns what he considers to be the four primary assumptions of AI research. The first two assumptions are what he calls the "biological" and "psychological" assumptions. The biological assumption is that the brain is analogous to [[computer hardware]] and the mind is analogous to computer [[software]]. The psychological assumption is that the mind works by performing discrete computations (in the form of [[algorithm]]ic rules) on discrete [[representations]] or [[symbols]].
+
+Dreyfus claims that the plausibility of the psychological assumption rests on two others: the [[epistemology|epistemological]] and [[ontology|ontological]] assumptions.  The epistemological assumption is that all activity (either by animate or inanimate objects) can be formalized (mathematically) in the form of predictive rules or laws. The ontological assumption is that reality consists entirely of a set of mutually independent, atomic (indivisible) facts. It's because of the epistemological assumption that workers in the field argue that [[intelligence (trait)|intelligence]] is the same as formal rule-following, and it's because of the ontological one that they argue that human knowledge consists entirely of internal representations of reality.
+
+On the basis of these two assumptions, workers in the field claim that [[cognition]] is the manipulation of internal symbols by internal rules, and that, therefore, human behaviour is, to a large extent, context free (see [[contextualism]]). Therefore, a truly [[scientific]] [[psychology]] is possible, which will detail the 'internal' rules of the human mind, in the same way the laws of physics detail the 'external' laws of the physical world. However, it is this key assumption that Dreyfus denies. In other words, he argues that we cannot now (and never will be able to) understand our own behavior ''in the same way'' as we understand objects in, for example, physics or chemistry: that is, by considering ourselves as things whose behaviour can be predicted via 'objective', context free scientific laws. According to Dreyfus, a context-free [[psychology]] is a contradiction in terms.
+
+Dreyfus's arguments against this position are taken from the [[Phenomenology (philosophy)|phenomenological]] and [[hermeneutical]] tradition (especially the work of [[Martin Heidegger]]). Heidegger argued that, contrary to the [[Cognitivism (psychology)|cognitivist]] views (on which AI has been based), our being is in fact highly context-bound, which is why the two context-free assumptions are false. Dreyfus doesn't deny that we can ''choose to see'' human (or any) activity as being 'law-governed', in the same way that we can ''choose to see'' reality as consisting of indivisible atomic facts... if we wish. But it is a huge leap from that to state that because we want to or can see things in this way that ''it is therefore an objective fact that they are the case''. In fact, Dreyfus argues that they are ''not'' (necessarily) the case, and that, therefore, any research program that assumes they ''are'' will quickly run into profound theoretical and practical problems. Therefore, the current efforts of workers in the field are doomed to failure.
+
+Dreyfus argues that to get a device or devices with human-like intelligence would require them to have a human-like being-in-the-world and to have bodies more or less like ours, and social acculturation (i.e. a society) more or less like ours. (This view is shared by psychologists in the [[embodied psychology]] (Lakoff and Johnson 1999) and [[distributed cognition]] traditions. His opinions are similar to those of [[robotics]] researchers such as [[Rodney Brooks]] as well as researchers in the field of [[artificial life]].)
+
+[[Daniel Crevier]] writes: "time has proven the accuracy and perceptiveness of some of Dreyfus's comments. Had he formulated them less aggressively, constructive actions they suggested might have been taken much earlier."<ref>{{Cite book|title=AI : the tumultuous history of the search for artificial intelligence|url=https://archive.org/details/aitumultuoushist00crev|url-access=registration|last=Crevier|first=Daniel|publisher=Basic Books|year=1993|isbn=0465029973|location=New York|pages=[https://archive.org/details/aitumultuoushist00crev/page/125 125]|oclc=26858345}}</ref>
+
+==Webcasting philosophy==
+When UC Berkeley and Apple began making a selected number of lecture classes freely available to the public as podcasts beginning around 2006, a recording of Dreyfus teaching a course called "Man, God, and Society in Western Literature&nbsp;– From Gods to God and Back" rose to the 58th most popular webcast on iTunes.<ref>''[https://web.archive.org/web/20160304052136/http://socrates.berkeley.edu/~hdreyfus/pdf/Los%20Angeles%20Times_%20The%20iPod%20lecture%20circuit.pdf The iPod lecture circuit],'' Michelle Quinn [[Los Angeles Times]],  24 November 2007, Archived by [[Wayback Machine]]</ref> These webcasts have attracted the attention of many, including non-academics, to Dreyfus and his subject area.<ref>{{Cite web|url=https://atworldsend.co/post/awe3/|title=Episode III: The Life and Death of Hubert Dreyfus · At World's End|website=atworldsend.co|access-date=2019-10-25}}</ref>
+
+== Works ==
+===Books===
+
+* 1972. [[iarchive:whatcomputerscan017504mbp/page/n7|''What Computers Can't Do: The Limits of Artificial Intelligence''.]] {{ISBN|0-06-011082-1}}  (At [[Internet Archive]])
+**2nd edition 1979 {{ISBN|0-06-090613-8}}, {{ISBN|0-06-090624-3}}; 3rd edition 1992 re-titled as ''What Computers Still Can't Do'' {{ISBN|0-262-54067-3}} 
+*1983. (with [[Paul Rabinow]]) ''[https://openlibrary.org/works/OL4299939W/Michel_Foucault_beyond_structuralism_and_hermeneutics Michel Foucault: Beyond Structuralism and Hermeneutics].'' Chicago, Ill: The University of Chicago Press. {{ISBN|978-0-226-16312-3}} (At [[Open Library]])
+*1986 (with [[Stuart Dreyfus]]). ''[https://openlibrary.org/works/OL4299942W/Mind_Over_Machine Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer]''. New York: Free Press.(At [[Open Library]])
+*1991. ''Being-in-the-World: A Commentary on Heidegger's ''Being and Time, Division I.Cambridge, Massachusetts: MIT Press. {{ISBN|0-262-54056-8}}, {{ISBN|978-0-262-54056-8}}
+*1992. ''[[What Computers Still Can't Do]]: A Critique of Artificial Reason''. Cambridge, Massachusetts: MIT Press. {{ISBN|0-262-54067-3}} <ref>{{Cite journal|last=Haugeland|first=John|date=1996-01-01|title=Body and world: a review of What Computers Still Can't Do: A critique of artificial reason (Hubert L. Dreyfus): (MIT Press, Cambridge, MA, 1992); liii + 354 pages, $13.95|url=http://philosophy.uchicago.edu/faculty/files/haugeland/dreyfus.pdf|journal=Artificial Intelligence|volume=80|issue=1|pages=119–128|doi=10.1016/0004-3702(95)00084-4|issn=0004-3702|doi-access=free|archive-url=https://web.archive.org/web/20180712233810/http://philosophy.uchicago.edu/faculty/files/haugeland/dreyfus.pdf|archive-date=2018-07-12}}</ref>
+* 1997, ''[[Disclosing New Worlds: Entrepreneurship, Democratic Action, and the Cultivation of Solidarity]]'' (co-author, with [[Fernando Flores]] and Charles Spinosa)
+*2001. ''On the Internet'' First Edition. London and New York: Routledge. {{ISBN|978-0-415-77516-8}}; [[iarchive:OnTheInternetHubertDreyfus|2nd edition 1979]] (At [[Internet Archive]])<ref>Starr, Sandy [https://web.archive.org/web/20011118230314/http://www.spiked-online.com/Articles/00000002D1CE.htm "Nihilism online?"], 2001-07031, ''[[Spiked (magazine)|Spiked]],'' Archived from [http://www.spiked-online.com/Articles/00000002D1CE.htm the original] on 2001-11-18 [Review]</ref>
+*2011. (with [[Sean Dorrance Kelly]]) '' [https://openlibrary.org/works/OL15488632W/All_things_shining All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age].'' (At [[Open Library]])<ref>[Reviewed by [[Garry Wills]] in ''[https://web.archive.org/web/20160404124029/https://www.nybooks.com/articles/2011/04/07/superficial-sublime/ Superficial & Sublime?],'' ''[[New York Review of Books]]'', 2011-04-07, this being followed by ''[https://www.nybooks.com/articles/2011/05/26/all-things-shining-exchange/ 'All Things Shining': An Exchange]'' in ''[[The New York Review of Books|NYRB]]'' on 2011-05-26]</ref>
+*2014 ''Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action,'' Mark A. Wrathall (ed.), {{ISBN|9780199654703|}} <ref>{{Cite journal|last=MacAvoy|first=Leslie|date=2015-05-19|title=Review of Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action|journal=Notre Dame Philosophical Reviews|url=https://ndpr.nd.edu/news/skillful-coping-essays-on-the-phenomenology-of-everyday-perception-and-action/|issn=1538-1617}}</ref>
+*2015 (with [[Charles Taylor (philosopher)|Charles Taylor]]) ''Retrieving Realism''. Harvard University Press, {{ISBN|9780198796220}} <ref>{{Cite journal|last=Roth|first=Paul A.|date=2015-11-16|title=Review of Retrieving Realism|url=https://ndpr.nd.edu/news/retrieving-realism/|journal=Notre Dame Philosophical Reviews|issn=1538-1617}}</ref>
+*2017 ''Background Practices: Essays on the Understanding of Being,'' Mark A. Wrathall (ed.), Oxford University Press, {{ISBN|9780198796220}} <ref>{{Cite journal|last=Okrent|first=Mark|date=2018-02-08|title=Review of Background Practices: Essays on the Understanding of Being|url=https://ndpr.nd.edu/news/background-practices-essays-on-the-understanding-of-being/|journal=Notre Dame Philosophical Reviews|issn=1538-1617}}</ref>
+
+===''Festschrift''===
+*2000. ''Heidegger, Authenticity, and Modernity: Essays in Honor of Hubert Dreyfus, Volume 1.'' Cambridge, Massachusetts: MIT Press. {{ISBN|0-262-73127-4}}.<ref name=":9">[[Svend Brinkmann|Brinkmann, Svend]] (2010) ''[http://psy.au.dk/fileadmin/Psykologi/Forskning/Kvalitativ_metodeudvikling/NB31/Anmeldelse_af_Dreyfus2.pdf On the Road with Heidegger: Review of the Festschrift in honor of Hubert Dreyfus]'' [[Preprint|PrePrint]] of [[doi:10.1515/SATS.2002.175|published review]] in: ''SATS'', Volume 3, Issue 1, Pages 175–180, ISSN (Online) 1869-7577, ISSN (Print) 1600-1974</ref>
+*2000. ''Heidegger, Coping, and Cognitive Science: Essays in Honor of Hubert L. Dreyfus, Volume 2''. Cambridge, Massachusetts: MIT Press. {{ISBN|0-262-73128-2}} <ref name=":9" /><ref>[[Sean Dorrance Kelly]]. 2000. [https://scholar.harvard.edu/files/sdkelly/files/4_booksk_grasping_at_straws.pdf ''Grasping at Straws: Motor Intentionality and the Cognitive Science of Skilled Behavior''] In ''Heidegger, Coping, and Cognitive Science: Essays in Honor of Hubert L. Dreyfus - Vol. II'', edited by Mark Wrathall and Jeff Malpas, II: Pp. 161–177. Cambridge, MA, USA: MIT Press [Author Copy]</ref>
+
+===Select articles===
+* 1965. [https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf ''Alchemy and Artificial Intelligence'']. Rand Paper.<ref name=":7" />
+
+== See also ==
+*[[Critique of technology]]
+*[[Mike Cooley (engineer)|Mike Cooley]]
+
+== References ==
+{{Reflist|30em}}
+
+=== Criticism of AI sources ===
+*{{Crevier 1993}}
+*[[George Lakoff]] and [[Mark Johnson (professor)|Mark Johnson]], 1999. ''Philosophy in the Flesh: the Embodied Mind and its Challenge to Western Thought''. Basic Books.
+
+== External links ==
+* [http://philosophy.berkeley.edu/people/detail/12 Professor Bert Dreyfus at the Berkeley Philosophy Department Web page]
+* [http://socrates.berkeley.edu/~hdreyfus/ Professor Bert Dreyfus's UC Berkeley Home Page]
+* {{webarchive |url=https://web.archive.org/web/20061205225745/http://ist-socrates.berkeley.edu/~hdreyfus/html/papers.html |date=December 5, 2006 |title=Professor Bert Dreyfus' online papers at UC Berkeley, with links to old Berkeley web page }}
+* {{IMDb name|1795276}}
+*[https://web.archive.org/web/20160304052136/http://socrates.berkeley.edu/~hdreyfus/pdf/Los%20Angeles%20Times_%20The%20iPod%20lecture%20circuit.pdf Copy of Article "The iPod Lecture Circuit"] by Michelle Quinn in ''[[LA Times]]'', November 2007 (Archived by [[Wayback Machine]]).
+*[http://globetrotter.berkeley.edu/people5/Dreyfus/dreyfus-con0.html Conversations with History, an interview, November 2005]
+*[http://full-tilt.blogspot.com/2005/10/hubert-dreyfus-interview.html Hubert Dreyfus Interview] October 20, 2005
+* [https://web.archive.org/web/20090513044500/http://andrewkeen.typepad.com/aftertv/2006/02/hubert_dreyfus.html Conversations about media, culture and technology. Interview between Andrew Keen and Hubert Dreyfus February 16, 2006] on [[AfterTV]]
+*Hubert Dreyfus interviewed by [[Bryan Magee]] on [https://www.youtube.com/watch?v=KR1TJERFzp0 Husserl, Heidegger and Modern Existentialism] for ''[[The Great Philosophers]]'' (1987) on [[YouTube]]
+*[[iarchive:Philosophy 185 Fall 2007 UC Berkeley|Lectures from the course "Philosophy 185 Heidegger" (2007) by Hubert Dreyfus]].(audio) (on [[Internet Archive]]). [Further of his [https://archive.org/search.php?query=creator%3A%22Hubert+Dreyfus%22&and%5B%5D=mediatype%3A%22audio%22 Webcast Lectures] hosted there]
+*[https://www.youtube.com/watch?v=4YcbhLgftJA Professor Hubert Dreyfus - "Dostoevsky on how to Save the Sacred from Science"] (video, 2015)
+*
+
+{{Continental philosophy}}
+{{Aesthetics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dreyfus, Hubert}}
+[[Category:1929 births]]
+[[Category:2017 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:American ethicists]]
+[[Category:20th-century American Jews]]
+[[Category:Brandeis University faculty]]
+[[Category:American consciousness researchers and theorists]]
+[[Category:Enactive cognition]]
+[[Category:Epistemologists]]
+[[Category:Existentialists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Harvard University alumni]]
+[[Category:Heidegger scholars]]
+[[Category:Jewish philosophers]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:Ontologists]]
+[[Category:People from Terre Haute, Indiana]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of education]]
+[[Category:Philosophers of literature]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of psychology]]
+[[Category:Philosophers of science]]
+[[Category:Philosophers of technology]]
+[[Category:Philosophy of artificial intelligence]]
+[[Category:Philosophy writers]]
+[[Category:Phenomenologists]]
+[[Category:Presidents of the American Philosophical Association]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:21st-century American Jews]]

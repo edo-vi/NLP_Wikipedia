@@ -1,0 +1,44 @@
+[[File:Pulse Polio Day, Gwalior, January 2014.jpg|right|300px|thumb|On [[Pulse Polio|Pulse Polio Day]], a child swallows vaccine drops and is marked as vaccinated (felt-nib pen on finger). The [[Pulse Polio|Pulse Polio immunisation campaign]] eliminated [[polio]] from [[India]].]]
+The '''pulse vaccination strategy''' is a method used to eradicate an epidemic by repeatedly vaccinating a group at risk, over a defined age range, until the spread of the pathogen has been stopped. It is most commonly used during measles and polio epidemics to quickly stop the spread and contain the outbreak.<ref>Nokes, DJ., Swinton, J. The control of childhood viral infections by pulse vaccination.IMA J Math Appl Med Biol. 1995;12(1):29-53.</ref><ref>Nokes, DJ., Swinton, J. Vaccination in pulses: a strategy for global eradication of measles and polio?Trends Microbiol. 1997 Jan;5(1):14-9.</ref>
+
+== Mathematical model ==
+Where T= time units is a constant fraction p of susceptible subjects vaccinated in a relatively short time. This yields the differential equations for the susceptible and vaccinated subjects as{{citation needed|date=June 2020}}
+:
+
+:<math> \frac{dS}{dt} = \mu N  - \mu S - \beta \frac{I}{N} S, S(n T^+) = (1-p) S(n T^-) n=0,1,2,\dots </math>
+
+:<math> \frac{dV}{dt} = - \mu V,   V(n T^+) = V(n T^-) + p S(n T^-) n=0,1,2,\dots</math>
+
+Further, by setting {{math|1=''I'' = 0}}, one obtains that the dynamics of the susceptible subjects is given by:<ref>Shulgin, BV., Stone L., Agur, Z. Pulse vaccination strategy in the SIR epidemic model. Bull Math Biol. 1998 Nov;60(6):1123-1148.</ref>
+
+:<math> S^*(t) = 1- \frac{p}{1-(1-p)E^{-\mu T}}E^{-\mu MOD(t,T)}  </math>
+
+and that the eradication condition is:<ref>Stone L., Shulgin, B., Agur, Z. Theoretical examination of the pulse vaccination policy in the SIR epidemic model. Mathematical and computer modelling, 2000, 31 (4), 207-215</ref>
+
+:<math> R_0 \int_{0}^{T}{S^*(t)dt} < 1  </math>
+
+== See also ==
+* [[Critical community size]]
+* [[Epidemic model]]
+* [[Herd immunity]]
+* [[Pulse Polio]]
+* [[Ring vaccination]]
+* [[Vaccine-naive]]
+
+== References ==
+{{reflist}}
+
+==External links==
+{{Commons category|Vaccinations}}
+* [http://www.immunisation.nhs.uk/article.php?id=97 Immunisation] Immunisation schedule for children in the UK. Published by the UK Department of Health.
+* [https://www.cdc.gov/nip CDC.gov] - 'National Immunization Program: leading the way to healthy lives', [[Centers for Disease Control|US Centers for Disease Control]] (CDC information on vaccinations)
+* [https://www.cdc.gov/vaccines/pubs/vacc-timeline.htm CDC.gov] - Vaccines timeline
+* [http://www.historyofvaccines.org History of Vaccines] Medical education site from the College of Physicians of Philadelphia, the oldest medical professional society in the US
+* [http://www.aap.org/en-us/about-the-aap/aap-press-room/aap-press-room-media-center/pages/AAP-Pressroom-Photos.aspx Images of vaccine-preventable diseases]
+{{Vaccines}}
+
+[[Category:Vaccination]]
+[[Category:Biotechnology]]
+[[Category:Preventive medicine]]
+[[Category:Epidemiology]]
+[[Category:Global health]]

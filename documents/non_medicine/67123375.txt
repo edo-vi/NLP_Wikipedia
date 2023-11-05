@@ -1,0 +1,22 @@
+{{Vaccination}}
+'''Vaccine line jumping''' is the act of obtaining a [[vaccine]] in which the supply fails to meet the demands of the population ahead of those for whom it has been prioritized, usually via fraudulent means, the exploitation of one's social status, or some other unethical manner. Vaccine line jumping is distinct from [[vaccine chasing]], in which one goes out of their way to seek a scarcely available vaccine to which they are legally entitled.<ref>{{Cite news|title=Skipping the Vaccine Line Is Not Only Unethical{{snd}}It May Undermine Trust in the Rollout|url=https://theconversation.com/skipping-the-vaccine-line-is-not-only-unethical-it-may-undermine-trust-in-the-rollout-155277|last=Young|first=Katharine|date=11 March 2021|work=The Conversation|archive-url=https://web.archive.org/web/20210311145114/https://theconversation.com/skipping-the-vaccine-line-is-not-only-unethical-it-may-undermine-trust-in-the-rollout-155277|archive-date=11 March 2021|url-status=live}}</ref>
+
+In some situations, an [[honor system]] is used in which the recipient declares, either verbally or in writing, if they are in a priority group, but no proof is asked. Other places require that one who is in a priority group provide documentation of belonging to such a group. For example, if prioritization is by age, a [[driver's license]] or other governmental identification can be used to verify age. If by occupation, a work ID can be used, and if a medical condition is a criterion, it could be a physician certificate.{{citation needed|date=June 2021}}
+__TOC__
+
+==Methods==
+Vaccine line jumpers sometimes exaggerate a factor that could include them in a priority group, such as a category of employment or medical condition.<ref>{{Cite web|title='Hunger Games of Vaccines': People Jump the Line to Get Vaccine Prior to Eligibility|url=https://www.nbcbayarea.com/news/local/san-francisco/hunger-games-of-vaccines-people-jump-the-line-to-get-vaccine-prior-to-eligibility/2493522/|last=Tan|first=Lili|date=15 March 2021|work=National Broadcasting Company|archive-url=https://web.archive.org/web/20210316032033/https://www.nbcbayarea.com/news/local/san-francisco/hunger-games-of-vaccines-people-jump-the-line-to-get-vaccine-prior-to-eligibility/2493522/|archive-date=16 March 2021|url-status=live}}</ref> For example, a medical administrative worker who has no contact with patients might consider themselves a "healthcare worker", or one who has had a bout of pneumonia might classify themselves as having had "lung disease", even as their condition is not chronic.{{citation needed|date=June 2021}}
+
+Sometimes, a [[glitch]] in the registration system can enable those who do not belong to a priority group to register and obtain a shot.<ref>{{Cite web|title=How People Are Jumping the COVID-19 Vaccine Line|url=https://www.npr.org/sections/health-shots/2021/02/09/965841419/does-loose-enforcement-of-vaccine-eligibility-rules-encourage-line-jumping|last=O'Neill|first=Eilis|date=9 February 2021|work=National Public Radio|archive-url=https://web.archive.org/web/20210315130323/https://www.npr.org/sections/health-shots/2021/02/09/965841419/does-loose-enforcement-of-vaccine-eligibility-rules-encourage-line-jumping|archive-date=15 March 2021|url-status=live}}</ref> Some people can obtain shots ahead of what is considered to be their turn because of their wealth or connections.<ref>{{Cite web|title=With Demand Far Exceeding Supply, It Matters That People Are Jumping the Vaccine Line|url=https://khn.org/news/article/with-demand-far-exceeding-supply-it-matters-that-people-are-jumping-the-vaccine-line/|last=Rosenthal|first=Elisabeth|date=2 February 2021|work=Kaiser Family Foundation|archive-url=https://web.archive.org/web/20210202100804/https://khn.org/news/article/with-demand-far-exceeding-supply-it-matters-that-people-are-jumping-the-vaccine-line/|archive-date=2 February 2021|url-status=live}}</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Vaccination]]
+[[Category:Public health]]
+[[Category:COVID-19 vaccines]]
+
+
+{{COVID19-vaccine-stub}}
+{{COVID-19-stub}}
+{{Vaccine-stub}}

@@ -1,0 +1,37 @@
+'''Literary fragments''' may comprise:<ref>
+{{cite book
+|last= von Wilpert
+|first= Gero
+|author-link= Gero von Wilpert
+|title= Sachwörterbuch der Literatur
+|trans-title=Dictionary of Literary Concepts
+|edition= 5
+|series= Kröners Taschenausgabe
+|volume= 231
+|orig-year= 1955
+|year= 1969
+|publisher= Alfred Kröner
+|location= Stuttgart
+|language= German
+|page= 268
+|quote=
+}}
+</ref>
+
+* works inadvertently left unfinished or never completed by their authors
+* surviving extracts of larger works subsequently lost as wholes
+* works deliberately constructed as fragmentary pieces
+
+The deliberately undeveloped literary sort of fragment played an especially important role in literary [[Romanticism]]. German literature of the Romantic period has left many such fragments. In English literature, note [[Samuel Taylor Coleridge|Coleridge]]'s unfinished (but published as a fragment in 1816) "[[Kubla Khan]]; or, A Vision in a Dream: A Fragment".
+In contemporary literature [[Dimitris Lyacos]] employs fragment sequences in order to develop an elliptical narrative alluding to a universe of unattainability and loss.<ref>{{cite book |first=Fran |last=Mason |title=Historical Dictionary of Postmodern Literature and Theatre |page=276 |publisher=Rowman and Littlefeld |year=2016 |isbn=9781442276208 |url=https://books.google.com/books?id=pG-IDQAAQBAJ&pg=PA276 }}</ref>
+
+== See also ==
+* ''[[Fragmente der griechischen Historiker]]''
+
+== References ==
+{{reflist}}
+
+[[Category:Literature]]
+
+
+{{Lit-stub}}

@@ -1,0 +1,104 @@
+{{Short description| Book about vaccination}}
+{{Infobox book
+| italic title =Immunisation against infectious disease
+| name = Immunisation against infectious disease
+| image = The Green Book 2021.jpg
+| alt =
+| caption = 2021 edition
+| author =
+| illustrator =
+| cover_artist =
+| country = United Kingdom
+| language = English
+| subject = Vaccines
+| genre = [[Medicine]]
+| publisher =
+| pub_date = Paper: 1992, 1996, 2006
+| media_type =
+| pages =
+| isbn = 978-0-11-322528-6
+| isbn_note = 2006 Ed.
+| oclc =
+| dewey =
+| congress =
+}}
+'''''Immunisation against infectious disease''''', popularly known as '''''The Green Book''''', provides information on vaccines for [[vaccine-preventable diseases]]. It acts as a guide to the [[vaccination schedule#United Kingdom|UK's vaccination schedule]] for health professionals and health departments that give vaccines in the United Kingdom.
+
+The first two editions were published in 1992 and 1996. A third edition in 2006, was the last to appear in print. Updates have since been added by its clinical editors through advice and recommendations from the [[Joint Committee on Vaccination and Immunisation]] (JCVI) and appear only online as individual chapters via the immunisation section of the GOV.UK website. As of 2021 it includes updates on [[COVID-19]].
+
+==Purpose==
+''Immunisation against infectious disease'' is popularly known as ''The Green Book'', to provide information on the UK's vaccination schedule and vaccines for vaccine preventable infectious diseases.<ref name="Storey2021">{{cite book |last1=Donovan |first1=Helen |last2=Chiodini |first2=Jane |last3=Crowther |first3=Helen |last4=Spooner |first4=Paula |last5=Boast |first5=Gill |editor1-last=Storey |editor1-first=Karen |editor2-last=Last |editor2-first=Julia Rhianedd |title=A Nurse's Survival Guide to General Practice Nursing |date=2022 |publisher=Elsevier |isbn=978-0-7020-8085-2 |pages=78–85 |chapter-url=https://books.google.com/books?id=yEIxEAAAQBAJ&dq=vaccine+the+%22green+book%22&pg=PA78 |language=en |chapter=4. Treatment room skills}}</ref><ref name="JCVI2020">{{cite web|date=June 2013|title=Joint Committee on Vaccination and Immunisation: Code of Practice|url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/224864/JCVI_Code_of_Practice_revision_2013_-_final.pdf|access-date=29 December 2021|website=GOV.UK|publisher=Joint Committee on Vaccination and Immunisation}}</ref> It is a guide for health professionals and health departments that give vaccines in the UK.<ref name="JCVI2020"/> Updates are added by its clinical editors through advice and recommendations from the [[Joint Committee on Vaccination and Immunisation]] (JCVI), as accepted by the Secretaries of State.<ref name="JCVI2020"/> Larger updates may also need consultations with UK health departments and public health bodies, [[Medicines and Healthcare products Regulatory Agency|MHRA]], vaccine manufacturers, [[NHS England]], [[National Travel Health Network and Centre]] (NaTHNaC), as well as the clinical editors.<ref name="JCVI2020"/>
+
+==Publication==
+The first two editions were published by the [[Office of Public Sector Information|HMSO]] in 1992 and 1996.<ref name="UoB2006">{{cite book |last1=Ramsay |first1=Mary |last2=Health |first2=Great Britain Department of |last3=Noakes |first3=Karen |last4=Salisbury |first4=David M. |title=Immunisation against infectious disease |url=https://capitadiscovery.co.uk/brighton-ac/items/842239 |publisher=The Stationery Office |access-date=30 December 2021 |language=English |date=2006|isbn=9780113225286 }}</ref><ref name="Green2006" /> The third edition, published by [[The Stationery Office]] in 2006, replaced the 1996 edition and was the last to appear in print.<ref name="UoB2006"/>
+
+==2006 edition==
+The 2006 edition of ''The Green book'' has 468 pages, divided generally into two parts, preceded by a contents page, acknowledgements and preface, and followed by two indexes, one of vaccines by proprietary name and the other of vaccines by common name.<ref name="UoB2006"/><ref name="Green2006" />
+
+===Part one: principles, practices and procedures===
+Part one, titled "principles, practice and procedures", has 12 chapters which include how vaccines work, storage and distribution, vaccine safety and adverse events, immunisation schedule and immunisation of healthcare and laboratory staff.<ref name="Storey2021"/><ref name="UoB2006"/> How to give a vaccine is described in chapter four, common side effects in chapter eight and how to fill in a [[Yellow Card Scheme|yellow card]] in chapter nine (updated 2013).<ref name="Storey2021"/><ref name=":0" />
+
+{{refbegin|colwidth=25em}}
+* Immunity and how vaccines work
+* Consent
+* Storage, distribution and disposal of vaccines
+* Immunisation procedures
+* Immunisation by nurses and other health professionals
+* Contraindications and special considerations
+* Immunisation of individuals with underlying medical conditions
+* Vaccine safety and adverse events following immunisation
+* Surveillance and monitoring for vaccine safety
+* Vaccine Damage Payment Scheme
+* Immunisation schedule
+* Immunisation of healthcare and laboratory staff
+{{refend|colwidth=25em}}
+
+===Part two: diseases, vaccinations and vaccines===
+Diseases and their vaccines are listed in alphabetical order and include all vaccines recommended in the routine immunisation programme for all children in the UK.<ref name="Green2006"/> Vaccine requirements for travellers and for contacts of people with infectious disease are included.<ref name="Storey2021"/> The 2006 edition incorporated the then new vaccines for meningococcal group C and pneumococcal infections, included the cessation of the school's BCG programme and the introduction of the Hib-MenC booster at 12 months of age.<ref name="Green2006"/>
+
+Diseases included:
+{{refbegin|colwidth=25em}}
+* [[Anthrax]]
+* [[Cholera]]
+* [[Diphtheria]]
+* [[Haemophilus influenzae type b]] (Hib)
+* [[Hepatitis A]]
+* [[Hepatitis B]]
+* [[Influenza]]
+* [[Japanese encephalitis]]
+* [[Measles]]
+* [[Meningococcal]]
+* [[Mumps]]
+* [[Pertussis]]
+* [[Pneumococcal]]
+* [[Polio]]
+* [[Rabies]]
+* [[Rubella]]
+* [[Smallpox]] and [[vaccinia]]
+* [[Tetanus]]
+* [[Tick-borne encephalitis]]
+* [[Tuberculosis]]
+* [[Typhoid]]
+* [[Varicella]]
+* [[Yellow fever]]
+{{refend|colwidth=25em}}
+
+==Online version==
+The online version was published in 2013.<ref name=Front/> Updates appear only online as individual chapters via the immunisation section of the GOV.UK website.<ref name="Green2006">{{cite book|last1=Department of Health|url=https://webarchive.nationalarchives.gov.uk/ukgwa/20080817104105/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_079917|title=Immunisation against infectious disease|date=2006|publisher=The Stationery Office|isbn=978-0-11-322528-6|editor1-last=Salisbury|editor1-first=David|location=London|language=English|editor2-last=Ramsay|editor2-first=Mary}}</ref> These have included [[respiratory syncytial virus]] and [[rotavirus]] in 2015, and [[human papillomavirus]] in 2019.<ref name=":0">{{cite web |title=Immunisation against infectious disease |url=https://www.gov.uk/government/collections/immunisation-against-infectious-disease-the-green-book#the-green-book |website=GOV.UK |access-date=3 January 2022 |language=en}}</ref><ref name="Courtenay">{{cite book|last=O'Brien|first=Sarah J.|chapter-url=https://books.google.com/books?id=eYFSEAAAQBAJ&dq=the+%22green+book%22&pg=PA213|title=Independent and Supplementary Prescribing: An Essential Guide|date=2022|publisher=[[Cambridge University Press]]|isbn=978-1-108-92851-9|editor1-last=Courtenay|editor1-first=Molly|edition=Third|location=Cambridge|page=213|language=en|chapter=11. Extended/Supplementary Prescribing: A Public health Perspective|editor2-last=Griffiths|editor2-first=Matthew}}</ref> As of 2021, the online version stays divided into two parts, in the same way as the 2006 edition, and includes updates on [[shingles]] and [[COVID-19]].<ref name=Front>{{cite web |title=Immunisation against infectious disease: the green book front cover and contents page |url=https://www.gov.uk/government/publications/immunisation-against-infectious-disease-the-green-book-front-cover-and-contents-page#history |website=GOV.UK |access-date=29 December 2021 |language=en}}</ref><ref name="Scot2021">{{cite web |title=The Green Book - vaccination guidance - COVID-19 vaccine delivery and workforce information - COVID-19 vaccinations - COVID-19 - Our areas of work - Public Health Scotland |url=https://www.publichealthscotland.scot/our-areas-of-work/covid-19/covid-19-vaccinations/covid-19-vaccine-delivery-and-workforce-information/the-green-book-vaccination-guidance/ |website=www.publichealthscotland.scot |access-date=29 December 2021}}</ref><ref name="CQC2021">{{cite web |title=GP mythbuster 37: Immunisation of healthcare staff {{!}} Care Quality Commission |url=https://www.cqc.org.uk/guidance-providers/gps/gp-mythbuster-37-immunisation-healthcare-staff |website=www.cqc.org.uk |access-date=3 January 2022}}</ref>
+
+According to [[Andrew Pollard (immunologist)|Andrew Pollard]], ''The Green Book'' should be "bookmarked" in all child clinics and notes that similar information can be obtained from the US [[Centers for Disease Control and Prevention]] website.<ref name="Pollard2007">{{cite journal |last1=Pollard |first1=Andrew J |title=Childhood immunisation: what is the future? |journal=Archives of Disease in Childhood |date=May 2007 |volume=92 |issue=5 |pages=426–433 |doi=10.1136/adc.2006.095760 |pmid=17449524 |pmc=2083746 |issn=0003-9888}}</ref> It is a recommended source by the [[Royal College of Paediatrics and Child Health]].<ref name="rcpch2020">{{cite web |title=Vaccination in the UK - position statement |url=https://www.rcpch.ac.uk/resources/vaccination-uk-position-statement |website=RCPCH |access-date=2 January 2022 |archive-url=https://web.archive.org/web/20220102095610/https://www.rcpch.ac.uk/resources/vaccination-uk-position-statement |archive-date=2 January 2022 |language=en |date=10 December 2020}}</ref>
+
+==Editors==
+* 1996 - [[David Salisbury (physician)|David Salisbury]], [[Norman T. Begg]]<ref name="Green2006"/>
+* 2006 - David Salisbury, [[Mary Ramsay (epidemiologist)|Mary Ramsay]], [[Karen Noakes]]<ref name="Green2006"/>
+* 2021 - Mary Ramsay<ref name="Green2006"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web |title=Immunisation against infectious disease |url=https://www.gov.uk/government/collections/immunisation-against-infectious-disease-the-green-book |website=GOV.UK |access-date=29 December 2021 |language=en|pages=28–29}}
+* {{cite book |last1=Department of Health |editor1-last=Salisbury |editor1-first=David |editor2-last=Ramsay |editor2-first=Mary |title=Immunisation against infectious disease |date=2006 |publisher=The Stationery Office |isbn=978-0-11-322528-6 |url=https://webarchive.nationalarchives.gov.uk/ukgwa/20080817104105/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_079917 |language=English}}
+
+[[Category:Vaccination]]
+[[Category:Medical books]]

@@ -1,0 +1,79 @@
+{{short description|Uncovered by European law enforcement}}
+{{use dmy dates|date=September 2016}}
+{{Location map+ | France
+| caption = Potential targets
+| places =
+  {{Location map~ | France
+    | label = Paris
+    | position = top
+    | marksize = 7
+    | link = Paris
+    | lat_deg = 48.8567
+    | lon_deg = 2.3508
+  }}
+  {{Location map~ | France
+    | label = Stade Vélodrome
+    | position = top
+    | marksize = 7
+    | link = Stade Vélodrome
+    | lat_deg = 43.269722
+    | lon_deg = 5.395833
+  }}
+  {{Location map~ | France
+    | label = Civaux
+    | position = top
+    | marksize = 7
+    | link = Civaux Nuclear Power Plant
+    | lat_deg = 46.456667
+    | lon_deg = 0.652778
+  }}
+}}
+From March to May 1998, a terror plot against the [[1998 FIFA World Cup]] in France was uncovered by European law enforcement agencies.<ref name="LAT">{{Cite news|title=European Police Raids Target World Cup Terrorist Threat|url=http://articles.latimes.com/1998/may/27/sports/sp-53951|work=The Los Angeles Times|date=27 May 1998}}</ref><ref name="GlobalTerrorism1998">{{Cite journal|title=Europe Overview|journal=Patterns of Global Terrorism: 1998|url=https://fas.org/irp/threat/terror_98/europe.htm|publisher=[[Bureau of Counterterrorism|Office of the Coordinator for Counterterrorism]], United States Department of State|date=April 1999}}</ref> More than 100 people were arrested in seven countries as a result of the plot, although only some of them were tried or convicted.<ref name="ESPN">{{Cite news|first=Simon|last=Kuper|authorlink=Simon Kuper|title=Is football facing a new age of stadium terrorism after Paris attacks?|url=http://www.espnfc.com/european-championship/74/blog/post/2715900/paris-attacks-and-a-new-age-of-stadium-terrorism|work=ESPN FC|date=18 November 2015}}</ref> Organised by the [[Algeria|Algerian]] [[Armed Islamic Group of Algeria|Armed Islamic Group]] (GIA) and backed by [[Al-Qaeda]] leader [[Osama bin Laden]], the plot is thought to have targeted the [[1998 FIFA World Cup Group G#England vs Tunisia|England–Tunisia match]] on 15 June 1998, and involved infiltrating the [[Stade Vélodrome]] in [[Marseille]] in order to attack players and spectators during the game, attack the hotel in [[Paris]] hosting the [[United States men's national soccer team|United States national team]], and finally hijacking an aircraft and crashing it into the [[Civaux Nuclear Power Plant]] near [[Poitiers]].<ref name="ESPN"/>
+
+==Raids and arrests==
+The original suspect of the plot was [[French Algeria|French-Algerian]] [[Farid Melouk]], who had previously been sentenced ''[[Trial in absentia|in absentia]]'' to seven years in prison in France for his connection to the [[1995 Paris Métro and RER bombings]].<ref name="NYT">{{Cite news|title=Belgians Arrest Suspect In Paris Bombings|url=https://www.nytimes.com/1998/03/06/world/world-news-briefs-belgians-arrest-suspect-in-paris-bombings.html|work=The New York Times|date=6 March 1998|url-access=subscription}}</ref><ref name="Depeche">{{Cite news|title=Bruxelles : échec au réseau du GIA|url=http://www.ladepeche.fr/article/1998/03/06/186734-bruxelles-echec-au-reseau-du-gia.html|work=La Dépêche du Midi|date=6 March 1998|language=French}}</ref><ref>{{Cite news|title=Anschläge bei Fußball-WM?|url=http://www.spiegel.de/spiegel/print/d-7838193.html|work=Der Spiegel|date=16 March 1998|language=German}}<br>- {{Cite news|title=Silhouette|url=http://www.la-croix.com/Archives/1998-11-10/Silhouette-_NP_-1998-11-10-462539|work=La Croix|date=10 November 1998|language=French}}<br>- {{Cite news|title=Le repaire belge du terrorisme|url=http://www.lalibre.be/actu/international/le-repaire-belge-du-terrorisme-51b874c6e4b0de6db9a638e6|work=La Libre Belgique|date=14 September 2001|language=French}}</ref> Melouk had reportedly been tracked by intelligence services following his entry into [[Belgium]], where he was found to be in contact with [[Ahmed Zaoui]] and a GIA-linked [[Brussels]] mosque.<ref>Robinson, 2002, p. 172</ref> On 3 March, after two weeks of surveillance, 50 police officers stormed a house where Melouk was staying with others involved in the plot.<ref name="Robinson173">Robinson, 2002, p. 173</ref> Ten people including [[Sweden|Swedish]] and [[Denmark|Danish]] nationals were arrested in the 12-hour siege, amid a series of anti-terrorism raids in [[Belgium]].<ref name="GlobalTerrorism1998"/><ref name="NYT"/><ref name="Depeche"/> Large amounts of liquid explosives were found during the raid, as well as detonators, a [[AK-47|Kalashnikov rifle]], several handguns and thousands of [[United States dollar|US dollars]] in cash.<ref name="Robinson173"/><ref name="FFI">{{Cite journal|first1=Brynjar|last1=Lia|authorlink1=Brynjar Lia|first2=Åshild|last2=Kjøk|date=8 August 2001|title=Islamist Insurgencies, Diasporic Support Networks, and their Host States: The Case of the Algerian GIA in Europe 1993–2000|url=https://www.ffi.no/no/Rapporter/01-03789.pdf|publisher=[[Norwegian Defence Research Establishment]] (FFI)|pages=41–43}}</ref> In addition, a large number of documents, brochures and maps relating to the World Cup were retrieved.<ref name="Robinson173"/><ref name="FFI"/> More explosives were uncovered in a follow-up raid of another house.<ref name="GlobalTerrorism1998"/>
+
+The March raid was part of a joint security operation between Belgium, [[France]], Sweden, [[Italy]] and the [[United Kingdom]].<ref name="GlobalTerrorism1998"/> Despite initial Belgian claims denying links to any plot against the World Cup, the plot was later confirmed by the French counter-intelligence chief.<ref name="PBS">{{Cite news|title=Chronology: The Plots|url=https://www.pbs.org/wgbh/pages/frontline/shows/front/special/cron.html|work=Frontline|publisher=PBS|date=25 January 2005}}</ref> Melouk was sentenced to 9 years in prison for charges including attempted murder.<ref name="PBS"/> In early May, eight suspected militants linked to the plot were arrested in the United Kingdom.<ref name="FFI"/><ref>Robinson, 2002, p. 180</ref> 
+
+On 26 May, 88 people were detained in co-ordinated operations across France, Belgium, Italy, [[Switzerland]] and [[Germany]].<ref name="LAT"/><ref name="GlobalTerrorism1998"/><ref name="PBS"/> In France, 53 men including Algerian, French and Tunisian nationals suspected of links to ex-GIA commander [[Hassan Hattab]] were detained across 43 locations, including in Marseilles, Paris, [[Lyon]] and [[Corsica]];<ref name="FFI"/><ref>Robinson, 2002, pp. 190–191</ref> 40 were released within two days.<ref name="hrw">{{cite report|url=https://www.hrw.org/report/2008/07/01/preempting-justice/counterterrorism-laws-and-procedures-france|title= Preempting Justice: Counterterrorism Laws and Procedures in France|date=1 July 2008|work=Human Rights Watch}}</ref> Five Algerians were arrested in Germany after raids across several cities, ten in Belgium, two in Switzerland, six in Italy, and many more detained.<ref name="FFI"/><ref>Robinson, 2002, pp. 188–189</ref> The French Interior Minister, [[Jean-Pierre Chevènement]], said on French television after the arrests that investigators had found evidence of plots to attack the World Cup.<ref name="LAT"/> Islamist paraphernalia and $150,000 in cash were found during the raids, but no explosives or arms.<ref name="LAT"/><ref name="FFI"/> 24 people were taken to trial, of which eight were convicted.<ref name="hrw"/> Some police sources have said that a goal of the May raids was to crush GIA support networks.<ref name="FFI"/> According to one counterterrorism official, the resort to mass arrests during this period which included several other cases such as those of the "[[Chalabi network]]" reflected the need for intelligence about radical Islamist networks.<ref name="hrw"/> According to a counter-terrorism magistrate, [[Jean-Louis Bruguière]], the May raids were a preventive measure to protect the tournament.<ref name="GlobalTerrorism1998"/>
+
+==Plot and aftermath==
+The plot involved terrorists infiltrating the Stade Vélodrome in [[Marseille]] as stadium crew, in order to attack English players and spectators during the [[England|England-]][[Tunisia]] match on 15 June.<ref name="ESPN"/> Although Osama bin Laden had a rented place in the stands of [[Arsenal F.C.|Arsenal Football Club]], he wanted to destroy English football.<ref name=":0">{{Cite web|title=FIFA World Cup 98': Chilling details of Osama Bin Laden's terror plot targeting England football team|url=https://www.timesnownews.com/fifa-football-world-cup-2018-russia/article/fifa-world-cup-98-chilling-details-of-osama-bin-ladens-terror-plot-targeting-england-football-team/242912|access-date=2020-11-04|website=Times Now News |location=India}}</ref> Terrorists had reportedly planned to blow up the England substitute bench (targeting youngsters [[David Beckham]] and [[Michael Owen]]), shoot English players and throw grenades into the stands.<ref name="ESPN2">{{Cite news|first=Harry|last=Harris|title=England terrorist plot revealed|url=http://www.espnfc.com/story/683732/england-football-team-escaped-terrorist-attack-at-1998-world-cup|work=ESPN FC|date=8 October 2009}}</ref><ref>{{Cite book|first=Laurent|last=Dubois|year=2010|title=Soccer Empire: The World Cup and the Future of France|url=https://archive.org/details/soccerempireworl0000dubo|url-access=registration|publisher=University of California Press|page=[https://archive.org/details/soccerempireworl0000dubo/page/181 181]|isbn=9780520259287}}</ref> Other terrorists were then to storm the United States national team's hotel in Paris and attack American players watching the game there.<ref name="ESPN"/> The attacks would be followed by the hijacking of an aircraft by another group of terrorists to be crashed into the [[Civaux Nuclear Power Plant]] near [[Poitiers]], causing a [[nuclear meltdown]].<ref name="ESPN"/>
+
+The details, and even existence, of the plot were kept secret from managers, players and the media, but were known to security services including [[The Football Association]] staff.<ref name="ESPN2"/> In 2009, the England manager in 1998, [[Glenn Hoddle]], revealed that he had only been informed of the plot "years later", while the FA's Director of Communications during 1998, [[David Davies (football administrator)|David Davies]], said that he had been informed of the plot before the match by the FA's Head of Security, Brian Hayes.<ref name="ESPN2"/> The match was otherwise marred by supporter riots in Marseille, with British vehicles being bricked while bottles were thrown across the streets, causing police to use tear gas as large numbers of supporters were injured and arrested.<ref name="ESPN2"/>
+
+Although organised by GIA operatives, the plot reportedly had the backing and support of al-Qaeda leader Osama bin Laden.<ref>{{Cite book|editor-first1=Nicholas John|editor-last1=Cull|editor-first2=David Holbrook|editor-last2=Culbert|editor-first3=David|editor-last3=Welch|first=Nicholas J.|last=Cull|year=2003|title=Propaganda and Mass Persuasion: A Historical Encyclopedia, 1500 to the Present|chapter=Osama bin Laden|chapter-url=https://books.google.com/books?id=Byzv7rf6gL8C&pg=PA222|publisher=ABC-CLIO|page=222|isbn=9781576078204}}</ref> Laden funded and assisted in the development of the murder plan, promised to provide additional financial support for implementation and weapons, and participated in the training of key GIA individuals at an al-Qaeda training camp.<ref name=":0" /> According to the bin Laden biographer, [[Yossef Bodansky]], the World Cup plot being foiled was one of the reasons for "dormant terrorist networks" responsible for the August [[1998 United States embassy bombings]] being "reactivated".<ref name="ESPN"/><ref>{{Cite news|first=Simon|last=Kuper|title=The World's Game Is Not Just A Game|url=https://www.nytimes.com/2002/05/26/magazine/the-world-s-game-is-not-just-a-game.html?pagewanted=all|work=The New York Times Magazine|date=26 May 2002|url-access=subscription}}</ref>
+
+A terror plot against the [[UEFA Euro 2000]] was discovered after [[Dutch people|Dutch]] intelligence services intercepted calls made between GIA operatives from inside French prisons.<ref name="ESPN2000">{{Cite news|title= Gun guard on French soccer stars|url=http://www.espnfc.com.au/euro2000/news/20000620frathreat.html|work=ESPN Soccernet|date=20 June 2000}}</ref> Three men were detained in French prisons as a result of the plot, and three were subsequently arrested in the [[Netherlands]].<ref name="ESPN2000"/> One of the French prisoners detained for the plot was Adel Mechat, who served six years in prison after having been arrested in Germany and extradited to France as part of the 1998 World Cup raids.<ref name="ESPN"/><ref name="ESPN2000"/>
+
+On the night before the first-ever football match between France and Algeria in October 2001, police seized explosives and arrested four Islamist militants suspected of having targeted the game after a phone call had been intercepted with warnings to stay away from the [[Stade de France]]. Other items retrieved included bulletproof vests and explosives manuals.<ref name="PBS"/><ref name="Telegraph">{{Cite news|title=International Football: Seventeen held as Algerian fans invade pitch|url=https://www.telegraph.co.uk/sport/football/international/3014255/International-Football-Seventeen-held-as-Algerian-fans-invade-pitch.html|work=The Telegraph|date=7 October 2001}}</ref> The match itself was marred with controversy and was eventually stopped with 15 minutes playing time left after Algerian fans stormed the field.<ref name="PBS"/><ref name="Telegraph"/>
+
+==References==
+{{reflist|30em}}
+
+==Sources==
+* {{Cite book|first=Adam|last=Robinson|year=2002|title=Terror on the Pitch: How Bin Laden Targeted Beckham and the England Football Team|publisher=Mainstream Publishing|isbn=978-1840186130}}
+
+
+{{1998 FIFA World Cup}}
+
+{{DEFAULTSORT:World Cup terror plot, 1998}}
+[[Category:1998 crimes in France]]
+[[Category:Al-Qaeda activities in Europe]]
+[[Category:Failed terrorist attempts in France]]
+[[Category:Terrorist incidents in Europe in 1998]]
+[[Category:Islamic terrorist incidents in 1998]]
+[[Category:Islamic terrorism in Europe]]
+[[Category:Islamic terrorism in Belgium]]
+[[Category:Islamic terrorism in France]]
+[[Category:Islamic terrorism in the United Kingdom]]
+[[Category:Counterterrorism in Belgium]]
+[[Category:Counterterrorism in France]]
+[[Category:Police raids on Islamists]]
+[[Category:1998 FIFA World Cup]]
+[[Category:England at the 1998 FIFA World Cup]]
+[[Category:FIFA World Cup controversies]]
+[[Category:Politics and sports]]
+[[Category:Sports-related accidents and incidents]]
+[[Category:Sports controversies]]
+[[Category:Terrorist incidents in France in 1998]]

@@ -1,0 +1,14 @@
+The '''American Association of Veterinary Clinicians''' (or '''AAVC''') is an association of veterinary clinicians that focuses on teaching and research in Veterinary Sciences. It was formed in 1958 by a group of clinicians of colleges of veterinary sciences and they assumed responsibility for the development of nomenclature and classification developed by the AVMA.<ref name="Health1966">{{cite book|author=National Research Council (U.S.). Committee on Animal Health|title=A historical survey of animal-disease morbidity and mortality reporting: a report|url=https://books.google.com/books?id=vTIrAAAAYAAJ&pg=PA9|accessdate=7 October 2012|year=1966|publisher=National Academies|page=9|id=NAP:14583}}</ref> A directory published by the association called ''Directory of Internships and Residencies'' is disseminated to students interested in Post Graduate Programs in Veterinary Sciences, including information such as the details of the program, faculty support etc.<ref name="HutchinsonGreider2002">{{cite book|author1=Barbara S. Hutchinson|author2=Antoinette Paris Greider|title=Using the Agricultural, Environmental, and Food Literature|url=https://books.google.com/books?id=4jKiRrdY7OUC&pg=PA91|accessdate=7 October 2012|date=July 2002|publisher=CRC Press|isbn=978-0-8247-4376-5|page=91}}</ref> This program is called the Veterinary Internship Residency matching Program (VIRMP) and is similar to the Physician National Intern and resident matching Program.<ref name="National Need and Priorities for Veterinarians in Biomedical Research">{{cite book|title=National Need and Priorities for Veterinarians in Biomedical Research|url=https://books.google.com/books?id=Z5lLxCVzdvkC&pg=PA55|accessdate=7 October 2012|date=1 January 2004|publisher=National Academies Press|isbn=978-0-309-09083-4|page=55}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.aavcvet.org/  AAVC Homepage]
+
+[[Category:Veterinary medicine-related professional associations]]
+[[Category:Veterinary medicine in the United States]]
+[[Category:Professional associations based in the United States]]
+
+
+{{vet-stub}}

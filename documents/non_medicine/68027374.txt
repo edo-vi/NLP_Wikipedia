@@ -1,0 +1,31 @@
+{{Short description|An interpretation of Chinese history}}
+{{Use dmy dates|date=August 2021}}
+{{orphan|date=June 2021}}
+{{Infobox
+| title = Salvation overwhelmed enlightenment
+| label1 = Initiator|data1=[[Vera Schwarcz]]<ref name="www.modernchinastudies.org"/>
+| label2 = Origin|data2=''The Chinese Enlightenment: Intellectuals and the Legacy of the May Fourth Movement of 1919''<ref name="www.modernchinastudies.org"/>
+}}
+{{Infobox Chinese
+| title             = Salvation overwhelmed enlightenment
+| float             = <!-- left|right|none (Default float position is right) -->
+| collapse          = <!-- yes|no   -->
+| s                 = 救亡压倒启蒙
+| t                 = 救亡壓倒​啟蒙
+| order                 = st
+| p                 = Jiùwáng yādǎo qǐméng
+}}
+
+'''Salvation overwhelmed enlightenment'''<ref name="CaoZhong2013">{{cite book|author1=Tianyu Cao|author2=Xueping Zhong|author3=Liao Kebin|author4=Ban Wang|title=Culture and Social Transformations: Theoretical Framework and Chinese Context|url=https://books.google.com/books?id=adHYAQAAQBAJ&pg=PA78|date=24 October 2013|publisher=[[Brill Publishers]]|isbn=978-90-04-26051-1|pages=78–}}</ref> ({{zh|s=救亡压倒启蒙|t=救亡壓倒啟蒙}}), or national salvation crushed enlightenment,<ref name="Zhaoguang2018">{{cite book|author=Ge Zhaoguang|title=What Is China?: Territory, Ethnicity, Culture, and History|url=https://books.google.com/books?id=PERMDwAAQBAJ&pg=PA86|date=26 March 2018|publisher=[[Harvard University Press]]|isbn=978-0-674-73714-3|pages=86–}}</ref> the country's salvation suffocated the enlightenment,<ref name="Rošker2019">{{cite book|author=Jana S. Rošker|title=Following His Own Path: Li Zehou and Contemporary Chinese Philosophy|url=https://books.google.com/books?id=pRqEDwAAQBAJ&pg=PA169|date=1 January 2019|publisher=[[SUNY Press]]|isbn=978-1-4384-7248-5|pages=169–}}</ref> is a [[Opinion|viewpoint]] put forward by [[Li Zehou]] in the mid-1980s<ref name="Liu Qianfeng 2002">{{cite book|author=Liu Qianfeng|title="The Evolution of Modern Chinese Thought" Conference Proceedings|url=https://books.google.com/books?id=i6suyxzl-4sC&pg=PA123|year=2002|publisher=[[Chinese University Press]]|isbn=978-962-996-073-5|pages=123–}}</ref> in an [[Article (publishing)|article]] entitled ''Double Variation on Enlightenment and National Salvation''.<ref>{{cite book|title=Modern Chinese Culture and Literature|url=https://books.google.com/books?id=Qm9KAQAAIAAJ|year=2010|publisher=Bashu Publishing House| isbn=9787807525424 }}</ref> However, the American scholar [[Vera Schwarcz]] argued that she was in fact the one who raised this idea before Li.<ref name="www.modernchinastudies.org">{{cite web |url=http://www.modernchinastudies.org/us/issues/past-issues/75-mcs-2001-issue-4/595-2012-01-03-12-11-52.html|title=Rectification overwhelmed Enlightenment: The collision of "May Fourth Spirit" and "Party Culture|author=[[Wang Ruoshui]]|date=2 January 2001|accessdate=|work=[[Modern China Studies]]}}</ref>
+
+==Definition==
+In ''Double Variation on Enlightenment and National Salvation'', Li Zehou deconstructed [[modern Chinese history]] with the two different themes of [[intellectual history]]: "enlightenment" and "salvation". In the process of modern Chinese history, cultural enlightenment task of "[[Antifeudalism|anti-feudalism]]" was "interrupted" by the theme of national salvation, and the revolutionary and salvation movements not only failed to continue to advance the work of cultural enlightenment, but were also "quietly infiltrated by the old traditional ideology", which eventually caused the [[Cultural Revolution]] to "push Chinese consciousness into the desperate situation of full resurrection of feudal traditions".<ref>{{cite web |title=The "salvation overwhelmed enlightenment" in the cultural context of the 1980s|author=|date=15 September 2008|s2cid=223941600 }}</ref> Briefly, national crises and collective causes eventually submerged the values of [[individual freedom]] advocated by the protagonists of the Enlightenment.<ref>{{cite book |url=https://pdfs.semanticscholar.org/718b/c2a983ff40854fb608686665ded456529fcf.pdf|title=Ba Jin, "Offspring of May 4th", Time Bomb and Utopian Impulse|author=Zhang Yinde|series=Translating Wor(l)ds |date=19 October 2020|volume=4 |accessdate=|doi=10.30687/978-88-6969-465-3/005 |isbn=978-88-6969-494-3 |s2cid=234425553 }}</ref>
+
+In 1989, Li again clearly pointed out that the direction of modern Chinese history in the twentieth century was that "salvation overwhelmed enlightenment, and the peasant revolution overwhelmed modernization".<ref>{{cite web |url=http://www.wyzxwk.com/Article/zatan/2011/03/210706.html|title=Be wary of the capitalist clamor under the rhetoric of "enlightenment"|author=|date=6 March 2011|accessdate=|work=[[Utopia (internet forum)|Utopia]]}}</ref> He further argued that if salvation overwhelmed enlightenment during the revolutionary era, then today enlightenment is salvation, and the only way to make the country rich and strong and modern is to fight for democracy, [[freedom]], reason, and the [[rule of law]].<ref name="LeeKennedy2017">{{cite book|author1=John Chi-Kin Lee|author2=Kerry J. Kennedy|title=Theorizing Teaching and Learning in Asia and Europe: A Conversation between Chinese Curriculum and European Didactics|url=https://books.google.com/books?id=OzeEDgAAQBAJ&pg=PT59|date=27 March 2017|publisher=[[Routledge]]|isbn=978-1-317-61654-2|pages=59–}}</ref>
+
+According to the Chinese historian [[Qin Hui (historian)|Qin Hui]], "salvation overwhelmed enlightenment" actually means [[nationalism]] overwhelmed liberalism, and helped the rise of [[Marxism]] and [[Leninism]].<ref>{{cite web |url=https://www.cuhk.edu.hk/ics/21c/media/articles/c150-201506039.pdf|title=Reiterating the Main Tone of the "Great May Fourth" and Why It Was "Overwhelmed"|author=[[Qin Hui (historian)|Qin Hui]]|date=13 August 2015|accessdate=|work=Twenty-First Century}}</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Historiography of China]]

@@ -1,0 +1,16 @@
+'''Epizootiology''', '''epizoology''', or '''veterinary epidemiology''' is the study of [[disease]] patterns within animal populations.<ref>{{Cite book |title=Insect Pathology |last1=Shapiro-Ilan |first1=David I. |last2=Bruck |first2=Denny J. |last3=Lacey |first3=Lawrence A. |date=2012-01-01 |publisher=Academic Press |isbn=9780123849847 |editor-last=Vega |editor-first=Fernando E. |location=San Diego |pages=29–72 |chapter=Chapter 3 - Principles of Epizootiology and Microbial Control |doi=10.1016/b978-0-12-384984-7.00003-8 |editor-last2=Kaya |editor-first2=Harry K. |edition=Second }}</ref>
+
+==See also==
+* [[Epizootic]]
+* [[Epidemiology]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Epidemiology]]
+[[Category:Veterinary medicine]]
+
+
+{{Veterinary-med-stub}}

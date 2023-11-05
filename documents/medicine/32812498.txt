@@ -1,0 +1,36 @@
+{{Short description|Species of virus}}
+{{Italic title}}
+{{virusbox
+| parent = Rhadinovirus
+| species     = Bovine gammaherpesvirus 4
+| synonyms    = Movar virus
+}}
+
+'''''Bovine gammaherpesvirus 4''''' (BoHV-4) is a member of the ''[[Herpesviridae]]'' family. It is part of the [[subfamily]] ''[[Gammaherpesvirinae]]'' and [[genus]] ''[[Rhadinovirus]]''. [[Infection]] is normally [[sub-clinical]] but can cause [[reproductive]] [[disease]] in [[cattle]] such as [[endometritis]], [[vulvovaginitis]] and [[Mastitis in dairy cattle|mastitis]]. Transmission is both [[Vertical transmission|vertical]] and [[Horizontal transmission|horizontal]]. It can also be indirectly spread by [[fomite]]s. Distribution is worldwide and the virus infects a range of [[ruminant]]s, including [[bison]], [[African Buffalo|buffalo]], [[sheep]] and [[goat]]s.
+
+The disease may be referred to as a [[passenger virus]].
+
+== Clinical signs and diagnosis ==
+BoHV-4 infection is often [[subclinical]], with no observable clinical signs. However the virus may cause [[abortion]] and '''retained foetal membranes''', and if an infected fetus is born alive it may be '''weak'''. It can also cause [[Mastitis in dairy cattle|mastitis]] in dairy cattle. It may be isolated from conjunctivitis and respiratory disease cases but it is unknown whether the EHV-4 is a primary or opportunistic pathogen in these cases.
+
+Diagnosis is achieved by [[virus isolation]] (from [[Tissue (biology)|tissues]] or [[secretions]]), '''[[Polymerase chain reaction|PCR]]''', '''[[ELISA]]''', and '''indirect [[immunofluorescence]]'''. Because BHV-4 infection can be asymptomatic, the presence of the virus does not confirm that it was the cause of the observed clinical signs.
+
+== Treatment and control ==
+Treatment is [[symptomatic]]. The virus can remain '''[[Virus latency|latent]] in recovered animals''' - shedding at times of '''stress''', allowing the spread of disease to others. Appropriate '''hygiene''' and '''isolation''' measures can control disease. Vaccines exist in the USA but are not widely used.
+
+== See also ==
+* [[Bovine herpesvirus (disambiguation)]]
+
+== References ==
+{{Wikispecies}}
+* Bovine Herpesvirus 4, reviewed and published by [[WikiVet]] at http://en.wikivet.net/Bovine_Herpesvirus_4, accessed 14/08/2011.
+
+{{Herpesvirales}}
+{{Taxonbar|from=Q4950561}}
+
+[[Category:Animal viral diseases]]
+[[Category:Bovine diseases]]
+[[Category:Gammaherpesvirinae]]
+
+
+{{Veterinary-med-stub}}

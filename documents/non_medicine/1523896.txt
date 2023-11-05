@@ -1,0 +1,48 @@
+{{Short description|Opening to a story that establishes the setting and gives background details}}
+{{About|the narrative device|the compilation-related term|function prologue|the computer programming language|Prolog|other uses}}
+{{Wiktionary|prologue}}
+
+A '''prologue''' or '''prolog''' (from [[Ancient Greek|Greek]] πρόλογος ''prólogos'', from πρό ''pró'', "before" and λόγος ''lógos'', "word") is an opening to a story that establishes the context and gives background details, often some earlier story that ties into the main one, and other miscellaneous information. The Ancient Greek word πρόλογος includes the modern meaning of ''prologue'', but was of wider significance, more like the meaning of [[preface]]. The importance, therefore, of the prologue in [[Greek tragedy#Structure|Greek drama]] was very great; it sometimes almost took the place of a romance, to which, or to an episode in which, the play itself succeeded.
+
+==Latin==
+[[File:Prologue I.jpg|thumb|Artwork by [[Gustave Doré]].]]
+[[Image:Every Man in his Humour title page 1616.jpg|thumb|right|180px|Title page of 1616 printing of ''[[Every Man in His Humour]]'', a 1598 play by the English playwright [[Ben Jonson]]. The play belongs to the subgenre of the "[[humours comedy]]"]]
+On the Latin stage the prologue was often more elaborate than it was in Athens, and in the careful composition of the poems which [[Plautus]] prefixes to his plays we see what importance he gave to this portion of the entertainment; sometimes, as in the preface to the ''[[Rudens]]'', Plautus rises to the height of his genius in his adroit and romantic prologues, usually placed in the mouths of persons who make no appearance in the play itself.
+
+[[Molière]] revived the Plautian prologue in the introduction to his ''[[Amphitryon (Molière)|Amphitryon]]''. [[Jean Racine|Racine]] introduced Piety as the speaker of a prologue which opened his choral tragedy of [[Esther]].
+
+The tradition of the ancients vividly affected our own early dramatists. Not only was the [[mystery play]]s and miracles of the [[Middle Ages]] begun by a [[homily]], but when the drama in its modern sense was inaugurated in the reign of Elizabeth, the prologue came with it, directly adapted from the practice of Euripides and [[Terence]]. [[Thomas Sackville, 1st Earl of Dorset|Sackville, Lord Buckhurst]], prepared a sort of prologue in the dumb show for his ''[[Gorboduc (play)|Gorboduc]]'' of 1562; and he also wrote a famous [[Induction (play)|Induction]], which is, practically, a prologue, to a [[miscellany]] of short romantic epics by diverse hands.
+
+==<span lang="cdo" dir="rtl">Elizabethan</span>==
+Prologues of Renaissance drama often served a specific function of transition and clarification for the audience. A direct address made by one actor, the prologue acted as an appeal to the audience's attention and sympathy, providing historical context, a guide to themes of the play, and occasionally, a disclaimer.<ref name="Bruster-2004">{{Cite book |last=Bruster |first=Douglas |title=Prologues to Shakespeare's Theatre |last2=Weimann |first2=Robert |publisher=Routledge |year=2004 |isbn=978-1-134-31370-9 |oclc=252704697}}</ref>{{Rp|17}}  In this mode, a prologue, like any scripted performance, would exist as the text, the actor who speaks that text, and the presentation of the language as it is spoken.{{R|Bruster-2004|p=1}} In ushering the audience from reality into the world of the play, the prologue straddles boundaries between audience, actors, characters, playwrights—basically, it creates a distinction between the imaginary space within the play and the outside world.{{R|Bruster-2004|p=2}} [[Ben Jonson]] has often been noted as using the prologue to remind the audience of the complexities between themselves and all aspects of the performance.<ref name="Cave-1999">{{Cite book |last=Cave |first=Richard |title=Ben Jonson and Theatre: Performance, Practice, and Theory |last2=Schafer |first2=Elizabeth |publisher=Routledge |year=1999 |isbn=978-0-203-98137-5 |location=Hoboken |page=24 |oclc=437147635}}</ref>
+
+The actor reciting the prologue would appear dressed in black, a stark contrast to the elaborate costumes used during the play.<ref name="White-1998">{{Cite book |last=White |first=Martin |title=Renaissance Drama in Action: An Introduction to Aspects of Theatre Practice and Performance |publisher=Routledge |year=1998 |isbn=978-0-415-06738-6 |page=125 |oclc=38016622}}</ref> The prologue removed his hat and wore no makeup. He may have carried a book, scroll, or placard displaying the title of the play.{{R|Bruster-2004|p=24}} He was introduced by three short trumpet calls, on the third of which he entered and took a position downstage. He made three bows in the current fashion of the court, and then addressed the audience.{{R|Bruster-2004|p=26–27}}
+The Elizabethan prologue was unique in incorporating aspects of both classical and medieval traditions.{{R|Bruster-2004|p=13}} In the classical tradition, the prologue conformed to one of four subgenres: the ''sustatikos'', which recommends either the play or the poet; the ''epitimetikos'', in which a curse is given against a rival, or thanks given to the audience; ''dramatikos'', in which the plot of the play is explained; and mixtos, which contains all of these things.{{R|Bruster-2004|p=13}} In the medieval tradition, expressions of morality and modesty are seen,{{R|Bruster-2004|p=14}} as well as a meta-theatrical self-consciousness, and an unabashed awareness of the financial contract engaged upon by paid actors and playwrights, and a paying audience.{{R|Bruster-2004|p=58}}
+
+==Use in fiction==
+Prologues have long been used in non-dramatic fiction, since at least the time of [[Geoffrey Chaucer]]'s ''[[Canterbury Tales]]'', although Chaucer had prologues to many of the tales, rather than one at the front of the book.
+
+''[[The Museum of Eterna's Novel]]'' by the Argentine writer [[Macedonio Fernandez]] has over 50 prologues by the author. Their style varies between metaphysical, humoristic, psychological, discussions about the art of the novel, etc.
+
+==See also==
+*[[Epigraph (literature)|Epigraph]]
+*[[Epilogue]]
+*[[Foreword]]
+*[[Interlude (disambiguation)|Interlude]]
+*[[Introduction (writing)|Introduction]]
+*[[Loa (Spanish play)|Loa]]
+*[[Preface]]
+*[[Prolegomena (disambiguation)|Prolegomena]]
+
+==References==
+{{Reflist|2}}
+
+===Attribution===
+*{{EB1911|wstitle=Prologue | volume= 22 |last= Gosse |first= Edmund William |author-link= Edmund William Gosse| pages = 434&ndash;435 |short = 1}}
+
+{{Book structure}}
+{{Authority control}}
+
+[[Category:Literature]]
+[[Category:Fiction]]
+[[Category:Style (fiction)]]

@@ -1,0 +1,188 @@
+{{short description|Hierarchical outline list of articles related to geology}}
+{{Geology sidebar}}
+{{see also|Index of geology articles}}
+<!--... Attention:  THIS IS AN OUTLINE
+
+        part of the set of 830+ outlines listed at
+             [[Wikipedia:Contents/Outlines]].
+
+                 Wikipedia outlines are
+              a special type of list article.
+              They make up one of Wikipedia's
+                content navigation systems
+
+             See [[Wikipedia:Outlines]] and 
+     [[Wikipedia:WikiProject Outlines]] for more details.
+                   Further improvements
+              to this outline are on the way
+...-->
+
+The following [[Outline (list)|outline]] is provided as an overview of and topical guide to geology:
+
+'''[[Geology]]''' – one of the [[Earth science]]s – is the study of the Earth, with the general exclusion of present-day life, flow within the ocean, and the atmosphere. The field of geology encompasses the composition, structure, physical properties, and history of Earth's components, and the processes by which it is shaped. Geologists typically study [[rock (geology)|rock]], [[sediment]], [[soil]], [[river]]s, and [[natural resource]]s.
+
+{{TOC limit|limit=2}}
+
+== Branches of geology ==
+Geology applies primarily to Earth, but can be applied to any planet or extraterrestrial body.
+
+=== Geology of Earth ===
+Subdisciplines of geology:
+* {{annotated link|Biogeology}}
+* {{annotated link|Economic geology}}
+* {{annotated link|Engineering geology}}
+* {{annotated link|Environmental geology}}
+* {{annotated link|Geochemistry}}
+* {{annotated link|Geologic modelling}}
+* {{annotated link|Geomorphology}}
+* {{annotated link|Geophysics}}
+* {{annotated link|Historical geology}}
+* {{annotated link|Hydrogeology}}
+* {{annotated link|Marine geology}}
+* {{annotated link|Mineralogy}}
+* {{annotated link|Mining|Mining geology}}
+* {{annotated link|Paleontology}}
+* {{annotated link|Petroleum geology}}
+* {{annotated link|Petrology}}
+* {{annotated link|Sedimentology}}
+* {{annotated link|Stratigraphy}}
+* {{annotated link|Structural geology}}
+* {{annotated link|Volcanology}}
+
+=== Planetary geology ===
+See also: {{annotated link|Geology of solar terrestrial planets}}
+
+{{annotated link|Planetary geology}}
+* {{annotated link|Geology of Mercury}}
+* {{annotated link|Geology of Venus}}
+* {{annotated link|Geology of the Moon}}
+* {{annotated link|Geology of Mars}}
+* {{annotated link|Jupiter#Internal structure|Geology of Jupiter}}
+* {{annotated link|Saturn#Physical characteristics|Geology of Saturn}}
+* {{annotated link|Uranus#Physical characteristics|Geology of Uranus}}
+* {{annotated link|Neptune#Physical characteristics|Geology of Neptune}}
+
+== Principles of geology ==
+* {{annotated link|Cross-cutting relationships|Principle of cross-cutting relationships}}
+* {{annotated link|Law of included fragments}}
+* {{annotated link|Uniformitarianism|Principle of uniformitarianism}}
+* {{annotated link|Principle of original horizontality}}
+* {{annotated link|Law of superposition|Principle of superposition}}
+* {{annotated link|Principle of faunal succession}}
+
+===Geological processes===
+* {{annotated link|Petrogenesis}}
+
+== History of geology ==
+* {{annotated link|History of geology}}
+** {{annotated link|Geological history of Earth}}
+** {{annotated link|Timeline of geology}}
+
+== Geologic provinces ==
+[[Image:World geologic provinces.jpg|thumb|300px|World geologic provinces
+<br />
+'''[[Oceanic crust]]'''
+{{legend|#cde|0–20 Ma}}
+{{legend|#abc|20–65 Ma}}
+{{legend|#89a|>65 Ma}}
+'''[[Geologic province]]s'''
+{{legend|#f96|[[Shield (geology)|Shield]]}}
+{{legend|#f9c|[[Continental platform|Platform]]}}
+{{legend|#9fc|[[Orogeny|Orogen]]}}
+{{legend|#9cf|[[Basin (geology)|Basin]]}}
+{{legend|#969|Large [[igneous rock|igneous]] province}}
+{{legend|#ff9|Extended [[crust (geology)|crust]]|border=#dc8}}
+]]
+
+{{annotated link|Geologic province}}
+
+Geologic provinces based on origin:
+* {{annotated link|Shield (geology)|Shield}}
+** {{annotated link|Platform (geology)|Platform}}
+* {{annotated link|Orogen}}
+** {{annotated link|Island arc}}
+** {{annotated link|Continental arc}}
+** {{annotated link|Forearc}}
+* {{annotated link|Oceanic basin}}
+** {{annotated link|Craton|Cratonic basin}}
+** {{annotated link|Foreland basin|aka=foredeep basin}}
+* {{annotated link|Large igneous province}}
+* Extended {{annotated link|Crust (geology)|crust}}
+** {{annotated link|Rift}}
+
+== Plate tectonics ==
+* {{annotated link|Plate tectonics}}
+
+== Occupations in geology ==
+The [[Dictionary of Occupational Titles]] lists the following occupations in Geology, which it describes as "concerned with the investigation of the composition, structure, and physical and biological history of the earth's [[Crust (geology)|crust]] and the application of this knowledge in such fields as [[archeology]], [[mining]], [[construction]], and [[environmental impact]]":<ref>{{Cite web|url=http://occupationalinfo.org/defset1_4244.html |title=024 OCCUPATIONS IN GEOLOGY |work=Dictionary Of Occupational Titles |access-date=2011-04-02}}</ref>
+
+* {{annotated link|Crystallography|Crystallographer}}
+* {{annotated link|Geodesist}}
+* {{annotated link|Geologist}}
+* {{annotated link|Petroleum geologist|Petroleum Geologist}}
+* {{annotated link|Geophysical survey|Geophysical Prospector}}
+* {{annotated link|Geophysicist}}
+* {{annotated link|Hydrologist}}
+* {{annotated link|Mineralogist}}
+* {{annotated link|Paleontologist}}
+* {{annotated link|Petrologist}}
+* {{annotated link|Seismologist}}
+* {{annotated link|Stratigrapher}}
+* [[Volcanologist]]
+* Engineer, Soils<ref>{{Cite web|url=http://occupationalinfo.org/02/024161010.html |title=024.161-010 ENGINEER, SOILS (profess. & kin.)  |work=Dictionary Of Occupational Titles |access-date=2011-04-02}}</ref>
+* Geophysical-Laboratory Chief (Alternate Titles: Director, Geophysical)<ref>{{Cite web|url=http://occupationalinfo.org/02/024167010.html |title=024.167-010 GEOPHYSICAL-LABORATORY CHIEF (profess. & kin.) alternate titles: director, geophysical laboratory; engineer, geophysical laboratory; research engineer, geophysical laboratory; superintendent, geophysical laboratory  |work=Dictionary Of Occupational Titles |access-date=2011-04-02}}</ref>
+* Geological Aide (Petrol. & Gas)<ref>{{Cite web|url=http://occupationalinfo.org/02/024267010.html |title=024.267-010 GEOLOGICAL AIDE (petrol. & gas) |work=Dictionary Of Occupational Titles |access-date=2011-04-02}}</ref>
+* {{annotated link|Prospecting|Prospector}}
+* {{annotated link|Paleontology|Paleontological Helper}}
+* Laboratory Assistant (Petrol. & Gas) (Alternate Titles: Analyst, Geochemical Prospecting; Core Analyst; Laboratory Tester)<ref>{{Cite web|url=http://occupationalinfo.org/02/024381010.html |title=024.381-010 LABORATORY ASSISTANT (petrol. & gas) alternate titles: analyst, geochemical prospecting; core analyst; laboratory tester |work=Dictionary Of Occupational Titles |access-date=2011-04-02}}</ref>
+
+== Influential geologists ==
+* {{annotated link|List of geologists}}
+
+== Geology lists ==
+{{Maincat|Geology-related lists}}
+* {{annotated link|Glossary of geology|Glossary of geological terms}}
+* {{annotated link|Lists of geological features of the Solar System}}
+* {{annotated link|Geologic time scale}}
+* {{annotated link|List of compounds}}
+* {{annotated link|Lists of earthquakes}}
+* {{annotated link|List of chemical elements}}
+* {{annotated link|Geology of the English counties}}
+* {{annotated link|List of geologists}}
+* {{annotated link|List of Russian geologists}}
+* {{annotated link|List of largest volcanic eruptions}}
+* {{annotated link|List of minerals}}
+* {{annotated link|List of oil fields}}
+* {{annotated link|List of plate tectonics topics}}
+* {{annotated link|List of rock types}}
+* {{annotated link|List of tectonic plates}}
+* {{annotated link|Lists of volcanoes}}
+
+== See also ==
+{{portal|Geology}}
+* {{annotated link|Outline of geography}}
+
+* [[American Geophysical Union]]
+* [[American Geosciences Institute]]
+* [[European Geosciences Union]]
+* [[Geological Society of America]]
+* [[Geological Society of London]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://www.researchgate.net/publication/318602166_150_BRANCHES_OF_GEOLOGY(EARTH_SCIENCES), A. Balasubramanian, First edition, July, 2017]
+* [http://geology.com/ ''Earth Science News, Maps, Dictionary, Articles, Jobs'']
+* [http://www.minigeology.com Video-interviews with famous geologists]
+* [https://www.studygeosci.in/2020/10/what-is-geology-importance-branches-and.html "Geology, Importance, Branches, Career in Geology, Indian Education System for a career in Geology]
+*[https://geology.buzz/threads/branches-of-geolology.86/ Geology Buzz: Branches of Geology]
+{{sisterlinks|Geology}}
+
+{{Outline footer}}
+{{Geology}}
+
+[[Category:Outlines of sciences|Geology]]
+[[Category:Outlines|Geology]]
+[[Category:Geology| ]]
+[[Category:Geology-related lists| ]]

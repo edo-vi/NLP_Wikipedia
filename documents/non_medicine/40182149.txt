@@ -1,0 +1,236 @@
+{{Short description|Chinese term for various foreigners living outside the borders of Ancient China}}
+{{Use shortened footnotes|date=May 2021}}
+{{Distinguish|Five Barbarians}}
+{{Chinese
+|collapse=no
+|title=Four Barbarians
+|pic = Huaxiasiyi.svg
+|piccap=[[Zhou Dynasty]] cosmography of [[Huaxia]] and the Four Barbarians: [[Dongyi]] in the east, [[Nanman]] in the south, [[Xirong]] in the west, and [[Beidi]] in the north.
+|picsize=
+|c={{linktext|四|夷}}
+|l=four barbarians
+|p=sìyí
+|w=ssu-i
+|hn={{linktext|四|夷}}
+|qn=tứ di
+|hanja={{linktext|四|夷}}
+|hangul={{linktext|사|이}}
+|rr=sa-i
+|mr=sa-i
+|kanji={{linktext|四|夷}}
+|hiragana=しい
+|revhep=shii
+}}
+
+"'''Four Barbarians'''" ({{lang-zh|c=四夷|p=sìyí}}) was a term used by subjects of the [[Zhou dynasty|Zhou]] and [[Han dynasty|Han dynasties]] to refer to the four major people groups living outside the borders of [[Huaxia|China]]. Each was named for a cardinal direction: the ''[[Dongyi]]'' ("Eastern Barbarians"), ''[[Nanman]]'' ("Southern Barbarians"), ''[[Xirong]]'' ("Western Barbarians"), and ''[[Beidi]]'' ("Northern Barbarians"). Ultimately, the four barbarian groups either emigrated away from the Chinese heartland or were partly assimilated through [[sinicization]] into [[Chinese culture]] during later [[Chinese dynasties|dynasties]]. After this early period, "barbarians" to the north and the west would often be designated as ''"[[Hu (people)|Hu]]"'' (胡).
+
+==Etymology==
+{{further|Hua–Yi distinction}}
+[[History of China#Ancient China|Ancient China]] was composed of a group of states that arose in the [[Yellow River]] valley. According to historian Li Feng, during the [[Zhou dynasty]] ({{Circa|1041–771 BCE}}), the contrast between the 'Chinese' Zhou and the 'non-Chinese' [[Xirong]] or [[Dongyi]] was "more political than cultural or ethnic".<ref>{{harvnb|Li|2006|p=286}}. Li explains that "Rong" meant something like "warlike foreigners" and "Yi" was close to "foreign conquerables".</ref> othar von Falkenhausen argues that the perceived contrast between "Chinese" and "Barbarians" was accentuated during the [[Zhou dynasty|Eastern Zhou]] period (770–256 BCE), when adherence to Zhou rituals became increasingly recognised as a "barometer of civilisation"; a meter for sophistication and cultural refinement.{{sfn|von Falkenhausen|1999|p=544}} The Chinese began making a [[Hua–Yi distinction|distinction between China (''Hua'') and the barbarians (''Yi'')]] during that period.{{sfn|Shelach|1999|pp=222–23}} ''[[Huaxia]]'', the earliest concept of "China", was at the center of ''[[tianxia]]'' ("[everywhere] under heaven; the world"). It was surrounded by "Four Directions/Corners" ({{lang-zh|labels=no|c={{linktext|四|方}}|p=sìfāng|}}), "Four Lands/Regions" ({{lang-zh|labels=no|c={{linktext|四|土}}|p=sìtǔ}}), "[[Four Seas (historical)|Four Seas]]", and "Four Barbarians/Foreigners". The text ''[[Erya]]'' from the late Zhou dynasty defines the Four Seas as " the place where the barbarians lived, hence by extension, the Four Barbarians... are called the four seas".{{r|Wilkinson2000_710|at=Chapter 9}}
+
+The Four Barbarians were the ''[[Dongyi|Yi]]'' to the east of China, ''[[Nanman|Man]]'' in the south, ''[[Xirong (tribe)|Rong]]'' in the west, and ''[[Beidi|Di]]'' in the north.{{efn|[[William H. Baxter]] and [[Laurent Sagart]] reconstruct the [[Old Chinese]] names of the four barbarian tribes as:{{r|BaxterSagart2014}}<br>
+*{{linktext|夷}} *ləj (eastern foreigners)
+*{{linktext|蠻}} *mˤro[n] (southern foreigners)
+*{{linktext|戎}} *nuŋ (western foreigners)
+*{{linktext|狄}} *lˤek (northern foreigners)}} Scholars such as [[Herrlee Glessner Creel]]{{r|Creel1970_197}} argue that ''Yi'', ''Man'', ''Rong'', and ''Di'' were originally Chinese names of particular ethnic groups or tribes. During the [[Spring and Autumn period]] (771–476 BC), these four exonyms were expanded into "general designations referring to the barbarian tribes" in a given cardinal direction.{{r|Pu2005_45}} For example, "''Yi''" became "''Dongyi''", literally meaning "East(ern) ''Yi''".{{efn|The names ''Yi'', ''Man'', ''Rong'', and ''Di'' were further generalized into [[Compound (linguistics)|compounds]] (such as ''Rongdi'', ''Manyi'', and ''Manyirongdi'') denoting "non-Chinese; foreigners; barbarians." [[Traditional Chinese characters]] for these terms all include a [[Radical (Chinese characters)|radical]] meaning "animal/insect". [[Simplified Chinese characters|simplified characters]] use the radical meaning "dog" instead.{{citation-needed|date=October 2023}}}} The Russian anthropologist [[Mikhail Kryukov]] concludes:
+<blockquote>This would, in the final analysis, mean that once again territory had become the primary criterion of the we-group, whereas the consciousness of common origin remained secondary. What continued to be important were the factors of language, the acceptance of certain forms of material culture, the adherence to certain rituals, and, above all, the economy and the way of life. Agriculture was the only appropriate way of life for the [''Huaxia''].{{r|Jettmar1983_229}} </blockquote>
+
+[[File:尸-oracle.svg|thumb|150px|[[Oracle bone script]] for ''shi'' 尸 "corpse" and ''yi'' 夷 "barbarian"]]
+
+In Chinese, the term "Four Barbarians" uses the character for ''Yi'' ([[wikt:夷|夷]]). The sinologist [[Edwin G. Pulleyblank]] states that the name ''Yi'' "furnished the primary Chinese term for 'barbarian'," despite paradoxically being "considered the most civilized of the non-Chinese peoples."{{r|Pulleyblank1983_440}}{{efn|''Yi'' was used both for the names of specific barabarian groups (e.g., the ''Huaiyi'', meaning "[[Huai River]] barbarians") and generalized references to "barbarian"}} Schuessler{{r|Schuessler2007_563}} defines ''Yi'' as "The name of non-Chinese tribes, prob[ably] Austroasiatic, to the east and southeast of the central plain (Shandong, Huái River basin), since the Spring and Autumn period also a general word for 'barbarian'", and proposes a "sea" etymology, "Since the ancient Yuè (=Viet) word for 'sea' is said to have been ''yí'', the people's name might have originated as referring to people living by the sea".''Yi'' is the Modern Chinese pronunciation. The [[Old Chinese]] pronunciation is reconstructed as {{Old Chinese|dyər}} ([[Bernhard Karlgren]]), *''ɤier'' (Zhou Fagao), *''ləj'' ([[William H. Baxter]]), and *''l(ə)i'' (Axel Schuessler). Schuessler{{r|Schuessler2007_563}} defines ''Yi'' as "The name of non-Chinese tribes, prob[ably] Austroasiatic, to the east and southeast of the central plain (Shandong, Huái River basin), since the Spring and Autumn period also a general word for 'barbarian'", and proposes a "sea" etymology, "Since the ancient Yuè (=Viet) word for 'sea' is said to have been ''yí'', the people's name might have originated as referring to people living by the sea".
+
+The modern character for ''yi'' ([[wikt:夷|夷]]), like the [[Qin Dynasty]] [[seal script]], is composed of [[wikt:大|大]] "big" and [[wikt:弓|弓]] "bow" – but the earliest [[Shang Dynasty]] [[oracle bone script]] was used interchangeably for ''yi'' and ''shi'' [[wikt:尸|尸]] "corpse", depicting a person with bent back and dangling legs.{{r|HanyuDazidian1986_527}} The archeologist and scholar [[Guo Moruo]] believed the oracle graph for ''yi'' denotes "a dead body, i.e., the killed enemy", while the bronze graph denotes "a man bound by a rope, i.e., a prisoner or slave".{{r|Huang2013_462}} Ignoring this historical [[paleography]], the Chinese historian [[K. C. Wu]] claimed that ''Yi'' should not be translated as "barbarian" because the modern graph implies a big person carrying a bow, someone to perhaps be feared or respected, but not to be despised.{{r|Wu1982_1078}} The scholar [[Léon Wieger]] provided multiple definitions to the term ''yi'': “The men 大 armed with bows 弓, the primitive inhabitants, barbarians, borderers of the Eastern Sea, inhabitants of the South-West countries."{{r|Wieger1927_156}} ''[[Hanyu Da Cidian]]'',<ref>1993 ed., vol. 3, p. 577</ref> a major Chinese language dictionary, notes ''Siyi'' as derogatory: "古代華夏族对四方小数民族的統称. 含有轻蔑之意." [Contrasting with the ancient Chinese people, a name for [[Ethnic minorities in China|ethnic minorities]] in all four directions. Contains a pejorative meaning.]
+
+"Four barbarians" is the common English translation of ''Siyi''. Compare these Chinese-English dictionary equivalents for ''Siyi'': "the four barbarian tribes on the borders of ancient China",{{r|LiangShihChiu1971}} "the barbarians on borders of China",{{r|LinYutang1972}} and "four barbarian tribes on the borders".{{r|DeFrancis2003}} Some scholars interpret the ''si'' "four" in ''Siyi'' as ''sifang'' (四方 "four directions"). Liu Xiaoyuan says the meaning of ''Siyi'' "is not 'four barbarians' but numerous 'barbarous tribes' in the four directions".{{r|LiuXiaoyuan2004}} However, Liu also states that the term ''yi'' might have been used by the early Chinese to simply mean "ordinary others". Yuri Pines translates ''Siyi'' as "barbarians of the four corners".{{r|Pines2005_62}}
+
+In [[Chinese Buddhism]], ''siyi'' (四夷) or ''siyijie'' (四夷戒) abbreviates the ''si boluoyi'' (四波羅夷) "Four [[Parajika]]s" (grave offenses that entail expulsion of a monk or nun from the [[sangha]]).
+
+==Western Zhou usages==
+[[Chinese bronze inscriptions|Bronze inscriptions]] and reliable documents from the [[Western Zhou]] period (c. 1046–771 BCE) used the word ''Yi'' in two meanings, says Chinese sinologist Chen.{{sfn|Zhi|2004|p=202}} First, ''Yi'' or ''Yifang'' (夷方) designated a specific ethnic group that had battled against the Shang since the time of King [[Wu Ding]]. Second, ''Yi'' meant specifically or collectively (e.g., ''zhuyi'' 諸夷) peoples in the remote lands east and south of China, such as the well-known Dongyi (東夷), Nanyi (南夷), and Huaiyi (淮夷). Western Zhou bronzes also record the names of some little-known ''Yi'' groups, such as the Qiyi (杞夷), Zhouyi (舟夷), Ximenyi (西門夷), Qinyi (秦夷), and Jingyi (京夷). Chen notes, "These ''yi'' are not necessarily identical with the numerous ''yi'' in Eastern Zhou literature. On the contrary, except for the ''Huaiyi'', ''Dongyi'' and ''Nanyi'', these ''yi'' all seem to have vanished from the historical and inscriptional accounts of the Eastern Zhou".{{sfn|Zhi|2004|p=200}}
+
+Inscriptions on bronze ''[[Gui (vessel)|gui]]'' vessels (including the Xun 詢, Shiyou 師酉, and Shi Mi 史密) do not always use the term ''yi'' exclusively in reference to alien people of physically different ethnic groups outside China. According to Chen, "''yi''" was also used for "certain groups of people residing in places within the region of Zhou control".{{sfn|Zhi|2004|p=201}}
+
+Expanding upon the research of [[Li Ling (sinologist)|Li Ling]] that Western Zhou bronze writings differentiate the Zhou people (''Wangren'' 王人, lit. "king's people") from other peoples (''yi'' 夷), Chen found three major categories:{{sfn|Zhi|2004|p=204}} people of Zhou, people of Shang, and people of ''Yi'' (neither Zhou nor Shang). "The Zhou rulers treated the Shang remnant elites with courtesy and tolerance, whereas they treated ''yi'' people with less respect." Shang people were employed in positions based upon their cultural legacy and education, such as ''zhu'' 祝 "priest", ''zong'' 宗 "ritual official", ''bu'' 卜 "diviner", ''shi'' 史 "scribe", and military commander. ''Yi'' people, who had a much lower status, served the rulers in positions such as infantry soldiers, palace guards, servants, and slave laborers. Chen compares the social status of ''Yi'' with "''xiangren'' 降人, people captured from other states or ethnicities, or their descendants".{{sfn|Zhi|2004|p=202}}
+
+Chen analyzed diachronic semantic changes in the twin concepts of ''Xia'' and ''Yi''.{{sfn|Zhi|2004|p=186}} During the Western Zhou, they were employed to distinguish "between the Zhou elite and non-Zhou people"; during the Eastern Zhou, they distinguished "between the central states and peripheral barbarian tribes in a geographical sense, as well as between Zhou subjects and non-Zhou subjects in a political sense." Eastern Zhou canonical texts, says Chen, "frequently assert a differentiation between ''Xia'' (or ''Zhongguo''), meaning those states in the central plains subject to the Zhou sovereign, and ''Yi'' 夷, ''Di'' 狄, ''Rong'' 戎, and ''Man'' 蠻, all of which could be used generally to refer to non-Chinese ethnic groups".{{sfn|Zhi|2004|p=197}} Among these four terms, ''Yi'' was most widely employed for "barbarian" clans, tribes, or ethnic groups. The Chinese classics used it in directional compounds (e.g., "eastern" ''Dongyi'' 東夷, "western" ''Xiyi'' 西夷, "southern" ''Nanyi'', and "northern" ''Beiyi'' 北夷), numerical (meaning "many") generalizations ("three" ''Sanyi'' 三夷, "four" ''Siyi'' 四夷, and "nine" ''Jiuyi'' 九夷), and groups in specific areas and states (''Huaiyi'' 淮夷, ''[[Chu (state)|Chu]]yi'' 楚夷, ''[[Qin (state)|Qin]]yi'' 秦夷, and ''[[Wu (state)|Wu]]yi'' 吳夷).
+
+Historians Liu Junping and Huang Deyuan{{sfn|Liu|Huang|2006|p=532}} describe how early Chinese monarchs used the concept of the Four Barbarians to justify their rule. Just how [[yin and yang|heaven (''yang'') was matched with the inferior earth (''yin'')]], "the Chinese as an entity was matched with the inferior ethnic groups surrounding it in its four directions so that the kings could be valued and the barbarians could be rejected." Lius and Huang propose that later Chinese ideas about the "nation" and "state" of China evolved from the "casual use of such concepts as "''Tianxia''"...and "Four Barbarians"."{{sfn|Liu|Huang|2006|p=535}}
+
+==Eastern Zhou usages==
+The [[Chinese classics]] contain many references to the ''Siyi'' "Four Barbarians". Around the late [[Spring and Autumn period]] (771–476 BCE) or early [[Warring States period]] (475–221 BCE), the names ''Man'', ''Yi'', ''Rong'', and ''Di'' became firmly associated with the cardinal directions. ''Yi'' changed from meaning a specific "barbarians in the east" to "barbarians" generally, and two new words – ''Siyi'' and ''Man-Yi-Rong-Di'' 蠻夷戎狄 – referred to "all non-Zhou barbarians in the four directions". The ''Zuozhuan'' and ''Mozi'' contain the earliest extant occurrences of ''Siyi''.
+
+The (early 4th century BCE) ''[[Zuozhuan]]'' commentary to the ''Chunqiu'' ("[[Spring and Autumn Annals]]") uses ''Siyi'' four times. 
+<blockquote>The affair [presenting Rong prisoners and spoils of war to Duke Zhuang] was contrary to rule. When a prince has gained success over any of the wild tribes, he presents the spoils to the king, who employs them to terrify other tribes.<ref>Zhuang 31, {{harvnb|Legge|1872|loc=[https://books.google.com/books?id=KzJ3D82yE_AC&pg=PA119 p. 119]}}.</ref> </blockquote>
+<blockquote>It is virtue by which the people of the Middle State are cherished; it is by severity that the wild tribes around are awed.<ref>Duke Xi 25, {{harvnb|Legge|1872|loc=[https://books.google.com/books?id=KzJ3D82yE_AC&pg=PA196 p. 196]}}.</ref> </blockquote>
+<blockquote>I have heard that, when the officers of the son of Heaven are not properly arranged, we may learn from the wild tribes all about.<ref>Duke Zhao 17, {{harvnb|Legge|1872|loc=[https://books.google.com/books?id=_KhxPnWF6moC&pg=PA668 p. 668]}}.</ref> </blockquote>
+<blockquote>Anciently, the defenses of the sons of Heaven were the rude tribes on every side of the kingdom; and when their authority became low, their defenses were the various States.<ref>Duke Zhao 23, {{harvnb|Legge|1872|p=700}}.</ref> </blockquote>
+In addition, the ''Zuozhuan'' has an early usage of ''Man-Yi-Rong-Di'' 蠻夷戎狄 meaning "all kinds of barbarians". 
+<blockquote>When any of the wild tribes, south, east, west, or north, do not obey the king's commands, and by their dissoluteness and drunkenness are violating all the duties of society, the king gives command to attack them.<ref>Cheng 3, {{harvnb|Legge|1872|loc=[https://books.google.com/books?id=KzJ3D82yE_AC&pg=PA349 p. 349]}}.</ref> </blockquote>
+
+The (c. 4th century BCE) ''[[Mozi]]'' has one occurrence of ''Siyi'' referring to [[King Wu of Zhou]].
+<blockquote>After King Wu had conquered the Shang dynasty and received the gifts bestowed by God, he assigned guardians to the various spirits, instituted sacrifices to Zhou's ancestors, the former kings of Shang, and opened up communications with the barbarians of the four quarters, so that there was no one in the world who did not pay him allegiance.{{r|Watson2003_61}} </blockquote>
+
+The (c. 4th century BCE) ''[[Guanzi (text)|Guanzi]]'' recounts how [[Duke Huan of Qi]] (d. 643 BCE) conquered all his enemies, including the ''Dongyi'' 東夷, ''Xirong'' 西戎, ''Nanman'' 南蠻, and ''Beidi'' 北狄.
+<blockquote>Further to the west, he subjugated the Western Yu, of Liusha and for the first time the Rong people of Qin were obedient. Therefore, even, though the soldiers went forth only once, their great accomplishments [victories] numbered twelve, and as a consequence none of the eastern Yi, western Rong, southern Man, northern Di, or the feudal lords of the central states failed to submit.<ref>''Xioao Kuang'', {{harvnb|Rickett|1998|p=341}}.</ref> </blockquote>
+This text<ref>''Ba Yan'', {{harvnb|Rickett|1998|p=365}}.</ref> also recommends, "To use the states bordering the four seas to attack other states bordering the four seas is a condition distinguishing the central states."
+
+The (c. 4th century BCE) Confucian ''[[Analects]]'' does not use ''Siyi'', but does use ''Jiuyi'' 九夷 "Nine Barbarians" (9/19),<ref>Tr. {{harvnb|Waley|1938|p=141}}</ref> "The Master wanted to settle among the Nine Wild Tribes of the East. Someone said, I am afraid you would find it hard to put up with their lack of refinement. The Master said, Were a true gentleman to settle among them there would soon be no trouble about lack of refinement." ''Yidi'' 夷狄 "Eastern and Northern Barbarians" occurs twice,<ref>Tr. {{harvnb|Waley|1938|loc=(3/5) pp. 94–5; (13/19) p. 176}}.</ref> "The Master said, The barbarians of the East and North have retained their princes. They are not in such a state of decay as we in China"; "The Master said, In private life, courteous, in public life, diligent, in relationships, loyal. This is a maxim that no matter where you may be, even amid the barbarians of the east or north, may never be set aside." This text has an indirect reference to "barbarians" (5/6),<ref>Tr. {{harvnb|Waley|1938|p=108}}.</ref> "The Master said, The Way makes no progress. I shall get upon a raft and float out to sea."
+
+The (c. 290 BCE) Confucianist ''[[Mencius (book)|Mencius]]'' (1A/7)<ref>Tr. {{harvnb|Lau|1970|p=57}}.</ref> uses ''Siyi'' once when Mencius counsels [[King Xuan of Qi]] (r. 319–301 BCE) against territorial expansion: "You wish to extend your territory, to enjoy the homage of Ch'in and Ch'u, to rule over the Central Kingdoms and to bring peace to the barbarian tribes on the four borders. Seeking the fulfillment of such an ambition by such means as you employ is like looking for fish by climbing a tree." This text (3A/4)<ref>Tr. {{harvnb|Lau|1970|p=103}}.</ref> uses ''Yi'' 夷 in quoting Confucius, "I have heard of the Chinese converting barbarians to their ways, but not of their being converted to barbarian ways."
+
+The ''Mencius'' uses western ''Xiyi'' 西夷 four times (three contrasting with northern ''Beidi'' 北狄), eastern ''Dongyi'' 東夷 once, and ''Yidi'' 夷狄 once. Three repeated ''Xiyi'' occurrences (1B/11)<ref>Tr. {{harvnb|Lau|1970|p=69}}; cf. 3B/5 and 7B/4.</ref> describe [[Tang of Shang]] establishing the Shang Dynasty: "With this he gained the trust of the Empire, and when he marched on the east, the western barbarians complained, and when he marched on the south, the northern barbarians complained. They all said, 'Why does he not come to us first?'" ''Dongyi'' occurs in a claim (4B/1)<ref>Tr. {{harvnb|Lau|1970|p=128}}.</ref> that the legendary Chinese sages [[Shun (Chinese leader)|Shun]] and [[King Wen of Zhou]] were ''Yi'': "Mencius said, 'Shun was an Eastern barbarian; he was born in Chu Feng, moved to Fu Hsia, and died in Ming T'iao. Ken Wen was a Western barbarian; he was born in Ch'i Chou and died in Pi Ying." ''Yidi'' occurs in context (3B/9)<ref>Tr. {{harvnb|Lau|1970|p=115}}.</ref> with the [[Duke of Zhou]], "In ancient times, Yu controlled the Flood and brought peace to the Empire; the Duke of Chou subjugated the northern and southern barbarians, drove away the wild animals, and brought security to the people."
+
+The (c. 3rd century BCE) ''[[Xunzi (book)|Xunzi]]'' uses ''Siyi'' twice in one chapter.
+<blockquote>If your deportment is respectful and reverent, your heart loyal and faithful, if you use only those methods sanctioned by ritual principles and moral duty, and if your emotional disposition is one of love and humanity, then though you travel throughout the empire, and though you find yourself reduced to living among the Four Yi 夷 tribes, everyone would consider you to be an honorable person. If you strive to be the first to undertake toilsome and bitter tasks and can leave pleasant and rewarding tasks to others, if you are proper, diligent, sincere, and trustworthy, if you take responsibility and oversee it meticulously, then wherever you travel in the civilized world and though you find yourself reduced to living with the Four Tribes, everyone would be willing to entrust you with official duties.<ref>On Self Cultivation, {{harvnb|Knoblock|1988|pp=154–5}}.</ref> </blockquote>
+John Knoblock notes,{{sfn|Knoblock|1988|p=278}} "The 'Four Yi tribes' refers to the barbarians surrounding the Chinese "Middle Kingdom" and does not designate particular peoples". The ''Xunzi'' uses ''Man-Yi-Rong-Di'' once.
+<blockquote>Accordingly, [諸夏] all the states of Xia Chinese have identical obligations for service to the king and have identical standards of conduct. The countries of Man, Yi, Rong, and Di barbarians perform the same obligatory services to the kind, but the regulations governing them are not the same. … The Man and Yi nations do service according to treaty obligations. The Rong and Di do irregular service.<ref>Rectifying Theses, tr. Knoblock 1994: 38–9.{{Full citation needed|date=May 2021}}</ref> </blockquote>
+
+The (3rd–1st centuries BCE) ''[[Liji]]'' uses ''Siyi'' once.
+<blockquote>But if it be his character, when he finds men of ability, to be jealous and hate them; and, when he finds accomplished and perspicacious men, to oppose them and not allow their advancement, showing himself really not able to bear them: such a minister will not be able to protect my sons and grandsons and people; and may he not also be pronounced dangerous to the state?" It is only the truly virtuous man who can send away such a man and banish him, driving him out among the barbarous tribes around, determined not to dwell along with him in the Middle Kingdom.<ref>''[[Great Learning]]'', {{harvnb|Legge|1885|p=367}}.</ref> </blockquote>
+The ''Liji'' also gives detailed information about the Four Barbarian peoples. <blockquote>The people of those [''wufang'' 五方] five regions – the Middle states, and the Rong, Yi, (and other wild tribes round them) – had all their several natures, which they could not be made to alter. The tribes on the east were called Yi. They had their hair unbound, and tattooed their bodies. Some of them ate their food without its being cooked. Those on the south were called Man. They tattooed their foreheads, and had their feet turned in towards each other. Some of them (also) ate their food without its being cooked. Those on the west were called Rong. They had their hair unbound, and wore skins. Some of them did not eat grain-food. Those on the north were called Di. They wore skins of animals and birds, and dwelt in caves. Some of them also did not eat grain-food. The people of the Middle states, and of those Yi, Man, Rong, and Di, all had their dwellings, where they lived at ease; their flavours which they preferred; the clothes suitable for them; their proper implements for use; and their vessels which they prepared in abundance. In those five regions, the languages of the people were not mutually intelligible, and their likings and desires were different. To make what was in their minds apprehended, and to communicate their likings and desires, (there were officers) – in the east, called transmitters; in the south, representationists; in the west, Di-dis; and in the north, interpreters.<ref>Wang Zhi, {{harvnb|Legge|1885|pp=229–30}}, changed to Pinyin.</ref> </blockquote>
+
+The ''[[Shujing]]'' history uses ''Siyi'' in two forged "Old Text" chapters.
+<blockquote>Yi said, 'Alas! be cautious! Admonish yourself to caution, when there seems to be no occasion for anxiety. Do not fail to observe the laws and ordinances. … Do not go against what is right, to get the praise of the people. Do not oppose the people's (wishes), to follow your own desires. (Attend to these things) without idleness or omission, and the barbarous tribes all around will come and acknowledge your sovereignty.'<ref>3, {{harvnb|Legge|1865|p=47}}.</ref> </blockquote>
+<blockquote>The king said, 'Oh! Grand-Master, the security or the danger of the kingdom depends on those officers of Yin. If you are not (too) stern with them nor (too) mild, their virtue will be truly cultivated. … The penetrating power of your principles, and the good character of your measures of government, will exert an enriching influence on the character of the people, so that the wild tribes, with their coats buttoning on the left, will all find their proper support in them, and I, the little child, will long enjoy much happiness.<ref>52, {{harvnb|Legge|1865|p=249}}.</ref> </blockquote>
+
+The (c. 239 BCE) ''[[Lüshi Chunqiu]]'' has two occurrences of ''Siyi''.
+<blockquote>Seeking depth, not breadth, reverently guarding one affair … When this ability is utterly perfect, the barbarian Yi states of the four quarters are tranquil. (17/5){{sfn|Knoblock|Riegel|2000|p=424}}</blockquote>
+<blockquote>If your desires are not proper and you use them to govern your state, it will perish. Therefore, the sage-kings of antiquity paid particular attention to conforming to the endowment Heaven gave them in acting on their desires; all the people, therefore, could be commanded and all their accomplishments were firmly established. "The sage-kings held fast to the One, and the barbarians of the four directions came to them" refers to this. (19/6){{sfn|Knoblock|Riegel|2000|p=498}} </blockquote>
+
+The Daoist ''[[Zhuangzi (book)|Zhuangzi]]'' uses ''Siyi'' twice in the (c. 3rd century BCE)  "Miscellaneous Chapters".
+<blockquote>The sword of the son of heaven has a point made of Swallow Gorge and Stone Wall … It is embraced by the four uncivilized tribes, encircled by the four seasons, and wrapped around by the Sea of Po. (30){{sfn|Mair|1994|p=315}} </blockquote>
+<blockquote>Master Mo declared, "Long ago, when Yü was trying to stem the flood waters, he cut channels from the Yangtze and the Yellow rivers and opened communications with the four uncivilized tribes and the nine regions. (33){{sfn|Mair|1994|p=327}} </blockquote>
+
+==Han usages==
+Many texts dating from the [[Han Dynasty]] (206 BCE-220 CE) used the ethnonyms ''Yi'' and ''Siyi''.
+
+For example, the (139 BCE) ''[[Huainanzi]]'', which is an eclectic compilation attributed to [[Liu An]], uses ''Siyi'' "Four Barbarians" in three chapters (and ''Jiuyi'' "Nine Barbarians" in two).
+<blockquote>[[Yu the Great|Yu]] understood that the world had become rebellious and thereupon knocked down the wall [built by his father [[Gun (Chinese mythology)|Gun]] to protect Xia], filled in the moat surrounding the city, gave away their resources, burned their armor and weapons, and treated everyone with beneficence. And so the lands beyond the Four Seas respectfully submitted, and the four Yi tribes brought tribute. (1.6)<ref>Tr. {{harvnb|Major|Queen|Meyer|Roth|2010|p=54}}.</ref> </blockquote>
+<blockquote>The Three Miao [tribes] bind their heads with hemp; the Qiang people bind their necks: the [people of] the Middle Kingdom use hat and hatpin; the Yue people shear their hair. In regard to getting dressed, they are as one. … Thus the rites of the four Yi ["barbarians"] are not the same, [yet] they all revere their ruler, love their kin, and respect their elder brothers. (11.7)<ref>Tr. {{harvnb|Major|Queen|Meyer|Roth|2010|p=407}}.</ref> </blockquote>
+<blockquote>When Shun was the Son of Heaven, he plucked the five-stringed ''[[Guqin|qin]]'' and chanted the poems of the "Southern Airs" [a ''[[Shijing]]'' section], and thereby governed the world. Before the Duke of Zhou had gathered provisions or taken the bells and drums from their suspension cords, the four Yi tribes submitted. (20.16)<ref>Tr. {{harvnb|Major|Queen|Meyer|Roth|2010|p=813}}.</ref> </blockquote>
+<blockquote>Thus when the Son of Heaven attains the Way, he is secure [even] among the four Yi [tribes of "barbarians"]; when the son of Heaven loses the way, he is secure [only] among the Lords of the Land. (20.29)<ref>Tr. {{harvnb|Major|Queen|Meyer|Roth|2010|p=828}}.</ref> </blockquote>
+
+References to the "Four Barbarians" are especially common among Han-era histories; ''Siyi'' occurs 18 times in the ''Shiji'', 62 in the ''Han Shu'', and 30 in the ''Hou Han Shu''.
+
+To evaluate the traditional "civilized vs. barbarian" dichotomy that many scholars use as a blanket description of Chinese attitudes towards outsiders, Erica Brindley examined how the Chinese classics ethnically described the southern [[Baiyue|Yue peoples]].{{sfn|Brindley|2003}} Brindley found that many early authors presented the Yue in various ways and not in a simplistic manner. For instance, [[Sima Qian]]'s (c. 109–91 BCE) ''[[Shiji]]'' history traces the Chinese lineage of [[King Goujian of Yue]] back to [[Yu the Great]], legendary founder of the Xia Dynasty (41):<ref>Tr. {{harvnb|Brindley|2003|p=27}}.</ref> "Gou Jian, the king of Yue, was the descendant of Yu and the grandson of Shao Kang of the Xia. He was enfeoffed at Kuaiji and maintained ancestral sacrifices to Yu. [The Yue] tattooed their bodies, cut their hair short, and cleared out weeds and brambles to set up small fiefs." On the one hand, this statement conceptualizes the Yue people through alien habits and customs, but on the other, through kinship-based ethnicity. Sima Qian also states (114):<ref>Tr. {{harvnb|Brindley|2003|p=28}}.</ref> "Although the Yue are considered to be southern (''man'' 蠻) barbarians (''yi'' 夷), is it not true that their ancestors had once benefited the [Yue] people with their great merit and virtue?" Sima denigrates the Yue by calling them “Man Yi,” but he also "counterbalances such language and descriptions by proving the honor of Yue ancestry and certain of its individual members."{{sfn|Brindley|2003|p=31}}
+
+Brindley further notes that,
+<blockquote>I translate "Man Yi" above as "Southern barbarian," and not just as the Man and Yi peoples, because it is clear that Sima Qian does not think of them as two distinct groups. Rather, it appears that the term Yi does not point to any particular group … but to a vague category of degraded other. Man, on the other hand, denotes not the specific name of the group ("Yue") but the general southern location of this specific derogatory other. In the literary tradition, the four directions (north, south, east, west) are linked with four general categories of identification denoting a derogatory other (''di'', ''man'', ''yi'', ''rong'').{{sfn|Brindley|2003|p=29}}</blockquote>
+
+In the end, Brindley concludes that,
+<blockquote>Much scholarship dealing with the relationship between self and other in Chinese history assumes a simple bifurcation between civilized Chinese or Han peoples and the barbarian other. In this analysis of the concepts of the Yue and Yue ethnicity, I show that such a simple and value-laden categorization did not always exist, and that some early authors differentiated between themselves and others in a much more complicated and, sometimes, conflicted manner.{{sfn|Brindley|2003|pp=31–2}}</blockquote>
+
+The complexities of the meaning and usage of ''Yi'' is also shown in the ''Hou Han Shu'', where in its chapter on the ''Dongyi'', the books describes the ''Dongyi'' countries as places where benevolence rules and the gentlemen do not die.
+
+The ''[[Shuowen Jiezi]]'' (121 CE) character dictionary, defines ''yi'' as "men of the east” (東方之人也).{{cn|date=October 2023}}
+
+==Later usages==
+Chinese ''Yi'' "barbarian" and ''Siyi'' continued to be used long after the Han dynasty, as illustrated by the following examples from the [[Ming Dynasty]] (1368–1644) and [[Qing Dynasty]] (1644–1912).
+
+The Dutch sinologist [[Kristofer Schipper]] cites a (c. 5th–6th century) [[Celestial Masters]] Daoist document (''Xiaren Siyi shou yaolu'' 下人四夷受要籙) that substitutes [[Qiang (historical people)|Qiang]] {{zh|羌|labels=no}} for Man {{zh|蠻|labels=no}} in the ''Sìyí''.{{r|Schipper1994_74}}
+
+''Sìyí guǎn'' {{zh|四夷館}} (lit. "Four Barbarians building") was the name of the [[Ming dynasty|Ming]] imperial "[[Hanlin Academy#Bureau of Translators|Bureau of Translators]]" for foreign [[Imperial Chinese tributary system|tributary missions]] to China. Norman Wild says that in the Zhou Dynasty, interpreters were appointed to deal with envoys bringing tribute or declarations of loyalty.{{sfn|Wild|1945|p=617}} The ''[[Liji]]'' records regional "interpreter" words for the ''Sìyí'': ''ji'' [[Wikt:寄|寄]] for the ''Dongyi'', ''xiang'' [[Wikt:象|象]] for the ''Nanman'', ''didi'' [[Wikt:狄|狄]][[Wikt:鞮|鞮]] for the ''Xirong'', and ''yi'' [[Wikt:譯|譯]] for the ''Beidi''. In the [[Sui dynasty|Sui]], [[Tang dynasty|Tang]], and [[Song dynasty|Song]] Dynasties, tributary affairs were handled by the ''Sìfāng guǎn'' {{zh|四方館|l=Four corners/directions building}}. The Ming [[Yongle Emperor]] established the ''Sìyí guǎn'' {{zh|四夷館|labels=no}} "Bureau of Translators" for foreign diplomatic documents in 1407, as part of the imperial [[Hanlin Academy]]. Ming histories also mention ''Huárén Yíguān'' 華人夷官 "Chinese barbarian officials"{{sfn|Chan|1968|p=411}} denoting people of Chinese origin employed by rulers of the "barbarian vassal states" in their tributary embassies to China.  When the [[Qing Dynasty]] revived the Ming ''Sìyíguǎn'' {{zh|四夷館|labels=no}}, the [[Manchu people|Manchus]], who "were sensitive to references to barbarians",{{sfn|Wild|1945|p=620}} changed the name from pejorative ''yí'' 夷 "barbarian" to ''yí'' [[Wikt:彝|彝]] "[[Yi people]] (a Chinese ethnic minority)".
+
+In 1656, the Qing imperial court issued an edict to Mongolia about a [[territorial dispute]],<ref>Tr. {{harvnb|Zhao|2006|p=7}}.</ref> "Those barbarians (''fanyi'') who paid tribute to Mongolia during the Ming should be administered by Mongolia. However, those barbarians submitting to the former Ming court should be subjects of China"
+
+After China began expansion into [[Inner Asia]], Gang Zhao says,{{sfn|Zhao|2006|p=13}} "Its inhabitants were no longer to be considered barbarians, a term suitable for the tributary countries, and an error on this score could be dangerous." In a 1787 memorial sent to the [[Qianlong Emperor]], the [[Shaanxi]] governor mistakenly called a Tibetan mission an ''yísh3'' 夷使  "barbarian mission". The emperor replied, "Because Tibet has long been incorporated into our territory, it is completely different from Russia, which submits to our country only in name. Thus, we cannot see the Tibetans as foreign barbarians, unlike the Russians".
+
+The use of ''Yí'' 夷 continued into modern times. The ''[[Oxford English Dictionary]]'' defines ''barbarian'' (3.c) as, "Applied by the Chinese contemptuously to foreigners", and cites the 1858 [[Treaty of Tientsin]] prohibiting the Chinese from calling the British "Yí". ([[s:Treaty of Tien-Tsin between the Queen of Great Britain and the Emperor of China|Article LI]]) states, "It is agreed, that henceforward the character "I" 夷 ('barbarian') shall not be applied to the Government or subjects of Her Britannic Majesty, in any Chinese official document." This prohibition in the Treaty of Tientsin had been the end result of a long dispute between the Qing and British officials regarding the translation, usage and meaning of ''Yí''. Many Qing officials argued that the term did not mean “barbarians,” but their British counterparts disagreed with this opinion. Using the linguistic concept of [[heteroglossia]], [[Lydia H. Liu|Lydia Liu]] analyzed the significance of ''yí'' in Articles 50 and 51 as a "super-sign":
+<blockquote>The law simply secures a three-way commensurability of the hetero-linguistic sign ''夷/i/barbarian'' by joining the written Chinese character, the romanized pronunciation, and the English translation together into a coherent semantic unit. [Which] means that the Chinese character ''yi'' becomes a hetero-linguistic sign by virtue of being informed, signified, and transformed by the English word "barbarian" and must defer its correct meaning to the foreign counterpart. ... That is to say, whoever violates the integrity of the super-sign ''夷/i/barbarian'' ... risks violating international law itself.{{sfn|Liu|2004|p=33}} </blockquote>
+
+==See also==
+* [[Four Perils]], which included "barbarian" tribes in ancient Chinese history
+* [[Five Barbarians]], later groups that settled in [[northern China]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+===Citations===
+{{reflist|30em|refs=
+<ref name=Wilkinson2000_710>Wilkinson, Endymion (2000), ''Chinese History: a manual'', revised and enlarged ed., Harvard University Asia Center. p. 710.</ref>
+
+<ref name=Creel1970_197>[[Herrlee G. Creel|Creel, Herrlee G.]] (1970), ''The Origins of Statecraft in China'', The University of Chicago Press. p. 197.</ref>
+
+<ref name=Pu2005_45>Pu Muzhou (2005), ''Enemies of Civilization: Attitudes toward Foreigners in Ancient Mesopotamia, Egypt, and China'', SUNY Press. p.45.</ref>
+
+<ref name=Jettmar1983_229>Jettmar, Karl (1983), "The Origins of Chinese Civilization: Soviet Views," In Keightley, David N., ed. [https://books.google.com/books?id=4-vdP2aZWhUC The Origins of Chinese civilization], University of California Press. p. 229.</ref>
+
+<ref name=Pulleyblank1983_440>Pulleyblank, E. G., (1983), "The Chinese and Their Neighbors in Prehistoric and Early Historic Times", in Keightley, David N., ed. [https://books.google.com/books?id=4-vdP2aZWhUC&pg=PA440 The Origins of Chinese civilization], University of California Press. p. 440.</ref>
+
+<ref name=Schuessler2007_563>Schuessler, Axel (2007), ''[https://books.google.com/books?id=nIvqAC7FNBQC&pg=PA563 ABC Etymological Dictionary of Old Chinese]'', University of Hawaii Press. p. 563.</ref>
+
+<ref name=BaxterSagart2014>Baxter, William H. and Laurent Sagart. 2014. ''Old Chinese: A New Reconstruction''. Oxford University Press, {{ISBN|978-0-19-994537-5}}.</ref>
+
+<ref name=HanyuDazidian1986_527>[[Hanyu Da Zidian]] weiyuanhui 汉语大字典委员会, eds. 1986-1989. ''Hanyu dazidian'' 汉语大字典 ("Comprehensive Chinese Character Dictionary"). 8 vols. 1986 ed. vol. 1, p. 527.</ref>
+
+<ref name=Huang2013_462>Huang Yang (2013), "[https://web.archive.org/web/20141017080335/http://wp.chs.harvard.edu/chs-fellows/2014/03/14/perceptions-of-the-barbarian-in-early-greece-and-china/ Perceptions of the Barbarian in Early Greece and China]", ''CHS Research Bulletin 2.1'', translating Guo Moruo, (1933, 1982), 卜辭通纂, 第五六九片. p. 462.</ref>
+
+<ref name=Wu1982_1078>[[K. C. Wu|Wu, K.C.]] (1982), ''The Chinese Heritage'', Crown Publishers. pp. 107-8.</ref>
+
+<ref name=Wieger1927_156>Wieger, Léon (1927), ''Chinese Characters: Their Origin, Etymology, History, Classification and Signification. A Thorough Study from Chinese Documents'', tr. by L. Davrout, 2nd edition, Dover reprint. p. 156.</ref>
+
+<ref name=LiangShihChiu1971>[[Liang Shih-chiu]] 梁實秋and Chang Fang-chieh 張芳杰, eds. (1971), ''Far East Chinese-English Dictionary'', Far East Book Co.</ref>
+
+<ref name=LinYutang1972>[[Lin Yutang]] (1972), [http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/ Lin Yutang's Chinese-English Dictionary of Modern Usage], Chinese University Press.</ref>
+
+<ref name=DeFrancis2003>[[John DeFrancis|DeFrancis, John]], ed. (2003), ''ABC Chinese-English Comprehensive Dictionary'', University of Hawaii Press.</ref>
+
+<ref name=LiuXiaoyuan2004>Liu Xiaoyuan (2004), ''Frontier Passages: Ethnopolitics and the Rise of Chinese Communism, 1921–1945'' (Stanford: Stanford University Press, 2004). 176, 10–11.</ref>
+
+<ref name=Pines2005_62>Pines, Yuri (2005). "Beasts or humans: Pre-Imperial origins of Sino-Barbarian Dichotomy", in ''Mongols, Turks and Others: Eurasian nomads and the sedentary world'', eds. R. Amitai and M. Biran, Brill :59–102. p. 62.</ref>
+
+<ref name=Watson2003_61>''Against Offensive Warfare'', tr. Watson, Burton (2003), ''Mozi: Basic Writings'', Columbia University Press. p. 61.</ref>
+
+<ref name=Schipper1994_74>Schipper, Kristofer (1994), "Purity and Strangers Shifting Boundaries in Medieval Taoism", ''T'oung Pao'' 80.3: 61–81. p. 74.</ref>
+}}
+
+===Bibliography===
+{{refbegin}}
+* {{citation |last=Brindley |first=Erica Fox |date=2003 |contribution=Barbarians or Not? Ethnicity and Changing Conceptions of the Ancient Yue (Viet) Peoples, ca. 400–50 BC |title=Asia Major |series=3rd Series |volume=16 |issue=1 |pages=1–32 |url=http://www.ihp.sinica.edu.tw/~asiamajor/pdf/2003a/03%20brindley.pdf |publisher= |location= |jstor=41649870 }}.
+* {{cite journal |last=Chan |first=Hok-Lam |date=1968 |title=The "Chinese Barbarian Officials" in the Foreign Tributary Missions to China during the Ming Dynasty |journal=Journal of the American Oriental Society |volume=88 |issue=3 |pages=411–418
+|doi=10.2307/596866 |jstor=596866 }}
+* {{cite journal |last=Zhi |first=Chen |date=2004 |title=From Exclusive Xia to Inclusive Zhu-Xia: The Conceptualisation of Chinese Identity in Early China |journal=Journal of the Royal Asiatic Society |volume=14 |issue=3 |publisher=[[Cambridge University Press]] |jstor=25188470 |pages=185–205 |doi=10.1017/S135618630400389X |s2cid=162643600 |url=https://www.jstor.org/stable/25188470
+}}
+* {{cite book |translator-last=Knoblock |translator-first=John  |date=1988 |title=Xunzi, A Translation and Study of the Complete Works, Volume 1, Books 1–6 |publisher=Stanford University Press |ref=CITEREFKnoblock1988
+}}
+* {{cite book |translator1-last=Knoblock |translator1-first=John |translator2-last=Riegel |translator2-first=Jeffrey |date=2000 |title=The Annals of Lü Buwei: A Complete Translation and Study |publisher=Stanford University Press |ref=CITEREFKnoblockRiegel2000
+}}
+* {{cite book |last=Lau |first=D.C. |date=1970 |others=(2003) |title=Mencius |publisher=Penguin Books }}
+* {{cite book |translator-last=Legge |translator-first=James |translator-link=James Legge |date=1865 |title=The Chinese Classics (vol. III, The Shoo King) |location=London |publisher=Trübner & co |ref=CITEREFLegge1865
+}}
+* {{cite book |translator-last=Legge |translator-first=James |translator-link=James Legge |date=1872 |title=The Chinese Classics (vol. V) |location=London |publisher=Trübner & co |ref=CITEREFLegge1872
+}}
+* {{cite book |translator-last=Legge |translator-first=James |translator-link=James Legge |date=1885 |title=The Li Ki (2 vols) |location=[[Oxford]] |publisher=Clarendon Press |ref=CITEREFLegge1885
+}}
+* {{cite book |last=Liu |first=Lydia |date=2004 |title=The Clash of Empires |publisher=Harvard University Press
+}}
+* {{cite journal |last1=Liu |first1=Junping |last2=Huang |first2=Deyuan |date=2006 |title=The Evolution of Tianxia Cosmology and Its Philosophical Implications |journal=Frontiers of Philosophy in China |volume=1 |issue=4 |pages=517–538 |publisher=Brill |doi=10.1007/s11466-006-0023-6 |jstor=30209874 |s2cid=195310037 |url=https://www.jstor.org/stable/30209874
+}}
+* {{cite book |translator-last=Mair |translator-first=Victor H. |date=1994 |title=Wandering on the Way: Early Taoist Tales and Parables of Chuang Tzu |publisher=Bantam Books |ref=CITEREFMair1994
+}}
+* {{cite book |last1=Major |first1=John S. |last2=Queen |first2=Sarah |last3=Meyer |first3=Andrew |last4=Roth |first4=Harold |date=2010 |title=The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China, by Liu An, King of Huainan |publisher=Columbia University Press
+}}
+* {{cite book |translator-last=Rickett |translator-first=W. Allyn |date=1998 |title=Guanzi |publisher=Princeton University Press |ref=CITEREFRickett1998
+}}
+* {{cite book |last=Waley |first=Arthur |date=1938 |title=The Analects of Confucius |publisher=Vintage
+}}
+* {{cite journal |last=Wild |first=Norman |date=1945 |title=Materials for the Study of the ''Ssŭ i Kuan'' 四夷譯館 (Bureau of Translators) |journal=Bulletin of the School of Oriental and African Studies, University of London |volume=11 |issue=3 |pages=617–640
+|doi=10.1017/S0041977X00072311 |s2cid=154048910 }}
+* {{cite journal |last=Zhao |first=Gang |date=2006 |title=Reinventing China: Imperial Qing Ideology and the Rise of Modern Chinese National Identity |journal=Modern China |volume=32 |issue=1 |pages=3–30|doi=10.1177/0097700405282349 |s2cid=144587815 }}
+*{{cite book|last=Li |first=Feng|title=Landscape and Power in Early China: The Crisis and Fall of the Western Zhou 1045–771 BC|url={{google books |plainurl=y |id=d_qOvs0WjPcC}}|date=17 August 2006|publisher=Cambridge University Press|isbn=978-1-139-45688-3 }}
+*{{cite book|first=Gideon |last=Shelach|title=Leadership Strategies, Economic Activity, and Interregional Interaction: Social Complexity in Northeast China|url={{google books |plainurl=y |id=n_-8NnuSwC8C}} |date=30 April 1999 |publisher=Springer US|isbn=978-0-306-46090-6 }}
+*{{cite book|editor-first1=Michael |editor-last1=Loewe|editor-first2=Edward L.|editor-last2= Shaughnessy |last=von Falkenhausen |first=Lothar|chapter=The Waning of the Bronze Age: Material Culture and Social Developments, 770–481 B.C.|title=The Cambridge History of Ancient China: From the Origins of Civilization to 221 BC|url={{google books |plainurl=y |id=cHA7Ey0-pbEC |page=450}}|date=13 March 1999|pages=450–544 |publisher=Cambridge University Press |isbn=978-0-521-47030-8}}
+{{ref end}}
+
+==Further reading==
+* Shin, Leo (2006), ''The Making of the Chinese State: Ethnicity and Expansion on the Ming Borderlands'', Cambridge University Press.
+
+==External links==
+* [http://www.chinaknowledge.de/History/Altera/yi.html Chinese History – Yi 夷], [[Chinaknowledge]]
+
+{{Historical Non-Chinese peoples in China}}{{Historiography}}
+[[Category:Ancient peoples of China]]
+[[Category:Ethnic groups in Chinese history]]
+[[Category:Historiography of China]]
+[[Category:Barbarians]]

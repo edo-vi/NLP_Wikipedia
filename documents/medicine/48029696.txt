@@ -1,0 +1,28 @@
+{{Short description|Species of flowering plant}}
+{{Speciesbox
+|image = Flickr - João de Deus Medeiros - Maytenus robusta (1).jpg
+|status = 
+|status_system = 
+|status_ref = 
+|genus = Maytenus
+|species = robusta
+|authority = Reissek
+}}
+
+'''''Maytenus robusta''''',<ref>{{Cite web|title=Maytenus robusta Reissek — The Plant List|url=http://www.theplantlist.org/tpl1.1/record/tro-6600215|access-date=2020-06-22|website=www.theplantlist.org}}</ref> known in [[Brazil]] as '''''cafezinho do mato''''' or '''''coração de bugre''''', is a species of [[plant]] in the family [[Celastraceae]]. It is [[Endemism|endemic]] to Brazil. 
+
+''Maytenus robusta'' is used in folk medicine to treat [[gastric ulcers]].<ref>A. Balbach A flora nacional na medicina doméstica Vida Plena, 2 (1980), p. 34</ref><ref>S.C. Cunha Ação farmacológica da espinheira-santa: usos e precauções Universidade Federal de Lavras, Lavras (2003), p. 100</ref><ref>{{cite journal|last1=Niero|first1=Rivaldo|last2=Faloni de Andrade|first2=Sergio|last3=Cechinel Filho|first3=Valdir|title=A Review of the Ethnopharmacology, Phytochemistry and Pharmacology of Plants of the Maytenus Genus|journal=Current Pharmaceutical Design|date=1 June 2011|volume=17|issue=18|pages=1851–1871|doi=10.2174/138161211796391029|pmid=21554223}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Taxonbar|from=Q10327860}}
+
+[[Category:Medicinal plants]]
+[[Category:Traditional Brazilian medicine]]
+[[Category:Maytenus|robusta]]
+[[Category:Endemic flora of Brazil]]
+
+
+{{Celastraceae-stub}}
+{{alt-med-stub}}

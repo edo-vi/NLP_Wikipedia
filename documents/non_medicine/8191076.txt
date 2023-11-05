@@ -1,0 +1,200 @@
+{{Short description|Degradation and loss of digitally-stored information}}{{Use dmy dates|date=August 2013}}
+
+[[File:VCF 2010 Domesday tray open.jpg|thumb|250px|A computer terminal set up with a [[laserdisc]] containing information from the 1986 [[BBC Domesday Project]]. The original [[Domesday Book]] is 900 years old and still legible, while the laserdisc is already considered obsolete and difficult to read.]]
+The '''digital dark age''' is a lack of historical information in the digital age as a direct result of outdated file formats, software, or hardware that becomes corrupt, scarce, or inaccessible as technologies evolve and data decays.<ref>{{Cite news|url=https://apps.sciencefriday.com/data/reawakening.html|title=Data Reawakening|work=Science Friday |first=Lauren J. |last=Young |date=December 15, 2017 |access-date=2018-03-01|language=en}}</ref>  Future generations may find it difficult or impossible to retrieve [[electronic document]]s and [[multimedia]], because they have been recorded in an [[Obsolescence|obsolete]] and obscure [[file format]], or on an obsolete physical medium, for example, [[floppy disk]]s. The name derives from the term [[Dark Ages (historiography)|''Dark Ages'']] in the sense that there could be a relative lack of records in the digital age, as documents are transferred to digital formats and original copies are lost. An early mention of the term was at a conference of the [[International Federation of Library Associations and Institutions]] (IFLA) in 1997.<ref name="Kuny, 1997"/> The term was also mentioned in 1998 at the Time and Bits conference,<ref name="MacLean, 1999"/><ref name="Brand, 1999"/> which was co-sponsored by the [[Long Now Foundation]] and the [[Getty Conservation Institute]].
+
+== Proprietary and obsolete file formats ==
+The problem is not limited to text documents, but applies equally to photos, video, audio and other kinds of electronic documents. One concern leading to the use of the term is that documents are stored on physical [[Digital media|media]] which require special [[Computer hardware|hardware]] in order to be read and that this hardware will not be available in a few decades from the time the document was created.
+
+The digital dark age also applies to the problems which arise due to [[Digital preservation#Migration|obsolete file formats]]. In such a case, it is the lack of necessary [[software]] which causes problems when retrieving stored documents. This is especially problematic when [[proprietary format]]s are used, in which case it might be impossible to write appropriate software to read the file.
+
+== Archiving the internet ==
+The [[Internet Archive]] has stated that one of their goals is to prevent the digital dark age.<ref>{{cite web|url=https://archive.org/about/|title=About the Internet Archive|archive-url=https://web.archive.org/web/20131002231304/https://archive.org/about/|archive-date=2 October 2013|url-status=live|access-date=5 October 2013|df=dmy}}</ref>
+
+[[Vinton Cerf]], Vice President of Google, showed his concerns about data preservation in the annual meeting of the American Association for the Advancement of Science in 2015: "As the way that we store information about ourselves develops, memories stored in files that use older technology are becoming harder to access. That could mean that historians of the future are unable to learn about our lives". His suggested solution consists of preserving a sample of every piece of software and hardware that has ever existed so that it never becomes obsolete. He proposed taking an X-ray snapshot of the content, the application and the operating system along with a description of the machine. This information should be then stored, instead of in a museum, in servers in the cloud.<ref>{{cite news |last=Pallab |first=Ghosh |date=13 February 2015 |url=https://www.bbc.com/news/science-environment-31450389 |title=Google's Vint Cerf warns of 'digital Dark Age' |work=BBC News}}</ref>
+
+== Historical examples ==
+A famous example is [[NASA]], whose early space records have suffered from a dark age issue more than once. For over a decade, magnetic tapes from the 1976 [[Viking program|Viking]] [[Mars landing]] were unprocessed. When later analyzed, the data was unreadable as it was in an unknown format and the original programmers had either died or left NASA. The images were eventually extracted following many months of puzzling through the data and examining how the recording machines functioned.<ref>{{cite news
+ |url        = https://www.nytimes.com/1990/03/20/science/lost-on-earth-wealth-of-data-found-in-space.html
+ |title      = Lost on Earth: Wealth of Data Found in Space
+ |work  = The New York Times
+ |first      = Sandra
+ |last       = Blakeslee
+ |date       = 20 March 1990
+ |access-date = 7 July 2013
+ |archive-url = https://web.archive.org/web/20121109203504/http://www.nytimes.com/1990/03/20/science/lost-on-earth-wealth-of-data-found-in-space.html
+ |archive-date= 9 November 2012
+|url-status = live}}</ref> The original [[Apollo 11 missing tapes|Moon landing tapes]] were likely erased and reused, with the only video recordings of the [[Apollo 11]] landings being later copies.<ref>{{cite web | url=https://www.nasa.gov/feature/not-unsolved-mysteries-the-lost-apollo-11-tapes/ | title=Not-Unsolved Mysteries: The "Lost" Apollo 11 Tapes | date=3 July 2019 }}</ref>
+
+Another example is the [[BBC Domesday Project]] in which a survey of the nation was compiled 900 years after the [[Domesday Book]] was published. While the original Domesday Book of 1086 is still readable today, there were great fears that the discs of the 1986 Domesday Project would become unreadable as software and disk drives capable of reading the format became rarer and rarer. However, in 2002 the [[BBC_Domesday_Project#CAMiLEON|CAMiLEON]] project [[PC migration|migrated]] the information to a system called DomesEm, allowing it to be accessed on modern computers.<ref>{{cite news
+ |url        = https://www.theguardian.com/uk/2002/mar/03/research.elearning
+ |title      = Digital Domesday Book lasts 15 years not 1000
+ |publisher  = The Observer
+ |first1     = Robin
+ |last1      = McKie
+ |first2     = Vanessa
+ |last2      = Thorpe
+ |date       = 3 March 2002
+ |archive-url = https://web.archive.org/web/20130120125028/http://www.guardian.co.uk/uk/2002/mar/03/research.elearning
+ |archive-date= 20 January 2013
+|url-status = live}}</ref> More recently, the Domesday86 Project has continued this preservation effort by developing a digitizer for the original [[LaserDisc]]s and emulation software for the original BBC Domesday computer system.
+
+== Encryption and data preservation ==
+[[Encryption]] may exacerbate the problem of preserving data, since decoding adds complexity even when the relevant software is available.<ref>{{cite web
+ |url         = http://www.dpconline.org/advice/preservationhandbook/media-and-formats/compression-and-encryption
+ |title       = Media and Formats - Compression and Encryption
+ |author      = Digital Preservation Coalition
+ |author-link  = Digital Preservation Coalition
+ |year        = 2012
+ |work        = Digital Preservation Handbook
+ |access-date  = 17 August 2013
+ |archive-url  = https://web.archive.org/web/20120729192407/http://dpconline.org/advice/preservationhandbook/media-and-formats/compression-and-encryption
+ |archive-date = 29 July 2012
+ |url-status  = dead
+}}</ref> Historically, encrypted data is quite rare, but even the very simple means available throughout history have provided many examples of documents that can only be read with great effort. For example, it took the capacity of a distributed computing project to break the mechanically generated code of a single brief [[World War II]] [[submarine]] tactical message.<ref>{{cite news
+ |url         = http://news.cnet.com/2100-1029_3-6043572.html?part=rss
+ |archive-url  = https://web.archive.org/web/20110810030954/http://news.cnet.com/2100-1029_3-6043572.html?part=rss
+ |archive-date = 10 August 2011
+ |title       = Distributed computing cracks Enigma code
+ |publisher   = CNET News
+ |first       = Graeme
+ |last        = Wearden
+ |date        = 27 February 2006
+ |url-status     = live
+ |df          = dmy-all
+}}</ref>
+
+==Open source file formats==
+As more records are stored in digital form, there have been several measures to standardize electronic file formats so software to read them is widely available and can be re-implemented on new platforms if necessary.
+
+[[PDF/A]] is an [[open standard]] based on [[Adobe Systems]] [[PDF]] format.<ref>{{cite web|url = http://acroeng.adobe.com/wp/?page_id=303|title = Adobe Acrobat Engineering:PDF Standards|access-date = 7 July 2013|date = 12 March 2013|publisher = Adobe|archive-url = https://web.archive.org/web/20130707172612/http://acroeng.adobe.com/wp/?page_id=303|archive-date = 7 July 2013|url-status = dead|df = dmy-all}}</ref> It has been widely adopted by governments and archives around the world, such as the United Kingdom.<ref>{{cite web|title=Viewing government documents|url=https://www.gov.uk/government/publications/open-standards-for-government/viewing-government-documents|publisher=Cabinet Office|website=GOV.UK|date=6 August 2015|access-date=10 September 2015}}</ref>
+
+[[OpenDocument|The Open Document Format for Office Applications (OpenDocument)]] has been standardized by [[OASIS (organization)|OASIS]] in 2005, and by ISO in 2006. Since then, support for OpenDocument has been implemented in [[OpenDocument software|a large number of open source and proprietary software]]. Therefore, using OpenDocument is one option for archiving editable documents from office applications. More broadly, the use of [[open source software]] is a prevention measure.<ref>{{cite web |last=Cassia |first=Fernando |title=Open Source, the only weapon against 'planned obsolescence' |date=March 28, 2007 |work=[[The Inquirer]] |url=http://www.theinquirer.net/inquirer/news/1001739/open-source-weapon-planned-obsolescence |archive-url=https://web.archive.org/web/20110120192512/http://www.theinquirer.net/inquirer/news/1001739/open-source-weapon-planned-obsolescence |url-status=unfit |archive-date=20 January 2011 |access-date=August 2, 2012}}</ref> Since the [[source code]] for reading and writing a file format is open, the code can be used as a base for future implementations. In 2007, the chief information officer of the [[The National Archives (United Kingdom)|UK's National Archives]] stated "We welcome open-source software because it makes our lives easier".<ref>{{cite web 
+ |url        = http://www.zdnet.co.uk/news/it-strategy/2007/07/19/defending-against-the-digital-dark-age-39288099/
+ |title      = Defending against the digital dark age
+ |work       = ZDNet
+ |first      = Andrew
+ |last       = Donoghue
+ |date       = 19 July 2007
+ |archive-url = https://web.archive.org/web/20121023075347/http://www.zdnet.com/defending-against-the-digital-dark-age-3039288099/
+ |archive-date= 23 October 2012
+ |url-status    = live}}</ref>
+
+== Data storage standardization ==
+In 2007, [[Microsoft]] created a partnership with the [[The National Archives (United Kingdom)|UK's National Archives]] to prevent the digital dark age and "unlock millions of unreadable stored computer files".<ref>{{cite news
+ |url        = https://www.theguardian.com/technology/2007/jul/04/news.uknews
+ |title      = National Archive project to avert digital dark age
+ |last       = Kennedy
+ |first      = Maev
+ |date       = 4 July 2007
+ |work       = The Guardian
+ |access-date = 7 October 2009
+ |archive-url = https://web.archive.org/web/20100717121702/http://www.guardian.co.uk/technology/2007/jul/04/news.uknews
+ |archive-date= 17 July 2010
+|url-status = live}}</ref><ref>{{cite web
+ |url         = http://www.businessweek.com/globalbiz/content/jul2007/gb2007075_877434.htm
+ |title       = Microsoft Helps Archives Save the Past
+ |last        = Ferguson
+ |first       = Tim
+ |date        = 5 July 2007
+ |work        = Business Week
+ |access-date  = 7 October 2009
+ |archive-url  = https://web.archive.org/web/20070710062846/http://www.businessweek.com/globalbiz/content/jul2007/gb2007075_877434.htm
+ |archive-date = 10 July 2007
+ |url-status     = dead
+ |df          = dmy-all
+}}</ref><ref>{{cite news
+ |url        = https://www.telegraph.co.uk/technology/3353826/How-to-stave-off-a-digital-dark-age.html
+ |title      = How to stave off a digital 'dark age'
+ |last       = Colvile
+ |first      = Robert
+ |date       = 5 July 2007
+ |work       = The Telegraph
+ |access-date = 7 October 2009
+ |archive-url = https://web.archive.org/web/20120424121440/http://www.telegraph.co.uk/technology/3353826/How-to-stave-off-a-digital-dark-age.html
+ |archive-date= 24 April 2012
+|url-status = live}}</ref> UK's National Archives now accepts various file formats for long-term preservation, including [[Office Open XML]], PDF and OpenDocument.<ref>{{cite web|url = http://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/digital-records-transfer/file-formats-transfer/|title = File formats for transfer - The National Archives}}</ref>
+
+== Criticism ==
+The notion of the digital dark age has been criticized by some scholars. Some of these, such as David Anderson and Jon Tilbury, view it as alarmist rhetoric, maintaining that the notion of a "dark age" incorrectly states the current condition. They argue that there has been significant progress in digital preservation and evidenced in the way organizations continue to find and reuse critical long-term digital information while finding new ways of sharing these with the public.<ref>{{Cite book|title=Preserving Digital Materials|edition=Third|last1=Harvey|first1=Ross|last2=Weatherburn|first2=Jaye|publisher=Rowman & Littlefield|year=2018|isbn=9781538102961|location=Lanham, MD|pages=25}}</ref> Some historians also fault proponents of the digital dark age for historical inaccuracies. These include [[Marilyn Deegan]] and [[Simon Tanner]]'s claim that the [[Johannes Gutenberg|Gutenberg]] [[printing]] revolution led Europe out of the Dark Ages, a period said to be marked by the loss of knowledge of the learning of the [[Ancient Greece|ancient Greeks]] and [[Ancient Rome|Romans]].<ref>{{Cite book|title=History in the Digital Age|last=Weller|first=Toni|publisher=[[Routledge]]|year=2013|isbn=9780415666961|location=Oxon|pages=58}}</ref> It is argued that knowledge and information about classical learning had been recovered during the Middle Ages and it was not mainly due to the printing revolution but, instead, was largely a result of the intellectual exchange between [[Islam]]ic and [[Christianity|Christian]] cultures.<ref>{{Cite book|title=Digital Information Culture: The Individual and Society in the Digital Age|last=Tredinnick|first=Luke|publisher=Chandos Publishing|year=2008|isbn=9781843341703|location=Oxford|pages=155}}</ref>
+
+== See also ==
+{{col div|colwidth=40em}}
+* [[Abandonware]]
+* [[Apollo 11 missing tapes]]
+* [[Dark data]]
+* [[Data archaeology]]
+* [[Data corruption]]
+* [[Data rot]]
+* [[Digital continuity]]
+* [[Digital obsolescence]]
+* [[Digital preservation]]
+* [[Disc rot]]
+* [[Document Freedom Day]]
+* [[M-DISC]]
+* [[Open-source-software movement]]
+* [[Orphan work|Orphaned works]]
+* [[Software rot]]
+{{colend}}
+
+== References ==
+<references>
+<ref name="Kuny, 1997">{{cite journal
+  |title = A Digital Dark Ages? Challenges in the Preservation of Electronic Prevention Information
+  |first = Terry
+  |last = Kuny
+  |journal = 63RD IFLA (International Federation of Library Associations and Institutions) Council and General Conference
+  |date = September 1997
+  |url = http://archive.ifla.org/IV/ifla63/63kuny1.pdf
+  |access-date = 7 November 2011
+  |archive-url = https://web.archive.org/web/20080509145855/http://www.ifla.org/IV/ifla63/63kuny1.pdf
+ |archive-date = 9 May 2008
+ |url-status = live}}</ref>
+<ref name="MacLean, 1999">{{cite book
+ |first = Margaret
+ |last = MacLean
+ |editor= MacLean, Margaret |editor2=Davis, Ben
+ |title = Time and Bits, Managing Digital Continuity
+ |publisher = [[Getty Research Institute|Getty]]
+ |year = 1999
+ |isbn = 978-0-89236-583-8}}</ref>
+<ref name="Brand, 1999">{{cite journal
+ |title = Escaping The Digital Dark Age
+ |last = Brand
+ |first = Stewart
+ |author-link = Stewart Brand
+ |journal = Library Journal
+ |volume = 124
+ |issue = 2
+ |pages = 46–69
+ |date = 1 February 1999
+ |issn = 0363-0277
+ |url = http://library.colstate.edu/libr1105/kramer/cadeau/deadm2.html
+ |archive-url = https://web.archive.org/web/20050923024519/http://library.colstate.edu/libr1105/kramer/cadeau/deadm2.html
+ |archive-date = 23 September 2005
+ |url-status = dead}}</ref>
+</references>
+
+==Further reading==
+* [http://www.ifla.org/IV/ifla63/63kuny1.pdf A Digital Dark Ages? Challenges in the Preservation of Electronic Information (PDF)], 1997
+* [http://www.cbsnews.com/stories/2003/01/21/tech/main537308.shtml Coming Soon A Digital Dark Age - CBS News], 2003
+* [http://technology.guardian.co.uk/online/story/0,3605,871091,00.html How huge quantities of data are rapidly falling into a black hole - Guardian Unlimited], 2003
+* [https://www.smh.com.au/news/technology/the-digital-dark-age/2005/09/22/1126982184206.html The digital Dark Age - The Sydney Morning Herald], 2005
+* [https://web.archive.org/web/20120324044358/http://www.pcworld.in/news/why-demise-print-media-may-be-bad-humanity-65952012 Why the Demise of Print Media May Be Bad for Humanity, Tony Bradley, PCWorld, 19 March 2012]
+* [http://www.economist.com/node/21553445 Bit Rot - The Economist, 28 April 2012]
+* {{citation |work=[[The Atlantic]] |location=USA |title=Raiders of the Lost Web |date=October 2015 |url=https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/ }}
+*[http://www.dejavublog.in/2016/02/what-if-digital-dark-age-is-real.html What If Digital Dark Age Is Real?, Pallav Gogoi, Dejavublog, 2016]
+* {{cite book | last1=Hansen | first1=Kathleen A. | last2=Paul | first2=Nora | title=Future-proofing the news : preserving the first draft of history | publisher=Rowman & Littlefield | date=2017 | isbn=978-1-4422-6712-1 | oclc=961007777 }}
+
+{{ external media
+| float  =
+| width  =
+| video1 = [http://www.computerhistory.org/revolution/memory-storage/8/325/2208 Digital Dark Age] ([[Computer History Museum]], 2011)
+}}
+
+{{DigitalPreservation}}
+
+[[Category:Prediction]]
+[[Category:Lost works]]
+[[Category:Digital preservation]]
+[[Category:Dark ages]]

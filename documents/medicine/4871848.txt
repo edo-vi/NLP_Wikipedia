@@ -1,0 +1,29 @@
+{{Short description|Species of virus}}
+{{Virusbox
+| image = 
+| image_alt = 
+| image_caption = 
+| parent = Percavirus
+| species = Equid gammaherpesvirus 2
+| synonyms = 
+* ''Equid herpesvirus 2''<ref name="ICTV">{{cite web |title=ICTV Taxonomy |url=https://ictv.global/taxonomy |website=International Committee on Taxonomy of Viruses (ICTV) |access-date=17 January 2019 |language=en }}</ref>
+* ''Equine herpesvirus 2''
+| synonyms_ref = 
+}}
+
+'''''Equid gammaherpesvirus 2''''', formerly '''''Equine herpesvirus 2''''' (EHV-2), is a [[virus]] of the family ''[[Herpesviridae]]'', originally known as '''''equine cytomegalovirus''''' due to its slow replication in tissue culture.  However, complete sequencing of the EHV-2 genome has demonstrated that it is a member of the subfamily ''[[Gammaherpesvirinae]]'',<ref name=Telford_1995>{{cite journal|vauthors=Telford EA, Watson MS, Aird HC, Perry J, Davison AJ |title=The DNA sequence of equine herpesvirus 2|date =9 June 1995|journal=[[Journal of Molecular Biology]]|doi=10.1006/jmbi.1995.0314|volume=249|issue=3|pages=520–528 |pmid=7783207 }}</ref> in the genus ''[[Percavirus]]''.<ref name="ICTV"/> It has an uncertain role in respiratory disease in [[horse]]s, but EHV-2 has been isolated from cases exhibiting symptoms such as coughing, [[conjunctivitis]], and swollen [[submaxillary]] and [[parotid]] [[lymph node]]s.<ref name=Fenner_1993>{{cite book|author=Fenner, Frank J.|author2=Gibbs, E. Paul J.|author3=Murphy, Frederick A.|author4=Rott, Rudolph|author5=Studdert, Michael J.|author6=White, David O.|title=Veterinary Virology|edition=2nd|publisher=Academic Press |year=1993|isbn=978-0-12-253056-2}}</ref>
+
+==References==
+{{Wikispecies}}
+{{Reflist}}
+
+{{Herpesvirales}}
+{{Taxonbar|from=Q5384504}}
+
+[[Category:Gammaherpesvirinae]]
+[[Category:Horse diseases]]
+[[Category:Animal viral diseases]]
+
+
+{{Virus-stub}}
+{{Veterinary-med-stub}}

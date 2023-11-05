@@ -1,0 +1,135 @@
+{{Short description|Childhood immunization schedule}}
+The '''Expanded Program on Immunization''' '''(EPI)''' in the [[Philippines]] began in July 1979. And, in 1986, made a response to the Universal Child Immunization goal. The four major strategies include:<ref>{{cite book | title = Public Health Nursing in the Philippines | publisher = National League of Philippine Government Nurses, Inc | year = 2007 | location = Manila, Philippines | page = 141 | isbn = 978-971-91593-2-2}}</ref>
+# sustaining high routine Full Immunized Child (FIC) coverage of at least 90% in all provinces and cities;
+# sustaining the polio-free country for global certification;
+# eliminating measles by 2008; and
+# eliminating neonatal tetanus by 2008.
+
+==Routine Schedule of Immunization==
+Every Wednesday is designated as immunization day and is adopted in all parts of the country.  Immunization is done monthly in barangay health stations, quarterly in remote areas of the country.
+
+==Routine Immunization Schedule for Infants==
+The standard routine immunization schedule for infants in the Philippines is adopted to provide maximum immunity against the seven vaccine preventable diseases in the country before the child's first birthday. The fully immunized child must have completed BCG 1, DPT 1, DPT 2, DPT 3, OPV 1, OPV 2, OPV 3, HB 1, HB 2, HB 3 and measles vaccines before the child is 12 months of age.<ref>{{cite news|title=Six Out of Ten Children 12 to 23 Months Are Fully Immunized |date=2003-06-02 |publisher=National Statistics Office |url=https://www.census.gov.ph/data/pressrelease/2003/pr0351tx.html |work=Final Results from the 2002 Maternal and Child Health Survey |access-date=2007-05-11 |url-status=dead |archive-url=https://web.archive.org/web/20070608124140/http://www.census.gov.ph/data/pressrelease/2003/pr0351tx.html |archive-date=2007-06-08 }}</ref>
+
+{| class="wikitable"
+|-
+! Vaccine
+! Minimum Age <br />at 1st Dose
+! Number <br />of Doses
+! Dose
+! Minimum Interval Between Doses
+! Route
+! Site
+! Reason
+|-
+| [[Bacillus Calmette-Guérin]]
+| {{center|Birth or anytime after birth}}
+| {{center|1 dose}}
+| {{center|0.05 mL}}
+| {{center|none}}
+| {{center|Intradermal}}
+| Right deltoid region of the arm
+| BCG given at earliest possible age protects the possibility of TB meningitis and other TB infections in which infants are prone<ref name='PMID15628980'>{{cite journal|title=Protective effect of neonatal BCG vaccines against tuberculous meningitis|journal=[[Bosnian Journal of Basic Medical Sciences]]|date=February 2004|first1=S.|last1=Puvacic|volume=4|issue=1|pages=46–9|pmid=15628980|last2=Dizdarević|first2=J|last3=Santić|first3=Z|last4=Mulaomerović|first4=M|doi=10.17305/bjbms.2004.3460|pmc=7245520|doi-access=free}}</ref>
+|-
+| [[DPT vaccine|Diphtheria-Pertussis-Tetanus Vaccine]]
+| {{center|6 weeks old}}
+| {{center|3 doses}}
+| {{center|0.5 mL}}
+| {{center|6 weeks(DPT 1), 10 weeks (DPT 2), 14 weeks (DPT 3)}}
+| {{center|Intramuscular}}
+| Upper outer portion of the thigh, Vastus Lateralis (L-R-L)
+| An early start with DPT reduces the chance of severe pertussis.<ref>{{cite journal|title=Immunisation | journal=Dialogue on Diarrhoea Online | year=1987 | issue=30 | pages=1–6 |url=http://rehydrate.org/dd/su30.htm | access-date=2007-05-11}}</ref>
+|-
+| [[Polio vaccine#Sabin's "oral polio vaccine"|Oral Polio Vaccine]]
+| {{center|6 weeks old}}
+| {{center|3 doses}}
+| {{center|2-3 drops}}
+| {{center|4 weeks}}
+| {{center|Oral}}
+| Mouth
+| The extent of protection against polio is increased the earlier the OPV is given.  <br />Keeps the Philippines polio-free.<ref>{{cite journal|title=Public Health Dispatch: Acute Flaccid Paralysis Associated with Circulating Vaccine-Derived Poliovirus --- Philippines, 2001|journal=Morbidity and Mortality Weekly Report|date=2001-10-12|publisher=Centers for Disease Control and Prevention |volume=50|issue=40|pages=874–5|url=https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5040a3.htm |pmid=11666115|author1=Centers for Disease Control and Prevention (CDC) |access-date=2013-10-31}}</ref>
+|-
+| [[Hepatitis B Vaccination, Infants#Prevention|Hepatitis B Vaccine]]
+| {{center|At birth}}
+| {{center|3 doses}}
+| {{center|0.5 mL}}
+| {{center|4 weeks interval}}
+| {{center|Intramuscular}}
+| Upper outer portion of the thigh, Vastus Lateralis (R-L-R)
+| An early start of Hepatitis B vaccine reduces the chance of being infected and becoming a carrier.<ref>{{cite journal|title=Effects of Universal Vaccination for Hepatitis B|journal=Annals of Internal Medicine|date=2001-11-06|first=Y. H.|last=Ni |author2-link=Chang Mei-hwei |author2=M.H. Chang |author3=L.M. Huang |author4=H.L. Chen |author5=H.Y. Hsu |author6=T.Y. Chiu |author7=K.S. Tsai |author8=D.S. Chen|author8-link=Ding-Shinn Chen|volume=135|issue=9|pages=796–800|url=http://www.annals.org/cgi/content/summary/135/9/796|access-date=2007-05-12|pmid=11694104|doi=10.7326/0003-4819-135-9-200111060-00005|doi-access=free}}</ref> <br /> Prevents liver cirrhosis and liver cancer which are more likely to develop if infected with Hepatitis B early in life.<ref>{{cite web|url=http://www.chop.edu/consumer/jsp/division/generic.jsp?id=75730 |title=A Look at Each Vaccine: Hepatitis B Vaccine |access-date=2007-05-11 |work=Vaccine Education Center |publisher=The Children's Hospital of Philadelphia |archive-url=https://web.archive.org/web/20070629183026/http://www.chop.edu/consumer/jsp/division/generic.jsp?id=75730 |archive-date=2007-06-29 |url-status=dead }}</ref><ref name='PMID9197213'>{{cite journal|title=Universal hepatitis B vaccination in Taiwan and the incidence of hepatocellular carcinoma in children. Taiwan Childhood Hepatoma Study Group|journal=The New England Journal of Medicine|date=1997-06-26|first=MH|last=Chang |author2=C.J. Chen |author3=M.S. Lai |author4=H.M. Hsu |author5=T.C. Wu |author6=M.S. Kong |author7=D.C. Liang |author8=W.Y. Shau |author9=D.S. Chen|s2cid=35206561|volume=336|issue=26|pages=1855–1859|doi=10.1056/NEJM199706263362602|pmid=9197213|doi-access=free}}</ref>  <br />About 9,000 died of complications of Hepatitis B.  10% of Filipinos have Hepatitis B infection<ref>{{cite news|first=Tessa R. |last=Salazar |title=Cancer Preventable Says US Doctor |date=2004-05-24 |url=http://liver.stanford.edu/files/040529manilla_times.pdf |work=The Philippine Daily Inquirer |access-date=2007-05-11 |archive-url=https://web.archive.org/web/20070221195427/http://liver.stanford.edu/files/040529manilla_times.pdf |archive-date=2007-02-21 |url-status=dead }}</ref>
+|-
+| [[Measles Vaccine]] <br />
+''(not MMR)''
+| {{center|9 months old}}
+| {{center|1 dose}}
+| {{center|0.5 mL}}
+| {{center|none}}
+| {{center|Subcutaneous}}
+| Upper outer portion of the arms, Right deltoid
+| At least 85% of measles can be prevented by immunization at this age.<ref name='PMID8034506'>{{cite journal|title=Worldwide measles prevention|journal=Israel Journal of Medical Sciences|date=May 1994|first=WA|last=Orenstein |author2=L.E. Markowitz |author3=W.L. Atkinson |author4=A.R. Hinman|volume=30|issue=5–6|pages=469–81|pmid=8034506}}</ref>
+|}
+
+==General Principles in Infants/Children Immunization==
+* Because measles kills, every infant needs to be vaccinated against measles at the age of 9 months or as soon as possible after 9 months as part of the routine infant vaccination schedule.  It is safe to vaccinate a sick child who is suffering from a minor illness (cough, cold, diarrhea, fever or malnutrition) or who has already been vaccinated against measles.<ref>{{cite web|url=http://www.ifrc.org/WHAT/health/archi/strategy/measles.htm |title=Measles (Catch Up |archive-url=https://web.archive.org/web/20070415162142/http://www.ifrc.org/WHAT/health/archi/strategy/measles.htm |archive-date=2007-04-15 |url-status=dead }}</ref>
+* If the vaccination schedule is interrupted, it is not necessary to restart. Instead, the schedule should be resumed using minimal intervals between doses to catch up as quickly as possible.<ref>{{cite news | first=Richard Kent | last=Zimmerman | title=Practice Guidelines - The 2000 Harmonized Immunization Schedule | date=2000-01-01 | url=http://findarticles.com/p/articles/mi_m3225/is_1_61/ai_59426909 | work=American Family Physician | access-date=2007-05-12 | archive-url=https://web.archive.org/web/20040929141414/http://www.findarticles.com/p/articles/mi_m3225/is_1_61/ai_59426909 | archive-date=2004-09-29 | url-status=dead }}</ref>
+*  Vaccine combinations (few exceptions), antibiotics, low-dose steroids (less than 20&nbsp;mg per day), minor infections with low fever (below 38.5º Celsius), diarrhea, malnutrition, kidney or liver disease, heart or lung disease, non-progressive encephalopathy, well controlled epilepsy or advanced age, are not contraindications to vaccination. Contrary to what the majority of doctors may think, vaccines against hepatitis B and tetanus can be applied in any period of the pregnancy.<ref>{{cite web|url=http://saudepublica.web.pt/04-PrevencaoDoenca/Travel/TravelVaccines.htm |title=Management of the Traveler: Vaccination |access-date=2007-05-12 |year=1997 |work=Travel Medicine |publisher=Portal de Saúde Pública |url-status=dead |archive-url=https://web.archive.org/web/20070518153407/http://www.saudepublica.web.pt/04-PrevencaoDoenca/Travel/TravelVaccines.htm |archive-date=2007-05-18 }}</ref>
+* There are very few true contraindication and precaution conditions. Only two of these conditions are generally considered to be permanent: severe (anaphylactic) allergic reaction to a vaccine component or following a prior dose of a vaccine, and encephalopathy not due to another identifiable cause occurring within 7 days of pertussis vaccination.<ref>{{cite web|url=https://www.cdc.gov/nip/publications/pink/genrec.pdf |title=General Recommendations on Immunizations |access-date=2007-05-12 |date=2007-02-14 |work=Epidemiology & Prevention of Vaccine-Preventable Diseases--The Pink Book 10th Edition |publisher=Centers for Disease Control and Prevention |url-status=dead |archive-url=https://web.archive.org/web/20061022021647/http://www.cdc.gov/nip/publications/pink/genrec.pdf |archive-date=2006-10-22 }}</ref>
+* Only the diluent supplied by the manufacturer should be used to reconstitute a freeze-dried vaccine. A sterile needle and sterile syringe must be used for each vial for adding the diluent to the powder in a single vial or ampoule of freeze-dried vaccine.<ref>{{cite news|last=Department of Vaccines and Biologicals |title=WHO Recommendations for Diluents |date=December 2000 |publisher=[[World Health Organization]] |url=https://www.who.int/vaccines-documents/DoxNews/updates/updat34e.pdf |work=Vaccines and Biologicals Update |pages=3 |access-date=2007-05-12 |url-status=dead |archive-url=https://web.archive.org/web/20070306031320/http://www.who.int/vaccines-documents/DoxNews/updates/updat34e.pdf |archive-date=2007-03-06 }}</ref>
+* The only way to be completely safe from exposure to blood-borne diseases from injections, particularly hepatitis B virus (HBV), hepatitis C virus (HCV), and human immunodeficiency virus (HIV) is to use one sterile needle, one sterile syringe for each child.<ref>{{cite news | first=Edward | last=Hoekstra | title=Immunization: Injection Safety | publisher=UNICEF | url=http://www.unicef.org/immunization/23244_safety.html | work=UNICEF Expert Opinion | access-date=2007-05-12 | archive-date=2007-06-13 | archive-url=https://web.archive.org/web/20070613063650/http://unicef.org/immunization/23244_safety.html | url-status=dead }}</ref>
+
+==Tetanus Toxoid Immunization Schedule for Women==
+When given to women of childbearing age, vaccines that contain tetanus toxoid (TT or Td) not only protect women against tetanus, but also prevent neonatal tetanus in their newborn infants.<ref>{{cite web|url=https://www.who.int/immunization/topics/tetanus/en/index1.html |archive-url=https://web.archive.org/web/20060322063335/http://www.who.int/immunization/topics/tetanus/en/index1.html |url-status=dead |archive-date=March 22, 2006 |title=Tetanus - The Disease |access-date=2007-05-12 |work=Immunization, Vaccines and Biologicals |publisher=[[World Health Organization]] }}</ref>
+{| class="wikitable"
+|-
+! Vaccine
+! Minimum <br />Age/Interval
+! Percent<br />Protected
+! Duration of Protection
+|-
+| {{center|TT1}}
+| At 20th weeks AOG
+| {{center|0%}}
+|
+* protection for the mother for the first delivery
+|-
+| {{center|TT2}}
+| At least 4 weeks later
+| {{center|80%}}
+|
+* infants born to the mother will be protected from neonatal tetanus
+* gives 3 years protection for the mother
+|-
+| {{center|TT3}}
+| At least 6 months later
+| {{center|95%}}
+|
+* infants born to the mother will be protected from neonatal tetanus
+* gives 5 years protection for the mother
+|-
+| {{center|TT4}}
+| At least 1 year later
+| {{center|99%}}
+|
+* infants born to the mother will be protected from neonatal tetanus
+* gives 10 years protection for the mother
+|-
+| {{center|TT5}}
+| At least 1 year later
+| {{center|99%}}
+|
+* gives lifetime  protection for the mother
+* all infants born to that mother will be protected
+|}
+In June 2000,  the 57 countries that have not yet achieved elimination of neonatal tetanus were ranked and the Philippines was listed together with 22 other countries in Class A, a classification for countries close to maternal and neonatal tetanus elimination.<ref>{{cite news | title=Maternal and Neonatal Tetanus | date=November 2000 | publisher=UNICEF | url=http://www.unicef.org/immunization/files/MNTE_strategy_paper.pdf | access-date=2007-05-12 | archive-date=2007-01-11 | archive-url=https://web.archive.org/web/20070111051802/http://www.unicef.org/immunization/files/MNTE_strategy_paper.pdf | url-status=dead }}</ref>
+
+==Care for the Vaccines==
+To ensure the optimal potency of vaccines,a careful attention is needed in handling practices at the country level. These include storage and transport of vaccines from the primary vaccine store down to the end-user at the health facility, and further down at the outreach sites.<ref name='WHO/IVB/06.10'>{{cite news|title=Temperature Sensitivity of Vaccines |date=August 2006 |publisher=[[World Health Organization]] |url=https://www.who.int/vaccines-documents/DocsPDF06/847.pdf |work=Immunization, Vaccines and Biologicals |access-date=2007-05-12 |url-status=dead |archive-url=https://web.archive.org/web/20070219113617/http://www.who.int/vaccines-documents/DocsPDF06/847.pdf |archive-date=2007-02-19 }}</ref>  Inappropriate storage, handling and transport of vaccines won't protect patients and may lead to needless vaccine wastage.<ref name='mbphysicianresources#2_2005'>{{cite news|title=Handle Vaccines with Care |publisher=British Columbia Center for Disease Control |url=http://www.bccdc.org/downloads/pdf/epid/reports/GP%202-HANDLE%20VACCINES%20WITH%20CARE.pdf?PHPSESSID=85793516774767a844e11dc04a118d5f |access-date=2007-05-12 }}{{dead link|date=February 2017|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+A "first expiry and first out" (FEFO) vaccine system is practiced to assure that all vaccines are utilized before its expiry date.  Proper arrangement of vaccines and/or labeling of expiry dates are done to identify those close to expiring.  Vaccine temperature is monitored twice a day (early in the morning and in the afternoon) in all health facilities and plotted to monitor break in the [[cold chain]].  Each level of health facilities has cold chain equipment for use in the storage vaccines which included cold room, freezer, refrigerator, transport box, vaccine carriers, thermometers, cold chain monitors, ice packs, temperature monitoring chart and safety collector boxes.<ref>{{cite book | title = Expanded Program on Immunization Manual | publisher = Department of Health, Philippines | year = 1995 | location = Manila, Philippines   }}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Expanded Program On Immunization (Philippines)}}
+[[Category:Vaccination]]
+[[Category:Healthcare in the Philippines]]

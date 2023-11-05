@@ -1,0 +1,10 @@
+<!-- Deleted image removed: [[Image:Safi (Medicine).jpg|thumb|250px|right|Outer packaging and bottle for Safi]] -->'''Safi''' is an [[Unani medicine]] which claims to be a blood-purifier. It is produced by Hamdard Laboratories (Waqf) in [[Ghaziabad, India|Ghaziabad]] [[India]], as well as in [[Pakistan]] and in [[Bangladesh]]. According to the package, it "corrects the [[digestive system]], relieves [[constipation]], prevents and cures [[boils]], [[pimples]], and skin eruptions."
+
+In August 2005 the  [[Medicines and Healthcare products Regulatory Agency]] of the [[Department of Health (United Kingdom)|United Kingdom Department of Health]] reported that samples of Safi contained high levels of [[feces]].<ref>[http://www.mhra.gov.uk/home/idcplg?IdcService=SS_GET_PAGE&useSecondary=true&ssDocName=CON2022537&ssTargetNodeId=663 Arsenic and mercury in Ayurvedic and traditional Chinese medicines]  Medicines and Healthcare products Regulatory Agency</ref> The next month [[Health Canada]] issued a warning that Safi was "found to contain arsenic levels in excess of 40 times the maximum allowable concentration for drugs"<ref>[http://www.hc-sc.gc.ca/ahc-asc/media/advisories-avis/_2005/2005_09_e.html Some Ayurvedic medicinal products reported to contain high levels of heavy metals] Health Canada</ref> and people who had used the product were told to contact their physician.<ref name="CBC">{{cite news|url=http://www.cbc.ca/news/health/story/2005/03/04/Ayurvedic-warn050304.html|title=Heavy metal warning for Ayurvedic medicinal products - Health - CBC News|work=[[CBC.ca]]|accessdate=21 March 2013}}</ref> The product had never been authorized for sale in Canada, but authorities suspect it may have been sold there, and had also been available for sale in USA.<ref name="CBC"/> The product has subsequently been not allowed to enter Canada and Australia.<ref name="IBN">{{cite news|url=http://www.ibnlive.com/news/metal-content-found-in-ayurvedic-drugs/3322-17.html|title=Metal content in found in Ayurvedic drugs|date=Jan 5, 2006|work=IBN Live|accessdate=21 March 2013}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Unani medicine]]
+
+{{alt-med-stub}}

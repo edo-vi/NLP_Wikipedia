@@ -1,0 +1,68 @@
+{{Short description|Physical abnormality in a living organism}}
+{{multiple issues|
+{{one source|date=March 2012}}
+{{Citations missing|date=April 2008}}
+}}
+[[File:Chinese circus performer with craniosynostosis, 1927.jpg|thumb|[[Chinese people|Chinese]] circus performer with [[craniosynostosis]], 1927]]
+[[Image:Octopus-sucker-deformity.jpg|thumb|220px|A deformed [[sucker (cephalopod anatomy)|sucker cluster]] on an arm of an [[octopus]]]]
+
+A '''deformity''', '''dysmorphism''', or '''dysmorphic feature''' is a major abnormality of an organism that makes a part of the body appear or function differently than how it is supposed to.
+
+==Causes==
+Deformity can be caused by a variety of factors:
+*[[Arthritis]] and other rheumatoid disorders
+*Chronic application of external forces, e.g. [[artificial cranial deformation]]
+*Chronic [[paresis]], [[paralysis]] or [[muscle imbalance]], especially in children, e.g. due to [[poliomyelitis]] or [[cerebral palsy]]
+*Complications at [[childbirth|birth]]
+*Damage to the [[fetus]] or [[uterus]]
+*Fractured bones left to heal without being properly [[Reduction (orthopedic_surgery)|set]] ([[malunion]])
+*Genetic [[mutation]]
+*Growth or hormone disorders
+*Infection
+*Reconstructive surgery following a severe injury, e.g. [[Third degree burn|burn injury]]
+
+Deformity can occur in all organisms:
+
+* [[Frogs]] can be mutated due to [[Ribeiroia]]''[[Ribeiroia]]'' ([[Trematoda]]) infection.
+* [[Plant|Plants]] can undergo irreversible [[Cell (biology)|cell]] deformation<ref>{{cite journal | vauthors = Lockhart JA | title = Physical nature of irreversible deformation of plant cells | journal = Plant Physiology | volume = 42 | issue = 11 | pages = 1545–1552 | date = November 1967 | pmid = 16656691 | pmc = 1086764 | doi = 10.1104/pp.42.11.1545 }}</ref>
+* [[Insect|Insects]], such as [[Honey bee|honeybees]], can be affected by [[deformed wing virus]]
+* [[Fish]] can be found with [[scoliosis]] due to environmental factors<ref>{{Cite web |title=Body Deformities | work = Regional Aquatics Monitoring Program (RAMP) | publisher = Alberta Environment and Parks Environmental Monitoring and Science Division |url=http://www.ramp-alberta.org/ramp/community/abnormalities/what/deformities.aspx |access-date=2022-03-19  }}</ref>
+
+==Mortality==
+[[File:Acephalus Boulgakow 1.jpg|thumb|Case of acephalus holoacardiacus – born without a head. Was birthed alongside a healthy twin.<ref>{{Cite journal |vauthors = Boulgakow B |date=1926 |title="Arrest of Development of an Embryo. A Case of Acephalus Holoacardiacus showing Arrest of Development of all Tissues in Embryonic Period." |journal=Journal of Anatomy |volume=61 |issue=Pt 1 |pages=68–93|pmid=17104128 |pmc=1249928 }}</ref>]]
+
+In many cases where a major deformity is present at birth, it is the result of an underlying condition severe enough that the baby does not survive very long. The mortality of severely deformed births may be due to a range of complications including missing or non-functioning vital organs, structural defects that prevent necessary function, high susceptibility to injuries, abnormal facial appearance, or infections that eventually lead to death.
+
+In some cases, such as that of [[Twin|twins]], one fetus is brought to term healthy, while the other faces major, even life-threatening defects. An example of this is seen in cattle, referred to as [[amorphous globosus]].
+
+==In mythology==
+There are many instances of [[mythological]] characters showing signs of a deformity.
+
+* Descriptions of [[Mermaid|mermaids]] may be related to the symptoms of [[sirenomelia]].
+* The [[Irish Mythology|Irish mythology]] includes the [[Fomorians]], who are almost without exception described as being deformed, possessing only one of what most have two of ([[Human eye|eyes]], [[Arm|arms]], [[Human leg|legs]], etc.) or having larger than normal limbs.
+* [[Hephaestus]], of [[Greek mythology|Greek Mythology]], was born with a [[Clubfoot|club foot]].<ref name=":0">{{Cite journal | vauthors = Bazopoulou-Kyrkanidou E |date=1997-10-17 |title=What makes Hephaestus lame? |journal=American Journal of Medical Genetics |language=en |volume=72 |issue=2 |pages=144–155 |doi=10.1002/(SICI)1096-8628(19971017)72:2<144::AID-AJMG5>3.0.CO;2-V|pmid=9382134 }}</ref>
+
+== See also ==
+{{Commonscat|Congenital diseases and disorders|Deformity}}
+*[[Birth defect]]
+*[[Body dysmorphic disorder]]
+*[[Congenital abnormality]]
+*[[Disfigurement]] 
+*[[Genetic variation]] 
+*[[Malformation]] 
+*[[Monstrous birth]] 
+*[[Phocomelia]] 
+*[[Polymelia]]
+*[[Teratology]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite encyclopedia | vauthors = Hogan CM | date = 2010 | url =  http://www.eoearth.org/article/Mutation?topic=49496 | title = Mutation | veditors = Monosson E, Cleveland CJ | encyclopedia = Encyclopedia of Earth | publisher = National Council for Science and the Environment. | location = Washington DC | archive-url = https://web.archive.org/web/20110430051516/http://www.eoearth.org/article/Mutation?topic=49496 | archive-date = 2011-04-30 }}
+{{refend}}
+
+{{Authority control}}
+[[Category:Human appearance]]
+[[Category:Biology]]

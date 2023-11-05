@@ -1,0 +1,22 @@
+{{Short description|Measure of fairness in machine learning models}}
+'''Equalized odds''',<ref>{{cite journal |last1=Hardt |first1=Moritz |first2=Eric |last2=Price |first3=Nathan |last3=Srebro |title=Equality of Opportunity in Supervised Learning |journal=Neural Information Processing Systems |date=2016 |volume=29 |arxiv=1610.02413 |url=https://papers.nips.cc/paper/2016/hash/9d2682367c3935defcb1f9e247a97c0d-Abstract.html}}</ref> also referred to as '''conditional procedure accuracy equality''' and '''disparate mistreatment''', is a measure of [[Fairness (machine learning)|fairness in machine learning]]. A classifier satisfies this definition if the subjects in the protected and unprotected groups have equal true positive rate and equal false positive rate,<ref>{{cite web |title=Fairness in ML 2: Equal opportunity and odds |url=https://www2.cs.duke.edu/courses/fall18/compsci590.1/lectures/FairML2.pdf |website=www2.cs.duke.edu/ |publisher=Duke Computer Science}}</ref> satisfying the formula:
+
+<math display="block"> P(R = + | Y = y, A = a) = P(R = + | Y = y, A = b) \quad y \in \{+,-\} \quad \forall a,b \in A </math>
+
+For example, <math>A</math> could be gender, race, or any other characteristics that we want to be free of bias, while <math>Y</math> would be whether the person is qualified for the degree, and the output <math>R</math> would be the school's decision whether to offer the person to study for the degree. In this context, higher university enrollment rates of African Americans compared to whites with similar test scores might be necessary to fulfill the condition of equalized odds, if the "base rate" of <math>Y</math> differs between the groups.
+
+The concept was originally defined for binary-valued <math>Y</math>. In 2017, Woodworth et al. generalized the concept further for multiple classes.<ref>{{cite journal |last1=Woodworth |first1=Blake |last2=Gunasekar |first2=Suriya |last3=Ohannessian |first3=Mesrob I. |last4=Srebro |first4=Nathan |title=Learning Non-Discriminatory Predictors |journal=Proceedings of the 2017 Conference on Learning Theory |date=2017 |arxiv=1702.06081 |url=https://proceedings.mlr.press/v65/woodworth17a.html }}</ref>
+
+==See also==
+*[[Fairness (machine learning)]]
+*[[Color blindness (racial classification)]]
+
+==References==
+{{reflist}}
+
+[[Category:Machine learning]]
+[[Category:Information ethics]]
+[[Category:Computing and society]]
+[[Category:Philosophy of artificial intelligence]]
+[[Category:Discrimination]]
+[[Category:Bias]]

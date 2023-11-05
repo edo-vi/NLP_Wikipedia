@@ -1,0 +1,47 @@
+'''État second''' ([[French language|French]] for ''Second State'') refers to the [[altered state of consciousness|state of mind]] into which some [[French people|French]] authors go when writing [[short stories]]. It mixes [[abstraction]] and [[Attentional control|concentration]] at the same time, ironically telling sometimes more facts than in conscious writing. The [[Argentines|Argentine]] writer [[Julio Cortázar]] often used this method to write, as he called it "the moment of maximum [[creativity]]".<ref>{{cite journal|url=http://triangulaciones2850.blogspot.com/2006_07_01_archive.html
+|accessdate=2011-02-06
+|title=CORTAZAR O LA ANTI-FRONTERA
+|date=2006-07-09
+|last=Ron
+|first=Alex
+}}</ref>
+
+== Concept ==
+[[Pierre Janet]] was one of the first to subscribe to the concept of État second and he maintained that it is created through the synthesis of a split consciousness.<ref>{{Cite book |last=Libbrecht |first=Katrien |title=Hysterical Psychosis: A Historical Survey |publisher=Routledge |year=2018 |isbn=978-1-351-29378-5 |location=Oxon |language=en}}</ref> Here, the first state is designated the normal state while the second, the exceptional state.<ref name=":2">{{Cite book |last=Schilder |first=Paul |title=Nervous and Mental Disease |publisher=Health Research Books |year=1998 |isbn=978-0-7873-1357-9 |pages=62 |language=en}}</ref> It is in the second state where experiences are united in the closed personality with each personality may know nothing about each other.<ref name=":2" /> In État second, the [[consciousness]] is clouded so that two personalities that are very different override each other with one appearing in place of the other.<ref name=":0">{{Cite book|title=An Outline of Psychiatry in Clinical Lectures: The Lectures of Carl Wernicke|last1=Miller|first1=Robert|last2=Dennison|first2=John|date=2015|publisher=Springer|isbn=9783319180502|location=Cham, Switzerland|pages=188}}</ref> The personalities involved one that is normal while the other is aberrant and they follow each other in successions.<ref name=":0" />   
+
+In [[psychology]], État second is also referred to as the "new state" in the condition called alternating personality.<ref name=":1">{{Cite book|title=Revival: Textbook of Psychiatry (1924)|last=Bleuler|first=Eugen|date=2018|publisher=Routledge|isbn=9781351343268|location=|pages=Oxon}}</ref> This is manifested in the mental state of [[Hysteria|hysterics]]. It is said that the notion of ''[[Idée fixe (psychology)|idee fixe]]'', the [[subconscious]] that separated from ordinary consciousness, forms the nucleus of the État second.<ref>{{Cite book|title=Fits and Starts: A Genealogy of Hysteria in Modern France|last=Evans|first=Martha|date=1991|publisher=Cornell University Press|isbn=080142643X|location=Ithaca, NY|pages=[https://archive.org/details/fitsstartsgeneal00evan/page/58 58]|url-access=registration|url=https://archive.org/details/fitsstartsgeneal00evan/page/58}}</ref> For instance, a patient falls to a hysterical sleep and forgets all his previous existence upon waking. However, it is said that all of the ordinary faculties such as speaking and movement are transferred to the new state.<ref name=":1" />
+
+==Cultural references==
+*The French version of the American movie ''[[Fearless (1993 film)|Fearless]]'' (1993), directed by [[Peter Weir]], was called ''État Second''.<ref>{{IMDb title|0106881}}</ref>
+*The Argentine [[online magazine]] ''L´Etat Second mag''<ref>{{cite web|url=http://www.coroflot.com/l-etatsecond|title=L´Etat Second|work=Coroflot|accessdate=25 March 2015}}</ref> also took its name from this term.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Etat Second}}
+[[Category:Aesthetics]]
+[[Category:Cognition]]
+[[Category:Concepts in aesthetics]]
+[[Category:Concepts in epistemology]]
+[[Category:Concepts in the philosophy of mind]]
+[[Category:Creativity]]
+[[Category:Fiction]]
+[[Category:Fiction-writing mode]]
+[[Category:French literature]]
+[[Category:History of literature]]
+[[Category:Imagination]]
+[[Category:Innovation]]
+[[Category:Julio Cortázar]]
+[[Category:Literary concepts]]
+[[Category:Literature]]
+[[Category:Mental processes]]
+[[Category:Mental states]]
+[[Category:Narratology]]
+[[Category:Philosophy of literature]]
+[[Category:Psychological concepts]]
+[[Category:Style (fiction)]]
+[[Category:Writing]]
+
+
+{{lit-stub}}
+{{psych-stub}}

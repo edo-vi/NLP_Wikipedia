@@ -1,0 +1,16 @@
+The '''Issels treatment''', or '''Issels combination therapy''', is an [[alternative cancer treatment]] based on the ideas of [[Josef Issels]]. The treatment is considered ineffective against cancer by the [[American Cancer Society]],<ref name="acs">{{cite journal |title=Unproven methods of cancer management. Issels combination therapy |journal=CA Cancer J Clin |volume=22 |issue=3 |pages=188–91 |year=1972 |pmid=4339809 |doi= 10.3322/canjclin.22.3.188|url=http://caonline.amcancersoc.org/cgi/pmidlookup?view=long&pmid=4339809|doi-access=free }}</ref> and is listed as a "Dubious Treatment" by the alternative medicine [[Watchdog journalism|watchdog]] website [[Quackwatch]].<ref name="qw">{{cite web | url = http://www.quackwatch.org/00AboutQuackwatch/altseek.html |title = A Special Message for Cancer Patients Seeking "Alternative" Treatments | publisher = [[Quackwatch]] | access-date= 2008-08-08}}</ref>
+
+== Details ==
+In Issels combination therapy, patients are asked to remove any teeth containing [[dental filling|metal fillings]], to follow a strict diet, and to eliminate various substances, such as alcohol and [[caffeine]], which are considered harmful.<ref
+name="acs-metabolic">[http://www.cancer.org/docroot/ETO/content/ETO_5_3X_Metabolic_Therapy.asp?sitearea=ETO Metabolic Therapy], from the [[American Cancer Society]]. Retrieved August 8, 2008.</ref> The treatment makes use of [[Holistic health|holistic]] and [[Orthomolecular medicine|orthomolecular]] principles, utilizing certain specialized vaccines, [[chelation therapy|chelation]] and enzymatic therapies, along with [[nutraceutical]] supplementation, such as [[amygdalin|laetrile]] and [[vitamin C]].<ref>{{cite web|url=http://www.issels.com/TreatmentSummary.aspx |title=The Official Issels Treatment Summary |publisher=Issels.com |access-date=2010-06-07}}</ref> The treatment is not approved in the [[United Kingdom]], nor is it approved by any medical society in the [[United States]], but is available worldwide at a reported cost, in 2005, of US$65,000 (or about £45,000).<ref name="bbc">{{cite news | url = http://news.bbc.co.uk/1/hi/5090126.stm | title = Home remortgaged for cancer girl | publisher = BBC News | date = 2006-06-17 | access-date = 2008-08-08}}</ref>
+
+==See also==
+* [[List of ineffective cancer treatments]]
+
+== References ==
+{{Reflist|30em}}
+
+[[Category:Alternative cancer treatments]]
+
+
+{{Alt-med-stub}}

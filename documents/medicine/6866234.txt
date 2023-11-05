@@ -1,0 +1,19 @@
+{{short description|Viral disease of chickens}}
+[[Image:Chicken - melbourne show 2005.jpg|thumb|A healthy chicken]]
+{{for|other diseases called leucosis|leucosis}}
+'''Lymphoid leucosis''' is a [[disease]] that affects [[chickens]], caused by the [[retrovirus]] ''[[Avian leukosis virus]]''.
+
+It is a neoplastic disease caused by a virus, which may take the form of a [[tumor]] of the [[bursa of Fabricius]] and may [[metastasis|metastasize]] to other tissues of the chicken and cause enlargement and swelling of the abdomen.{{cn|date=November 2022}}
+
+==Symptoms==
+Symptoms include enlargement of abdomen, [[bursa]], [[weight loss]], [[weakness]] and [[emaciation]], and depression. The disease is more likely to affect chicken around five to eight months of age who are more vulnerable. Green [[diarrhea]] tends to develops at the terminal stage.<ref>{{Cite web |url=http://www.ruleworks.co.uk/poultry/Avian-Lymphoid-Leukosis.htm |title=The Poultry Guide - Avian Lymphoid Leukosis<!-- Bot generated title --> |access-date=2007-12-12 |archive-url=https://web.archive.org/web/20171211203053/http://www.ruleworks.co.uk/poultry/Avian-Lymphoid-Leukosis.htm |archive-date=2017-12-11 |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Bird diseases]]
+[[Category:Animal viral diseases]]
+[[Category:Alpharetroviruses]]
+
+
+{{veterinary-med-stub}}

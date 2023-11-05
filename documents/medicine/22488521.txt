@@ -1,0 +1,30 @@
+{{Short description|Radioactive quack device}}
+[[File:Revigorator.jpg|thumb|A Revigator crock]]
+The '''radium ore Revigator''' was a [[pseudoscientific]] medical device consisting of a ceramic water [[Crock (dishware)|crock]] lined with [[radioactive]] materials.  It was [[patented]] in 1912 by R. W. Thomas.<ref>Ross Mullner.  ''Deadly glow: the radium dial worker tragedy''. American Public Health Association, 1999. Original from the University of Michigan {{ISBN|0-87553-245-4}}</ref> Thomas was working at the time as a stock salesman in Arizona<ref>{{cite web | title = The Historical Collection: The Revigorator | url = https://www.orau.org/ptp/collection/quackcures/Revigator.htm}}</ref> but, by 1923, had moved to southern California to begin manufacture of his patent. In 1924, following several successful advertisement campaigns that left him unable to keep up with demand, he sold his operation to Dow-Herriman Pump & Machinery Company, selling thousands of the devices in the 1920s and 1930s.<ref>{{cite journal | title = Really Hot Drink, Centenarian Canines | url = http://pubs.acs.org/cen/newscripts/88/8818newscripts.html | author = Ritter, S. | journal = Chemical & Engineering News | volume = 88 | issue = 18 | page = 56 | year = 2010 | doi=10.1021/cen-v088n018.p056}}</ref>
+
+The Revigator was intended to be filled with water overnight, which would be [[irradiation|irradiated]] by the [[uranium]] and [[radium]] in the liner, and then consumed the next day.  
+
+The manufacturer provided the following instructions: 'Fill jar every night. Drink freely … when thirsty and upon arising and retiring, average eight or more glasses daily.’<ref>{{Cite book|last=Santos|first=Lucy Jane|url=https://www.worldcat.org/oclc/1158229829|title=Half Lives The Unlikely History of Radium.|date=2020|publisher=Icon Books Ltd|isbn=978-1-78578-608-2|location=London|oclc=1158229829}}</ref>
+
+This was marketed as a healthy practice which could prevent illnesses including [[arthritis]], [[flatulence]], and [[senility]].
+ 
+The Revigator contained [[carnotite]] K<sub>2</sub>(UO<sub>2</sub>)<sub>2</sub>(VO<sub>4</sub>)<sub>2</sub>'''·'''3H<sub>2</sub>O.  Water stored overnight in a vintage Revigator was analyzed by [[Inductively coupled plasma mass spectrometry|ICP-MS]] and radiation detectors.  Although the water contained high levels of [[radon]], a Mount St. Mary's University study posited that the health risk from radiation was probably low relative to the other causes of mortality at the time.<ref name="auto">{{Cite web|url=https://www.nist.gov/news-events/news/2010/01/what-were-they-drinking-researchers-investigate-radioactive-crock-pots|title=What Were They Drinking? Researchers Investigate Radioactive Crock Pots|date=January 12, 2010|website=NIST}}</ref> The water also contained levels of [[arsenic]], [[lead]] (due to the fact that it had a lead spout), [[vanadium]], and uranium that pose a health risk.<ref>{{cite journal | title = What Were They Drinking? A Critical Study of the Radium Ore Revigator | url =
+http://www.opticsinfobase.org/abstract.cfm?URI=as-63-12-1406 | author = Epstein, M.S. | journal = Applied Spectroscopy | year = 2009 | volume = 63 | issue =  1406|display-authors=etal | doi=10.1366/000370209790109003 | pages=1406–1409|pmid = 20030988|bibcode = 2009ApSpe..63.1406E|s2cid = 35139489}}</ref><ref name="auto"/>
+
+==See also==
+*[[Radithor]]
+*[[Radioactive quackery]]
+
+==References==
+{{reflist}}
+{{patent|US|1032951|Radio-active Material}}
+
+==External links==
+*[http://www.museumofquackery.com/devices/revig.htm Museum of Quackery, article on the Revigator]
+*[https://books.google.com/books?id=yaHf5PavpB8C&pg=PA28 For that healthy glow, drink radiation]
+
+[[Category:Radioactive quackery]]
+
+
+{{alt-med-stub}}
+{{medical-equipment-stub}}

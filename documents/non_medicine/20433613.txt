@@ -1,0 +1,18 @@
+The '''universality–diversity paradigm''' is the analysis of [[Biogenic substance|biological materials]] based on the universality and diversity of its fundamental structural elements and functional mechanisms. The analysis of biological systems based on this classification has been a cornerstone of modern [[biology]].
+
+For example, [[protein]]s constitute the elementary building blocks of a vast variety of biological materials such as [[Cell (biology)|cell]]s, [[spider silk]] or bone, where they create extremely robust, multi-functional materials by [[self-organization]] of structures over many length- and time scales, from nano to macro. Some of the structural features are commonly found in many different tissues, that is, they are [[Conserved sequence|conservation|highly conserved]]. Examples of such universal building blocks include [[alpha-helices]], [[beta-sheet]]s or [[tropocollagen]] molecules. In contrast, other features are highly specific to tissue types, such as particular [[Protein filament|filament]] assemblies, beta-sheet nanocrystals in spider silk or [[tendon]] fascicles. This coexistence of universality and diversity—referred to as the universality–diversity paradigm (UDP)—is an overarching feature in biological materials and a crucial component of [[materiomics]]. It might provide guidelines for bioinspired and [[biomimetic]] material development, where this concept is translated into the use of inorganic or hybrid organic-inorganic building blocks.
+
+== See also ==
+* [[Materiomics]]
+* [[Phylogenetics]]
+
+== References ==
+* {{cite journal | last1=Ackbarow | first1=Theodor | last2=Buehler | first2=Markus J. | title=Hierarchical Coexistence of Universality and Diversity Controls Robustness and Multi-Functionality in Protein Materials | journal=Journal of Computational and Theoretical Nanoscience | publisher=American Scientific Publishers | volume=5 | issue=7 | date=2008-07-01 | issn=1546-1955 | doi=10.1166/jctn.2008.2554 | pages=1193–1204| bibcode=2008JCTN....5.1193A |url=http://www.ingentaconnect.com/content/asp/jctn/2008/00000005/00000007/art00001;jsessionid=2e0drk5hvdu8b.alexandra?format=print}}
+* [http://web.mit.edu/newsoffice/2010/biomaterials-1022.html] Going nature one better (MIT News Release, October 22, 2010).
+* [http://www.dovepress.com/articles.php?article_id=5638] S. Cranford, M. Buehler, Materiomics: biological protein materials, from nano to macro, Nanotechnology, Science and Applications, Vol. 3, pp.&nbsp;127–148, 2010. 
+* {{cite journal | last=Buehler | first=Markus J. | title=Tu(r)ning weakness to strength | journal=Nano Today | publisher=Elsevier BV | volume=5 | issue=5 | year=2010 | issn=1748-0132 | doi=10.1016/j.nantod.2010.08.001 | pages=379–383}}
+* [https://www.springer.com/materials/biomaterials/book/978-94-007-1610-0] S. Cranford, M.J. Buehler, Biomateriomics, 2012 (Springer, New York).
+
+{{DEFAULTSORT:Universality-diversity paradigm}}
+[[Category:Biology]]
+[[Category:Materials science]]

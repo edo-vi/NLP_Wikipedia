@@ -1,0 +1,26 @@
+[[File:Matthaeus Platearius04.jpg|thumb|{{center|Euphorbia lathyris, Beechwort, Mint and Fig, from "''The Book of Simple Medicines''"}}]]
+'''Matthaeus Platearius''' was a physician from the medical school at [[Salerno]], and is thought <ref>{{cite journal| pmc=2006232 | pmid=19977241 | volume=6 | title=Old English Herbals, 1525-1640 | year=1913 | author=Barlow HM | journal=Proc R Soc Med | issue=Sect Hist Med | pages=108–49}}</ref> to have produced a twelfth-century Latin manuscript on medicinal herbs titled "''Circa Instans''" (also known as "''The Book of Simple Medicines''"), later translated into French as "''Le Livre des simples medecines''". It was an alphabetic listing and textbook of [[Herbal medicine|simples]] that was based on [[Pedanius Dioscorides|Dioscorides]] "''Vulgaris''", which described the appearance, preparation, and uses of various drugs. It was widely acclaimed, and was one of the first herbals produced by the newly developed printing process in 1488. [[Ernst Heinrich Friedrich Meyer|Ernst Meyer]] considered it equal to the herbals of Pliny and Dioscorides, while [[George Sarton]] thought it an improvement on "''De Materia Medica''".<ref>{{Cite web|url=http://www.lessing-photo.com/dispimg.asp?i=15020732+&cr=1&cl=1|title = NameBright - Coming Soon}}</ref><ref>{{cite web |url=http://www.ibidispress.scriptmania.com/custom2.html |title=5. Historical assessments |accessdate=2015-05-11 |url-status=dead |archiveurl=https://archive.today/20120907172025/http://www.ibidispress.scriptmania.com/custom2.html |archivedate=2012-09-07 }}</ref>
+[[File:Robinet Testard32.jpg|thumb|left|[[Robinet Testard]]'s painting of Matthaeus Platearius writing "''The Book of Simple Medicines''"]]
+Matthaeus and his brother Johannes were the sons of a female physician from the Salerno school and married to Johannes Platearius I. She is surmised to be [[Trota of Salerno|Trota]], who wrote some important treatises on gynaecology including ''Diseases of Women''.<ref>[https://www.jstor.org/stable/10.2307/432734 ''Chicago Journals'' vol4 no2 Oct 1906]</ref><ref>[[John F. Benton|Benton, John F.]] [http://authors.library.caltech.edu/16446/1/HumsWP-0098.pdf "TROTULA, WOMEN'S PROBLEMS, AND THE PROFESSIONALIZATION OF MEDICINE IN THE MIDDLE AGES"], Humanities Working Paper 98, ''[[California Institute of Technology]]'', November 1984. Retrieved March 17, 2020.</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+{{commonscat}}
+* [http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_270_f123r London: British Museum, MS Harley 270, Circa instans, (1175-1249)]
+* [http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8319 London: British Museum, MS Egerton 747, Circa instans, (1280-1310)]
+* [http://bildsuche.digitale-sammlungen.de/index.html?c=viewer&bandnummer=bsb00073571&pimage=7&v=2p&nav=&1=de Munich: Bayrische Staatsbibliothek, Clm 325. Circa instans, 14th century]
+* [http://bildsuche.digitale-sammlungen.de/index.html?c=viewer&bandnummer=bsb00061068&pimage=7&v=2p&nav=&1=de Munich: Bayrische Staatsbibliothek, Incunable, Circa instans, Venice 1497]
+{{authority control}} 
+
+{{DEFAULTSORT:Platearius, Matthaeus}}
+[[Category:12th-century Italian physicians]]
+[[Category:Italian pharmacologists]]
+[[Category:Pre-Linnaean botanists]]
+[[Category:Herbalists]]
+[[Category:12th-century Italian writers]]
+[[Category:12th-century writers in Latin]]
+[[Category:Italian botanists]]
+
+{{herbalist-stub}}

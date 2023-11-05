@@ -1,0 +1,9 @@
+'''Hypoplasia of dens''' is a [[congenital]] non-formation of the pivot point of the second [[cervical vertebra]], which leads to [[spinal cord]] damage.<ref name=KSU>"Hereditary and Congenital Diseases of Purebred Dogs."  Retrieved from {{cite web|url=http://www.vet.ksu.edu/studentorgs/Therio/pdf/Hereditary_Congenital.pdf |title=Archived copy |accessdate=March 13, 2007 |url-status=dead|archiveurl=https://web.archive.org/web/20070221132319/http://www.vet.ksu.edu/studentorgs/Therio/pdf/Hereditary_Congenital.pdf |archivedate=February 21, 2007 }} on 2007-03-13.</ref>  Onset of the condition may occur at any age, producing signs ranging from neck pain to quadriplegia.<ref>"Breed Predisposition to Disease and Congenital Conditions," ''Dr. Bob's All Creatures Site''.  Retrieved from http://www.petdoc.ws/BreedPre.htm on 2007-03-13.</ref>  Hypoplasia of dens affects dogs.  It is more commonly seen in certain breeds, including the [[Chihuahua (dog)|Chihuahua]], the [[Papillon (dog)|Papillon]], the [[Pointer (dog breed)|Pointer]] and the [[Yorkshire Terrier]].<ref name=KSU/>
+
+==References==
+{{reflist}}
+
+[[Category:Dog musculoskeletal disorders]]
+
+
+{{veterinary-med-stub}}
