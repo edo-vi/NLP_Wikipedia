@@ -40,11 +40,12 @@ class MyCounter:
     def stem(self):
         self._stemmed = True
 
-        stems = []
+        stems = dict()
         for word in self.counts.keys():
+            value = self.counts[word]
             stemmed = self.stemmer.stem(word)
             # TODO has to add values
-            stems.append(stemmed)
+            stems[stemmed] = value
         del self.counts
         self.counts = Counter(stems)
 

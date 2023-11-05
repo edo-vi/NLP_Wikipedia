@@ -961,15 +961,15 @@ with open(test_path, "r") as f:
     # print(tokens)
     nltk.download("stopwords")
     counts = MyCounter(tokens)
-    print(counts.c("and"))
-    print(counts.c("Medicine"))
+    print(f"'And' before stemming: {counts.c('and')}")
+    print(f"'Medicine' before stemming: {counts.c('Medicine')}")
     print(counts.N())
 
     counts2 = counts.remove_stopwords()
     print(counts2.N())
 
     counts3 = counts2.stem()
-    print(counts3.c("and"))
-    print(counts3.c("Medicine"))
-
+    print(f"'And' after stemming: {counts3.c('and')}")
+    print(f"'Medicine' after stemming: {counts3.c('Medicine')}")
+    print(counts3.N())
     # print(np.array(list(counts.values())).sum())
