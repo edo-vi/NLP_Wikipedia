@@ -1,8 +1,14 @@
 import numpy as np
+import pandas as pd
 import requests
 import os
 import re
 import nltk
+from nltk.lm import NgramCounter
+from nltk.util import ngrams
+from collections import Counter
+
+from MyCounter import MyCounter
 
 np.random.seed(10)
 url = "https://en.wikipedia.org/w/api.php"
@@ -944,10 +950,26 @@ test_path = "/home/edoardo/nlp_wikipedia/documents/medicine_cleaned/10013_c.txt"
 # clean_documents("non_medicine")
 # nltk.download("punkt")
 
-tokens = []
 with open(test_path, "r") as f:
+    tokens = []
+
     lines = f.readlines()
     for l in lines:
-        tokens.append(tokenize(l))
+        tok = tokenize(l)
+        tokens = tokens + tok
 
-print(tokens)
+    # print(tokens)
+    nltk.download("stopwords")
+    counts = MyCounter(tokens)
+    print(counts.c("and"))
+    print(counts.c("Medicine"))
+    print(counts.N())
+
+    counts2 = counts.remove_stopwords()
+    print(counts2.N())
+
+    counts3 = counts2.stem()
+    print(counts3.c("and"))
+    print(counts3.c("Medicine"))
+
+    # print(np.array(list(counts.values())).sum())
