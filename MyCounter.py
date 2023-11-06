@@ -16,7 +16,7 @@ class MyCounter:
 
     def c(self, key):
         if self._stemmed:
-            key = self.stemmer.stem(key).lower()
+            key = self.stemmer.stem(key.lower()).lower()
         else:
             key = key.lower()
         try:
@@ -43,8 +43,10 @@ class MyCounter:
         stems = dict()
         for word in self.counts.keys():
             value = self.counts[word]
-            stemmed = self.stemmer.stem(word)
-            # TODO has to add values
+            
+            stemmed = self.stemmer.stem(word).lower()
+            if stemmed in stems.keys():
+                value += stems[stemmed]
             stems[stemmed] = value
         del self.counts
         self.counts = Counter(stems)
