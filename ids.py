@@ -166,5 +166,7 @@ non_medical_mega_document = MyCounter({}, stemmed=True)
 for nmi in non_m_t:
     non_medical_mega_document.update(make_bow(nmi))
 
-print(medical_mega_document.c("Song"))
-print(non_medical_mega_document.c("Song"))
+print(medical_mega_document.log_likelihood("Song"))
+print(medical_mega_document.freq("Song"))
+print(non_medical_mega_document.log_likelihood("Song"))
+print(non_medical_mega_document.freq("Song"))

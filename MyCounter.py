@@ -27,6 +27,27 @@ class MyCounter:
     def N(self):
         return np.array(list(self.counts.values())).sum()
 
+    def V(self):
+        return len(self.counts.keys())
+
+    def log_likelihood(self, word, laplace_correction=True):
+        return np.log(self.freq(word, laplace_correction=laplace_correction))
+
+    def freq(self, word, laplace_correction=True):
+        n_w = self.counts[word]
+        V = self.N()
+
+        if laplace_correction:
+            return (n_w+1)/(V + self.V())
+        else:
+            return (n_w)/V 
+    
+    def log_likelihood_document(self, other):
+        ll = 0
+        for word in self.counts:
+            ll += other.log_likelihood(word)
+        return ll
+        
     def remove_stopwords(self):
         stopwords = nltk.corpus.stopwords.words("english")
         new_counts = {}
