@@ -2,35 +2,35 @@
 Infobox badminton event
 
 
-The 2021 All England Open (officially known as the Yonex All England Open Badminton Championships 2021 for sponsorship reasons) was a badminton tournament which took place at Utilita Arena Birmingham in England from 17 to 21 March 2021. It had a total purse of $850000.
+The 2021 All England Open (officially known as the Yonex All England Open Badminton Championships 2021 for sponsorship reasons) was a badminton tournament which took place at Utilita Arena Birmingham in England from 17 to 21 March 2021 It had a total purse of $850000
 
 
  Tournament 
 The 2021 All England Open became the second tournament of the 2021 BWF World Tour following the postponement of the 2021 German Open (badminton)
  Venue 
-This international tournament was held at Utilita Arena Birmingham in Birmingham England.
+This international tournament was held at Utilita Arena Birmingham in Birmingham England
 
  Point distribution 
 Below is the point distribution for each phase of the tournament based on the BWF World Ranking
 ! width"75" ! width"75" ! width"75" ! width"75" ! width"75" ! width"75" 
  Prize money 
-The total prize money for this tournament was US$850000. Distribution of prize money was in accordance with BWF regulations.
+The total prize money for this tournament was US$850000 Distribution of prize money was in accordance with BWF regulations
 
 
 Controversies
-On 17 March 2021 night local time BWF stated that all Indonesian players competing in the tournament including all three who had won in the first round were withdrawn from the tournament after 20 of 24 people from the team were contacted by the NHS Test and Trace service via e-mail and were required to enter 10-day isolation. They were contacted by the National Health Service (England)
-This sparked controversy between Indonesian players and the BWF. The Indonesians protested because 3 Indian players who are tested positive before the tournament though 24 hours later tested negative after self testing were allowed to play on the tournament while all of Indonesian team members had tested negative for the virus. The start of the tournament itself had been delayed for five hours after 7 of COVID-19 results were deemed inconclusive. The Badminton Association of Indonesia (PBSI) also stated that Turkish badminton player Neslihan Yiğit and her trainer who were on the same flight with the Indonesian team from Istanbul to Birmingham but Yiğit was allowed to continue her tournament. On 18 March noon local time Yiğit was announced to had also been withdrawn from the tournament by the BWF.
+On 17 March 2021 night local time BWF stated that all Indonesian players competing in the tournament including all three who had won in the first round were withdrawn from the tournament after 20 of 24 people from the team were contacted by the NHS Test and Trace service via email and were required to enter 10day isolation They were contacted by the National Health Service (England)
+This sparked controversy between Indonesian players and the BWF The Indonesians protested because 3 Indian players who are tested positive before the tournament though 24 hours later tested negative after self testing were allowed to play on the tournament while all of Indonesian team members had tested negative for the virus The start of the tournament itself had been delayed for five hours after 7 of COVID19 results were deemed inconclusive The Badminton Association of Indonesia (PBSI) also stated that Turkish badminton player Neslihan Yiğit and her trainer who were on the same flight with the Indonesian team from Istanbul to Birmingham but Yiğit was allowed to continue her tournament On 18 March noon local time Yiğit was announced to had also been withdrawn from the tournament by the BWF
 
-Earlier the first round of the mens doubles between Indonesians Mohammad Ahsan and Hendra Setiawan and English pair Ben Lane and Sean Vendy sparked backlashes because of an arrangement where the service judge on duty Alan Crow was also English. However according to the rules BWF never explicitly prohibits a technical official to officiate a match involving athletes from the same country with the technical official against athletes from another country.
+Earlier the first round of the mens doubles between Indonesians Mohammad Ahsan and Hendra Setiawan and English pair Ben Lane and Sean Vendy sparked backlashes because of an arrangement where the service judge on duty Alan Crow was also English However according to the rules BWF never explicitly prohibits a technical official to officiate a match involving athletes from the same country with the technical official against athletes from another country
 
-Indonesian National Olympic Committee also alleged unprofessional and discriminatory treatment by BWF as Indonesian team are not allowed to use lifts and take the bus by the organizers. On 22 March the president of BWF Poul-Erik Høyer Larsen officially apologizes to Indonesian Youth and Sports Minister for the circumstances faced by Indonesian team during the event.
+Indonesian National Olympic Committee also alleged unprofessional and discriminatory treatment by BWF as Indonesian team are not allowed to use lifts and take the bus by the organizers On 22 March the president of BWF PoulErik Høyer Larsen officially apologizes to Indonesian Youth and Sports Minister for the circumstances faced by Indonesian team during the event
 
  Mens singles 
  Seeds 
 
- Kento Momota (quarter-finals)
+ Kento Momota (quarterfinals)
  Viktor Axelsen (final)
- Anders Antonsen (semi-finals)
+ Anders Antonsen (semifinals)
  Anthony Sinisuka Ginting (first round)
  Jonatan Christie (second round)
  Lee Zii Jia (champion)
@@ -39,7 +39,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Finals 
-4TeamBracket-Tennis3
+4TeamBracketTennis3
 
 
 
@@ -47,7 +47,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Top half 
  Section 1 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -58,7 +58,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 2 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -70,7 +70,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Bottom half 
  Section 3 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -81,7 +81,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 4 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -96,16 +96,16 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Carolina Marín  (withdrew)
  Nozomi Okuhara (champion)
- Akane Yamaguchi (quarter-finals)
- Ratchanok Intanon (semi-finals)
- P. V. Sindhu (semi-finals)
+ Akane Yamaguchi (quarterfinals)
+ Ratchanok Intanon (semifinals)
+ P V Sindhu (semifinals)
  Pornpawee Chochuwong (final)
- Mia Blichfeldt (quarter-finals)
- Busanan Ongbamrungphan (quarter-finals)
+ Mia Blichfeldt (quarterfinals)
+ Busanan Ongbamrungphan (quarterfinals)
 
 
  Finals 
-4TeamBracket-Tennis3
+4TeamBracketTennis3
 
 
 
@@ -113,7 +113,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Top half 
  Section 1 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -124,7 +124,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 2 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -136,7 +136,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Bottom half 
  Section 3 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -147,7 +147,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 4 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -166,11 +166,11 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
  Hiroyuki Endo / Yuta Watanabe (badminton) Fajar Alfian / Muhammad Rian Ardianto (withdrew)
  Satwiksairaj Rankireddy / Chirag Shetty (second round)
  Goh V Shem / Tan Wee Kiong (second round)
- Marcus Ellis / Chris Langridge (quarter-finals)
+ Marcus Ellis / Chris Langridge (quarterfinals)
 
 
  Finals 
-4TeamBracket-Tennis3
+4TeamBracketTennis3
 
 
 
@@ -178,7 +178,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Top half 
  Section 1 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -189,7 +189,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 2 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -201,7 +201,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Bottom half 
  Section 3 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -212,7 +212,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 4 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -229,13 +229,13 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
  Mayu Matsumoto / Wakana Nagahara (champions)
  Greysia Polii / Apriyani Rahayu (withdrew)
  Jongkolphan Kititharakul / Rawinda Prajongjai (first round)
- Nami Matsuyama / Chiharu Shida (semi-finals)
+ Nami Matsuyama / Chiharu Shida (semifinals)
  Gabriela Stoeva / Stefani Stoeva (second round)
- Chloe Birch / Lauren Smith (badminton) Maiken Fruergaard / Sara Thygesen (quarter-finals)
+ Chloe Birch / Lauren Smith (badminton) Maiken Fruergaard / Sara Thygesen (quarterfinals)
 
 
  Finals 
-4TeamBracket-Tennis3
+4TeamBracketTennis3
 
 
 
@@ -243,7 +243,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Top half 
  Section 1 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -254,7 +254,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 2 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -266,7 +266,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Bottom half 
  Section 3 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -277,7 +277,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 4 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -291,15 +291,15 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
  Seeds 
 
  Praveen Jordan / Melati Daeva Oktavianti (withdrew)
- Yuta Watanabe (badminton) Chan Peng Soon / Goh Liu Ying (semi-finals)
+ Yuta Watanabe (badminton) Chan Peng Soon / Goh Liu Ying (semifinals)
  Marcus Ellis / Lauren Smith (badminton) Goh Soon Huat / Shevon Jemie Lai (first round)
- Tan Kian Meng / Lai Pei Jing (quarter-finals)
- Thom Gicquel / Delphine Delrue (quarter-finals)
+ Tan Kian Meng / Lai Pei Jing (quarterfinals)
+ Thom Gicquel / Delphine Delrue (quarterfinals)
  Chris Adcock / Gabby Adcock (withdrew)
 
 
  Finals 
-4TeamBracket-Tennis3
+4TeamBracketTennis3
 
 
 
@@ -307,7 +307,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Top half 
  Section 1 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -318,7 +318,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 2 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -330,7 +330,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
  Bottom half 
  Section 3 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -341,7 +341,7 @@ Indonesian National Olympic Committee also alleged unprofessional and discrimina
 
 
  Section 4 
-8TeamBracket-Tennis3 
+8TeamBracketTennis3 
 
 
 
@@ -355,8 +355,8 @@ References
 
 
 External links
-* https://bwf.tournamentsoftware.com/sport/tournament?idF25CD30E-3F46-4AAF-843A-EBA0677FF99C Tournament Link
-* http://www.allenglandbadminton.com Official Website
+ https://bwftournamentsoftwarecom/sport/tournament?idF25CD30E3F464AAF843AEBA0677FF99C Tournament Link
+ http://wwwallenglandbadmintoncom Official Website
 
 
 

@@ -1,9 +1,9 @@
 
 
-File:circumlunar-free-return-trajectory.png
-A cycler is a potential spacecraft on a closed transfer orbit that would pass close to two celestial bodies at regular intervals. Cyclers could be used for carrying heavy supplies Life-support system
+File:circumlunarfreereturntrajectorypng
+A cycler is a potential spacecraft on a closed transfer orbit that would pass close to two celestial bodies at regular intervals Cyclers could be used for carrying heavy supplies Lifesupport system
 Free return trajectory
-A free-return trajectory is a symmetrical orbit past the Moon and Earth that was first analysed by Arthur Schwaniger
+A freereturn trajectory is a symmetrical orbit past the Moon and Earth that was first analysed by Arthur Schwaniger
 
 Lunar cycler
 

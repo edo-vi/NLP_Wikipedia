@@ -1,25 +1,25 @@
 
-File:WI-38-Li-and-Tollefsbol-2011.gifWI-38 is a diploid human cell line composed of fibroblasts derived from lung tissue of a 3-month-gestation female fetus. The fetus came from the Abortion
+File:WI38LiandTollefsbol2011gifWI38 is a diploid human cell line composed of fibroblasts derived from lung tissue of a 3monthgestation female fetus The fetus came from the Abortion
 History
-The WI-38 cell line stemmed from earlier work by Hayflick growing human cell cultures.
+The WI38 cell line stemmed from earlier work by Hayflick growing human cell cultures
 
-In the early 1960s Hayflick and his colleague Paul Moorhead at the Wistar Institute in Philadelphia Pennsylvania discovered that when normal human cells were stored in a freezer the cells remembered the doubling level at which they were stored and when reconstituted began to divide from that level to roughly 50 total doublings (for cells derived from fetal tissue). Hayflick determined that normal cells gradually experience signs of senescence as they divide first slowing before stopping division altogether. Hayflicks discovery later contributed to the determination of the biological roles of telomeres. Hayflick claimed that the finite capacity of normal human cells to replicate was an expression of aging or senescence at the cellular level.
+In the early 1960s Hayflick and his colleague Paul Moorhead at the Wistar Institute in Philadelphia Pennsylvania discovered that when normal human cells were stored in a freezer the cells remembered the doubling level at which they were stored and when reconstituted began to divide from that level to roughly 50 total doublings (for cells derived from fetal tissue) Hayflick determined that normal cells gradually experience signs of senescence as they divide first slowing before stopping division altogether Hayflicks discovery later contributed to the determination of the biological roles of telomeres Hayflick claimed that the finite capacity of normal human cells to replicate was an expression of aging or senescence at the cellular level
 
-During this period of research Hayflick also discovered that if cells were properly stored in a freezer cells would remain viable and that an enormous number of cells could be produced from a single starting culture. One of the cell strains that Hayflick isolated which he named WI-38 was found to be free of contaminating viruses unlike the primary monkey kidney cells then in use for virus vaccine production.
+During this period of research Hayflick also discovered that if cells were properly stored in a freezer cells would remain viable and that an enormous number of cells could be produced from a single starting culture One of the cell strains that Hayflick isolated which he named WI38 was found to be free of contaminating viruses unlike the primary monkey kidney cells then in use for virus vaccine production
 
 Applications
-WI-38 was invaluable to early researchers especially those studying virology and immunology since it was a readily available cell line of normal human tissue. Unlike the HeLa cells
-Virus vaccines produced in WI-38 have prevented disease or saved the lives of billions of people. Vaccines produced in WI-38 include those made against adenoviruses Rubella virus
+WI38 was invaluable to early researchers especially those studying virology and immunology since it was a readily available cell line of normal human tissue Unlike the HeLa cells
+Virus vaccines produced in WI38 have prevented disease or saved the lives of billions of people Vaccines produced in WI38 include those made against adenoviruses Rubella virus
  Genome sequence 
-The WI-38 cell line was one of the first cell lines whose diploid genome was sequenced. This is critical because most human genome sequences have not been resolved to chromosome level that is it remained largely unclear which genetic variant is on which of the two chromatids. Besides being an important cell line for experimental studies (e.g. on aging) the WI-38 line is believed to have remained Ploidy
+The WI38 cell line was one of the first cell lines whose diploid genome was sequenced This is critical because most human genome sequences have not been resolved to chromosome level that is it remained largely unclear which genetic variant is on which of the two chromatids Besides being an important cell line for experimental studies (eg on aging) the WI38 line is believed to have remained Ploidy
  See also 
-* Use of fetal tissue in vaccine development
-* MRC-5
+ Use of fetal tissue in vaccine development
+ MRC5
 
  References 
 
 
  External links 
-* Cellosaurus http://www.cellosaurus.org/CVCL_0579 entry for WI-38
-* https://www.nature.com/news/medical-research-cell-division-1.13273 Medical research: Cell division by Meredith Wadman 26. Jun 2013 Nature
+ Cellosaurus http://wwwcellosaurusorg/CVCL_0579 entry for WI38
+ https://wwwnaturecom/news/medicalresearchcelldivision113273 Medical research: Cell division by Meredith Wadman 26 Jun 2013 Nature
 

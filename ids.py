@@ -8,7 +8,8 @@ from nltk.lm import NgramCounter
 from nltk.util import ngrams
 from collections import Counter
 from sklearn.metrics import precision_score, recall_score, f1_score
-
+import pandas as pd
+from sklearn.linear_model import LogisticRegression
 from MyCounter import MyCounter
 
 # nltk.download('punkt')
@@ -878,14 +879,17 @@ __NON_M_IDS__ = [
     33739475,
 ]
 
-print(len(__M_IDS__), len(__NON_M_IDS__))
+VALIDATION_SIZE = 86  # 10% of the dataset
+print(
+    f"Medical dataset size: {len(__M_IDS__)}, Non medical dataset size: {len(__NON_M_IDS__)}"
+)
 
 
-def get_training_test_ids():
+def get_training_ids():
     ratio = len(__M_IDS__) / (len(__M_IDS__) + len(__NON_M_IDS__))
 
-    quote_m = int(ratio * 50) + 1
-    quote_n_m = 50 - quote_m
+    quote_m = int(ratio * VALIDATION_SIZE)
+    quote_n_m = VALIDATION_SIZE - quote_m
 
     training_m_ids = __M_IDS__[quote_m:]
     training_non_m_ids = __NON_M_IDS__[quote_n_m:]
@@ -895,12 +899,18 @@ def get_training_test_ids():
 def get_validation_ids():
     ratio = len(__M_IDS__) / (len(__M_IDS__) + len(__NON_M_IDS__))
 
-    quote_m = int(ratio * 50) + 1
-    quote_n_m = 50 - quote_m
+    quote_m = int(ratio * VALIDATION_SIZE)
+    quote_n_m = VALIDATION_SIZE - quote_m
 
     validation_m_ids = __M_IDS__[0:quote_m]
     validation_non_m_ids = __NON_M_IDS__[0:quote_n_m]
     return validation_m_ids, validation_non_m_ids
+
+
+def get_train_test(ids, p):
+    np.random.shuffle(ids)
+    quote = int(len(ids) * p)
+    return ids[:quote], ids[quote:]
 
 
 def make_labels(medical_ids, non_medical_ids):
@@ -950,14 +960,14 @@ def clean_doc(string):
         "\[\[.*?\|", "", string
     )  # removes links such as [[dieting|diet]], but only the first part (up until "|"), which is the link.
     string = re.sub(
-        "[\[\[,\]\],{,},',#,=,\|]", "", string
-    )  # removes all remaining bad characters: left out ]], [], {}, #, =, |
+        "[\[,\],{,},',\\',\,\.,#,=,*\|`-]", "", string
+    )  # removes all remaining bad characters: left out [], {}, #, =, |, ', `, -, *
     string = re.sub("\\n", "\n", string)  # removes newlines
     return string
 
 
 def clean_documents(folder):
-    path = f"documents/{folder}"
+    path = f"./documents/{folder}"
     os.chdir(path)
     for file in os.listdir():
         # Check whether file is in text format or not
@@ -972,7 +982,7 @@ def clean_documents(folder):
                 for l in lines:
                     new_lines.append(clean_doc(l))
             f_path = file.split(".")[0]
-            new_path = f"../{folder}_cleaned/{f_path}_c.txt"
+            new_path = f"../{f_path}_c.txt"
             with open(new_path, "w") as fw:
                 for nl in new_lines:
                     fw.write(nl)
@@ -999,11 +1009,6 @@ def make_bow(id):
 
         counts3 = counts2.stem()
         return counts3
-        # print(np.array(list(counts.values())).sum())
-
-    # produce_documents(m_ids, "non_medicine")
-    # clean_documents("non_medicine")
-    # nltk.download("punkt")
 
 
 def predict_and_score(ids, labels, priors, m_doc, nm_doc):
@@ -1023,42 +1028,160 @@ def predict_and_score(ids, labels, priors, m_doc, nm_doc):
         yhat.append(1 if posteriors[0] >= posteriors[1] else 0)
         y.append(labels[i])
 
-    print(
-        f"Precision: {precision_score(y, yhat)}, Recall: {recall_score(y, yhat)}, F1: {f1_score(y, yhat)}"
+    precision = round(precision_score(y, yhat), 3)
+    recall = round(recall_score(y, yhat), 3)
+    f1 = round(f1_score(y, yhat), 3)
+    print(f"Precision: {precision}, Recall: {recall}, F1: {f1}")
+
+
+def naive_bayes():
+    labels = make_labels(__M_IDS__, __NON_M_IDS__)
+    medical_training_set, non_medical_training_set = get_training_ids()
+    medical_validation_set, non_medical_validation_set = get_validation_ids()
+
+    assert len(medical_training_set) + len(medical_validation_set) == len(__M_IDS__)
+    assert len(non_medical_training_set) + len(non_medical_validation_set) == len(
+        __NON_M_IDS__
+    )
+
+    # print(labels)
+
+    # produce_documents(__NON_M_IDS__, "non_medicine")
+    #
+
+    medical_mega_document = MyCounter({}, stemmed=True)
+
+    for mi in medical_training_set:
+        medical_mega_document.update(make_bow(mi))
+
+    non_medical_mega_document = MyCounter({}, stemmed=True)
+
+    for nmi in non_medical_training_set:
+        non_medical_mega_document.update(make_bow(nmi))
+
+    ratio = len(medical_training_set) / (
+        len(medical_training_set) + len(non_medical_training_set)
+    )
+    priors = [ratio, 1 - ratio]
+    validation_set = medical_validation_set + non_medical_validation_set
+
+    predict_and_score(
+        validation_set, labels, priors, medical_mega_document, non_medical_mega_document
     )
 
 
-labels = make_labels(__M_IDS__, __NON_M_IDS__)
-m_t, non_m_t = get_training_test_ids()
-m_v, non_m_v = get_validation_ids()
-
-assert len(m_t) + len(m_v) == len(__M_IDS__)
-assert len(non_m_t) + len(non_m_v) == len(__NON_M_IDS__)
-
-# print(labels)
-
-# produce_documents(__NON_M_IDS__, "non_medicine")
+# clean_documents("medicine")
 # clean_documents("non_medicine")
 
-medical_mega_document = MyCounter({}, stemmed=True)
+
+def make_dataset(kind, ids, labels, most_common):
+    np.random.shuffle(ids)
+    columns = [
+        "id",
+        "c",
+    ] + [str(n) for n in range(len(most_common))]
+    dataset = []
+
+    for id in ids:
+        c = labels[id]
+        features = [id, c]
+        bow = make_bow(id)
+
+        for word in most_common:
+            if bow.contains(word):
+                features.append(1)
+            else:
+                features.append(0)
+
+        dataset.append(features)
+
+    df = pd.DataFrame(dataset, columns=columns)
+    # print(df)
+    df.to_csv(f"./{kind}_dataset.csv", index=False)
 
 
-for mi in m_t:
-    medical_mega_document.update(make_bow(mi))
+def logistic_regressor(validation=False):
+    labels = make_labels(__M_IDS__, __NON_M_IDS__)
+    # Set to be used as training and testing
+    medical_set, non_medical_set = get_training_ids()
+    # Validation set (double underscore because private, not the be used until the end)
+    __medical_validation_set__, __non_medical_validation_set__ = get_validation_ids()
 
-non_medical_mega_document = MyCounter({}, stemmed=True)
+    medical_training_set, medical_test_set = get_train_test(medical_set, 0.75)
+    non_medical_training_set, non_medical_test_set = get_train_test(
+        non_medical_set, 0.75
+    )
 
-for nmi in non_m_t:
-    non_medical_mega_document.update(make_bow(nmi))
+    # print(f"Medical: {len(medical_training_set)} + {len(medical_test_set)}")
+    # print(f"Non Medical: {len(non_medical_training_set)} + {len(non_medical_test_set)}")
 
-print(medical_mega_document.log_likelihood("Song"))
-print(medical_mega_document.freq("Song"))
-print(non_medical_mega_document.log_likelihood("Song"))
-print(non_medical_mega_document.freq("Song"))
+    # Create mega document from training set only, not test set or validation set
+    medical_mega_document = MyCounter({}, stemmed=True)
+    for mi in medical_training_set:
+        medical_mega_document.update(make_bow(mi))
 
-ratio = len(__M_IDS__) / (len(__M_IDS__) + len(__NON_M_IDS__))
-priors = [ratio, 1 - ratio]
+    non_medical_mega_document = MyCounter({}, stemmed=True)
+    for nmi in non_medical_training_set:
+        non_medical_mega_document.update(make_bow(nmi))
 
-predict_and_score(
-    m_v + non_m_v, labels, priors, medical_mega_document, non_medical_mega_document
-)
+    m_common = [a[0] for a in medical_mega_document.most_common(150)]
+    non_m_common = [a[0] for a in non_medical_mega_document.most_common(150)]
+
+    common = m_common + non_m_common
+
+    make_dataset(
+        "training", medical_training_set + non_medical_training_set, labels, common
+    )
+    make_dataset("test", medical_test_set + non_medical_test_set, labels, common)
+    make_dataset(
+        "validation",
+        __medical_validation_set__ + __non_medical_validation_set__,
+        labels,
+        common,
+    )
+
+    training_data = pd.read_csv("./training_dataset.csv")
+    test_data = pd.read_csv("./test_dataset.csv")
+    __validation_data__ = pd.read_csv("./validation_dataset.csv")
+
+    y_training = training_data.pop("c")
+    X_training = training_data
+    X_training.drop("id", inplace=True, axis=1)
+
+    y_test = test_data.pop("c")
+    X_test = test_data
+    X_test.drop("id", inplace=True, axis=1)
+
+    if validation:
+        print("== Validation set ==")
+        # Train on training + test and predict validation set
+        X_training = pd.concat([X_training, X_test])
+        y_training = pd.concat([y_training, y_test])
+
+        y_validation = __validation_data__.pop("c")
+        X_validation = __validation_data__
+        __validation_data__.drop("id", inplace=True, axis=1)
+
+        logistic = LogisticRegression("l2")
+        fitted = logistic.fit(X_training, y_training)
+
+        yhat = fitted.predict(X_validation)
+
+        precision = round(precision_score(y_validation, yhat), 3)
+        recall = round(recall_score(y_validation, yhat), 3)
+        f1 = round(f1_score(y_validation, yhat), 3)
+        print(f"Precision: {precision}, Recall: {recall}, F1: {f1}")
+    else:
+        logistic = LogisticRegression("l2")
+        fitted = logistic.fit(X_training, y_training)
+
+        yhat = fitted.predict(X_test)
+
+        precision = round(precision_score(y_test, yhat), 3)
+        recall = round(recall_score(y_test, yhat), 3)
+        f1 = round(f1_score(y_test, yhat), 3)
+        print(f"Precision: {precision}, Recall: {recall}, F1: {f1}")
+
+
+# naive_bayes()
+logistic_regressor(validation=True)

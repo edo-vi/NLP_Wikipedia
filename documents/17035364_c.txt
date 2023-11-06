@@ -1,20 +1,20 @@
 
 Drugbox
 
-<!--Clinical data-->
+<!Clinical data>
 
-<!--Pharmacokinetic data-->
+<!Pharmacokinetic data>
 
-<!--Identifiers-->
+<!Identifiers>
 
-<!--Chemical data-->
+<!Chemical data>
 
 
 Ponazuril (International Nonproprietary Name
  See also 
-* Clazuril
-* Diclazuril
-* Toltrazuril
+ Clazuril
+ Diclazuril
+ Toltrazuril
 
  References 
 

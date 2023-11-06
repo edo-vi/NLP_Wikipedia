@@ -1,18 +1,18 @@
 
 Drugbox
 
-<!--Clinical data-->
+<!Clinical data>
 
-<!--Pharmacokinetic data-->
+<!Pharmacokinetic data>
 
-<!--Identifiers-->
+<!Identifiers>
 
-<!--Chemical data-->
+<!Chemical data>
 
 
 Oxibendazole is a benzimidazole drug that is used to protect against roundworms strongyle (worm)
 Synthesis
-File:Oxibendazole synthesis.svg4‑Hydroxyacetamide (1) is alkylated with 1-bromopropane
+File:Oxibendazole synthesissvg4‑Hydroxyacetamide (1) is alkylated with 1bromopropane
 References
 
 

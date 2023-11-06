@@ -14,24 +14,24 @@ Infobox skier
 
 
 
-Veronika Sergeyevna Stepanova (; born 4 January 2001) is a Russian Cross-country skiing (sport)
+Veronika Sergeyevna Stepanova (; born 4 January 2001) is a Russian Crosscountry skiing (sport)
 Career
 Stepanova competed at three FIS Nordic Junior World Ski Championships
 Personal life
 During the meeting with Russian president Vladimir Putin on 26 April 2022 commemorating Russian medal winners at the 2022 Winter Olympics and in the wake of the 2022 Russian invasion of Ukraine
-Cross-country skiing results
+Crosscountry skiing results
 All results are sourced from the International Ski Federation
 Olympic Games
-*1 medal – (1 gold)
-! style"background-color:369; color:white; width:60px;"! style"background-color:369; color:white; width:40px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"
+1 medal – (1 gold)
+! style"backgroundcolor:369; color:white; width:60px;"! style"backgroundcolor:369; color:white; width:40px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"
 World Cup
 Season standings
-! style"background-color:369; color:white; width:60px;" rowspan"2" ! style"background-color:369; color:white; width:40px;" rowspan"2" ! style"background-color:4180be; color:white;" colspan"4" ! style"background-color:4180be; color:white;" colspan"6" ! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"! style"background-color:4180be; color:white; width:75px;"
+! style"backgroundcolor:369; color:white; width:60px;" rowspan"2" ! style"backgroundcolor:369; color:white; width:40px;" rowspan"2" ! style"backgroundcolor:4180be; color:white;" colspan"4" ! style"backgroundcolor:4180be; color:white;" colspan"6" ! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"! style"backgroundcolor:4180be; color:white; width:75px;"
 Team podiums
-* 1 victory – (1  1 ) <!--1 as of 5 December 2021-->
-* 1 podium – (1 ) <!--1 as of 5 December 2021-->
+ 1 victory – (1  1 ) <!1 as of 5 December 2021>
+ 1 podium – (1 ) <!1 as of 5 December 2021>
 
-! style"background-color:369; color:white;"! style"background-color:369; color:white;"! style"background-color:4180be; color:white; width:100px;"! style"background-color:4180be; color:white; width:170px;"! style"background-color:4180be; color:white; width:170px;"! style"background-color:4180be; color:white; width:100px;"! style"background-color:4180be; color:white;! style"background-color:4180be; color:white;"
+! style"backgroundcolor:369; color:white;"! style"backgroundcolor:369; color:white;"! style"backgroundcolor:4180be; color:white; width:100px;"! style"backgroundcolor:4180be; color:white; width:170px;"! style"backgroundcolor:4180be; color:white; width:170px;"! style"backgroundcolor:4180be; color:white; width:100px;"! style"backgroundcolor:4180be; color:white;! style"backgroundcolor:4180be; color:white;"
 Notes
 
 
@@ -39,7 +39,7 @@ References
 
 
 External links
-*
+
 
 
 

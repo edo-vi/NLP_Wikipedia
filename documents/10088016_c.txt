@@ -1,9 +1,9 @@
 
 
 
-<!-- Note to editors - please refrain from adding entries for crimes that are not serious enough to result in prison time. See the talk page for more information --As per WP:BLPCAT individuals who have had overturned convictions should not be included -->
+<! Note to editors  please refrain from adding entries for crimes that are not serious enough to result in prison time See the talk page for more information As per WP:BLPCAT individuals who have had overturned convictions should not be included >
 
-This list includes sports-people who have been convicted of serious crimes (such as felony
+This list includes sportspeople who have been convicted of serious crimes (such as felony
 American football (gridiron)
 ! Name
 ! Status with team when arrested
@@ -19,7 +19,7 @@ English leagues
 ! Offence
 ! Sentence
 ! Notes
-Cleared of a 2005 murder in 2007. Murder he was convicted of took place in May 2004 before the start of his professional career.
+Cleared of a 2005 murder in 2007 Murder he was convicted of took place in May 2004 before the start of his professional career
 
 
 Scottish leagues
@@ -85,7 +85,7 @@ Australian rules football
 ! Offense
 ! Sentence
 ! Notes
-http://www.foxsports.com.au/afl/ben-cousins-has-been-sentenced-to-12-months-jail/news-story/d95f421b1cb03962992c70a936de6d47</ref>
+http://wwwfoxsportscomau/afl/bencousinshasbeensentencedto12monthsjail/newsstory/d95f421b1cb03962992c70a936de6d47</ref>
 cite news
 
 </ref>
@@ -144,7 +144,7 @@ Cricket
        </ref>
 
 Cycling
-N.B: Italics indicates retired or inactive.
+NB: Italics indicates retired or inactive
 ! Name
 ! Discipline
 ! Offense
@@ -169,7 +169,7 @@ Figure skating
 ! Sentence
 ! Notes
 
-Greco-Roman wrestling
+GrecoRoman wrestling
 ! Name
 ! Offense
 ! Sentence

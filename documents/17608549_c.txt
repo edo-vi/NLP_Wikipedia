@@ -1,18 +1,18 @@
 
 Drugbox
 
-<!--Clinical data-->
+<!Clinical data>
 
-<!--Pharmacokinetic data-->
+<!Pharmacokinetic data>
 
-<!--Identifiers-->
+<!Identifiers>
 
-<!--Chemical data-->
+<!Chemical data>
 
 
-Orbifloxacin (brand name Orbax) is a fluoroquinolone antibiotic which is approved for use in dogs marketed by Schering-Plough
+Orbifloxacin (brand name Orbax) is a fluoroquinolone antibiotic which is approved for use in dogs marketed by ScheringPlough
 See also
-File:Orbax.jpg* Quinolone antibiotic
+File:Orbaxjpg Quinolone antibiotic
 References
 
 
