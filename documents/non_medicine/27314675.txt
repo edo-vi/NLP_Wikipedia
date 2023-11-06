@@ -1,0 +1,223 @@
+{{Short description|Short films by Japanese animation studio Studio Ghibli}}
+{{Infobox animanga/Header
+| name            = Short films by [[Studio Ghibli]]
+| italic title    = no
+| image           = Ghibli ga Ippai Special Short Short DVD cover.jpg
+| caption         = ''Ghibli ga Ippai Short Short'' DVD, which contains many of the studio's short films
+| ja_kanji        = 
+| ja_romaji       = 
+| genre           = 
+}}
+{{Infobox animanga/Video
+| type            = commercial
+| title           = Nandarō
+| director        = [[Hayao Miyazaki]]
+| producer        = 
+| writer          = Hayao Miyazaki
+| music           = 
+| studio          = [[Studio Ghibli]]
+| network         = [[Nippon TV]]
+| released        = November 1992
+| runtime         = 15 seconds, 5 seconds (4 different spots)
+}}
+{{Infobox animanga/Video
+| type            = music video
+| title            = On Your Mark
+| director        = Hayao Miyazaki
+| producer        = [[Toshio Suzuki (producer)|Toshio Suzuki]]
+| writer          = Hayao Miyazaki
+| music           = Ryō Hiyama<br/>[[Chage and Aska|Chage & Aska]] (vocals)
+| studio          = Studio Ghibli
+| released        = July 15, 1995
+| runtime         = 6:40 minutes
+}}
+{{Infobox animanga/Video
+| type            = special
+| title           = Ghiblies
+| director        = Yoshiyuki Momose
+| producer        = [[Hiroyuki Watanabe]]
+| writer          = 
+| music           = 
+| studio          = Studio Ghibli
+| licensee        = 
+| network         = Nippon TV
+| released        = April 8, 2000
+| runtime         = 12 minutes
+}}
+{{Infobox animanga/Video
+| type            = special
+| title           = Ghiblies Episode 2
+| director        = Yoshiyuki Momose
+| producer        = 
+| writer          = Yoshiyuki Momose
+| music           = [[Shang Shang Typhoon|Manto Watanabe]]
+| studio          = Studio Ghibli
+| licensee        = 
+| network         = Nippon TV
+| released        = July 19, 2002
+| runtime         = 25 minutes
+}}
+{{Infobox animanga/Other
+| title           = See also
+| content         = 
+* ''[[On Your Mark]]'' (1994)
+* ''[[Kujiratori|The Whale Hunt]]'' (2001)
+* ''[[Kūsō no Sora Tobu Kikaitachi|Imaginary Flying Machines]]'' (2002)
+*''[[Koro no Daisanpo|Koro's Big Day Out]]'' (2002)
+* ''[[Mei and the Kittenbus]]'' (2003)
+* ''[[Hoshi wo Katta Hi|The Day I Harvested a Planet]]'' (2006)
+* ''[[Looking for a Home (film)|Looking for a Home]]'' (2006)
+* ''[[The Night of Taneyamagahara]]'' (2006)
+* ''[[Mizugumo Monmon|Water Spider Monmon]]'' (2006)
+* ''[[Iblard Jikan]]'' (2007)
+}}
+{{Infobox animanga/Footer}}
+
+[[Studio Ghibli]] is a Japanese animation film studio founded in 1985. In addition to producing 18 feature films, the studio has produced several '''short films''', including commercials, films for the [[Ghibli Museum]], [[music video]]s, and works released directly to video.
+
+==Commercials==
+Studio Ghibli has created and produced a variety of different commercials.
+
+===Nandarō===
+{{nihongo|'''''Nandarō'''''|なんだろう||lit. ''What Is It?''}} was a series of commercial spots for [[Nippon Television|NTV]] which were created by [[Hayao Miyazaki]] at [[Studio Ghibli]]. The spots first aired during November 1992, and featured one 15-second spot and four 5-second spots.<ref name="nandaro">{{cite web|url=http://www.nausicaa.net/miyazaki/nandaro/|title=Nandaro|publisher=[[Nausicaa.net]]|author=Team Ghiblink|accessdate=May 10, 2010}}</ref> They have been released on both the ''Ghibli ga Ippai'' [[LaserDisc]] box set and the ''Ghibli ga Ippai Special Short Short'' DVD set.<ref name="nandaro-video">{{cite web|url=http://www.nausicaa.net/miyazaki/video/ghibli/index.html#nanda|title=Video List: Studio Ghibli|publisher=[[Nausicaa.net]]|author=Team Ghiblink|accessdate=May 10, 2010}}</ref>
+
+==Music videos==
+Studio Ghibli (and its subsidiary [[Studio Kajino]]) have created a number of music videos.
+
+===On Your Mark===
+{{main|On Your Mark}}
+
+{{nihongo|"'''On Your Mark'''"|オン・ユア・マーク|On Yua Māku}} is a song by the [[Japan]]ese [[rock music|rock]] duo [[Chage and Aska|Chage & Aska]]. At their request, animator Hayao Miyazaki produced a [[music video]] for the song. The music video was created in 1995, is entirely animated, has no dialogue, and runs for about six and a half minutes.<ref name="ex-oym">{{cite web|url=http://www.ex.org/2.7/17-anime_onyourmark.html|title=On Your Mark|publisher=Ex.org|first=Charles|last=McCarter|accessdate=May 10, 2010|url-status=dead|archiveurl=http://arquivo.pt/wayback/20090708142840/http://www.ex.org/2.7/17-anime_onyourmark.html|archivedate=July 8, 2009}}</ref>  The song was used in advertisements for [[NEC]], and was shown at the theatrical release of ''[[Whisper of the Heart (film)|Whisper of the Heart]]'' in Japan.<ref name="oym">{{cite web|url=http://www.nausicaa.net/miyazaki/oym/index.html|title=On Your Mark|publisher=[[Nausicaa.net]]|author=Team Ghiblink|accessdate=May 10, 2010}}</ref>
+
+The music video tells the story of two policemen in a possible near future who rescue a young girl with wings from the headquarters of a religious cult, and then have to rescue her from their own government.<ref name="them-anime-oym">{{cite web|url=http://www.themanime.org/viewreview.php?id=544|title=On Your Mark|publisher=THEM Anime Reviews|first=Stig|last=Høgset|accessdate=May 10, 2010}}</ref>
+
+==Short films==
+Studio Ghibli short films have premiered on television, in theaters (usually debuting with a full-length film from the studio), at the [[Ghibli Museum]] in [[Mitaka, Tokyo]], and directly to home video formats such as [[DVD]] and [[Blu-ray]].
+
+===Ghiblies===
+{{nihongo|'''''Ghiblies'''''|ギブリーズ|Giburīzu}} is a 12-minute short [[anime]] comedic film which aired on [[Nihon TV|NTV]] on April 8, 2000. It was directed by Yoshiyuki Momose and produced by [[Hiroyuki Watanabe]].
+
+===Ghiblies Episode 2===
+A 25-minute sequel, titled '''''Ghiblies Episode 2''''', was released in theaters with ''[[The Cat Returns]]'' on July 19, 2002. Momose wrote the script and directed the sequel, with assistance directing from Eiichirō Tashiro and Chika Matsumura. Manto Watanabe, the drummer for the Okinawan band [[Shang Shang Typhoon]], created the music for the short film. Other staff members included art director Noboru Yoshida, original character designer [[Toshio Suzuki (producer)|Toshio Suzuki]], and special character designer [[Hisaichi Ishii]]. It was released on home video in North America as bonus content with ''[[Ocean Waves]]'' by [[GKIDS]] in 2017. Before that, GKIDS streamed the clip with English subtitles in United States' theaters along with the 15th anniversary screenings of [[Spirited Away]] in December 2016.<ref>{{cite news|url=https://www.animenewsnetwork.com/news/2016-12-08/gkids-streams-ghiblies-episode-2-clip-adds-3rd-day-of-spirited-away-screenings/.109305|title=GKids Streams Ghiblies: Episode 2 Clip, Adds 3rd Day of Spirited Away Screenings|work=[[Anime News Network]]|date=December 8, 2016|accessdate=December 12, 2020}}</ref>
+
+===Film Guru Guru===
+{{nihongo|'''''Film Guru Guru'''''|フィルムぐるぐる|Firumu Guru Guru}} is an [[anime]] short film series which was shown at the [[Ghibli Museum]] from October 1, 2001 through November 17, 2008. The series was directed by [[Hayao Miyazaki]] with storyboards by Miyazaki and [[Hiromasa Yonebayashi]] (who also produced).
+
+====Characters====
+*{{nihongo|Nonaka-kun|野中くん|}}: [[Masahiko Nishimura]]
+*{{nihongo|Yukari-san|ゆかりさん|}}: [[Kyōka Suzuki]]
+*{{nihongo|Oku-chan|奥ちゃん|}}: [[Arata Furuta]]
+*{{nihongo|Toku-san|徳さん|}}: Satoru Satō
+*{{nihongo|Hotaru-chan|蛍ちゃん|}}: [[Tomoe Shinohara]]
+*{{nihongo|Hikari-chan|米ちゃん|}}: [[Koji Imada]]
+*{{nihongo|Toshi-chan|トシちゃん|}}: [[Kaoru Kobayashi (actor)|Kaoru Kobayashi]]
+
+===Imaginary Flying Machines===
+{{main|Kūsō no Sora Tobu Kikaitachi}}
+
+{{nihongo|'''''Kūsō no Sora Tobu Kikaitachi'''''|空想の空飛ぶ機械達||{{lit|Imaginary Flying Machines}}}} is an [[animated film|animated]] 2002 [[short film]] produced by [[Studio Ghibli]] for their near exclusive use in the [[Ghibli Museum]]. It features famous director [[Hayao Miyazaki]] himself as [[narrator]] (in the form of a humanoid pig, reminiscent of Porco from ''[[Porco Rosso]]''), telling the story of [[flight]] and the many machines imagined to achieve it.<ref name="ghibliworld-imaginary">{{cite web|url=http://www.ghibliworld.com/newsarchive3.html|title=News Archive Page 3|publisher=GhibliWorld.com|accessdate=May 10, 2010|date=December 31, 2005|url-status=dead|archiveurl=https://web.archive.org/web/20100508002550/http://www.ghibliworld.com/newsarchive3.html|archivedate=May 8, 2010}}</ref>
+
+===The Night of Taneyamagahara===
+{{main|The Night of Taneyamagahara}}
+
+{{nihongo|'''''The Night of Taneyamagahara'''''|種山ヶ原の夜|Taneyamagahara no Yoru}} is an [[anime]] short film directed by [[Kazuo Oga]] and released by [[Studio Ghibli]]. A DVD version was released for Japan on July 7, 2006. The story is based on a work by [[Kenji Miyazawa]].
+
+===Iblard Jikan===
+{{main|Iblard Jikan}}
+
+{{Nihongo|'''''Iblard Jikan'''''|イバラード時間|Ibarādo Time}} is a Japanese [[anime|animation]] by [[Studio Ghibli]], released in Japan on [[DVD]] and [[Blu-ray]] on July 4, 2007 as part of the "Ghibli ga Ippai Collection."<ref name="ann-20070309">{{cite web|title=Next Studio Ghibli Projects Announced|url=http://www.animenewsnetwork.com/news/2007-03-19/next-studio-ghibli-projects-announced|publisher=[[Anime News Network]]|date=March 19, 2007|accessdate=May 11, 2010}}</ref> It is [[film director|directed]] by [[Naohisa Inoue]]. The story is set in the [[imaginary world]] of Iblard, originally depicted in paintings by Inoue. The paintings of Iblard also inspired the fantasy sequences of Ghibli's ''[[Whisper of the Heart (film)|Whisper of the Heart]]''.<ref name="ann-20070621">{{cite web|title=Studio Ghibli's Iblard Jikan Video Trailer Online|url=http://www.animenewsnetwork.com/news/2007-06-21/studio-ghibli's-iblard-jikan-video-trailer-online|publisher=[[Anime News Network]]|date=June 21, 2007|accessdate=May 11, 2010}}</ref>
+
+===Zen - Grogu and Dust Bunnies===
+''Zen - Grogu and Dust Bunnies'' is a [[Disney+]] short film [[anime|animation]] by [[Studio Ghibli]], made as a co-production with [[Lucasfilm Ltd.]] to promote the third season of ''[[The Mandalorian]]'' and was released on November 12, 2022. The short stars [[Grogu]] as he meditates while the Soot Sprites from ''[[My Neighbor Totoro]]'' and ''[[Spirited Away]]'' interact with him.
+
+A teaser was posted on Ghibli's Twitter page on November 10, 2022 featuring the Lucasfilm logo.<ref>{{cite tweet|user=JP_GHIBLI|number=1590720957676949504|title=Video @JP_GHIBLI}}</ref> It was officially announced on the 11th for an immediate release on Disney+ the following day.<ref>{{cite tweet|user=starwars|number=1591219227033313285|title=Zen - Grogu and Dust Bunnies, a hand-drawn animated Original short by Studio Ghibli}}</ref>
+
+==Ghibli Museum and Ghibli Park exclusive short films==
+The following ten short films were produced for and are exclusively shown on rotation at the Saturn Theater at the [[Ghibli Museum]]<ref name="museum-20230709">{{cite web| url=https://www.ghibli-museum.jp/en/films/works/ | title=Ghibli Museum, Mitaka in Japan Films|accessdate = July 9, 2023 | publisher=[[Studio Ghibli]] }}</ref> and the Orion Theater at [[Ghibli Park]].<ref name="park-20230709">{{cite web| url=https://ghibli-park.jp/en/about/ghiblisgrandwarehouse.html#orion | title=Screening Room Cinema Orion|accessdate = July 9, 2023 | publisher=[[Studio Ghibli]] }}</ref>
+
+===The Whale Hunt===
+{{main|Kujiratori}}
+
+{{nihongo|'''''Kujiratori'''''|くじらとり||lit. "Whale Hunt"}} is a 2001 short film with a running time of 16 minutes. It is drawn in a different, simpler style compared to other [[Studio Ghibli]] films, and uses bright [[pastel]] colors.
+
+''Kujiraori'' tells the story of school children playing that they're building a boat. As imagination replaces reality, they find themselves on the ocean, hunting for a [[whale]]. A big, gentle whale shows up, accompanies them back to land and plays with them. Then the fantasy ends and the children are back in their class room.
+
+The film was shown at the 2002 [[New York International Children's Film Festival]]. It has won the Ōfuji Noburō Award at the [[Mainichi Film Award]] in 2001.
+
+===Koro's Big Day Out===
+{{main|Koro no Daisanpo}}
+
+{{nihongo|'''''Koro's Big Day Out'''''|コロの大さんぽ|''Koro no daisanpo''}} is a 2002 short film written and directed by Miyazaki. It has a running time of 15 minutes.
+
+===Mei and the Kittenbus===
+{{main|Mei and the Kittenbus}}
+
+{{nihongo|'''''Mei and the Kittenbus'''''|めいとこねこバス|''Mei to Konekobasu''}} is a 2002 thirteen-minute sequel to ''My Neighbor Totoro'', written and directed by Miyazaki.<ref name="ann-20080620">{{cite web |url=http://www.animenewsnetwork.com/news/2008-06-20/miyazaki-plans-museum-anime-shorts-after-ponyo |title=Miyazaki Plans Museum Anime Shorts After Ponyo |publisher=[[Anime News Network]] |date=June 20, 2008 |accessdate=May 11, 2010}}</ref> [[Chika Sakamoto]], who voiced Mei in ''Totoro'', returned to voice Mei in this short. Miyazaki himself did the voice of the Neko Ba-chan as well as Totoro. It concentrates on the character of Mei Kusakabe from the original film and her adventures one night with the Kittenbus (offspring of the [[Catbus]] from the film) and other cat-oriented vehicles.
+
+This short was shown briefly in the United States in 2006 to honor the North American release of ''[[Spirited Away]]''<ref name="nnet-koneko-1">{{cite web| url=http://www.nausicaa.net/miyazaki/lasseter/synopsis/page1.html | title=Synopsis - Page 1| work=Lasseter-San, Arigato (Thank You, Mr. Lasseter) | accessdate = May 11, 2010 | publisher=[[Nausicaa.net]] }}</ref> and at a [[Juvenile Diabetes Research Foundation]] fundraiser a few days later.<ref name="nnet-koneko-2">{{cite web| url=http://www.nausicaa.net/miyazaki/lasseter/synopsis/page6.html | title=Synopsis - Page 6| work=Lasseter-San, Arigato (Thank You, Mr. Lasseter) | accessdate = May 11, 2010 | publisher=[[Nausicaa.net]] }}</ref>
+
+===Water Spider Monmon===
+{{main|Mizugumo Monmon}}
+
+{{nihongo|'''''Mizugumo Monmon'''''|水グモもんもん|extra=lit. ''Water Spider Monmon''}} is a 2006 [[Japan]]ese animated [[short film]] produced by [[anime]] studio [[Studio Ghibli]].
+
+It is based in part on "Boro, the Caterpillar", a story idea which [[Hayao Miyazaki]] considered working on prior to the start of production on ''[[Princess Mononoke]]''. The short film's main character is a [[diving bell spider]] who seems to have fallen in love with a [[water strider]]. Though she is scared of him at first, the water strider soon gets used to the presence of the spider.
+
+===The Day I Harvested a Planet===
+{{main|Hoshi o Katta Hi}}
+
+{{nihongo|'''''Hoshi o Katta Hi'''''|星をかった日||literally "''The Day [I] Raised (Harvested) a Planet''"}} is an [[animated film|animated]] 2006 [[short film]] produced by [[Studio Ghibli]]. The film is based on a story by [[Naohisa Inoue]].
+
+The short film is about a boy who lives and works on a farm. One day when going to sell vegetables at a market, his cart breaks down. Two strangers, a frog and a mole, offer him a strange seed in exchange for the vegetables. The boy accepts and finds that the seed grows into a miniature planet. It continues growing as he tends to it, forming an atmosphere, weather systems and life. After being taken back to the city, he meets the stranger who sold the seed to him, and they release the planet into a galaxy of similar planets, where it will grow  for years until becoming a real planet.
+
+===Looking for a House===
+{{main|Looking for a Home (film)}}
+
+{{nihongo|'''''Looking for a House'''''|やどさがし|Yadosagashi}} debuted in January 2006 and is 12 minutes long.
+
+Fuki sets out with a big rucksack in high spirits on a journey to look for a new house.  Along her way, Fuki encounters and befriends numerous manifestations of the natural world, from fish to insects to a [[kami]] who resembled Totoro.  All the [[sound effects]] in this film were done by human voice. As a nod to the non-Japanese speaking audience, this short film contains little to no spoken Japanese, and the story is conveyed almost entirely through art and sound effects. Sound is also depicted on screen as animated writing.  The original story and screenplay were written by [[Hayao Miyazaki]].
+
+===A Sumo Wrestler's Tail===
+{{main|Nezumi no Sumō#A Sumo Wrestler's Tail}}
+{{nihongo|'''''A Sumo Wrestler's Tail'''''|ちゅうずもう|}} is a Japanese animated [[fantasy]] short film directed by [[Akihiko Yamashita]] and written by [[Hayao Miyazaki]]. It premiered at the [[Ghibli Museum]] in 2010. Miyazaki based the story on the Japanese folk tale ''[[Nezumi no Sumō]]''.
+
+''Chu Zumo'' is the story of an old farmer who discovers a group of rats heading to a sumo wrestling bout. After they lose miserably he decides to feed the rats to boost their chances of winning.
+
+===Mr. Dough and the Egg Princess===
+{{nihongo|'''''Mr. Dough and the Egg Princess'''''|パン種とタマゴ姫|Pandane to Tamago Hime}} is a 2010 short film. It is 12 minutes long.
+
+===Treasure Hunting===
+
+{{nihongo|'''''Treasure Hunting'''''|たからさがし|Takara sagashi}} is a 2011 short film. It is 9 minutes long.
+
+===Boro the Caterpillar===
+{{main|Boro the Caterpillar}}
+
+{{nihongo|'''''Boro the Caterpillar'''''|毛虫のボロ|Kemushi no Boro}} is a 2018 short film about a newly hatched caterpillar. [[Hayao Miyazaki]] created the story, wrote the screenplay, and directed the film.<ref>{{cite web|title=Boro the Caterpillar|url=https://www.ghibli-museum.jp/en/films/works/#boro_the_caterpillar|accessdate=2 January 2022}}</ref> It is 14 minutes long. It was animated using CGI, rather than being produced with hand drawn 2D animation.
+
+==See also==
+*[[List of short films]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{in lang|en}} [http://www.nausicaa.net/miyazaki/films/ Detailed information on Nausicaa.net]
+
+{{Studio Ghibli Films}}
+
+<!--For short films or other works without their own article, create a redirect to the appropriate section and place the correct year category on the redirect; also add the appropriate infobox segment to the main infobox-->
+
+[[Category:1992 anime films]]
+[[Category:1992 films]]
+[[Category:2000 anime films]]
+[[Category:2000 films]]
+[[Category:2001 anime films]]
+[[Category:2001 films]]
+[[Category:2002 anime films]]
+[[Category:2002 films]]
+[[Category:Japanese television commercials]]
+[[Category:Drama anime and manga]]
+[[Category:Anime short films]]
+[[Category:Studio Ghibli animated films]]
+[[Category:Lists of animated short films|Studio Ghibli]]

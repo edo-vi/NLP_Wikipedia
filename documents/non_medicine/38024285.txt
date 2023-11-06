@@ -1,0 +1,85 @@
+{{Use mdy dates|date=May 2021}}
+{{Infobox song
+| name          = Barack Obama vs. Mitt Romney
+| cover         = ERB - Barack Obama vs. Mitt Romney cover.jpg
+| alt           = 
+| border        = yes
+| type          = single
+| artist        = [[Epic Rap Battles of History]]
+| album         = 
+| released      = October 15, 2012
+| recorded      = 
+| studio        = 
+| genre         = [[Rap battle]]
+| length        = 3:08
+| label         = [[Maker Studios]]
+| writer        = [[Peter Shukoff]], [[Lloyd Ahlquist]]
+| producer      = Michlle Maloney, Drew Walkup
+| prev_title    = Frank Sinatra vs Freddie Mercury
+| prev_year     = 2012
+| next_title    = Doc Brown vs. Doctor Who
+| next_year     = 2012
+| misc          = {{External music video|{{YouTube|dX_1B0w7Hzc|Barack Obama vs Mitt Romney. Epic Rap Battles of History Season 2.}}}}
+}}
+[[File:ObamaCrosson019.png|thumb|250px|[[Iman Crosson]] (left, in character) portrayed and rapped as [[Barack Obama]] (right).]]
+{{multiple image
+ | total_width = 250
+ | image1 = Epic Lloyd-1.jpg
+ | width1 = 129
+ | image2 = Mitt_Romney_by_Gage_Skidmore_7.jpg
+ | width2 = 121
+ | footer = [[Lloyd Ahlquist]] (left) portrayed and rapped as [[Mitt Romney]] (right).
+}}
+{{multiple image
+ | total_width = 250
+ | image1 = NicePeter USgov2.jpg
+ | width1 = 141
+ | image2 = Abraham_Lincoln_O-77_matte_collodion_print.jpg
+ | width2 = 109
+ | footer = [[Peter Shukoff]] (left) reprised his portrayal of and rapping as [[Abraham Lincoln]] (right).
+}}
+
+"'''Barack Obama vs. Mitt Romney'''" is a [[song]] and [[music video]], performed by [[Iman Crosson|Iman "Alphacat" Crosson]], [[Nice Peter|Peter "Nice Peter" Shukoff]], and [[EpicLLOYD|Lloyd "EpicLLOYD" Ahlquist]].  It is the 8th episode of the 2nd season of the [[YouTube]] video series ''[[Epic Rap Battles of History]]''. The video was released on October 15, 2012 on the show's YouTube channel in anticipation of the [[2012 United States presidential election|2012 US presidential election]].
+
+==Music video==
+The video features [[President of the United States]] [[Barack Obama]] (portrayed by [[Iman Crosson]]) and former [[Governor of Massachusetts]] [[Mitt Romney]] (portrayed by [[Lloyd Ahlquist]]) facing off in a rap battle. Following four back-and-forth verses, former President [[Abraham Lincoln]] (portrayed by [[Peter Shukoff]]) interrupts the two and begins rapping against both Obama and Romney (Lincoln had previously appeared in the first season of the series, battling [[Chuck Norris]]) Lincoln proceeds to "bitch smack" the two before being carried away by an [[American bald eagle]].
+
+As of November 2022, the video has received over 158 million views on YouTube.<ref>{{cite web|url=https://www.youtube.com/watch?v=dX_1B0w7Hzc|title=Barack Obama vs Mitt Romney. Epic Rap Battles Of History Season 2.|date=October 15, 2012|via=YouTube|publisher=Epic Rap Battles of History|access-date=February 17, 2018}}</ref>
+
+==Legacy==
+Two spiritual sequels to the battle, "[[Donald Trump]] vs [[Hillary Clinton]]"<ref>{{cite web|url=https://www.youtube.com/watch?v=Kbryz0mxuMY|title=Donald Trump vs Hillary Clinton. Epic Rap Battles Of History Season 5.|date=October 26, 2016|via=YouTube|publisher=Epic Rap Battles of History|access-date=January 31, 2022}}</ref> and "Donald Trump vs [[Joe Biden]]"<ref>{{cite web|url=https://www.youtube.com/watch?v=FkGK7bitav0|title=Donald Trump vs Joe Biden. Epic Rap Battles Of History Season 6.|date=October 24, 2020|via=YouTube|publisher=Epic Rap Battles of History|access-date=January 31, 2022}}</ref> were made in correspondence with the [[2016 United States presidential election|2016]] and [[2020 United States presidential election|2020]] presidential elections. Abraham Lincoln returns in the former as a third party rapper, only "bitch smacking" Trump, though he does make Clinton flinch.{{Citation needed|date=August 2023}} This was allegedly done as Peter and Lloyd thought it would not be in Lincoln's nature to hit a woman. Following criticism that the battle was tipped in favor of Clinton as support for her in the election (as her criticism by Lincoln was less harsh than that directed at Trump), "Donald Trump vs Joe Biden" did not feature a third-party rapper.{{Citation needed|date=August 2023}}
+==Reception==
+The video was one of the most popular viral videos of 2012<ref>{{cite web|last=Leshock|first=Marcus|url=http://wgntv.com/2012/12/19/barack-obama-vs-mitt-romney-epic-rap-battles-of-history-season-2/|title=WATCH: YouTube's Top 10 Viral Videos of 2012|publisher=WGNtv|date=December 19, 2012|access-date=December 15, 2013}}</ref> and was discussed in a ''[[New York Times]]'' article.<ref name="NYTimes" />
+
+===Awards and nominations===
+The video was nominated for "Video of the Year" at the [[2013 YouTube Music Awards]].<ref>{{cite magazine|last=Pham|first=Alex|url=http://www.billboard.com/articles/news/5763182/youtube-music-awards-macklemore-ryan-lewis-psy-score-nominations|title=YouTube Music Awards: Macklemore & Ryan Lewis, PSY Score Nominations|magazine=Billboard|date=October 21, 2013|access-date=December 15, 2013}}</ref>
+
+==Certifications==
+In July 2013, the song was certified Gold by the [[Recording Industry Association of America|RIAA]], making ERB the first [[YouTube]] channel to do so.<ref name=NYTimes>{{cite news|last=Kaufman|first=Leslie|url=https://www.nytimes.com/2013/10/30/arts/television/epic-rap-battles-seeks-staying-power-on-youtube.html|title=Making Silly Showdowns for YouTube|newspaper=The New York Times|date=October 30, 2013|access-date=December 15, 2013}}</ref><ref>{{cite magazine|last=Carrasco|first=Ed|url=http://newmediarockstars.com/2013/08/epic-rap-battles-of-history-gets-certified-gold-for-their-barack-obama-vs-mitt-romney-video/|title='Epic Rap Battles of History Gets Certified Gold for Their 'Barack Obama vs. Mitt Romney' Video|magazine=New Media Rockstars|date=August 1, 2013|access-date=December 15, 2013}}</ref>
+
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|type=single|artist=Epic Rap Battles of History|title=Barack Obama vs. Mitt Romney|award=Gold|relyear=2012|certyear=2013|certmonth=7}}
+{{Certification Table Bottom | nosales=true|noshipments=true|streaming=true}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.youtube.com/watch?v=dX_1B0w7Hzc Original ERB music video on YouTube]
+
+{{Epic Rap Battles of History}}
+{{Barack Obama}}
+{{Mitt Romney}}
+{{authority control}}
+
+[[Category:2012 songs]]
+[[Category:2012 United States presidential election in popular culture]]
+[[Category:2012 YouTube videos]]
+[[Category:Cultural depictions of Abraham Lincoln]]
+[[Category:Epic Rap Battles of History]]
+[[Category:Maker Studios videos]]
+[[Category:Mitt Romney]]
+[[Category:Music videos]]
+[[Category:Parodies]]
+[[Category:Songs about Barack Obama|Romney, Mitt]]
+[[Category:Nerdcore songs]]

@@ -1,0 +1,144 @@
+{{short description|American satellite company}}
+{{Use mdy dates|date=October 2023}}
+{{Infobox company
+| name = Astranis Space Technologies Corp.
+| trade_name = Astranis
+| logo = Astranis Logo.png
+| type = [[Private company|Private]]
+| industry = [[Satellite Internet access|Satellite Internet]]
+| founded = {{Start date and age|2015|10|20}}
+| founders = {{unbulleted list|John Gedmark | Ryan McLinko}}
+| key_people = {{unbulleted list
+| John Gedmark ([[CEO]])
+| [[Ryan McLinko]] ([[Chief technology officer|CTO]])
+}}
+| hq_location_city = [[San Francisco, California]]
+| hq_location_country = U.S.
+| products = Small geostationary communications satellites
+| num_employees = 250+
+| num_employees_year = 2023
+| website = {{URL|https://www.astranis.com}}
+}}
+
+'''Astranis Space Technologies Corp.''' is an American company specializing in [[Geostationary orbit|geostationary]] communications satellites. It is headquartered in San Francisco, California.
+
+In 2018, Astranis launched DemoSat-2, a prototype 3U [[CubeSat|cubesat]]. The launch aimed to test Software-Defined Radio ([[Software-defined radio|SDR]]) technology for future larger communications satellites.<ref name="skyrocket-demosat2">{{Cite web |last=Krebs |first=Gunter Dirk |url=https://space.skyrocket.de/doc_sdat/demosat-2.htm |title=DemoSat 2 |website=Gunter's Space Page |archive-url=https://web.archive.org/web/20230729183447/https://space.skyrocket.de/doc_sdat/demosat-2.htm |archive-date=July 29, 2023 |url-status=live }}</ref>
+
+The company publicly disclosed its projects in March 2018, following a funding round that was aimed at the development of geostationary communications satellites.<ref name="wired-2018">{{Cite news |last=Finley |first=Klint |title=Can These Small Satellites Solve the Riddle of Internet From Space? |url=https://www.wired.com/story/can-these-small-satellites-solve-the-riddle-of-internet-from-space/ |date=March 1, 2018 |work=[[Wired (magazine)|WIRED]] |publisher=Condé Nast |archive-url=https://web.archive.org/web/20230729183448/https://www.wired.com/story/can-these-small-satellites-solve-the-riddle-of-internet-from-space/ |archive-date=July 29, 2023 |url-status=live }}</ref><ref name="geekwire-2018">{{Cite news |last=Boyle |first=Alan |title=With $13.5M boost, Astranis unveils big plan to beam internet from small satellites |url=https://www.geekwire.com/2018/13-5m-boost-astranis-unveils-big-plans-beam-internet-small-satellites/ |date=March 1, 2018 |work=[[GeekWire]] |archive-url=https://web.archive.org/web/20230729183448/https://www.geekwire.com/2018/13-5m-boost-astranis-unveils-big-plans-beam-internet-small-satellites/ |archive-date=July 29, 2023 |url-status=live }}</ref>
+
+In January 2019, Astranis initiated a commercial program with Pacific Dataport, Inc. to increase the satellite internet capacity in Alaska.<ref name="geekwire-2019">{{Cite news |last=Boyle |first=Alan |title=Astranis and Pacific Dataport team up on satellite broadband access for Alaska |url=https://www.geekwire.com/2019/astranis-pacific-dataport-team-satellite-broadband-access-alaska/ |date=January 16, 2019 |work=[[GeekWire]] |archive-url=https://web.archive.org/web/20230729183449/https://www.geekwire.com/2019/astranis-pacific-dataport-team-satellite-broadband-access-alaska/ |archive-date=July 29, 2023 |url-status=live }}</ref><ref name="alaskajournal-2019">{{Cite news |last=Brehmer |first=Elwood |title=Microcom founder launches new satellite broadband project |url=https://www.alaskajournal.com/2019-01-16/microcom-founder-launches-new-satellite-broadband-project |date=January 16, 2019 |work=[[Alaska Journal of Commerce]] |archive-url=https://web.archive.org/web/20230729183447/https://www.alaskajournal.com/2019-01-16/microcom-founder-launches-new-satellite-broadband-project |archive-date=July 29, 2023 |url-status=dead |access-date=June 10, 2021 }}</ref> A 350 kg satellite was launched on April 30, 2023, as part of a multi-satellite payload.<ref name="satellitetoday-2023">{{Cite news |last=Jewett |first=Rachel |url=https://www.satellitetoday.com/launch/2023/05/01/astranis-and-infinite-orbits-confirm-success-on-viasat-3-launch/ |title=Astranis and Infinite Orbits Confirm Success on ViaSat-3 Launch |date=May 1, 2023 |work=Via Satellite |archive-url=https://web.archive.org/web/20230721180809/https://www.satellitetoday.com/launch/2023/05/01/astranis-and-infinite-orbits-confirm-success-on-viasat-3-launch/ |archive-date=July 21, 2023 |url-status=live }}</ref><ref name="skyrocket-viasat3">{{Cite web |last=Krebs |first=Gunter Dirk |url=https://space.skyrocket.de/doc_sdat/viasat-3.htm |title=ViaSat 3 Americas, APAC, EMEA |website=Gunter's Space Page |archive-url=https://web.archive.org/web/20230326153805/https://space.skyrocket.de/doc_sdat/viasat-3.htm |archive-date=March 26, 2023 |url-status=live |access-date=September 22, 2020 }}</ref>
+
+Astranis was part of the Winter 2016 cohort of the Y Combinator accelerator program<ref name="ycombinator">{{Cite web |publisher=[[Y Combinator]] |url=https://www.ycombinator.com/companies/astranis |title=Astranis |archive-url=https://web.archive.org/web/20230608211847/https://www.ycombinator.com/companies/astranis |archive-date=June 8, 2023 |url-status=live }}</ref> and has raised over $350 million in venture funding from firms such as BlackRock, Venrock, and Andreessen Horowitz.<ref name="Sheetz2021BlackRock">{{Cite news |last=Sheetz |first=Michael |date=April 14, 2021 |title=Astranis, with a new approach to satellite internet, raises $250 million from BlackRock and others |url=https://www.cnbc.com/2021/04/14/astranis-satellite-internet-raises-250-million-from-blackrock-others.html |access-date=June 15, 2021 |work=[[CNBC]] |archive-url=https://web.archive.org/web/20230916142919/https://www.cnbc.com/2021/04/14/astranis-satellite-internet-raises-250-million-from-blackrock-others.html |archive-date=September 16, 2023 |url-status=live }}</ref>
+
+== History ==
+
+=== Demonstration satellite ===
+On January 12, 2018, Astranis launched its first satellite, "DemoSat 2", using an Indian [[PSLV-XL]] rocket. The satellite was a 3U cubesat measuring 10 cm x 10 cm x 30 cm and weighing less than 3 kg. It carried a prototype of the company's software-defined radio.<ref name="skyrocket-demosat2" /><ref name="techcrunch-2018">{{Cite news |last=Shieber |first=Jonathan |url=https://techcrunch.com/2018/03/01/astranis-emerges-from-stealth-with-a-new-satellite-technology-for-connecting-the-world/ |title=Astranis emerges from stealth with a new satellite technology for connecting the world |date=March 1, 2018 |work=[[TechCrunch]] |archive-url=https://web.archive.org/web/20180301150939/https://techcrunch.com/2018/03/01/astranis-emerges-from-stealth-with-a-new-satellite-technology-for-connecting-the-world/ |archive-date=March 1, 2018 |url-status=live }}</ref>
+
+=== Geostationary satellites ===
+
+==== Block 1 ====
+In 2019, Astranis leased its first MicroGEO spacecraft to Pacific Dataport, Inc., a subsidiary of Microcom.<ref name="alaskajournal-2019" /> The satellite, named Arcturus, initially had an anticipated launch date in early 2022,<ref name="fcc-petition-2021">{{cite web |url=https://fcc.report/IBFS/SAT-PPL-20210607-00075/8982903.pdf |title=Petition for Declaratory Ruling |year=2021 |publisher=[[Federal Communications Commission|FCC]] |archive-url=https://web.archive.org/web/20230523150834/https://fcc.report/IBFS/SAT-PPL-20210607-00075/8982903.pdf |archive-date=23 May 2023 |url-status=live }}</ref> which was later delayed to April 2023.<ref name="skyrocket-viasat3" /> After the launch, the company confirmed successful communication with the satellite and hardware deployment. Subsequent tests showed the spacecraft could deliver up to 8.5 Gbps, compared to its design specification of 7.5 Gbps.<ref name="cnbc-sheetz-2023-may">{{cite news |url=https://www.cnbc.com/2023/05/24/astranis-first-internet-satellite-over-alaska-working-perfectly.html |title=Astranis says its first internet satellite is working ‘perfectly’ as company prepares to bring coverage to Alaska |date=May 24, 2023 |work=[[CNBC]] |author=Michael Sheetz |archive-url=https://web.archive.org/web/20230916142947/https://www.cnbc.com/2023/05/24/astranis-first-internet-satellite-over-alaska-working-perfectly.html |archive-date=September 16, 2023 |url-status=live |access-date=July 22, 2023}}</ref>
+
+n July 2023, Astranis reported a malfunction in an externally supplied solar array drive assembly on Arcturus, which affected the spacecraft's ability to provide internet service. According to Astranis CEO John Gedmark, no hardware built by Astranis failed.<ref name="cnbc-sheetz-2023-july">{{Cite news |last=Sheetz |first=Michael |date=July 21, 2023 |title=Astranis internet satellite malfunctions before beginning Alaska service, backup planned for spring |url=https://www.cnbc.com/2023/07/21/astranis-alaska-internet-satellite-malfunctions-backup-planned.html |access-date=July 22, 2023 |work=[[CNBC]] |archive-url=https://web.archive.org/web/20230818054742/https://www.cnbc.com/2023/07/21/astranis-alaska-internet-satellite-malfunctions-backup-planned.html |archive-date=August 18, 2023 |url-status=live }}</ref>
+
+==== Block 2 ====
+In April 2022, Astranis signed a launch contract with SpaceX for their "Block 2" MicroGEO spacecraft. The company had previously initiated component orders for these spacecraft, with an initial aim to complete them by the end of 2022.<ref name="astranis-businesswire-2022">{{Cite press release |date=April 5, 2022 |title=Astranis Space Technologies Signs Contract with SpaceX for Dedicated Multi-Satellite Launch in 2023 |url=https://www.businesswire.com/news/home/20220405005129/en/Astranis-Space-Technologies-Signs-Contract-with-SpaceX-for-Dedicated-Multi-Satellite-Launch-in-2023 |publisher=Astranis |via=BusinessWire |archive-url=https://web.archive.org/web/20230119112800/https://www.businesswire.com/news/home/20220405005129/en/Astranis-Space-Technologies-Signs-Contract-with-SpaceX-for-Dedicated-Multi-Satellite-Launch-in-2023 |archive-date=January 19, 2023 |url-status=live |access-date=July 22, 2023 }}</ref>
+
+==== Block 3 ====
+Block 3, consisting of five satellites, is planned to launch mid-2024.<ref name="sheetz-cnbc-philippines-2023">{{Cite news |last=Sheetz |first=Michael |date=July 11, 2023 |title=Astranis to bring satellite internet to 2 million people in the Philippines next year |url=https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html |access-date=July 22, 2023 |work=[[CNBC]] |archive-url=https://web.archive.org/web/20230906150049/https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html |archive-date=September 6, 2023 |url-status=live}}</ref>
+
+==== Future ====
+A replacement for Arcturus is scheduled for early 2025.<ref name="cnbc-sheetz-2023-july" /> Astranis CEO John Gedmark stated in April 2022 that the company aims to have over 100 satellites in active service by 2030.<ref name="astranis-businesswire-2022" />
+
+== Spacecraft ==
+{| class="wikitable plainrowheaders collapsible" style="width: 100%;"
+! scope="col" | Launch<!-- all dates UTC -->
+! scope="col" | '''Number<!-- In absence of official Astranis numbering scheme: sort by date (earlier first), then COSPAR ID for satellites on same flight (lower first) -->'''
+! scope="col" | '''Spacecraft'''
+! scope="col" | Longitude
+! scope="col" | Customer
+! scope="col" | Status
+
+|- id="F9-001"
+| rowspan="2" | 12 January 2018,
+[[PSLV-XL]]<ref name="skyrocket-demosat2" />
+! rowspan="2" scope="row" style="text-align:center;" | '''—'''
+| DemoSat-2
+|{{N/a|[[Low Earth orbit|LEO]]|align=left}}
+| {{N/a|Astranis|align=left}}
+| {{Success}}
+|-
+| colspan="4" |5 kg [[CubeSat]] carrying prototype software-defined radio payload. 
+|- id="F9-002"
+| rowspan="2" |1 May 2023,
+[[Falcon Heavy]]<ref name="gunter-arcturus-2023">{{Cite web |last=Krebs |first=Gunter Dirk |title=Arcturus (Aurora 4A) |url=https://space.skyrocket.de/doc_sdat/arcturus.htm |access-date=July 22, 2023 |work=Gunter's Space Page |archive-url=https://web.archive.org/web/20230602231212/https://space.skyrocket.de/doc_sdat/arcturus.htm |archive-date=June 2, 2023 |url-status=live}}</ref>
+! rowspan="2" scope="row" style="text-align:center;" | '''1'''
+| Arcturus / Aurora 4A
+|163°W<ref name="fcc-petition-2021" />
+|<s>{{Flagicon|United States}}{{Flagicon|Alaska}} Pacific Dataport</s>
+| {{Partial failure|Out of service}}
+|-
+| colspan="4" |First MicroGEO spacecraft, customer designation ''Aurora 4A''. Launched aboard a SpaceX Falcon Heavy in April 2023, co-manifested with primary payload [[ViaSat-3#Satellites|Viasat-3 Americas]] and Gravity Space GS-1. A defect in the spacecraft's solar array drive assemblies in early July 2023 left the spacecraft with insufficient power for its primary mission.<ref name="cnbc-sheetz-2023-july" /> Spacecraft remains functional, with Astranis attempting to recover the spacecraft's solar arrays or repurpose it for secondary missions.<ref name="cnbc-sheetz-2023-july" />
+|- id="F9-004"
+| rowspan="5" | Q4 2023,
+[[Falcon 9]]<ref name="sheetz-cnbc-philippines-2023" />
+! rowspan="5" scope="row" style="text-align:center;" | '''2–5'''
+|Andesat-1
+|
+| {{Flagicon|Peru}} Andesat
+| rowspan="4" {{Planned|Under construction}} 
+|-
+|Anuvu-1
+|
+| rowspan="2" |{{Flagicon|United States}} Anuvu
+|-
+|Anuvu-2
+|
+|-
+| UtilitySat
+|
+| {{Flagicon|United States}}{{Flagicon|Alaska}} Pacific Dataport
+|-
+| colspan="4" |"Block 2" MicroGEO spacecraft, with upgraded lifetime and throughput performance.<ref name="rainbow-astranis-2021">{{Cite news |last=Rainbow |first=Jason |date=July 15, 2021 |title=Astranis accelerates production with four more small GEO satellites |url=https://spacenews.com/astranis-accelerates-production-with-four-more-small-geo-satellites/ |access-date=July 22, 2023 |work=SpaceNews}}</ref> Four spacecraft will be launched by a dedicated [[Falcon 9]] mission directly to geostationary orbit.<ref name="astranis-businesswire-2022" /> Manifested are:
+
+* One of two spacecraft ordered by Grupo Andesat for "more than $90 million" to provide internet service to Peru.<ref name="andesat-astranis-2021">{{Cite press release |date=December 7, 2021 |title=Andesat and Astranis Sign Landmark Two-satellite Agreement to Expand Broadband Access in Peru |url=https://www.businesswire.com/news/home/20211207005251/en/Andesat-and-Astranis-Sign-Landmark-Two-satellite-Agreement-to-Expand-Broadband-Access-in-Peru |access-date=July 22, 2023 |via=BusinessWire |publisher=Astranis |archive-url=https://web.archive.org/web/20230916143047/https://www.businesswire.com/news/home/20211207005251/en/Andesat-and-Astranis-Sign-Landmark-Two-satellite-Agreement-to-Expand-Broadband-Access-in-Peru |archive-date=September 16, 2023 |url-status=live}}</ref>
+
+* Two of eight spacecraft ordered by Anuvu (formerly Global Eagle) for maritime and aviation connectivity.<ref name="rainbow-anuvu-2021">{{Cite news |last=Rainbow |first=Jason |date=July 27, 2021 |title=Anuvu orders first satellites for small GEO mobility constellation |url=https://spacenews.com/anuvu-orders-first-satellites-for-small-geo-mobility-constellation/ |access-date=July 22, 2023 |work=SpaceNews}}</ref>
+
+* UtilitySat, a versatile on-orbit spare planned to replace the failed Arcturus spacecraft until a dedicated replacement can be launched.<ref name="cnbc-sheetz-2023-july" />
+|-
+| rowspan="6" |Mid-2024<ref name="sheetz-cnbc-philippines-2023" />
+! rowspan="6" |6-10
+|Andesat-2
+|
+|{{Flagicon|Peru}} Andesat
+| rowspan="5" {{Planned|Under construction}}
+|-
+|Apco-1
+|
+| rowspan="2" |{{Flagicon|Mexico}} Apco Networks
+|-
+|Apco-2
+|
+|-
+|
+|
+|{{Flagicon|Philippines}} Orbits Corp
+|-
+|''unspecified''
+|
+|
+|-
+| colspan="4" |"Block 3" MicroGEO spacecraft. Manifested are:
+
+* Second of two Andesat spacecraft for service to Peru.<ref name="sheetz-cnbc-philippines-2023" />
+* Two spacecraft ordered by Apco Networks for service to Mexico.
+* One spacecraft ordered by Orbits Corp for service to the Philippines, capacity itself contracted to telecom provider HTechCorp.<ref name="sheetz-cnbc-philippines-2023" />
+|}
+
+== References ==
+{{reflist}}
+
+[[Category:Space]]
+[[Category:Communications satellite operators]]

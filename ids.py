@@ -7,6 +7,7 @@ import nltk
 from nltk.lm import NgramCounter
 from nltk.util import ngrams
 from collections import Counter
+import pickle
 
 from MyCounter import MyCounter
 
@@ -119,9 +120,28 @@ def clean_documents(folder):
 def tokenize(text):
     return nltk.word_tokenize(text)
 
-# produce_documents(m_ids, "non_medicine")
-# clean_documents("non_medicine")
-# nltk.download("punkt")
+def make_bow(id):
+    path = f"./documents/{id}_c.txt"
+    with open(path, "r") as f:
+        tokens = []
+
+        lines = f.readlines()
+        for l in lines:
+            tok = tokenize(l)
+            tokens = tokens + tok
+
+        # print(tokens)
+        counts = MyCounter(tokens)
+
+        counts2 = counts.remove_stopwords()
+
+        counts3 = counts2.stem()
+        return counts3
+        # print(np.array(list(counts.values())).sum())
+
+    # produce_documents(m_ids, "non_medicine")
+    # clean_documents("non_medicine")
+    # nltk.download("punkt")
 
 labels = make_labels(__M_IDS__, __NON_M_IDS__)
 m_t, non_m_t = get_training_test_ids()
@@ -130,30 +150,21 @@ m_v, non_m_v = get_validation_ids()
 assert(len(m_t) + len(m_v) == len(__M_IDS__))
 assert(len(non_m_t) + len(non_m_v) == len(__NON_M_IDS__))
 
-print(labels)
+#print(labels)
 
-test_path = f"./documents/medicine_cleaned/{m_t[2]}_c.txt"
+#produce_documents(__NON_M_IDS__, "non_medicine")
+#clean_documents("non_medicine")
 
-with open(test_path, "r") as f:
-    tokens = []
+medical_mega_document = MyCounter({}, stemmed=True)
 
-    lines = f.readlines()
-    for l in lines:
-        tok = tokenize(l)
-        tokens = tokens + tok
 
-    # print(tokens)
-    #nltk.download("stopwords")
-    counts = MyCounter(tokens)
-    print(f"'And' before stemming: {counts.c('and')}")
-    print(f"'Medicine' before stemming: {counts.c('Medicine')}")
-    print(counts.N())
+for mi in m_t:
+    medical_mega_document.update(make_bow(mi))
 
-    counts2 = counts.remove_stopwords()
-    print(counts2.N())
+non_medical_mega_document = MyCounter({}, stemmed=True)
 
-    counts3 = counts2.stem()
-    print(f"'And' after stemming: {counts3.c('and')}")
-    print(f"'Medicine' after stemming: {counts3.c('Medicine')}")
-    print(counts3.N())
-    # print(np.array(list(counts.values())).sum())
+for nmi in non_m_t:
+    non_medical_mega_document.update(make_bow(nmi))
+
+print(medical_mega_document.c("Song"))
+print(non_medical_mega_document.c("Song"))

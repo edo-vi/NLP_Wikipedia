@@ -1,0 +1,119 @@
+{{Infobox television
+| image              = The_Lowe_Files_Title_Card.jpg
+| caption            =
+| genre              = [[Non fiction]]
+| creator            = 
+| developer          = 
+| writer             = 
+| director           = 
+| creative_director  = 
+| presenter          = [[Rob Lowe]]
+| editor             = 
+| composer           = 
+| country            = United States
+| language           = English
+| num_seasons        = 1
+| num_episodes       = 9
+| list_episodes      = 
+| executive_producer = 
+| producer           = 
+| camera             = 
+| runtime            = 60 minutes
+| company            = 
+| channel            = [[A&E (TV channel)|A&E]]
+| first_aired        = {{start date|2017|08|2}}
+| last_aired         = {{end date|2017|09|27}}
+| related            =  
+}}
+'''''The Lowe Files''''' is a series on the [[A&E (TV channel)|A&E Network]] that looks at unsolved mysteries within the United States. The show is hosted by [[Rob Lowe]] and his sons [[John Owen Lowe]] and Edward Matthew Lowe.
+
+==Episodes==
+The series currently has aired 9 episodes.<ref>{{Cite web|url=http://www.thefutoncritic.com/showatch/lowe-files/listings/|title=Shows A-Z - The Lowe Files on A&E|website=TheFutonCritic.com}}</ref> The series was cancelled after one season.
+
+===Season 1===
+{{Episode table |total_width=70 |background=#202DA5 |overall=6 |title=51 |airdate=43 |overallT=# |episodes=
+{{Episode list
+ |EpisodeNumber = 1
+ |Title = Haunted Boy's Reformatory
+ |OriginalAirDate = {{Start date|2017|8|2}}
+ |ShortSummary = The Lowes investigate hauntings at [[Preston School of Industry|Preston Castle]] in [[Ione, California]].
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 2
+ |Title = The Secret Underwater Base
+ |OriginalAirDate = {{Start date|2017|8|9}}
+ |ShortSummary = The Lowes team up with [[MUFON]] to investigate tales of tunnels beneath Los Angeles and attempt to answer what the recent Google Earth images of the waters off California's coast actually show.
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 3
+ |Title = Bigfoot
+ |OriginalAirDate = {{Start date|2017|8|16}}
+ |ShortSummary = The Lowes visit the [[Redwood Forest]] and the [[Hoopa Indian Reservation]] in search of Bigfoot.
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 4
+ |Title = Alien Abduction
+ |OriginalAirDate = {{Start date|2017|8|23}}
+ |ShortSummary = The Lowes visit [[Phoenix, AZ]], known for its UFO sightings then meet with famous alien abductee, Travis Walton.
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 5
+ |Title = Fear
+ |OriginalAirDate = {{Start date|2017|8|30}}
+ |ShortSummary = The Lowes travel to  [[Boise, Idaho]] to visit the haunted Old State Penitentiary to meet with an expert the psychology of fear.
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 6
+ |Title = America's Secret Space Program
+ |OriginalAirDate = {{Start date|2017|9|6}}
+ |ShortSummary = The Lowes head to [[Dugway Proving Ground]] to investigate sightings of strange lights are they UFOs of top secret military aircraft?
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 7
+ |Title = Mind Games
+ |OriginalAirDate = {{Start date|2017|9|13}}
+ |ShortSummary = The Lowes investigate remote viewing and other forms of [[Extrasensory perception|ESP]]
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 8
+ |Title = The Wood Apes
+ |OriginalAirDate = {{Start date|2017|9|20}}
+ |ShortSummary = The Lowes head to [[Oklahoma]] in search of Bigfoot who the locals refer to by another name, The Wood Ape.
+ |LineColor = 202da5
+}}
+{{Episode list
+ |EpisodeNumber = 9
+ |Title = It's About the Journey
+ |OriginalAirDate = {{Start date|2017|9|27}}
+ |ShortSummary = The Lowes reflect on their journey over the past 8 weeks.
+ |LineColor = 202da5
+}}
+}}
+
+==References==
+{{reflist}}
+* [https://www.hollywoodreporter.com/review/lowe-files-review-1025693 The Lowe Files review | The Hollywood Reporter]
+* [https://www.rottentomatoes.com/tv/the_lowe_files/s01 The Lowe Files | Rotten Tomatoes]
+* [https://www.history.co.uk/shows/the-lowe-files The Lowe Files | History Channel]
+* [https://www.insider.com/rob-lowe-sons-reality-tv-lowe-files-2018-2 Rob Lowe and sons bond on A&E's The Lowe Files | Insider]
+* [https://deadline.com/2017/06/the-lowe-files-rob-lowe-mystery-reality-series-premiere-date-trailer-1202121086/ Rob Lowe mystery reality series sets premiere date | Deadline]
+* [https://eu.usatoday.com/story/life/entertainthis/2017/03/20/rob-lowe-the-lowe-files-a-e/99423764/ Rob Lowe's mysterious new show with his sons | USA Today]
+
+==External links==
+* {{Official website|https://www.history.co.uk/shows/the-lowe-files}}
+* {{IMDb title|7214622}}
+
+{{DEFAULTSORT:Lowe Files, The}}
+[[Category:Paranormal reality television series]]
+[[Category:A&E (TV network) original programming]]
+[[Category:Cryptozoology]]
+[[Category:Alien abduction]]
+[[Category:Fear]]
+[[Category:Space]]

@@ -5,8 +5,8 @@ from nltk.stem.snowball import EnglishStemmer
 
 
 class MyCounter:
-    def __init__(self, tokens) -> None:
-        self._stemmed = False
+    def __init__(self, tokens, stemmed=False) -> None:
+        self._stemmed = stemmed
         tokens = [t.lower() for t in tokens]
         self.counts = Counter(tokens)
         self.stemmer = EnglishStemmer()

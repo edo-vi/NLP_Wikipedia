@@ -1,0 +1,56 @@
+{{Short description|1966 Academey Award-winning animated short film}}
+{{Infobox film
+|name               = A Herb Alpert and the Tijuana Brass Double Feature
+|image              =
+|director           = [[John Hubley]]
+|story              = John Hubley<br>[[Faith Hubley]]
+|producer           = John Hubley<br>Faith Hubley
+|starring           =
+|editing            =
+|music              = '''Music Arranger:'''<br>[[Herb Alpert]]<br>'''Songs:'''<br>[[Bud Coleman]]<br>[[Julius Wechter]]
+|animator           = Gerard Baldwin<br>Phil Duncan<br>[[Emery Hawkins]]<br>[[Barrie Nelson]] <br>[[Rod Scribner]]<br>Ed Smith
+|layout_artist      =
+|background_artist  =
+|color_process      = Color
+|studio             = Hubley Studios
+|distributor        =[[Paramount Pictures]]
+|released           = April 1966 (U.S.)
+|runtime            = 5 Minutes
+|language           = Not language specific
+|country            = United States
+}}
+{{italic title}}
+'''''A Herb Alpert and the Tijuana Brass Double Feature''''' is a 1966 [[animated]] [[short film]] featuring two songs from the [[Herb_Alpert#The_Tijuana_Brass_years|Herb Alpert and the Tijuana Brass]] album [[Going Places (Herb Alpert and the Tijuana Brass album)|''Going Places'']]. The film won the [[Academy Award for Best Animated Short Film]] in 1967.<ref>[https://www.youtube.com/watch?v=KP-eSgyKARE Short Film Winners: 1967 Oscars]</ref><ref name="cartoonresearch.com11">{{cite web|url=http://cartoonresearch.com/index.php/cartoons-considered-for-an-academy-award-1966/|title=Cartoons Considered For An Academy Award 1966 -|website=cartoonresearch.com}}</ref><ref>[https://www.oscars.org/oscars/ceremonies/1967 1967|Oscars.org]</ref> It was written and directed by [[John Hubley|John]] and [[Faith Hubley]], who had previously won for ''[[Moonbird]]'' and [[The Hole (1962 film)|''The Hole'']]. It is considered to be an early prototypical example of a [[music video]], and has not been released onto home media.<ref>{{cite web|url=http://www.filmthreat.com/features/34621/ |title=Film Threat - the Bootleg Files: A Herb Alpert & the Tijuana Brass Double Feature |accessdate=2013-07-07 |url-status=dead |archiveurl=https://web.archive.org/web/20110629124824/http://www.filmthreat.com/features/34621/ |archivedate=2011-06-29 }}</ref>
+
+==Production==
+The film was distributed by [[Paramount Pictures]]. [[Emery Hawkins]] and [[Rod Scribner]] were among the animators who worked on the film. <ref>[https://archive.org/details/1967Herb.Alpert.and.the.Tijuana.Brass.Double.Feature 1967 Herb. Alpert.and.the. Tijuana. Brass. Double. Feature: Free Download, Borrow, and Streaming: Internet Archive]</ref>
+
+==Film summary==
+"[[Spanish Flea]]" and "[[Tijuana Taxi]]" are soundtracks to two separate cartoons. In "Spanish Flea", a [[flea]] bothers various animals until it is chased away from them by a group of men. In "Tijuana Taxi", a rickety and old purple taxi in [[Tijuana]] picks up a disproportionate number of people who have to catch a plane at the local airport. After a crazy ride through the streets of Tijuana (including a short visit to a [[bullfighting]] arena), the taxi driver is delayed by a [[customs officer]], who takes a long time in stamping the passports for the driver's numerous customers, and he misses the plane. However, he makes up for it by having his taxi fly away. 
+
+The music used to introduce the film during its opening credits is the band's "The Mexican Shuffle."
+
+==Film preservation==
+The [[Academy Film Archive]] preserved ''A Herb Alpert and the Tijuana Brass Double Feature'' in 2003.<ref>{{cite web|title=Preserved Projects|url=http://www.oscars.org/academy-film-archive/preserved-projects?title=herb+alpert&filmmaker=&category=All&collection=All|website=Academy Film Archive}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{YouTube | id=PWn6-4HWSJg | title=''Herb Alpert and the Tijuana Brass Double Feature''}}
+*{{IMDb title}}
+
+{{Herb Alpert}}
+{{AcademyAwardBestAnimatedShortFilm 1961–1980|state=expanded}}
+
+
+{{DEFAULTSORT:Herb Alpert and the Tijuana Brass Double Feature}}
+[[Category:1966 films]]
+[[Category:1960s American animated films]]
+[[Category:1966 animated films]]
+[[Category:1960s animated short films]]
+[[Category:Animated films without speech]]
+[[Category:Best Animated Short Academy Award winners]]
+[[Category:Films directed by John Hubley]]
+[[Category:Music videos]]
+[[Category:Paramount Pictures short films]]

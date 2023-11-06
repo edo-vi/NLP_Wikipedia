@@ -1,0 +1,95 @@
+{{Short description|Recreation of a dance choreography}}
+'''Cover dance''' (also known as '''dance cover''') is the act of replicating a dance [[choreography]], particularly from [[Japanese idol]] or [[Korean idol]] music acts.<ref name="Billboard2011">{{cite magazine |author=Billboard Korea Staff |date=2011-10-18 |title=A Look Inside the 'K-Pop Cover Dance' Trend |url=https://www.billboard.com/music/music-news/a-look-inside-the-k-pop-cover-dance-trend-465675/ |magazine=[[Billboard (magazine)|Billboard]] |access-date=2023-06-29 |quote=“K-Pop Cover Dance” is a term used to describe the imitation of K-Pop artist’s dance choreography.}}</ref> Cover dances may be uploaded onto [[video hosting service|video-sharing services]] like [[YouTube]] and [[TikTok]] in which [[dancer]]s reenact the [[choreography]] of a song or [[music video]] or perform an original choreography for an existing song.<ref name=KH>{{cite web
+	| url = https://www.koreaherald.com/view.php?ud=20220727000843
+	| title = [Herald Interview] 'K-pop cover dance is democratizing dance education'
+	| last = Hyun-su
+	| first = Yim
+	| date = July 27, 2022
+	| website = [[The Korea Herald]]
+	| publisher = Herald Corporation
+	| access-date = 2023-06-29
+	| archive-date = 2023-06-03
+	| archive-url = https://web.archive.org/web/20230603184518/https://www.koreaherald.com/view.php?ud=20220727000843
+	| url-status = live
+	}}</ref>
+
+==History==
+
+[[File:Hare Hare Yukai 2007.jpg|thumb|214x214px|Fans performing the "Hare Hare Yukai" dance at [[Anime Expo]] 2007.]]
+Cover dances first gained popularity online in Japan in March 2007, with many people posting videos of themselves performing the choreography for "[[Hare Hare Yukai]]" (colloquially referred to as the "Haruhi dance"), the ending theme song to the 2006 anime adaptation of ''[[The Melancholy of Haruhi Suzumiya]]''.<ref name="gadget 2010-01-23">{{cite news | url=https://news.livedoor.com/article/detail/4565356/ | title=『ニコニコ動画』で定番ジャンルとなった“踊ってみた”動画！　何故踊る？その心理を聞いてみた | language=ja | work=Gadget News | date=2010-01-23 | accessdate=2023-07-13 | archive-date=2010-01-30 | archive-url=https://web.archive.org/web/20100130060941/http://news.livedoor.com/article/detail/4565356/ | url-status=live }}</ref> This later grew to include cover dances of Japanese [[Japanese idol|idol]] singers and groups, such as [[Berryz Kobo]].<ref name="gadget 2010-01-23"/> Cover dance videos created through [[MikuMikuDance]] were also associated with the category.<ref name="ascii 2011-12-28"/> It became established as a genre known as {{nihongo|''odottemita''|踊ってみた||{{literal translation}} "I tried dancing"}} on video-sharing websites, named after the search keyword on the video-sharing website [[Niconico]].<ref name="ascii 2011-12-28">{{cite news | url=https://ascii.jp/elem/000/000/659/659162/ | title=決定版！絶対見るべきニコニコ動画2011【ダンス＆MMD編】 | trans-title=Decisive version! Videos you should watch on Nico Nico Douga in 2011 (Dance and MikuMikuDance version) | language=ja | work=[[ASCII Media Works]] | date=2011-12-28 | accessdate=2023-07-13 | archive-date=2022-08-19 | archive-url=https://web.archive.org/web/20220819014442/https://ascii.jp/elem/000/000/659/659162/ | url-status=live }}</ref> People who performed cover dances were known as {{nihongo|''odorite''|踊り手}}. Notable {{transl|ja|odorite}} who later became idols themselves include {{ill|Kozue Aikawa|ja|愛川こずえ}} from [[Danceroid]] and [[Dempagumi.inc]],<ref>{{cite news | url=https://wpb.shueisha.co.jp/news/technology/2016/11/25/75650/ | title=「ニコニコ動画」からアイドルデビューした愛川こずえ 「ニコニコがなかったらたぶんニートになってた（笑）」 | trans-title=Kozue Aikawa, an idol who debuted from Nico Nico Douga: "If it weren't for Niconico, I might've become a [[NEET]] (laughs)" | language=ja | work=[[Weekly Playboy]] | publisher=[[Shueisha]] | date=2016-11-25 | accessdate=2023-07-13 | archive-date=2023-07-14 | archive-url=https://web.archive.org/web/20230714084438/https://wpb.shueisha.co.jp/news/technology/2016/11/25/75650/ | url-status=live }}</ref> [[Beckii Cruel]],<ref>{{cite news | url=https://www.oricon.co.jp/news/72162/full/ | title=“可愛いにもほどがある!”英ネットアイドルのベッキー・クルーエルが初のテレビ出演! | trans-title="She has so much cuteness!" British net idol Beckii Cruel makes her first television appearance! | language=ja | work=[[Oricon]] | date=2010-01-05 | accessdate=2023-07-10 | archive-date=2023-07-10 | archive-url=https://web.archive.org/web/20230710192611/https://www.oricon.co.jp/news/72162/full/ | url-status=live }}</ref> and [[Keekihime]].<ref name="ascii 2013-04-25">{{cite web | first=Minoru | last=Hirota | url=https://weekly.ascii.jp/elem/000/002/615/2615137/ | title=ニコ動が引きつけた才能“ケーキ姫☆優海”【ニコ動今昔物語】 | trans-title=Keekihime, a talent drawn in by Nico Douga (A past and present tale on Nico Douga) | language=ja | work=[[ASCII Media Works|Weekly ASCII]] | publisher=[[Kadokawa Future Publishing]] | date=2013-04-25 | accessdate=2023-06-18 | archive-date=2023-06-19 | archive-url=https://web.archive.org/web/20230619002530/https://weekly.ascii.jp/elem/000/002/615/2615137/ | url-status=live }}</ref>
+
+==Impact==
+Cover dance videos on YouTube get tens of thousands of views,<ref name=KH/> with groups like Chocomint HK becoming [[viral sensation]]s.<ref>{{cite news
+ |last         = Ji-won
+ |first        = Park
+ |date         = 2022-11-04
+ |title        = Meet the women of cover dance crew Chocomint HK, whose 'K-pop in public' videos have gone viral
+ |url          = https://www.koreatimes.co.kr/www/art/2023/06/398_339116.html
+ |work         = [[The Korea Times]]
+ |location     = Hong Kong
+ |access-date  = 2023-06-29
+ |archive-date = 2023-06-29
+ |archive-url  = https://web.archive.org/web/20230629040242/https://www.koreatimes.co.kr/www/art/2023/06/398_339116.html
+ |url-status   = live
+}}</ref><ref>{{cite news
+| last         = Jiwon
+| first         = Park
+| date         = 2022-11-01
+| title         = So good they could be Blackpink – meet the women of cover dance crew Chocomint HK, whose 'K-pop in public' videos have gone viral on YouTube
+| url         = https://www.scmp.com/lifestyle/k-pop/news/article/3197953/so-good-they-could-be-blackpink-meet-women-cover-dance-crew-chocomint-hk-whose-k-pop-public-videos?module=perpetual_scroll_0&pgtype=article&campaign=3197953
+| work         = [[South China Morning Post]]
+| access-date         = 2023-06-29
+| archive-date         = 2023-06-29
+| archive-url         = https://web.archive.org/web/20230629040242/https://www.scmp.com/lifestyle/k-pop/news/article/3197953/so-good-they-could-be-blackpink-meet-women-cover-dance-crew-chocomint-hk-whose-k-pop-public-videos?module=perpetual_scroll_0&pgtype=article&campaign=3197953
+| url-status         = live
+}}</ref>
+
+A worldwide phenomenon,<ref name=Billboard2011/> Paris has become a hub for recording these videos, and has a K-pop dance academy.<ref name=MirroredMecca>{{cite news
+ |last         = Loeb McClain
+ |first        = Dylan
+ |date         = September 6, 2021
+ |title        = A Mirrored Mecca for K-Pop Moves
+ |url          = https://www.nytimes.com/2021/08/16/arts/dance/paris-kpop-dancers-la-defense.html
+ |work         = [[New York Times]]
+ |location     = Paris
+ |access-date  = 2023-06-29
+ |archive-date = 2023-06-29
+ |archive-url  = https://web.archive.org/web/20230629034318/https://www.nytimes.com/2021/08/16/arts/dance/paris-kpop-dancers-la-defense.html
+ |url-status   = live
+}}</ref>
+
+The [[K-pop Cover Dance Festival|K-POP Cover Dance Festival]] has been held annually since 2011.<ref name=KT2022>{{cite news
+ |last         = Yeon-soo
+ |first        = Kwak
+ |date         = 2022-10-16
+ |title        = K-pop fans gather in Seoul to compete in finals of 2022 K-Pop Cover Dance Festival
+ |url          = https://www.koreatimes.co.kr/www/art/2023/06/398_337912.html
+ |work         = [[The Korea Times]]
+ |access-date  = 2023-06-29
+ |quote        = The KCDF, which began in 2011
+ |archive-date = 2023-06-29
+ |archive-url  = https://web.archive.org/web/20230629071518/https://www.koreatimes.co.kr/www/art/2023/06/398_337912.html
+ |url-status   = live
+}}</ref> The competition takes place worldwide with the final round in Seoul.<ref name=Billboard2011/><ref>{{cite web
+	| url = https://mb.com.ph/2022/10/20/philippines-wins-at-2022-k-pop-cover-dance-festival-in-seoul/
+	| title = Philippines wins at 2022 K-pop Cover Dance Festival in Seoul
+	| last = Hicap
+	| first = Jonathan
+	| date = October 20, 2022
+	| website = [[Manila Bulletin]]
+	| access-date = 2023-06-29
+	| archive-date = 2023-06-29
+	| archive-url = https://web.archive.org/web/20230629170946/https://mb.com.ph/2022/10/20/philippines-wins-at-2022-k-pop-cover-dance-festival-in-seoul/
+	| url-status = live
+	}}</ref>
+
+==See also==
+* [[Dance crazes]]
+
+==References==
+{{Reflist}}
+
+{{Dance}}
+
+[[Category:Dance culture]]
+[[Category:Music videos]]

@@ -1,0 +1,21 @@
+The '''Gravity Gradient Stabilization Experiment (GGSE-4)''' was a technology [[satellite]] launched in 1967.  This was ostensibly the [[GGSE-1|fourth in a series]] that developed designs and deployment techniques later applied to the NOSS/Whitecloud reconnaissance satellites.
+
+==History==
+GGSE-4 was launched by the [[U.S. Airforce]] from [[Vandenberg Air Force Base]] atop a Thor Agena-D rocket.<ref>{{Cite web|url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-053C|title = NASA - NSSDCA - Spacecraft - Details}}</ref> 
+GGSE-4 remained operational from 1967 through 1972.<ref>{{Cite web|url=https://www.space.com/no-satellite-crash-of-space-junk-iras-ggse-4.html|title = No satellite crash: 2 pieces of space junk whiz safely by each other over Pittsburgh|date = 30 January 2020}}</ref>
+
+It is alleged that the real name of GGSE-4 was '''POPPY 5B''' or '''POPPY 5b''' and that it was a [[U.S. National Reconnaissance Office]] satellite designed to collect signals intelligence;<ref>{{Cite web|url=https://www.space.com/no-satellite-crash-of-space-junk-iras-ggse-4.html|title = No satellite crash: 2 pieces of space junk whiz safely by each other over Pittsburgh|date = 30 January 2020}}</ref> POPPY 5B was part of a 7-satellite mission.  A partial subset of information about POPPY was declassified in 2005.<ref>{{Cite web|url=https://www.popularmechanics.com/space/satellites/a30682394/satellites-collision/|title=Two Satellites Could Collide Tonight|date=29 January 2020}}</ref>
+
+Other sources say that GGSE-4 weighed only 10 pounds but that it was attached to the much larger '''Poppy 5''', which would have weighed 85&nbsp;kg and featured an 18-meter boom.<ref>{{Cite web|url=https://www.kiro7.com/news/trending/two-satellites-could-collide-over-pittsburgh-wednesday-evening/NIVUWDOZPJEHFNUHUX544UBYMQ/|title=Two satellites over Pittsburgh appear to miss after chance for collision}}</ref>
+It is further alleged that GGSE-4's mass is not at all like GGSE-1's mass and that GGSE'4 weighs 85&nbsp;kg.<ref>{{Cite web|url=https://www.scientificamerican.com/article/looming-potential-satellite-smashup-could-spawn-dangerous-debris-swarm/|title=Looming Potential Satellite Smashup Could Spawn Dangerous Debris Swarm}}</ref>
+
+==2020 near-miss==
+On {{#time:j F Y, H:i:s e|2020-01-29T23:39:35.707+00:00}},<ref>{{cite tweet|user=LeoLabs_Space|number=1222304111527374853|date=29 January 2020|title=Our latest data on the IRAS / GGSE 4 event}}</ref> GGSE-4 was expected to pass as closely as 12 meters <ref>{{cite tweet |user=LeoLabs_Space |number=1222547865567887361 |date = 29 January 2020 |title= Our latest update this morning for IRAS / GGSE 4 }}</ref> from [[IRAS]], another un-deorbited satellite left aloft.  IRAS was launched in 1983 and abandoned after a 10-month mission.  The 14.7-kilometer per second pass<ref>{{Cite web|url=https://www.space.com/satellite-near-collision-miss-over-pittsburgh.html|title=2 satellites will narrowly avoid colliding at 32,800 MPH over Pittsburgh on Wednesday|date=28 January 2020}}</ref> had an estimated risk of collision of 5%. Further complications arose from the fact that GGSE-4 was outfitted with an 18 meter long stabilization boom that was in an unknown orientation and may have struck the satellite even if the spacecraft's main body did not.<ref>{{cite tweet |user=LeoLabs_Space |number=1222547875797880832 |date = 29 January 2020 |title= Adjusted calculations for larger object size }}</ref> Initial observations from amateur astronomers seemed to indicate that both satellites had survived the pass, with the California-based debris tracking organization LeoLabs later confirming that they had detected no new tracked debris following the incident.<ref>{{cite tweet|user=juliancd38|number=1222670217601601540|date=29 January 2020 |title=Trails of both IRAS and GGSE4 continue unimpeded after intersection}}</ref>
+
+== See also ==
+[[GGSE-1|Gravity Gradient Stabilization Experiment (GGSE-1)]]
+
+== References ==
+{{reflist |35em}}
+
+[[Category:Space]]

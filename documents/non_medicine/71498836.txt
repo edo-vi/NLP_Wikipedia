@@ -1,0 +1,17 @@
+{{Short description|Boeing-Northrop Grumman consortium for Moon rocket construction}}
+'''Deep Space Transport LLC''' is a joint venture that is set to provide launch services for the [[Space Launch System]] rocket. The joint venture consists of [[Boeing]], the prime contractor for the Space Launch System core stage and the [[Exploration Upper Stage]] that will be used on Space Launch System missions, and [[Northrop Grumman]], the prime contractor for the Space Launch System's [[Space Shuttle Solid Rocket Booster|solid rocket boosters]].<ref>{{cite news|last=Foust|first=Jeff|url=https://spacenews.com/nasa-prepares-to-award-sls-launch-services-contract-to-boeing-northrop-joint-venture/|title=NASA prepares to award SLS launch services contract to Boeing-Northrop joint venture|publisher=SpaceNews|date=27 July 2022|access-date=10 August 2022}}</ref>
+
+Deep Space Transport LLC would be responsible for producing hardware and services for up to 10 [[Artemis Program|Artemis]] launches beginning with the [[Artemis 5]] mission, and up to 10 launches for other NASA missions. NASA expects to procure at least one flight per year to the Moon or other deep-space destinations. NASA is expected to issue an award by Dec. 31, 2023.<ref>{{cite news|last=Potter|first=Sean Sean |url=https://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract|title=NASA Prepares for Space Launch System Rocket Services Contract|publisher=NASA|date=27 July 2022|access-date=10 August 2022}}</ref>
+
+==See also==
+* [[United Space Alliance]], a similar entity for streamlining [[Space Shuttle]] contracts (partnership between [[Rockwell International]] and [[Lockheed Martin]])
+* [[United Launch Alliance]], a similar entity for streamlining 21st-century [[United States Department of Defense]] launch contracts (partnership between Boeing and Lockheed Martin)
+
+==References==
+{{Reflist}}
+
+[[Category:Space]]
+[[Category:Space missions]]
+[[Category:Space Shuttle program]]
+[[Category:NASA programs]]
+[[Category:Boeing]]

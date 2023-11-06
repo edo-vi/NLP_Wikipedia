@@ -1,0 +1,13 @@
+{{notability|date=May 2021}}
+'''Memory of Mankind on the Moon<ref>{{Cite web|title=Team Puli Space is the Third Google Lunar XPRIZE Team to Reserve a Ride to the Moon with Astrobotic {{!}} Astrobotic|url=https://www.astrobotic.com/2016/9/16/team-puli-space-is-the-third-google-lunar-xprize-team-to-reserve-a-ride-to-the-moon-with-astrobotic|access-date=2021-05-13|website=www.astrobotic.com|date=16 September 2016 }}</ref>''' is a time capsule that is planned to go to the Moon on [[Astrobotic Technology|Astrobotic Technology's]] upcoming [[Astrobotic Technology#Peregrine lander|''Peregrine'' lander]].<ref>{{Cite web|title=Puli Space reserves a ride to the Moon with Astrobotic|url=https://pulispace.com/news/puli-reserves-ride-to-the-moon/|access-date=2021-05-13|website=pulispace.com}}</ref> It is made in collaboration with Hungarian company [[Puli Space Technologies]]<ref>{{Cite web|title=Bérelt helye van a Pulinak a Holdon|url=https://www.origo.hu/tudomany/20160831-puli-space-technologies-astrobotic-google-lunar-xprize-hold-urkutatas.html|access-date=2021-05-13|website=www.origo.hu/|language=hu}}</ref><ref>{{Cite web|title=Puskás and the Golden Team to the Moon!|url=https://pulispace.com/news/puskas-golden-team-moon/|access-date=2021-05-13|website=pulispace.com}}</ref> and [[Memory of Mankind]].
+
+==References==
+{{reflist}}
+
+{{improve categories|date=May 2021}}
+
+[[Category:Space]]
+[[Category:Peregrine Payloads]]
+
+
+{{space-stub}}

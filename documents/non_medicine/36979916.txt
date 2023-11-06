@@ -1,0 +1,17 @@
+{{italic title}}
+'''''You Are the One''''', by [[Andy Warhol]], is an [[Amiga#Notable uses|Amiga-made]] music video, created in 1985. ''You Are the One'' was Warhol's second foray with an [[Amiga computer]], having originally made a video highlighting [[Debbie Harry]].<!---<ref name=stillf>{{cite web |last=Bourgeau |first=Jeff |title=Still Famous after all these years:Long Lost Film Gets Warhol Another 15 Minutes |url=http://www.detroitmona.com/Jef_Bourgeau/still_famous.htm |work=[[Museum of New Art]] |access-date=September 11, 2012 }}</ref>---><ref name=awa>{{cite news |last=Vincent|first=Ed|title=Andy Warhol: An Artist and his Amiga - video (01:41)|url=http://www.artnode.org/text/andywarhol/index.html |date=1986 |work=[[Amiga World]] |access-date=April 4, 2017 }}</ref><ref name="YT-1986">{{cite web |author=Staff |title=Andy Warhol paints Debbie Harry on an Amiga |url=https://www.youtube.com/watch?v=wLvTG5hwa1A |date=1985 |work=[[YouTube]] |access-date=April 4, 2017 }}</ref> 
+''You Are the One'' featured animated [[Marilyn Monroe]] images, set to a short soundtrack. Long thought to be lost, the video was found on two old Amiga discs in Warhol's studio and was restored for display at the [[Museum of New Art]] in 2007.<!---<ref name=stillf/>---><ref name="ART-20070220">{{cite news |author=Staff |title=Lost Warhol to Premiere at Museum of New Art |url=http://www.artdaily.com/section/news/index.asp |date=February 20, 2007 |work=[[New York Times]]  |url-status=dead |archive-date=February 17, 2007 |access-date=April 4, 2017 |archive-url=https://web.archive.org/web/20070217140910/http://www.artdaily.com/section/news/index.asp }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{youtube|TmVJurXyN0k|Video (02:29) - ''You Are The One'' (1985)}}
+
+{{Andy Warhol}}
+{{portal bar|Amiga}}
+[[Category:Films directed by Andy Warhol]]
+[[Category:Music videos]]
+[[Category:Amiga]]
+
+{{music-video-stub}}

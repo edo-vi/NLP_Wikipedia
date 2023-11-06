@@ -1,0 +1,45 @@
+{{Infobox album
+| name       = I Will Not Let an Exam Result Decide My Fate
+| cover      = I Will Not Let An Exam Result Decide My Fate.jpg
+| alt        =
+| caption    = Video screenshot with Suli Breaks
+| type       = video
+| artist     = [[Suli Breaks]]
+| released   = {{Start date|2013|44|14|df=y}}
+| recorded   =
+| genre      = [[Spoken word]], [[Hip hop music|Hip Hop]]
+| length     = 5:53
+| label      =
+| producer   =
+}}
+
+"'''I Will Not Let an Exam Result Decide My Fate'''" is a 2013 video by English spoken word poet [[Suli Breaks]].
+
+==Overview== 
+The video tells the story of a mother and son who have just been to a parents' evening at school. Suli Breaks chastises parents, teachers, and the government for focusing on exams instead of nurturing raw talent.<ref name="huffingtonpost2">{{cite news |last=Sheriff|first=Lucy|url=http://www.huffingtonpost.co.uk/2013/04/24/suli-breaks-spoken-word-poet-hate-school-love-education_n_3145169.html|title=Suli Breaks, Spoken Word Poet, On Success Of 'Why I Hate School But Love Education' (VIDEO)|work=[[The Huffington Post]]|date=24 April 2013|accessdate=1 July 2015}}</ref>
+
+==Critical response==
+''[[The Huffington Post]]'' said, "Throughout his act, Breaks explores the attitudes of today's society towards young people and exams."<ref name="huffingtonpost1">{{cite news |url=http://www.huffingtonpost.co.uk/2013/04/23/spoken-word-poet-suli-breaks-exam-result-video_n_3137035.html|title=Suli Breaks, Spoken Word Poet,' 'I Will Not Let An Exam Result Decide My Fate' Goes Viral (VIDEO)|work=[[The Huffington Post]]|date=24 April 2013|accessdate=1 July 2015}}</ref>
+
+==See also==
+*[[British hip hop]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{YouTube|id=D-eVF_G_p-Y|title=I Will Not Let an Exam Result Decide My Fate}}
+
+{{authority control}}
+
+{{DEFAULTSORT:I Will Not Let An Exam Result Decide My Fate}}
+[[Category:2013 songs]]
+[[Category:Music videos]]
+[[Category:Viral videos]]
+[[Category:British short films]]
+[[Category:Films about education]]
+[[Category:Suli Breaks songs]]
+[[Category:2013 YouTube videos]]
+
+
+{{Music-video-stub}}

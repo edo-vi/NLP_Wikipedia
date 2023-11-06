@@ -1,0 +1,40 @@
+{{Infobox album
+| name       = Why I Hate School but Love Education
+| cover      =Why I Hate School but Love Education.jpg
+| alt        =
+| type       = video
+| artist     = [[Suli Breaks]]
+| released   = {{Start date|2012|12|2|df=y}}
+| recorded   =
+| genre      = [[Spoken word]], [[Hip hop music|Hip Hop]]
+| length     = 6:07
+| label      =
+| producer   =
+}}
+
+"'''Why I Hate School but Love Education'''" is a 2012 video by English spoken word poet [[Suli Breaks]].
+
+==Overview==
+The video conveys the message that, while education is good, educational institutions leave much to be desired. It features Suli Breaks rhyming his dislike of the unnecessary strictures of formal schooling. In the video, Breaks also outlines why young people are encouraged to get a formal education.<ref name="washingtonpost">{{cite news |last=Kolawole|first=Emi|url=https://www.washingtonpost.com/blogs/innovations/post/dont-hate-the-education-hate-the-status-quo/2012/12/12/d0fa7154-439c-11e2-9648-a2c323a991d6_blog.html|title=Don't hate the education, hate the status quo|location=Washington|newspaper=[[The Washington Post]]|date=12 December 2012|accessdate=1 July 2015}}</ref>
+
+==Critical response==
+Emi Kolawole of ''[[The Washington Post]]'' said, "Breaks's message taps into a very fundamental desire among young people to disrupt — that word ubiquitous to innovation — the educational system."<ref name="washingtonpost"/> Steven Kalas of the ''[[Las Vegas Review-Journal]]'' said, "Breaks's motif is rhythmic, staccato narrative. But it's absent the percussive, droning cacophony accompanying most of rap or hip-hop."<ref name="reviewjournal">{{cite news |last=Kalas|first=Steven|url=http://www.reviewjournal.com/columns-blogs/steven-kalas/suli-breaks-disdain-education-saddening|title=Suli Breaks' disdain for education saddening|newspaper=[[Las Vegas Review-Journal]] |date=7 December 2013|accessdate=1 July 2015}}</ref>
+
+==See also==
+*[[British hip hop]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{YouTube|id=y_ZmM7zPLyI|title=Why I Hate School but Love Education}}
+{{Authority control}}
+{{DEFAULTSORT:Why I Hate School But Love Education}}
+[[Category:2012 songs]]
+[[Category:Music videos]]
+[[Category:Viral videos]]
+[[Category:British short films]]
+[[Category:Films about education]]
+[[Category:Suli Breaks songs]]
+
+{{Music-video-stub}}

@@ -1,0 +1,50 @@
+{{Short description|UK music video chart}}
+The '''UK Video Charts'''  is a group of charts compiled by the [[Official Charts Company]] on behalf of The British Association for Screen Entertainment. The charts are based on weekly [[DVD]], [[Blu-ray]] and, formerly, [[VHS]] sales in 6,500 retailers across the UK. The main chart combines the sales of all video sales in the UK and trades under the name of the '''Combined Video Chart'''. There are also charts for the sales of [[music video]]s ('''Music Video Chart''') and children's videos, among others. All of the charts are published on the OCC's website.
+
+==Charts==
+{| class="wikitable sortable"
+! width="200"| Chart title
+! Description
+|-
+|Official Video Chart 
+|Ranks the sales of video releases based on collective amounts of units sold per week across the UK.<ref>[https://www.officialcharts.com/charts/video-chart/ Official Video Chart Top 100] | Official Charts Company</ref>
+|-
+|Official Film Chart 
+|Ranks the sales of films based on their combined DVD, Blu-ray and digital download sales.<ref>[https://www.officialcharts.com/charts/film-chart/ Official Film Chart Top 40] | Official Charts Company</ref>
+|-
+|Official DVD Chart 
+|Compiled by the Official Charts Company, the UK's biggest [[DVD]]s of the week.<ref>[https://www.officialcharts.com/charts/dvd-chart/ Official DVD Chart Top 100] | Official Charts Company</ref>
+|-
+|Official Blu-ray Chart 
+|Ranks the weekly sales of [[Blu-ray]] discs in the UK.<ref>[https://www.officialcharts.com/charts/blu-ray-chart/ Official Blu-ray Chart Top 100] | Official Charts Company</ref>
+|-
+|Official Children's Video Chart 
+|Ranks the weekly sales of children's video formats in the UK.
+|-
+|Official Film on Disc Chart 
+|Ranks the weekly sales of films in the UK based on overall disc sales.<ref>[https://www.officialcharts.com/charts/film-on-video-chart/ Official Film On Disc Chart Top 50] | Official Charts Company</ref>
+|-
+|Official Music Video Chart 
+|Chart based purely on the UK's biggest music videos of the week, based on sales of [[DVD]]s, [[Blu-ray]]s and other physical formats.<ref>[https://www.officialcharts.com/charts/music-video-chart/ Official Music Video Chart Top 50] | Official Charts Company</ref>
+|-
+|Official TV on Video Chart
+|Ranks the weekly sales of television programmes or series on video formats in the UK.
+|}
+
+==See also==
+*[[UK Music Charts]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://baseorg.uk/ British Association for Screen Entertainment]
+*[http://www.theofficialcharts.com/combined-video-chart/ Current combined chart] 
+
+{{UK DVDs}}
+{{Cinema of the United Kingdom}}
+
+[[Category:British record charts]]
+[[Category:Music videos]]
+
+{{music-video-stub}}

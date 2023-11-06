@@ -1,0 +1,37 @@
+{{Short description|American spaceflight company}}
+'''Momentus Inc''', sometimes styled '''Momentus space''', is an American spaceflight company founded by [[Mikhail Kokorich]] which plans to offer space infrastructure services in the form of on-orbit services.<ref>{{cite web |url=https://momentus.space |title=Momentus |access-date=21 December 2022}}</ref><ref name=":0">{{Cite web |last=Sheetz |first=Michael |title=Space company Momentus begins trading on the Nasdaq, with new CEO after turbulent SPAC merger |url=https://www.cnbc.com/2021/08/13/space-company-momentus-mnts-begins-trading-on-nasdaq-after-spac.html |access-date=2022-12-28 |website=CNBC |date=13 August 2021 |language=en}}</ref><ref name=":1" /> The company advertises three orbital tug services which are based around [[spacecraft electric propulsion]] and vary in payload mass and [[Delta-v]]. As of late 2022 the company has launched one demonstration mission, which produced mixed results.<ref name=":2">{{Cite web |title=Vigoride™ First Flight |url=https://momentus.space/vigoride-first-flight/ |access-date=2022-12-28 |website=momentus.space}}</ref>
+
+== History ==
+
+Momentus space was a 2018 graduate of the [[Y Combinator]] program.
+
+Momentus space received 8.3 million US dollars of seed funding in November 2018.<ref name=":1">{{Cite web |date=2018-11-14 |title=Momentus Plasma Water Propulsion Will Be Two to Three Times Better Than Chemical Rockets {{!}} NextBigFuture.com |url=https://www.nextbigfuture.com/2018/11/momentus-will-provide-space-transportation-with-plasma-water-propulsion.html |access-date=2022-12-28 |language=en-US}}</ref> The investors were Prime Movers Lab, Liquid 2 Ventures, One Way Ventures, Mountain Nazca, Y Combinator, and others.
+
+In 2019, Momentus claimed that its Microwave Electrothermal Thruster (MET) was successfully tested in space, though the [[U.S. Securities and Exchange Commission]] accused it of misleading investors via this claim.<ref>{{Cite web |title=Order Instituting Cease-and-desist proceedings against Momentus, Inc |url=https://www.sec.gov/litigation/admin/2021/33-10955.pdf |website=US Securities and Exchange Commission}}</ref>
+
+In 2020, Momentus was merged with a [[Special-purpose acquisition company|SPAC]] which valued it at 1.2 Billion US dollars<ref>{{Cite web |title=MOMENTUS TO BECOME PUBLIC THROUGH MERGER WITH STABLE ROAD ACQUISITION CORP. |url=https://www.sec.gov/Archives/edgar/data/1781162/000121390020030403/ea127854ex99-1_stableroad.htm |access-date=2022-12-28 |website=US Securities and Exchange Commission}}</ref> though its valuation quickly dropped to half of this value when it began public trading.<ref name=":0" />
+
+Momentus space had its first demonstration launch of a vehicle in 2022, which achieved mixed results. 
+
+== Services ==
+
+Momentus space lists plans to offer "space infrastructure" services, including space transportation, on-orbit refueling, and on-orbit services of satellites. Space transportation in the form of [[Space tug|space tugs]] is particularly emphasized. The website lists three models of tug with successively larger payload masses and [[Delta-v]] capabilities, in ascending order, name [[Vigoride]], Ardoride, and Fervoride. A still larger tug, called Valoride, has since been removed from their website.<ref name=":1" /> These tugs are propelled by the company's Microwave Electrothermal Thruster (MET), a form of [[spacecraft electric propulsion]] in which water is ionized by microwaves and accelerated out of the spacecraft. The [[specific impulse]] of these propulsion systems is targeted to be "two or three times" that of chemical propulsion systems, putting them at the low end of existing electric propulsion systems (this conversely puts them at the {{em|high}} end of the specific thrust, or thrust per unit input power).<ref name=":1" />
+
+== First demonstration flight ==
+{{Main|Vigoride}}
+On May 26, 2022, Momentus space launched its first demonstration mission on a [[SpaceX]] [[Falcon 9]] launch vehicle as part of the Transporter-5 multi-payload ride-share launch.<ref>{{Cite web |last=Foust |first=Jeff |date=2022-05-26 |title=SpaceX launches Transporter-5 dedicated smallsat rideshare mission |url=https://spacenews.com/spacex-launches-transporter-5-dedicated-smallsat-rideshare-mission/ |access-date=2022-12-28 |website=SpaceNews |language=en-US}}</ref> The Momentus [[Vigoride]]-3 space tug was one of several private space tugs launched by that mission. The Vigoride tug carried several payloads for two customers, FOSSA Systems and Orbit [[Norwegian University of Science and Technology|NTNU]]. The Vigoride spacecraft experienced multiple anomalies: at least one due to folding solar panels not deploying, and at least one which caused an off-nominal communication mode.<ref name=":2" /><ref>{{Cite web |author1=Mike Wall |date=2022-06-10 |title=Momentus troubleshooting problems with newly launched space tug |url=https://www.space.com/momentus-troubleshooting-problems-vigoride-space-tug |access-date=2022-12-28 |website=Space.com |language=en}}</ref><ref>{{Cite web |last=Foust |first=Jeff |date=2022-06-14 |title=Momentus increasingly pessimistic about first Vigoride mission |url=https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/ |access-date=2022-12-28 |website=SpaceNews |language=en-US}}</ref> The spacecraft deployed two FOSSA satellites on May 28, 3 days after its launch, and four more between June and August inclusive. Between August and September inclusive, the spacecraft deployed its Orbit NTNU payload, called SelfieSat. As of September 2022, two remaining FOSSA payloads remained un-deployed on the Vigoride spacecraft.<ref>{{Cite web |title=Momentus First Demonstration Mission Update #5 |url=https://momentus.space/momentus-first-demonstration-mission-update-5/ |access-date=2022-12-28 |website=momentus.space}}</ref>
+
+Another Vigoride demonstration mission, using the Vigoride-5 spacecraft, launched on the SpaceX Transporter-6 launch on 3 January 2023.<ref>{{cite web |url=https://spaceflightnow.com/2023/01/03/falcon-9-transporter-6-live-coverage/ |title=Live coverage: SpaceX counting down to first launch of 2023 |date=3 January 2023}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Private spaceflight companies]]
+[[Category:Space technology]]
+[[Category:Space tugs]]
+[[Category:Space]]
+[[Category:Space-based economy]]
+[[Category:Space access]]
+[[Category:Space applications]]
+[[Category:Space industry]]
+[[Category:Space industry companies]]

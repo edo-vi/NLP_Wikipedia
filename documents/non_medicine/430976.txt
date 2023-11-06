@@ -3,8 +3,7 @@
 {{Use dmy dates|date=January 2023}}
 [[File:Mori Uncanny Valley.svg|thumb|upright=1.5|Hypothesized emotional response of subjects is plotted against [[anthropomorphism]] of a robot, following [[Masahiro Mori (roboticist)|Masahiro Mori]]'s statements. The uncanny valley is the region of negative emotional response towards robots that seem "almost" human. Movement amplifies the emotional response.]]
 
-In [[aesthetics]], the {{Nihongo|'''uncanny valley'''|不気味の谷|bukimi no tani|lead=yes}} is a hypothesized relation between an object's degree of resemblance to a human being and the emotional response to the object. The concept suggests that [[humanoid]] objects that imperfectly resemble actual human beings provoke [[uncanny]] or strangely familiar feelings of uneasiness and revulsion in observers. "Valley" denotes a dip in the human observer's affinity for the replica—a valence that otherwise increases with the replica's human likeness.
-
+In [[aesthetics]], the {{Nihongo|'''uncanny valley'''|不気味の谷|bukimi no tani|lead=yes}} is a hypothesized relation between an object's degree of resemblance to a human being and the emotional response to the object. The concept suggests that [[humanoid]] objects that imperfectly resemble actual human 
 Examples of the phenomenon exist among [[robotics]], [[3D computer animation]]s and lifelike [[doll]]s. The rising prevalence of technologies (e.g., [[virtual reality]], [[augmented reality]], and [[Unbiased rendering|photorealistic]] computer animation) has propagated discussions and citations of the "valley"; such conversation has enhanced the construct's [[verisimilitude]]. The uncanny valley hypothesis predicts that an entity appearing almost human will risk eliciting cold, eerie feelings in viewers.
 
 ==Etymology==

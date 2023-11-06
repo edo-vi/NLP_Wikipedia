@@ -1,0 +1,68 @@
+{{Short description|Code uniquely identifying an audio recording}}
+The '''International Standard Recording Code''' ('''ISRC''') is an international standard code for uniquely identifying sound recordings and music video recordings. The code was developed by the recording industry in conjunction with the [[International Organization for Standardization|ISO]] [[TC 46/SC 9|technical committee 46, subcommittee 9 (TC 46/SC 9)]], which codified the standard as ISO 3901 in 1986, and updated it in 2001.
+
+An ISRC identifies a particular ''recording'', not the work (composition and lyrical content) itself. Therefore, different recordings, edits, and remixes of the same work should each have their own ISRC. Works are identified by [[International Standard Musical Work Code|ISWC]]. Recordings [[remaster]]ed or revised in other ways are usually assigned a new ISRC.<ref>{{Cite web|url=https://isrc.ifpi.org/en/isrc-standard/handbook|title=International Standard Recording Code (ISRC) Handbook – 4th Edition, 2021, International ISRC Registration Authority A.10.1 A re-mastered version of a recording is created |access-date=2022-10-01}}</ref>
+
+== History ==
+
+ISO 3901 was completed in 1986. In 1988, the [[International Federation of the Phonographic Industry|IFPI]] recommended that its member companies adopt ISRCs for music videos. In 1989, the ISO designated the IFPI as the [[registration authority]] for ISRCs. The IFPI, in turn, delegated part of the administration of ISRCs to several dozen national agencies, which allocate ISRCs to both [[record label|record companies]] and individuals.<ref>{{cite web|url=http://www.ifpi.org/content/library/isrc_handbook.pdf#Heading321|title=Resources – ISRC – Handbook (incorporating the ISRC Practical Guide) s321<!-- Bot generated title -->}}</ref> The national agencies began assigning ISRCs for music videos in August 1989.
+
+The Japanese recording industry began encoding ISRCs on [[Compact Disc Digital Audio|audio CD]]s in November 1989. The IFPI and the [[Recording Industry Association of America]] (RIAA) then developed detailed recommendations for this practice, and for ISRC assignment in general. The IFPI adopted the recommendations in March 1991 and they went into effect for IFPI members on 1 January 1992.
+
+== Format ==
+[[File:ISRC Code Example.jpg|thumb|link= https://web.archive.org/web/20210619123224/https://www.clfsound.com/what-is-an-isrc-code-tracking-music-in-the-digital-age/|ISRC Code Example]]
+
+ISRC codes are always 12 characters long, in the form "CC-XXX-YY-NNNNN". The hyphens are not part of the ISRC code itself, but codes are often presented that way in print to make them easier to read. The four parts are as follows:<ref>[https://isrc.ifpi.org/downloads/ISRC_Bulletin-2015-01.pdf ISRC Bulletin 2015/01 – Validating an ISRC]</ref>
+
+* "CC" is the appropriate two-character country code for the ISRC issuer. The code is assigned according to the [[ISO 3166|ISO 3166-1-Alpha-2]] standard. (High demand for ISRCs within the United States has caused the supply of available registrant codes to become exhausted; after December 6, 2010, new registrants in the US use country code "QM".<ref>{{Cite web |url=http://www.ifpi.org/content/library/isrc_bulletin-2010-02.pdf |title=Archived copy |access-date=2012-07-10 |archive-date=2012-08-10 |archive-url=https://web.archive.org/web/20120810091340/http://ifpi.org/content/library/isrc_bulletin-2010-02.pdf |url-status=dead }}</ref> The codes "CP" and "DG" are reserved for further overflow, and "ZZ" is reserved for codes assigned by the International ISRC Agency.<ref>{{Cite web |url=http://www.ifpi.org/content/library/isrc_bulletin-2012-01.pdf |title=Archived copy |access-date=2013-11-23 |archive-date=2013-12-04 |archive-url=https://web.archive.org/web/20131204102911/http://www.ifpi.org/content/library/isrc_bulletin-2012-01.pdf |url-status=dead }}</ref> Further additions continue to be made.<ref>{{cite web|url=http://isrc.ifpi.org/en/isrc-standard/archive|title=Archive — International Standard Recording Code|website=isrc.ifpi.org|access-date=2017-11-16|archive-date=2017-11-17|archive-url=https://web.archive.org/web/20171117064813/http://isrc.ifpi.org/en/isrc-standard/archive|url-status=dead}}</ref>)
+* "XXX" is a three character alphanumeric registrant code of the ISRC issuer. This number by itself does NOT uniquely identify the ISRC issuer as the same 3-digit registrant code may be used in various countries for different issuers. To uniquely identify an issuer, the country code and registrant code should be used together.
+* "YY" represent the last two digits of the reference year – the year that the ISRC was assigned to the recording. This is not necessarily the date the recording was made.
+* "NNNNN" is a 5-digit number that identifies the particular sound or video recording, unique within the scope of the reference year.
+
+Example:
+
+A recording of the song "[[Bigger Than Both of Us|Crazy Eyes]]" by American duo [[Daryl Hall & John Oates]] has been allocated the ISRC code USRC17607839:
+
+* US for [[United States]]
+* RC1 for [[RCA Records|RCA]]
+* 76 for 1976
+* 07839 as the unique id identifying this particular recording
+
+== Embedding ISRC in files ==
+ISRC may be embedded in most file formats as [[metadata]]. Example formats include MP3, M4A, AAC, FLAC, and WAV for audio and MP4 or M4V for video.<ref>{{cite web|url= https://www.isrc.com/embed_ISRC.html|title=ISRC Embedding Guide —|website=ISRC.com}}</ref>
+* The standard for the [[ID3v2.2 tag]] that was designed for use in [[MP3]] files, was published in March 2019 and defined a way to embed ISRCs in a 'TSRC' frame.
+* In August 2020, Barry Grint and the [[European Broadcasting Union]] published a specification for embedding ISRCs in [[Broadcast Wave Format]], a WAV-with-metadata format.
+* Audio CDs defined by the [[Compact Disc Digital Audio|Red Book]] may also embed ISRC as part of the [[CD-Text]] information.
+
+Metadata formats are not generally interchangeable as format converters may fail to translate the data. As a result, it is recommended to perform the embedding separately for each format.
+
+==Obtaining ISRCs==
+The provision of ISRCs is overseen by appointed [http://isrc.ifpi.org/contact/national-agency-contacts#A national ISRC agencies]. These national ISRC agencies issue codes directly to the public and may also utilize authorized ISRC Managers to issue ISRCs. In the United States, the appointed agency is [[RIAA]]. ISRC codes can be obtained in large blocks directly from RIAA for an administrative fee ($95 at time of this publication), in quantities as little as 1 from [https://www.ISRC.com#A ISRC.com] ($2-$5), or in conjunction with other music-related services from other authorized ISRC managers.<ref>{{cite web |access-date=April 15, 2014 |title=List of Approved ISRC Managers |url=https://www.usisrc.org/managers/index.html |publisher=Recording Industry Association of America |archive-date=April 16, 2014 |archive-url=https://web.archive.org/web/20140416182719/http://www.usisrc.org/managers/index.html |url-status=dead }}</ref>  In territories where there is no national ISRC agency, users can obtain ISRC codes directly from IFPI or from [https://www.ISRC.com#A ISRC.com], [https://www.quansic.com#A Quansic] and music information management and file transfer platforms like [https://www.soundcredit.com#A Sound Credit].<ref>{{Cite web|url=https://www.digitalmusicnews.com/2023/04/13/sound-credit-version-6/|title=Sound Credit Releases Version 6 – A 'New Standard for Transferring Music' Aims to Resolve the Metadata Crisis, 2023|date=14 April 2023 |access-date=2023-06-23}}</ref>
+
+== See also ==
+* [[Global Release Identifier]] (GRid), a unique identifier for musical releases
+* [[International Article Number]] or EAN-13 (also known as European Article Number) the Media Catalog Number code stored on an audio CD
+* [[International Standard Book Number]] (ISBN), a similar unique identifier for books
+* [[International Standard Musical Work Code]] (ISWC), a unique identifier for musical works such as songs
+* [[Universal Product Code]] (UPC), Universal Product Code
+* [[Labelcode|Label Code]] (LC), a unique 4- or 5-digit identifier for music labels
+
+==References==
+<references/>
+
+==External links==
+
+{{Wikidata property|P1243}}
+
+* [http://www.iso.org/iso/iso_catalogue/catalogue_ics/catalogue_detail_ics.htm?ics1=01&ics2=140&ics3=20&csnumber=23401 ISO 3901:2001]
+*[https://www.riaa.com/resources-learning/technical-standards/ Technical Standards: The International Standard Recording Code] at [[RIAA|Recording Industry Association of America]]'s Website.
+*[http://isrc.ifpi.org/ ISRC registration authority]
+
+{{Audiovisual works|state=uncollapsed}}
+{{ISO standards}}
+{{Authority control}}
+
+[[Category:Music videos]]
+[[Category:ISO standards]]
+[[Category:Unique identifiers]]
+[[Category:Identifiers]]

@@ -1,0 +1,93 @@
+{{Short description|Planet hypothesized to have impacted Earth and created the Moon}}
+[[File:Artist's concept of collision at HD 172555.jpg|thumb|upright=1.3|An artist's depiction of the hypothetical impact of a planet like Theia and the Earth]]
+
+'''Theia''' ({{IPAc-en|ˈ|θ|iː|ə}}) is a [[List of hypothetical Solar System objects|hypothesized]] ancient [[planet]] in the [[Formation and evolution of the Solar System|early Solar System]] that, according to the [[giant-impact hypothesis]], collided with the [[early Earth]] around 4.5 billion years ago, with some of the resulting ejected debris gathering to form the [[Moon]].<ref name="agerefinement">{{cite web |last1=Wolpert |first1=Stuart |date=January 12, 2017 |title=UCLA Study Shows the Moon is Older Than Previously Thought |url=https://scitechdaily.com/ucla-study-shows-the-moon-is-older-than-previously-thought/ |access-date=23 March 2022 |website=scitechdaily.com |publisher=UCLA}}</ref><ref name="TheiaPothesis"/> 
+Such a collision, with the two planets' cores and mantles fusing, could explain why [[Earth's core]] is larger than expected for a body its size. Collision simulations support the idea that the [[large low-shear-velocity provinces]] in the lower mantle may be remnants of Theia.<ref>{{Cite news|url=https://www.theguardian.com/science/2023/nov/01/blobs-near-earths-core-are-remnants-of-collision-with-another-planet-study-says|title=Blobs near Earth's core are remnants of collision with another planet, study says |first1=Ian|last1=Sample|date=November 1, 2023|work=[[The Guardian]]}}</ref><ref name="NYT-20231101" /> Theia is hypothesized to have been about the size of [[Mars]], and may have formed in the [[outer Solar System]] and [[Origin of water on Earth|provided much of Earth's water]].
+
+==Name==
+In [[Greek mythology]], [[Theia]] was one of the [[Titans]]. She was the mother of [[Selene]], the goddess of the Moon,<ref>{{cite book|last1=Murdin|first1=Paul|title=Rock Legends: The Asteroids and Their Discoverers|date=2016|publisher=Springer|isbn=9783319318363|doi=10.1007/978-3-319-31836-3|page=178|bibcode=2016rlat.book.....M |url=https://books.google.com/books?id=QDusDAAAQBAJ&pg=PA178}}</ref> a story that parallels the planet Theia's theorized role in creating the Moon.<ref>{{Cite web | url=https://www.etymonline.com/word/Selene | title=Selene &#124; Origin and meaning of selene by Online Etymology Dictionary}}</ref>
+
+==Orbit==
+Theia is hypothesized to have orbited in the [[Lagrange point#L4 and L5|L<sub>4</sub> or L<sub>5</sub>]] configuration presented by the Earth–Sun system, where it would tend to remain. If this were the case it might have grown to a size comparable to [[Mars]], with a diameter of about {{convert|6,102|km|mi|abbr=off}}.{{citation needed|date=December 2022}} [[Perturbation (astronomy)|Gravitational perturbations]] by [[Venus]] could have put it onto a collision course with the early Earth.<ref name="Stereo"/>
+
+==Collision==
+[[File:Big Splash Theia.gif|upright=1.2|Animation of collision between Earth (blue) and Theia (black), forming the Moon (red and gray). Bodies are not to scale.|thumb]]
+
+According to the [[Giant-impact hypothesis|giant impact hypothesis]], Theia orbited the [[Sun]], nearly along the orbit of the [[proto-Earth]], by staying close to one or the other of the Sun-Earth system's two more stable [[Lagrangian point]]s (''i.e.'', either L<sub>4</sub> or L<sub>5</sub>).<ref name="Stereo"/> Theia was eventually [[Perturbation (astronomy)|perturbed]] away from that relationship by the gravitational influence of [[Jupiter]], [[Venus]], or both, resulting in a collision between Theia and Earth.{{citation needed|date=September 2015}}
+
+Computer simulations suggest that Theia was traveling no faster than {{cvt|4|km/s|km/h}} when it struck Earth at an estimated 45-degree angle.{{citation needed|date=October 2023}}
+
+Initially, the hypothesis supposed that Theia had struck Earth with a glancing blow<ref name="ReuferMeier2012"/> and ejected many pieces of both the [[proto-Earth]] and Theia, those pieces either forming one body that became the Moon or forming two moons that eventually merged to form the Moon.<ref name="JutziAsphaug2011"/><ref name=Astronomy>"Faceoff! The Moon's oddly different sides", ''[[Astronomy (magazine)|Astronomy]]'', August 2014, 44–49.</ref> Such accounts assumed that a head-on impact would have destroyed both planets, creating a short-lived second [[asteroid belt]] between the orbits of Venus and Mars.
+
+In contrast, evidence published in January 2016 suggests that the impact was indeed a head-on collision and that Theia's remains are on Earth and the Moon.<ref name="Nace2016"/><ref>{{cite journal |last1=Young |first1=E. D. |last2=Kohl |first2=I. E. |last3=Warren |first3=P. H. |last4=Rubie |first4=D. C. |last5=Jacobson |first5=S. A. |last6=Morbidelli |first6=A. |title=Oxygen isotopic evidence for vigorous mixing during the Moon-forming giant impact |journal=Science |date=28 January 2016 |volume=351 |issue=6272 |pages=493–496 |doi=10.1126/science.aad0525|pmid=26823426 |arxiv=1603.04536 |bibcode=2016Sci...351..493Y |s2cid=6548599 }}</ref><ref>{{cite web|last1=Wolpert|first1=Stuart|title=Moon was produced by a head-on collision between Earth and a forming planet|date=January 28, 2016|url=http://newsroom.ucla.edu/releases/moon-was-produced-by-a-head-on-collision-between-earth-and-a-forming-planet|website=UCLA newsroom|publisher=UCLA}}</ref>
+
+==Hypotheses==
+{{main|Origin of the Moon}}
+From the beginning of modern astronomy, there have been at least four hypotheses for the origin of the Moon:
+# A single body split into Earth and Moon
+# The Moon was captured by Earth's gravity (as most of the [[Outer planet|outer planets]]' smaller moons were captured)
+# The Earth and Moon formed at the same time when the [[protoplanetary disk]] [[accretion (astrophysics)|accreted]]
+# The Theia-impact scenario described above
+
+The lunar rock samples retrieved by [[Apollo program|Apollo]] [[List of Apollo astronauts|astronauts]] were found to be very similar in composition to Earth's crust, and so were likely removed from Earth in some violent event.<ref name="Nace2016"/><ref name="HerwartzPack2014"/><ref name="MeierReufer2014"/>
+
+By 2012, theories found Theia could explain why [[Earth's core]] is larger than expected for a body its size; Theia's core and mantle could have fused with those of Earth.<ref>[https://web.archive.org/web/20121121040559/http://www.seti.org/node/1458 "A New Model for the Origin of the Moon"]. ''SETI Institute''.</ref> It is also hypothesized that the [[large low-shear-velocity provinces]] detected deep in Earth's mantle may be fragments of Theia.<ref>{{cite journal |last1=Yuan |first1=Qian |last2=Li |first2=Mingming |last3=Desch |first3=Steven J. |last4=Ko |first4=Byeongkwan |date=2021 |title=Giant impact origin for the large low shear velocity provinces |url=https://www.hou.usra.edu/meetings/lpsc2021/pdf/1980.pdf |journal=52nd Lunar and Planetary Science Conference |access-date=27 March 2021}}</ref><ref>[https://www.bbc.com/future/article/20220510-why-are-there-continent-sized-blobs-in-the-deep-earth Why are there continent-sized 'blobs' in the deep Earth?], [[BBC Future]], by Zaria Gorvett, 12 May 2022</ref> In 2023, computer simulations reinforced that hypothesis.<ref name="NYT-20231101">{{cite news |last=Chang |first=Kenneth |title=A ‘Big Whack’ Formed the Moon and Left Traces Deep in Earth, a Study Suggests - Two enormous blobs deep inside Earth could be remnants of the birth of the moon. |url=https://www.nytimes.com/2023/11/01/science/moon-formation-theia.html |date=1 November 2023 |work=[[The New York Times]] |url-status=live |archiveurl=https://archive.ph/X5L2h |archivedate=1 November 2023 |accessdate=2 November 2023 }}</ref><ref name="NAT-20231101">{{cite journal |author=Yuan, Qian |display-authors=et al.|title=Moon-forming impactor as a source of Earth’s basal mantle anomalies |url=https://www.nature.com/articles/s41586-023-06589-1 |date=1 November 2023 |journal=[[Nature (journal)|Nature]] |volume=623 |pages=95-99 |doi=10.1038/s41586-023-06589-1 |url-status=live |archiveurl=https://archive.ph/PXX5r |archivedate=2 November 2023 |accessdate=2 November 2023 }}</ref>
+
+Evidence published in 2019 suggests that Theia might have formed in the [[outer Solar System]], and that much of [[Origin of water on Earth|Earth's water originated]] on Theia.<ref>{{Cite journal|last1=Budde|first1=Gerrit|last2=Burkhardt|first2=Christoph|last3=Kleine|first3=Thorsten|date=2019-05-20|title=Molybdenum isotopic evidence for the late accretion of outer Solar System material to Earth|journal=Nature Astronomy|volume=3|issue=8|pages=736–741|language=en|doi=10.1038/s41550-019-0779-y|issn=2397-3366|bibcode=2019NatAs...3..736B|s2cid=181460133}}</ref>
+
+==See also==
+* [[Disrupted planet]]
+* [[Nibiru cataclysm]]
+* [[Phaeton (hypothetical planet)]]
+* [[Synestia]]
+
+==References==
+{{Reflist
+| colwidth = 30em
+| refs =
+<ref name="TheiaPothesis">
+{{cite web
+|title = The Theia Hypothesis: New Evidence Emerges that Earth and Moon Were Once the Same
+|publisher = The Daily Galaxy
+|url = http://www.dailygalaxy.com/my_weblog/2007/07/the-theia-hypot.html
+|date = 2007-07-05
+|access-date = 2013-11-13
+}}
+</ref>
+
+<ref name="Stereo">
+{{cite web
+ |title=STEREO Hunts for Remains of an Ancient Planet near Earth 
+ |publisher=[[NASA]] 
+ |url=http://science1.nasa.gov/science-news/science-at-nasa/2009/09apr_theia/ 
+ |date=2009-04-09 
+ |access-date=2013-11-13 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20131113174213/http://science1.nasa.gov/science-news/science-at-nasa/2009/09apr_theia/ 
+ |archive-date=2013-11-13 
+}}
+</ref>
+
+<ref name="ReuferMeier2012">{{cite journal |last1=Reufer |first1=Andreas |last2=Meier |first2=Matthias M. M. |last3=Benz |first3=Willy |last4=Wieler |first4=Rainer |title=A hit-and-run giant impact scenario |journal=Icarus |volume=221 |issue=1 |year=2012 |pages=296–299 |doi=10.1016/j.icarus.2012.07.021 |bibcode=2012Icar..221..296R |arxiv = 1207.5224 |s2cid=118421530 }}</ref>
+
+<ref name="JutziAsphaug2011">{{cite journal |last1=Jutzi |first1=M. |last2=Asphaug |first2=E. |title=Forming the lunar farside highlands by accretion of a companion moon |journal=Nature |volume=476 |issue=7358 |year=2011 |pages=69–72 |doi=10.1038/nature10289 |pmid=21814278 |bibcode = 2011Natur.476...69J |s2cid=84558 }}</ref>
+
+<ref name="HerwartzPack2014">{{cite journal |last1=Herwartz |first1=D. |last2=Pack |first2=A. |last3=Friedrichs |first3=B. |last4=Bischoff |first4=A. |title=Identification of the giant impactor Theia in lunar rocks |journal=Science |volume=344 |issue=6188 |year=2014 |pages=1146–1150 |doi=10.1126/science.1251117 |bibcode = 2014Sci...344.1146H |pmid=24904162|s2cid=30903580 }}</ref>
+
+<ref name="MeierReufer2014">{{cite journal |last1=Meier |first1=M. M. M. |last2=Reufer |first2=A. |last3=Wieler |first3=R. |title=On the origin and composition of Theia: Constraints from new models of the Giant Impact |journal=Icarus |volume=242 |year=2014 |pages=316–328 |doi=10.1016/j.icarus.2014.08.003 |bibcode=2014Icar..242..316M |arxiv = 1410.3819 |s2cid=119226112 }}</ref>
+
+<ref name="Nace2016">{{cite web |last1=Nace |first1=Trevor |title = New Evidence For 4.5 Billion Year Old Impact Formed Our Moon |work = [[Forbes]] |url = https://www.forbes.com/sites/trevornace/2016/01/30/new-evidence-4-5-billion-year-old-impact-formed-moon/ |date = 2016-01-30 |access-date = 2016-01-30 }}</ref>
+
+}}
+
+{{The Moon}}
+{{Solar system}}
+{{Portal bar|Stars|Spaceflight|Outer space}}
+
+[[Category:Lunar science]]
+[[Category:Hypothetical impact events]]
+[[Category:Hypothetical bodies of the Solar System]]
+[[Category:Hypothetical planets]]
+[[Category:Possible dwarf planets]]
+[[Category:Water]]
+[[Category:Space]]

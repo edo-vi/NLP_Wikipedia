@@ -1,0 +1,17 @@
+{{Refimprove|date=March 2016}}
+The '''relational theory of space''' is a [[Metaphysics|metaphysical]] theory according to which [[space]] is composed of relations between objects, with the implication that it cannot exist in the absence of matter. Its opposite is the [[container space|container]] theory. A [[theory of relativity|relativistic]] [[physics|physical]] theory implies a [[relation (philosophy)|relational metaphysics]], but not the other way round: even if space is composed of nothing but relations between [[observer (relativity)|observer]]s and [[event (relativity)|event]]s, it would be conceptually possible for all observers to agree on their measurements, whereas relativity implies they will disagree. [[Newtonian physics]] can be cast in [[Galilean invariance|relational terms]], but Newton insisted, for philosophical reasons, on [[Absolute time and space|absolute]] (container) space. The subject was famously debated by [[Gottfried Wilhelm Leibniz]] and a supporter of Newton's in the [[Leibniz–Clarke correspondence]].
+
+An absolute approach can also be applied to [[time]], with, for instance, the implication that there might have been vast epochs of time before the first [[event (philosophy)|event]].<ref>''Physics and Metaphysics: Theories of Space and Time'' by Jennifer Trusted, Routledge, 1991 {{ISBN|0-415-05948-8}}.</ref>
+
+==See also==
+* [[René Descartes]] 
+* [[Philosophy of space and time]]
+* [[Spacetime]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Relational Space}}
+[[Category:Metaphysical theories]]
+[[Category:Philosophy of physics]]
+[[Category:Space]]

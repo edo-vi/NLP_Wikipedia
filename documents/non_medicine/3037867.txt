@@ -1,0 +1,83 @@
+{{short description|Characteristic of any structure that is periodic across a position in space}}
+{{multiple image
+ | direction = vertical
+ | width = 182
+ | footer = Image and its spatial frequencies: Magnitude of frequency domain is logarithmic scaled, zero frequency is in the center. Notable is the clustering of the content on the lower frequencies, a typical property of natural images.
+ | image1 = 160 by 160 thumbnail of 'Green Sea Shell'.png
+ | alt1 = Green Sea Shell image
+ | caption1 = Green Sea Shell image
+ | image2 = 160 by 160 thumbnail of 'Green Sea Shell' - 0. in fourier domain all components (RGB).png
+ | alt2 = Spatial frequency representation of the Green Sea Shell image
+ | caption2 = Spatial frequency representation of the Green Sea Shell image
+ }}
+
+In [[mathematics]], [[physics]], and [[engineering]], '''spatial frequency''' is a characteristic of any structure that is [[periodic function|periodic]] across position in [[space]]. The spatial frequency is a measure of how often [[Sine wave|sinusoidal components]] (as determined by the [[Fourier transform]]) of the structure repeat per unit of distance. 
+
+The [[SI unit]] of spatial frequency is the [[reciprocal metre]] (m<sup>-1</sup>),<ref name="ISO80000-3_2019">{{cite web |title=ISO 80000-3:2019 Quantities and units — Part 3: Space and time |publisher=[[International Organization for Standardization]] |date=2019 |edition=2 |url=https://www.iso.org/standard/64974.html |access-date=2019-10-23}} [https://www.iso.org/obp/ui/#iso:std:iso:80000:-3:ed-2:v1:en] (11 pages)</ref> although [[cycle (rotational unit)|cycles]] per [[meter]] (c/m) is also common. In [[image processing|image-processing]] applications, spatial frequency is often expressed in units of cycles per [[millimeter]] (c/mm) or also [[Image line pairs|line pairs]] per millimeter (LP/mm).
+
+In [[wave propagation]], the spatial frequency is also known as ''[[wavenumber]]''. Ordinary wavenumber is defined as the reciprocal of [[wavelength]] <math>\lambda</math> and is commonly denoted by <math>\xi</math><ref>SPIE Optipedia article: [http://spie.org/x34301.xml "Spatial Frequency"]</ref> or sometimes <math>\nu</math>:<ref>The symbol <math>\nu</math> is also used to represent temporal [[frequency]], as in, e.g., [[Planck constant|Planck's formula]].</ref>
+<math display="block">\xi = \frac{1}{\lambda}.</math>
+Angular wavenumber <math>k</math>, expressed in [[Radian|radian]] per metre (rad/m), is related to ordinary wavenumber and wavelength by
+<math display="block">k = 2 \pi \xi = \frac{2 \pi}{\lambda}.</math>
+
+==Visual perception==
+In the study of [[visual perception]], [[sine wave|sinusoidal]] [[grating]]s are frequently used to probe the capabilities of the [[visual system]], such as [[contrast sensitivity]]. In these [[Stimulus (physiology)|stimuli]], spatial frequency is expressed as the number of cycles per [[degree (angle)|degree]] of [[visual angle]]. Sine-wave gratings also differ from one another in amplitude (the magnitude of difference in intensity between light and dark stripes), [[Orientation (geometry)|orientation]], and [[phase (waves)|phase]].
+
+=== Spatial-frequency theory ===
+
+The spatial-frequency theory refers to  the theory that the [[visual cortex]] operates on a code of spatial frequency, not on the code of straight edges and lines hypothesised by Hubel and Wiesel on the basis of early experiments on [[Visual cortex#Primary visual cortex_(V1)|V1 neurons]] in the cat.<ref name="pmc2556291">{{cite journal |vauthors=Martinez LM, Alonso JM |title=Complex receptive fields in primary visual cortex |journal=Neuroscientist |year=2003 |volume=9 |issue=5 |pages=317–31 |pmid=14580117 |pmc=2556291 |doi=10.1177/1073858403252732}}</ref><ref>{{cite book |last1=De Valois |first1=R. L. |last2=De Valois |first2=K. K. |year=1988 |title=Spatial vision |location=New York |publisher=Oxford University Press}}</ref> In support of this theory is the experimental observation that the visual cortex neurons respond even more robustly to sine-wave gratings that are placed at specific angles in their [[Receptive field#Visual system|receptive fields]] than they do to edges or bars. Most neurons in the primary visual cortex respond best when a sine-wave grating of a particular frequency is presented at a particular angle in a particular location in the visual field.<ref name="pmc2412904">{{cite journal |vauthors = Issa NP, Trepel C, Stryker MP |year=2000 |title=Spatial frequency maps in cat visual cortex |journal=The Journal of Neuroscience |volume=20 |issue=22 |pages=8504–8514 |pmc=2412904 |pmid=11069958|doi=10.1523/JNEUROSCI.20-22-08504.2000 }}</ref> (However, as noted by Teller (1984),<ref name="pmid6395480">{{cite journal |vauthors = Teller, DY |year=1984 |title=Linking propositions |journal=Vision Research |volume=24 |issue=10 |pages=1233–1246 |pmid=6395480 |doi=10.1016/0042-6989(84)90178-0 |s2cid=6146565 }}</ref> it is probably not wise to treat the highest firing rate of a particular neuron as having a special significance with respect to its role in the perception of a particular stimulus, given that the neural code is known to be linked to relative firing rates. For example, in color coding by the three cones in the human retina, there is no special significance to the cone that is firing most strongly – what matters is the relative rate of firing of all three simultaneously. Teller (1984) similarly noted that a strong firing rate in response to a particular stimulus should not be interpreted as indicating that the neuron is somehow specialized for that stimulus, since there is an unlimited equivalence class of stimuli capable of producing similar firing rates.)
+
+The spatial-frequency theory of vision is based on two physical principles:
+
+# Any visual stimulus can be represented by plotting the intensity of the light along lines running through it.
+# Any curve can be broken down into constituent sine waves by [[Fourier analysis]].
+
+The theory (for which empirical support has yet to be developed) states that in each functional module of the visual cortex, Fourier analysis (or its piecewise form <ref>Glezer, V. D. (1995). Vision and mind: Modeling mental functions. Lawrence Erlbaum Associates, Inc. https://doi.org/10.4324/9780203773932</ref>) is performed on the receptive field and the neurons in each module are thought to respond selectively to various orientations and frequencies of sine wave gratings.<ref>{{cite book|last1=Barghout|first1=Lauren|title=Vision: How Global Perceptual Context Changes Local Contrast Processing (Ph.D. Dissertation 2003). Updated for Computer Vision Techniques|date=2014|publisher=Scholars' Press|isbn=978-3-639-70962-9|url=https://www.morebooks.de/store/gb/book/vision/isbn/978-3-639-70962-9}}</ref> When all of the visual cortex neurons that are influenced by a specific scene respond together, the perception of the scene is created by the summation of the various sine-wave gratings. (This procedure, however, does not address the problem of the organization of the products of the summation into figures, grounds, and so on. It effectively recovers the original (pre-Fourier analysis) distribution of photon intensity and wavelengths across the retinal projection, but does not add information to this original distribution. So the functional value of such a hypothesized procedure is unclear. Some other objections to the "Fourier theory" are discussed by Westheimer (2001) <ref>[http://journals.sagepub.com/doi/abs/10.1068/p3193?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed Westheimer, G. "The Fourier Theory of Vision"]</ref>).  One is generally not aware of the individual spatial frequency components since all of the elements are essentially blended together into one smooth representation. However, computer-based filtering procedures can be used to deconstruct an image into its individual spatial frequency components.<ref>Blake, R. and Sekuler, R., ''Perception'', 3rd ed. Chapter 3. {{ISBN|978-0-072-88760-0}}</ref> Research on spatial frequency detection by visual neurons complements and extends previous research using straight edges rather than refuting it.<ref>Pinel, J. P. J., ''Biopsychology'', 6th ed. 293–294. {{ISBN|0-205-42651-4}}</ref>
+
+Further research shows that different spatial frequencies convey different information about the appearance of a stimulus. High spatial frequencies represent abrupt spatial changes in the image, such as edges, and generally correspond to featural information and fine detail. M. Bar (2004) has proposed that low spatial frequencies represent global information about the shape, such as general orientation and proportions.<ref>{{cite journal |author=Bar M |title=Visual objects in context |journal=Nat. Rev. Neurosci. |volume=5 |issue=8 |pages=617–29 |date=Aug 2004 |pmid=15263892 |doi=10.1038/nrn1476 |s2cid=205499985}}</ref> Rapid and specialised perception of faces is known to rely more on low spatial frequency information.<ref>{{cite journal |vauthors=Awasthi B, Friedman J, Williams MA |title=Faster, stronger, lateralized: Low spatial frequency information supports face processing |journal=Neuropsychologia |volume=49 |issue=13 |pages=3583–3590 |year=2011 |doi=10.1016/j.neuropsychologia.2011.08.027 |pmid=21939676|s2cid=10037045 }}</ref> In the general population of adults, the threshold for spatial frequency discrimination is about 7%. It is often poorer in dyslexic individuals.<ref>{{cite journal |vauthors=Ben-Yehudah G, Ahissar M |title=Sequential spatial frequency discrimination is consistently impaired among adult dyslexics |journal=Vision Res. |volume=44 |issue=10 |pages=1047–63 |date=May 2004 |pmid=15031099 |doi=10.1016/j.visres.2003.12.001 |s2cid=12605281 |doi-access=free }}</ref>
+
+==Spatial frequency in MRI==
+{{main|k-space in magnetic resonance imaging{{!}}''k''-space in magnetic resonance imaging}}
+
+When spatial frequency is used as a variable in a mathematical function, the function is said to be in [[K-space (magnetic resonance imaging)|''k-space'']]. Two dimensional k-space has been introduced into [[MRI]] as a raw data storage space. The value of each data point in k-space is measured in the unit of 1/meter, i.e. the unit of spatial frequency.
+
+It is very common that the raw data in k-space shows features of periodic functions. The periodicity is not spatial frequency, but is temporal frequency. An MRI raw data matrix is composed of a series of phase-variable spin-echo signals. Each of the spin-echo signal is a [[sinc function]] of time, which can be described by
+<math display="block">\text{Spin-Echo} = \frac {M_\mathrm{0}\sin \omega_\mathrm{r}t}{\omega_\mathrm{r}t}</math>
+Where
+<math display="block"> \omega_\mathrm{r}=\omega_\mathrm{0} + \bar{\gamma} rG</math>
+Here <math>\bar{\gamma}</math> is the gyromagnetic ratio constant, and <math>\omega_\mathrm{0} </math> is the basic resonance frequency of the spin. Due to the presence of the gradient ''G'', the spatial information '''r''' is encoded onto the frequency <math>\omega</math>. The periodicity seen in the MRI raw data is just this frequency <math>\omega_\mathrm{r}</math>, which is basically the temporal frequency in nature.
+
+In a rotating frame, <math>\omega_\mathrm{0}=0 </math>, and <math> \omega_\mathrm{r}</math> is simplified to <math>\bar{\gamma} rG</math>. Just by letting <math> k= \bar{\gamma} Gt</math>, the spin-echo signal is expressed in an alternative form  
+<math display="block">\text{Spin-Echo} = \frac {M_\mathrm{0}\sin rk}{rk}</math>
+
+Now, the spin-echo signal is in the k-space. It becomes a periodic function of ''k'' with ''r'' as the ''k-space frequency'' but not as the "spatial frequency", since "spatial frequency" is reserved for the name of the periodicity seen in the real space r.
+
+The k-space domain and the space domain form a Fourier pair. Two pieces of information are found in each domain, the spatial information and the spatial frequency information. The spatial information, which is of great interest to all medical doctors, is seen as periodic functions in the k-space domain and is seen as the image in the space domain. The spatial frequency information, which might be of interest to some MRI engineers, is not easily seen in the space domain but is readily seen as the data points in the k-space domain.
+
+==See also==
+* [[Fourier analysis]]
+* [[Superlens]]
+* [[Visual perception]]
+* [[Fringe visibility]]
+* [[Reciprocal space]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{cite web
+ | url = http://www.haberdar.org/Spatial-Frequency-of-an-Image-Tutorial.htm
+ | title = Tutorial: Spatial Frequency of an Image
+ | publisher = Hakan Haberdar, University of Houston
+ | access-date = 22 March 2012
+}}
+* {{cite web
+ | url = http://webvision.med.utah.edu/KallSpatial.html#contrast
+ | title = Webvision: Part IX Psychophysics of Vision. 2 Visual Acuity, Contrast Sensitivity
+ | publisher = University of Utah
+ | first1 = Michael | last1 = Kalloniatis | first2 = Charles | last2 = Luu
+ | year = 2007 | access-date = 19 July 2009
+}}
+
+[[Category:Mathematical physics]]
+[[Category:Space]]

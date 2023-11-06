@@ -1,0 +1,28 @@
+{{Short description|Proposed spacecraft in a closed transfer orbit between two celestial bodies}}
+{{for|a laboratory apparatus used to amplify segments of DNA|Thermal cycler}}
+[[File:circumlunar-free-return-trajectory.png|thumb|upright=1.35|Sketch of a circumlunar free return trajectory (not to scale), plotted on the [[rotating reference frame]] rotating slightly faster than a sidereal month.]]
+
+A '''cycler''' is a potential spacecraft on a closed [[transfer orbit]] that would pass close to two [[celestial bodies]] at regular intervals. Cyclers could be used for carrying heavy supplies, [[Life-support system|life support]] and [[radiation protection|radiation shielding]].
+
+==Free return trajectory==
+A [[free-return trajectory]] is a symmetrical orbit past the Moon and Earth that was first analysed by Arthur Schwaniger<ref name="traj">{{cite book|last=Schwaninger|first=Arthur J.|title=Trajectories in the Earth-Moon Space with Symmetrical Free Return Properties|publisher=[[NASA]] / [[Marshall Space Flight Center]]|location=Huntsville, Alabama|year=1963|series=Technical Note D-1833|url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112106596973;view=1up;seq=28}}</ref>
+
+==Lunar cycler==
+{{main|Lunar cycler}}
+A ''lunar cycler'' or ''Earth–Moon cycler'' is a cycler orbit, or [[spacecraft]] therein, which periodically passes close by the [[Earth]] and the [[Moon]], using [[gravity assist]]s and occasional [[orbital maneuver|propellant-powered corrections]] to maintain its trajectories between the two. If the fuel required to reach a particular cycler orbit from both the Earth and the Moon is modest, and the travel time between the two along the cycler is reasonable, then having a spacecraft in the cycler can provide an efficient and regular method for space transportation.<ref>{{cite report |author1=Kenneth D. Mease |author2=Benjamin F. Villac |author3=Josep M. Mondelo |collaboration=Jordi Casoliva Rodon |date=June 2008 |title=Economical Space Transportation Routes Between Earth, Moon, and Beyond |url=http://balsells.eng.uci.edu/docs/Mease-Progress-Report-June08.pdf |publisher=University of California |page=2 |archive-date=2014-09-08 |archive-url=https://web.archive.org/web/20140908000130/http://balsells.eng.uci.edu/docs/Mease-Progress-Report-June08.pdf}}</ref>
+
+==Mars cycler==
+{{main|Mars cycler}}
+A ''Mars cycler'' or ''Earth–Mars cycler'' is a spacecraft trajectory that encounters the Earth and Mars on a regular basis, or a spacecraft on such a trajectory
+
+==Interstellar cycler==
+{{main|Interstellar cycler}}
+An ''interstellar cycler'' or ''Schroeder cycler'', a theoretical spacecraft trajectory that encounters two or more stars on a regular basis, or a spacecraft on such a trajectory
+
+==References==
+{{reflist}}
+
+[[Category:Space]]
+[[Category:Spacecraft]]
+
+{{spacecraft-stub}}

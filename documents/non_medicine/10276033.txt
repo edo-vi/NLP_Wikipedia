@@ -1,0 +1,58 @@
+{{short description|2004 film by Atsuko Ishizuka}}
+{{More footnotes|date=May 2019}}
+{{Infobox film
+| name           = Tsuki no Waltz
+| image          = Tsuki no Warutsu Screenshot - Girl and Moon.jpg
+| caption        =
+| director       = [[Atsuko Ishizuka]]
+| producer       =
+| writer         = Atsuko Ishizuka
+| starring       =
+| music          = '''Vocals by'''<br />[[Mio Isayama]]<br />'''Composition by'''<br />Mio Isayama<br />'''Arrangement by'''<br />[[Jun Abe]]<br />'''Lyrics by'''<br />[[Reiko Yukawa]]
+| cinematography =
+| editing        =
+
+| released       = October 2004
+| runtime        = 4 minutes 40 seconds
+| country        = Japan
+| language       = Japanese
+| budget         = Unknown
+
+}}
+
+{{Nihongo|'''''Tsuki no Waltz'''''|月のワルツ||lit. '''''Waltz of the Moon'''''}} is a 2004 Japanese [[anime]] [[music video]] created for the popular [[NHK]] program ''[[Minna no Uta]]'' by director [[Atsuko Ishizuka]] and [[Madhouse (company)|Studio Madhouse]].
+
+==Production==
+''Minna no Uta'', a showcase for independent Japanese animators and musicians presented on the [[public broadcasting]] network [[NHK]], had taken notice of Atsuko Ishizuka while she was still in college. Initially a student of graphic design, Ishizuka had taken to animation and produced several short films entirely on her own before being hired by Madhouse. It was shortly after being hired that ''Minna no Uta'' contacted her to direct a music video for their program. Convinced by the ''Minna no Uta'' staff, Madhouse promoted the low-ranking Ishizuka (then a production assistant) to director, and lent the studio's resources to the production.
+
+After production was completed, the music video was shown on ''Minna no Uta'' broadcasts from the beginning of October through November 2004.<ref>{{Cite web | last=Ishizuka | first=Atsuko | work=Atsuko Ishizuka | access-date=2009-08-02 | url=http://aaoxx.lolipop.jp/web/waltz.html | title=月のワルツ - いしづかあつこ (Tsuki no Waltz - Atsuko Ishizuka) | language=ja | url-status=dead | archive-url=https://archive.today/20071217192338/http://aaoxx.lolipop.jp/web/waltz.html | archive-date=2007-12-17 }}</ref><ref name="Kin no Makiba">{{Cite web| date=2005-04-15 | last=Ettinger | first=Benjamin | work=AniPages Daily | access-date=2009-08-02 | url= http://www.pelleas.net/aniTOP/index.php?title=kin_no_makiba&more=1&c=1&tb=1&pb=1 | title=Kin no Makiba}}</ref> Its success later prompted NHK to order another short from Ishizuka and Madhouse, ''Sen no Hana Sen no Sora'', in 2005.
+
+===Animation Style===
+The film is animated in Ishizuka's "moving sketch" style, giving the short the look of a hand drawn and colored pencil work. The animation and designs are not smooth or 'cleaned up,' giving them a rougher feel. This is stylistic continuation of Ishizuka's earlier solo works ''CREMONA'' and ''Gravitation'', and has traditionally been a style more often seen in independent world animation rather than studio-produced anime. The animation itself was done by Madhouse veteran Yoshinori Kanemori.<ref>{{Cite web| date=2004-10-20 | last=Ettinger | first=Benjamin | work=AniPages Daily | access-date=2009-06-11 | url= http://www.pelleas.net/aniTOP/index.php?title=mankatsu_aamp_minna_no_uta&more | title=Mankatsu & Minna no Uta}}</ref> Despite the appearance, ''Tsuki no Waltz'' was done in much the same way as Madhouse's normal anime, using the technique of digital ink & paint for the coloring. Great care was taken to disguise and cover these modern productions aids and ensure that the film look as hand-crafted and individual to Ishizuka's style as possible.
+
+==Music==
+[[File:Mio Isayama - Tsuki no Warutsu Single Cover.jpg|thumb|right|Cover of Mio Isayama's "Tsuki no Waltz" Single.]]
+The song of the same name which the short was animated to was composed and sung by the young musical vocalist [[Mio Isayama]]. The song was later released as Isayama's 8th single on December 1, 2004. The lyrics were penned by [[Reiko Yukawa]], long known in Japan as a prominent music critic, and the arrangements were by [[Jun Abe]], known for composing the music of the popular anime ''[[Kodomo no Omocha]]'' and ''[[Fruits Basket]]''.
+
+==Reception==
+According to Benjamin Ettinger of AniPages Daily, Ishizuka received "literally thousands of posts on the BBS at her home page" after ''Tsuki no Waltz'' was aired.<ref name="Kin no Makiba" /> Ettinger himself called the film "probably among the best pieces made for the show ''[[Minna no Uta]]'' in the last few years."<ref name="Kin no Makiba" /> The film was also popular enough to receive a home video release.
+
+==DVD release==
+As is the case for most of the ''Minna no Uta'' shorts, ''Tsuki no Waltz'' was not originally intended for home video release. Nevertheless, on March 30, 2005, its popularity among fans of the program warranted the short's inclusion on the ''Minna no Uta Best Hit Collection'' DVD (Catalog No.: TOBF-5372).
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://archive.today/20071217192338/http://aaoxx.lolipop.jp/web/waltz.html Atsuko Ishizuka's Homepage - ''Tsuki no Waltz''] {{in lang|ja}}
+
+{{Atsuko Ishizuka}}
+{{Madhouse OVAs}}
+{{Authority control}}
+
+[[Category:2004 anime OVAs]]
+[[Category:Madhouse (company)]]
+[[Category:Music videos]]
+[[Category:Anime based on Alice in Wonderland]]
+[[Category:Animated music videos]]
+[[Category:Television shows based on Alice in Wonderland]]

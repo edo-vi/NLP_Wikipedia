@@ -1,0 +1,18 @@
+'''"The Wilderness Downtown"''' is an interactive [[multimedia]] video coded in [[HTML5]] and was published to show off the capabilities of the then new [[Google Chrome]] browser.<ref>{{Cite news|url=http://techland.com/2010/09/10/the-wilderness-downtowns-creator-talks-about-what-motivated-him-whats-next/|publisher=Techland|date=September 10, 2010|title=The Wilderness Downtown's Creator Talks About What Motivated Him, What's Next|author=Michelle Castillo}}</ref><ref>{{Cite news|url=https://abcnews.go.com/WN/arcade-fire-music-video-wilderness-downtown-pulls-google/story?id=11554139|publisher=ABC News|title=The Conversation: Exploring "The Wilderness Downtown"|date=September 3, 2010}}</ref><ref>{{Cite news|publisher=Entertainment Weekly|url=http://music-mix.ew.com/2010/09/08/arcade-fire-video-interview/|date=September 8, 2010|title=The Arcade Fire's revolutionary 'We Used to Wait' video:Director Chris Milk explains how it was created}}</ref>  Directed by [[music video]] director [[Chris Milk]] and involving the work of a number of [[Google]] employees led by [[Aaron Koblin]]<ref>{{cite web|url = http://google-latlong.blogspot.com/2010/08/street-view-and-wilderness-downtown.html|title = Street View and The Wilderness Downtown|author = Aaron Koblin|publisher = Google LatLong blog, Google Earth and Maps Team|date = August 30, 2010 <!-- at 9:45 AM --> }}</ref> as well as digital production company [[B-Reel]], it features the song "[[We Used to Wait]]" from the [[Arcade Fire]] album ''[[The Suburbs (Arcade Fire album)|The Suburbs]]''. It was one of three [[2011 Cannes Film Festival|Grand Prix winners]] at the 2011 [[Cannes Film Festival|Cannes]] [[advertising]] awards in the Cyber category.{{Citation needed|date=March 2023}}
+
+==References==
+
+
+{{Reflist}}
+
+==External links==
+*[http://www.thewildernessdowntown.com/ thewildernessdowntown.com] - official site and video
+
+{{Arcade Fire}}
+
+{{DEFAULTSORT:Wilderness Downtown, The}}
+[[Category:Music videos]]
+[[Category:2011 works]]
+
+
+{{Web-stub}}

@@ -1,0 +1,16 @@
+{{About||the social network|Vingle (social network)}}
+A '''vingle''' is a [[portmanteau]] of ''video'' and ''single''. The [[neologism]] refers to [[music video]]s that can be [[beatmixing|mixed]] by [[VJ (media personality)|VJ]]s in the same way that [[DJ]]s mix regular [[single (music)|music singles]].
+
+The word was coined by a group of VJs in [[London]] in late 2003, at the ''This Is Clip Hop'' party during [[RESFest|ResFest]], organised by the audio-visual artist collective [http://www.0point1.com/parties/ "0.1"]. Vingles were subsequently seen in 0.1's launch party for [[Hewlett-Packard]]'s HyPe Gallery project..
+
+An example vingle would be [[Hexstatic]]'s ''[[Timber (Coldcut and Hexstatic song)|Timber]]''.<ref>{{Cite AV media|title=coldcut and hexstatic - timber|url=https://www.youtube.com/watch?v=B8-QDCKdVO4 |archive-url=https://ghostarchive.org/varchive/youtube/20211221/B8-QDCKdVO4 |archive-date=2021-12-21 |url-status=live|language=en|access-date=2019-10-17}}{{cbignore}}</ref>
+
+[[Apple Computer]] has applied for a trademark on the term.<ref>{{Cite web|url=https://appleinsider.com/articles/05/10/13/apple_files_for_vingle_trademark|title=Apple files for \'Vingle\' trademark|first=Katie|last=Marsal|website=AppleInsider|date=2013-10-05|language=en|access-date=2019-10-17}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Music videos]]
+
+
+{{music-video-stub}}

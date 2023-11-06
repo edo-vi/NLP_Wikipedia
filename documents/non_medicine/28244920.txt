@@ -1,0 +1,361 @@
+{{Short description|Physical presence of human activity in outer space}}
+{{About-distinguish-text|all forms of human presence in space|its particular issues of [[Space age]], [[List of active Solar System probes|active Solar System probes]], [[Spaceflight]], [[Human spaceflight]], [[Space habitation]] or [[Space exploration]]}}
+
+[[File:Debris-GEO1280.jpg|thumb|upright=1.5|A computer-generated image mapping the prevalence of [[artificial satellite]]s and [[space debris]] around Earth in [[geosynchronous orbit|geosynchronous]] and [[low Earth orbit]]]]
+[[File:What's Up in the Solar System, active space probes 2020-05.png|upright=1.5|thumb|A selection of space missions in 2020 throughout the Solar System (see also: [[List of active Solar System probes]])]]
+
+'''Human presence in space''' is about '''humanity in space''', particularly about all '''anthropogenic presence in space''' and '''human activity in space''', that is in [[outer space]] and in a broader sense also on any [[wikt:extraterrestrial|extraterrestrial]] [[astronomical body]].
+
+Humans have been present in space either, in the common sense, through their direct presence and activity like [[human spaceflight]], or through mediation of their presence and activity like with [[uncrewed spaceflight]], making "[[telepresence]]" possible.<ref name="Presence">{{Cite journal|title=Achieving Human Presence in Space Exploration|journal=[[Presence: Teleoperators & Virtual Environments]]|date=November 2013|author=Dan Lester|publisher=MIT Press|url=https://doi.org/10.1162/PRES_a_00160|volume=22|issue=4|pages=345–349|doi=10.1162/PRES_a_00160|s2cid=41221956}}</ref> Human presence in space, particularly through mediation, can take many physical forms from [[space debris]], [[uncrewed spacecraft]], [[artificial satellites]], [[space observatories]], [[crewed spacecraft]], [[Space art#Art in space|art in space]], to [[human outpost]]s in outer space such as [[space station]]s. While human presence in space, particularly its continuation and permanence can be a goal in itself,<ref name="Presence" /> human presence can have a range of purposes<ref name="Next">{{Cite web|title=Next steps in sustaining human presence in space|author1=Barbara Imhof|author2=Maria João Durãmo|author3=Theodore Hall|date=December 2017|url=https://aerospaceamerica.aiaa.org/year-in-review/next-steps-in-sustaining-human-presence-in-space/|access-date=18 November 2020}}</ref> and modes from [[space exploration]], [[commercial use of space]] to [[space colonization|space settlement or even colonization]] and [[militarisation of space]]. Human presence in space is realized and sustained through the advancement and application of [[space science]]s, particularly [[astronautics]] in the form of [[spaceflight]] and [[space infrastructure]].
+
+Humans have achieved some mediated presence throughout the [[Solar System]], but the most extensive presence has been in [[Geocentric orbit|orbit around Earth]].  Humans have sustained direct presence in orbit around Earth since the year 2000 through continuously crewing the [[ISS]], and with few interruptions through crewing the space station [[Mir]] since the later 1980s.<ref name="Station">{{Cite web|title=The International Space Station Has Been Continuously Inhabited for Ten Years Today|author=Rebecca Boyle|date=2 November 2010|url=https://www.popsci.com/science/article/2010-11/happy-anniversary-international-space-station/|website=Popular Science|access-date=18 November 2020}}</ref> The increasing and extensive human presence in orbital space around Earth, beside its benefits, has also produced a threat to it by carrying with it [[space debris]], potentially cascading into the so-called [[Kessler syndrome]].<ref name="Kessler" /> This has raised the need for [[Space traffic management|regulation and mitigation of such]] to secure a [[Space sustainability|sustainable access to outer space]].
+
+Securing the access to space and human presence in space has been pursued and allowed by the establishment of [[space law]] and [[space industry]], creating a [[space infrastructure]]. But sustainability has remained a challenging goal, with the [[United Nations]] seeing the need to advance long-term [[Space sustainability|sustainability of outer space]] activities in space science and application,<ref name="UN" /> and the [[United States]] having it as a crucial goal of its contemporary [[space policy]] and [[space program]].<ref name="NASA_sustainability" /><ref name="Artemis" />
+
+== Terminology ==
+The United States has been using the term "''human presence''" to identify one of the long-term goals of its space program and its international cooperation.<ref name="Presence" /><ref name="Bartels 2018" /> While it traditionally means and is used to name direct human presence, it is also used for mediated presence.<ref name="Presence" /> Differentiating human presence in space between direct and mediated human presence, meaning human or non-human presence, such as with [[crewed spacecraft|crewed]] or [[uncrewed spacecraft]], is rooted in a history of how human presence is to be understood (see [[#Study and reception|dedicated chapter]]).
+
+Human, particularly direct, presence in space is sometimes replaced with "boots on the ground"<ref name="Presence" /> or equated with [[space colonization]]. But such terms, particularly [[colonization]]<ref name="Bartels 2018">{{Cite web | last=Bartels | first=Meghan | title=People are calling for a movement to decolonize space-here's why | website=Newsweek | date=May 25, 2018 | url=https://www.newsweek.com/should-we-colonize-space-some-people-argue-we-need-decolonize-it-instead-945130 | access-date=Oct 31, 2021 |quote="[[Mae Jemison|[Mae] Jemison's]] nonprofit 100 Year Starship initiative emphasizes using space-bound technology to improve life on Earth as well and frames travel around the phrase 'establishing a human presence.'" ... "[[Robert Zubrin]], said that the one word he shies away from is colony, preferring settlement because the first "confuses the issue with imperialism.""}}</ref> and even [[Settler colonialism|settlement]] has been avoided<ref name="Presence" /> and questioned to describe human presence in space, since they employ very particular concepts of [[Original appropriation|appropriation]], with historic baggage,<ref>{{Cite web|url=https://www.space.com/bill-nye-space-settlement-not-colonization.html|author=Mike Wall|website=Space.com|date=25 October 2019|title=Bill Nye: It's Space Settlement, Not Colonization|access-date=17 November 2020}}</ref><ref>{{Cite web|title=When discussing Humanity's next move to space, the language we use matters.|url=https://blogs.scientificamerican.com/urban-scientist/when-discussing-humanity-8217-s-next-move-to-space-the-language-we-use-matters/|website=[[Scientific American]]|access-date=1 December 2020|date=26 March 2015|author=DNLee|language=en|archive-url=https://web.archive.org/web/20190914011756/https://blogs.scientificamerican.com/urban-scientist/when-discussing-humanity-8217-s-next-move-to-space-the-language-we-use-matters/|archive-date=14 September 2019|url-status=live}}</ref><ref>{{Cite web|date=2018-11-09|title=We need to change the way we talk about space exploration|first=Nadia|last=Drake|author-link=Nadia Drake|publisher=[[National Geographic]]|access-date=2020-12-01|url=https://www.nationalgeographic.com/science/2018/11/we-need-to-change-way-we-talk-about-space-exploration-mars/|archive-url=https://web.archive.org/web/20191016235826/https://www.nationalgeographic.com/science/2018/11/we-need-to-change-way-we-talk-about-space-exploration-mars/|archive-date=2019-10-16|url-status=live}}</ref> addressing the forms of human presence in a particular and not general way.
+
+Alternatively some have used the term "''humanization of space''",<ref>{{Cite book|title=The Palgrave handbook of society, culture and outer space|editor1=James Ormrod|editor2=Peter Dickens|author2=James Ormrod|author1=Peter Dickens|publisher=Palgrave Macmillan|chapter=Introduction: the production of outer space|date=2016|pages=1–43|isbn=978-1-137-36351-0}}</ref><ref name="smithsonian">{{Cite web|date=2011-06-11|access-date=2019-01-09|url=http://blogs.smithsonianmag.com/aroundthemall/2011/06/q-a-nichelle-nichols-aka-lt-uhura-and-nasa/|title=Q & A: Nichelle Nichols, AKA Lt. Uhura, and NASA|publisher=Smithsonian.com|author=Arcynta Ali Childs|quote=Ten years after "Star Trek" was cancelled, almost to the day, I was invited to join the board of directors of the newly formed [[National Space Society]]. They flew me to Washington and I gave a speech called “New Opportunities for the Humanization of Space” or “Space, What's in it for me?”  In [the speech], I'm going where no man or woman dares go. I took NASA on for not including women and I gave some history of the powerful women who had applied and, after five times applying, felt disenfranchised and backed off. [At that time] NASA was having their fifth or sixth recruitment and women and ethnic people [were] staying away in droves. I was asked to come to headquarters the next day and they wanted me to assist them in persuading women and people of ethnic backgrounds that NASA was serious [about recruiting them].  And I said you’ve got to be joking; I didn't take them seriously. . . . John Yardley, who I knew from working on a previous project, was in the room and said  'Nichelle, we are serious.' I said OK. I will do this and I will bring you the most qualified people on the planet, as qualified as anyone you’ve ever had and I will bring them in droves. And if you do not pick a person of color, if you do not pick a woman, if it's the same old, same old, all-white male astronaut corps, that you’ve done for the last five years, and I'm just another dupe, I will be your worst nightmare.|archive-date=2011-06-27|archive-url=https://web.archive.org/web/20110627163412/http://blogs.smithsonianmag.com/aroundthemall/2011/06/q-a-nichelle-nichols-aka-lt-uhura-and-nasa/|url-status=dead}}</ref><ref name=Dickens-MR-2010-11>{{Cite book|last1=Dickens|first1=Peter|last2=Ormrod|first2=James|url=http://monthlyreview.org/2010/11/01/the-humanization-of-the-cosmos-to-what-end/|title=The Humanization of the Cosmos – to What End?|date=Nov 2010|publisher=[[Monthly Review]]|access-date=2016-10-03|archive-url=https://web.archive.org/web/20161003183108/http://monthlyreview.org/2010/11/01/the-humanization-of-the-cosmos-to-what-end/|archive-date=2016-10-03|url-status=live}}</ref> which differs in focusing on the general development, impact and structure of human presence in space.
+
+On an international level the United Nations uses the phrase of "''outer space activity''" for the activity of its member states in space.<ref name="UN" />
+
+== History ==
+{{Main|Space age}}
+{{See also|History of spaceflight|List of spaceflight records|Timeline of first orbital launches by country|Lists of spacecraft|Lists of artificial objects sent into space|Timeline of artificial satellites and space probes|Timeline of first artificial satellites by country|Satellite#First satellites of countries|Timeline of space travel by nationality|Timeline of space exploration|Discovery and exploration of the Solar System|Timeline of Solar System exploration|List of Solar System probes}}
+
+Human presence in space, that is in [[outer space]], above [[Earth's atmosphere]], began with the first launches of [[artificial object]]s into outer space in the mid 20th century.
+
+Since then the activity and presence in outer space has increased to the point where Earth is orbited by a vast number of artificial objects and the far reaches of the Solar System have been visited and explored by a range of space probes. Human presence throughout the Solar System is continued by different contemporary and future missions, most of them mediating human presence through [[robotic spaceflight]].
+
+First a realized project of the [[Soviet Union]] and followed in competition by the [[United States]], human presence in space is now an increasingly international and [[commercial use of space|commercial field]].
+
+== Representation and participation ==
+{{See also|Politics of outer space}}
+Participation and representation of humanity in space is an issue of human access to and presence in space ever since the beginning of [[spaceflight]].<ref name="Durrani" /> Different [[space agency|space agencies]], [[space program]]s and interest groups such as the [[International Astronomical Union]] have been formed supporting or producing humanity's or a particular human presence in space. Representation has been shaped by the inclusiveness, scope and [[Spaceflight#Spacefaring|varying capabilities of these]] organizations and programs.
+
+Some rights of non-spacefaring countries to partake in spaceflight have been secured through international [[space law]], declaring space the "[[Common heritage of mankind|province of all mankind]]", understanding spaceflight as its resource, though sharing of space for all humanity is still criticized as [[imperialism|imperialist]] and lacking,<ref name="Durrani">{{Cite magazine |author=Haris Durrani |date=19 July 2019 |title=Is Spaceflight Colonialism? |url=https://www.thenation.com/article/archive/apollo-space-lunar-rockets-colonialism/ |magazine=The Nation |access-date=18 November 2020}}</ref><ref name="Bartels 2018" /> particularly regarding regulation of private spceflight.<ref name="Wheeling 2019">{{Cite web | last=Wheeling | first=Kate | title=Outer Space Treaties Didn't Anticipate the Privatization of Space Travel. Can They Be Enforced? | website=Pacific Standard | date=Aug 14, 2019 | url=https://psmag.com/.amp/social-justice/outer-space-treaties-didnt-anticipate-the-privatization-of-space-travel-can-they-be-enforced | access-date=Nov 9, 2021}}</ref>
+
+Additionally to international inclusion the [[Women in space|inclusion of women]]<ref name="10percent">{{Cite web|url=https://theconversation.com/almost-90-of-astronauts-have-been-men-but-the-future-of-space-may-be-female-125644|date=16 June 2020|author=Alice Gorman|title=Almost 90% of astronauts have been men. But the future of space may be female|access-date=18 December 2020}}</ref> and [[people of colour]] has also been lacking. To reach a more inclusive spaceflight some organizations like the ''Justspace Alliance''<ref name="Durrani" /> and [[IAU]] featured ''Inclusive Astronomy''<ref>{{Cite web|url=https://www.inclusiveastronomy.org/|title=HOME|website=IAU100InclusiveAstro|access-date=2021-03-09|archive-date=2021-12-22|archive-url=https://web.archive.org/web/20211222220447/https://www.inclusiveastronomy.org/|url-status=dead}}</ref> have been formed in recent years.
+
+=== Law and governance ===
+{{Main|Space law|Space policy|Common heritage of mankind|Extraterrestrial real estate|Space traffic management}}
+{{multiple image
+| direction         = vertical
+| align             = right
+| width             = 250
+| image1            = United Nations Office for Outer Space Affairs Logo.svg
+| image2            = United Nations Committee on the Peaceful Uses of Outer Space Members.svg
+| caption1          = 
+| caption2          = Member States of the [[United Nations Committee on the Peaceful Uses of Outer Space]] (COPUOS) and logo of its secretariate [[United Nations Office for Outer Space Affairs]] (UNOOSA)
+| total_width       = 
+| alt1              = 
+}}
+
+Space activity is legally based on the [[Outer Space Treaty]], the main international treaty. Though there are other international agreements such as the significantly less ratified [[Moon Treaty]].
+
+The Outer Space Treaty established the basic ramifications for space activity in article one:
+"''The exploration and use of outer space, including the Moon and other celestial bodies, shall be carried out for the benefit and in the interests of all countries, irrespective of their degree of economic or scientific development, and shall be the province of all mankind.''"
+
+And continued in article two by stating:
+"''Outer space, including the Moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.''"<ref name=unoda>{{Cite web |url=http://disarmament.un.org/treaties/t/outer_space  | title = Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies  | accessdate = 18 November 2020 | publisher= [[United Nations Office for Disarmament Affairs]]}}</ref>
+
+The development of international space law has revolved much around outer space being defined as ''common heritage of mankind''. The ''Magna Carta of Space'' presented by William A. Hyman in 1966 framed outer space explicitly  not as ''[[terra nullius]]'' but as ''[[res communis]]'', which subsequently influenced the work of the [[United Nations Committee on the Peaceful Uses of Outer Space]] (COPUOS).<ref name="Durrani" /><ref>{{Cite web|url=https://blogs.bl.uk/digitisedmanuscripts/2015/06/space-the-final-frontier.html|author=Alexander Lock|website=The [[British Library]] – Medieval manuscripts blog|title=Space: The Final Frontier|date=6 June 2015|access-date=18 November 2020}}</ref>
+
+The [[United Nations Office for Outer Space Affairs]] and the [[International Telecommunication Union]] are international organizations central for facilitating space regulation, such as [[space traffic management]].
+
+== Forms ==
+=== Signals and radiation ===
+[[File:Starlink Satellites Imaged from CTIO.jpeg|thumb|333 seconds-exposure image of the [[night sky]] containing 19 or more streaks due to [[Starlink]] satellite's [[satellite flare]] [[light pollution]]]]
+Humans have been producing a range of [[radiation]] which has reached space unintentionally as well as intentionally, well before any direct human presence in space.
+[[Electromagnetic radiation]] such as light, of humans, has been reaching even stars as far away as the age of the radiation.<ref>{{Cite web|url=https://www.planetary.org/articles/3390|date=24 February 2012|access-date=20 January 2021|author=Emily Lakdawalla|title=This is how far human radio broadcasts have reached into the galaxy}}</ref>
+
+Beginning in the 20th century, humans have been sending radiation significantly into space. [[Nuclear explosion]]s, especially [[high-altitude nuclear explosion|high-altitude ones]] have since at times, starting with 1958, just a year after the first satellite Sputnik was launched, introduced strong and broad radiation from humans into space, producing [[electromagnetic pulse]]s and [[List of artificial radiation belts|orbital radiation belts]], adding to the explosion's destructive potential on ground and in orbit.
+
+While Earth's and humanities radiation profile is the main material for [[Earth observation satellite|space based remote Earth observation]], but radiation by human activity from Earth and from space has also been an obstacle for human activities, such as spiritual life<ref name="global-commons">{{Cite journal|first1=Aparna|last1=Venkatesan|first2=James|last2=Lowenthal|first3=Parvathy|last3=Prem|first4=Monica|last4=Vidaurri|title=The impact of satellite constellations on space as an ancestral global commons|journal=Nature Astronomy|year=2020|volume=4|issue=11|pages=1043–1048|doi=10.1038/s41550-020-01238-3|bibcode=2020NatAs...4.1043V|s2cid=228975770|doi-access=free}}</ref><ref>{{Cite journal|date=2019-12-06|title=Towards inclusive practices with indigenous knowledge|first1=Aparna|last1=Venkatesan|first2=David|last2=Begay|first3=Adam J.|last3=Burgasser|first4=Isabel|last4=Hawkins|author4-link=Isabel Hawkins|first5=Ka’iu|last5=Kimura|first6=Nancy|last6=Maryboy|first7=Laura|last7=Peticolas|journal=Nature Astronomy|volume=3|issue=12|pages=1035–1037|doi=10.1038/s41550-019-0953-2|arxiv=2009.12425|bibcode=2019NatAs...3.1035V|s2cid=212942611}}</ref> or [[astronomy]] through [[light pollution]]<ref>{{Cite web|url=https://www.rcinet.ca/en/2020/11/18/astronomers-vs-tech-giants-in-space/|title=Astronomers vs tech giants in space|first=Marc|last=Montgomery|date=2020-11-18|archive-url=https://web.archive.org/web/20201129000829/https://www.rcinet.ca/en/2020/11/18/astronomers-vs-tech-giants-in-space/|archive-date=2020-11-29}}</ref> and [[radio spectrum pollution]] from Earth and space. In the case of [[radio astronomy]] [[radio quiet zone]]s have been kept and sought out, with the [[far side of the Moon]] being most pristine facing away from human made [[electromagnetic interference]].
+
+=== Space junk and human impact ===
+{{Main|Space debris|Space sustainability|List of artificial objects on extraterrestrial surfaces|Space environmentalism}}
+{{See also|Kessler syndrome|Space archaeology}}
+
+[[File:LEO-SpaceDebris-Nov2020.png|right|thumb|upright=1.6|alt=Objects in Earth orbit including fragmentation debris. November 2020 NASA:ODPO|Objects in Earth orbit including fragmentation debris. November 2020 NASA:ODPO]]
+
+Space junk as product and form of human presence in space has existed ever since the first orbital spaceflights and comes mostly in the form of space debris in outer space. Space debris has been for example possibly the first human objects to have been present in space beyond Earth, reaching its [[escape velocity]] after being ejected purposefully from an exploded [[Aerobee]] rocket in 1957.<ref name ="IdeaMan">{{Citation | url = http://www.slac.stanford.edu/pubs/beamline/31/1/31-1-maurer.pdf | title = Idea Man | first = S.M. | last = Maurer | journal = Beamline | date = 2001 | volume = 31 | issue = 1 | accessdate = 2020-11-20}}</ref> Most space debris is in orbit around Earth, it can stay there for years to centuries if at altitudes from hundreds to thousands of kilometers, before it falls to Earth.<ref>{{Cite web|url=https://www.nasa.gov/news/debris_faq.html|title=Frequently Asked Questions: Orbital Debris|work=NASA|access-date=28 November 2020}}</ref> Space debris is a hazard since it can hit and damage spacecraft. Having reached considerable amounts around Earth, policies have been put into place to prevent space debris and hazards, such as [[Nuclear power in space#Regulation and hazard prevention|international regulation to prevent nuclear hazards in Earth's orbit]] and the [[Registration Convention]] as part of [[space traffic management]].
+
+But space junk can also come as result of human activity on astronomical bodies, such as the remains of space missions, like the many [[List of artificial objects on the Moon|artificial objects left behind on the Moon]],<ref>{{Cite web|title=What is space junk and why is it a problem?|url=https://www.nhm.ac.uk/discover/what-is-space-junk-and-why-is-it-a-problem.html|author=Jonathan O'Callaghan|website=[[Natural History Museum, London]]|access-date=18 November 2020}}</ref> and [[List of artificial objects on extraterrestrial surfaces|on other bodies]].
+
+[[File:ALSEP AS17-134-20500.jpg|Remains of human activity, [[Apollo Lunar Surface Experiments Package|Apollo 17's Lunar Surface Experiments Package]]|thumb|upright=1.2]]
+
+{{Excerpt|List of artificial objects on extraterrestrial surfaces|Estimated total masses of objects|only=table}}
+
+=== Robotic ===
+{{Main|Robotic spaceflight|List of active Solar System probes|Timeline of artificial satellites and space probes|List of Solar System probes}}
+
+Human presence in space has been strongly based on the many [[robotic spacecraft]], particularly as the many [[artificial satellite]]s in orbit around Earth.
+
+Many firsts of human presence in space have been achieved by robotic missions. The first artificial object to reach space, above the 100&nbsp;km altitude [[Kármán line]], and therefore performing the first [[sub-orbital flight]] was [[MW 18014]] in 1944. But the first sustained presence in space was established by the [[orbital flight]] of [[Sputnik]] in 1957. Followed by a rich number of robotic [[space probe]]s achieving human presence and exploration throughout the Solar system for the first time.
+
+Human presence at the Moon was established by the [[Luna programme]] starting in 1959, with despite loosing contact a first [[Flyby (spaceflight)|flyby]] and [[heliocentric orbit]] ([[Luna 1]]), a first arrival of an artificial object on the surface with an [[Impactor (spacecraft)|impactor]] ([[Luna 2]]), and a for the first time a successful flight to the [[far side of the Moon]] ([[Luna 3]]). The Moon then was in 1966 visited for the first time by a [[Lander (spacecraft)|lander]] ([[Luna 9]]), as well as an [[orbiter]] ([[Luna 10]]), and in 1970 for the first time a [[Rover (space exploration)|rover]] ([[Lunokhod 1]]) landed on an extraterrestrial body.
+[[Interplanetary spaceflight|Interplanetary presence]] was established at Venus by the [[Venera program]], with a [[Venera 1|flyby in 1961 (Venera 1)]] and [[Venera 3|a crash in 1966 (Venera 3)]].<ref>{{Cite book|url=https://www.nasa.gov/sites/default/files/atoms/files/beyond-earth-tagged.pdf|title=Beyond Earth: A Chronicle of Deep Space Exploration, 1958–2016|page=1|last1=Siddiqi|first1=Asif A.|lccn=2017059404|isbn=978-1-62683-042-4|publisher=NASA History Program Office|edition=second|year=2018|id=SP2018-4041|series=The NASA history series|location=Washington, DC}}</ref><ref>{{Cite web |url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-092A |title=Venera 3 |website=NASA Space Science Data Coordinated Archive}}</ref>
+
+Presence in the [[Solar System#Outer Solar System|outer Solar System]] was achieved by ''[[Pioneer 10]]'' in 1972<ref name="Pioneer">{{Cite web|url=https://www.nasaspaceflight.com/2017/07/pioneer-10-first-probe-inner-precursor-juno/|date=15 July 2017|author=Chris Gebhardt|title=Pioneer 10: first probe to leave the inner solar system & precursor to Juno|access-date=20 November 2020}}</ref> and continuous presence in [[interstellar space]] by ''[[Voyager 1]]'' in 2012.<ref name="Voyager" />
+
+The 1958 [[Vanguard 1]] is the fourth artificial satellite and the oldest spacecraft still in space and orbit around Earth, though inactive.<ref name="vanguard">{{Cite web|url=http://www.americaspace.com/2018/03/18/vanguard-1-oldest-manmade-satellite-turns-60-this-weekend/|title=Vanguard 1, Oldest Manmade Satellite, Turns 60 This Weekend|work=AmericaSpace|publisher=Ben Evans|date=March 18, 2018|access-date=December 3, 2020}}</ref>
+
+=== Presence of non-human life from Earth ===
+{{Main|Animals in space|Plants in space|List of microorganisms tested in outer space|Interplanetary contamination|Planetary protection}}
+
+[[File:Posta Romana - 1959 - Laika 120 B.jpg|thumb|upright=1.2|[[Laika]] was sent into space in 1957, without plans for survival on return, becoming the first animal (including humans) to reach orbit.<ref name="RussiaOpensMonument">{{citation |url=http://usatoday30.usatoday.com/news/world/2008-04-11-177105809_x.htm |title=Russia opens monument to space dog Laika |first=Vladimir |last=Isachenkov |newspaper=[[Associated Press]] |date=11 April 2008 |access-date=30 August 2020 |archive-url=https://web.archive.org/web/20150926033452/http://usatoday30.usatoday.com/news/world/2008-04-11-177105809_x.htm |archive-date=26 September 2015 |url-status=live }}</ref> Here in her flight harness on a [[Romania]]n stamp from 1959.]]
+
+Since the very beginning of human outer space activities in 1944, and [[Panspermia|possibly before that]],<ref name="The University of Edinburgh 2017">{{Cite web | title=Space dust may transport life between worlds | website=The University of Edinburgh | date=2017-11-20 | url=https://www.ed.ac.uk/news/2017/space-dust-may-transport-life-between-worlds | access-date=2022-08-04}}</ref> life has been present with [[microscopic life]] as [[interplanetary contamination|space contaminate]] and after 1960 as [[List of microorganisms tested in outer space|space research subjects]]. Prior to crewed spaceflight non-human [[Animals in space|animals had been subjects of space research]], specifically [[bioastronautics]] and [[astrobiology]], being exposed to ever higher testflights. The first animals (including humans) and [[plants in space|plant seeds in space]] above the 100&nbsp;km [[Kármán line]] were [[corn]] seeds [[Fruit flies in space|and fruit flies]], launched for the first time on 9 July 1946,<ref name="White Sands 1946">{{Cite web|url=https://www.nasa.gov/pdf/449089main_White_Sands_Missile_Range_Fact_Sheet.pdf|title="Birthplace of America's Missile and Space Activity", NASA}}</ref> with the first fruit flies launched and returned alive in 1947.<ref>{{Cite web |url=https://history.nasa.gov/afspbio/part1.htm |title=The Beginnings of Research in Space Biology at the Air Force Missile Development Center, 1946–1952 |access-date=31 January 2008 |work=History of Research in Space Biology and Biodynamics |publisher=[[NASA]]| archive-url= https://web.archive.org/web/20080125044753/https://history.nasa.gov/afspbio/part1.htm| archive-date= 25 January 2008 | url-status= live}}</ref> In 1949 [[Albert II (monkey)|Albert II]], became the first [[mammal]] and [[Monkeys and apes in space|first primate]] reaching the 100&nbsp;km Kármán line, and in 1957 the dog [[Laika]] became the first animal in orbit, with both also becoming the first fatalities of spaceflight and in space, respectively. In 1968, on [[Zond 5]] turtoises, insects and planets became the first animals (incl. humans) and plants to fly to and returned safely from the Moon and any extraterrestrial flight and in 2019 [[Chang'e 4]] landed fruit flies on the Moon, the first extraterrestial stay of non-human animals.<ref name="Numbers 2018 l047">{{cite web | last=Numbers | first=The | title=Change-4 Probe lands on the moon with “mysterious passenger” of CQU-Chonqqing University | website=Chonqqing University | date=2018-12-08 | url=http://english.cqu.edu.cn/info/1038/1941.htm | access-date=2023-10-24}}</ref>
+
+Visits of organisms to extraterrestrial bodies have been a significant issue of [[planetary protection]], as with the [[Tardigrades on the Moon|crash of tardigrades on the Moon]] in 2019. 
+
+Plants first grown in 1966 with [[Kosmos 110]]<ref>{{Cite book|author1=Brian Harvey|author2=Olga Zakutnyaya|title=Russian Space Probes: Scientific Discoveries and Future Missions|url=https://books.google.com/books?id=q6qyVkapjeoC&pg=PA315|year=2011|publisher=Springer Science & Business Media|isbn=978-1-4419-8150-9|page=315}}</ref> and in 1971 on [[Salyut 1]], with the first producing seeds August 4, 1982 on [[Salyut 7]].<ref name="Magazine 2003">{{Cite web | last=Magazine | first=Smithsonian | title=Growing Pains | website=Smithsonian Magazine | date=2003-08-31 | url=https://www.smithsonianmag.com/air-space-magazine/growing-pains-4148507/ | access-date=2022-08-04}}</ref> The first plant to sprout on the Moon and any extraterrestrial body grew in 2019, on the [[Chang'e 4]] lander.<ref name="Castelvecchi Tatalović 2019 w411">{{cite web | last=Castelvecchi | first=Davide | last2=Tatalović | first2=Mićo | title=Plant sprouts on the Moon for first time ever | publisher=Nature Publishing Group | date=2019-01-15 | url=https://www.nature.com/articles/d41586-019-00159-0 | access-date=2023-10-24}}</ref>
+
+Plants and growing them in space and places such as the Moon have been important subjects of space research, but also as psychological support and possibly nutrition during continuous crewed presence in space.<ref name="Magazine 2003" />
+
+=== Direct human presence in space ===
+{{See also|Human spaceflight|Women in space|Astronaut|Spaceflight participant|List of human spaceflights|List of space travelers by name}}
+[[File:Tracy Caldwell Dyson in Cupola ISS.jpg|thumb|upright=1.2|[[International Space Station]] crewmember [[Tracy Caldwell Dyson]] views the Earth, 2010.]]
+Direct human presence in space was achieved with [[Yuri Gagarin]] flying a [[space capsule]] in 1961 for one orbit around Earth for the first time. While direct human presence in open space, by exiting a spacecraft in a [[spacesuit]], a so-called [[extravehicular activity]], has been achieved since the first person to do so, [[Alexei Leonov]], in 1965.
+
+Though [[Valentina Tereshkova]] was in 1963 the first woman in space, women saw no further presence in space until the 1980s and are still underrepresented, e.g. with no women ever being present on the Moon.<ref name="10percent" /> An internationalization of direct human presence in space started with the first [[space rendezvous]] of two crews of different [[human spaceflight programs]], the [[Apollo–Soyuz]] mission in 1975 and at the end of the 1970s with the [[Interkosmos]] program.
+
+[[Space station]]s have harboured so far the only long-duration direct human presence in space. After the first station [[Salyut 1]] (1971) and its tragic [[Soyuz 11]] crew, space stations have been operated consecutively since [[Skylab]] (1973), having allowed a progression of long-duration direct human presence in space. Long-duration direct human presence has been joined by visiting crews since 1977 ([[Salyut 6]]). Consecutive direct human presence in space has been achieved since the [[Salyut program|Salyut]] successor [[Mir]] by 1987. Uninterrupted direct human presence in space has been achieved since the operational transition from the Mir to the [[ISS]], with its first occupation in 2000.<ref name="Station" />
+At times the number of people present in space at the same time has climbed since 1995 above 13<ref>{{Cite web|url=https://www.space.com/6503-population-space-historic-high-13.html|title=Population in Space at Historic High: 13|date=27 March 2009|author=Tariq Malik|website=[[Space.com]] |access-date=21 November 2020}}</ref> with a record 17 in 2023 on two space stations.<ref name="Pearlman 2023">{{cite web | last=Pearlman | first=Robert Z. | title=New record! 17 people are in Earth orbit at the same time right now | website=Space.com | date=2023-05-30 | url=https://www.space.com/record-17-people-in-earth-orbit-at-once | access-date=2023-06-01}}</ref> The ISS has hosted the most people in space at the same time, reaching 13 for the first time during the eleven day docking of [[STS-127]] in 2009.<ref name="Canadian Space Agency 2008">{{Cite web | title=Mission STS-127 | website=Canadian Space Agency | date=Aug 13, 2008 | url=https://www.asc-csa.gc.ca/eng/missions/sts-127.asp | access-date=Oct 20, 2021}}</ref>
+
+[[File:STS-131 & Expedition 23 Group Portrait.jpg|thumb|upright=1.2|[[STS-131]] and [[Expedition 23]] crew members gather for a group portrait of 13 in 2010, which set the record of four women at the same time in space.<ref>{{Cite web|url=http://www.roscosmos.ru/main.php?id=2&nid=8979|title=Four Women will Fly in Space for the First Time in the History|date=3 April 2010|access-date=3 April 2010|publisher=Russian Federal Space Agency|url-status=dead|archive-url=https://web.archive.org/web/20100408203932/http://roscosmos.ru/main.php?id=2&nid=8979|archive-date=8 April 2010|df=dmy-all}}</ref>]]
+
+Beyond Earth the Moon has been the only astronomical object which so far has seen direct human presence through the week long [[Apollo program|Apollo missions]] between 1968 and 1972, beginning with the first orbit by [[Apollo 8]] in 1968 and with the first landing by [[Apollo 11]] in 1969. The longest extraterrestrial human stay was three days by [[Apollo 17]].
+
+While most persons who have been to space are [[Astronauts]], professional members of [[human spaceflight programs]], particularly governmental ones, the few others, starting in the 1980s, have been trained and gone to space as [[spaceflight participant]]s, with the first [[space tourist]] staying in space in 2001.
+
+By the end of the 2010s several hundred people from more than [[Timeline of space travel by nationality|40 countries]] have gone into space, most of them reaching orbit. 24 people have [[List of lunar astronauts|traveled beyond low Earth orbit]] and 12 of them [[List of Apollo astronauts#People who have walked on the Moon|walked on the Moon]].<ref name="astronaut1">{{Cite web|url=https://www.worldspaceflight.com/bios/stats.php|title=Astronaut/Cosmonaut Statistics|website=www.worldspaceflight.com|access-date=2019-12-03}}</ref>
+Space travelers have spent by 2007 over 29,000 person-days (or a cumulative total of over 77 years) in space including over 100 person-days of [[spacewalk]]s.<ref>{{Cite web |url=http://space.kursknet.ru/cosmos/english/other/stat_kk.sht |title=Total duration of man-flights for different spacecrafts |access-date=2007-02-23 |url-status=dead |archive-url=https://web.archive.org/web/20070208224003/http://space.kursknet.ru/cosmos/english/other/stat_kk.sht |archive-date=2007-02-08 }}</ref>
+Usual durations for individuals to inhabit space on long-duration stays are six months,<ref name="Kennedy Space Center">{{Cite web | title=The 20 Most Frequently Asked Questions about the International Space Station | website=Visit Kennedy Space Center Visitor Complex at Cape Canaveral | url=https://www.kennedyspacecenter.com/blog/the-20-most-frequently-asked-questions-about-the-international-space-station | access-date=Oct 20, 2021}}</ref> with the [[Timeline of longest spaceflights|longest stays]] on record being at about a year.
+
+{{Human spaceflight timeline}}
+{{wide image|Space Population.png|800px|}}
+
+=== Space infrastructure ===
+{{See also|Ground segment|Space segment|Space architecture|Aerospace architecture|Airborne observatory|Artificial satellite|Inter-satellite service|Satellite constellation|Space observatory|Space station|Space habitat (facility)|Interplanetary Internet|Planetary surface construction|Space-based economy|Space-based solar power|Extraterrestrial real estate|Space logistics|Space industry}}
+
+A permanent human presence in space depends on an established space infrastructure which harbours, supplies and maintains human presence. Such [[infrastructure]] has originally been Earth [[Ground segment|ground-based]], but with increased numbers of [[satellite]]s and long-duration missions beyond the [[near side of the Moon]] space-to-space based infrastructure is being used. First simple interplanetary infrastructures have been created by [[space probe]]s particularly when employing a system which combines a [[Lander (spacecraft)|lander]] and a relaying [[orbiter]].
+
+[[Space station]]s are [[space habitat (facility)|space habitats]] which have provided a crucial infrastructure for sustaining a continuous direct human, including non-human, presence in space. Space stations have been continuously present in orbit around Earth from [[Skylab]] in 1973, to the [[Salyut programme|Salyut stations]], [[Mir]] and eventually [[ISS]].
+The planned [[Artemis program]] includes the [[Lunar Gateway]] a future space station around the Moon as a multimission waystation.<ref>{{Cite web|url=https://spacenews.com/op-ed-nasa-must-shift-its-focus-to-infrastructure-and-capabilities-that-support-dynamic-missions/|author=Greg Autry|date=22 August 2019|title=NASA must shift its focus to infrastructure and capabilities that support dynamic missions|publisher=[[SpaceNews]]|access-date=25 November 2020}}</ref>
+
+{{wide image|Orbitalaltitudes.jpg|700px|Orbital altitudes of several significant satellites of Earth}}
+
+=== Spiritual and artistic ===
+{{Main|Space art#Art in space|Religion in space}}
+[[File:Fallen Astronaut.jpg|thumb|upright=1.2|''[[Fallen Astronaut]]'']]
+Human presence has also been expressed through spiritual and artistic installations in outer space or [[Moon#Human impact|on the Moon]].
+[[Apollo 15]] Mission Commander [[David Scott]] left for example a Bible on their [[Lunar rover]] during an [[extravehicular activity]] on the Moon. Space has furthermore been the sight of people taking part in religious festivities such as [[Christmas on the International Space Station]].
+
+== Locations ==
+{{For-text|basic general outer space presence, as in Earth sub-orbital to orbital presence| above the overlaping chapter of [[#Forms|"Forms"]] of human presence in space}}
+
+=== Extraterrestrial bodies ===
+{{Main|List of extraterrestrial orbiters|Satellite system (astronomy)|Deliberate crash landings on extraterrestrial bodies|Atmospheric entry probe|List of landings on extraterrestrial bodies|Sample-return mission|Lander (spacecraft)|List of artificial objects on extraterrestrial surfaces|Interplanetary mission|List of interplanetary voyages|List of minor planets and comets visited by spacecraft|List of missions to minor planets|List of missions to comets}}
+
+Humanity has reached different types of astronomical bodies, but the longest and most diverse presence (including non-human, e.g. sprouting plants<ref name="Seeds">{{Cite web|url=https://www.scmp.com/news/china/science/article/2182111/chinese-lunar-landers-cotton-seeds-lead-way-plant-life-germinates|title=Chinese lunar lander's cotton seeds spring to life on far side of the moon|last1=Zheng|first1=William|date=15 January 2019|website=South China Morning Post|access-date=27 November 2019}}</ref>) has been [[List of missions to the Moon|on the Moon]], particularly because it is the first and only extraterrestrial body having been directly visited by humans.
+
+[[Space probe]]s have been mediating human presence on other astronomical bodies since their [[List of missions to Venus|first visits to Venus]]. Mars has seen a continuous presence [[Mars Pathfinder|since 1997]],<ref name="Mars1997">{{Cite web|url=https://spaceflightnow.com/2017/07/04/nasa-marks-20-years-of-continuous-mars-exploration/|title=NASA marks 20 years of continuous Mars exploration|last1=Clark|first1=Stephen|date=4 July 2017|website=Spaceflightnow|access-date=28 November 2020}}</ref> after being [[Mariner 4|first flown by in 1964]] and [[Mars 3|landed on in 1971]]. [[List of missions to Mars|A group of missions]] have been present on Mars [[2001 Mars Odyssey|since 2001]], including continuous presence by a series of rovers [[Spirit (rover)|since 2003]].
+
+Beside having reached some [[Planet#Planetary-mass objects|planetary-mass objects]] (that is [[planet]]s, [[dwarf planet]]s or the largest, so-called [[planetary-mass moon]]s), humans have also reached, landed and in some cases even returned robotic probes from some [[small Solar System body|small Solar System bodies]], like [[asteroid]]s and [[comet]]s, with a [[List of minor planets and comets visited by spacecraft|range of space probes]].
+
+The Solar System region near the [[Sun]]'s [[Stellar corona|corona]], inside [[Mercury (planet)|Mercury]]'s orbit, with its high [[gravitational potential]] difference from Earth and the subsequent high [[delta-v]] needed to reach it, has only been considerably pierced on highly [[elliptic orbit]]s by some [[List of Solar System probes#Solar probes|solar probes]] like [[Helios (spacecraft)|Helios 1 & 2]], as well as the more contemporary [[Parker Solar Probe]]. The latter being the closest to reach the Sun, breaking speed records with its very low solar altitudes at [[Apsis#Perihelion and aphelion|perihelion apsis]].
+
+Future direct human presence beyond Earth's orbit is possibly going to be re-introduced if current plans for crewed [[research station]]s to be established [[Human mission to Mars|on Mars]] and [[Moonbase|on the Moon]] are continued to be developed.
+
+[[File:Gateway and Orion in lunar orbit (5).jpg|thumb|upright=1.2|right|Concept art of the planned [[Lunar Gateway]] of the [[Artemis program]], serving as a communication hub, science laboratory, short-term habitation for crewed missions and holding area for rovers in [[Lunar orbit]]<ref name="Jackson20180911">{{citation-attribution|1={{Cite web|title=Competition Seeks University Concepts for Gateway and Deep Space Exploration Capabilities|url=https://www.nasa.gov/feature/competition-seeks-university-concepts-for-gateway-and-deep-space-exploration-capabilities|last1=Jackson|first1=Shanessa|website=nasa.gov|publisher=NASA|access-date=19 September 2018|date=11 September 2018|archive-date=17 June 2019|archive-url=https://web.archive.org/web/20190617064456/https://www.nasa.gov/feature/competition-seeks-university-concepts-for-gateway-and-deep-space-exploration-capabilities/|url-status=live}} }}</ref>]]
+
+=== Particular orbits ===
+{{Main|List of objects at Lagrange points|List of artificial objects in heliocentric orbit}}
+{{See also|Co-orbital configuration|Quasi-satellite|Temporary satellite|Interplanetary spaceflight|Interplanetary Transport Network|Lunar cycler|Mars cycler}}
+
+Human presence in [[Geocentric orbit|Earth orbit]] and [[heliocentric orbit]] has been the case with a [[List of artificial objects in heliocentric orbit|range of artificial objects]] since the beginning of spaceflight (both possibly with debris since 1957,<ref name="IdeaMan" /> but for sure since 1958 with [[Sputnik 1]] and in 1959 with [[Luna 1]] respectively), and at more [[interplanetary spaceflight|interplanetary heliocentric orbits]] since 1961 with [[Venera 1]]. [[Orbital insertion|Extraterrestrial orbit]]s other than heliocentric orbit has been achieved since 1966, starting with [[Luna 10]] around the Moon and several at the same time in orbit of the Moon that same year starting with [[Lunar Orbiter 1]], and since 1971 with [[Mariner 9]] around another planet (Mars).
+
+Humans have also used and occupied [[co-orbital configuration]]s, [[List of objects at Lagrange points|particularly at different liberation points]] with [[halo orbit]]s, to harness the benefits of those so called [[Lagrange point]]s.
+
+Some interplanetary missions, particularly the ''[[Ulysses (spacecraft)|Ulysses]]'' solar polar probe and considerably ''[[Voyager 1]]'' and ''[[Voyager2|2]]'', as well as others like ''[[Pioneer 10]]'' and ''[[Pioneer 11|11]]'', have entered trajectories taking them out of the [[Ecliptic#Plane of the Solar System|ecliptic plane]].
+
+=== Outer Solar System ===
+{{See also|List of missions to the outer planets}}
+
+Human presence in the [[Solar System#Outer Solar System|outer Solar System]] has been established and continued by sofar nine space probes since the first visit to [[Jupiter]] in 1973 by ''[[Pioneer 10]]''.<ref name="Pioneer" /> Jupiter and [[Saturn]] are the only outer Solar System bodies which have been orbited by probes (Jupiter: ''[[Galileo (spacecraft)|Galileo]]'' in 1995 and ''[[Juno (spacecraft)|Juno]]'' in 2016; Saturn: ''[[Cassini–Huygens]]'' in 2004), with all other outer Solar System probes performing flybys.
+
+The Saturn moon [[Titan (moon)|Titan]], with its special lunar atmosphere, has so far been the only body in the outer Solar System to be landed on by the ''Cassini–Huygens'' lander ''[[Huygens (spacecraft)|Huygens]]'' in 2005.
+
+=== Outbound ===
+{{Main|List of artificial objects leaving the Solar System}}
+{{See also|Interstellar probe}}
+
+[[List of artificial objects leaving the Solar System|Several probes]] have reached Solar [[escape velocity]], with ''[[Voyager 1]]'' being the first to cross after 36 years of flight the [[Heliopause (astronomy)|heliopause]] and enter [[interstellar space]] on August 25, 2012, at distance of 121 [[Astronomical unit|AU]] from the Sun.<ref name="Voyager">{{Cite news|last=Morin|first=Monte|title=NASA confirms Voyager 1 has left the Solar System| url=https://www.latimes.com/science/sciencenow/la-sci-sn-nasa-confirms-voyager-1-has-exited-the-solar-system-20130912,0,3406650.story| newspaper=Los Angeles Times| date=September 12, 2013}}</ref>
+
+[[File:PIA23681-SolarSystemViewFromVoyager1-20200212.jpg|thumb|right|upright=1.2|The updated ''[[Family Portrait (Voyager)|Family Portrait]]'' collage of the most recent pictures of the Solar System taken by ''Voyager 1'' (12 February 2020)]]
+
+== Living in space ==
+{{Redirect|Space habitation|the facility|Space habitat (facility)}}
+{{Further|Bioastronautics|Effect of spaceflight on the human body|Life support system|Locomotion in space |Reduced muscle mass, strength and performance in space|Space food|Astronautical hygiene|Spaceflight radiation carcinogenesis|Space medicine|Sex in space|Space tourism|Space-based economy|Space farming|List of spaceflight-related accidents and incidents|Writing in space|Space art#Art in space|Music in space|Religion in space|Lunar habitation}}
+
+[[File:ISS-43 Birthday of astronaut Samantha Cristoforetti.jpg|thumb|upright=1.2|[[Expedition 43]] crew celebrate a birthday in ''[[Zvezda (ISS module)|Zvezda]]'' the [[ISS]] service module, 2015.]]
+
+Space, particularly [[microgravity]], make life different to life on Earth. Mundane needs such as [[Life support system|air, pressure, temperature and light]], as well as [[Locomotion in space|movement]], [[Astronautical hygiene|hygiene]] and [[Space food|food intake]] are confronted with challenges.
+
+Human health is mostly effected by long-duration stays particularly by the prevalent [[Spaceflight radiation carcinogenesis|radiation exposure]] and the [[Weightlessness#Human health effects|health effects of microgravity]]. Human fatalities have been the case due to accidents during spaceflight, particularly at [[space launch|launch]] and [[reentry]]. With the last in-flight accident killing humans, the [[Columbia accident]] in 2003, the sum of in-flight fatalities has risen to 15 astronauts and 4 [[cosmonaut]]s, in five separate incidents.<ref>{{cite web |last=Harwood |first=William |title=Astronaut fatalities |url=http://spaceflightnow.com/shuttle/sts114/fdf/fatalities.html |date=23 May 2005 |publisher=spaceflightnow.com |access-date=19 March 2013}}</ref><ref>{{cite book |last1=Musgrave |first1=Gary Eugene |last2=Larsen |first2=Axel |last3=Sgobba |first3=Tommaso |title=Safety Design of Space Systems |year=2009 |publisher=Butterworth–Heinemann |isbn=978-0080559223 |page=143}}</ref> Over 100 others have died in accidents during activity directly related to spaceflight or testing.
+* See [[List of spaceflight-related accidents and incidents]]
+
+[[File:STS-107 Chawla and Clark.jpg|thumb|upright=1.2|[[Kalpana Chawla]] (foreground), the first Indian woman in space, and [[Laurel Clark]] on [[STS-107]] before the crew's fatal return flight, 2003]]
+
+[[Bioastronautics]], [[space medicine]], [[space technology]] and [[space architecture]] are fields which are occupied with alleviating the effects of space on humans and non-humans.
+
+== Impact, environmental protection and sustainability ==
+{{About|the impact of human presence and the mitigation of any unwanted impact on space and human presence|the purpose of sustaining human presence|Human presence in space#Purposes and uses|section=yes}}
+{{See also|Planetary protection|Space debris|Space sustainability|Kessler syndrome|Space environmentalism|Space law|Reusable launch system|Reusable spacecraft|Space traffic management|2009 satellite collision|Light pollution#From satellites|Radio spectrum pollution|Space environment|List of artificial objects on extraterrestrial surfaces|List of objects at Lagrange points|List of artificial objects in heliocentric orbit|Space infrastructure|Space archaeology|Technosignature|Space and survival|Sacrifice zone}}
+
+Human space activity, and its subsequent presence, can and has been having an impact on space as well as on the capacity to access it. This impact of human space activity and presence, or its potential, has created the need to address its issues regarding [[planetary protection]], [[space debris]], [[Nuclear power in space#Regulation and hazard prevention|nuclear hazards]], [[Radio spectrum pollution|radio pollution]] and [[Light pollution#From satellites|light pollution]], to the [[reusable launch system|reusability of launch systems]], for space not to become a [[sacrifice zone]].<ref name="Calma 2021">{{Cite web | last=Calma | first=Justine | title=Jeff Bezos eyes space as a new 'sacrifice zone' | website=The Verge | date=Jul 21, 2021 | url=https://www.theverge.com/2021/7/21/22587249/jeff-bezos-space-pollution-industry-sacrifice-zone-amazon-environmental-justice | access-date=Nov 9, 2021}}</ref>
+
+[[Space sustainability|Sustainability]] has been a goal of [[space law]], [[space technology]] and [[space infrastructure]], with the [[United Nations]] seeing the need to advance long-term sustainability of outer space activities in space science and application,<ref name="UN">{{Cite web|url=https://www.unoosa.org/oosa/en/ourwork/topics/long-term-sustainability-of-outer-space-activities.html|title=Long-term Sustainability of Outer Space Activities|publisher=[[United Nations Office for Outer Space Affairs]]|access-date=19 November 2020}}</ref> and the [[United States]] having it as a crucial goal of its contemporary [[space policy]] and [[space program]].<ref name="NASA_sustainability">{{Cite web|url=https://vienna.usmission.gov/2020-copuos-stsc-long-term-sustainability-of-outer-space-activities/|title=2020 COPUOS STSC – U.S on Long-Term Sustainability of Outer Space Activities|date=3 February 2020|access-date=15 December 2020}}</ref><ref name="Artemis">{{Cite web|url=https://spacenews.com/op-ed-building-on-the-artemis-accords-to-address-space-sustainability/|date=22 December 2020|author=Jennifer A. Manner|title=Building on the Artemis Accords to address space sustainability|access-date=28 December 2020}}</ref>
+
+Human presence in space is particularly being felt in orbit around Earth. The orbital space around Earth has seen increasing and extensive human presence, beside its benefits it has also produced a threat to it by carrying with it [[space debris]], potentially cascading into the so-called [[Kessler syndrome]].<ref name="Kessler">{{Cite web|url=https://www.theverge.com/science/22229792/space-orbital-collisions-risk-satellites-real-time|date=19 January 2021|author=William Poor|title=Outer space is a mess that Moriba Jah wants to clean up|access-date=19 January 2021}}</ref> This has raised the need for [[Space traffic management|regulation and mitigation of such]] to secure a [[Space sustainability|sustainable access to outer space]].
+
+== Study and reception ==
+{{Main|Metaphysics of presence|Cosmology|Archaeoastronomy|Cultural astronomy|Space archaeology|Space Age|History of spaceflight|Space fiction|Astronomy|History of astronomy|History of the center of the Universe|Ultraview effect}}
+
+Individually or as a society humans have engaged since [[pre-history]] in developing their perception of space above the ground, or the [[Cosmology|cosmos at large]], and developing their place in it.
+
+[[Social sciences]] have been studying such works of people from pre-history to the contemporary with the fields of [[archaeoastronomy]] to [[cultural astronomy]]. With actual human activity and presence in space the need for fields like [[astrosociology]] and [[space archaeology]] have been added.
+
+=== Human presence observed from space ===
+{{Main|Earth observation|Overview effect|Timeline of first images of Earth from space|Extraterrestrial sky#Earth from Mars|Earth in culture|Space selfie}}
+
+[[File:Earth and Moon from Mars PIA04531.jpg|thumb|upright=1.2|Earth and Moon from Mars, imaged by [[Mars Global Surveyor]] on May 8, 2003, 13:00 [[UTC]]. South America is visible.]]
+
+[[Earth observation]] has been one of the first missions of spaceflight, resulting in a dense contemporary presence of [[Earth observation satellite]]s, having a wealth of uses and benefits for life on Earth.
+
+Viewing human presence from space, particularly by humans directly, has been reported by some astronauts to cause a [[cognitive shift]] in perception, especially while viewing the Earth from outer space, this effect has been called the [[overview effect]].
+
+=== Observation of space from space ===
+{{Main|Space observatory|List of space telescopes}}
+
+Parallel to the above ''overview effect'' the term "ultraview effect" has been introduced for a subjective response of intense awe some astronauts have experienced viewing large "starfields" while in space.<ref>{{Cite journal|last1=Weibel |first1=Deana|date=13 August 2020 |title=The Overview Effect and the Ultraview Effect: How Extreme Experiences in/of Outer Space Influence Religious Beliefs in Astronauts|journal=Religions|volume=11|issue=8|pages=418|doi=10.3390/rel11080418|s2cid=225477388|doi-access=free}}</ref>
+
+[[Space observatory|Space observatories]] like the [[Hubble Space Telescope]] have been present in Earth's orbit, benefiting from advantages from being outside Earth's atmosphere and away from its [[radio noise]], resulting in less distorted observation results.
+
+=== Direct and mediated human presence ===
+{{See also|Telepresence|Presence (telepresence)|Telerobotics|Human–machine system}}
+
+Related to the long discussion of what human presence constitutes and how it should be lived, the discussion about direct (e.g. [[crewed spacecraft|crewed]]) and mediated (e.g. [[Uncrewed spacecraft|uncrewed]]) human presence, has been decisive for how [[space policy]] makers have chosen human presence and its purposes.<ref>{{Cite journal|title=A robotics perspective on human spaceflight|author=Alex Ellery|date=1999|journal=Earth, Moon, and Planets|volume=87|issue=3|pages=173–190|publisher=Kluwer Academic Publishers|doi=10.1023/A:1013190908003|bibcode=1999EM&P...87..173E|s2cid=116182207|url=https://doi.org/10.1023/A:1013190908003|access-date=25 November 2020}}</ref>
+
+The relevance of this issue for space policy has risen with the advancement and resulting possibilities of [[telerobotics]],<ref name="Presence" /> to the point where most of the human presence in space has been reallized robotically, leaving direct human presence behind.
+
+=== Localization in space ===
+{{Main|Location of Earth|Solar System#Galactic context|History of the center of the Universe}}
+
+The location of human presence has been studied throughout history by astronomy and was significant in order to relate to the heavens, that is to [[outer space]] and its bodies.
+
+The historic argument between [[geocentrism]] and [[heliocentrism]] is one example about the location of human presence.
+
+{{wide image|Location of Earth (9x1-English Annot).jpg|3000px|A diagram of Earth's location in the [[observable Universe]]. (''[[:File:Location of Earth (3x3-English Annot-small).png|Click here for an alternate image]].'')}}
+
+=== Scenarios of and relations to space beyond human presence ===
+{{See also|Fermi paradox|Planetary protection|Uncontacted peoples|Search for extraterrestrial life|Active SETI|First contact (anthropology)|Rare Earth hypothesis|Zoo Hypothesis|Post-detection policy|Outside Context Problem|Meaning of life|Human condition|Anthropocentrism|Speciesism|Carbon chauvinism|Space and survival|Existence}}
+
+Realizations of the [[Location of Earth|scales of space]], have been taken as subject to discuss human and life's existence or relations to [[spacetime|space and time]] beyond them, with some understanding humanity's or life's presence as a [[Rare Earth hypothesis|singularity]] or one to be in [[Uncontacted peoples|isolation]], pondering on the [[Fermi paradox]].
+
+A diverse range of arguments of how to relate to space beyond human presence have been raised, with some seeing space beyond humans as reason to venture out into space and exploring it, some aiming for [[first contact (anthropology)|contact]] with [[extraterrestrial life]], to arguments for [[planetary protection|protection of humanity or life]] from its possibilities.<ref>{{Cite web|url=https://www.nationalgeographic.com/news/2018/03/stephen-hawking-controversial-physics-black-holes-bets-science/|title=Stephen Hawking's Most Provocative Moments, From Evil Aliens to Black Hole Wagers|date=2 May 2018|author=Michael Greshko|publisher=[[National Geographic]]|access-date=25 November 2020}}</ref><ref>{{Cite web|url=https://www.independent.co.uk/news/science/searching-life-beyond-earth-scientists-debate-danger-messages-hostile-aliens-10078189.html|title=Searching for life beyond Earth: Scientists debate danger of messages to 'hostile' aliens|date=1 March 2015|author=Joel Achenbach|work=[[The Independent]]|access-date=25 November 2020}}</ref>
+
+Considerations about the ecological integrity<ref name="Gorman 2022">{{Cite web | last=Gorman | first=Alice | title=#SpaceWatchGL Opinion: An ecofeminist approach to the sustainable use of the Moon | website=SpaceWatch.Global | date=2022-07-01 | url=https://spacewatch.global/2022/07/spacewatchgl-opinion-an-ecofeminist-approach-to-the-sustainable-used-of-the-moon/ | access-date=2022-07-03}}</ref> and independence of celestial bodies, counter exploitive understandings of space as dead, particularly in the sense of [[terra nullius]], have raised issues such as [[rights of nature]].
+
+== Purposes and uses ==
+{{See also|Space ethics|Space advocacy|Space policy|Spaceflight#Applications|Human nature|Ultimate fate of the universe|Cosmicism|Space colonization#Reasons}}
+
+Space and human presence in it has been the subject of different agendas.
+
+Human presence in space at its beginnings, was fueled by the [[Cold War]] and its outgrowing the [[Space Race]]. During this time [[space technology|technological]], nationalist, ideological and [[Militarization of space|military competition]] were dominant driving factors of [[space policy]]<ref>{{Cite web|url=https://www.nationalcoldwarexhibition.org/schools-colleges/national-curriculum/space-race/|website=National Cold War Exhibition|title=Space Race|publisher=Royal Air Force Museum|date=2013|access-date=24 November 2020}}</ref> and the resulting activity and, particularly direct human, presence in space.
+
+With the waning of the Space Race, concluded by [[Apollo–Soyuz|cooperation in human spaceflight]], focus shifted in the 1970s further to [[space exploration]] and [[telerobotics]], having a range of achievements and technological advances.<ref>{{Cite journal|title=Robots and humans in space flight: Technology, evolution, and interplanetary travel|journal=Technology in Society|volume=29|date=2007|pages=271–282|doi=10.1016/j.techsoc.2007.04.007|publisher=Elsevier Ltd.|first1=Roger|last1=Launiusa|first2=Howard|last2=McCurdyb|issue=3}}</ref> Space exploration meant by then also an engagement by governments in the [[search for extraterrestrial life]].
+
+Since human activity and presence in space has been producing [[Benefits of space exploration|spin-off benefits]], other than for the above purposes, such as [[Earth observation satellite|Earth observation]] and [[communication satellite]]s for civilian use, international cooperation to advance such benefits of human presence in space grew with time.<ref>{{Cite book|title=Fundamentals of Space Business and Economics|last=Gurtuna|first=Ozgur|publisher=Springer|year=2013|isbn=978-1-4614-6695-6|location=Springer New York Heidelberg Dordrecht London|pages=31|doi=10.1007/978-1-4614-6696-3|series=SpringerBriefs in Space Development|bibcode=2013fsbe.book.....G }}</ref> Particularly for the purpose of continuing benefits of [[space infrastructure]] and [[space science]] the United Nations has been pushing for safeguarding [[Space sustainability|human activity in outer space in a sustainable way]].<ref name="UN" />
+
+With the contemporary so-called [[NewSpace]], the aim of [[commercialization of space]] has grown along with a narrative of [[space habitation]] for the [[Space and survival|survival of some humans away from and without Earth]], which in turn has been critically analyzed and highlighted [[Space colonization#Colonialism|colonialist purposes]] for human activity and presence in space.<ref>{{Cite web |author=Joon Yun |website=Worth.com |title=The Problem With Today's Ideas About Space Exploration. |date=January 2, 2020
+|url=https://www.worth.com/is-space-the-next-frontier-for-the-same-old-story-of-imperialism/ |access-date=2020-11-21}}</ref> This has given rise for a deeper engagement in the fields of [[space environment]] and [[space ethics]].<ref name="Weinberg. 2021">{{Cite web | last=Weinberg. | first=Justin | title=Philosophers On Space Exploration | website=Daily Nous | date=February 22, 2021 | url=https://dailynous.com/2021/02/22/philosophers-on-space-exploration/ | access-date=February 21, 2022}}</ref>
+
+=== Overview of different purposes and uses ===
+* [[Space exploration#Rationales]]
+** [[Benefits of space exploration]]
+*** [[NASA spinoff technologies]]
+** [[Space research]]
+*** [[Earth observation]]
+**** [[Astronomy]]
+***** [[Space observatory]]
+**** [[Search for extraterrestrial life]] (see also [[First contact (anthropology)|first contact]])
+** [[Communications satellite|Communication]]
+** [[Spaceflight]]/Space transportation
+** [[Commercial use of space]]
+*** [[Space tourism]]
+*** [[Space mining]] (see also [[Planetary surface#Surface chauvinism and surfacism|Surface chauvinism and surfacism]])
+*** [[Space manufacturing]]
+*** [[Environmental dumping]]
+** [[Planetary protection]]
+*** [[Planetary defense]]
+*** [[Isolationism]]
+* For presence, in itself (see [[Human outpost]] space basing)
+** [[Space imperialism]]
+*** [[Nationalism|National]] or private potency and [[Bellum omnium contra omnes|competition]] (see [[Space Race]])
+*** [[Militarization of space]]
+** [[Space habitation]]
+*** [[Emigration from Earth]]
+**** [[Social integration|Integration]] or [[naturalization]] (see also [[Naturalization (biology)|biological naturalization]] such as [[Pantropy]])
+**** [[Human migration#Push and Pull|Demographic push]] (e.g. due to [[overconsumption]])
+**** [[Forced displacement]]
+**** [[Space and survival]]
+**** [[Escapism]]
+** [[Space development]] as a purpose of [[progress]] (see also [[New Frontier]])
+*** [[Expansionism]]
+**** [[Space colonization]] 
+**** [[Civilizing mission]]
+***** [[Terraforming]] (see also [[Ethics of terraforming]])
+***** [[Directed panspermia]]
+
+== See also ==
+* {{Category|Space lists}}
+** {{Category|Lists of space lists}}
+* [[Outline of space science]]
+* [[Outline of space exploration]]
+* [[Timeline of Solar System exploration]]
+* [[List of spaceflight records]]
+* [[Rights of nature]]
+* [[Anthropogenic metabolism]]
+* [[Anthroposphere]]
+* [[Collective consciousness]]
+* [[Scale (analytical tool)]]
+* [[Noosphere]]
+* [[Ecological civilization]]
+* [[Human impact on the environment]]
+* {{Section link|World Ocean|Anthropogenic presence and impact}}
+* [[Human ecology]]
+* [[Technosignature]]
+* [[Extremophile]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{Portal bar|Space|Spaceflight}}
+{{Sister project links}}
+{{Library resources box|onlineboks=yes}}
+{{Space}}
+{{Outer space}}
+{{Space exploration}}
+{{Spaceflight}}
+{{Space exploration lists and timelines}}
+{{Politics of outer space}}
+
+[[Category:Space]]
+[[Category:Outer space]]
+[[Category:Space exploration]]

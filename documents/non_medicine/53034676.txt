@@ -1,0 +1,39 @@
+{{Infobox film 
+| name = Yakety Yak, Take it Back
+| image = 
+| caption = 
+| director = Michael Patterson<br>Tim Newman
+| producer = Tim Newman
+| writer = 
+| starring = [[Ozzy Osbourne]]<br>[[Bette Midler]]<br>[[Randy Newman]]<br>[[Queen Latifah]]<br>[[Stevie Wonder]]<br>[[Tone Loc]]<br>[[Pat Benatar]]<br>[[Greg Burson]]<br>[[BB King]]<br> [[Kenny Loggins]]
+| music =    
+| cinematography = 
+| editing = 
+| distributor = [[Time Warner]]
+| released = 1991
+| runtime = 50 minutes
+| language = English
+| budget = 
+}}
+
+'''''Yakety Yak, Take it Back''''' is a 1991 celebrity charity music video film aimed at encouraging recycling using a combination of live action rock stars, rappers, and animated [[Warner Bros]]. characters.<ref name=LAT>{{cite web|work=[[Los Angeles Times]]|url=http://articles.latimes.com/1991-10-03/news/vw-4333_1_young-people|title=The Recycling Generation : Star-studded video exhorts young people to 'Take It Back!'|date=October 3, 1991|author=Foster, R. Daniel|url-status=live|archiveurl=https://web.archive.org/web/20170202131905/http://articles.latimes.com/1991-10-03/news/vw-4333_1_young-people|archivedate=February 2, 2017}}</ref>
+
+The film originally aired on [[MTV]] in a shortened music video form and was released in an extended version on [[home video]].<ref>[https://www.good.is/articles/yakety-yak-take-it-back-vintage-star-studded-recycling-psa Good.is] {{webarchive|url=https://web.archive.org/web/20170202070240/https://www.good.is/articles/yakety-yak-take-it-back-vintage-star-studded-recycling-psa |date=2017-02-02 }}</ref><ref>[https://www.discogs.com/Various-Yakety-Yak-Take-It-Back/release/6230590 Discogs] {{webarchive|url=https://web.archive.org/web/20170202123319/https://www.discogs.com/Various-Yakety-Yak-Take-It-Back/release/6230590 |date=2017-02-02 }}</ref><ref>[http://www.allmusic.com/album/yakety-yak-take-it-back-video-mw0000272189 AllMusic] {{webarchive|url=https://web.archive.org/web/20170202201110/http://www.allmusic.com/album/yakety-yak-take-it-back-video-mw0000272189 |date=2017-02-02 }}</ref><ref>[http://www.stereogum.com/114691/the_21_worst_all-star_charity_music_videos_of_all/franchises/listomania/ Stereogum] {{webarchive|url=https://web.archive.org/web/20161205044032/http://www.stereogum.com/114691/the_21_worst_all-star_charity_music_videos_of_all/franchises/listomania/ |date=2016-12-05 }}</ref> The film was also released in Episode 3043 of ''[[Sesame Street]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title}}
+
+[[Category:1991 films]]
+[[Category:Music videos]]
+[[Category:1990s English-language films]]
+[[Category:1991 animated films]]
+[[Category:1990s American animated films]]
+[[Category:1990s musical films]]
+[[Category:Public service announcements of the United States]]
+
+
+{{music-video-stub}}
+{{1990s-animation-film-stub}}

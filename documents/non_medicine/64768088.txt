@@ -1,0 +1,92 @@
+{{Use American English|date=February 2021}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox spaceflight
+| name              = International-Mars Ice Mapper
+| names_list        = I-MIM<br/>Mars Exploration Ice Mapper
+| image             = INTERNATIONAL_MARS_ICE_MAPPER.jpg
+| image_caption     = This illustration depicts four orbiters as part of the International-Mars Ice Mapper (I-MIM) mission concept. At lower left, an orbiter passes above the [[Martian surface]], detecting buried water ice through a radar instrument and large reflector antenna. Circling [[Mars]] at a higher altitude are three [[Communications satellite|telecommunications orbiters]], with one shown relaying data back to [[Earth]].<ref name="NASA20210203"/>
+| image_size        = 300px
+
+| mission_type      = [[List of Mars orbiters|Mars orbiter]]
+| operator          = [[NASA]] / [[JAXA]] / [[Canadian Space Agency|CSA]] / [[Italian Space Agency|ASI]]
+| COSPAR_ID         = 
+| SATCAT            = 
+| mission_duration  = 2 years (planned)
+
+| spacecraft        = 
+| spacecraft_type   = 
+| manufacturer      = 
+| launch_mass       = 
+| dimensions        = 
+| power             = 
+
+| launch_date       = 2026
+| launch_rocket     = 
+| launch_site       = [[Cape Canaveral Space Force Station|Cape Canaveral]]
+| launch_contractor = 
+
+| last_contact      = 
+| decay_date        = 
+
+| orbit_reference   = [[Areocentric orbit]]
+| orbit_regime      = [[Circular orbit]]
+| orbit_periapsis   = {{cvt|250-320|km}}
+| orbit_apoapsis    = {{cvt|250-320|km}}
+| orbit_inclination = 74.0°
+| orbit_period      = 110.0 minutes
+| apsis             = areon
+
+| instruments       = 
+
+| insignia          = 
+| insignia_caption  = 
+| insignia_size     = 200px
+
+| programme         = [[Mars Exploration Program]]
+| previous_mission  = [[MAVEN]]
+| next_mission      = 
+}}
+
+The '''International-Mars Ice Mapper''' (I-MIM) mission is a proposed [[List of Mars orbiters|Mars orbiter]] being developed by [[NASA]] in collaboration with the [[JAXA|Japan Aerospace Exploration Agency]] (JAXA), the [[Canadian Space Agency]] (CSA), and the [[Italian Space Agency]] (ASI).<ref name="SN20210206"/> As the mission concept evolves, there may be opportunities for other space agency and commercial partners to join the mission.<ref name="NASA20210203"/> The goal of the orbiter is the quantification of extent and volume of water ice in non-polar regions of [[Mars]]. The results are intended to support future Mars missions, especially with respect to the search for habitable environments and accessible [[In situ resource utilization]] (ISRU) resources. The International-Mars Ice Mapper is an "exploration precursor mission", comparing it to the [[Lunar Reconnaissance Orbiter]] (LRO) mission.<ref name="SN20210206"/> The mission was envisioned to be launched as early as 2026.<ref name="NASA20210203">{{cite web |url=https://www.nasa.gov/feature/nasa-international-partners-assess-mission-to-map-ice-on-mars-guide-science-priorities|title=NASA, International Partners Assess Mission to Map Ice on Mars, Guide Science Priorities|publisher=NASA|date=3 February 2021|access-date=7 February 2021}} {{PD-notice}}</ref><ref name=":0">{{cite web |url=https://mepag.jpl.nasa.gov/meeting/2020-04/Day1/16_WATZIN-HALTIGIN-Ice%20Mapper_MEPAG_%20April%20152020_Final%20v2_post.pdf|title=Mars Exploration Ice Mapper|publisher=NASA|date=15 April 2020}} {{PD-notice}}</ref> However, in March 2022, it was revealed in its fiscal year 2023 budget proposal that the US government would terminate NASA financial support for the Mars Ice Mapper,<ref name="IceMapper">{{cite news |last1= Foust |first1= Jeff |title=White House requests $26 billion for NASA for 2023 |url=https://spacenews.com/white-house-requests-26-billion-for-nasa-for-2023/ |access-date=1 April 2022 |work=spacenews.com |date=28 March 2022 }}</ref> casting the project's future into uncertainty.
+
+== Mission ==
+The mission is to search for ice deposits under the surface of Mars, precursor for human missions there. By identifying locations where water ice may exist within 5-10 meters of the surface and thus could be accessed by crewed expeditions.<ref name="SN20210206"/> The mission plans to scan specific locations on the Martian surface below {{cvt|2|km}} [[elevation]] (to enable [[entry, descent and landing]]). The target areas for radar scans are between 25° and 40° northern [[latitude]] and 25° and 40° southern latitude. The upper limit of 40° was chosen to have favorable conditions for solar arrays. The lower bound of 25° is intended to maximize the proximity of locating ground ice (since availability of ground ice generally decreases toward the equator due to increased [[insolation]]).<ref name=":0"/>
+
+The ice-mapping mission could help the agency identify potential science objectives for initial [[Human mission to Mars|human missions to Mars]], which are expected to be designed for about 30 days of exploration on the surface. For example, identifying and characterizing accessible water ice could lead to human-tended science, such as ice coring to support the search for life. Mars Ice Mapper also could provide a map of water-ice resources for later human missions with longer surface expeditions, as well as help meet exploration engineering constraints, such as avoidance of rock and terrain hazards. Mapping shallow water ice could also support supplemental high-value science objectives related to [[Climatology of Mars|Martian climatology]] and [[Geology of Mars|geology]].<ref name="NASA20210203">{{cite web |url=https://www.nasa.gov/feature/nasa-international-partners-assess-mission-to-map-ice-on-mars-guide-science-priorities|title=NASA, International Partners Assess Mission to Map Ice on Mars, Guide Science Priorities|publisher=NASA|date=3 February 2021|access-date=7 February 2021}} {{PD-notice}}</ref>
+
+== Science ==
+Beyond promoting scientific observations while the orbiter completes its reconnaissance work, the agency partners will explore mission-enabling rideshare opportunities as part of their next phase of study. All science data from the mission would be made available to the international science community for both planetary science and Mars reconnaissance. This approach is similar to what NASA is doing at the Moon under the [[Artemis program]] – sending astronauts to [[Lunar south pole|lunar South Pole]], where ice is trapped in the permanently shadowed regions of the pole.<ref name="NASA20210203"/>
+ 
+Access to water ice would also be central to scientific investigations on the [[Martian surface|surface of Mars]] that are led by future human explorers. Such explorers may one day core, sample, and analyze the ice to better understand the record of climatic and geologic change on Mars and its [[Astrobiology|astrobiological]] potential, which could be revealed through signs of preserved ancient microbial life or even the possibility of living organisms, if Mars ever harbored life. Ice is also a critical natural resource that could eventually supply [[hydrogen]] and [[oxygen]] for fuel. These elements could also provide resources for backup life support, civil engineering, mining, manufacturing, and, eventually, agriculture on Mars. Transporting water from Earth to deep space is extremely costly, so a local resource is essential to sustainable surface exploration.<ref name="NASA20210203"/>
+ 
+"In addition to supporting plans for future human missions to Mars, learning more about subsurface ice will bring significant opportunities for scientific discovery", said Eric Ianson, NASA Planetary Science Division Deputy Director and Mars Exploration Program Director. "Mapping near-surface water ice would reveal an as-yet hidden part of the [[Martian hydrosphere]] and the layering above it, which can help uncover the history of environmental change on Mars and lead to our ability to answer fundamental questions about whether Mars was ever home to microbial life or still might be today".<ref name="NASA20210203"/>
+ 
+Mars has been a primary target for robotic exploration and the search for ancient life in our [[Solar System]]. Mars Ice Mapper would complement surface missions on the planet, including the Perseverance rover that landed on February 18, 2021, following a seven-month journey in space. NASA and the [[European Space Agency]] (ESA) also recently announced they are moving forward with the [[Mars sample-return mission]].<ref name="NASA20210203"/>
+
+== Spacecraft ==
+The CSA would provide the radar instrument, JAXA the spacecraft bus and ASI the communications subsystem for the spacecraft. NASA would be responsible for overall mission management and for providing the launch of the spacecraft. The mission will cost US$185 million.<ref name="SN20210206">{{cite web|url=https://spacenews.com/nasa-and-international-partners-to-study-mars-ice-mapper-mission/|title=NASA and international partners to study Mars Ice Mapper mission|publisher=SpaceNews|date=6 February 2021|access-date=7 February 2021}}</ref>
+
+NASA included an illustration of Mars Ice Mapper communicating with three spacecraft in Mars orbit, acting as [[Communications satellite|communications relays]] back to [[Earth]].  The agency has previously discussed developing a communications satellite network at Mars, perhaps through public-private partnerships, to support Mars Ice Mapper.<ref name="SN20210206"/>
+
+== Instrument ==
+The mission concept plans to utilize [[Synthetic-aperture radar]], based on technology used by the Canadian [[RADARSAT Constellation|RADARSAT satellite constellation]].<ref name=":0"/>
+
+The radar has the following technical specification:<ref name=":0"/>
+* Frequency: 900 MHz
+* Antenna: [[Parabolic antenna]] with 6 meters diameter deployed on orbit
+* Energy consumption: between 500 and 1000 watts
+* Polarization: hybrid (circular transmit, dual linear reception)
+* Two modes: SAR mode and Sounder mode
+* SAR mode: map swath width 30 km, penetration depth 6 m
+* Sounder mode: vertical resolution 1 m, along-track resolution: 30 m, across-track resolution: 1,5 km
+
+== See also ==
+{{Portal|Spaceflight}}
+* [[Mars sample-return mission]]
+
+== References ==
+{{Reflist|30em}}
+
+{{Mars spacecraft}}
+
+[[Category:Space]]

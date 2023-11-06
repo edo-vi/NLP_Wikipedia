@@ -1,0 +1,43 @@
+[[File:Panoram2.jpg|thumb|Exterior of a Mills Panoram]]
+[[File:Panoram5.jpg|thumb|Interior of a Mills Panoram]]
+[[File:Panoram8.jpg|thumb|Top Advertising Banner on a Panoram]]
+'''Panoram''' was the [[trademark]] name of a visual [[jukebox]] that played short-filmed musicals (the effect being the equivalent of 1980s music videos) popular within the [[United States]] during the 1940s. It was conceived and produced by the [[Mills Novelty Company]] under several patents, including 123,473 and 2,286,200,<ref>{{cite patent
+| country = US
+| number = 123473
+| status = patent
+| title = Cabinet For Sound Picture Machine Or The Like
+| fdate = 1940-08-26
+| gdate = 1940-11-12
+| invent1 = Eckland
+| assign1 = Mills Novelty Company
+}}
+</ref><ref>{{cite patent
+| country = US
+| number = 2286200
+| status = patent
+| title = Endlesss Film Reeling Device For Motion Picture Projectors
+| fdate = 1939-11-30
+| gdate = 1942-06-16
+| invent1 = Dollnig
+| assign1 = Mills Novelty Company
+}}
+</ref> which involve the cabinet design and endless reel workings. Development took place in the late 1930s with production and sales beginning in 1940.<ref name="three">{{cite magazine |author=<!--Staff writer(s); no by-line.--> |title= Biggest Hollywood Kick-Off Meeting for Mills Panoram and Soundies | url= https://aa.arcade-museum.com/Automatic-Age-1940-10/25/ |magazine= Automatic Age|location= Chicago|publisher= Lightner Publishing |date= October 1940}}</ref> A Grand Premiere took place on September 16-19, 1941, in [[Hollywood, California]].<ref>{{cite magazine |author=<!--Staff writer(s); no by-line.--> |title= Come to Hollywood | url= https://aa.arcade-museum.com/Automatic-Age-1940-09/18/ |magazine= Automatic Age|location= Chicago|publisher= Lightner Publishing |date= September 1940}}</ref> The company wrote over $3 million in Panoram orders that week.<ref name="three" /> The Panoram used [[RCA]] projectors, amplifiers, and speakers. The successful launch of the Panoram allowed for the largest single order of these RCA products up to that time.<ref>{{cite magazine |author=<!--Staff writer(s); no by-line.--> |title= Mills Signs Order | url= https://aa.arcade-museum.com/Automatic-Age-1940-12/19/ |magazine= Automatic Age|location= Chicago|publisher= Lightner Publishing |date= December 1940}}</ref> 
+
+A Panoram measured {{convert|82|in|cm|abbr=on}} tall by {{convert|36|in|cm|abbr=on}} wide by {{convert|32|in|cm|abbr=on}} deep, and employed a series of mirrors to reflect the image from a projector onto a {{convert|27|in|cm|adj=on}}, rear-projection, [[ground glass|ground-glass]] screen in a tight, enclosed cabinet. Costing $1,000 to end-use locations (or $695 to regional distributors),<ref name="three" /> the popular machines found their way into countless soda shops, taverns, bus and train stations, and other public places across America. The specially made [[16 mm film]]s ran in a continuous loop and stopped when a notch cut at the end of each film tripped a microswitch, engaging a step-back relay.<ref>{{cite book |author=Staff|date= 1940 |title= Mills Panoram Service Manual |location= Long Island, NY |publisher= Mills Industries }}</ref> The patron could put up to twenty dimes in the machine at a time. However, the Panoram had no selector mechanism, so there was no choice of film title. The patron would see whatever film was next in the queue. The Panoram mechanics were housed in an [[Art Deco]] design, high-quality wood cabinet. This cabinet included an advertising banner located at the top of the unit. This banner rotated through a series of rollers, driven by a motor, and was backlit. Color cylinders also rotated behind the screen creating colored flashes on the screen while the unit was not being played. When a patron inserted a dime, power to both the banner and colored lights was interrupted and power was applied to the [[projector]] and [[amplifier]], thereby initiating play.
+
+With the beginning of [[World War II]], production of the Panoram machines was drastically reduced due to a wartime shortage of raw materials, and the Mills Panoram's 1940 success started to fade.<ref name="one">{{cite book|first1=Scott|last1=MacGillivray|authorlink1=Scott MacGillivray|first2=Ted|last2=Okuda|authorlink2=Ted Okuda|title=The Soundies Book: A Revised and Expanded Guide|publisher=iUniverse|year=2007|isbn=978-0595679690}}</ref> [[Soundies]] (the 16mm media used in the Panoram) continued to be produced and distributed to Panoram locations until 1947. By then, the novelty of the visual jukebox was compromised owing to the availability of the [[television]]. Panoram machines were repurposed as educational film-playing units or, more commonly, as adult [[peep shows]]. The latter caused the introduction of regulation of Panorams to control placement of the units in many cities.<ref>{{cite act |type= Ordinance |date= July 16, 1996 |legislature= City of Sumner, Washington |title= Ordinance No. 1767 |url=https://sumner.civicweb.net/document/2164}}</ref><ref>{{cite act |type= Regulation |date= June 6, 2005 |legislature= Honolulu, HI |title= Janra Enterprises v. City of Honolulu |url=https://casetext.com/case/janra-enterprises-v-city-of-honolulu}}</ref>
+
+The Panoram is now best known for the vast library of short, three-minute music videos that were created for it. Called [[Soundies]],<ref name="one" /> these films featured many of the great musical stars of the period, including [[Duke Ellington]], [[Count Basie]], and [[Cab Calloway]]. Most of the approximately 1800 Soundies films survive and are considered a priceless archive of 1940s popular music and performers. The Soundies films were printed backwards (mirror image) so that they would appear in a correct orientation when played in a Panoram machine. Several of the short films were wound on a roll and delivered to Panoram-hosted locations as replacement media. In this manner, new Soundies could be viewed at the location and the entertainment would remain fresh. Many Soundies can be viewed on [[YouTube]] today, including some by bandleader [[Al Donahue]], who made 7 or 8 of the first Soundies at [[Radio City Music Hall]].
+
+The basic concept behind the Panoram would be revived in the early 1960s with the [[Scopitone]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.millspanoram.com/ Mills Panoram] – A site for information and parts for the Panoram
+
+[[Category:Visual music]]
+[[Category:Art Deco]]
+[[Category:Jukeboxes]]
+[[Category:Music videos]]

@@ -190,6 +190,8 @@ In essence, AI alignment is not a static destination but an open, flexible proce
 * {{cite arXiv |last1=Ji |first1=Jiaming |last2=Qiu |first2=Tianyi |last3=Chen |first3=Boyuan |display-authors=1 |title=AI Alignment: A Comprehensive Survey |date=2023 |class=cs.AI |eprint=2310.19852 }}
 
 == See also ==
+
+{{div col|colwidth=20em}}
 * [[AI safety]]
 * [[Artificial intelligence detection software]]
 * [[Statement on AI risk of extinction]]
@@ -204,6 +206,7 @@ In essence, AI alignment is not a static destination but an open, flexible proce
 * [[Open Letter on Artificial Intelligence]]
 * [[Toronto Declaration]]
 * [[Asilomar Conference on Beneficial AI]]
+{{div col end}}
 
 == Footnotes ==
 {{Notelist}}

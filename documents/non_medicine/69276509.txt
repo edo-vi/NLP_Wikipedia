@@ -1,0 +1,17 @@
+{{Short description|Jupiter's South pole}}
+[[File:PIA21641-Jupiter-SouthernStorms-JunoCam-20170525.jpg|thumb|Photo of Jupiter's South Pole taken by the JunoCam on May 25, 2017]]
+For the first time the '''South Pole of Jupiter''' was photographed in detail by the [[Juno (spacecraft)|Juno spacecraft]], which arrived to [[Jupiter]] in July 2016 and for the first time in history entered the [[polar orbit]] of Jupiter. At the same time, six cyclones were discovered at the South Pole:<ref>{{Cite web|date=2019-12-22|title=Don't miss these cyclones on Jupiter, and more {{!}} Space {{!}} EarthSky|url=https://earthsky.org/space/jupiter-juno-cyclones-images-dec-2019/|access-date=2021-11-15|website=earthsky.org|language=en-US}}</ref> Оne in the center and five around it (their centers formed a close to regular pentagon), each about 4,500 km (2,800 mi.) in diameter, with a wind speed of about 360 km/h (220 mph), and all of them twisted clockwise. A similar picture at the [[Jupiter's North Pole|North Pole of Jupiter]] presents nine cyclones of similar size: one in the center, and eight around it, rotating counterclockwise. 
+
+For more than three years the structure of cyclones at both poles of the nearest to us [[gas giant]] remained stable, but on November 3, 2019, on the 22nd rotation, "Juno" found the birth of a new cyclone at the South Pole: it quickly "pushed" the previous (although still has a smaller size, about 800 km), and now the centers of peripheral cyclones pole form almost right 6-corner.<ref>{{Cite web|title=Аппарат Juno НАСА обнаруживает новые циклоны на Юпитере|url=https://astronews.ru/cgi-bin/mng.cgi?page=news&news=20191213123552|access-date=2021-11-15|website=astronews.ru}}</ref>
+
+Before Juno, only the [[Galileo project|Galileo]] probe entered Jupiter's orbit from 1995 to 2003; however, its orbital inclination made it impossible to observe the polar regions of Jupiter; [[Cassini–Huygens|Cassini]], which flew past Jupiter in 2000, also had no opportunity to photograph the polar regions. Thus, they remained "white spots" until 2016 (the images of the previous flyby missions and Earth telescopes had low resolution); however, back in 2000, the polar X-ray spots of Jupiter (the southern one is significantly weaker than the northern one) were detected. 
+
+Jupiter's geographic South Pole is also the location of its [[Magnetosphere of Jupiter|magnetic South Pole]] (Jupiter does not have a well-defined magnetic North Pole).<ref>{{Cite web|date=2018-09-06|title=У магнитного поля Юпитера не нашлось Северного полюса|url=https://naked-science.ru/article/sci/u-magnitnogo-polya-yupitera-ne-nashlos|access-date=2021-11-15|website=Naked Science}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Jupiter}}{{Space-stub}}
+[[Category:Jupiter]]
+[[Category:Solar System]]
+[[Category:Space]]

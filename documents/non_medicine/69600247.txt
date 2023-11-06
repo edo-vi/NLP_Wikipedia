@@ -1,0 +1,99 @@
+{{Short description|Public research center in Lowell, Massachusetts, U.S.}}
+{{Infobox institute
+| name              = Lowell Center for Space Science & Technology
+| image             = 
+| image_size        = 
+| image_upright     = 
+| image_alt         = 
+| caption           = 
+| latin_name        = 
+| other_name        =
+| motto             = 
+| mottoeng          = 
+| parent            = [[University of Massachusetts, Lowell]]
+| founder           = 
+| established       = 
+| mission           = 
+| focus             = 
+| president         = Space science and technology
+| chairman          = 
+| head_label        = Director
+| head              = Supriya Chakrabarti
+| faculty           = 9 
+| adjunct_faculty   = 
+| staff             = 
+| key_people        = 
+| budget            = 
+| endowment         = 
+| debt              = 
+| num_members       = 
+| subsidiaries      = 
+| owner             = 
+| slogan            = 
+| former_name       = 
+| address           = Wannalancit Mills, Suite 315
+600 Suffolk Street
+| location          = 
+| city              = [[Lowell, Massachusetts|Lowell]]
+| state             = 
+| province          = [[Massachusetts]]
+| country           = 
+| coordinates       = <!-- or |coor= -->
+| website           = [https://www.uml.edu/Research/LoCSST/ Lowell Center for Space Science & Technology]
+| dissolved         = 
+| footnotes         = 
+}}
+
+'''Lowell Center for Space Science & Technology''' (abbreviated as '''LoCSST''') is a [[Public university|public]] [[research centre]] in [[Lowell, Massachusetts]], affiliated by [[University of Massachusetts Lowell]].<ref>{{Cite web|url=https://www.uml.edu/Research/LoCSST/|title=Lowell Center for Space Science & Technology &#124; UMass Lowell|website=www.uml.edu}}</ref> The research centre has partners and grants from research giants like [[National Aeronautics and Space Administration|NASA]], National Science Federation, BoldlyGo institute for its excellence in Space science research.<ref>{{Cite web|url=https://www.uml.edu/Research/LoCSST/Sponsors.aspx|title=Sponsors & Collaborators &#124; UMass Lowell|website=www.uml.edu}}</ref>
+
+==Faculty==
+*Supriya Chakrabarti, Ph.D., Professor of UMass Lowell and Director of the institute, faculty on Physics and applied physics.<ref name="auto2">{{Cite web|url=https://www.uml.edu/Research/LoCSST/faculty-staff/|title=Meet Our Faculty &#124; Lowell Center for Space Science & Technology &#124; UMass Lowell|website=www.uml.edu}}</ref> 
+*Dimitris Christodoulou, Assistant Teaching Professor, faculty on Mathematical Science<ref name="auto2"/> 
+*Ofer Cohen, excels in the field of Computational plasma physics, Computational methods, Magnetohydrodynamics<ref name="auto2"/> 
+*Timothy Cook, Associate Professor in Physics; works on Visible & ultraviolet instrumentation, Sounding rockets, Small satellites, Tomography & other novel data analysis techniques<ref name="auto2"/> 
+*Christopher Hansen, Chair, UMass Lowell SHAP3D Site Director, Associate Professor of Mechanical Engineering; works on Materials science, self-healing materials, additive manufacturing (i.e. 3D printing) techniques<ref name="auto2"/> 
+*Silas Laycock, Associate Professor in Physics; works on Neutron stars and black holes in X-ray binaries, pulsars, multi wavelength  astronomy, time domain astrophysics.<ref name="auto2"/> 
+*Marianna Maiaru, Assistant Professor of Mechanical Engineering<ref name="auto2"/> 
+*Ramaswamy Nagarajan, Co-Director of HEROES; works on Biocatalysis, greener advanced materials (electronic, photo-responsive polymers, molecularly integrated hybrid nanomaterials, materials for energy conversion/storage), elastomers, thermal & morphological characterization of materials, roll to roll manufacture of flexible electronic products<ref name="auto2"/> 
+*Jay Weitzen, Professor of Electrical & Computer Engineering and Wireless Communication<ref name="auto2"/>
+
+==Research==
+The institute has or had worked on numerous topics or projects.<ref>{{Cite web|url=https://www.uml.edu/Research/LoCSST/Research/|title=Research Areas &#124; Lowell Center for Space Science & Technology &#124; UMass Lowell|website=www.uml.edu}}</ref> 
+*Experimental astronomy and space physics.
+*Observational Astronomy
+*Research on X-ray Binary Pulsars, based 
+*Black Hole High mass X-ray Binary
+*Computational Astrophysics and Space Physics
+
+===Projects===
+*'''PICTURE C'''
+
+PICTURE C stands for  ''Planetary Imaging Concept Testbed Using a Recoverable Experiment – Coronagraph''. NASA awarded Chakrabarti's team a $5.6 million grant to develop and test PICTURE C. It was the largest grant up to then. The system potentially can detect young, Jupiter-size planets orbiting other sun-like stars in the Milky Way, capable of supporting life, by studying the disk of dust, asteroids, planets and other debris orbiting the stars and gain a better understanding of the processes and dynamics that formed solar system.<ref name="auto">{{cite web|url=https://web.physics.ucsb.edu/~bmazin/projects/picturec.html|title=Mazin Lab|access-date=2023-08-18}}</ref> PICTURE C is carried aloft to the edge of Earth's atmosphere, using huge helium balloons. Under Dr. Chakrabarti, PICTURE C made its first test flight in September 2019. The 'balloon lofted camera' instrument inflates to {{convert|400|ft|m|abbr=off|sp=us}} across and takes 3 hours to climb to an altitude of about {{convert|127,000|ft|km|abbr=off|sp=us}} and then hovers. The success of PICTURE-C test launch, makes space-based direct imaging a reality and helps NASA's Wide Field Infrared Survey Telescope (WFIRST) with such technological support.<ref>{{Cite web|url=https://www.space.com/hunting-alien-alien-solar-systems-balloon-picture-c-camera.html|title=Balloon-lofted camera built to hunt alien worlds aces first flight|first=Meghan|last=Bartels|date=February 2, 2020|website=Space.com}}</ref> Members associated with the project are Supriya Chakraborti, Timothy Cook, Kuravi Hewawasam, Susanna Finn and Christopher Mendillo. Other collaborations were made from NASA's Jet Propulsion Laboratory, Goddard Space Flight Center, Caltech, MIT, the Space Telescope Science Institute and the University of California Santa Barbara.<ref name="auto"/>
+
+*'''Project Blue'''
+Project Blue aims to design, build and launch a small and lightweight space telescope to detect habitable planets around the nearest star [[Alpha Centauri]]. LCSST team develops instrumentation for direct imaging of exoplanets in this project. The project is also associated with The BoldlyGo Institute, [[SETI Institute]] and Mission Centaur.
+
+*'''SPACE HAUC project'''
+The Science Program Around Communication Engineering with High Achieving Undergraduate Cadres Project or SPACE HAUC project provides multi-disciplinary undergraduate students with hands-on training in designing and building space-flight missions. NASA released the Undergraduate Student Instrument Project (USIP) and Student Flight Research Opportunity (SFRO) in August 2015 and LCSST sent a proposal that was accepted under the program.<ref name="auto1">{{Cite web|url=https://www.uml.edu/research/locsst/research/spacehauc/about.aspx|title=About SPACE HAUC &#124; Research &#124; Lowell Center for Space Science & Technology &#124; UMass Lowell|website=www.uml.edu}}</ref> The project was selected in 2017 by NASA's CubeSat Launch Initiative (CSLI) to be launched as part of the ELaNa program.<ref>{{Cite web|url=https://space.skyrocket.de/doc_sdat/space-hauc.htm|title=SPACE-HAUC|website=Gunter's Space Page}}</ref>
+Dr. Chakrabarti mentors more than 75<ref name="auto1"/> undergraduate students from the Kennedy College of Sciences and the Francis College of Engineering for the project. The team's goal is to design and build a small cube satellite that will be launched by NASA into the orbit. NASA has awarded the team $200,000 to develop and test a prototype satellite, called SPACE HAUC-1, which is the UMass Lowell's first mission to go around the Earth.<ref>{{Cite web|url=https://www.uml.edu/profiles/supriya-chakrabarti.aspx|title=Supriya Chakrabarti &#124; UMass Lowell|website=www.uml.edu}}</ref> The program is designed to demonstrate the practicality of communicating at high data rates in the X band. 
+SPACE HAUC was expected to launch in 2018, later postponed to 2020.<ref>{{Cite web|url=https://www.nanosats.eu/sat/space-hauc-1.html|title=SPACE HAUC 1 @ Nanosats Database|first=Erik|last=Kulu|website=Nanosats Database}}</ref> The satellite has successfully passed design review and is under the testing phase. After final assembly and integration of the spacecraft, SPACE HAUC is expected launch to the ISS for further deployment.<ref name="auto1"/>
+*'''PICTURE B'''<ref>{{Cite web|url=https://www.uml.edu/Research/LoCSST/Research/Picture-B.aspx|title = Picture-B &#124; Lowell Center for Space Science & Technology &#124; UMass Lowell}}</ref> 
+*'''IMAGERII'''<ref>{{cite web|url=https://www.uml.edu/docs/IMAGER_aas224vert_tcm18-251325.pdf|title=Engimatic Extinction: An Investigation of the 2175Å Extinction Bump in M101|access-date=2023-08-18}}</ref>
+
+==Facilities ==
+*The library contains source specific event files (gti and barycenter corrected), source images, light curves (in three different energy bands titled soft, broad and hard), spectra, periodograms, and pulse profiles on different projects. It also contains data of six X-ray telescope missions (~2000 pointed observations) namely, XMM-Newton, RXTE, Chandra, NuSTAR, NICER and Suzaku, spanning across a period of two decades up until 2019.<ref>{{Cite web|url=https://www.uml.edu/Research/LoCSST/Research/Observational-Astronomy/database-library.aspx|title=Database Library &#124; Research &#124; Lowell Center for Space Science & Technology &#124; UMass Lowell|website=www.uml.edu}}</ref> 
+*An Astronomical Observatory is located on South Campus named UMass Lowell Schueller Observatory.<ref>{{Cite web|url=https://www.uml.edu/Research/Observatory/|title=Astronomical Observatory &#124; UMass Lowell|website=www.uml.edu}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.uml.edu/Research/LoCSST/ Official website]
+
+[[Category:Research institutes in Massachusetts]]
+[[Category:Astronomy]]
+[[Category:Space]]
+[[Category:Astronomy institutes and departments]]
+[[Category:Astrophysics research institutes]]
+[[Category:Organizations based in Lowell, Massachusetts]]
+{{DEFAULTSORT:Lowell Center for Space Science and Technology}}

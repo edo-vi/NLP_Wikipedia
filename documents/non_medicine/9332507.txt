@@ -1,0 +1,39 @@
+[[File:Gottfried Wilhelm Leibniz, Bernhard Christoph Francke.jpg|thumb|Gottfried Wilhelm Leibniz]]
+[[Image:Samuel Clarke.jpg|thumb|Samuel Clarke]]
+The '''Leibniz–Clarke correspondence''' was a [[scientific]], [[theological]] and [[philosophical]] [[debate]] conducted in an exchange of letters between the [[Germany|German]] thinker [[Gottfried Wilhelm Leibniz]] and [[Samuel Clarke]], an [[England|English]] supporter of [[Isaac Newton]] during the years 1715 and 1716.  The exchange began because of a letter Leibniz wrote to [[Caroline of Ansbach]], in which he remarked that Newtonian physics was detrimental to [[natural theology]].  Eager to defend the Newtonian view, Clarke responded, and the correspondence continued until the death of Leibniz in 1716.<ref>Rowe, p. 8</ref>
+
+Although a variety of subjects are touched on in the letters, the main interest for modern readers is in the dispute between the [[Absolute time and space|absolute]] theory of [[space]] favoured by Newton and Clarke, and Leibniz's [[Relational space|relational]] approach.  Also important is the conflict between Clarke's and Leibniz's opinions on [[free will]] and whether God must create the [[best of all possible worlds]].<ref>Rowe, p. 4</ref>
+
+Leibniz had published only one book on moral matters, the ''[[Theodicy|Theodicée]]'' (1710), and his more metaphysical views had never been exposed to a sufficient extent, so the collected letters were met with interest by their contemporaries. The primary dispute between [[Leibniz and Newton calculus controversy|Leibniz and Newton about calculus]] was still fresh in the public's mind and it was taken as a matter of course that it was Newton himself who stood behind Clarke's replies.
+
+==Editions==
+The Leibniz-Clarke letters were first published under Clarke's name in the year following Leibniz's death.<ref>''A Collection of Papers, which passed between the late Learned Mr. Leibniz, and Dr. Clarke, In the Years 1715 and 1716'', by Samuel Clarke D.D. (London:  James Knapton, 1717)</ref> Clarke wrote a preface, took care of the translation from French, added notes and some of his own writing. In 1720 [[Pierre Desmaizeaux]] published a similar volume in a French translation,<ref>''Recueil de pièces diverses sur la philosophie la religion et l'histoire par Leibniz, Clarke et Newton'', publiées par Pierre Desmaizeaux, Amsterdam, 1720</ref> including quotes from Newton's work. It is quite certain that for both editions the opinion of Newton himself has been sought and Leibniz left at a disadvantage.<ref>Bertoloni-Melli D., ''Newton and the Leibniz-Clarke correspondence'',  The Cambridge Companion to Newton, eds. I. B. Cohen and G. E. Smith, Cambridge University Press,  2002.</ref>  However the German translation of the correspondence published by Kohler, also in 1720,<ref>''Merckwurdige Schriften welche . . . zwischen dem Herrn Baron von Leibniz und dem Herrn D. Clarke über besondere Materien der naturlichen Religion'' in Franzos. und Englischer Sprache gewechselt und . . . in teutscher Sprache herausgegeben worden von Heinrich Kohler, Frankfurt and Leipzig (Jena), 1720: there was a preface by [[Christian Wolff (philosopher)|Christian Wolff]] and a reply to Clarke's last letter in  behalf of Leibniz by Ludwig Philipp Thümmig; it appeared also in the Latin translation from 1740.</ref> contained a reply to Clarke's last letter which Leibniz had not been able to answer, due to his death. The letters have been reprinted in most collections of Leibniz's works and regularly published in stand-alone editions.<ref>A full list is given in Alexander H., ''The Leibniz-Clarke Correspondence'',  with extracts from Newton's ''Principia'' and ''Opticks'', edited with an introduction and notes, Manchester, 1955 (and reeditions); for a more recent edition see e.g.
+''G. W. Leibniz and Samuel Clarke: Correspondence'', Edited, with Introduction, by Roger Ariew, Hackett Publishing Co. Inc. Indianapolis/Cambridge, 2000.</ref>
+
+==See also==
+*[[Philosophy of space and time]]
+*[[Principle of sufficient reason]]
+
+==Notes==
+<references/>
+
+==References==
+* G.V. Leroy, ''Die philosophische Probleme in dem Briefwechsel Leibniz und Clarke'', Giessen, 1893.
+*{{cite book|last1=Vailati|first1=Ezio |title=Leibniz and Clarke: A Study of Their Correspondence|location=Oxford and New York|publisher=[[Oxford University Press]]|year=1997|isbn= 9780195113990}}
+*[[Rowe, William L.]], "Can God Be Free?", Oxford UP, 2004. {{ISBN|0198250452}}.
+
+==External links==
+* [https://web.archive.org/web/20110721021001/http://www.newtonproject.sussex.ac.uk/catalogue/viewcat.php?id=THEM00224 Complete transcription of the 1717 edition at The Newton Project]
+* [http://plato.stanford.edu/entries/divine-freedom/ Stanford encyclopedia of philosophy - Divine Freedom]
+
+{{Gottfried Wilhelm Leibniz}}
+
+{{DEFAULTSORT:Leibniz-Clarke correspondence}}
+[[Category:1715 documents]]
+[[Category:1716 documents]]
+[[Category:Philosophical debates]]
+[[Category:Historical physics publications]]
+[[Category:Space]]
+[[Category:Correspondences]]
+[[Category:Works by Gottfried Wilhelm Leibniz]]
+[[Category:Caroline of Ansbach]]
