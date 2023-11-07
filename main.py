@@ -1160,7 +1160,7 @@ def logistic_regressor(validation=False):
 
         y_validation = __validation_data__.pop("c")
         X_validation = __validation_data__
-        __validation_data__.drop("id", inplace=True, axis=1)
+        X_validation.drop("id", inplace=True, axis=1)
 
         logistic = LogisticRegression("l2")
         fitted = logistic.fit(X_training, y_training)
@@ -1176,7 +1176,8 @@ def logistic_regressor(validation=False):
         fitted = logistic.fit(X_training, y_training)
 
         yhat = fitted.predict(X_test)
-
+        proba = fitted.predict_proba(X_test)
+        # print(proba)
         precision = round(precision_score(y_test, yhat), 3)
         recall = round(recall_score(y_test, yhat), 3)
         f1 = round(f1_score(y_test, yhat), 3)
