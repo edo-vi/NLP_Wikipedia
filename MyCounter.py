@@ -2,6 +2,7 @@ from collections import Counter
 import numpy as np
 import nltk
 from nltk.stem.snowball import EnglishStemmer
+from nltk.stem import WordNetLemmatizer
 import re
 
 
@@ -11,6 +12,7 @@ class MyCounter:
         tokens = [t.lower() for t in tokens]
         self.counts = Counter(tokens)
         self.stemmer = EnglishStemmer()
+        self.lemmatizer = WordNetLemmatizer()
 
     def update(self, other_counter):
         self.counts = self.counts + other_counter.counts
@@ -69,6 +71,8 @@ class MyCounter:
         return self
 
     def stem(self):
+        return self.lemmatize()
+
         self._stemmed = True
 
         stems = dict()
@@ -76,6 +80,22 @@ class MyCounter:
             value = self.counts[word]
 
             stemmed = self.stemmer.stem(word).lower()
+            if stemmed in stems.keys():
+                value += stems[stemmed]
+            stems[stemmed] = value
+        del self.counts
+        self.counts = Counter(stems)
+
+        return self
+
+    def lemmatize(self):
+        self._stemmed = True
+
+        stems = dict()
+        for word in self.counts.keys():
+            value = self.counts[word]
+
+            stemmed = self.lemmatizer.lemmatize(word)
             if stemmed in stems.keys():
                 value += stems[stemmed]
             stems[stemmed] = value
