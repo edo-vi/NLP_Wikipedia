@@ -1,9 +1,4 @@
 import requests
-from lxml import html
-import numpy as np
-
-np.random.seed(10)
-
 
 def get_ids(url, categories):
     returned_ids = []

@@ -14,8 +14,8 @@ from sklearn.linear_model import LogisticRegression
 from MyCounter import MyCounter
 from ids import __M_IDS__, __NON_M_IDS__
 
-# nltk.download('punkt')
-# nltk.download("stopwords")
+nltk.download('punkt')
+nltk.download("stopwords")
 nltk.download("wordnet")
 
 np.random.seed(10)
@@ -64,7 +64,7 @@ def make_labels(medical_ids, non_medical_ids):
     return labels
 
 
-def produce_documents(ids, kind):
+def download_documents(ids, kind):
     for id in ids:
         new_params = {
             "format": "json",
@@ -86,7 +86,7 @@ def produce_documents(ids, kind):
             print(f"||Failed at id {id}||")
 
 
-def clean_doc(string):
+def clean_string(string):
     string = re.sub("<ref.*?</ref>", "", string)  # removes refs
     string = re.sub("<ref.*?/>", "", string)  # idem
     string = re.sub("{.*?}", "", string)  # removes "{...}"
@@ -122,7 +122,7 @@ def clean_documents(folder):
             with open(file, "r") as f:
                 lines = f.readlines()
                 for l in lines:
-                    new_lines.append(clean_doc(l))
+                    new_lines.append(clean_string(l))
             f_path = file.split(".")[0]
             new_path = f"../{f_path}_c.txt"
             with open(new_path, "w") as fw:
@@ -350,5 +350,5 @@ def logistic_regressor(validation=False, plot=False):
             plt.show()
 
 
-# naive_bayes()
+naive_bayes()
 logistic_regressor(validation=True, plot=True)
