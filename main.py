@@ -16,7 +16,7 @@ from ids import __M_IDS__, __NON_M_IDS__
 
 # nltk.download('punkt')
 # nltk.download("stopwords")
-# nltk.download("wordnet")
+nltk.download("wordnet")
 
 np.random.seed(10)
 url = "https://en.wikipedia.org/w/api.php"
