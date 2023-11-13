@@ -46,12 +46,12 @@ class MyCounter:
 
     def freq(self, word, laplace_correction=True):
         n_w = self.counts[word]
-        V = self.N()
+        N = self.N()
 
         if laplace_correction:
-            return (n_w + 1) / (V + self.V())
+            return (n_w + 1) / (N + self.V())
         else:
-            return (n_w) / V
+            return (n_w) / N
 
     # Compute the log likelihood sum of all the words in 'this', based on the counts of other_document
     def log_likelihood_sum(self, other_document):
