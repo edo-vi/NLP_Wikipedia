@@ -1,19 +1,15 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 import requests
 import os
 import re
-import nltk
-from nltk.lm import NgramCounter
-from nltk.util import ngrams
-from collections import Counter
+
 from sklearn.metrics import RocCurveDisplay, precision_score, recall_score, f1_score
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from MyCounter import MyCounter
 from ids import __M_IDS__, __NON_M_IDS__
-
+import nltk
 nltk.download('punkt')
 nltk.download("stopwords")
 nltk.download("wordnet")
@@ -145,12 +141,11 @@ def make_bow(id):
             tokens = tokens + tok
 
         # print(tokens)
+
         counts = MyCounter(tokens)
-
-        counts2 = counts.remove_stopwords()
-
-        counts3 = counts2.stem()
-        return counts3
+        counts_stopped = counts.remove_stopwords()
+        counts_lemmatized = counts_stopped.lemmatize()
+        return counts_lemmatized
 
 
 def predict_and_score(ids, labels, priors, m_doc, nm_doc):
@@ -177,6 +172,7 @@ def predict_and_score(ids, labels, priors, m_doc, nm_doc):
 
 
 def naive_bayes():
+    print("_____ NAIVE BAYES _____")
     labels = make_labels(__M_IDS__, __NON_M_IDS__)
     medical_training_set, non_medical_training_set = get_training_ids()
     medical_validation_set, non_medical_validation_set = get_validation_ids()
@@ -243,6 +239,7 @@ def make_dataset(kind, ids, labels, most_common):
 
 
 def logistic_regressor(validation=False, plot=False):
+    print("_____ LOGISTIC REGRESSOR _____")
     labels = make_labels(__M_IDS__, __NON_M_IDS__)
     # Set to be used as training and testing
     medical_set, non_medical_set = get_training_ids()
@@ -270,7 +267,7 @@ def logistic_regressor(validation=False, plot=False):
     non_m_common = [a[0] for a in non_medical_mega_document.most_common(150)]
 
     common = m_common + non_m_common
-    """
+    
     make_dataset(
         "training", medical_training_set + non_medical_training_set, labels, common
     )
@@ -281,7 +278,7 @@ def logistic_regressor(validation=False, plot=False):
         labels,
         common,
     )
-    """
+    
     # print(common)
     training_data = pd.read_csv("./training_dataset.csv")
     test_data = pd.read_csv("./test_dataset.csv")
@@ -296,7 +293,6 @@ def logistic_regressor(validation=False, plot=False):
     X_test.drop("id", inplace=True, axis=1)
 
     if validation:
-        print("== Validation set ==")
         # Train on training + test and predict validation set
         X_training = pd.concat([X_training, X_test])
         y_training = pd.concat([y_training, y_test])
@@ -314,6 +310,7 @@ def logistic_regressor(validation=False, plot=False):
         recall = round(recall_score(y_validation, yhat), 3)
         f1 = round(f1_score(y_validation, yhat), 3)
         print(f"Precision: {precision}, Recall: {recall}, F1: {f1}")
+        print("(used Validation set)")
         if plot:
             RocCurveDisplay.from_estimator(
                 fitted, X_validation, y_validation, plot_chance_level=True
