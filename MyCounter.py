@@ -33,9 +33,11 @@ class MyCounter:
     def contains(self, word):
         return word in self.counts
 
+    # Number of running words in total
     def N(self):
         return np.array(list(self.counts.values())).sum()
 
+    # Number of unique words, i.e. the size of the dictionary
     def V(self):
         return len(self.counts.keys())
 
@@ -51,10 +53,11 @@ class MyCounter:
         else:
             return (n_w) / V
 
-    def log_likelihood_document(self, other):
+    # Compute the log likelihood sum of all the words in 'this', based on the counts of other_document
+    def log_likelihood_sum(self, other_document):
         ll = 0
         for word in self.counts:
-            ll += other.log_likelihood(word)
+            ll += other_document.log_likelihood(word)
         return ll
 
     def remove_stopwords(self):
@@ -67,7 +70,7 @@ class MyCounter:
             else:
                 new_counts[word] = self.counts[word]
         del self.counts
-        self.counts = new_counts
+        self.counts = Counter(new_counts)
         return self
 
     def stem(self):
@@ -96,9 +99,12 @@ class MyCounter:
             value = self.counts[word]
 
             stemmed = self.lemmatizer.lemmatize(word)
+            # Could already be present in the temporary dictionary: add the previous value to
+            # the counts and then (line 104) update stems[stemmed] with the value (if already present it gets overwritten)
             if stemmed in stems.keys():
                 value += stems[stemmed]
             stems[stemmed] = value
+        # delete previous counts and add the stemmed/lemmatized versione
         del self.counts
         self.counts = Counter(stems)
 

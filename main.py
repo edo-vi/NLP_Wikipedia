@@ -10,7 +10,8 @@ from sklearn.linear_model import LogisticRegression
 from MyCounter import MyCounter
 from ids import __M_IDS__, __NON_M_IDS__
 import nltk
-nltk.download('punkt')
+
+nltk.download("punkt")
 nltk.download("stopwords")
 nltk.download("wordnet")
 
@@ -153,8 +154,8 @@ def predict_and_score(ids, labels, priors, m_doc, nm_doc):
     y = []
     for i in ids:
         likelihoods = [
-            make_bow(i).log_likelihood_document(m_doc),
-            make_bow(i).log_likelihood_document(nm_doc),
+            make_bow(i).log_likelihood_sum(m_doc),
+            make_bow(i).log_likelihood_sum(nm_doc),
         ]
 
         posteriors = []
@@ -267,7 +268,7 @@ def logistic_regressor(validation=False, plot=False):
     non_m_common = [a[0] for a in non_medical_mega_document.most_common(150)]
 
     common = m_common + non_m_common
-    
+
     make_dataset(
         "training", medical_training_set + non_medical_training_set, labels, common
     )
@@ -278,7 +279,7 @@ def logistic_regressor(validation=False, plot=False):
         labels,
         common,
     )
-    
+
     # print(common)
     training_data = pd.read_csv("./training_dataset.csv")
     test_data = pd.read_csv("./test_dataset.csv")
