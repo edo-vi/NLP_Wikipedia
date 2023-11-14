@@ -13,9 +13,13 @@ class MyCounter:
         self.counts = Counter(tokens)
         self.stemmer = EnglishStemmer()
         self.lemmatizer = WordNetLemmatizer()
+        self._other_class_V = -1
 
     def update(self, other_counter):
         self.counts = self.counts + other_counter.counts
+
+    def add_other_class_V(self, other_class_V):
+        self._other_class_V = other_class_V
 
     def most_common(self, n):
         return self.counts.most_common(n)
@@ -45,11 +49,15 @@ class MyCounter:
         return np.log(self.freq(word, laplace_correction=laplace_correction))
 
     def freq(self, word, laplace_correction=True):
+        assert self._other_class_V != -1
         n_w = self.counts[word]
+
+        # We don't add N of the other class to get the correct vocabulary N because it's still zero
         N = self.N()
 
         if laplace_correction:
-            return (n_w + 1) / (N + self.V())
+            # we add the other |V| to get the correct vocaulary size, see pag 63 of book
+            return (n_w + 1) / (N + self.V() + self._other_class_V)
         else:
             return (n_w) / N
 
