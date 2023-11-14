@@ -198,6 +198,11 @@ def naive_bayes():
     for nmi in non_medical_training_set:
         non_medical_mega_document.update(make_bow(nmi))
 
+    # We need to add cross-information inside the two mega-documents,
+    # to correctly compute the frequencies with Laplace smoothing (see book, page 63)
+    medical_mega_document.add_other_class_V(non_medical_mega_document.V())
+    non_medical_mega_document.add_other_class_V(medical_mega_document.V())
+
     ratio = len(medical_training_set) / (
         len(medical_training_set) + len(non_medical_training_set)
     )
