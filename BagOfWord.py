@@ -6,7 +6,8 @@ from nltk.stem import WordNetLemmatizer
 import re
 
 
-class MyCounter:
+# I.e. a Bag Of Word representation
+class BagOfWord:
     def __init__(self, tokens, stemmed=False) -> None:
         self._stemmed = stemmed
         tokens = [t.lower() for t in tokens]

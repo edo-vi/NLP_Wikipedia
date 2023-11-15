@@ -7,7 +7,7 @@ import re
 from sklearn.metrics import RocCurveDisplay, precision_score, recall_score, f1_score
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
-from MyCounter import MyCounter
+from BagOfWord import BagOfWord
 from ids import __M_IDS__, __NON_M_IDS__
 import nltk
 
@@ -143,7 +143,7 @@ def make_bow(id):
 
         # print(tokens)
 
-        counts = MyCounter(tokens)
+        counts = BagOfWord(tokens)
         counts_stopped = counts.remove_stopwords()
         counts_lemmatized = counts_stopped.lemmatize()
         return counts_lemmatized
@@ -188,12 +188,12 @@ def naive_bayes():
     # produce_documents(__NON_M_IDS__, "non_medicine")
     #
 
-    medical_mega_document = MyCounter({}, stemmed=True)
+    medical_mega_document = BagOfWord({}, stemmed=True)
 
     for mi in medical_training_set:
         medical_mega_document.update(make_bow(mi))
 
-    non_medical_mega_document = MyCounter({}, stemmed=True)
+    non_medical_mega_document = BagOfWord({}, stemmed=True)
 
     for nmi in non_medical_training_set:
         non_medical_mega_document.update(make_bow(nmi))
@@ -261,11 +261,11 @@ def logistic_regressor(validation=False, plot=False):
     # print(f"Non Medical: {len(non_medical_training_set)} + {len(non_medical_test_set)}")
 
     # Create mega document from training set only, not test set or validation set
-    medical_mega_document = MyCounter({}, stemmed=True)
+    medical_mega_document = BagOfWord({}, stemmed=True)
     for mi in medical_training_set:
         medical_mega_document.update(make_bow(mi))
 
-    non_medical_mega_document = MyCounter({}, stemmed=True)
+    non_medical_mega_document = BagOfWord({}, stemmed=True)
     for nmi in non_medical_training_set:
         non_medical_mega_document.update(make_bow(nmi))
 
